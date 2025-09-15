@@ -131,7 +131,7 @@
   "title_zh": "我们最受欢迎的18道高蛋白、高纤维晚餐食谱",
   "source": "EatingWell",
   "link": "https://www.eatingwell.com/popular-high-fiber-high-protein-dinner-recipes-11806525",
-  "tags": ["健康饮食", "高蛋白", "高纤维", "晚餐食谱"],
+  "tags": ["healthy eating", "high protein", "high fiber", "dinner recipes"],
   "tags_zh": ["健康饮食", "高蛋白", "高纤维", "晚餐食谱"],
   "date": "2025-09-14",
   "summary_en": "This article presents 18 popular dinner recipes that are both high in protein and fiber, featuring dishes like 'Marry Me White Bean & Spinach Skillet', 'Salmon Rice Bowl', and 'Sweet Potato-Black Bean Stuffed Peppers'. These recipes cater to various dietary preferences and are designed to support digestion and overall well-being.",
@@ -139,13 +139,13 @@
   "best_quote_en": "\"These recipes are not only easy to prepare but also cater to various dietary preferences, from vegetarian to gluten-free.\"",
   "best_quote_zh": "\"这些食谱不仅易于准备，还适应各种饮食偏好，从素食到无麸质。\""
 },
-  {
+{
   "id": 11,
   "title": "11 Anti-Inflammatory Lunch Recipes for Better Gut Health",
   "title_zh": "11道抗炎午餐食谱，促进肠道健康",
   "source": "EatingWell",
   "link": "https://www.eatingwell.com/anti-inflammatory-gut-healthy-lunch-recipes-11806651",
-  "tags": ["抗炎饮食", "肠道健康", "午餐食谱", "健康饮食"],
+  "tags": ["anti-inflammatory diet", "gut health", "lunch recipes", "healthy eating"],
   "tags_zh": ["抗炎饮食", "肠道健康", "午餐食谱", "健康饮食"],
   "date": "2025-09-14",
   "summary_en": "This article features 11 lunch recipes designed to reduce inflammation and promote gut health, including dishes like 'Marry Me White Bean Salad', 'Chickpea Grain Bowl with Feta & Tomatoes', and 'Turmeric Chicken & Avocado Wraps'. These meals incorporate ingredients known for their anti-inflammatory and digestive benefits.",
@@ -166,6 +166,20 @@
   "summary_zh": "本文介绍了 22 道基于地中海饮食的简易营养晚餐食谱，旨在减少炎症并支持整体健康。每道菜只需三步即可完成，非常适合忙碌的工作日晚餐。这些食谱采用抗炎食材，如绿叶蔬菜、全谷物、豆类、海鲜和健康脂肪，有助于缓解关节疼痛、消化问题和精神疲劳等症状。",
   "best_quote_en": "“These simple yet satisfying meals show how anti-inflammatory eating can be both delicious and easy to incorporate into everyday life.”",
   "best_quote_zh": "“这些简单却令人满足的餐点展示了抗炎饮食如何既美味又易于融入日常生活。”"
+},
+  {
+  "id": 13,
+  "title": "Is the Humanoid Robot Industry Ready for Its ChatGPT Moment?",
+  "title_zh": "类人机器人行业准备好迎接其 ChatGPT 时刻了吗？",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2025/09/15/is-the-humanoid-robot-industry-ready-for-its-chat-gpt-moment.html",
+  "tags": ["humanoid robots", "AI integration", "robotics industry", "technology innovation"],
+  "tags_zh": ["类人机器人", "人工智能整合", "机器人产业", "技术创新"],
+  "date": "2025-09-15",
+  "summary_en": "This article examines the current state of the humanoid robot industry and its readiness to achieve a breakthrough akin to ChatGPT's impact on AI. It discusses the challenges and advancements in integrating generative AI into humanoid robots, highlighting the efforts of companies like X Square Robot and Unitree Robotics in China. The article also explores the potential applications and future prospects of humanoid robots in various sectors.",
+  "summary_zh": "本文探讨了类人机器人行业的现状及其是否准备好实现类似 ChatGPT 对人工智能影响的突破。文章讨论了将生成式人工智能整合到类人机器人中的挑战与进展，重点介绍了中国 X Square Robot 和 Unitree Robotics 等公司的努力。还探讨了类人机器人在各个领域的潜在应用和未来前景。",
+  "best_quote_en": "\"The integration of generative AI into humanoid robots could mark a significant milestone, potentially revolutionizing industries and daily life.\"",
+  "best_quote_zh": "\"将生成式人工智能整合到类人机器人中可能标志着一个重要的里程碑，可能会彻底改变各个行业和日常生活。\""
 },
   {
   "id": 14,
