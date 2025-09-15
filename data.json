@@ -1,5 +1,47 @@
 [
   {
+  "id": 1,
+  "title": "How to Build a Robust Advanced Neural AI Agent with Stable Training, Adaptive Learning, and Intelligent Decision-Making",
+  "title_zh": "如何构建具备稳定训练、自适应学习与智能决策能力的高级神经AI代理",
+  "source": "MarkTechPost",
+  "link": "https://www.marktechpost.com/2025/09/13/how-to-build-a-robust-advanced-neural-ai-agent-with-stable-training-adaptive-learning-and-intelligent-decision-making/",
+  "tags": ["AI agents", "machine learning", "neural networks", "tutorials", "stability"],
+  "tags_zh": ["AI 代理", "机器学习", "神经网络", "教程", "稳定性"],
+  "date": "2025-09-13",
+  "summary_en": "This tutorial outlines how to design and implement a sophisticated neural AI agent that emphasizes training stability, adaptive learning mechanisms, and intelligent decision making. Key techniques include Xavier initialization, stable activations (leaky ReLU, tanh, sigmoid), gradient clipping, weight decay, early stopping, adaptive learning rates, experience replay, and reset mechanisms for instability. It is aimed at providing reliable performance across regression, classification-to-regression, and RL‑style tasks.",
+  "summary_zh": "这篇教程介绍了构建一个高级神经AI代理的方法，其重点在于训练稳定性、自适应学习机制与智能决策。核心技术包括 Xavier 初始化、稳定激活函数（leaky ReLU、tanh、sigmoid）、梯度裁剪、权重衰减、提前停止、自适应学习率、经验重放，以及在训练不稳定时的重置机制。目标是在回归、分类到回归转换以及强化学习式任务中实现可靠性能。",
+  "best_quote_en": "“We also add experience replay and exploratory decision‑making for agent‑like behavior, and resetting its parameters when instability thresholds are reached.”",
+  "best_quote_zh": "“我们还加入经验重放和探索性决策以实现代理式行为，并在到达不稳定阈值时重置其参数。”"
+  },
+  {
+  "id": 2,
+  "title": "The Rom‑Com Is Having an Identity Crisis",
+  "title_zh": "浪漫喜剧正在经历身份危机",
+  "source": "Marie Claire",
+  "link": "https://www.marieclaire.com/culture/movies/anti-romantic-comedy-movie-trend/",
+  "tags": ["film", "romantic comedy", "trends in movies", "genre subversion"],
+  "tags_zh": ["电影", "浪漫喜剧", "电影趋势", "类型颠覆"],
+  "date": "2025‑08‑04",
+  "summary_en": "This article examines a growing trend in romantic comedies where filmmakers are moving away from saccharine tropes and predictable happy endings in favour of darker, more realistic, and often sardonic perspectives on love and relationships. It highlights films such as *Oh, Hi!*, *Materialists*, *The Roses*, and *Splitsville* as examples of this shift. Directors are responding to audience fatigue with traditional rom‑com formulas, choosing genre blending, more cynicism, and emotionally messy material. Despite criticism and changes, the rom‑com genre persists—splintering into more subversive and more traditional forms to meet diverse audience expectations.",
+  "summary_zh": "本文探讨了浪漫喜剧中日益兴起的一种趋势：创作者正在远离甜腻套路和确定性“皆大欢喜”的结局，转而采用更黑暗、更现实、有时带讽刺意味的爱情与关系观。文中以《Oh, Hi!》、《Materialists》、《The Roses》和《Splitsville》等影片为例，说明这种转变。导演们在回应观众对传统浪漫喜剧公式的疲惫心理，倾向于混合类型、更强的怀疑主义，以及情感上的混乱。尽管遭受批评和变动，浪漫喜剧类型并未消亡——而是分裂为更具颠覆性和更传统的两个方向，以满足多元观众的期待。",
+  "best_quote_en": "“In search of the more grounded, the more searingly ‘real,’ filmmakers … have leaned on the sardonic, the sarcastic, and the skeptical that reflect their own less‑than‑ideal relationship experiences.”",
+  "best_quote_zh": "“在追求更真实、更扎心的情感体验时，电影制作人倾向于用讽刺、挖苦和怀疑，去反映自己那些并不理想的恋爱经历。”"
+}
+{
+  "id": 3,
+  "title": "Fashion Refuses to Outgrow Preppy Style, But Is That Such a Bad Thing?",
+  "title_zh": "时尚界拒绝放弃预科风，但这真的不好吗？",
+  "source": "Who What Wear",
+  "link": "https://www.whowhatwear.com/fashion/fall/history-of-preppy-fashion",
+  "tags": ["fashion", "preppy style", "trend history", "fall fashion", "style evolution"],
+  "tags_zh": ["时尚", "预科风", "趋势历史", "秋季时尚", "风格演变"],
+  "date": "2025-09-03",
+  "summary_en": "This article explores the enduring appeal of preppy fashion, tracing its evolution from British and Ivy League roots to its place in modern wardrobes. With staples like loafers, polos, and pleated skirts, preppy style has proven its staying power by subtly adapting over time. Cultural figures and designers continue to reinvent the look while staying true to its polished, understated core.",
+  "summary_zh": "本文探讨了预科风格的持久吸引力，从其源于英国与常春藤联盟的传统出发，追踪其在现代衣橱中的演变。乐福鞋、POLO衫、百褶裙等经典单品证明了这种风格通过细微调整保持活力。文化人物与设计师持续对其进行重塑，同时保留其简洁、优雅的本质。",
+  "best_quote_en": "“Preppy fashion in its most authentic form is not too dissimilar from the fashions she saw and wore herself as the nascent 21‑year‑old who penned the handbook.”",
+  "best_quote_zh": "“最真实的预科风，与她当年21岁时写手册时看到和穿着的风格并没有太大区别。”"
+},
+  {
   "id": 4,
   "title": "Tracking Employee Attendance: Are “Freeloaders” Slipping Through the Cracks?",
   "title_zh": "追踪员工考勤：那些“蹭班者”是不是被忽视了？",
@@ -12,5 +54,33 @@
   "summary_zh": "本文探讨了企业如何使用考勤追踪工具来监控员工出勤情况，并在“蹭班者”（那些付出最低努力或利用考勤系统漏洞的人）的问题上引发关于公平与隐私的讨论。文章论及运营效率与员工信任之间的权衡，以及持续监控带来的法律与伦理问题。",
   "best_quote_en": "“When attendance becomes a metric, not just a log, the line between oversight and intrusion blurs.”",
   "best_quote_zh": "“考勤成为衡量标准，而不仅仅是记录时，监管与侵入之间的界线就模糊了。”"
+},
+  {
+  "id": 5,
+  "title": "Vibe Coding Has Turned Senior Devs Into AI Babysitters—But They Say It's Worth It",
+  "title_zh": "“氛围编码”让高级开发者成了AI保姆——但他们说值得",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/",
+  "tags": ["technology", "AI", "software development", "engineering culture"],
+  "tags_zh": ["科技", "人工智能", "软件开发", "工程师文化"],
+  "date": "2025-09-14",
+  "summary_en": "This article explores the rise of 'vibe coding,' where AI tools handle routine development tasks, shifting senior developers' roles toward oversight, debugging, and refining AI output. While some liken it to AI babysitting, many engineers embrace the change, citing improved productivity and creative freedom. The piece examines the balance between automation and human expertise in modern software teams.",
+  "summary_zh": "本文探讨了“氛围编码”的兴起，在这种模式下，AI工具负责日常开发任务，而高级开发者的角色则转向监督、调试和优化AI输出。尽管有人将其比作“照看AI”，但许多工程师对此表示欢迎，认为这提高了生产力并释放了创造力。文章分析了现代软件团队中自动化与人类专业知识之间的平衡。",
+  "best_quote_en": "“At first I felt like an AI babysitter, but now I see it as mentoring a tireless junior dev who never sleeps.”",
+  "best_quote_zh": "“一开始我觉得自己像在照看AI，但现在我更像是在指导一个永不疲倦的初级程序员。”"
+},
+{
+  "id": 6,
+  "title": "Meet the 11-Year-Old Whose Code Was Adopted by a Gaming Giant",
+  "title_zh": "认识那位代码被著名游戏公司采纳的11岁少年",
+  "source": "The New Stack",
+  "link": "https://thenewstack.io/meet-the-11-year-old-whose-code-was-adopted-by-a-gaming-giant/",
+  "tags": ["young coder", "open source", "gaming", "education", "inspiration"],
+  "tags_zh": ["少年程序员", "开源", "游戏", "教育", "励志"],
+  "date": "2025-09-14",
+  "summary_en": "This article shares the story of Damir Buldakov, an 11-year-old from Vietnam whose Scratch plugin was officially adopted by the gaming platform Playgama, which has over 300 million monthly users. His 931-line contribution is now part of the Playgama Bridge SDK, allowing young developers to connect Scratch projects with the wider gaming network. The piece highlights his self-taught journey using online tools, as well as the community and corporate support that empowered his early success.",
+  "summary_zh": "本文讲述了来自越南的11岁少年Damir Buldakov的故事。他开发的Scratch插件被月活超过3亿的游戏平台Playgama正式采纳，成为Playgama Bridge SDK的一部分（共931行代码），使年轻开发者可以将Scratch项目接入更广阔的游戏网络。文章强调了他通过在线资源自学编程的历程，以及社区和企业对他早期成功的支持。",
+  "best_quote_en": "Age doesn’t mean anything. What really matters is knowledge.",
+  "best_quote_zh": "年龄不代表什么，真正重要的是知识。"
 }
-]
+  ]
