@@ -1,5 +1,18 @@
 [
- 
+ {
+  "id": 1,
+  "title": "Bland, easy to follow, for fans of everything: what has the Netflix algorithm done to our films?",
+  "title_zh": "平淡易懂，为全体观众：Netflix的算法到底对我们的电影做了什么？",
+  "source": "The Guardian",
+  "link": "https://www.theguardian.com/media/2025/aug/28/bland-easy-to-follow-for-fans-of-everything-what-has-the-netflix-algorithm-done-to-our-films",
+  "tags": ["streaming", "Netflix", "film industry", "algorithm", "data-driven content", "aesthetic design", "AI"],
+  "tags_zh": ["流媒体", "Netflix", "电影产业", "算法", "数据驱动内容", "审美设计", "人工智能"],
+  "date": "2025‑08‑28",
+  "summary_en": "The article critiques how Netflix’s algorithm-led model has created 'algorithm movies'—broad, simple, visually flat content optimized for background viewing. It traces the shift from experimental, auteur-driven films to mass-appeal productions shaped by data, and raises concerns about cultural flattening and reliance on AI.",
+  "summary_zh": "文章批评 Netflix 的算法主导模式如何催生出“算法电影”——迎合大众、简单叙事、视觉平淡的背景播放型内容。它回顾了 Netflix 从支持作者电影转向数据塑造的大众作品的过程，并提出文化趋同和依赖人工智能的担忧。",
+  "best_quote_en": "\"Algorithm movies usually exhibit easy-to-follow story beats that leave no viewer behind; under this regime, exposition is no longer a screenwriting faux pas.\"",
+  "best_quote_zh": "“算法电影通常具有易于理解的剧情节奏，不会让任何观众落后；在这种制度下，解释性叙述已不再是剧本写作的忌讳。”"
+},
   {
     "id": 2,
     "title": "The Rom‑Com Is Having an Identity Crisis",
@@ -83,7 +96,117 @@
     "summary_zh": "本文报告了 2025 年 Global Citizen Solutions 指数中关于退休签证与被动收入项目的排名。重点包括那些生活成本低、公共服务强、签证政策友好且生活质量高的国家，如葡萄牙、西班牙和马来西亚等。",
     "best_quote_en": "\"The Americas dominate the availability of digital nomad retirement visas and then Europe. They have a very high quality of life that's above average,\" Dr. Laura Madrid Sartoretto, Research Lead at GCS’ Global Intelligence Unit, tells CNBC Make It.",
     "best_quote_zh": "“美洲在数字游民退休签证的可获得性方面占主导，其次是欧洲。它们的生活质量远高于平均水平，”Global Citizen Solutions 全球情报部研究负责人 Laura Madrid Sartoretto 告诉 CNBC Make It。"
-  }
- 
-
+  },
+ {
+  "id": 8,
+  "title": "Museum of Color",
+  "title_zh": "色彩博物馆",
+  "source": "Emergence Magazine",
+  "link": "https://emergencemagazine.org/essay/museum-of-color/?src=longreads",
+  "tags": ["pigment history","color","art and ecology","material culture","colonialism","science","toxicity"],
+  "tags_zh": ["颜料史","色彩","艺术与生态","物质文化","殖民主义","科学","毒性"],
+  "date": "2025‑08‑28",
+  "summary_en": "In *Museum of Color*, Stephanie Krzywonos traces the histories, cultural meanings, and ecological costs of pigments from ochre to Vantablack. She shows how each color embodies layers of human labor, colonial extraction, environmental harm, and aesthetic value. The essay examines prehistoric cave paintings, the processing of dangerous minerals, commercial exploitation, synthetic innovations, and also the racial and political dimensions of whose colors have been valued or suppressed.",
+  "summary_zh": "在《色彩博物馆》中，Stephanie Krzywonos 追溯从赭石到 Vantablack 的颜料历史、文化意义与生态代价。她展示了每种颜色都凝聚了人类劳动、殖民掠夺、环境破坏与审美价值的层叠。文章考察史前洞穴壁画、有毒矿物颜料的加工、商业剥削、合成技术的创新，以及哪些颜色被重视或压制的种族与政治维度。",
+  "best_quote_en": "\"From ochre to lapis lazuli, Stephanie Krzywonos opens a door into the entangled histories of our most iconic pigments, revealing how colors hold stories of both lightness and darkness.\"",
+  "best_quote_zh": "“从赭石到天青石，Stephanie Krzywonos 打开了一扇通往我们最具标志性颜料纠缠历史的门，揭示色彩中既有光明也有黑暗的故事。”"
+},
+ {
+  "id": 9,
+  "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
+  "title_zh": "人工智能并不是将要到来好莱坞，它已经来了",
+  "source": "WIRED",
+  "link": "https://www.wired.com/story/artificial-intelligence-hollywood-stability/?src=longreads",
+  "tags": ["AI in media", "Stability AI", "Hollywood", "generative tools", "VFX", "previz", "copyright", "labor concerns"],
+  "tags_zh": ["媒体中的 AI", "Stability AI", "好莱坞", "生成式工具", "视觉特效", "预视化", "版权问题", "劳动关切"],
+  "date": "2025‑08‑20",
+  "summary_en": "The article describes the transformation already underway in Hollywood thanks to generative AI, with Stability AI repositioning itself under new leadership (Prem Akkaraju as CEO, Sean Parker as chairman) to focus on building tools for filmmakers rather than chasing frontier, large‑scale models. It highlights how AI is being used in pre‑visualization, effects, editing and cost‑saving workflows; discusses challenges such as consistency, control, resolution, and licensing/training data; and addresses how studios and unions are responding. The piece also notes early uses of AI in final footage, the debt and leadership crises Stability AI faced, and how industry players are exploring AI as augmentative rather than fully replacement tools.",
+  "summary_zh": "这篇文章描述了生成式人工智能在好莱坞中已展开的变革，Stability AI 在新领导层（Prem Akkaraju 任 CEO，Sean Parker 任主席）的带领下转型，从追求最前沿的大模型，变为专注为电影制作人构建实用工具。文中强调 AI 在预视化、特效、剪辑和成本节约流程中的应用；探讨一致性、可控性、分辨率、版权与训练数据等挑战；讨论制片厂和工会的应对方式。文章还提到 AI 在最终影像中的早期使用，Stability AI 所经历的债务与领导危机，以及业界如何将 AI 视作辅助工具，而非完全的替代。",
+  "best_quote_en": "\"It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology.\"",
+  "best_quote_zh": "“这件事实际上关于我和 Sean 的加入，提供方向、提供领导力，并真正抓住我们所说的三大要素：时机、团队与技术。”"
+},
+ {
+  "id": 10,
+  "title": "What’s so great about Britain? 14 very modern icons on the state of the nation",
+  "title_zh": "英国有何可骄傲？14 位现代象征论当下国家状态",
+  "source": "GQ UK",
+  "link": "https://www.gq-magazine.co.uk/article/the-state-of-the-nation-october-cover-story-2025?src=longreads",
+  "tags": ["British identity", "modern icons", "culture", "diversity", "inequality", "politics", "national pride"],
+  "tags_zh": ["英国身份", "现代象征", "文化", "多样性", "不平等", "政治", "国家自豪感"],
+  "date": "2025‑09‑15",
+  "summary_en": "This cover story gathers reflections from fourteen modern British figures — from athletes, actors, to artists — on what Britain means in 2025. They discuss both pride and disillusion: what’s remarkable about British identity (community, cultural exports, humour, creative diversity) and what’s failing (inequality, class divide, media problems, political division). The essays consider what people miss about Britain when abroad, what embarrasses them, what gives them hope, and what they would change if they could — touching on institutions such as NHS, the monarchy, free speech, and the creative industries.",
+  "summary_zh": "这篇封面故事汇集十四位现代英国人物（运动员、演员、艺术家等）对于 2025 年英国意味着什么的反思。他们既表达骄傲也表达失望：英国身份的可贵之处（社区、文化输出、幽默、创意多样性）与其不足（不平等、阶级分裂、媒体问题、政治对立）。文章讨论人在他乡怀念英国什么，让人尴尬的是什么，什么让他们有希望，以及如果可以改变的话他们会怎样做 — 涉及 NHS、君主制、言论自由与创意产业等机构。",
+  "best_quote_en": "\"We’ve shown time and time again, especially in working‑class communities, that we thrive when we join together and we celebrate our different cultures.\"",
+  "best_quote_zh": "“我们一次又一次地证明，尤其是在工人阶级社区，当我们联合起来并庆祝我们不同的文化时，我们会茁壮成长。”"
+},
+ {
+  "id": 11,
+  "title": "A 25‑Year‑Old CEO Shares 9 Career Secrets Every Young Person Should Know",
+  "title_zh": "一位25岁CEO分享每个年轻人都该知道的九个职业秘诀",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2016/09/23/a-25-year-old-ceo-shares-9-career-secrets-every-young-person-should-know.html",
+  "tags": ["career advice","young leadership","mentorship","resilience","personal brand"],
+  "tags_zh": ["职业建议","青年领导力","导师制度","韧性","个人品牌"],
+  "date": "2016‑09‑23",
+  "summary_en": "Brian Wong, CEO and co‑founder of Kiip, shares nine key lessons for young people to accelerate their career. Highlights include separating personal stress from work, facing fears, knowing your strengths, stopping comparison with others, and the importance of presentation and getting out into the world. Wong emphasizes mindset over external circumstances. :contentReference[oaicite:1]{index=1}",
+  "summary_zh": "Kiip 的 CEO 联合创始人 Brian Wong 分享了九条加速职业成长的关键经验，包括将私人压力与工作分开、直面恐惧、了解自身优势、停止与他人比较、重视展示形象并走出舒适区。他强调心态比外部环境更重要。 :contentReference[oaicite:2]{index=2}",
+  "best_quote_en": "\"Your goal should be to get people to invest in you, not your project.\" :contentReference[oaicite:3]{index=3}",
+  "best_quote_zh": "“你的目标应该是让人们投资于你，而不是仅仅投资于你的项目。”"
+},
+ {
+  "id": 12,
+  "title": "Solo travel for women: Tips for vacationing alone",
+  "title_zh": "女性独自旅行：单独度假的建议",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2025/09/15/solo-travel-for-women-tips-for-vacationing-alone.html",
+  "tags": ["solo travel", "women travelers", "travel tips", "safety", "cultural respect", "self-discovery"],
+  "tags_zh": ["独自旅行", "女性旅行者", "旅行建议", "安全", "文化尊重", "自我发现"],
+  "date": "2025‑09‑15",
+  "summary_en": "Lucy Handley shares insights from her solo travels in India, Vietnam, Sri Lanka, and the U.S., offering practical advice for women traveling alone. She emphasizes cultural respect, such as dressing modestly in Kerala, India, and balancing group tours with independent exploration. Handley highlights activities like yoga classes and staying in accommodations with group activities to foster connections. She also discusses safety precautions, including sharing itineraries with family, using cross-body purses, and trusting one's intuition. Her experiences underscore the empowerment and personal growth that come with solo travel.",
+  "summary_zh": "Lucy Handley 分享了她在印度、越南、斯里兰卡和美国的独自旅行经历，为女性独自旅行者提供实用建议。她强调文化尊重，如在印度喀拉拉邦穿着得体，以及将团体旅游与独立探索相结合。Handley 强调了参加瑜伽课程和入住提供团体活动的住宿，以促进社交。她还讨论了安全预防措施，包括与家人分享行程、使用斜挎包以及相信自己的直觉。她的经历凸显了独自旅行带来的赋权和个人成长。",
+  "best_quote_en": "\"I reveled in waking up solo and being able to choose exactly what I wanted to do each day.\"",
+  "best_quote_zh": "\"我陶醉于每天早晨独自醒来，能够完全按照自己的意愿安排一天的活动。\""
+},
+ {
+  "id": 13,
+  "title": "‘If there’s nowhere else to go, this is where they come’: how Britain’s libraries provide much more than books",
+  "title_zh": "“如果无处可去，他们就来这里”：英国的图书馆提供的不只是书籍",
+  "source": "The Guardian",
+  "link": "https://www.theguardian.com/news/article/2024/jun/25/how-britains-libraries-provide-more-than-books",
+  "tags": ["library services", "public libraries", "community hub", "social care", "literacy", "digital inclusion"],
+  "tags_zh": ["图书馆服务", "公共图书馆", "社区中心", "社会关怀", "读写能力", "数字包容"],
+  "date": "2024-06-25",
+  "summary_en": "The article explores how public libraries in Britain, such as Battle library in Reading, have evolved into vital community hubs offering far more than just books. Libraries now act as informal advice centres, mental health support spaces, help with digital tasks, and social spaces hosting activities like playgroups and literacy classes. They even lend non-book items like footballs and coats. Despite funding challenges, library staff remain committed to making libraries inclusive and welcoming for all.",
+  "summary_zh": "文章探讨英国公共图书馆（以雷丁的 Battle 图书馆为例）如何演变为重要的社区中心，提供远不止借书的服务。图书馆如今作为非正式咨询中心、心理健康支持场所，帮助处理数字事务，举办游戏小组和读写课程，甚至借出足球和冬衣等非书籍物品。尽管资金紧张，工作人员依然致力于使图书馆包容且欢迎所有人。",
+  "best_quote_en": "\"The average public library is not only a provider of the latest Anne Enright or Julia Donaldson: it is now an informal citizens advice bureau, a business development centre, a community centre and a mental health provider.\"",
+  "best_quote_zh": "“普通公共图书馆不仅仅提供最新的 Anne Enright 或 Julia Donaldson 的书籍：它如今还扮演着非正式公民咨询局、商业发展中心、社区中心与心理健康提供者的角色。”"
+},
+ {
+  "id": 14,
+  "title": "‘You tried to tell yourself I wasn’t real’: what happens when people with acute psychosis meet the voices in their heads?",
+  "title_zh": "“你试图告诉自己我不真实”：当急性精神病患者面对脑中声音时发生了什么？",
+  "source": "The Guardian",
+  "link": "https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry",
+  "tags": ["avatar therapy", "acute psychosis", "mental health", "hallucinations", "psychotherapy", "digital health"],
+  "tags_zh": ["虚拟形象疗法", "急性精神病", "心理健康", "幻听", "心理治疗", "数字健康"],
+  "date": "2024-10-29",
+  "summary_en": "The article explores the innovative use of avatar therapy in treating individuals with acute psychosis who experience auditory hallucinations. Patients engage in dialogue with digital avatars representing their inner voices, guided by therapists. This approach has shown promising results in reducing the frequency and distress of hallucinations, offering a potential alternative to traditional pharmacological treatments.",
+  "summary_zh": "本文探讨了在治疗患有急性精神病并经历听觉幻觉的个体中，创新性地使用虚拟形象疗法。患者在治疗师的指导下，与代表其内心声音的数字虚拟形象进行对话。这种方法在减少幻觉的频率和困扰方面显示出良好的效果，为传统药物治疗提供了潜在的替代方案。",
+  "best_quote_en": "\"It was liberating just to talk to Tom [Ward] about it, because I didn’t speak to anyone else,\" Joe told me over coffee in south London. He still had the imposing presence of a rugby player, but he was so softly spoken that I had to strain to hear him talk over the hubbub of the cafe.",
+  "best_quote_zh": "“只是跟汤姆（Ward）谈论它就让我感到解脱，因为我没有跟其他人说过，”乔在伦敦南部喝咖啡时告诉我。他依然有橄榄球运动员的威严，但说话非常轻柔，我不得不费力听清他在咖啡馆的嘈杂声中说话。"
+},
+{
+  "id": 16,
+  "title": "Current applications and future directions in natural language processing for news media and mental health",
+  "title_zh": "新闻媒体与心理健康中的自然语言处理的当前应用与未来方向",
+  "source": "Scientific Reports",
+  "link": "https://www.nature.com/articles/s41598-025-18413-z",
+  "tags": ["natural language processing", "mental health", "news media", "sentiment analysis", "bias detection", "public health"],
+  "tags_zh": ["自然语言处理", "心理健康", "新闻媒体", "情感分析", "偏见检测", "公共卫生"],
+  "date": "2025-09-15",
+  "summary_en": "This study examines the application of Natural Language Processing (NLP) techniques in analyzing the representation of mental health in news media. It highlights the challenges and limitations of current NLP methods, such as sentiment analysis and topic modeling, in capturing the nuances of mental health discourse. The study proposes ten recommendations for developing specialized NLP approaches to improve the accuracy and effectiveness of mental health news analysis.",
+  "summary_zh": "本研究探讨了自然语言处理（NLP）技术在分析新闻媒体中心理健康表现方面的应用。研究强调了当前NLP方法（如情感分析和主题建模）在捕捉心理健康话语细微差异方面的挑战和局限性。研究提出了十项建议，旨在开发专门的NLP方法，以提高心理健康新闻分析的准确性和有效性。",
+  "best_quote_en": "\"Our findings underscore the need for specialized NLP techniques in mental health news analysis.\"",
+  "best_quote_zh": "\"我们的研究结果强调了在心理健康新闻分析中需要专门的自然语言处理技术。\""
+}
   ]
