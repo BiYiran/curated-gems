@@ -308,14 +308,15 @@ function applyAndRender() {
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
 
   // 应用搜索筛选
-  const searchTerm = searchEl?.value?.toLowerCase().trim();
-  if (searchTerm) {
-    filtered = filtered.filter(item => {
-      const title = (item.title || '').toLowerCase();
-      const summary = (item.summary || '').toLowerCase();
-      return title.includes(searchTerm) || summary.includes(searchTerm);
-    });
-  }
+const searchTerm = searchEl?.value?.toLowerCase().trim();
+if (searchTerm) {
+  filtered = filtered.filter(item => {
+    const title = (lang === 'zh' ? (item.title_zh || item.title) : (item.title || '')).toLowerCase();
+    const summary = (lang === 'zh' ? (item.summary_zh || '') : (item.summary_en || '')).toLowerCase();
+    return title.includes(searchTerm) || summary.includes(searchTerm);
+  });
+}
+
 
   // 应用标签筛选
   if (!activeTags.has('all')) {
@@ -418,36 +419,35 @@ function getTagStats(list) {
 function renderTags(list) {
   const lang = window.currentLang || 'zh';
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
+  
+  // 收集所有标签
   const allTags = [...new Set(list.flatMap(item => item[tagsField] || item.tags || []))];
   
-  // 统计每个标签的使用次数
-  // TODO: 学员任务 - 实现标签统计功能
-  // 提示：需要统计每个标签在当前列表中的使用次数
-  // 参考格式：const tagCounts = {};
+  // 统计标签使用次数
   const tagCounts = {};
-list.forEach(item => {
-  const itemTags = item[tagsField] || item.tags || [];
-  itemTags.forEach(tag => {
-    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+  list.forEach(item => {
+    const itemTags = item[tagsField] || item.tags || [];
+    itemTags.forEach(tag => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
   });
-});
   
   // 添加"全部"选项
   const allText = lang === 'zh' ? '全部' : 'All';
   const tags = [allText, ...allTags];
   
-  // TODO: 学员任务 - 实现标签数量显示功能
-  // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
-    // TODO: 在这里添加标签数量显示逻辑
     const count = isAll ? list.length : (tagCounts[t] || 0);
+    
     return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
-  ${esc(t)} <span class="tag-count">(${count})</span>
-</span>`;
+      ${esc(t)} <span class="tag-count">(${count})</span>
+    </span>`;
+  }).join('');
 }
+
 
 // 清除所有标签筛选
 function clearAllTags() {
