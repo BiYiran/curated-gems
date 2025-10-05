@@ -1,12 +1,24 @@
 [
-   {
+  {
     "id": 1,
     "title": "How Streaming Algorithms Are Shaping Modern Entertainment",
     "title_zh": "流媒体算法如何塑造现代娱乐",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2025/aug/28/streaming-algorithms-entertainment",
-    "tags": ["streaming", "algorithm", "media", "content trends", "AI"],
-    "tags_zh": ["流媒体", "算法", "媒体", "内容趋势", "人工智能"],
+    "tags": [
+      "streaming",
+      "algorithm",
+      "media",
+      "content trends",
+      "AI"
+    ],
+    "tags_zh": [
+      "流媒体",
+      "算法",
+      "媒体",
+      "内容趋势",
+      "人工智能"
+    ],
     "date": "2025-08-28",
     "summary_en": "The article examines how streaming platforms use algorithms to influence content creation, resulting in simplified, widely appealing productions. It discusses the shift from experimental works to data-driven entertainment and considers the cultural and creative implications.",
     "summary_zh": "文章探讨流媒体平台如何通过算法影响内容创作，导致简单、广受欢迎的作品产生。文章讨论了从实验性作品到数据驱动娱乐的转变，并考虑其文化和创意影响。",
@@ -19,8 +31,18 @@
     "title_zh": "流行电影类型的身份演变",
     "source": "Marie Claire",
     "link": "https://www.marieclaire.com/culture/movies/genre-evolution",
-    "tags": ["film genre", "audience trends", "storytelling", "cultural shifts"],
-    "tags_zh": ["电影类型", "观众趋势", "叙事", "文化变化"],
+    "tags": [
+      "film genre",
+      "audience trends",
+      "storytelling",
+      "cultural shifts"
+    ],
+    "tags_zh": [
+      "电影类型",
+      "观众趋势",
+      "叙事",
+      "文化变化"
+    ],
     "date": "2025-08-04",
     "summary_en": "This article explores how popular film genres are adapting to changing audience expectations, incorporating realism, nuance, and complexity over traditional formulas.",
     "summary_zh": "本文探讨流行电影类型如何适应观众期待的变化，逐渐融入真实感、细腻性和复杂性，而非传统公式化。",
@@ -33,8 +55,18 @@
     "title_zh": "为何某些时尚风格经久不衰",
     "source": "Who What Wear",
     "link": "https://www.whowhatwear.com/fashion/enduring-styles",
-    "tags": ["fashion trends", "style evolution", "cultural influence", "aesthetics"],
-    "tags_zh": ["时尚趋势", "风格演变", "文化影响", "美学"],
+    "tags": [
+      "fashion trends",
+      "style evolution",
+      "cultural influence",
+      "aesthetics"
+    ],
+    "tags_zh": [
+      "时尚趋势",
+      "风格演变",
+      "文化影响",
+      "美学"
+    ],
     "date": "2025-09-03",
     "summary_en": "The piece looks at how specific fashion styles remain influential over decades by evolving subtly while retaining core design elements, demonstrating continuity amid changing trends.",
     "summary_zh": "文章分析某些时尚风格如何通过细微演变保持影响力，同时保留核心设计元素，展现趋势变化中的连续性。",
@@ -47,8 +79,20 @@
     "title_zh": "员工出勤监控：监管与信任的平衡",
     "source": "Yahoo Finance",
     "link": "https://news.yahoo.com/news/business/employee-monitoring",
-    "tags": ["workplace", "employee tracking", "privacy", "productivity", "management"],
-    "tags_zh": ["职场", "员工监控", "隐私", "生产力", "管理"],
+    "tags": [
+      "workplace",
+      "employee tracking",
+      "privacy",
+      "productivity",
+      "management"
+    ],
+    "tags_zh": [
+      "职场",
+      "员工监控",
+      "隐私",
+      "生产力",
+      "管理"
+    ],
     "date": "2025-09-14",
     "summary_en": "Examines workplace monitoring tools aimed at enforcing attendance, highlighting the trade-offs between productivity, trust, and legal or ethical concerns.",
     "summary_zh": "探讨旨在强制执行出勤的职场监控工具，强调生产力、信任与法律或伦理问题之间的权衡。",
@@ -61,22 +105,46 @@
     "title_zh": "开发者应对 AI 生成的工作流程",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2025/09/developers-ai-workflow",
-    "tags": ["software development", "AI", "automation", "workflow", "human oversight"],
-    "tags_zh": ["软件开发", "人工智能", "自动化", "工作流程", "人工监督"],
+    "tags": [
+      "software development",
+      "AI",
+      "automation",
+      "workflow",
+      "human oversight"
+    ],
+    "tags_zh": [
+      "软件开发",
+      "人工智能",
+      "自动化",
+      "工作流程",
+      "人工监督"
+    ],
     "date": "2025-09-14",
     "summary_en": "The article describes how software developers increasingly supervise AI-generated code, balancing speed and creativity with oversight and quality assurance.",
     "summary_zh": "文章描述软件开发者如何越来越多地监督 AI 生成的代码，在速度与创意之间保持监督和质量保障的平衡。",
     "best_quote_en": "\"Human judgment remains essential, even when AI speeds up coding.\"",
     "best_quote_zh": "“即便 AI 提速编码，人类判断仍不可或缺。”"
   },
- {
+  {
     "id": 6,
     "title": "Meet the 11‑Year‑Old Whose Code Was Adopted by a Gaming Giant",
     "title_zh": "认识那位代码被著名游戏公司采纳的11岁少年",
     "source": "The New Stack",
     "link": "https://thenewstack.io/meet-the-11-year-old-whose-code-was-adopted-by-a-gaming-giant/",
-    "tags": ["young coder", "open source", "gaming", "education", "inspiration"],
-    "tags_zh": ["少年程序员", "开源", "游戏", "教育", "励志"],
+    "tags": [
+      "young coder",
+      "open source",
+      "gaming",
+      "education",
+      "inspiration"
+    ],
+    "tags_zh": [
+      "少年程序员",
+      "开源",
+      "游戏",
+      "教育",
+      "励志"
+    ],
     "date": "2025‑09‑14",
     "summary_en": "This article shares the story of Damir Buldakov, an 11‑year‑old from Vietnam whose Scratch plugin was adopted by Playgama (300M+ users). His 931‑line contribution became part of the Playgama Bridge SDK, enabling young Scratch developers to connect to a global gaming network. The article highlights his self‑learning through SoloLearn, YouTube, and forums, plus support from community and company.",
     "summary_zh": "本文讲述越南11 岁少年Damir Buldakov 的故事。他开发的 Scratch 插件被月活超 3 亿的游戏平台 Playgama 采纳，成为 Playgama Bridge SDK 的一部分，使年轻的 Scratch 开发者能连接全球游戏平台。文中强调他通过 SoloLearn、YouTube 和论坛自学，以及社区和公司的支持。",
@@ -89,64 +157,136 @@
     "title_zh": "根据全球公民解决方案报告，最佳退休移居国家",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2025/09/14/best-countries-retire-abroad-global-citizen-solutions-report.html",
-    "tags": ["retirement", "expat living", "travel", "financial planning", "quality of life"],
-    "tags_zh": ["退休", "海外生活", "旅行", "财务规划", "生活质量"],
+    "tags": [
+      "retirement",
+      "expat living",
+      "travel",
+      "financial planning",
+      "quality of life"
+    ],
+    "tags_zh": [
+      "退休",
+      "海外生活",
+      "旅行",
+      "财务规划",
+      "生活质量"
+    ],
     "date": "2025‑09‑14",
     "summary_en": "This article reports on the 2025 Global Citizen Solutions index ranking retirement visa and passive income programs. Highlights include countries that balance affordable living, strong public services, visa accessibility, and high quality of life — Portugal, Spain, Malaysia among them.",
     "summary_zh": "本文报告了 2025 年 Global Citizen Solutions 指数中关于退休签证与被动收入项目的排名。重点包括那些生活成本低、公共服务强、签证政策友好且生活质量高的国家，如葡萄牙、西班牙和马来西亚等。",
     "best_quote_en": "\"The Americas dominate the availability of digital nomad retirement visas and then Europe. They have a very high quality of life that's above average,\" Dr. Laura Madrid Sartoretto, Research Lead at GCS’ Global Intelligence Unit, tells CNBC Make It.",
     "best_quote_zh": "“美洲在数字游民退休签证的可获得性方面占主导，其次是欧洲。它们的生活质量远高于平均水平，”Global Citizen Solutions 全球情报部研究负责人 Laura Madrid Sartoretto 告诉 CNBC Make It。"
   },
- {
-  "id": 8,
-  "title": "Museum of Color",
-  "title_zh": "色彩博物馆",
-  "source": "Emergence Magazine",
-  "link": "https://emergencemagazine.org/essay/museum-of-color/?src=longreads",
-  "tags": ["pigment history","color","art and ecology","material culture","colonialism","science","toxicity"],
-  "tags_zh": ["颜料史","色彩","艺术与生态","物质文化","殖民主义","科学","毒性"],
-  "date": "2025‑08‑28",
-  "summary_en": "In *Museum of Color*, Stephanie Krzywonos traces the histories, cultural meanings, and ecological costs of pigments from ochre to Vantablack. She shows how each color embodies layers of human labor, colonial extraction, environmental harm, and aesthetic value. The essay examines prehistoric cave paintings, the processing of dangerous minerals, commercial exploitation, synthetic innovations, and also the racial and political dimensions of whose colors have been valued or suppressed.",
-  "summary_zh": "在《色彩博物馆》中，Stephanie Krzywonos 追溯从赭石到 Vantablack 的颜料历史、文化意义与生态代价。她展示了每种颜色都凝聚了人类劳动、殖民掠夺、环境破坏与审美价值的层叠。文章考察史前洞穴壁画、有毒矿物颜料的加工、商业剥削、合成技术的创新，以及哪些颜色被重视或压制的种族与政治维度。",
-  "best_quote_en": "\"From ochre to lapis lazuli, Stephanie Krzywonos opens a door into the entangled histories of our most iconic pigments, revealing how colors hold stories of both lightness and darkness.\"",
-  "best_quote_zh": "“从赭石到天青石，Stephanie Krzywonos 打开了一扇通往我们最具标志性颜料纠缠历史的门，揭示色彩中既有光明也有黑暗的故事。”"
-},
- {
-  "id": 9,
-  "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
-  "title_zh": "人工智能并不是将要到来好莱坞，它已经来了",
-  "source": "WIRED",
-  "link": "https://www.wired.com/story/artificial-intelligence-hollywood-stability/?src=longreads",
-  "tags": ["AI in media", "Stability AI", "Hollywood", "generative tools", "VFX", "previz", "copyright", "labor concerns"],
-  "tags_zh": ["媒体中的 AI", "Stability AI", "好莱坞", "生成式工具", "视觉特效", "预视化", "版权问题", "劳动关切"],
-  "date": "2025‑08‑20",
-  "summary_en": "The article describes the transformation already underway in Hollywood thanks to generative AI, with Stability AI repositioning itself under new leadership (Prem Akkaraju as CEO, Sean Parker as chairman) to focus on building tools for filmmakers rather than chasing frontier, large‑scale models. It highlights how AI is being used in pre‑visualization, effects, editing and cost‑saving workflows; discusses challenges such as consistency, control, resolution, and licensing/training data; and addresses how studios and unions are responding. The piece also notes early uses of AI in final footage, the debt and leadership crises Stability AI faced, and how industry players are exploring AI as augmentative rather than fully replacement tools.",
-  "summary_zh": "这篇文章描述了生成式人工智能在好莱坞中已展开的变革，Stability AI 在新领导层（Prem Akkaraju 任 CEO，Sean Parker 任主席）的带领下转型，从追求最前沿的大模型，变为专注为电影制作人构建实用工具。文中强调 AI 在预视化、特效、剪辑和成本节约流程中的应用；探讨一致性、可控性、分辨率、版权与训练数据等挑战；讨论制片厂和工会的应对方式。文章还提到 AI 在最终影像中的早期使用，Stability AI 所经历的债务与领导危机，以及业界如何将 AI 视作辅助工具，而非完全的替代。",
-  "best_quote_en": "\"It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology.\"",
-  "best_quote_zh": "“这件事实际上关于我和 Sean 的加入，提供方向、提供领导力，并真正抓住我们所说的三大要素：时机、团队与技术。”"
-},
- {
-  "id": 10,
-  "title": "What’s so great about Britain? 14 very modern icons on the state of the nation",
-  "title_zh": "英国有何可骄傲？14 位现代象征论当下国家状态",
-  "source": "GQ UK",
-  "link": "https://www.gq-magazine.co.uk/article/the-state-of-the-nation-october-cover-story-2025?src=longreads",
-  "tags": ["British identity", "modern icons", "culture", "diversity", "inequality", "politics", "national pride"],
-  "tags_zh": ["英国身份", "现代象征", "文化", "多样性", "不平等", "政治", "国家自豪感"],
-  "date": "2025‑09‑15",
-  "summary_en": "This cover story gathers reflections from fourteen modern British figures — from athletes, actors, to artists — on what Britain means in 2025. They discuss both pride and disillusion: what’s remarkable about British identity (community, cultural exports, humour, creative diversity) and what’s failing (inequality, class divide, media problems, political division). The essays consider what people miss about Britain when abroad, what embarrasses them, what gives them hope, and what they would change if they could — touching on institutions such as NHS, the monarchy, free speech, and the creative industries.",
-  "summary_zh": "这篇封面故事汇集十四位现代英国人物（运动员、演员、艺术家等）对于 2025 年英国意味着什么的反思。他们既表达骄傲也表达失望：英国身份的可贵之处（社区、文化输出、幽默、创意多样性）与其不足（不平等、阶级分裂、媒体问题、政治对立）。文章讨论人在他乡怀念英国什么，让人尴尬的是什么，什么让他们有希望，以及如果可以改变的话他们会怎样做 — 涉及 NHS、君主制、言论自由与创意产业等机构。",
-  "best_quote_en": "\"We’ve shown time and time again, especially in working‑class communities, that we thrive when we join together and we celebrate our different cultures.\"",
-  "best_quote_zh": "“我们一次又一次地证明，尤其是在工人阶级社区，当我们联合起来并庆祝我们不同的文化时，我们会茁壮成长。”"
-},
+  {
+    "id": 8,
+    "title": "Museum of Color",
+    "title_zh": "色彩博物馆",
+    "source": "Emergence Magazine",
+    "link": "https://emergencemagazine.org/essay/museum-of-color/?src=longreads",
+    "tags": [
+      "pigment history",
+      "color",
+      "art and ecology",
+      "material culture",
+      "colonialism",
+      "science",
+      "toxicity"
+    ],
+    "tags_zh": [
+      "颜料史",
+      "色彩",
+      "艺术与生态",
+      "物质文化",
+      "殖民主义",
+      "科学",
+      "毒性"
+    ],
+    "date": "2025‑08‑28",
+    "summary_en": "In *Museum of Color*, Stephanie Krzywonos traces the histories, cultural meanings, and ecological costs of pigments from ochre to Vantablack. She shows how each color embodies layers of human labor, colonial extraction, environmental harm, and aesthetic value. The essay examines prehistoric cave paintings, the processing of dangerous minerals, commercial exploitation, synthetic innovations, and also the racial and political dimensions of whose colors have been valued or suppressed.",
+    "summary_zh": "在《色彩博物馆》中，Stephanie Krzywonos 追溯从赭石到 Vantablack 的颜料历史、文化意义与生态代价。她展示了每种颜色都凝聚了人类劳动、殖民掠夺、环境破坏与审美价值的层叠。文章考察史前洞穴壁画、有毒矿物颜料的加工、商业剥削、合成技术的创新，以及哪些颜色被重视或压制的种族与政治维度。",
+    "best_quote_en": "\"From ochre to lapis lazuli, Stephanie Krzywonos opens a door into the entangled histories of our most iconic pigments, revealing how colors hold stories of both lightness and darkness.\"",
+    "best_quote_zh": "“从赭石到天青石，Stephanie Krzywonos 打开了一扇通往我们最具标志性颜料纠缠历史的门，揭示色彩中既有光明也有黑暗的故事。”"
+  },
+  {
+    "id": 9,
+    "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
+    "title_zh": "人工智能并不是将要到来好莱坞，它已经来了",
+    "source": "WIRED",
+    "link": "https://www.wired.com/story/artificial-intelligence-hollywood-stability/?src=longreads",
+    "tags": [
+      "AI in media",
+      "Stability AI",
+      "Hollywood",
+      "generative tools",
+      "VFX",
+      "previz",
+      "copyright",
+      "labor concerns"
+    ],
+    "tags_zh": [
+      "媒体中的 AI",
+      "Stability AI",
+      "好莱坞",
+      "生成式工具",
+      "视觉特效",
+      "预视化",
+      "版权问题",
+      "劳动关切"
+    ],
+    "date": "2025‑08‑20",
+    "summary_en": "The article describes the transformation already underway in Hollywood thanks to generative AI, with Stability AI repositioning itself under new leadership (Prem Akkaraju as CEO, Sean Parker as chairman) to focus on building tools for filmmakers rather than chasing frontier, large‑scale models. It highlights how AI is being used in pre‑visualization, effects, editing and cost‑saving workflows; discusses challenges such as consistency, control, resolution, and licensing/training data; and addresses how studios and unions are responding. The piece also notes early uses of AI in final footage, the debt and leadership crises Stability AI faced, and how industry players are exploring AI as augmentative rather than fully replacement tools.",
+    "summary_zh": "这篇文章描述了生成式人工智能在好莱坞中已展开的变革，Stability AI 在新领导层（Prem Akkaraju 任 CEO，Sean Parker 任主席）的带领下转型，从追求最前沿的大模型，变为专注为电影制作人构建实用工具。文中强调 AI 在预视化、特效、剪辑和成本节约流程中的应用；探讨一致性、可控性、分辨率、版权与训练数据等挑战；讨论制片厂和工会的应对方式。文章还提到 AI 在最终影像中的早期使用，Stability AI 所经历的债务与领导危机，以及业界如何将 AI 视作辅助工具，而非完全的替代。",
+    "best_quote_en": "\"It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology.\"",
+    "best_quote_zh": "“这件事实际上关于我和 Sean 的加入，提供方向、提供领导力，并真正抓住我们所说的三大要素：时机、团队与技术。”"
+  },
+  {
+    "id": 10,
+    "title": "What’s so great about Britain? 14 very modern icons on the state of the nation",
+    "title_zh": "英国有何可骄傲？14 位现代象征论当下国家状态",
+    "source": "GQ UK",
+    "link": "https://www.gq-magazine.co.uk/article/the-state-of-the-nation-october-cover-story-2025?src=longreads",
+    "tags": [
+      "British identity",
+      "modern icons",
+      "culture",
+      "diversity",
+      "inequality",
+      "politics",
+      "national pride"
+    ],
+    "tags_zh": [
+      "英国身份",
+      "现代象征",
+      "文化",
+      "多样性",
+      "不平等",
+      "政治",
+      "国家自豪感"
+    ],
+    "date": "2025‑09‑15",
+    "summary_en": "This cover story gathers reflections from fourteen modern British figures — from athletes, actors, to artists — on what Britain means in 2025. They discuss both pride and disillusion: what’s remarkable about British identity (community, cultural exports, humour, creative diversity) and what’s failing (inequality, class divide, media problems, political division). The essays consider what people miss about Britain when abroad, what embarrasses them, what gives them hope, and what they would change if they could — touching on institutions such as NHS, the monarchy, free speech, and the creative industries.",
+    "summary_zh": "这篇封面故事汇集十四位现代英国人物（运动员、演员、艺术家等）对于 2025 年英国意味着什么的反思。他们既表达骄傲也表达失望：英国身份的可贵之处（社区、文化输出、幽默、创意多样性）与其不足（不平等、阶级分裂、媒体问题、政治对立）。文章讨论人在他乡怀念英国什么，让人尴尬的是什么，什么让他们有希望，以及如果可以改变的话他们会怎样做 — 涉及 NHS、君主制、言论自由与创意产业等机构。",
+    "best_quote_en": "\"We’ve shown time and time again, especially in working‑class communities, that we thrive when we join together and we celebrate our different cultures.\"",
+    "best_quote_zh": "“我们一次又一次地证明，尤其是在工人阶级社区，当我们联合起来并庆祝我们不同的文化时，我们会茁壮成长。”"
+  },
   {
     "id": 11,
     "title": "A 25‑Year‑Old CEO Shares 9 Career Secrets Every Young Person Should Know",
     "title_zh": "一位25岁CEO分享每个年轻人都该知道的九个职业秘诀",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2016/09/23/a-25-year-old-ceo-shares-9-career-secrets-every-young-person-should-know.html",
-    "tags": ["career", "personal development", "leadership", "advice"],
-    "tags_zh": ["职业", "个人成长", "领导力", "建议"],
+    "tags": [
+      "career",
+      "personal development",
+      "leadership",
+      "advice"
+    ],
+    "tags_zh": [
+      "职业",
+      "个人成长",
+      "领导力",
+      "建议"
+    ],
     "date": "2016‑09‑23",
     "summary_en": "Brian Wong, CEO and co‑founder of Kiip, shares nine key lessons for young people to accelerate their career. Highlights include separating personal stress from work, facing fears, knowing your strengths, stopping comparison with others, and the importance of presentation and getting out into the world. Wong emphasizes mindset over external circumstances.",
     "summary_zh": "Kiip 的 CEO 联合创始人 Brian Wong 分享了九条加速职业成长的关键经验，包括将私人压力与工作分开、直面恐惧、了解自身优势、停止与他人比较、重视展示形象并走出舒适区。他强调心态比外部环境更重要。",
@@ -159,8 +299,20 @@
     "title_zh": "女性独自旅行：单独度假的建议",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2025/09/15/solo-travel-for-women-tips-for-vacationing-alone.html",
-    "tags": ["travel", "lifestyle", "women", "self-growth", "safety"],
-    "tags_zh": ["旅行", "生活方式", "女性", "自我成长", "安全"],
+    "tags": [
+      "travel",
+      "lifestyle",
+      "women",
+      "self-growth",
+      "safety"
+    ],
+    "tags_zh": [
+      "旅行",
+      "生活方式",
+      "女性",
+      "自我成长",
+      "安全"
+    ],
     "date": "2025‑09‑15",
     "summary_en": "Lucy Handley shares insights from her solo travels in India, Vietnam, Sri Lanka, and the U.S., offering practical advice for women traveling alone. She emphasizes cultural respect, such as dressing modestly in Kerala, India, and balancing group tours with independent exploration. Handley highlights activities like yoga classes and staying in accommodations with group activities to foster connections. She also discusses safety precautions, including sharing itineraries with family, using cross-body purses, and trusting one's intuition. Her experiences underscore the empowerment and personal growth that come with solo travel.",
     "summary_zh": "Lucy Handley 分享了她在印度、越南、斯里兰卡和美国的独自旅行经历，为女性独自旅行者提供实用建议。她强调文化尊重，如在印度喀拉拉邦穿着得体，以及将团体旅游与独立探索相结合。Handley 强调了参加瑜伽课程和入住提供团体活动的住宿，以促进社交。她还讨论了安全预防措施，包括与家人分享行程、使用斜挎包以及相信自己的直觉。她的经历凸显了独自旅行带来的赋权和个人成长。",
@@ -173,8 +325,18 @@
     "title_zh": "“如果无处可去，他们就来这里”：英国的图书馆提供的不只是书籍",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/article/2024/jun/25/how-britains-libraries-provide-more-than-books",
-    "tags": ["society", "community", "education", "public services"],
-    "tags_zh": ["社会", "社区", "教育", "公共服务"],
+    "tags": [
+      "society",
+      "community",
+      "education",
+      "public services"
+    ],
+    "tags_zh": [
+      "社会",
+      "社区",
+      "教育",
+      "公共服务"
+    ],
     "date": "2024-06-25",
     "summary_en": "The article explores how public libraries in Britain, such as Battle library in Reading, have evolved into vital community hubs offering far more than just books. Libraries now act as informal advice centres, mental health support spaces, help with digital tasks, and social spaces hosting activities like playgroups and literacy classes. They even lend non-book items like footballs and coats. Despite funding challenges, library staff remain committed to making libraries inclusive and welcoming for all.",
     "summary_zh": "文章探讨英国公共图书馆（以雷丁的 Battle 图书馆为例）如何演变为重要的社区中心，提供远不止借书的服务。图书馆如今作为非正式咨询中心、心理健康支持场所，帮助处理数字事务，举办游戏小组和读写课程，甚至借出足球和冬衣等非书籍物品。尽管资金紧张，工作人员依然致力于使图书馆包容且欢迎所有人。",
@@ -187,8 +349,18 @@
     "title_zh": "“你试图告诉自己我不真实”：当急性精神病患者面对脑中声音时发生了什么？",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry",
-    "tags": ["health", "mental health", "therapy", "technology"],
-    "tags_zh": ["健康", "心理健康", "疗法", "科技"],
+    "tags": [
+      "health",
+      "mental health",
+      "therapy",
+      "technology"
+    ],
+    "tags_zh": [
+      "健康",
+      "心理健康",
+      "疗法",
+      "科技"
+    ],
     "date": "2024-10-29",
     "summary_en": "The article explores the innovative use of avatar therapy in treating individuals with acute psychosis who experience auditory hallucinations. Patients engage in dialogue with digital avatars representing their inner voices, guided by therapists. This approach has shown promising results in reducing the frequency and distress of hallucinations, offering a potential alternative to traditional pharmacological treatments.",
     "summary_zh": "本文探讨了在治疗患有急性精神病并经历听觉幻觉的个体中，创新性地使用虚拟形象疗法。患者在治疗师的指导下，与代表其内心声音的数字虚拟形象进行对话。这种方法在减少幻觉的频率和困扰方面显示出良好的效果，为传统药物治疗提供了潜在的替代方案。",
@@ -201,8 +373,18 @@
     "title_zh": "新闻媒体与心理健康中的自然语言处理的当前应用与未来方向",
     "source": "Scientific Reports",
     "link": "https://www.nature.com/articles/s41598-025-18413-z",
-    "tags": ["technology", "health", "media", "research"],
-    "tags_zh": ["科技", "健康", "媒体", "研究"],
+    "tags": [
+      "technology",
+      "health",
+      "media",
+      "research"
+    ],
+    "tags_zh": [
+      "科技",
+      "健康",
+      "媒体",
+      "研究"
+    ],
     "date": "2025-09-15",
     "summary_en": "This study examines the application of Natural Language Processing (NLP) techniques in analyzing the representation of mental health in news media. It highlights the challenges and limitations of current NLP methods, such as sentiment analysis and topic modeling, in capturing the nuances of mental health discourse. The study proposes ten recommendations for developing specialized NLP approaches to improve the accuracy and effectiveness of mental health news analysis.",
     "summary_zh": "本研究探讨了自然语言处理（NLP）技术在分析新闻媒体中心理健康表现方面的应用。研究强调了当前NLP方法（如情感分析和主题建模）在捕捉心理健康话语细微差异方面的挑战和局限性。研究提出了十项建议，旨在开发专门的NLP方法，以提高心理健康新闻分析的准确性和有效性。",
@@ -215,8 +397,18 @@
     "title_zh": "美国餐馆的神话：餐车是否真的是为所有人而设？",
     "source": "Eater",
     "link": "https://www.eater.com/23753429/diner-history-restaurant-democracy-politics-symbol",
-    "tags": ["food", "history", "culture", "society"],
-    "tags_zh": ["饮食", "历史", "文化", "社会"],
+    "tags": [
+      "food",
+      "history",
+      "culture",
+      "society"
+    ],
+    "tags_zh": [
+      "饮食",
+      "历史",
+      "文化",
+      "社会"
+    ],
     "date": "2023-06-12",
     "summary_en": "This feature traces the diner’s evolution from 19th-century lunch wagons to the iconographic American diner, examining how diners have been framed as democratic, all-inclusive spaces even when reality was more exclusionary. The piece explores changes in ownership, shifting clientele, nostalgia and preservation, and the diner’s symbolic role in politics and popular culture.",
     "summary_zh": "这篇专题回顾了餐车在19世纪起源到成为美国标志性餐馆的演变，探讨了尽管现实更具排他性，但民众如何把餐馆塑造成民主、全民共享的空间。文章分析了所有权变迁、就客群的变化、怀旧与保护运动，以及餐馆在政治与流行文化中的象征作用。",
@@ -229,8 +421,20 @@
     "title_zh": "ChatGPT 正在摧毁婚姻：配偶用 AI 辱骂另一方",
     "source": "Futurism",
     "link": "https://futurism.com/chatgpt-marriages-divorces",
-    "tags": ["technology", "AI", "society", "relationships", "psychology"],
-    "tags_zh": ["科技", "人工智能", "社会", "关系", "心理学"],
+    "tags": [
+      "technology",
+      "AI",
+      "society",
+      "relationships",
+      "psychology"
+    ],
+    "tags_zh": [
+      "科技",
+      "人工智能",
+      "社会",
+      "关系",
+      "心理学"
+    ],
     "date": "2025-09-18",
     "summary_en": "This article explores how some spouses are using ChatGPT and other AI chatbots to attack their partners during conflicts, turning the tool into a weapon in domestic disputes. Based on multiple interviews, court records, and chat logs, the piece shows how one partner’s reliance on AI can distort narratives, validate grievances, and amplify conflict to the point of divorce.",
     "summary_zh": "文章探讨了一些配偶如何在争吵中使用 ChatGPT 或其他 AI 聊天机器人来攻击另一方，将这类工具变成家庭冲突的武器。基于多次访谈、法庭记录与聊天记录，文章展现了一方对 AI 的依赖如何扭曲叙事、强化不满、放大冲突，最终导致离婚。",
@@ -243,8 +447,20 @@
     "title_zh": "人工智能“工作混乱”正撕裂公司：斯坦福研究揭示真相",
     "source": "Futurism",
     "link": "https://futurism.com/future-society/ai-productivity-research",
-    "tags": ["technology", "AI", "workplace", "productivity", "research"],
-    "tags_zh": ["科技", "人工智能", "职场", "生产力", "研究"],
+    "tags": [
+      "technology",
+      "AI",
+      "workplace",
+      "productivity",
+      "research"
+    ],
+    "tags_zh": [
+      "科技",
+      "人工智能",
+      "职场",
+      "生产力",
+      "研究"
+    ],
     "date": "2025-09-23",
     "summary_en": "This article reports on a Stanford research finding that AI tools, rather than boosting productivity, may be undermining collaboration, increasing friction between teams, and deteriorating workplace dynamics. The phenomenon is dubbed “workslop,” highlighting how AI can hamper, rather than help, actual work processes.",
     "summary_zh": "文章报道一项斯坦福研究的发现：AI 工具可能并未提升生产力，反而削弱协作、增加团队间摩擦、破坏职场互动。文中以“workslop”来形容这种现象，揭示 AI 有时反而妨碍实际工作流程。",
@@ -257,8 +473,20 @@
     "title_zh": "报告警告：AI 正将你的老板变为全景监控霸主",
     "source": "Futurism",
     "link": "https://futurism.com/future-society/europe-etuc-algorithmic-management",
-    "tags": ["technology", "AI", "workplace", "labor rights", "policy"],
-    "tags_zh": ["科技", "人工智能", "职场", "劳工权利", "政策"],
+    "tags": [
+      "technology",
+      "AI",
+      "workplace",
+      "labor rights",
+      "policy"
+    ],
+    "tags_zh": [
+      "科技",
+      "人工智能",
+      "职场",
+      "劳工权利",
+      "政策"
+    ],
     "date": "2025-09-??",
     "summary_en": "This article discusses a recent ETUC (European Trade Union Confederation) report titled “Negotiating the Algorithm,” warning that algorithmic management tools are spreading rapidly across workplaces in the EU and U.S. The report outlines risks such as opaque evaluation, surveillance, automated punishments, discriminatory task assignment, and reduced autonomy for workers. It also suggests worker strategies and example wins in Europe resisting algorithmic overreach.",
     "summary_zh": "文章讨论了欧洲工会联合会（ETUC）最新报告《协商算法》，警告算法管理工具正在欧盟及美国职场迅速普及。报告列举了评估不透明、监控、自动惩处、歧视性任务分配、削弱工人自主等风险，还提出工人的应对策略以及欧洲在抗衡算法滥用方面的成功案例。",
@@ -271,8 +499,20 @@
     "title_zh": "狮门影业尝试用 AI 制作电影惨遭失败",
     "source": "Futurism",
     "link": "https://futurism.com/artificial-intelligence/lionsgate-movies-ai",
-    "tags": ["technology", "AI", "film industry", "entertainment", "legal"],
-    "tags_zh": ["科技", "人工智能", "电影产业", "娱乐", "法律"],
+    "tags": [
+      "technology",
+      "AI",
+      "film industry",
+      "entertainment",
+      "legal"
+    ],
+    "tags_zh": [
+      "科技",
+      "人工智能",
+      "电影产业",
+      "娱乐",
+      "法律"
+    ],
     "date": "2025-09-27",
     "summary_en": "Lionsgate’s bold partnership with AI startup Runway to generate entire movies from its catalog has collapsed under technical limitations and copyright challenges. Despite feeding its library of franchises like 'Hunger Games' and 'John Wick' into the AI, results were underwhelming. Experts say the dataset was too small, legal risks loom, and current AI tools can only produce uncanny, short clips — far from full-length films.",
     "summary_zh": "狮门影业与初创公司 Runway 合作，用 AI 从其片库生成完整电影的计划因技术局限和版权问题而失败。尽管将《饥饿游戏》《疾速追杀》等片库输入 AI，结果却差强人意。专家指出数据集过小，法律风险突出，而现有 AI 工具只能生成怪异的短片段，距离完整电影相差甚远。",
@@ -285,8 +525,18 @@
     "title_zh": "“男人似乎让女性的生活更糟”：2025年美国单身女性分享约会困境",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/lifeandstyle/2025/sep/27/us-women-single-dating",
-    "tags": ["society", "relationships", "gender", "culture"],
-    "tags_zh": ["社会", "关系", "性别", "文化"],
+    "tags": [
+      "society",
+      "relationships",
+      "gender",
+      "culture"
+    ],
+    "tags_zh": [
+      "社会",
+      "关系",
+      "性别",
+      "文化"
+    ],
     "date": "2025-09-27",
     "summary_en": "A growing number of single women in the U.S. are expressing frustration with modern dating, suggesting that relationships with men often do not contribute positively to their lives. By 2030, 45% of prime working-age U.S. women (ages 25-44) are projected to be single—the highest rate in history. Hundreds of women shared with The Guardian their experiences, revealing common desires in partners such as emotional intelligence, kindness, stability, shared values, and maturity. Many criticized men for low effort in dating, lack of communication, immaturity, and failure to meet even basic relationship expectations. Some cited toxic online narratives and social media as detrimental to dating culture.",
     "summary_zh": "越来越多的美国单身女性对现代约会表示沮丧，认为与男性的关系往往未能积极地影响她们的生活。根据预测，到2030年，美国25至44岁的主要工作年龄女性中，45%将是单身，创历史新高。数百名女性与《卫报》分享了她们的经历，揭示了她们对伴侣的共同期望，如情商、善良、稳定、共同价值观和成熟度。许多人批评男性在约会中投入不足、缺乏沟通、情感不成熟，甚至未能满足基本的关系期望。一些人提到有毒的网络叙事和社交媒体对约会文化的负面影响。",
@@ -299,8 +549,18 @@
     "title_zh": "如何战略性地思考职业转型",
     "source": "Harvard Business Review",
     "link": "https://hbr.org/2023/09/how-to-think-strategically-about-a-career-transition",
-    "tags": ["career", "personal development", "strategy", "planning"],
-    "tags_zh": ["职业", "个人发展", "战略", "规划"],
+    "tags": [
+      "career",
+      "personal development",
+      "strategy",
+      "planning"
+    ],
+    "tags_zh": [
+      "职业",
+      "个人发展",
+      "战略",
+      "规划"
+    ],
     "date": "2023-09-08",
     "summary_en": "Herminia Ibarra emphasizes the importance of thinking broadly about potential career paths rather than fixating on a single next step. She suggests exploring multiple possibilities and experimenting with different roles to discover what truly aligns with one's skills and interests. This approach helps individuals navigate the uncertainties of career transitions and find fulfilling new directions.",
     "summary_zh": "赫米尼亚·伊巴拉强调，在职业转型中，重要的是广泛思考潜在的职业路径，而不是仅仅关注单一的下一步。她建议探索多种可能性，并尝试不同的角色，以发现真正与个人技能和兴趣相符的方向。这种方法帮助个人在职业转型的不确定性中找到充实的新方向。",
@@ -313,8 +573,20 @@
     "title_zh": "首尔的青年文化正在席卷全球。原因在此",
     "source": "National Geographic",
     "link": "https://www.nationalgeographic.com/travel/article/how-to-explore-youth-culture-in-seoul-south-korea",
-    "tags": ["culture", "youth", "trends", "society", "entertainment"],
-    "tags_zh": ["文化", "青年", "潮流", "社会", "娱乐"],
+    "tags": [
+      "culture",
+      "youth",
+      "trends",
+      "society",
+      "entertainment"
+    ],
+    "tags_zh": [
+      "文化",
+      "青年",
+      "潮流",
+      "社会",
+      "娱乐"
+    ],
     "date": "2024-10-16",
     "summary_en": "National Geographic explores the vibrant youth culture of Seoul, highlighting the city's dynamic blend of modern trends and nostalgic elements. From impromptu K-pop dance performances in Hongdae to retro vinyl bars in Euljiro, the article delves into how Seoul's youth are shaping global cultural trends. It also features HiKR Ground, a complex dedicated to K-pop, and the influence of gaming icon Faker, illustrating the diverse interests that define Seoul's youth culture.",
     "summary_zh": "《国家地理》探索了首尔充满活力的青年文化，突出了这座城市现代潮流与怀旧元素的动态融合。从弘大的即兴K-pop舞蹈表演到乙支路的复古黑胶酒吧，文章深入探讨了首尔的年轻人如何塑造全球文化趋势。还介绍了专门致力于K-pop的HiKR Ground，以及游戏偶像Faker的影响，展示了定义首尔青年文化的多样兴趣。",
@@ -327,8 +599,18 @@
     "title_zh": "韩国年轻人难以看到前进的道路",
     "source": "Institute of Current World Affairs",
     "link": "http://icwa.org/young-koreans-struggle/",
-    "tags": ["youth", "society", "politics", "social issues"],
-    "tags_zh": ["青年", "社会", "政治", "社会问题"],
+    "tags": [
+      "youth",
+      "society",
+      "politics",
+      "social issues"
+    ],
+    "tags_zh": [
+      "青年",
+      "社会",
+      "政治",
+      "社会问题"
+    ],
     "date": "2023-11-28",
     "summary_en": "Prachi Vidwans explores the growing disillusionment among South Korea's youth, who feel disconnected from traditional political structures and skeptical about the possibility of meaningful change. Despite a history of activism, many young South Koreans are hesitant to engage in ideological debates, fearing it could harm their personal and professional prospects. The article delves into the factors contributing to this sense of hopelessness and the evolving perspectives of the younger generation.",
     "summary_zh": "Prachi Vidwans 探讨了韩国年轻人日益增长的幻灭感，他们感到与传统政治结构脱节，对实现有意义的变革持怀疑态度。尽管有着激进主义的历史，许多年轻韩国人对参与意识形态辩论持谨慎态度，担心这会损害他们的个人和职业前景。本文深入分析了导致这种无望感的因素以及年轻一代观点的变化。",
@@ -341,12 +623,140 @@
     "title_zh": "女性健康之旅：各年龄段应知事项",
     "source": "UC Health",
     "link": "https://www.uchealth.com/en/media-room/articles/womens-health-journey-what-to-know-by-age",
-    "tags": ["health", "women", "wellness", "lifestyle", "preventive care"],
-    "tags_zh": ["健康", "女性", "养生", "生活方式", "预防保健"],
+    "tags": [
+      "health",
+      "women",
+      "wellness",
+      "lifestyle",
+      "preventive care"
+    ],
+    "tags_zh": [
+      "健康",
+      "女性",
+      "养生",
+      "生活方式",
+      "预防保健"
+    ],
     "date": "2025-05-30",
     "summary_en": "The article outlines essential health guidance for women across different decades of life. It emphasizes preventive screenings, nutrition, reproductive and mental health, and lifestyle habits from the 20s through the 50s and beyond, encouraging women to take proactive, personalized care at every stage.",
     "summary_zh": "文章概述了各年龄段女性的健康要点。它强调预防性检查、营养、生殖与心理健康以及生活习惯，从20多岁到50多岁及以后，鼓励女性在每个阶段采取积极、个性化的健康管理。",
     "best_quote_en": "\"Your health is more than checkups and screenings—it’s about showing up for yourself with confidence, care, and support through every stage of life.\"",
     "best_quote_zh": "“健康不仅仅是体检和筛查——它意味着在每个生命阶段，以自信、关爱和支持的态度照顾自己。”"
+  },
+  {
+    "id": 26,
+    "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
+    "title_zh": "她对自己的无知毫不自知：JK罗琳回应艾玛·沃森的争端",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/sep/29/jk-rowling-responds-to-emma-watson",
+    "tags": [
+      "learn",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "JK Rowling’s retort to Emma Watson’s transgender‑rights commentary ignites a fresh wave of public debate, underscoring how celebrity clout can amplify ideological clashes. Rowling’s post, replete with accusatory language, frames Watson as “ignorant” and accuses her of “trashing women’s rights.” The tone is unapologetically combative, yet it also reflects a broader cultural fault line: the friction between gender‑critical voices and trans‑affirming advocates. By invoking personal security threats and a sense of privilege, Rowling attempts to justify her defensive posture. The exchange exposes the limits of public discourse when both sides wield emotional capital and media reach, turning nuanced policy debates into a spectacle of vitriol. For readers, the piece offers a case study in how high‑profile personalities can shape narratives around gender politics, raising questions about accountability, freedom of expression, and the responsibilities of public figures when confronting sensitive social issues.",
+    "summary_zh": "JK 罗琳对艾玛·沃森关于跨性别权利的公开言论作出强硬回应，突显名人影响力如何放大意识形态冲突。罗琳将沃森称为“无知”，指责其“破坏女性权利”。她以个人安全威胁和特权感为辩护，揭示公众话语在情绪资本与媒体影响下的局限。此事件成为高调人物如何塑造性别政治叙事的案例，促使人们思考名人责任、言论自由与敏感议题的处理方式。",
+    "best_quote_en": "Emma and Dan Radcliffe in particular have both made it clear over the last few years that they think our former professional association gives them a particular right – nay, obligation – to critique me and my views in public.",
+    "best_quote_zh": "像其他从未在财富与名声中安稳成长的人一样，艾玛几乎没有真实生活经验，她根本不知道自己有多无知……"
+  },
+  {
+    "id": 27,
+    "title": "Third Place Happiness/Flight Payment Plans/Escaping the US",
+    "title_zh": "第三位的幸福 / 航班分期付款计划 / 逃离美国",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/third-place-happiness-flight-payment-plans-escaping-the-us/",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This newsletter curates four seemingly disparate pieces that together sketch a broader portrait of modern life‑hustle and the quest for well‑being. The first article flips a familiar narrative: bronze Olympic medalists report higher happiness than their silver‑medal peers, hinting that the pursuit of an elusive top spot can erode joy more than the satisfaction of a solid finish. The second piece offers a practical guide for travelers, outlining credit‑card and installment options that let you book flights now and pay later, a timely hack for a budget‑conscious generation. The third article critiques the “live like a local” trope, exposing the gap between vacationers’ curated experiences and the everyday grind of residents, especially for digital nomads who earn high wages abroad yet live in luxury rentals. Finally, the last section tackles the increasingly common desire to escape the U.S., compiling routes, considerations, and the idea that a “home base” can be fluid rather than fixed. Together, the pieces weave together insights on happiness psychology, financial strategy, cultural authenticity, and global mobility, inviting readers to rethink how they chase success, adventure, and belonging.",
+    "summary_zh": "本周的简报汇聚四篇看似无关却互相呼应的文章，勾勒出现代生活与幸福追求的全景。首篇揭示铜牌得主比银牌得主更快乐，提醒我们对“第一”执着可能削弱真正的满足感。第二篇提供航班分期付款的实用攻略，帮助预算有限的旅者灵活规划行程。第三篇批判“像当地人一样生活”的误区，指出远程工作者在奢华租屋中赚取高薪却与当地人日常生活相距甚远。最后一篇聚焦逃离美国的趋势，列举路径与考量，并提出“家园”不必固定。四篇内容交织心理学、财务策略、文化真实性与全球流动性，促使读者重新审视成功、冒险与归属感的定义。",
+    "best_quote_en": "Bronze winners in the Olympics are happier than the Silver winners.",
+    "best_quote_zh": "铜牌得主比银牌得主更幸福。"
+  },
+  {
+    "id": 28,
+    "title": "Sora update #1",
+    "title_zh": "Sora 更新 #1",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-update-number-1",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "Sora’s first public update reveals a pragmatic, user‑centric approach to refining AI‑powered content creation. The team highlights two immediate pivots: (1) granting rights holders granular control over character generation—an “interactive fan‑fiction” model that lets creators specify usage limits or opt‑out entirely; and (2) piloting a revenue‑sharing framework to monetize video output while rewarding rights holders. The narrative stresses rapid iteration, echoing early ChatGPT days, and a commitment to continuously absorb feedback. The announcement underscores a broader industry shift toward creator‑empowered AI ecosystems, balancing freedom, monetization, and ethical safeguards. It signals that Sora is not just a product but a living platform that will evolve with its community, offering a tangible example of how AI can be aligned with stakeholder interests while scaling usage and revenue.",
+    "summary_zh": "Sora首次公开更新展示了以用户为中心的 AI 内容创作迭代策略。团队宣布两项关键改动：一是为版权持有人提供细粒度的角色生成控制，支持“互动同人”模式；二是试行视频生成的收益分成，既激励创作者，又实现商业化。此举体现了 AI 生态正向创作者赋能、商业化与伦理共存的趋势，强调快速迭代与持续反馈的重要性。",
+    "best_quote_en": "We plan to do our iteration on different approaches in Sora, but then apply it consistently across our products.",
+    "best_quote_zh": "我们将以不同的方法在 Sora 上进行迭代，然后在我们的产品中一致地应用它们。"
+  },
+  {
+    "id": 29,
+    "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
+    "title_zh": "精要：人类如何在短期和长期选择并保持浪漫伴侣 | 大卫·巴斯博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-human-romantic-partner-selection-keep-david-buss",
+    "tags": [
+      "guide",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This episode of Huberman Lab Essentials brings evolutionary psychology to the forefront of relationship science, unpacking how humans navigate mate selection across the spectrum of short- and long-term partnerships. Dr. David Buss articulates a nuanced taxonomy of universal partner traits—such as resource provision, social status, and perceived health—while also revealing gender‑specific priorities that shift with age and context. He does not shy from the darker side of romance, probing deception, jealousy, and stalking as evolutionary adaptations rather than moral failings. The discussion is peppered with data‑driven insights, real‑world examples, and practical self‑assessment tools that invite listeners to reflect on their own mate value and attachment styles. The episode’s intellectual curiosity is matched by its actionable takeaways, making it a compelling resource for anyone interested in the biology of love, the psychology of attraction, and the complex dance of human bonding.",
+    "summary_zh": "本期Huberman Lab Essentials聚焦进化心理学，剖析人类在短期与长期恋爱中的伴侣选择。大卫·巴斯博士阐述普遍伴侣特质与性别差异，并探讨欺骗、嫉妒与跟踪等阴暗面，提供数据驱动洞见与自我评估工具。内容兼具学术深度与实用性，激发对爱情与人际纽带的全新思考。",
+    "best_quote_en": "The darker aspects of mating behavior, such as deception, the evolutionary function of jealousy and the motivations behind stalking.",
+    "best_quote_zh": "关于恋爱关系中较暗面，如欺骗、嫉妒的进化功能以及跟踪行为的动机。"
+  },
+  {
+    "id": 30,
+    "title": "From Taylor Swift’s ‘The Life of a Showgirl’ to Spotify’s leadership shakeup… it’s MBW’s weekly round-up",
+    "title_zh": "从泰勒·斯威夫特的《Showgirl的生活》到Spotify的高层变动……这是MBW的每周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-taylor-swifts-new-album-to-spotifys-leadership-shakeup-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This week’s music industry roundup spotlights a cascade of headline‑making events: Taylor Swift’s latest album, The Life of a Showgirl, shatters Spotify’s pre‑save record, underscoring the platform’s algorithmic amplification power. A sweeping leadership reshuffle at Spotify—Daniel Ek stepping down as CEO in favour of a co‑CEO model—raises questions about governance and future product direction. In a parallel development, Universal Music Group and Warner Music Group appear poised to sign landmark AI‑music licensing deals, signalling a nascent convergence of copyright law and machine‑learning training data. Meanwhile, country star Zach Bryan sets a new U.S. ticket‑sale record at Michigan Stadium, proving live‑event revenue remains king. Finally, a top European music lawyer dismisses data‑privacy fears surrounding UMG’s proposed Downtown acquisition as “fantasy or paranoia.” Together, these stories paint a picture of an industry in flux, driven by AI, data, and evolving business models that demand both vigilance and agility.",
+    "summary_zh": "本周音乐行业聚焦多重热点：泰勒·斯威夫特新专辑在Spotify上创下预保存纪录，Spotify高层交替引发关注；环球与华纳或将与AI音乐公司达成标杆授权协议，标志着人工智能与版权的交汇；Zach Bryan在密歇根体育场创下美国单场门票最高纪录；而欧洲音乐律师对UMG收购数据担忧的“幻想”评价，凸显行业对数据安全的敏感。整体来看，音乐产业正处于技术驱动与商业模式创新交织的关键节点，AI授权与数据治理成为新焦点，行业从者需关注监管与合作共赢的平衡。",
+    "best_quote_en": "Universal Music Group and Warner Music Group are reportedly close to striking 'landmark' AI music licensing deals.",
+    "best_quote_zh": "数据相关的担忧更多源于幻想或偏执，而非具体、现实、理性的分析。"
   }
 ]
