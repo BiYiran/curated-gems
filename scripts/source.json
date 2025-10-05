@@ -34,5 +34,25 @@
   {
     "name": "Tim Ferriss",
     "url": "https://tim.blog/feed/"
+  },
+  {
+    "name": "Music Business Worldwide",
+    "url": "https://www.musicbusinessworldwide.com/feed/"
+  },
+  {
+    "name": "Budgets Are Sexy",
+    "url": "https://feeds2.feedburner.com/budgetsaresexy"
+  },
+  {
+    "name": "Making Sense of Cents",
+    "url": "https://www.makingsenseofcents.com/feed"
+  },
+  {
+    "name": "CodeNewbie Podcast",
+    "url": "http://feeds.codenewbie.org/cnpodcast.xml"
+  },
+  {
+    "name": "NewInBooks",
+    "url": "https://www.newinbooks.com/feed/"
   }
 ]
