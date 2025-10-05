@@ -759,4 +759,121 @@
     "best_quote_en": "Universal Music Group and Warner Music Group are reportedly close to striking 'landmark' AI music licensing deals.",
     "best_quote_zh": "数据相关的担忧更多源于幻想或偏执，而非具体、现实、理性的分析。"
   }
-]
+,{
+    "id": 31,
+    "title": "At the Edge of Peace",
+    "title_zh": "和平边缘",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "At the Edge of Peace is a vivid chronicle of the fragile ceasefire between Israel and Hamas, framed by U.S. diplomatic maneuvering and internal Palestinian discord. The article dissects the tactical withdrawal clause, hostage releases, and the contentious role of international figures such as Tony Blair. It exposes the fissures within Hamas leadership—between hardliners and negotiators—and the political calculus that led to Trump’s public endorsement. By weaving data on public opinion, antisemitic incidents, and regional alliances, the piece offers a data‑driven lens on how a seemingly “big day” can simultaneously be a diplomatic win and a political gamble. The narrative invites readers to interrogate the paradox of a ceasefire that promises safety yet threatens to unravel Netanyahu’s coalition, thereby framing the conflict as a complex, multi‑layered puzzle. It ultimately underscores how the prospects of peace hinge on power dynamics, public sentiment, and the precarious balance between security and humanitarian relief.",
+    "summary_zh": "《和平边缘》以细腻笔触描绘以色列与哈马斯停火的脆弱与背后的外交博弈。文章剖析战术撤离、人物争议与内部对峙，结合民调与反犹事件数据，呈现停火既是外交胜利又是政治赌博的双重面貌。呼吁读者质疑和平与安全、民意与人道救援之间的微妙平衡，提醒和平曙光可能因权力博弈被推向风口浪尖。",
+    "best_quote_en": "We will never accept anyone who is not Palestinian to control the Palestinians.",
+    "best_quote_zh": "我们永远不会接受任何非巴勒斯坦人来控制巴勒斯坦人。"
+  },
+  {
+    "id": 32,
+    "title": "What’s in my NOW? — Melissa Willis",
+    "title_zh": "我的现在是什么？—Melissa Willis",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-melissa-willis/",
+    "tags": [
+      "update",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Melissa Willis, a family historian and genetic genealogist living on a diversified farm, shares a candid snapshot of the tools and experiences that shape her daily life. From the evocative world of Stephen King’s “The End of the World As We Know It” to the tactile pleasure of Oberon leather journals, she illustrates how physical artifacts anchor memory and identity. Her earbuds become a sanctuary of focus amid farm bustle, while digital companions like The StoryGraph and Star Trek: The Next Generation offer organized, data‑driven leisure that rekindles a childhood love of reading. The piece culminates in a poetic meditation on chance and survival, echoing Wislawa Szymborska’s contemplations. Beyond a simple list, the article invites readers to reflect on how objects, habits, and stories intersect to create a sense of presence—“what’s in my NOW?” The narrative is both inspirational and practical, offering a roadmap for cultivating intentionality in everyday life. It’s a gentle reminder that our surroundings, both tangible and intangible, shape the narrative we live in.",
+    "summary_zh": "玛丽莎·威利斯以农场生活为背景，分享了塑造她日常的物品与体验。她将史蒂芬·金的短篇小说、Oberon皮革笔记本、降噪耳塞与数字工具如StoryGraph、星际迷航等，串联成一幅关于记忆与身份的画卷。文章以西蒙波萨的诗句收尾，探讨机缘与生存的哲学。它既是灵感，也是行动指南，提示读者如何通过有形与无形的事物，构建当下的自我。",
+    "best_quote_en": "If there had been no hand, no foot, no step, no hairsbreadth of coincidence, what would have happened? You survived because you were the first. You survived because you were the last.",
+    "best_quote_zh": "若无一手、一脚、一步、细微差别的巧合，你会怎样？你因第一而存活，也因最后而存活。"
+  },
+  {
+    "id": 33,
+    "title": "Sora 2",
+    "title_zh": "Sora 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "Sora 2 represents a bold leap in AI‑driven creativity, fusing a cutting‑edge model with an intuitive video‑creation platform that feels like the “ChatGPT for creativity.” The announcement goes beyond a product launch; it outlines a philosophy that balances rapid, low‑friction content generation with a commitment to user well‑being. By prioritizing long‑term satisfaction, empowering users to curate their feeds, and fostering a culture of creation, the team seeks to avoid the pitfalls of addictive, algorithmic slop feeds. The product’s safeguards—deep‑fake mitigations, content filters, and mood monitoring—illustrate a proactive stance on ethical AI deployment. This vision positions Sora not merely as a tool but as a platform that could catalyze a Cambrian explosion in visual storytelling, while simultaneously addressing the social risks that accompany any new media ecosystem. The blend of technical ambition and social responsibility invites creators, technologists, and policy thinkers to rethink how AI can amplify human imagination without compromising mental health or authenticity.",
+    "summary_zh": "Sora 2 将前沿模型与视频创作平台相结合，像“创意版ChatGPT”，既强调低门槛创作，也关注用户长期满意度与心理健康。它通过可调节的内容推荐、深度伪造防护、情绪监测等措施，力求避免算法陷阱，促成创意的爆炸式增长，同时兼顾伦理与安全。此举为创作者、技术者与政策制定者提供了重新思考AI如何放大人类想象力的契机。",
+    "best_quote_en": "Optimize for long-term user satisfaction. The majority of users, looking back on the past 6 months, should feel that their life is better for using Sora than it would have been if they hadn’t.",
+    "best_quote_zh": "优化长期用户满意度。回顾过去六个月，绝大多数用户应该感到使用Sora后生活更好，而非未使用时。"
+  },
+  {
+    "id": 34,
+    "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+    "title_zh": "使用神经科学协议提升学习速度与健康 | Dr. Poppy Crum",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum",
+    "tags": [
+      "inspire",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Dr. Poppy Crum, a Stanford adjunct professor and former Dolby Chief Scientist, unpacks how neuroplasticity can be harnessed to accelerate learning and enhance wellbeing. She blends rigorous neuroscience with everyday tools—smartphones, AI, and video games—showing how zero‑cost protocols can be integrated into daily routines. A key insight is the concept of “digital twins,” virtual replicas of our bodies that, when paired with wearable sensors, can provide real‑time feedback on cognitive and physical states. Crum’s discussion extends to the future of health tech, highlighting how AI can either augment or replace certain tasks, and how gamification can cultivate durable habits. The episode offers a practical, data‑driven roadmap that challenges conventional wisdom about learning, encouraging listeners to experiment with low‑barrier interventions that are both scientifically grounded and immediately actionable. This synthesis of cutting‑edge research and accessible application makes the content highly valuable for learners, educators, and anyone curious about the intersection of brain science and technology.",
+    "summary_zh": "在这期节目中，Poppy Crum博士阐述了神经可塑性如何通过智能手机、AI与电子游戏等日常工具加速学习并提升健康。她提出“数字孪生”概念，结合可穿戴传感器实时反馈认知与身体状态，为未来健康科技指明方向。Crumb 的建议以零成本、数据驱动的方式呈现，兼具科学严谨与易于实践，既启发学习者，也为教育者与科技爱好者提供可落地的行动蓝图。",
+    "best_quote_en": "Use your smartphone, AI, and even video games to learn faster.",
+    "best_quote_zh": "使用智能手机、人工智能甚至电子游戏来加速学习。"
+  },
+  {
+    "id": 35,
+    "title": "The Tim Ferriss Show Transcripts: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance (#829)",
+    "title_zh": "The Tim Ferriss Show访谈稿：James Nestor——呼吸方案重启健康、改善睡眠并提升表现（#829）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/30/james-nestor-breath-transcript/",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "In this expansive episode, James Nestor unpacks the science of breathing, revealing how simple protocols can reboot health, fix sleep, and boost performance. Drawing on centuries‑old practices—from Tummo to Sudarshan Kriya—he demonstrates that breathing is a controllable, autonomous function that can be tuned for better oxygenation, reduced inflammation, and heightened mental clarity. He challenges conventional medical narratives, notably arguing that ADHD may largely stem from chronic sleep deprivation rather than a neurological disorder. Nestor also highlights the hidden dangers of indoor CO₂ levels, especially in hotels, and offers practical tools like nasal‑breathing tape, CO₂ monitors, and sleep‑tracking apps. The discussion blends rigorous research with personal anecdotes, providing actionable, data‑driven insights for anyone from athletes to office workers. Ultimately, it invites listeners to re‑educate themselves on a fundamental, often overlooked, biological process and to harness it for tangible, measurable health gains.",
+    "summary_zh": "本期节目中，James Nestor 以科学视角剖析呼吸的力量，展示简易呼吸法如何重塑健康、改善睡眠、提升表现。他将古老的 Tummo 与现代的 Sudarshan Kriya 结合，强调呼吸是可调控的自主功能，可改善氧合、降低炎症并提升认知。Nestor 质疑传统医学，提出 ADHD 可能源于慢性睡眠不足，而非神经疾病。他还揭露室内 CO₂ 危害，尤其在酒店环境，并提供鼻腔呼吸带、CO₂ 监测器及睡眠追踪应用等实用工具。节目将严谨研究与个人经历相结合，提供数据驱动、可操作的洞见，鼓励听众重新学习并利用这一被忽视的生物过程，获得可衡量的健康提升。",
+    "best_quote_en": "ADHD does not exist. What you’re looking at are sleep‑deprived kids.",
+    "best_quote_zh": "ADHD并不存在。你看到的是睡眠不足的孩子。"
+  }]
