@@ -876,4 +876,123 @@
     "summary_zh": "本期节目中，James Nestor 以科学视角剖析呼吸的力量，展示简易呼吸法如何重塑健康、改善睡眠、提升表现。他将古老的 Tummo 与现代的 Sudarshan Kriya 结合，强调呼吸是可调控的自主功能，可改善氧合、降低炎症并提升认知。Nestor 质疑传统医学，提出 ADHD 可能源于慢性睡眠不足，而非神经疾病。他还揭露室内 CO₂ 危害，尤其在酒店环境，并提供鼻腔呼吸带、CO₂ 监测器及睡眠追踪应用等实用工具。节目将严谨研究与个人经历相结合，提供数据驱动、可操作的洞见，鼓励听众重新学习并利用这一被忽视的生物过程，获得可衡量的健康提升。",
     "best_quote_en": "ADHD does not exist. What you’re looking at are sleep‑deprived kids.",
     "best_quote_zh": "ADHD并不存在。你看到的是睡眠不足的孩子。"
+  },{
+    "id": 36,
+    "title": "Solo trips abroad take off among women who seek break from work – and their families",
+    "title_zh": "女性寻求工作与家庭休息，海外独自旅行热潮兴起",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article spotlights a quiet yet powerful shift in the travel industry: women, especially in the 45‑60 age bracket, are increasingly booking solo trips abroad as a means to escape the demands of work, home, and even family dynamics. Operators report that solo‑but‑not‑single travelers now represent nearly half of their clientele, with women constituting the majority. This trend underscores a growing appetite for autonomy, self‑reflection, and cultural immersion—qualities that traditional group or family holidays rarely provide. The data‑rich narrative—46% solo bookings at Jules Verne, a 20% rise for Intrepid Travel—offers actionable insights for marketers, tour designers, and policy makers. It also raises critical questions about gendered leisure expectations, the economics of solo travel, and the role of “soft adventure” in empowering older women. Ultimately, the piece invites readers to rethink travel as a form of personal liberation rather than a mere vacation, highlighting its potential to reshape both industry practices and societal norms.",
+    "summary_zh": "文章揭示女性，尤其是45‑60岁年龄层，越来越倾向于海外独自旅行，以逃离工作、家庭乃至亲情的束缚。运营商指出，独自但非单身的旅客已占近一半客户，女性占多数。这一趋势反映了对自主、反思与文化沉浸的渴望，传统团体或家庭假期难以满足。数据驱动的叙事—Jules Verne 46%独自预订、Intrepid Travel 20%增长—为营销者、旅游设计师和政策制定者提供可操作洞见，并引发对性别休闲预期、独自旅行经济学及“软冒险”赋能老年女性的深层思考。文章促使人们将旅行视为个人解放的方式，重新塑造行业实践与社会规范。",
+    "best_quote_en": "Many of our travellers have families, partners and full social lives, but they also value the freedom to explore on their own terms.",
+    "best_quote_zh": "我们的许多旅客有家庭、伴侣和完整的社交生活，但他们同样重视按自己的方式探索的自由。"
+  },
+  {
+    "id": 37,
+    "title": "Crazy New Ideas",
+    "title_zh": "疯狂的新想法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/newideas.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The essay argues that the most promising breakthroughs often arrive as “crazy” proposals from credible domain experts. It highlights how the prevailing paradigm, coupled with envy and the allure of sophistication, leads to a pervasive dismissal of radical ideas. Rather than dismiss, the author urges a curious, question‑driven stance—asking why a smart expert thinks the idea is wrong—to uncover hidden insights or model flaws. Historical examples, from Copernicus to modern innovators, illustrate how initial skepticism can mask high‑value bets. The piece blends a behavioral critique with practical advice: seek out experts proposing implausible concepts, learn how nascent ideas appear, and support them, recognizing that doing so can yield both personal growth and societal advancement. Its core insight is that the cost of ignoring such ideas far outweighs the risk of entertaining them, turning skepticism into a disciplined, exploratory practice.",
+    "summary_zh": "作者指出，真正的突破往往来自可信专家的“疯狂”提议。主流范式与嫉妒、炫耀的诱惑，使人们普遍忽视新奇想法。与其否定，不如提问，探究专家为何认为错误，从而发现隐藏洞见。历史案例显示，初期的怀疑往往掩盖了高价值的赌注。文章既批判行为，也给出实用建议：寻找提出荒诞概念的专家，学习新想法的初始面貌，支持它们，从而实现个人成长与社会进步。核心在于：忽视成本大于冒险，怀疑应转为有纪律的探索。",
+    "best_quote_en": "The wise response to such an idea is not to make statements, but to ask questions, because there's a real mystery here.",
+    "best_quote_zh": "面对这样的想法，明智的回应不是发表声明，而是提问，因为这里有真正的谜团。"
+  },
+  {
+    "id": 38,
+    "title": "The Gentle Singularity",
+    "title_zh": "温柔的奇点",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-gentle-singularity",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-06-10",
+    "summary_en": "The article charts a near‑future where artificial intelligence has already surpassed human performance in many domains, yet everyday life remains largely unchanged. It argues that the true singularity is not a dramatic leap but a gradual, cumulative acceleration of scientific progress, powered by AI’s ability to generate novel insights, design new algorithms, and even self‑improve. The author projects a timeline—agents capable of real cognitive work by 2025, novel insight generators by 2026, and robots that can build themselves by 2027—highlighting how these developments will transform productivity and the nature of work. Importantly, the piece stresses that alignment and democratization are the twin pillars for safe, equitable deployment: first, robust alignment to collective values; second, making superintelligence cheap and widely accessible to avoid concentration of power. The narrative is optimistic, urging society to engage in a broad conversation about governance, while acknowledging the challenges of safety, job displacement, and the need for a new social contract. The vision invites readers to rethink the future of work, creativity, and the role of humanity in a world where intelligence and energy are abundant.",
+    "summary_zh": "作者描绘了一个AI已超越人类多领域表现，但日常生活仍未彻底改变的近未来。他认为奇点并非戏剧性跃迁，而是AI持续加速科学进步的逐步累积。文中设想2025年出现具备认知工作的代理，2026年出现能生成新洞见的系统，2027年出现能自建机器人的机器人。核心论点是对齐与普惠两大支柱：首先确保AI与集体价值一致；其次让超级智能成本低、广泛可用，避免权力集中。作者乐观呼吁社会开展治理对话，正视安全、就业与新社会契约的挑战，重新思考工作、创造力与人类在智慧与能量充裕世界中的角色。",
+    "best_quote_en": "If we can do a decade’s worth of research in a year, or a month, then the rate of progress will obviously be quite different.",
+    "best_quote_zh": "如果我们能在一年甚至一个月内完成十年的研究，那么进步的速度显然会大不相同。"
+  },
+  {
+    "id": 39,
+    "title": "DAVID SENRA: Daniel Ek, Spotify",
+    "title_zh": "DAVID SENRA：Daniel Ek 与 Spotify",
+    "source": "Huberman Lab",
+    "link": "https://davidsenra.com/episode/daniel-ek-spotify",
+    "tags": [
+      "learn",
+      "leadership",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "领导管理",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "The debut episode of David Senra’s new podcast spotlights Spotify co‑founder Daniel Ek, weaving together themes of greatness, entrepreneurial evolution, and leadership philosophy. Senra, a self‑proclaimed scholar of peak performance, opens the conversation with Dr. Andrew Huberman, setting a tone that blends neuroscience with business strategy. Ek shares candid reflections on building a company that outlasts its founder, emphasizing trust, intellectual humility, and the art of balancing personal taste with data‑driven product decisions. The interview navigates the tension between impact and happiness, the necessity of self‑motivation, and the iterative nature of leadership at a global tech firm. Beyond anecdotes, Ek offers actionable insights—such as shadowing leaders for growth and learning from rivals like Zuckerberg—that resonate with founders and seasoned executives alike. The episode invites listeners to reframe success as a continuous game of learning and problem‑solving, underscoring that greatness is cultivated through focus, patience, and relentless curiosity. For anyone seeking a nuanced blueprint for scaling culture and product, this podcast delivers a rich, data‑infused narrative that bridges theory and practice.",
+    "summary_zh": "在 David Senra 的首播中，Spotify 联合创始人 Daniel Ek 与主持人深入探讨了伟大与创业的交汇点。对话从 Huberman 的神经科学视角切入，随后揭示了打造超越创始人寿命的企业所需的信任、谦逊与数据驱动的产品决策。Ek 分享了如何在影响力与幸福之间取得平衡、培养自我激励，并通过观察领导者与学习竞争者来提升自己。节目强调持续学习与解决问题是通往卓越的关键，提醒创始人和高管：伟大是通过专注、耐心与好奇心不断塑造的。",
+    "best_quote_en": "Optimizing for Impact Over Happiness.",
+    "best_quote_zh": "以影响力为优化目标，而非仅仅追求快乐。"
+  },
+  {
+    "id": 40,
+    "title": "James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance (#829)",
+    "title_zh": "James Nestor — 呼吸协议：重启健康、改善睡眠、提升表现（#829）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/30/james-nestor-breath/",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "James Nestor’s interview unpacks breathing as a forgotten science that can recalibrate health, sleep, and performance. He blends rigorous research—coherent breathing, CO₂ monitoring, and the BOLT score—with personal experimentation, revealing how subtle shifts in breath can lower blood pressure, improve sleep architecture, and even influence neuro‑developmental conditions like ADHD. Nestor critiques the commercial breathing‑work hype, arguing that most people already possess a biological breathing system that, if tuned, offers profound benefits. The episode is a treasure trove of actionable protocols: mouth‑taping, CO₂‑logging with an Aranet4, and simple five‑second inhalation‑exhalation patterns. It also contextualizes breathwork within broader health narratives, linking poor nocturnal breathing to diabetes risk and stunted growth. For readers, the value lies in a data‑driven, evidence‑based toolkit that demystifies breathing, offering practical steps for immediate health gains and a critical lens on the wellness industry’s commodification of breath.",
+    "summary_zh": "詹姆斯·内斯特在访谈中把呼吸定位为被遗忘的科学，展示其如何重塑健康、睡眠与表现。他结合科研与自我实验，揭示微小呼吸调整可降低血压、改善睡眠结构，并与 ADHD 等神经发育问题相关。内斯特批评商业化呼吸训练，强调人们已有的呼吸系统若调校即可获益。节目提供可操作协议：口腔封闭、Aranet4 CO₂ 记录、五秒吸呼法，兼顾呼吸与整体健康风险。读者可获得基于数据、可立即实践的呼吸工具，并获得对健康产业商业化的批判视角。",
+    "best_quote_en": "\"I think one of the biggest things that I found … is the [number] of kids [who] have sleep disorder breathing, this can be snoring or sleep apnea or some sort of dysfunction in their breathing at night. And then if you take that population of kids who have these breathing problems at night, and if you take the population of kids who have ADHD, those two diagrams almost completely intersect. What many researchers are saying is that ADHD does not exist. What you’re looking at are sleep‑deprived kids. And the most shocking thing to me is that a kid [who] presents with ADHD, they’re never assessed for their breathing. They’re never assessed for their sleep. They’re given drugs and put on their way, and I think it’s criminal.\"",
+    "best_quote_zh": "“我认为我发现的最大问题是……有睡眠呼吸障碍的孩子数量——可能是打鼾、睡眠呼吸暂停或其他夜间呼吸功能障碍。若把这些孩子与患 ADHD 的孩子进行对照，两个群体几乎完全重叠。许多研究人员认为 ADHD 并不存在，你看到的是睡眠不足的孩子。令我震惊的是，呈现 ADHD 症状的孩子从未接受过呼吸或睡眠评估，却被开药处理，我认为这是一种犯罪。”"
   }]
