@@ -995,4 +995,119 @@
     "summary_zh": "詹姆斯·内斯特在访谈中把呼吸定位为被遗忘的科学，展示其如何重塑健康、睡眠与表现。他结合科研与自我实验，揭示微小呼吸调整可降低血压、改善睡眠结构，并与 ADHD 等神经发育问题相关。内斯特批评商业化呼吸训练，强调人们已有的呼吸系统若调校即可获益。节目提供可操作协议：口腔封闭、Aranet4 CO₂ 记录、五秒吸呼法，兼顾呼吸与整体健康风险。读者可获得基于数据、可立即实践的呼吸工具，并获得对健康产业商业化的批判视角。",
     "best_quote_en": "\"I think one of the biggest things that I found … is the [number] of kids [who] have sleep disorder breathing, this can be snoring or sleep apnea or some sort of dysfunction in their breathing at night. And then if you take that population of kids who have these breathing problems at night, and if you take the population of kids who have ADHD, those two diagrams almost completely intersect. What many researchers are saying is that ADHD does not exist. What you’re looking at are sleep‑deprived kids. And the most shocking thing to me is that a kid [who] presents with ADHD, they’re never assessed for their breathing. They’re never assessed for their sleep. They’re given drugs and put on their way, and I think it’s criminal.\"",
     "best_quote_zh": "“我认为我发现的最大问题是……有睡眠呼吸障碍的孩子数量——可能是打鼾、睡眠呼吸暂停或其他夜间呼吸功能障碍。若把这些孩子与患 ADHD 的孩子进行对照，两个群体几乎完全重叠。许多研究人员认为 ADHD 并不存在，你看到的是睡眠不足的孩子。令我震惊的是，呈现 ADHD 症状的孩子从未接受过呼吸或睡眠评估，却被开药处理，我认为这是一种犯罪。”"
+  },{
+    "id": 41,
+    "title": "Is it true that … women snore less than men?",
+    "title_zh": "女性比男性更少打鼾是真的吗？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/29/is-it-true-that-women-snore-less-than-men",
+    "tags": [
+      "solve",
+      "medicine",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "The Guardian’s latest piece on snoring dispels the myth that women are silent sleepers, revealing that men are nearly twice as likely to snore. Yet the gender gap narrows during two pivotal life stages—menopause and pregnancy—when hormonal shifts loosen airway tone. The article blends clinical data with expert commentary from UCL’s sleep surgeon, underscoring that snoring can signal serious conditions like sleep apnoea. It challenges readers to listen to their bodies, offering actionable advice: if snoring disrupts a partner’s sleep, seek medical evaluation. Beyond the statistics, the piece invites reflection on how gendered assumptions about health are rooted in societal bias rather than biology. By linking physiology, life‑stage changes, and practical steps, it equips readers with both knowledge and a roadmap for healthier nights.",
+    "summary_zh": "这篇Guardian文章揭示，男性打鼾几乎是女性的两倍，但在更年期与怀孕时性别差距缩小。专家指出，打鼾可能是睡眠呼吸暂停等严重病症的信号，提醒人们若打鼾影响伴侣睡眠应就医。文章批判性别刻板印象，提供可操作建议，帮助读者在生理与生活阶段中把握健康。",
+    "best_quote_en": "A change in snoring patterns should not be ignored, as it could be a symptom of a medical issue.",
+    "best_quote_zh": "如果打鼾模式发生变化，不能忽视，因为它可能是医疗问题的症状。"
+  },
+  {
+    "id": 42,
+    "title": "An NFT That Saves Lives",
+    "title_zh": "拯救生命的NFT",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nft.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The article presents a groundbreaking use of non‑fungible tokens (NFTs) as a dynamic fundraising vehicle for a nonprofit that saves neonatal lives in South Asia. By tying the proceeds of a single NFT sale to a verifiable health impact—9 babies saved per 1,000 live births—the initiative turns an abstract digital asset into a measurable life‑saving metric. The reserve price of $2.5 million, calibrated to the cost of saving 2,000 lives, creates a powerful incentive for buyers to push the price higher, thereby increasing both the financial and humanitarian returns. This model showcases how blockchain transparency can be leveraged for social impact, offering a template for other mission‑driven organizations to monetize their cause while maintaining accountability. The piece is both inspirational and instructive, revealing a practical framework that blends philanthropy, data analytics, and emerging tech for real‑world change.",
+    "summary_zh": "文章展示了NFT如何成为社会公益的动态筹资工具：每售出一枚NFT，捐款将直接用于验证的健康影响——每千次活产可挽救九名婴儿。预留价250万美元对应拯救两千条生命，激励买家提高价格，进而扩大资金与人道回报。此模式将区块链透明度与公益结合，为其他使命组织提供可复制的商业模型。",
+    "best_quote_en": "The reserve price was about $2.5 million, because that's what it takes for the name to be accurate: that's what it costs to save 2000 lives.",
+    "best_quote_zh": "预留价格约为250万美元，因为这正是名称准确的成本：这就是拯救2000条生命所需的费用。"
+  },
+  {
+    "id": 43,
+    "title": "Why Israel and Hamas Might Finally Have a Deal",
+    "title_zh": "以色列与哈马斯可能达成协议的原因",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article dissects why a Gaza cease‑fire may finally materialize, weaving together three converging forces: Hamas’s political calculus, Trump’s unprecedented U.S. leverage, and Israel’s strategic fatigue. It argues that Hamas, split between hard‑liners and pragmatists, has reached a point where survival outweighs ideology, making it more willing to negotiate. Trump’s pressure—rooted in personal ambition, Gulf alliances, and a desire for a “win” narrative—has forced Netanyahu to consider a deal that trades hostages for prisoners and calls for Hamas disarmament, under a U.S.‑led oversight board. The piece underscores that, unlike previous administrations, Trump’s style is transactional and focused on image, allowing him to pull unprecedented levers. Yet it also cautions that the deal’s durability is uncertain: without concrete withdrawal guarantees, Hamas may still use the agreement to consolidate power. Ultimately, the analysis invites readers to weigh the political gamble against the humanitarian imperative, highlighting how domestic politics can reshape a protracted conflict.",
+    "summary_zh": "文章剖析以色列与哈马斯停战的可能性，聚焦哈马斯政治取舍、特朗普前所未有的美国影响力以及以色列的疲惫。它指出，哈马斯已将生存置于意识形态之上，特朗普的压力迫使内塔尼亚胡考虑以人质换囚犯、武器停用的方案，并设立美国主导的监督机构。文章警示，缺乏撤军保证的协议易被哈马斯利用巩固权力，最终提醒读者权衡政治博弈与人道需求。",
+    "best_quote_en": "Trump basically said, 'You do what I say. I’m the most pro‑Israeli President in the history of the world. You do what I say. I’ve given you a document, which by and large is a very pro‑Israel deal that does not envision a Palestinian state.'",
+    "best_quote_zh": "我认为哈马斯，甚至有外部和内部领导层之间的重大分裂，已经达到了政治生存将优先于意识形态的地步。"
+  },
+  {
+    "id": 44,
+    "title": "North America Adventures",
+    "title_zh": "北美冒险",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/north-america-adventures/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article champions two indispensable travel manuals—The People’s Guide to Mexico and The Milepost—highlighting their evolution, depth, and practical wisdom. It underscores how these guides transcend ordinary tourist handbooks by offering immersive, off‑beat insights into local culture, driving safety, and health precautions. The author’s personal anecdotes—ranging from navigating Mexico’s perilous highways to managing traveler’s diarrhea—illustrate the guides’ real‑world applicability. The piece also critiques generic guidebooks’ limitations, positioning these two titles as living encyclopedias that adapt through updated online resources. The broader implication is a call for travelers to prioritize experiential, context‑rich knowledge over superficial listings, thereby fostering safer, more authentic journeys. The narrative invites readers to view travel as a continuous learning process, where seasoned guides serve as both compass and safety net.",
+    "summary_zh": "文章强调两本不可或缺的旅行手册，提供深度实用智慧，超越普通旅游指南，帮助读者在北美冒险中获得安全、真实的体验。",
+    "best_quote_en": "The People’s Guide to Mexico is one of the best travel guides I’ve ever seen to anywhere in the world.",
+    "best_quote_zh": "它是人们在墨西哥的操作手册。"
+  },
+  {
+    "id": 45,
+    "title": "How to Make Yourself Unbreakable | DJ Shipley",
+    "title_zh": "如何让自己坚不可摧 | DJ Shipley",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "In this episode, retired Navy SEAL DJ Shipley demystifies the architecture of unbreakable resilience, weaving together rigorous physical routines, micro‑win psychology, and cutting‑edge mental‑health interventions. He frames every setback as a “small win” to be stacked, urging listeners to adopt a mindset of intentionality and to “control the controllable.” Shipley’s narrative is a living case study: from the claustrophobic corridors of BUD/S to the raw vulnerability of post‑deployment PTSD, he illustrates how structured rituals—morning workouts, compartmentalization, and deliberate rest—can recalibrate neuroplasticity. He also ventures into the therapeutic frontier of psychedelics, discussing ibogaine and 5‑MeO‑DMT as tools for empathy‑building and ego dissolution, positioning them as adjuncts to conventional counseling. The episode balances anecdote with actionable frameworks, offering listeners a blueprint to cultivate mental toughness, physical health, and holistic well‑being. It invites a broader conversation about veteran care, mental‑health stigma, and the science of resilience, prompting listeners to ask: what can I stack today to become unbreakable?",
+    "summary_zh": "退役海豹突击队员DJ Shipley在本期节目中拆解“坚不可摧”的结构，结合高强度训练、微小胜利心理与前沿心理疗法，展示从BUD/S到战后PTSD的自我重塑之路。他强调“控制可控”，倡导每日小步前行与刻意练习，甚至探讨伊波加因与5‑MeO‑DMT等精神药物在同理心与自我解构中的潜力。节目既是案例研究，也是可操作的行动指南，鼓励听众将身心韧性、健康与幸福纳入日常。此内容不仅为退伍军人提供新视角，也呼吁大众关注心理健康与韧性科学，让我们思考：今天我能做什么，让自己更坚韧？",
+    "best_quote_en": "Control the Controllable",
+    "best_quote_zh": "控制可控"
   }]
