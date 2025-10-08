@@ -1110,4 +1110,123 @@
     "summary_zh": "退役海豹突击队员DJ Shipley在本期节目中拆解“坚不可摧”的结构，结合高强度训练、微小胜利心理与前沿心理疗法，展示从BUD/S到战后PTSD的自我重塑之路。他强调“控制可控”，倡导每日小步前行与刻意练习，甚至探讨伊波加因与5‑MeO‑DMT等精神药物在同理心与自我解构中的潜力。节目既是案例研究，也是可操作的行动指南，鼓励听众将身心韧性、健康与幸福纳入日常。此内容不仅为退伍军人提供新视角，也呼吁大众关注心理健康与韧性科学，让我们思考：今天我能做什么，让自己更坚韧？",
     "best_quote_en": "Control the Controllable",
     "best_quote_zh": "控制可控"
+  },{
+    "id": 46,
+    "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
+    "title_zh": "改变我的那一刻：我不再自我克制——并找到了我的真爱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/08/a-moment-that-changed-me-i-stopped-restraining-myself-and-found-the-love-of-my-life",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Francesca Hornak’s candid memoir turns a seemingly trivial toe‑stub into a profound lesson in authenticity. She reveals how the rigid persona she cultivated—bright, funny, “unavailable”—was a shield against male approval and a barrier to genuine intimacy. The moment her unexpected roar broke that façade, she confronted the internalized script that women must be silent, polished, and compliant. By letting the raw, unfiltered reaction surface, she redefined the parameters of her relationship with Luke, moving from performative romance to an honest partnership. The narrative functions as both a personal case study and a broader commentary on gendered expectations, illustrating how small acts of vulnerability can catalyze lasting change. Her story invites readers to question societal “rules,” encouraging a shift toward self‑acceptance and healthier relational dynamics. It serves as an inspiring guide for anyone striving to let go of performance and embrace authenticity in love and life.",
+    "summary_zh": "在一段看似平凡的脚趾受伤中，Francesca Hornak 通过一次无意的咆哮，揭示了自我抑制与真诚关系之间的裂缝。她曾把自己塑造成光鲜亮丽、表面可爱，却内在掩饰情感的“无可挑剔”伴侣。那一声粗犷的呼喊打破了她对女性应保持沉默、温柔的刻板印象，促使她重新审视与 Luke 的相处方式，从表演式的浪漫转向坦诚相待。此篇不只是一段个人成长的案例，更映射出社会对女性行为的期待与限制，提醒我们：敢于展露真实自我，往往能开启更深层次的情感纽带。",
+    "best_quote_en": "I stopped seeing relationships as a case of following The Rules.",
+    "best_quote_zh": "我不再把关系视为遵循规则的案例。"
+  },
+  {
+    "id": 47,
+    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
+    "title_zh": "《甜蜜波利塔烘焙手册 / 卡斯特罗的古巴》",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
+    "tags": [
+      "guide",
+      "design",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The article juxtaposes the whimsical, color‑laden Sweetapolita Bakebook with the politically charged Castro’s Cuba, revealing how both authors use vivid imagery to convey deeper narratives. Rosie Alyea’s cookbook transcends ordinary desserts, turning each cake and cookie into a canvas that invites bakers of all levels to experiment with technique, color, and edible art. The book’s accessibility—basic tutorials, beginner‑friendly recipes, and a focus on visual storytelling—makes it a resource for culinary creators seeking both inspiration and instruction. In contrast, Lee Lockwood’s photo‑journalistic tome offers an intimate, almost candid glimpse into Fidel Castro’s vision for a communist society, underscoring the tension between propaganda and genuine social education. The expanded edition’s blend of color photography, essays, and rare interviews enriches the historical narrative, prompting readers to question how ideology is taught from childhood. Together, the pieces underscore the power of creative media—whether frosting or photographs—to shape perception, culture, and policy, urging a nuanced, critical engagement with both art and politics.",
+    "summary_zh": "这篇文章兼顾甜点艺术与政治历史，先以Rosie Alyea的甜蜜烘焙手册展示色彩与技术的双重魅力，再转向Lee Lockwood的《卡斯特罗的古巴》揭示革命者的教育理念与社会塑造。两本书都以丰富的视觉与文字邀请读者深入体验创作与治理的交织，提示我们艺术与政治同样需要细腻与批判。",
+    "best_quote_en": "From an early age, they must be discouraged from every egotistical feeling in the enjoyment of material things.",
+    "best_quote_zh": "从小开始，他们必须被劝阻不要对享受物质事物产生自负的情感。"
+  },
+  {
+    "id": 48,
+    "title": "Three Observations",
+    "title_zh": "三点观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "The article frames AGI as the next monumental tool in humanity’s scaffold of progress, drawing parallels to electricity and the transistor. It offers three scaling‑law observations: intelligence scales logarithmically with compute, cost drops roughly tenfold each year, and the socioeconomic payoff of linear intelligence growth is super‑exponential. These facts imply an accelerating spiral of investment and democratized access, but also uneven distribution of benefits. The author warns that policy and collective choice will shape whether AGI amplifies individual agency or becomes a mass surveillance instrument. The piece blends data‑driven reasoning with visionary speculation, urging early, open‑source deployment to co‑evolve society with the technology. Its practical value lies in quantifying the economic trajectory of AI and framing the ethical stakes, making it a useful primer for researchers, entrepreneurs, and policy makers alike. The writing invites readers to rethink labor, equality, and the future of creativity under an intelligence that can be scaled to any compute budget.",
+    "summary_zh": "作者把AGI视为人类进步的又一支柱，提出三条规模规律：智能与训练资源对数成正比、成本每年下降十倍、线性智能增长的社会收益呈超指数增长。基于此，他预见资本与劳动力的平衡将被打破，若不加监管，AGI可能成为监控工具。文章兼具数据分析与宏观愿景，强调开放与共进的重要性，提醒政策制定者在技术与社会之间寻找平衡。对科研、创业及政策制定者而言，它既是经济路径的量化，也是一面镜子，映照人类创造力与公平的未来。",
+    "best_quote_en": "The intelligence of an AI model roughly equals the log of the resources used to train and run it.",
+    "best_quote_zh": "AI模型的智能大致等于训练和运行所用资源的对数。"
+  },
+  {
+    "id": 49,
+    "title": "Essentials: Using Your Nervous System to Enhance Your Immune System",
+    "title_zh": "要点：利用你的神经系统提升免疫系统",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-nervous-system-immune-system",
+    "tags": [
+      "learn",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "Huberman’s Essentials episode delves into the intimate choreography between the nervous and immune systems, revealing how our mental states and physiological cues can tip the balance of health. He outlines the immune system’s three defense layers—barrier, innate, and adaptive—then bridges each to neural mechanisms such as vagal tone, cytokine signaling, and the glymphatic clearance system. Practical take‑aways include breathing patterns that stimulate the vagus nerve, sleep positioning to enhance glymphatic flow, and targeted supplements like spirulina and fermented foods to modulate the microbiome. The host’s emphasis on mindset—dopamine-driven optimism and early symptom monitoring—underscores a proactive, data‑driven approach to disease prevention and recovery. This episode is a treasure trove for clinicians, biohackers, and curious listeners alike, offering actionable, evidence‑based tools that merge neuroscience, immunology, and behavioral science into a cohesive framework for optimal well‑being.",
+    "summary_zh": "Huberman 在本期节目中细致阐释神经系统与免疫系统的微妙互动，揭示心理状态与生理信号如何影响健康平衡。他概述三层免疫防御，并将其与迷走神经、细胞因子和脑淋巴系统等神经机制相连。节目提供可操作的呼吸技巧、睡眠姿势、补充剂和饮食建议，并强调正念与早期症状监测在疾病预防与康复中的关键作用。内容兼具临床与自我调节价值，为医护、健康爱好者与好奇听众提供整合神经科学、免疫学与行为科学的实用指南。",
+    "best_quote_en": "Mindset and nervous system activation can directly influence the body's ability to heal.",
+    "best_quote_zh": "心态和神经系统激活可以直接影响身体的愈合能力。"
+  },
+  {
+    "id": 50,
+    "title": "The Tim Ferriss Show Transcripts: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should) (#828)",
+    "title_zh": "《蒂姆·费里斯秀》访谈记录：大卫·塞纳——极致赢家的思维与成功：汲取400多位历史上最伟大创始人与投资者的经验（包括巴菲特、芒格、洛克菲勒、乔布斯、奥维茨、泽尔及你可能不知晓但应当了解的名字）(#828)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/26/david-senra-transcript/",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This transcript of Tim Ferriss’s interview with David Senra is a masterclass in how the world’s most successful entrepreneurs think, learn, and win. Senra, who devotes a podcast to dissecting biographies of 400+ titans, reveals that extreme winners share a common pattern: relentless curiosity, a disciplined note‑taking system, and a willingness to transform knowledge into action. He details his own method of physically annotating books, synthesizing insights, and converting them into concrete business moves. The conversation also explores the emotional underpinnings of success—how personal trauma, ambition, and an obsessive drive converge to fuel achievement. The dialogue offers actionable frameworks for listeners: read widely, highlight, distill, and immediately apply. It underscores that true learning is behavioral change, not mere memorization, and that the path to greatness is paved by disciplined, iterative practice rather than fleeting inspiration.",
+    "summary_zh": "大卫·塞纳在《蒂姆·费里斯秀》访谈中，系统剖析400多位史上顶尖创始人与投资者的思维与成功之道。他强调极致赢家的共性：对知识的无尽好奇、严谨的笔记与实践，以及将学到的东西转化为行动的能力。塞纳分享自己对书籍的物理标注、提炼洞见、并将其落地的流程，指出真正的学习是行为改变而非记忆。通过对个人创伤与抱负的探讨，他展示成功背后的情感驱动，提醒听众：持续阅读、精准标记、快速落地，是通往卓越的必经之路。",
+    "best_quote_en": "Learning is not memorizing information. Learning is changing your behavior.",
+    "best_quote_zh": "学习不是记忆信息，而是改变行为。"
   }]
