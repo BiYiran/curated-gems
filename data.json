@@ -1346,4 +1346,123 @@
     "summary_zh": "Iconoclast与Vermillio的合作展示了在生成式AI时代保护艺术家遗产的创新路径。通过TraceID平台，双方能实时监测并阻止未授权使用Tony Bennett的姓名、形象与声音，为版权持有者提供可持续收益与控制权。此举不仅为音乐与娱乐行业树立了新标准，也提示其他领域需预见AI带来的侵权风险。合作强调技术与伦理的双重平衡，既维护创作者身份，又鼓励合法创作与商业化。对艺术家遗产的数字化管理意味着更广泛的受众接触与更高的价值挖掘，值得业界深思与模仿。",
     "best_quote_en": "Partnering with Vermillio allows us to navigate the evolving technological landscape, preserving Tony’s artistic identity while embracing new, responsible and creative ways to extend his reach.",
     "best_quote_zh": "与Vermillio合作使我们能够在不断演变的技术格局中导航，既保留Tony的艺术身份，又以负责任且富有创意的方式扩展他的影响力。"
+  },{
+    "id": 56,
+    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
+    "title_zh": "《铁娘子》影评——矿工罢工抗议线上的女性激励故事",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "The documentary \"Iron Ladies\" shines a rare spotlight on the women who joined the 1984‑85 miners’ strike, a story usually dominated by men’s grunts and police clashes. It follows the Women Against Pit Closures (WAPC) network, with real voices like 80‑year‑old Betty Cook, who vowed not to sit at home and cry but to picket, raise funds, and even chain themselves to the office of Defence Secretary Michael Heseltine. The film captures the raw thrill of activism, the social stigma they faced, and the profound personal transformation that followed—many became local councillors, mayors, and lifelong advocates for community welfare. It challenges the myth that working‑class women’s histories are invisible, arguing instead that these stories are pivotal to understanding the era’s political turmoil. By blending archival footage, candid interviews, and a nuanced narrative, the film invites viewers to reconsider the role of gender in labor struggles and to recognize the enduring legacy of these \"iron ladies.\"",
+    "summary_zh": "《铁娘子》纪录片聚焦曾被忽视的矿工罢工女性，她们不再是旁观者，而是投身抗议、筹款、连锁抗议的行动者。影片通过80岁贝蒂·库克等人的亲身叙述，揭示了女性在当时被社会标签化、被批评为不适合做妻子和母亲的痛点。她们的参与不仅点燃了个人的政治觉醒，也催生了后续的地方政治与社区服务事业。影片挑战了“工人阶级女性历史无关紧要”的陈规，强调她们在劳工运动中的不可替代角色，并通过档案与访谈重现那段激烈而充满情感的历史。",
+    "best_quote_en": "\"Working-class women’s history isn’t reported. It’s not important.\"",
+    "best_quote_zh": "我不想坐在家里哭，我要做点事"
+  },
+  {
+    "id": 57,
+    "title": "The Real Reason to End the Death Penalty",
+    "title_zh": "结束死刑的真正理由",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/real.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "While the death penalty has long been defended on moral and deterrence grounds, this article reframes the debate by spotlighting a far more urgent crisis: the systematic execution of innocent men. Drawing on a compendium of high‑profile exonerations—from DNA‑verified releases to the discredited bite‑mark testimony—the author exposes a web of procedural failures, coercive interrogations, and institutional incentives that routinely distort justice. The narrative moves beyond abstract theory to a stark, data‑driven portrait of a system that, in practice, kills the wrong people. This critique forces readers to confront the paradox that the most fundamental question—whether the state can justifiably take a life—has been eclipsed by a larger moral failure: the state’s compulsion to convict and execute. The piece calls for a reckoning with the mechanics of wrongful conviction, urging reforms that prioritize evidentiary integrity over punitive spectacle. It serves both as a sobering warning and a clarion call for systemic change.",
+    "summary_zh": "文章把死刑辩论从道德和威慑转向更紧迫的危机——无辜者被执行。通过DNA排除、伪专家证词等案例，揭示司法失误、强迫证词与制度偏见。作者以数据为证，指出实践中死刑往往导致错误处决。呼吁改革，强调证据完整性，警示人们必须正视司法系统的根本缺陷。",
+    "best_quote_en": "In practice capital punishment means killing innocent people.",
+    "best_quote_zh": "在实践中，死刑意味着杀害无辜的人。"
+  },
+  {
+    "id": 58,
+    "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
+    "title_zh": "特朗普自诩“和平总统”在国外，却在国内发动战争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-the-self-styled-president-of-peace-abroad-makes-war-at-home",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "In a stark juxtaposition that fuels the political circus, former President Donald Trump’s self‑proclaimed global peacemaker persona collides with a brutal domestic agenda. The article traces how the 2025 administration boasts of “ending seven wars” while simultaneously mobilizing National Guard forces in Portland, Chicago and other cities under the pretext of civil unrest. It scrutinises the credibility of his so‑called cease‑fire achievements—particularly the Gaza phase‑one deal—highlighting the selective use of language, the misattribution of victories, and the tension between rhetoric and reality. By dissecting Trump’s narrative, the piece offers a nuanced critique of political opportunism, the manipulation of international goodwill, and the erosion of democratic norms when executive power is wielded as a tool of domestic intimidation. The analysis invites readers to question the authenticity of political messaging, the ethics of foreign mediation, and the broader implications for U.S. governance and global stability.",
+    "summary_zh": "特朗普自诩“和平总统”，却在国内发动战争，文章揭露其“七场战争”自夸与在波特兰、芝加哥等城市动用国民警卫队的矛盾。通过剖析其在加沙停火的说法与对内军事化言论，质疑政治信息的真实性、外交操纵与民主规范的侵蚀，提醒读者关注权力滥用与国际治理的后果。",
+    "best_quote_en": "\"I am very proud to announce that Israel and Hamas have both signed off on the first Phase of our Peace Plan,\" he wrote.",
+    "best_quote_zh": "“我非常自豪地宣布，以色列和哈马斯都已签署我们和平计划的第一阶段。”"
+  },
+  {
+    "id": 59,
+    "title": "Size of Africa/Office Mandate Realities/Cheaper Mexico Flights",
+    "title_zh": "非洲规模/办公室强制现实/更便宜的墨西哥航班",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/size-of-africa-office-mandate-realities-cheaper-mexico-flights/",
+    "tags": [
+      "update",
+      "data-science",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "数据科学",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "The newsletter stitches together four seemingly unrelated observations into a coherent narrative about scale, work, travel, and policy. First, a striking visual map demonstrates how vast Africa truly is—so much so that it can accommodate China, the U.S., India, and Iran side‑by‑side, yet still leave room for 21 more countries. This sets the stage for a broader lesson: our mental maps often misrepresent reality. Second, the piece turns to the return‑to‑office debate, highlighting a stark gap between mandates and employee behavior: a 12% rise in required office time only nudges attendance by 1‑3%. It then offers a pragmatic solution—listings of fully remote firms and job boards that eliminate commuting altogether. Third, a practical travel hack is revealed: flying into Cancun and switching carriers can yield cheaper routes to Mexico’s interior, thanks to the network of budget airlines. Finally, a warning about the U.S. federal shutdown underscores how policy paralysis can ripple into airport chaos, affecting security and flight schedules. Together, the four bites underscore the importance of questioning assumptions, leveraging data, and seeking creative workarounds in an increasingly complex world.",
+    "summary_zh": "四个看似无关的观察点，汇聚成关于尺度、工作、旅行与政策的连贯叙事。先用震撼地图展示非洲之广，随后揭露回归办公室的“空洞”规定——强制时间提升12%，却只带来1‑3%出勤率。紧接着给出远程就业的实用对策；随后分享前往墨西哥的省钱航班技巧；最后警示美国联邦停摆可能导致机场延误。全篇提醒读者质疑常识、利用数据、寻找创新方案。",
+    "best_quote_en": "While required office time increased by 12% from 2024 to 2025, actual office attendance only increased by 1-3%.",
+    "best_quote_zh": "虽然2024年至2025年强制办公时间增加了12%，但实际办公出勤率仅增加了1-3%。"
+  },
+  {
+    "id": 60,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "OpenAI’s announcement of GPT‑4o marks a pivotal shift from a purely research‑centric vision to a product‑first mindset that democratizes AI access while sustaining a commercial model. By offering the most capable model for free in ChatGPT, the company underscores its commitment to societal benefit, yet it simultaneously signals that monetizable features—personalization, data integration, and action‑taking—will underpin future revenue streams. The new voice and video mode, described as the best computer interface the author has ever used, represents a leap toward human‑like interaction, blurring the line between machine and conversational partner. This development raises critical questions about privacy, agency, and the ethical deployment of such powerful interfaces. For developers, educators, and entrepreneurs, GPT‑4o presents both a toolkit and a challenge: how to harness unprecedented expressiveness responsibly while building sustainable business models. The announcement invites a broader conversation about the role of AI in everyday life and the responsibilities of its creators.",
+    "summary_zh": "OpenAI推出GPT‑4o，标志着从纯科研向产品化转变，免费提供最强模型以惠及大众，同时通过可付费功能实现商业化。全新语音视频模式被誉为最佳计算机界面，逼真度逼近电影般AI，推动人与机器对话的自然化。此举激发关于隐私、代理权与伦理部署的讨论，也为开发者、教育者和创业者提供了前所未有的表达力与商业机会。",
+    "best_quote_en": "The new voice (and video) mode is the best computer interface I’ve ever used. It feels like AI from the movies; and it’s still a bit surprising to me that it’s real.",
+    "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。它像电影里的 AI；而它的存在让我仍然有点惊讶。"
   }]
