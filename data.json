@@ -1465,4 +1465,123 @@
     "summary_zh": "OpenAI推出GPT‑4o，标志着从纯科研向产品化转变，免费提供最强模型以惠及大众，同时通过可付费功能实现商业化。全新语音视频模式被誉为最佳计算机界面，逼真度逼近电影般AI，推动人与机器对话的自然化。此举激发关于隐私、代理权与伦理部署的讨论，也为开发者、教育者和创业者提供了前所未有的表达力与商业机会。",
     "best_quote_en": "The new voice (and video) mode is the best computer interface I’ve ever used. It feels like AI from the movies; and it’s still a bit surprising to me that it’s real.",
     "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。它像电影里的 AI；而它的存在让我仍然有点惊讶。"
+  },{
+    "id": 61,
+    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
+    "title_zh": "为何值得更广泛地审视双王制文化 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "The piece invites readers to reconsider the prevalence of biarchal societies—systems where gender equality was the norm—by drawing on evidence from North America, Africa, South India, and Polynesia. It critiques Laura Spinney’s Eurocentric focus, highlighting how colonialism systematically erased female autonomy in Indigenous communities such as the Mi’kmaw and Kikuyu. By foregrounding matrilineal practices, agricultural control, and the reverence for gender-variant individuals, the article underscores that gender egalitarianism is not a modern utopia but a historical reality. This nuanced perspective challenges the binary of patriarchy versus matriarchy, revealing a spectrum where both genders co‑rule and diverse gender expressions are celebrated. For scholars and activists alike, the text serves as a call to excavate and honor these forgotten models, offering a richer framework for contemporary gender politics and decolonial scholarship. The article’s layered narrative invites critical reflection on how historical narratives shape our understanding of power, autonomy, and identity.",
+    "summary_zh": "文章通过北美、非洲、南印度与波利尼西亚的案例，呼吁重新审视双王制社会——性别平等的历史现实。它批判欧洲中心视角，强调殖民主义如何破坏米克马、基库尤等原住民的女性自治。文中强调母系农业控制、对跨性别者的崇敬，展示了性别共治与多元性别表达的共存。此视角挑战传统父权/母权二元论，为当代性别政治与去殖民学术提供更丰富的框架。",
+    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
+    "best_quote_zh": "在基库尤文化实践中，女性对农业生产拥有控制权，社区的主要生计来源。Mukuru说，她惊讶地发现该文化也是母系和性自由的。"
+  },
+  {
+    "id": 62,
+    "title": "Gar’s Tips & Tools – Issue #205",
+    "title_zh": "Gar的技巧与工具 – 第205期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
+    "tags": [
+      "solve",
+      "design",
+      "programming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "编程开发",
+      "新手友好"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This issue of Gar’s Tips & Tools stitches together a tapestry of maker‑centric wisdom, from the humble spray booth to the intricacies of benchtop power supplies. The spray‑booth segment showcases resourcefulness—leveraging inexpensive components like a storage tote, furnace filter, and a brushless Mounto fan to create a safe, explosion‑proof environment. The rotary‑tool review balances enthusiasm with realism, acknowledging its limited torque yet celebrating its affordability for light plastic work. The carpenter‑pencil tutorial demystifies a seemingly simple tool, turning it into a versatile marking and measuring aid. Becky Stern’s power‑supply primer stands out as a textbook‑style guide, emphasizing safety, precision, and practical troubleshooting for electronics hobbyists. Minor anecdotes, such as battery rolling, add a human touch that underscores the joy of incremental efficiency. Overall, the newsletter delivers actionable, beginner‑friendly insights that empower makers to iterate, experiment, and save money without compromising safety or quality. Its blend of hands‑on demos, concise explanations, and community engagement exemplifies how niche expertise can be distilled into accessible, high‑impact content for a DIY audience.",
+    "summary_zh": "本期Gar的技巧与工具将喷漆舱、旋转工具、木匠铅笔和台式电源等多元主题交织在一起，既强调低成本实用性，又不失安全与专业性。喷漆舱用廉价零件构建，突出无爆炸风险；旋转工具虽扭矩有限，却因价格亲民而适合轻量塑料加工；木匠铅笔教程将平凡工具升级为多功能测量标记利器；贝基·斯特恩的电源指南则像课堂笔记，强调安全、精准与调试技巧。小细节如电池滚动更添人情味，提醒读者细节也能带来效率提升。整体内容实用、易学，帮助爱好者在实验、迭代与省钱之间找到平衡。",
+    "best_quote_en": "Unlike batteries or wall adapters, they provide precision, built-in protection, and flexibility that make them indispensable for prototyping, debugging, and testing, and all serious benchtop electronics work.",
+    "best_quote_zh": "与电池或壁式适配器不同，它们提供精确度、内置保护和灵活性，使其成为原型制作、调试和测试以及所有严肃的台式电子工作不可或缺的工具。"
+  },
+  {
+    "id": 63,
+    "title": "What I Wish Someone Had Told Me",
+    "title_zh": "我希望有人早告诉我",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2023-12-21",
+    "summary_en": "This compact manifesto distills the author’s hard‑earned wisdom into fifteen punchy directives, each a micro‑lesson for founders and teams. The overarching theme is that success hinges on a paradoxical blend of optimism, disciplined focus, and relentless execution. The author argues that starting is about raw energy—optimism, obsession, and personal connections—while finishing demands cohesion, calm urgency, and an unwavering commitment that transcends short‑term ego. A key insight is the strategic prioritization of high‑conviction bets: concentrate resources on a few audacious ideas rather than spreading thin, a practice that “deletes more stuff than you think.” The piece also emphasizes the power of incentives, clear communication, and fast iteration—reminding readers that plans span decades while execution is measured in weeks. Critically, it warns against bureaucracy and the “laws of physics” of business, urging founders to fight systemic inertia. The tone is pragmatic yet inspirational, encouraging a mindset of continuous learning, bold risk‑taking, and relentless resilience. It offers a concise, actionable playbook that resonates with both seasoned entrepreneurs and newcomers seeking a disciplined yet flexible framework for building enduring ventures.",
+    "summary_zh": "这篇短小精悍的宣言把作者的经验浓缩成十五条简洁指令，既是创业者的实战手册，也是团队的思考指南。作者强调，创业的起点在于热情与人脉，而成就的关键在于凝聚与执行。最具启发性的是“把资源聚焦在少数高信念赌注上”，这提醒我们要敢于抛弃琐碎，专注突破。文中还提到激励的超能力、快速迭代以及对官僚主义的抵制，提醒创业者以短周期检验、长期愿景为导向。整体语调务实而激励，鼓励持续学习、敢于冒险、永不放弃，提供了一套兼具灵活性与纪律性的创业思维框架。",
+    "best_quote_en": "Incentives are superpowers; set them carefully.",
+    "best_quote_zh": "激励是超能力；要精心设定。"
+  },
+  {
+    "id": 64,
+    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
+    "tags": [
+      "solve",
+      "science",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "The transcript offers a deep dive into behavioral economics, with Thaler and Kokonas unpacking how classic economic models assume rational agents while real-world behavior deviates. They discuss the winner’s curse, temptation bundling, nudges, and practical experiments—coffee‑mug pricing, reservation deposits—that illustrate loss aversion and status‑quo bias. The conversation spans finance (401(k) enrollment), hospitality (Tock), and even road safety (painted lane lines). It highlights the tension between rigorous modeling and messy human psychology, the power of storytelling for teaching, and the ethical boundaries of nudging. The episode delivers actionable insights for entrepreneurs, policymakers, and anyone designing systems that account for bounded rationality.",
+    "summary_zh": "本集对话深入行为经济学，阐释传统模型假设理性主体与现实偏差。通过赢家诅咒、诱惑捆绑、提示实验，展示失控偏差与选择架构如何影响金融、餐饮与交通等领域。讨论理论严谨与人性复杂的张力，强调故事化教学与道德边界。为创业者、决策者提供实用、可操作的系统设计思路。",
+    "best_quote_en": "People don’t actually maximize; they act as if they did.",
+    "best_quote_zh": "人们并不真正最大化；他们只是表现得好像在最大化。"
+  },
+  {
+    "id": 65,
+    "title": "From Drake losing his UMG lawsuit to HYBE’s new services division… it’s MBW’s weekly round-up",
+    "title_zh": "从Drake败诉UMG到HYBE新服务部门… MBW本周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-drake-losing-his-umg-lawsuit-to-hybes-new-services-division-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "leadership",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "The roundup stitches together a week of music‑industry drama and strategy, highlighting how legal, marketing, and partnership dynamics shape the business today. Drake’s defamation suit against Universal Music Group (UMG) was dismissed, underscoring the legal protection afforded to artistic expression in rap battles and the court’s willingness to distinguish protected opinion from actionable defamation. Meanwhile, UMG quietly launched “House of Carmen,” an influencer‑payment app that monetizes TikTok and Instagram content, signaling a shift toward data‑driven creator marketing. HYBE’s launch of a U.S. services arm, targeting independent artists and labels, illustrates the growing demand for global distribution and marketing infrastructure. The new Spotify–BMG direct publishing deal demonstrates a trend toward multi‑year, direct licensing agreements that aim to deliver higher value to songwriters. Finally, the exit of Warner Music UK’s COO hints at leadership realignments amid deeper U.S.–U.K. integration. Together, these stories reveal a music ecosystem increasingly driven by legal clarity, creator monetization, and strategic partnerships that empower artists and labels alike.",
+    "summary_zh": "本周综述揭示音乐业的法律、营销与合作趋势：Drake诉讼被驳回凸显艺术表达的法定保护；UMG推出“House of Carmen”应用，开启数据驱动的创作者营销；HYBE扩展美国服务部，助力独立艺人；Spotify‑BMG直接授权协议强调对创作者的价值回馈；Warner UK COO离职显示高层调整。整体呈现出音乐生态正向更开放、数据化与合作化发展。",
+    "best_quote_en": "From the outset, this suit was an affront to all artists and their creative expression and never should have seen the light of day.",
+    "best_quote_zh": "我们很高兴法院驳回了此案，并期待继续成功推广Drake的音乐并投资他的事业。"
   }]
