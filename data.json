@@ -1584,4 +1584,117 @@
     "summary_zh": "本周综述揭示音乐业的法律、营销与合作趋势：Drake诉讼被驳回凸显艺术表达的法定保护；UMG推出“House of Carmen”应用，开启数据驱动的创作者营销；HYBE扩展美国服务部，助力独立艺人；Spotify‑BMG直接授权协议强调对创作者的价值回馈；Warner UK COO离职显示高层调整。整体呈现出音乐生态正向更开放、数据化与合作化发展。",
     "best_quote_en": "From the outset, this suit was an affront to all artists and their creative expression and never should have seen the light of day.",
     "best_quote_zh": "我们很高兴法院驳回了此案，并期待继续成功推广Drake的音乐并投资他的事业。"
+  },{
+    "id": 66,
+    "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
+    "title_zh": "我不断寻找帮助：留在乍得沙漠营地的苏丹女性被迫自食其力",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/oct/08/aid-cuts-sudanese-refugees-chad-malnutrition-healthcare",
+    "tags": [
+      "update",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "The Guardian’s field report paints a stark portrait of Sudanese women stranded in Chad’s remote desert camps, where malnutrition, limited water, and a single MSF‑run ambulance create a lethal triangle for pregnant refugees. Through intimate interviews—Makka’s harrowing labor, Ashe’s desperate search for milk, and Azza’s chronic disease—readers grasp how a single vehicle’s hours of delay can turn a uterine rupture into a death sentence. The piece is data‑driven, citing 878,000 refugees, 86 % women, and 824 births in emergency conditions, yet it remains a powerful case study of humanitarian infrastructure failure. The article invites reflection on global aid cuts, the fragility of “aid‑dependent” camps, and the resilience of women who turn scarcity into small economies. It urges policymakers to rethink transport logistics and nutrition programs, while reminding us that behind the statistics are women who have literally “searched and searched for help.”",
+    "summary_zh": "这篇报道揭示了乍得沙漠营地的苏丹女性在极度缺水、营养不良和医疗资源匮乏中的痛苦生存。通过亲身采访，读者看到单一救护车的延误如何导致孕妇致命。文章以数据为支撑，却又突出人性与韧性，提醒人们关注援助体系的薄弱与女性自力更生的故事。",
+    "best_quote_en": "I have searched and searched and searched for help but I cannot even get the medicine I need.",
+    "best_quote_zh": "我一直在寻找帮助，但我甚至得不到所需的药物。"
+  },
+  {
+    "id": 67,
+    "title": "How People Get Rich Now",
+    "title_zh": "如何让人们现在变得富有",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/richnow.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The article traces the dramatic shift in the sources of wealth among America’s richest from 1982 to 2020, arguing that inheritance has given way to entrepreneurship—especially tech‑driven startups—and that the rise of venture capital and deregulation has made founding a company cheaper and faster. It highlights how oil and real estate dominated the old era, while today’s fortunes stem largely from scalable technology firms that win on product innovation rather than sheer deal‑making. The piece also contextualizes this trend within a broader historical narrative: the 19th‑century industrial boom, the mid‑20th‑century oligopolies, and the late‑20th‑century deregulation that opened the door for a new generation of founders. By examining the cost dynamics of startup creation, the speed of company growth, and the changing balance of power between founders and investors, the author presents a compelling case that wealth creation has become a default, not an exception. This analysis invites readers to rethink the “good old days” and recognize that the current wealth model is a continuation of a long‑standing entrepreneurial tradition, just amplified by technology and lower barriers to entry.",
+    "summary_zh": "文章从1982年到2020年，揭示美国最富有人群财富来源的巨大转变：从继承、油气、房地产转向技术创业。作者指出，科技公司凭借创新而非单纯的交易技巧成为新富翁的主要渠道，风险资本和放松监管降低了创业成本，使创办公司更易、增长更快。文章将这一现象放在19世纪工业浪潮、20世纪中期寡头垄断以及90年代放松管制的历史脉络中，强调财富创造已成为默认路径而非例外。通过剖析创业成本、公司增长速度和创始人与投资者的权力平衡，作者呼吁读者重新审视“好时代”，并看到技术与低门槛如何放大创业传统。\n",
+    "best_quote_en": "The decreasing cost of starting a startup increases the number of rich people in two ways: it means that more people start them, and that those who do can raise money on better terms.",
+    "best_quote_zh": "创业成本的降低以两种方式增加了富人的数量：一是更多人创办公司，二是那些创办公司的人能以更好的条件筹集资金。"
+  },
+  {
+    "id": 68,
+    "title": "The Persistent Pull of Planet Epstein",
+    "title_zh": "埃普斯坦星球的持久吸引力",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "The article dissects the erosion of trust in mainstream media and the rise of a new media ecosystem—“Planet Epstein”—where conspiracy narratives, especially those centered on Jeffrey Epstein, dominate public discourse. By juxtaposing traditional journalism’s foundational principles with the algorithmic amplification of sensational content, the author argues that social‑media platforms now wield greater influence over how Americans consume news than any established outlet. Drawing on recent polls, the piece illustrates a growing appetite for government transparency and a skepticism toward official narratives. It also traces a historical parallel to Father Coughlin’s radio empire, underscoring how technological shifts can rapidly reshape political gravity. The analysis invites readers to question whether the new media’s power has surpassed that of the old guard, suggesting we are closer to that threshold than many realize. Ultimately, it calls for a nuanced understanding of how digital ecosystems shape collective belief systems and the importance of critical media literacy in a fragmented information age.",
+    "summary_zh": "文章剖析主流媒体信任度下降与“埃普斯坦星球”新媒体生态的崛起，指出算法化的社交平台已超越传统媒体影响力。通过民调与历史类比，作者强调公众对政府透明度的渴望与官方叙事的怀疑，并呼吁提升媒体素养，以应对碎片化信息时代的信仰重塑。",
+    "best_quote_en": "If a kind of American consensus is breaking, then the internet has deepened the cracks.",
+    "best_quote_zh": "如果一种美国共识正在瓦解，那么互联网加深了裂痕。"
+  },
+  {
+    "id": 69,
+    "title": "What’s in my NOW? — Colby Black, P.I.",
+    "title_zh": "我的现在里有什么？— Colby Black, P.I.",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-colby-black-p-i/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Colby Black, a self‑described Operational Swiss Army Knife, opens a window into the tangible and intangible tools that shape his day‑to‑day workflow. He blends a mechanical OBD‑II scanner that turns a car’s error codes into a data‑driven diagnostic, a portable 15.6‑inch monitor that extends laptop real‑estate, and a Yeti Rambler that reminds him of the need for reliable hydration. On the digital side he champions Sunsama, a scheduling platform that keeps his personal and professional life in sync, and Cursor, a “vibe coding” editor that feels almost magical. The post closes with a resonant quote about avoiding short‑term greed, echoing a long‑standing personal credo. The piece is less a how‑to guide than a curated “tool kit” that invites readers to experiment, reflect, and adopt actionable habits. It offers practical, cross‑disciplinary insights for anyone seeking to optimize both work and life, making it a useful reference for productivity enthusiasts, tech‑savvy parents, and those curious about how everyday objects can influence mindset and output.",
+    "summary_zh": "Colby Black 用亲身经验分享一系列实用工具，既是个人效率的武器，也是生活方式的调色板。短期贪婪的警句提醒我们长远视角的重要，文章兼具启发与操作性，适合想提升日常生产力的读者。",
+    "best_quote_en": "Never let short term greed get in the way of long term greed.",
+    "best_quote_zh": "不要让短期贪婪阻碍长期贪婪。"
+  },
+  {
+    "id": 70,
+    "title": "Helion Needs You",
+    "title_zh": "Helion 需要你",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion-needs-you",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2022-07-13",
+    "summary_en": "Helion Energy’s recent strides—demonstrating Q > 1 fusion by 2024 and outlining a plan for a mass‑producible generator—reveal a bold vision that could reshape the global energy landscape. The company’s ambition to deliver clean, continuous power at one cent per kilowatt‑hour is not just a technical milestone; it’s a socio‑economic paradigm shift that promises to lower energy costs, enable large‑scale carbon capture, and unlock new industries. Yet, the path from laboratory breakthrough to commercial reality hinges on engineering resilience, scalable manufacturing, and policy integration—areas the post highlights as critical bottlenecks. By openly calling for talent across electrical, mechanical, and systems engineering, Helion turns the narrative from “what if” to “what now,” inviting practitioners to tackle real‑world problems. This blend of visionary promise with concrete hiring needs makes the article both a rallying cry and a practical guide for engineers eager to contribute to a future‑focused energy revolution.",
+    "summary_zh": "Helion Energy正朝着2024年实现Q > 1聚变并实现大规模可生产发电机的目标迈进，展示了清洁、持续能源的宏伟蓝图。其将千瓦时成本降至一美分的野心，意味着能源价格将大幅下降，碳捕集将变得可行，乃至整个产业链将被重塑。成功实现这一目标的关键在于可靠的工程设计、可扩展的制造工艺以及与电网和政府的协同。Helion公开招聘电气、机械与系统工程人才，邀请专业人士加入，共同解决从实验室到商业化的技术与管理难题，体现了从“如果”到“现在”的转变。",
+    "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
+    "best_quote_zh": "Helion的进展速度超出我的预期，预计2024年将实现Q > 1聚变，并解决设计大规模可生产发电机所需的所有问题。"
   }]
