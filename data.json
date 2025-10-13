@@ -1697,4 +1697,121 @@
     "summary_zh": "Helion Energy正朝着2024年实现Q > 1聚变并实现大规模可生产发电机的目标迈进，展示了清洁、持续能源的宏伟蓝图。其将千瓦时成本降至一美分的野心，意味着能源价格将大幅下降，碳捕集将变得可行，乃至整个产业链将被重塑。成功实现这一目标的关键在于可靠的工程设计、可扩展的制造工艺以及与电网和政府的协同。Helion公开招聘电气、机械与系统工程人才，邀请专业人士加入，共同解决从实验室到商业化的技术与管理难题，体现了从“如果”到“现在”的转变。",
     "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
     "best_quote_zh": "Helion的进展速度超出我的预期，预计2024年将实现Q > 1聚变，并解决设计大规模可生产发电机所需的所有问题。"
+  },{
+    "id": 71,
+    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
+    "title_zh": "全球健康研究警告：青少年死亡率上升构成‘新兴危机’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "A landmark Global Burden of Disease study has sounded an alarm: youth mortality is rising in a way that threatens to reshape public health priorities. The report highlights that half of worldwide disease burden is preventable if risk factors such as hypertension, air pollution, smoking and obesity are tackled, yet the data reveal a sharp uptick in deaths among teens and young adults. In North America, the surge is driven by suicide and substance misuse, while in sub‑Saharan Africa infectious disease and injury remain dominant. Chronic illnesses—heart disease, diabetes and mental‑health disorders—now account for two‑thirds of ill‑health, underscoring the urgent need for integrated, youth‑centred care. The authors call for swift policy action, stronger health systems, and a shift from siloed interventions to holistic, data‑driven strategies that protect the next generation.",
+    "summary_zh": "全球健康研究揭示青少年死亡率上升为新兴危机，突显心血管、糖尿病、精神健康等慢性病与环境风险的交织。数据表明，若控制高血压、空气污染、吸烟与肥胖，可防止一半疾病负担。研究呼吁政府迅速行动，构建以青年为中心的整合医疗体系，防范社交媒体、经济不平等带来的心理危害。此报告既是警钟，也是行动指南，提醒我们将公共卫生资源与政策聚焦于年轻人，以扭转危机趋势。",
+    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake‑up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
+    "best_quote_zh": "该研究所呈现的证据是一次警钟，敦促政府和医疗领导者迅速而有策略地应对正在重塑公共卫生需求的令人不安的趋势。"
+  },
+  {
+    "id": 72,
+    "title": "Write Simply",
+    "title_zh": "写作简洁",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/simply.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "In \"Write Simply,\" the author champions clarity over ornamentation, arguing that the simplest prose lets ideas leap into readers’ heads without the friction of dense language. He observes that most readers abandon a piece midway unless the text feels effortless, and that the energy saved by avoiding unnecessary adjectives or jargon is redirected toward engaging with the core message. The essay stresses the global reach of plain writing, noting that non‑native English speakers often grasp concepts more readily than the language itself. By cutting away excess, the writer preserves honesty and longevity—texts that endure when cultural and linguistic shifts occur. The author’s own practice—rapid first drafts followed by meticulous editing—illustrates how simplicity emerges from disciplined revision. The piece is both a practical guide and a philosophical stance, reminding writers that elegance should serve understanding, not ego. It invites anyone who wishes to communicate more powerfully to rethink the value of linguistic minimalism.\n",
+    "summary_zh": "作者在《写作简洁》中强调，简洁的文字让思想自然跃入读者脑中，避免繁琐词句的摩擦。文章指出，读者往往在文章中途放弃，除非文本轻松易读；省去多余修饰可以让读者把精力留给核心观点。作者强调，简洁写作对非母语读者更友好，能跨越语言与文化的变化而长久存在。他提到自己的写作流程：快速完成初稿后，反复删改，最终实现简洁。整篇文章既是实用指南，也是哲学思考，提醒写作者应让优雅服务于理解，而非自我炫耀。",
+    "best_quote_en": "The less energy they expend on your prose, the more they'll have left for your ideas.",
+    "best_quote_zh": "他们在阅读你的文章上花费的精力越少，就越能把精力留给你的想法。"
+  },
+  {
+    "id": 73,
+    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
+    "title_zh": "子线性效用在人口与其他不常见功利主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
+    "tags": [
+      "learn",
+      "society",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This post introduces a novel sub‑linear utility framework for population and other beings, challenging classical utilitarianism’s linear scaling. The author argues that marginal utility rises super‑linearly only up to a certain population threshold, after which additional individuals contribute diminishing returns because the space of valuable experiences becomes saturated. The discussion extends beyond humans to shrimp and post‑human entities, highlighting differing marginal values due to cognitive capacity. By examining simulation duplications, the author shows that value derives from novel observability rather than mere existence, arguing that identical simulations add no extra moral weight unless they reach distinct observers. The piece blends philosophical speculation with informal mathematical modeling, offering a thought experiment that invites readers to reconsider how we count lives and assign value. Its implications touch on effective altruism, policy prioritization, and the ethical treatment of non‑human life, prompting readers to rethink the shape of the utility function in a multi‑species world.",
+    "summary_zh": "作者提出子线性效用模型，认为人口效用在一定规模后递减，强调观测而非单纯存在的价值。文章探讨复制模拟的道德重量，延伸至虾与后人类，挑战传统功利主义与有效利他主义的线性假设，促使读者重新审视多物种价值评估。",
+    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
+    "best_quote_zh": "价值在于观察，而不是创造。"
+  },
+  {
+    "id": 74,
+    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
+    "title_zh": "最爱的T恤/设计灵感/如何变得更聪慧",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The post is a mosaic of personal curation, spanning fashion, design, introspection, tech, spirituality, and digital art. It begins with a practical endorsement of a lightweight, breathable T‑shirt brand, immediately offering a tangible, actionable recommendation for readers seeking comfort and style. The next segment pivots to a historical design resource—an illustrated compendium of traditional Japanese packaging—highlighting how everyday objects can inspire contemporary product thinking. The author then shares a curated set of 25 reflective questions that serve as a low‑cost, self‑guided practice for developing wisdom, compassion, and self‑awareness, underscoring the power of introspection without professional mediation. A quick‑reference speed test tool (Fast.com) is presented as a no‑frills diagnostic for digital connectivity, while an offline church website is celebrated as a mindful, airplane‑mode sanctuary for digital detox. Finally, the article spotlights three digital artists whose motion‑based work straddles the line between animation and video, offering a glimpse into generative art that is not AI‑driven. The piece invites readers to adopt a holistic, curiosity‑driven lifestyle: mindful consumption, design thinking, self‑reflection, and digital wellness. It demonstrates that a single blog post can weave together disparate threads into a coherent narrative of intentional living, and it encourages experimentation across multiple domains to enrich everyday experience.",
+    "summary_zh": "这篇文章像一幅生活拼贴，涵盖时尚、设计、内省、科技与艺术。作者先推荐轻薄舒适的T恤，随后引入日本传统包装的设计书，启发产品思维；随后提供25条自我反思问题，倡导无需专业辅导即可自我成长；又分享快网速测试与离线教堂网站，强调数字断舍与正念；最后点出三位数字艺术家的动态创作，展示非AI生成的艺术魅力。整体呈现一种多元、好奇、意图驱动的生活方式，鼓励读者在消费、设计、心理与数字健康之间寻找平衡。",
+    "best_quote_en": "Introspection is my favorite tool for cultivating self‑awareness and emotional regulation, and you don’t need a therapist or coach to develop your own practice—just a good set of questions.",
+    "best_quote_zh": "自省是我培养自我意识和情绪调节的最爱工具，你不需要治疗师或教练来发展自己的实践——只需要一套好的问题。"
+  },
+  {
+    "id": 75,
+    "title": "Essentials: Time Perception, Memory & Focus",
+    "title_zh": "必备知识：时间感知、记忆与专注",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "In this episode of Huberman Lab Essentials, Andrew Huberman dissects the biology of time perception, revealing how circadian and circannual rhythms, light exposure, and neurochemistry shape our subjective sense of time. He explains the entrainment of melatonin and other hormonal cascades that regulate energy, mood, and motivation across seasons, and shows how strategic scheduling of work intervals, exercise, and light can sharpen focus and productivity. The talk delves into dopamine, norepinephrine, and serotonin’s role in modulating temporal awareness, and how novelty, emotion, and routine distort our memory of past, present, and future. Huberman also addresses trauma’s impact on perceived time dilation and offers practical tools—such as structuring functional units and aligning sleep—to counter “over‑clocking.” The episode blends rigorous neuroscience with actionable lifestyle hacks, making it a valuable resource for anyone seeking to master the internal clock that governs cognition and behavior. Its implications stretch from personal time management to clinical interventions for mood disorders, underscoring the intertwined nature of biology and daily experience.",
+    "summary_zh": "Huberman在此节目中深入探讨时间感知的生物学基础，阐明昼夜节律、季节性光照与神经递质如何共同塑造我们的时间体验。他揭示了褪黑激素等激素的节律同步机制，并提供通过光照、运动与工作间隔来提升专注与生产力的实用方法。节目还讨论多巴胺、去甲肾上腺素与血清素在时间感知中的作用，以及新奇、情绪与日常习惯如何扭曲对过去与未来的记忆。针对创伤导致的时间膨胀，他给出结构化功能单元与睡眠同步的干预策略。内容兼具科学严谨与可操作性，为时间管理与情绪调节提供了全新视角。",
+    "best_quote_en": "Neurotransmitters like dopamine and serotonin influence our perception of time and how factors such as novelty, emotion and routine impact how we experience and recall time.",
+    "best_quote_zh": "多巴胺和血清素等神经递质影响我们对时间的感知，而新奇、情绪和日常惯例等因素则会影响我们如何体验和回忆时间。"
   }]
