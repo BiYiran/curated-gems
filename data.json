@@ -1814,4 +1814,119 @@
     "summary_zh": "Huberman在此节目中深入探讨时间感知的生物学基础，阐明昼夜节律、季节性光照与神经递质如何共同塑造我们的时间体验。他揭示了褪黑激素等激素的节律同步机制，并提供通过光照、运动与工作间隔来提升专注与生产力的实用方法。节目还讨论多巴胺、去甲肾上腺素与血清素在时间感知中的作用，以及新奇、情绪与日常习惯如何扭曲对过去与未来的记忆。针对创伤导致的时间膨胀，他给出结构化功能单元与睡眠同步的干预策略。内容兼具科学严谨与可操作性，为时间管理与情绪调节提供了全新视角。",
     "best_quote_en": "Neurotransmitters like dopamine and serotonin influence our perception of time and how factors such as novelty, emotion and routine impact how we experience and recall time.",
     "best_quote_zh": "多巴胺和血清素等神经递质影响我们对时间的感知，而新奇、情绪和日常惯例等因素则会影响我们如何体验和回忆时间。"
+  },{
+    "id": 76,
+    "title": "Orthodoxy and women in the Anglican church | Letters",
+    "title_zh": "正统派与英格兰教会中的女性 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
+    "tags": [
+      "learn",
+      "education",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The piece invites readers to reconsider the often mischaracterised stance of Anglican orthodoxy on women’s ordination. Rather than a blanket misogyny, the article argues, traditionalists are guided by a theological conviction that ministry is a representative act before God, not a meritocratic selection. It cautions against conflating doctrinal difference with bigotry, warning that the Church’s recent crises stem more from intolerance than from theological error. The author proposes that Archbishop Sarah Mullally’s tenure could model a gracious, theologically literate unity—showing that conviction and courtesy can coexist in public faith. By framing the debate as an intellectual, moral struggle rather than a cultural war, the article offers a pathway to renewal, appealing to younger generations who seek depth and seriousness in religion. The narrative underscores the importance of protecting conscience, encouraging open disagreement, and presenting faith as a living dialogue rather than a fixed dogma.",
+    "summary_zh": "文章呼吁重新审视英格兰教会传统主义者对女性任职的偏见。它指出，传统主义者并非出于偏见，而是基于神学信念：事工在神面前是代表性，而非能力问题。作者警示，教会近期危机的根源在于对信仰差异的排斥，而非神学错误。通过强调理性与礼貌共存，文章提出新任坎特伯雷大主教可成为统一示范，激发年轻人对宗教深度与严肃性的追求。",
+    "best_quote_en": "The traditionalists are not motivated by prejudice but by theological conviction, namely that ministry is representative before God, not a question of aptitude or value.",
+    "best_quote_zh": "传统主义者并非出于偏见，而是基于神学信念，即事工在神面前是代表性，而非能力或价值的问题。"
+  },
+  {
+    "id": 77,
+    "title": "Donate Unrestricted",
+    "title_zh": "无条件捐赠",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/donate.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "The piece re‑examines a long‑standing norm in the nonprofit sector: the practice of restricted donations. It argues that, in most cases, donors are the ones who mis‑allocate resources when they impose constraints, because nonprofits usually have a clearer sense of where money will do the most good. The author highlights two rare exceptions—umbrella organizations and truly domain‑expert donors such as the Gates Foundation—where restriction can be justified. The article then probes why donors persist in restricting gifts, noting motives ranging from personal branding to regulatory compliance. It ultimately offers a straightforward prescription: give unrestricted, trust the organization’s expertise, and recognize that publicity often favors the former. While the argument is compelling and action‑oriented, it risks oversimplifying complex donor‑nonprofit dynamics and underestimating the legitimate strategic uses of earmarked funds. Nevertheless, it provides a useful, thought‑provoking framework for anyone looking to maximize the impact of charitable giving.",
+    "summary_zh": "作者挑战传统捐赠模式，指出限制性捐赠往往导致资源错配，非营利组织更懂如何使用资金。文章指出两种例外情况——umbrella机构和真正的领域专家——可以合理限制。作者深入探讨捐赠者为何坚持限制，涉及品牌、合规等动机，最终提出核心建议：无条件捐赠，信任机构专业判断。此观点虽有启发，但也可能低估了受限捐赠的正当性。对慈善事业者而言，是一次值得深思的行动指南。",
+    "best_quote_en": "If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.",
+    "best_quote_zh": "如果非营利组织不比捐赠者更了解资金的最佳用途，那么它就是无能的，你根本不应该捐赠给它。"
+  },
+  {
+    "id": 78,
+    "title": "Discrete Generative Models",
+    "title_zh": "离散生成模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/frCmecCpHx2aAtALT/discrete-generative-models",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "Discrete Generative Models explores the limitations of conventional autoregressive and continuous diffusion approaches when tackling inherently discrete image features. By framing generation as a minimal‑information reconstruction problem, the paper critiques next‑token prediction for images and proposes discrete distribution networks that iteratively refine outputs via a fractal‑like training loop. The method balances a deterministic mapping to a known distribution with stochastic error corrections, drawing on normalizing flow theory and Hutchinson estimators while addressing the “dead” output issue through probabilistic selection and an adaptive temperature schedule. The work offers a novel perspective on discrete latent spaces, highlighting the trade‑off between continuity and discrete fidelity, and presents a potentially scalable, data‑driven framework that could inform future GAN‑style or diffusion‑style architectures. The analysis invites further experiments on higher‑resolution data and a formal convergence study, underscoring both the promise and the open challenges of discrete generative modeling.",
+    "summary_zh": "本文从最小信息重建的视角审视传统自回归与连续扩散模型在处理离散图像特征时的局限性，提出离散分布网络。通过分层迭代与分形训练，模型在保持可逆映射的同时引入随机误差校正，借鉴正则化流与Hutchinson估计，解决“死亡”输出问题。作者引入概率采样与自适应温度调度，兼顾连续性与离散精度，为未来GAN或扩散架构提供可扩展、数据驱动的思路。该研究激发了对高分辨率数据与收敛性理论的进一步探索，既展示潜力亦揭示挑战。",
+    "best_quote_en": "This motivates a need for discrete distribution networks.",
+    "best_quote_zh": "这促使我们需要离散分布网络。"
+  },
+  {
+    "id": 79,
+    "title": "DALL•E 2",
+    "title_zh": "DALL•E 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/dall-star-e-2",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2022-04-06",
+    "summary_en": "OpenAI’s DALL•E 2 marks a watershed moment in AI‑driven creativity, demonstrating how natural‑language prompts can generate complex, coherent images with minimal user effort. The post frames the tool not merely as a novelty but as a harbinger of a broader interface paradigm: conversational commands that translate directly into actionable outputs across domains—from code to art. By highlighting DALL•E 2’s conceptual grasp and its capacity to produce complete works, the author probes the impending shift in labor markets, where routine creative tasks may be automated while new roles emerge around curation, ethical oversight, and hybrid human‑AI collaboration. The discussion also cautions that the model’s power invites misuse, underscoring the necessity of incremental deployment and community governance. Ultimately, the piece invites readers to rethink the limits of human imagination, suggesting that the true constraint will be ideas rather than technical skill. This analysis encourages a balanced view: celebrating AI’s creative potential while remaining vigilant about its societal impacts.",
+    "summary_zh": "OpenAI 推出的 DALL•E 2 通过自然语言提示生成复杂图像，开启了人与机器对话式创作的新纪元。作者将其视为未来接口趋势的典型案例，指出从代码到艺术的多领域应用将因自然语言驱动而大幅提升。文章深度探讨了此技术对劳动力市场的冲击，既可能自动化常规创意工作，又能催生审美策划、伦理监管等新岗位。作者警示其强大功能易被滥用，强调渐进式部署与社区协作的重要性。最终，文中呼吁人们把焦点放在想法的边界，而非技术限制，提醒我们在拥抱 AI 创意潜能的同时，需审慎评估其社会影响。",
+    "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
+    "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的又一个例子：你用自然语言或上下文提示说出你想要的，计算机就会去做。"
+  },
+  {
+    "id": 80,
+    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+    "title_zh": "保护与提升听力与大脑健康 | 康斯坦丁娜·斯坦科维奇博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
+    "tags": [
+      "update",
+      "medicine",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Dr. Konstantina Stankovic’s conversation demystifies the science of hearing, linking it to cognition, aging, and lifestyle. She explains the mechanics of sound, the spectrum of hearing loss, and why 1.5 billion people worldwide suffer silent deficits that ripple into focus lapses and accelerated cognitive decline. The discussion moves from basic physiology to actionable protocols—safe sound thresholds, ear‑plug etiquette, magnesium threonate supplementation, and environmental toxin mitigation—making the content both practical and evidence‑based. Stankovic also tackles tinnitus, hyperacusis, and the emerging role of AI‑enhanced hearing aids, offering a future‑focused perspective. The episode underscores the gender‑specific hormonal influences on hearing, the impact of menopause, and the importance of early detection. By weaving clinical insights with everyday tools, the interview serves as a guide for listeners to protect their auditory system and, by extension, their brain health.",
+    "summary_zh": "斯坦科维奇博士阐释听觉科学与认知衰退的深层关联，揭示15亿人面临的听力缺失如何削弱专注并加速脑衰。她提供从安全音量阈值、耳塞使用到镁苏氨酸补充和环境毒素管理的实用方案，并讨论耳鸣、过敏听觉与AI助听器的前景。文章兼顾男女激素差异、绝经期影响与早期筛查，构建了既有临床深度又贴近生活的听力保护指南。",
+    "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
+    "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
   }]
