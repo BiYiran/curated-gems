@@ -1929,4 +1929,123 @@
     "summary_zh": "斯坦科维奇博士阐释听觉科学与认知衰退的深层关联，揭示15亿人面临的听力缺失如何削弱专注并加速脑衰。她提供从安全音量阈值、耳塞使用到镁苏氨酸补充和环境毒素管理的实用方案，并讨论耳鸣、过敏听觉与AI助听器的前景。文章兼顾男女激素差异、绝经期影响与早期筛查，构建了既有临床深度又贴近生活的听力保护指南。",
     "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
     "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
+  },{
+    "id": 81,
+    "title": "What I Worked On",
+    "title_zh": "What I Worked On",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/worked.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Paul Graham’s memoir is a sweeping chronicle of a restless intellect who oscillates between code, canvas and capital. Beginning with humble Fortran on a 1401, he traces how early microcomputers unlocked interactive programming, which in turn sparked a fascination with artificial intelligence—first through Heinlein’s *The Moon is a Harsh Mistress* and SHRDLU. His pivot to Lisp, the publication of *On Lisp*, and the founding of Viaweb demonstrate a pattern: he builds systems that outlast their immediate obsolescence, learning that low‑end products often outpace high‑end ones. The narrative then follows his transition from software to art school, the creation of Y Combinator, and his later obsession with Lisp dialects culminating in Bel. Across these episodes Graham offers candid lessons on learning, building, and choosing the right projects—insights that remain profoundly actionable for founders, programmers, and creatives alike.",
+    "summary_zh": "保罗·格雷厄姆的回忆录记录了他从早期的Fortran到人工智能、Lisp、Viaweb、YC再到艺术的跨界旅程。每一次转折都体现了他对可持续系统的追求，以及低端产品往往能吃掉高端的洞察。书中提供的学习、构建与项目选择的真实经验，对创始人、程序员和创意工作者都具有高度可操作性。",
+    "best_quote_en": "The best thing about low end eats the high end: that it's good to be the 'entry level' option, even though that will be less prestigious.",
+    "best_quote_zh": "低端产品吃掉高端产品：成为‘入门级’选项是好的，尽管它会更不具声望。"
+  },
+  {
+    "id": 82,
+    "title": "Gnashing of Teeth",
+    "title_zh": "咬牙切齿",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XicHwcXewsBTnWLwG/gnashing-of-teeth",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The essay reframes the Thirty‑Year’s War as a parable of gnashing teeth—an uneasy, reluctant coexistence that eventually gave rise to the Peace of Westphalia. By foregrounding the grim reality of religious conflict, the author exposes the myth of a purely tolerant outcome and insists that real peace requires a painful, grudging acceptance rather than naïve goodwill. The piece critically interrogates the narrative that Westphalia introduced universal religious tolerance, revealing that it merely codified group‑based privileges under cuius regio, eius religio. In doing so, it links the historical lesson to contemporary debates on international law and the limits of narrative‑driven legitimacy. The analysis is provocative, blending historiography with moral philosophy, and challenges readers to reconsider how “tolerance” is constructed, both in the past and in the present. Its value lies in urging a deeper, more nuanced appreciation of the costs and compromises inherent in any grand political settlement.",
+    "summary_zh": "作者以三十年战争为寓言，揭示和平背后残酷的妥协与痛苦。批判西方和平宣称的“宗教容忍”，指出其实是群体化的特权。文章将历史与现代国际法、叙事权威相连，促使读者重新审视容忍的本质与代价。",
+    "best_quote_en": "It was still better than hiding in the woods, fearing that one’s own army might take everything one had, if it didn’t kill you outright.",
+    "best_quote_zh": "这仍然比躲在树林里、害怕自己的军队夺走一切，甚至不直接杀死你更好。"
+  },
+  {
+    "id": 83,
+    "title": "Gaza’s Broken Politics",
+    "title_zh": "加沙的破碎政治",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "The essay dissects Gaza’s political vacuum after the 2025 war, exposing how external actors—particularly the U.S. and Israel—have engineered a “temporary stabilization” that sidelines local agency. By de‑legitimizing Hamas, sidelining the PA, and promoting a technocratic board chaired by Trump, the plan turns Gaza into a security‑first project whose timelines and enforcement remain opaque. The author argues that this externally imposed structure risks becoming permanent, perpetuating dependency and eroding the right to self‑determination. He juxtaposes the historic failure of Oslo with the current trusteeship, highlighting a pattern of external mediation that converts liberation struggles into managed enclaves. The piece is rich in first‑hand testimony from Gaza’s civil society, illustrating a growing grassroots push for locally‑driven reconstruction. The analysis urges that any viable post‑war order must be rooted in Gazan leadership, lest the “riviera” of international oversight simply replace one occupation with another. The essay is a call for political renewal grounded in resilience rather than romanticized survival.",
+    "summary_zh": "文章剖析了2025年战争后加沙的政治真空，揭示美国与以色列如何通过“临时稳定”计划削弱哈马斯、排斥巴权，推行技术官僚管理。作者指出，这种外部主导的治理若缺乏执行细则，易演变为永久占领，削弱巴勒斯坦自决权。将奥斯陆失败与当前托管相提并论，批判外部调解将解放斗争化为管理领地。文中引用加沙基层组织的亲身见证，凸显民间对本土重建的渴求。作者呼吁，只有扎根当地领导，才能避免“海滨计划”成为新的占领形式，真正实现政治复兴。",
+    "best_quote_en": "\"Gaza needs leadership called in by the people themselves, not appointed from the outside.\"",
+    "best_quote_zh": "加沙需要由人民自己召集的领导，而不是由外部任命的。"
+  },
+  {
+    "id": 84,
+    "title": "Donabe / We Stand on Guard",
+    "title_zh": "Donabe / 我们站在守卫",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
+    "tags": [
+      "solve",
+      "politics",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "The article juxtaposes two distinct yet thematically resonant works: the culinary tome *Donabe* and the dystopian graphic novel *We Stand on Guard*. *Donabe* invites readers into the tactile, communal world of Japanese clay‑pot cooking, blending historical context with accessible, step‑by‑step recipes that even a novice can master. Its charm lies in the narrative anecdotes, the emphasis on shared meals, and the ingenious use of leftovers—illustrated by the concept of *shime*, turning broth into a final course. In contrast, *We Stand on Guard* offers a hard‑boiled, politically charged narrative set a century in the future, where Canada faces a technologically superior U.S. drone army. The graphic novel’s strength is its dialogue‑driven pacing, authentic Canadian humor, and speculative tech that grounds its near‑future world. Together, the pieces underscore how everyday practices—whether cooking or resistance—shape identity, community, and resilience. The author’s dual focus invites readers to reflect on the power of shared rituals and the urgency of safeguarding resources in an increasingly interconnected world.",
+    "summary_zh": "文章把《Donabe》与《我们站在守卫》这两本截然不同却又主题相通的作品放在一起。前者用日本泥锅烹饪的温暖与共享，后者以未来加拿大被美军高科技机甲占领的紧张剧情，展示了日常与抗争的力量。两者共同提醒我们，日常仪式与资源保护同样决定身份与韧性。",
+    "best_quote_en": "A country being occupied by a vastly superior high‑tech military, with questionable evidence to justify its actions, and irresistible natural resources that just happen to be sorely needed by the invaders…",
+    "best_quote_zh": "我还没有听说过shime——一种利用锅底剩余汤汁做成的最后一道菜。"
+  },
+  {
+    "id": 85,
+    "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+    "title_zh": "要点：如何通过锻炼提升力量和激素优化 | 迪肯·弗朗西斯博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-exercise-strength-gains-hormone-optimization-duncan-french",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "Huberman Lab’s Essentials episode with Dr. Duncan French distills cutting‑edge research on resistance training, hormonal adaptation, and recovery modalities into a practical playbook for athletes and fitness enthusiasts. Dr. French, a performance scientist at the UFC Performance Institute, explains how acute stress and progressive overload drive testosterone spikes that fuel strength and hypertrophy. He introduces the “6 × 10” protocol—six sets of ten reps at near‑maximal intensity—as a time‑efficient, high‑intensity stimulus that reliably elevates anabolic hormones. Beyond lifts, the discussion covers the synergistic roles of cold and heat exposure, positioning deliberate cold‑periodization and sauna sessions as tools for metabolic flexibility, immune resilience, and faster recovery. Nutrition is framed not just as fuel but as a periodized partner: carbohydrate timing, exogenous ketones, and macronutrient cycling are mapped to training phases to maximize mitochondrial efficiency. The episode’s strength lies in its evidence‑based synthesis, actionable frameworks, and emphasis on individualized programming. It invites listeners to move beyond generic “workout” advice and adopt a science‑driven, holistic approach to performance, underscoring that hormones, temperature, and diet are interdependent levers for optimal gains.",
+    "summary_zh": "Huberman实验室的这期节目邀请了UFC表现院的博士弗朗西斯，他用实证研究拆解了阻力训练、激素调节与恢复技巧。通过“6×10”高强度方案，短期压力可显著提升睾酮，驱动力量与肌肥大。节目进一步将冷暴露与热适应定位为加速代谢灵活性与恢复的手段，并将营养周期化与训练阶段匹配，强调碳水化合物时机、酮类补充与宏量营养素循环对线粒体效率的影响。整体内容将科学与实操相结合，为运动员与健身爱好者提供可落地的、个性化的训练与恢复策略。",
+    "best_quote_en": "The 6 × 10 protocol is a simple, high‑intensity tool that spikes testosterone and drives hypertrophy.",
+    "best_quote_zh": "通过短期压力提高睾酮水平，提升力量表现"
   }]
