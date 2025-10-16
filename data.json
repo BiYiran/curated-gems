@@ -2048,4 +2048,73 @@
     "summary_zh": "Huberman实验室的这期节目邀请了UFC表现院的博士弗朗西斯，他用实证研究拆解了阻力训练、激素调节与恢复技巧。通过“6×10”高强度方案，短期压力可显著提升睾酮，驱动力量与肌肥大。节目进一步将冷暴露与热适应定位为加速代谢灵活性与恢复的手段，并将营养周期化与训练阶段匹配，强调碳水化合物时机、酮类补充与宏量营养素循环对线粒体效率的影响。整体内容将科学与实操相结合，为运动员与健身爱好者提供可落地的、个性化的训练与恢复策略。",
     "best_quote_en": "The 6 × 10 protocol is a simple, high‑intensity tool that spikes testosterone and drives hypertrophy.",
     "best_quote_zh": "通过短期压力提高睾酮水平，提升力量表现"
+  },{
+    "id": 86,
+    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
+    "title_zh": "另一篇关于凯拉·奈特利电影《10号舱的女人》的《卫报》链接 | 简短信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This brief letter piece intertwines a personal recollection with a broader cultural commentary, centering on the legacy of Guardian journalist Norman Shrapnel and his grandson Joe’s co‑script for the film *The Woman in Cabin 10*. It reveals how Shrapnel’s “ironic edge and sharp eye for social detail” shaped an entire generation of Guardian writers, positioning the film as a conduit for intergenerational storytelling. The article serves both as a homage and a subtle critique of how media heritage is repurposed in contemporary cinema. By juxtaposing the Guardian’s editorial lineage with a commercial movie, it invites readers to reflect on the transformation of journalistic voice into narrative form. The piece is rich in anecdotal texture, offering a micro‑case study of legacy, authenticity, and the commodification of cultural capital. It challenges the audience to consider whether the film preserves the spirit of Shrapnel’s prose or merely leverages it for box‑office appeal. Overall, the article is a thought‑provoking exploration of how personal history informs public art, and it underscores the enduring influence of media pioneers in shaping modern storytelling.",
+    "summary_zh": "这段简短信件以诺曼·夏普伦的遗产与其孙子乔的电影剧本为线索，探讨了报业声音如何转化为商业叙事。文章将记者的讽刺锋芒与电影情节相映，呈现一场跨代创作的微型案例研究，既致敬又质疑媒介资本的再利用。它提醒读者思考个人历史在公共艺术中的作用，以及媒体先驱对当代叙事的持久影响。",
+    "best_quote_en": "\"ironic edge and sharp eye for social detail made him the much‑imitated master of a whole generation of Guardian writers\"",
+    "best_quote_zh": "讽刺的锋芒和对社会细节的敏锐洞察，使他成为整个Guardian一代作家模仿的榜样"
+  },
+  {
+    "id": 87,
+    "title": "Helion",
+    "title_zh": "Helion",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2021-11-05",
+    "summary_en": "Helion Energy’s latest fundraising announcement signals a pivotal moment for fusion research, merging cutting‑edge physics with startup agility. The company’s founders, David and Chris, have distilled decades of experimental work into a compact, cost‑efficient generator that could deliver net electricity by 2024, targeting a price of just one cent per kilowatt‑hour. This ambition is not merely a technical milestone; it offers a potential keystone in the broader climate‑crisis narrative by enabling low‑cost energy for carbon capture and other green technologies. The post frames fusion as a scalable, affordable solution rather than a distant dream, inviting investors and technologists alike to re‑evaluate the energy transition’s economics. While the timeline remains optimistic and the technical hurdles formidable, the strategic framing of Helion’s progress underscores the power of disciplined design, system optimization, and a clear commercial vision. For readers, the piece serves as both inspiration and a call to action, illustrating how focused innovation can reshape global energy policy.",
+    "summary_zh": "Helion能源通过将前沿物理与创业敏捷度相结合，提出了实现2024年净电力并以每千瓦时1美分的价格提供能源的大胆目标。此举不仅是技术突破，更可能成为气候危机的关键解决方案。它让低成本能源成为碳捕集与绿色技术的基础，重新定义能源转型的经济学。文章以激励与启发并重的语调，展示了严谨设计、系统优化与清晰商业愿景如何推动创新。对读者而言，它既是灵感，也是行动号召，证明聚焦创新可重塑全球能源格局。",
+    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
+    "best_quote_zh": "Helion有明确的路径在2024年实现净电力，并长期目标是以每千瓦时1美分的价格提供电力。"
+  },
+  {
+    "id": 88,
+    "title": "Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler/",
+    "tags": [
+      "analyze",
+      "business-model",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "商业模式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "In this episode, Tim Ferriss brings together two trailblazers—behavioral economist Richard Thaler and restaurateur‑turned‑tech entrepreneur Nick Kokonas—to dissect the mechanics of human decision‑making and the audacity required to disrupt entrenched systems. Thaler, a Nobel laureate, outlines how conventional economic models falter when they ignore the messy, shortcut‑driven reality of real people, and he introduces concepts like the Winner’s Curse, loss aversion, and temptation bundling as tools to reshape incentives. Kokonas, famed for turning Alinea into a global brand and founding the reservation platform Tock, shares how he applied behavioral insights to hospitality, winemaking, and even pandemic‑era pivots. Together they weave a narrative that blends rigorous theory with actionable case studies, urging listeners to question the rational‑agent assumption and to harness behavioral levers in business, policy, and personal finance. The conversation underscores the power of stories, the necessity of skin‑in‑the‑game, and the enduring relevance of behavioral economics for anyone seeking to influence real‑world outcomes.",
+    "summary_zh": "本期节目聚焦诺贝尔奖得主理性经济学家理查德·塞勒与餐饮创新者尼克·科科纳斯，探讨人类决策的非理性根源与颠覆传统的实战案例。塞勒阐述“赢家诅咒”“损失厌恶”等行为学原理，并强调故事记忆的力量；科科纳斯则分享将行为洞察应用于餐厅、酒庄及危机应变的经验。两位嘉宾共同揭示：真实世界的决策者不是理性代理人，而是使用捷径的普通人；要想影响结果，需先破除旧思维、让人参与并提供可视化激励。节目兼具理论深度与可操作性，鼓励听众用行为工具改造商业与个人生活。",
+    "best_quote_en": "I think the important lesson is that, if you’re doing business in the real world and you have customers and employees that are people, not agents, then you have to do things a bit differently.",
+    "best_quote_zh": "我认为最重要的教训是，如果你在现实世界中经营业务，并且有客户和员工是人而非代理人，那么你必须以不同的方式行事。"
   }]
