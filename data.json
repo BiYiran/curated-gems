@@ -2212,4 +2212,121 @@
     "summary_zh": "帕布洛斯·霍尔曼在《泰姆·费里斯秀》中的访谈，是一次深度技术、黑客精神与全球战略交汇的课堂。霍尔曼自学成才，曾在蓝色起源工作，揭示了黑客思维——“无尽的谜题”——如何推动软件之外的发明。他坦诚讨论零日漏洞、核能经济以及安全的悖论：保护工具也可能成为国家武器。霍尔曼质疑传统风险投资关注技术风险，认为突破后市场风险消失，呼吁政策制定者简化监管，投资者跳出SaaS框架，关注核能与聚变等深度技术，开辟未开发市场。",
     "best_quote_en": "\"A hacker is someone who is attracted to puzzles. They are attracted to computer security, because it’s a bottomless pit of puzzles.\"",
     "best_quote_zh": "\"黑客是吸引谜题的人。\""
+  },{
+    "id": 93,
+    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
+    "title_zh": "Jess Cartner‑Morley谈时尚：今年冬季外套的首要规则——让它更长",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
+    "tags": [
+      "inspire",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Jess Cartner‑Morley, a Guardian fashion columnist, distills a single, decisive guideline for winter outerwear: length matters. She argues that a coat should extend well below the knee—ideally to the calf or ankle—to signal sartorial confidence and align with evolving proportions in contemporary tailoring. The piece contrasts the ubiquitous knee‑length coats of recent winters with a resurgence of long, oversized, wool‑heavy silhouettes, bold checks, faux furs, and leather. Cartner‑Morley links this shift to looser trousers and a broader aesthetic trend toward “big” silhouettes, suggesting that the coat’s length now conveys personality more than ever. Her tone mixes playful admonition with expert insight, offering readers a practical, trend‑driven rule that feels both actionable and future‑focused. For fashion enthusiasts, the article serves as a concise, actionable primer on a key seasonal shift, while also hinting at the underlying cultural momentum that makes long coats a statement piece this year.",
+    "summary_zh": "Jess Cartner‑Morley在《卫报》时尚专栏中提出冬季外套的核心规则：外套要长，最好到膝下甚至踝部。她指出，长款外套不仅符合当前宽松裤装的比例，也成为展示个人品味的标志。文中将短款外套与长款羊毛、印花、仿皮毛等新潮流作对比，强调长款外套的“大胆”与“个性”。作者以轻松又专业的语气，为读者提供一条既可操作又前瞻性的时尚建议，既是实用指南，也是对当下审美变迁的洞察。",
+    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
+    "best_quote_zh": "你的外套需要长。就是这么简单，这是大新闻。"
+  },
+  {
+    "id": 94,
+    "title": "The Last Columbia Protester in ICE Detention",
+    "title_zh": "The Last Columbia Protester in ICE Detention",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-last-columbia-protester-in-ice-detention",
+    "tags": [
+      "update",
+      "legal",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "The article follows Leqaa Kordia, a Palestinian immigrant who has been detained by ICE in Texas for eight months, weaving her personal story into a broader critique of U.S. immigration enforcement and campus protest suppression. Through first‑person testimony, court filings, and contextual background on the Gaza war, the piece exposes how bureaucratic misidentification, lack of religious accommodations, and alleged links to terrorism can trap a law‑abiding individual. Kordia’s narrative—her family’s loss in Gaza, her work as a waitress, and her quiet resistance—humanizes the abstract policy debates. The article urges readers to reconsider the balance between national security and civil liberties, highlighting the urgent need for transparency, due process, and humanitarian safeguards in immigration detention. Its layered storytelling invites empathy, sparks policy discussion, and serves as a cautionary case study for activists, scholars, and policymakers alike.",
+    "summary_zh": "文章以一名巴勒斯坦移民Leqaa Kordia在美ICE拘留的经历为线索，揭示了移民执法与校园抗议交织的政治与人权危机。她在德克萨斯的拘留中心被单独关押，缺乏宗教与医疗照顾，甚至被误以为恐怖分子。文章通过亲身采访、法庭文件与社会背景，呈现她的家庭悲剧、抵抗与对未来的恐惧，呼吁公众关注移民权利与政策透明度。",
+    "best_quote_en": "To feel helpless—this is one of the most awful feelings in the world.",
+    "best_quote_zh": "我感到无助——这是世界上最可怕的感觉之一。"
+  },
+  {
+    "id": 95,
+    "title": "PG and Jessica",
+    "title_zh": "PG 与 Jessica",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/pg-and-jessica",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2020-09-25",
+    "summary_en": "PG and Jessica are the hidden architects behind Y Combinator’s meteoric rise, and this essay unpacks why their approach has eluded replication. The author argues that YC’s success hinged not on a secret algorithm or lucky timing but on two simple, yet profound, principles: a relentless belief in unknown founders and the deliberate cultivation of an ecosystem that rewards long‑term collaboration over short‑term greed. By setting strict norms, fighting bad behavior, and investing immense 1:1 time, PG and Jessica created a “family” that valued community and patience. The piece frames this as a case study, offering readers a blueprint that emphasizes conviction, actionability, and a willingness to be disliked by entrenched power structures. While the author concedes the advice feels almost too easy, the historical evidence suggests that these practices were both unique and powerful. For founders, investors, and anyone interested in startup culture, the essay serves as a reminder that the most transformative forces are often rooted in human relationships and long‑term vision rather than slick tech or funding hacks.",
+    "summary_zh": "PG 与 Jessica 被视为 Y Combinator 崛起的幕后功臣，本文揭示他们的成功为何难以复制。作者认为，YC 的核心不在于神秘算法，而在于两条原则：对未知创始人的坚定信任，以及构建以长期合作为导向的生态系统。通过设定严格规范、抵制不良行为、投入大量一对一时间，PG 与 Jessica 打造了一个“家”式的社区，强调共同体与耐心。文章以案例研究的形式呈现，提供可操作的蓝图，强调信念、行动和敢于与既得势力对立。虽然建议听起来过于简单，但历史证据显示这些做法独特且强大。对创业者、投资人乃至关注创业文化的人而言，本文提醒我们，最具变革力的往往源自人与人之间的长期愿景，而非技术或资金。",
+    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
+    "best_quote_zh": "YC 成功的全部秘密在于 PG 和 Jessica——没有其他神奇之举。"
+  },
+  {
+    "id": 96,
+    "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+    "title_zh": "如何扩展你的意识 | 克里斯托弗·科赫博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/expand-consciousness-dr-christof-koch",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "Dr. Christof Koch’s conversation on consciousness blends cutting‑edge neuroscience with practical tools for self‑enhancement. He frames consciousness as a dynamic “perception box” that houses beliefs, memories, and biases, explaining how meditation, non‑sleep deep rest, psychedelics, dreams, and virtual reality can shift this box. The episode highlights neuroplasticity and flow states as mechanisms for rewiring the brain, and it links individual experience to a collective consciousness that evolves over time. A key insight is that consciousness is not a fixed property but a fluid process shaped by experience and intention—an idea that invites both scientific inquiry and personal experimentation. The discussion also touches on mental‑health challenges, social media’s impact, and the therapeutic potential of psychedelics, grounding abstract theory in real‑world applications. Overall, the talk offers a balanced, data‑driven perspective that empowers listeners to actively cultivate awareness and resilience while acknowledging the ethical and philosophical dimensions of expanding consciousness.",
+    "summary_zh": "克里斯托弗·科赫博士把意识视为一个动态的“感知盒”，探讨冥想、深度休息、迷幻药、梦境与虚拟现实如何重塑它。他强调神经可塑性与流状态是重塑大脑的机制，并将个人体验与不断演化的集体意识相连。核心观点是意识不是固定属性，而是受经验与意图塑造的流动过程，既适用于科学研究，也适合个人实验。对心理健康、社交媒体影响和迷幻药治疗潜力的讨论，使抽象理论落地。此访谈以数据驱动、实践导向的视角，鼓励听众主动提升觉知与韧性，同时关注伦理与哲学层面。",
+    "best_quote_en": "We all experience life through a unique ‘perception box,’ which holds our beliefs, our memories and thus our biases about reality.",
+    "best_quote_zh": "我们都通过一个独特的‘感知盒’体验生活，它包含我们的信念、记忆，从而塑造我们对现实的偏见。"
+  },
+  {
+    "id": 97,
+    "title": "Pablos Holman — One of the Scariest Hackers I’ve Ever Met (#827)",
+    "title_zh": "Pablos Holman — 我遇到过的最恐怖黑客之一",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/16/pablos-holman/",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "Pablos Holman’s interview is a masterclass in the intersection of hacking, invention, and societal impact. He narrates how reverse‑engineering a cold, dark Alaskan computer taught him that the only way to create transformative tech is to dismantle and reassemble existing systems. His work at Blue Origin and the Intellectual Ventures Lab exemplifies a pragmatic, risk‑tolerant mindset: tackle problems that excite you, then iterate until the solution solves a real need. Holman’s discussion of zero‑click exploits, autonomous shipping, and nuclear fusion reveals a deep understanding of both technical mechanics and the geopolitical forces that shape technology adoption. The episode also probes the ethics of hacking—how curiosity can be a double‑edged sword—and invites listeners to rethink the balance between opportunity and responsibility. Ultimately, Holman’s story is a call to action: embrace experimentation, stay curious, and align innovation with the greater good.",
+    "summary_zh": "Pablos Holman 通过逆向思维与深度技术展示了创新与风险共存的边界，他的故事提醒我们：技术的未来既可塑亦可毁，唯有持续探索与伦理审视才能把握方向。他在蓝色星际与智库实验室的经历，揭示了从无人机到核能的技术链条；同时，他对安全漏洞与人类创造力的探讨，促使我们重新思考技术治理与社会责任。这段对话既是对黑客精神的致敬，也是对未来技术伦理的深刻反思。",
+    "best_quote_en": "I think a future that’s awesome is absolutely possible. A shitty future is also possible, but the balance is up to us.",
+    "best_quote_zh": "我认为一个精彩的未来绝对可能。糟糕的未来也可能，但平衡取决于我们。"
   }]
