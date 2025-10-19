@@ -1,55 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "How Streaming Algorithms Are Shaping Modern Entertainment",
-    "title_zh": "流媒体算法如何塑造现代娱乐",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2025/aug/28/streaming-algorithms-entertainment",
-    "tags": [
-      "streaming",
-      "algorithm",
-      "media",
-      "content trends",
-      "AI"
-    ],
-    "tags_zh": [
-      "流媒体",
-      "算法",
-      "媒体",
-      "内容趋势",
-      "人工智能"
-    ],
-    "date": "2025-08-28",
-    "summary_en": "The article examines how streaming platforms use algorithms to influence content creation, resulting in simplified, widely appealing productions. It discusses the shift from experimental works to data-driven entertainment and considers the cultural and creative implications.",
-    "summary_zh": "文章探讨流媒体平台如何通过算法影响内容创作，导致简单、广受欢迎的作品产生。文章讨论了从实验性作品到数据驱动娱乐的转变，并考虑其文化和创意影响。",
-    "best_quote_en": "\"Algorithms shape stories to be universally understandable, leaving little room for experimental storytelling.\"",
-    "best_quote_zh": "“算法使故事变得人人可懂，几乎没有空间进行实验性叙事。”"
-  },
-  {
-    "id": 2,
-    "title": "The Evolving Identity of Popular Film Genres",
-    "title_zh": "流行电影类型的身份演变",
-    "source": "Marie Claire",
-    "link": "https://www.marieclaire.com/culture/movies/genre-evolution",
-    "tags": [
-      "film genre",
-      "audience trends",
-      "storytelling",
-      "cultural shifts"
-    ],
-    "tags_zh": [
-      "电影类型",
-      "观众趋势",
-      "叙事",
-      "文化变化"
-    ],
-    "date": "2025-08-04",
-    "summary_en": "This article explores how popular film genres are adapting to changing audience expectations, incorporating realism, nuance, and complexity over traditional formulas.",
-    "summary_zh": "本文探讨流行电影类型如何适应观众期待的变化，逐渐融入真实感、细腻性和复杂性，而非传统公式化。",
-    "best_quote_en": "\"Audiences today seek stories that feel real, fresh, and reflective of genuine experiences.\"",
-    "best_quote_zh": "“如今的观众寻求真实、新颖并反映真实体验的故事。”"
-  },
-  {
     "id": 3,
     "title": "Why Certain Fashion Styles Endure",
     "title_zh": "为何某些时尚风格经久不衰",
@@ -758,8 +708,8 @@
     "summary_zh": "本周音乐行业聚焦多重热点：泰勒·斯威夫特新专辑在Spotify上创下预保存纪录，Spotify高层交替引发关注；环球与华纳或将与AI音乐公司达成标杆授权协议，标志着人工智能与版权的交汇；Zach Bryan在密歇根体育场创下美国单场门票最高纪录；而欧洲音乐律师对UMG收购数据担忧的“幻想”评价，凸显行业对数据安全的敏感。整体来看，音乐产业正处于技术驱动与商业模式创新交织的关键节点，AI授权与数据治理成为新焦点，行业从者需关注监管与合作共赢的平衡。",
     "best_quote_en": "Universal Music Group and Warner Music Group are reportedly close to striking 'landmark' AI music licensing deals.",
     "best_quote_zh": "数据相关的担忧更多源于幻想或偏执，而非具体、现实、理性的分析。"
-  }
-,{
+  },
+  {
     "id": 31,
     "title": "At the Edge of Peace",
     "title_zh": "和平边缘",
@@ -876,7 +826,8 @@
     "summary_zh": "本期节目中，James Nestor 以科学视角剖析呼吸的力量，展示简易呼吸法如何重塑健康、改善睡眠、提升表现。他将古老的 Tummo 与现代的 Sudarshan Kriya 结合，强调呼吸是可调控的自主功能，可改善氧合、降低炎症并提升认知。Nestor 质疑传统医学，提出 ADHD 可能源于慢性睡眠不足，而非神经疾病。他还揭露室内 CO₂ 危害，尤其在酒店环境，并提供鼻腔呼吸带、CO₂ 监测器及睡眠追踪应用等实用工具。节目将严谨研究与个人经历相结合，提供数据驱动、可操作的洞见，鼓励听众重新学习并利用这一被忽视的生物过程，获得可衡量的健康提升。",
     "best_quote_en": "ADHD does not exist. What you’re looking at are sleep‑deprived kids.",
     "best_quote_zh": "ADHD并不存在。你看到的是睡眠不足的孩子。"
-  },{
+  },
+  {
     "id": 36,
     "title": "Solo trips abroad take off among women who seek break from work – and their families",
     "title_zh": "女性寻求工作与家庭休息，海外独自旅行热潮兴起",
@@ -995,7 +946,8 @@
     "summary_zh": "詹姆斯·内斯特在访谈中把呼吸定位为被遗忘的科学，展示其如何重塑健康、睡眠与表现。他结合科研与自我实验，揭示微小呼吸调整可降低血压、改善睡眠结构，并与 ADHD 等神经发育问题相关。内斯特批评商业化呼吸训练，强调人们已有的呼吸系统若调校即可获益。节目提供可操作协议：口腔封闭、Aranet4 CO₂ 记录、五秒吸呼法，兼顾呼吸与整体健康风险。读者可获得基于数据、可立即实践的呼吸工具，并获得对健康产业商业化的批判视角。",
     "best_quote_en": "\"I think one of the biggest things that I found … is the [number] of kids [who] have sleep disorder breathing, this can be snoring or sleep apnea or some sort of dysfunction in their breathing at night. And then if you take that population of kids who have these breathing problems at night, and if you take the population of kids who have ADHD, those two diagrams almost completely intersect. What many researchers are saying is that ADHD does not exist. What you’re looking at are sleep‑deprived kids. And the most shocking thing to me is that a kid [who] presents with ADHD, they’re never assessed for their breathing. They’re never assessed for their sleep. They’re given drugs and put on their way, and I think it’s criminal.\"",
     "best_quote_zh": "“我认为我发现的最大问题是……有睡眠呼吸障碍的孩子数量——可能是打鼾、睡眠呼吸暂停或其他夜间呼吸功能障碍。若把这些孩子与患 ADHD 的孩子进行对照，两个群体几乎完全重叠。许多研究人员认为 ADHD 并不存在，你看到的是睡眠不足的孩子。令我震惊的是，呈现 ADHD 症状的孩子从未接受过呼吸或睡眠评估，却被开药处理，我认为这是一种犯罪。”"
-  },{
+  },
+  {
     "id": 41,
     "title": "Is it true that … women snore less than men?",
     "title_zh": "女性比男性更少打鼾是真的吗？",
@@ -1110,7 +1062,8 @@
     "summary_zh": "退役海豹突击队员DJ Shipley在本期节目中拆解“坚不可摧”的结构，结合高强度训练、微小胜利心理与前沿心理疗法，展示从BUD/S到战后PTSD的自我重塑之路。他强调“控制可控”，倡导每日小步前行与刻意练习，甚至探讨伊波加因与5‑MeO‑DMT等精神药物在同理心与自我解构中的潜力。节目既是案例研究，也是可操作的行动指南，鼓励听众将身心韧性、健康与幸福纳入日常。此内容不仅为退伍军人提供新视角，也呼吁大众关注心理健康与韧性科学，让我们思考：今天我能做什么，让自己更坚韧？",
     "best_quote_en": "Control the Controllable",
     "best_quote_zh": "控制可控"
-  },{
+  },
+  {
     "id": 46,
     "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
     "title_zh": "改变我的那一刻：我不再自我克制——并找到了我的真爱",
@@ -1229,7 +1182,8 @@
     "summary_zh": "大卫·塞纳在《蒂姆·费里斯秀》访谈中，系统剖析400多位史上顶尖创始人与投资者的思维与成功之道。他强调极致赢家的共性：对知识的无尽好奇、严谨的笔记与实践，以及将学到的东西转化为行动的能力。塞纳分享自己对书籍的物理标注、提炼洞见、并将其落地的流程，指出真正的学习是行为改变而非记忆。通过对个人创伤与抱负的探讨，他展示成功背后的情感驱动，提醒听众：持续阅读、精准标记、快速落地，是通往卓越的必经之路。",
     "best_quote_en": "Learning is not memorizing information. Learning is changing your behavior.",
     "best_quote_zh": "学习不是记忆信息，而是改变行为。"
-  },{
+  },
+  {
     "id": 51,
     "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
     "title_zh": "Jess Cartner-Morley：女士化装风潮归来，注入现代时尚",
@@ -1346,7 +1300,8 @@
     "summary_zh": "Iconoclast与Vermillio的合作展示了在生成式AI时代保护艺术家遗产的创新路径。通过TraceID平台，双方能实时监测并阻止未授权使用Tony Bennett的姓名、形象与声音，为版权持有者提供可持续收益与控制权。此举不仅为音乐与娱乐行业树立了新标准，也提示其他领域需预见AI带来的侵权风险。合作强调技术与伦理的双重平衡，既维护创作者身份，又鼓励合法创作与商业化。对艺术家遗产的数字化管理意味着更广泛的受众接触与更高的价值挖掘，值得业界深思与模仿。",
     "best_quote_en": "Partnering with Vermillio allows us to navigate the evolving technological landscape, preserving Tony’s artistic identity while embracing new, responsible and creative ways to extend his reach.",
     "best_quote_zh": "与Vermillio合作使我们能够在不断演变的技术格局中导航，既保留Tony的艺术身份，又以负责任且富有创意的方式扩展他的影响力。"
-  },{
+  },
+  {
     "id": 56,
     "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
     "title_zh": "《铁娘子》影评——矿工罢工抗议线上的女性激励故事",
@@ -1465,7 +1420,8 @@
     "summary_zh": "OpenAI推出GPT‑4o，标志着从纯科研向产品化转变，免费提供最强模型以惠及大众，同时通过可付费功能实现商业化。全新语音视频模式被誉为最佳计算机界面，逼真度逼近电影般AI，推动人与机器对话的自然化。此举激发关于隐私、代理权与伦理部署的讨论，也为开发者、教育者和创业者提供了前所未有的表达力与商业机会。",
     "best_quote_en": "The new voice (and video) mode is the best computer interface I’ve ever used. It feels like AI from the movies; and it’s still a bit surprising to me that it’s real.",
     "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。它像电影里的 AI；而它的存在让我仍然有点惊讶。"
-  },{
+  },
+  {
     "id": 61,
     "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
     "title_zh": "为何值得更广泛地审视双王制文化 | 信件",
@@ -1584,7 +1540,8 @@
     "summary_zh": "本周综述揭示音乐业的法律、营销与合作趋势：Drake诉讼被驳回凸显艺术表达的法定保护；UMG推出“House of Carmen”应用，开启数据驱动的创作者营销；HYBE扩展美国服务部，助力独立艺人；Spotify‑BMG直接授权协议强调对创作者的价值回馈；Warner UK COO离职显示高层调整。整体呈现出音乐生态正向更开放、数据化与合作化发展。",
     "best_quote_en": "From the outset, this suit was an affront to all artists and their creative expression and never should have seen the light of day.",
     "best_quote_zh": "我们很高兴法院驳回了此案，并期待继续成功推广Drake的音乐并投资他的事业。"
-  },{
+  },
+  {
     "id": 66,
     "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
     "title_zh": "我不断寻找帮助：留在乍得沙漠营地的苏丹女性被迫自食其力",
@@ -1697,7 +1654,8 @@
     "summary_zh": "Helion Energy正朝着2024年实现Q > 1聚变并实现大规模可生产发电机的目标迈进，展示了清洁、持续能源的宏伟蓝图。其将千瓦时成本降至一美分的野心，意味着能源价格将大幅下降，碳捕集将变得可行，乃至整个产业链将被重塑。成功实现这一目标的关键在于可靠的工程设计、可扩展的制造工艺以及与电网和政府的协同。Helion公开招聘电气、机械与系统工程人才，邀请专业人士加入，共同解决从实验室到商业化的技术与管理难题，体现了从“如果”到“现在”的转变。",
     "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
     "best_quote_zh": "Helion的进展速度超出我的预期，预计2024年将实现Q > 1聚变，并解决设计大规模可生产发电机所需的所有问题。"
-  },{
+  },
+  {
     "id": 71,
     "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
     "title_zh": "全球健康研究警告：青少年死亡率上升构成‘新兴危机’",
@@ -1814,7 +1772,8 @@
     "summary_zh": "Huberman在此节目中深入探讨时间感知的生物学基础，阐明昼夜节律、季节性光照与神经递质如何共同塑造我们的时间体验。他揭示了褪黑激素等激素的节律同步机制，并提供通过光照、运动与工作间隔来提升专注与生产力的实用方法。节目还讨论多巴胺、去甲肾上腺素与血清素在时间感知中的作用，以及新奇、情绪与日常习惯如何扭曲对过去与未来的记忆。针对创伤导致的时间膨胀，他给出结构化功能单元与睡眠同步的干预策略。内容兼具科学严谨与可操作性，为时间管理与情绪调节提供了全新视角。",
     "best_quote_en": "Neurotransmitters like dopamine and serotonin influence our perception of time and how factors such as novelty, emotion and routine impact how we experience and recall time.",
     "best_quote_zh": "多巴胺和血清素等神经递质影响我们对时间的感知，而新奇、情绪和日常惯例等因素则会影响我们如何体验和回忆时间。"
-  },{
+  },
+  {
     "id": 76,
     "title": "Orthodoxy and women in the Anglican church | Letters",
     "title_zh": "正统派与英格兰教会中的女性 | 信件",
@@ -1929,7 +1888,8 @@
     "summary_zh": "斯坦科维奇博士阐释听觉科学与认知衰退的深层关联，揭示15亿人面临的听力缺失如何削弱专注并加速脑衰。她提供从安全音量阈值、耳塞使用到镁苏氨酸补充和环境毒素管理的实用方案，并讨论耳鸣、过敏听觉与AI助听器的前景。文章兼顾男女激素差异、绝经期影响与早期筛查，构建了既有临床深度又贴近生活的听力保护指南。",
     "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
     "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
-  },{
+  },
+  {
     "id": 81,
     "title": "What I Worked On",
     "title_zh": "What I Worked On",
@@ -2048,7 +2008,8 @@
     "summary_zh": "Huberman实验室的这期节目邀请了UFC表现院的博士弗朗西斯，他用实证研究拆解了阻力训练、激素调节与恢复技巧。通过“6×10”高强度方案，短期压力可显著提升睾酮，驱动力量与肌肥大。节目进一步将冷暴露与热适应定位为加速代谢灵活性与恢复的手段，并将营养周期化与训练阶段匹配，强调碳水化合物时机、酮类补充与宏量营养素循环对线粒体效率的影响。整体内容将科学与实操相结合，为运动员与健身爱好者提供可落地的、个性化的训练与恢复策略。",
     "best_quote_en": "The 6 × 10 protocol is a simple, high‑intensity tool that spikes testosterone and drives hypertrophy.",
     "best_quote_zh": "通过短期压力提高睾酮水平，提升力量表现"
-  },{
+  },
+  {
     "id": 86,
     "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
     "title_zh": "另一篇关于凯拉·奈特利电影《10号舱的女人》的《卫报》链接 | 简短信件",
@@ -2117,7 +2078,8 @@
     "summary_zh": "本期节目聚焦诺贝尔奖得主理性经济学家理查德·塞勒与餐饮创新者尼克·科科纳斯，探讨人类决策的非理性根源与颠覆传统的实战案例。塞勒阐述“赢家诅咒”“损失厌恶”等行为学原理，并强调故事记忆的力量；科科纳斯则分享将行为洞察应用于餐厅、酒庄及危机应变的经验。两位嘉宾共同揭示：真实世界的决策者不是理性代理人，而是使用捷径的普通人；要想影响结果，需先破除旧思维、让人参与并提供可视化激励。节目兼具理论深度与可操作性，鼓励听众用行为工具改造商业与个人生活。",
     "best_quote_en": "I think the important lesson is that, if you’re doing business in the real world and you have customers and employees that are people, not agents, then you have to do things a bit differently.",
     "best_quote_zh": "我认为最重要的教训是，如果你在现实世界中经营业务，并且有客户和员工是人而非代理人，那么你必须以不同的方式行事。"
-  },{
+  },
+  {
     "id": 89,
     "title": "Earnestness",
     "title_zh": "真诚",
@@ -2212,7 +2174,8 @@
     "summary_zh": "帕布洛斯·霍尔曼在《泰姆·费里斯秀》中的访谈，是一次深度技术、黑客精神与全球战略交汇的课堂。霍尔曼自学成才，曾在蓝色起源工作，揭示了黑客思维——“无尽的谜题”——如何推动软件之外的发明。他坦诚讨论零日漏洞、核能经济以及安全的悖论：保护工具也可能成为国家武器。霍尔曼质疑传统风险投资关注技术风险，认为突破后市场风险消失，呼吁政策制定者简化监管，投资者跳出SaaS框架，关注核能与聚变等深度技术，开辟未开发市场。",
     "best_quote_en": "\"A hacker is someone who is attracted to puzzles. They are attracted to computer security, because it’s a bottomless pit of puzzles.\"",
     "best_quote_zh": "\"黑客是吸引谜题的人。\""
-  },{
+  },
+  {
     "id": 93,
     "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
     "title_zh": "Jess Cartner‑Morley谈时尚：今年冬季外套的首要规则——让它更长",
@@ -2329,4 +2292,123 @@
     "summary_zh": "Pablos Holman 通过逆向思维与深度技术展示了创新与风险共存的边界，他的故事提醒我们：技术的未来既可塑亦可毁，唯有持续探索与伦理审视才能把握方向。他在蓝色星际与智库实验室的经历，揭示了从无人机到核能的技术链条；同时，他对安全漏洞与人类创造力的探讨，促使我们重新思考技术治理与社会责任。这段对话既是对黑客精神的致敬，也是对未来技术伦理的深刻反思。",
     "best_quote_en": "I think a future that’s awesome is absolutely possible. A shitty future is also possible, but the balance is up to us.",
     "best_quote_zh": "我认为一个精彩的未来绝对可能。糟糕的未来也可能，但平衡取决于我们。"
-  }]
+  },
+  {
+    "id": 98,
+    "title": "Billionaires Build",
+    "title_zh": "亿万富翁的秘密",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ace.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "案例研究"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The essay reframes Y Combinator interviews as a window into the true drivers of billionaire success. Rather than the common myth that exploitation is key, the author argues that genuine product-market fit—understanding users, delivering what they want, and growing from a small, passionate larval market—is the real engine. He dissects the YC interview as a rapid, heuristic‑based evaluation where founders must demonstrate deep knowledge of their niche, honesty, and a relentless drive to build, not just to cash out. The narrative weaves in anecdotes from Airbnb, Apple, and early founders to illustrate how authentic interest and perseverance outweigh money‑centric motives. The piece also critiques political rhetoric that equates wealth with exploitation, warning that such narratives mislead aspiring entrepreneurs and erode social mobility. Ultimately, the essay invites founders to focus on delighting users, staying curious, and letting the market validate their vision, proving that sustainable growth, not shortcuts, builds lasting billionaires.",
+    "summary_zh": "作者以 Y Combinator 面试为镜，揭示亿万富翁的真正秘诀：真诚洞察用户需求、打造受欢迎产品并从小众成长市场起步。批判流行的剥削论，强调持续热情与诚实才是成功关键，并警示政治言论可能误导有志创业者。",
+    "best_quote_en": "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want.",
+    "best_quote_zh": "成为亿万富翁最可靠的方式是创办一家快速成长的公司，而快速成长的方式是满足用户的需求。"
+  },
+  {
+    "id": 99,
+    "title": "Give Me Your Data: The Rationalist Mind Meld",
+    "title_zh": "给我你的数据：理性主义者的心灵共振",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The piece argues that disagreements among rationalists rarely stem from pure logic but from divergent data sets that shape intuition. Rather than launching into formal argumentation, the author proposes a ‘Rationalist mind‑meld’: a mutual sharing of the empirical and experiential sources that inform each side’s worldview. By exposing one another to the books, essays, datasets, and anecdotes that undergird their beliefs, participants can align their mental models and reduce friction. The article frames intuition as the GPU and logic as the CPU, suggesting that training the former with high‑quality data is the key to true rationality. This perspective is both actionable and educational, offering a concrete protocol for dialogue that transcends abstract proofs. It also critiques the overreliance on deductive reasoning in online debates, reminding readers that most knowledge is built from messy, qualitative experiences. The insight that data‑sharing can be more persuasive than logical refutation invites a paradigm shift in how we resolve intellectual disputes and cultivate collective insight.",
+    "summary_zh": "文章以‘心灵共振’为核心，强调数据共享而非单纯逻辑辩论，揭示直觉与逻辑的协同作用。作者主张通过共享训练数据来提升理性思维，既具可操作性，又提醒我们直觉易错，逻辑是校正工具。这种方法兼顾教育与实践，既能深化学术讨论，也能指导日常沟通，体现了理性主义者对知识构建的全新视角。",
+    "best_quote_en": "Your intuition can lead you astray, and your logical mind exists to correct things when that happens.",
+    "best_quote_zh": "你的直觉可能会误导你，而你的逻辑思维存在是为了在这种情况下纠正错误。"
+  },
+  {
+    "id": 100,
+    "title": "Researchers and Founders",
+    "title_zh": "研究者与创始人",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/researchers-and-founders",
+    "tags": [
+      "inspire",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2020-06-19",
+    "summary_en": "This reflective piece contrasts the core traits of top researchers and founders, revealing that the most effective people share a rare blend of introspection, problem‑taste, laser focus, persistence, action bias, creativity, autonomy, and curiosity. The author underscores the Hamming question—“What are the most important problems in your field, and why aren’t you working on them?”—as a diagnostic tool that separates the truly driven from the merely busy. By highlighting that these qualities are not exclusive to one domain, the article invites leaders, entrepreneurs, and scientists alike to adopt a more disciplined, future‑oriented mindset. It challenges the myth that success can be achieved without hard work, and warns against the seductive rhetoric of “easy” paths. The piece is both a call to action and a practical guide, offering readers a framework to evaluate their own habits and to cultivate the habits of the world’s most impactful thinkers.",
+    "summary_zh": "作者通过对比顶尖研究者与创始人，揭示卓越人才共享的核心特质：深度反思、问题嗅觉、精准聚焦、坚韧不拔、行动导向、创意源泉、自治精神与好奇心。强调哈明问题的价值，提醒读者用未来视角审视自身习惯，批判“轻松成功”说法，鼓励培养真正驱动的思维方式。",
+    "best_quote_en": "The best people in both groups spend a lot of time reflecting on some version of the Hamming question—‘what are the most important problems in your field, and why aren’t you working on them?’",
+    "best_quote_zh": "最优秀的人会花大量时间思考某种版本的哈明问题——‘你所在领域最重要的问题是什么，为什么你没有去解决它们？’"
+  },
+  {
+    "id": 101,
+    "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
+    "title_zh": "必备：脑健康与认知表现的食物与补充剂",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-food-supplements-brain-health-cognitive-performance",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "Huberman Lab’s latest episode distills decades of neuro‑cognitive research into a practical playbook for anyone looking to sharpen focus, protect long‑term brain function, or simply eat smarter. The host walks listeners through a curated list of “brain‑boosting” nutrients—omega‑3 fatty acids, creatine, phosphatidylserine, anthocyanins, choline, and glutamine—detailing not only their mechanistic roles in synaptic plasticity and neurotransmission but also optimal dosing, bioavailability, and real‑world food sources. Beyond the biochemistry, he tackles the behavioral side: taste perception, gut‑brain signaling, and learned food preferences that drive cravings. By combining evidence‑based nutrition with concrete behavioral tools—such as unpairing artificial sweeteners and rewiring reward circuits—he offers a holistic framework that moves from theory to actionable habit change. For students, clinicians, or anyone curious about the science of nutrition, this episode serves as both a primer and a detailed guide, bridging laboratory findings with everyday choices in a way that feels both rigorous and immediately usable.",
+    "summary_zh": "Huberman实验室最新节目把神经认知研究转化为实用指南，详述了omega‑3、肌酸、磷脂酰丝氨酸、花青素、胆碱与谷氨酰胺等大脑营养素的作用与剂量，并结合味觉、肠脑信号和习惯性偏好，提供可操作的饮食与行为改变策略。对学生、临床医生或任何关注营养科学的人来说，这既是入门也是实操指南。",
+    "best_quote_en": "I also describe how taste perception, gut‑brain signaling and learned associations shape what foods we prefer and crave.",
+    "best_quote_zh": "我还描述了味觉感知、肠脑信号以及学习到的关联如何塑造我们偏好和渴望的食物。"
+  },
+  {
+    "id": 102,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More (#826)",
+    "title_zh": "Tim Ferriss 访谈：补剂、AI 工具、康复与间歇性禁食（第826集）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/10/qa-with-tim-supplements-ai-recovery-transcript/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-10",
+    "summary_en": "In this sprawling Q&A, Tim Ferriss dissects the science behind his post‑surgery recovery—decongesting the elbow with BPC‑157, lymphatic massage, and blood‑flow‑restriction training—while revealing a systematic “sequencing” mindset that can be applied to any problem. He candidly shares the AI stack he uses, from Consensus.app for evidence‑based literature curation to ChatGPT for rapid hypothesis testing, underscoring the importance of cross‑referencing data before consulting experts. The episode also explores his supplement regimen, blending mainstream staples like alpha‑lipoic acid and NAC with niche peptides, and he challenges conventional wisdom on intermittent fasting, arguing that resistance training and glucose stability can unlock its benefits. Finally, Ferriss offers a pragmatic take on the Austin vs. SF startup debate, advocating a hybrid model that leverages Silicon Valley’s talent density while maintaining the agility of a smaller hub. The conversation is a masterclass in actionable, data‑driven self‑optimization and entrepreneurial strategy, framed by Ferriss’s trademark curiosity and humility.",
+    "summary_zh": "在这场漫长的访谈中，Ferriss 解析了术后康复的科学——用 BPC‑157、淋巴按摩和血流限制训练去除肘部阻塞，并强调“先序列化”思维可应用于任何问题。他公开分享 AI 工具链：Consensus.app 用于检索证据，ChatGPT 进行快速假设测试，提醒先交叉验证再请专家。还谈到个人补剂组合，混合主流与小众配方，并对间歇性禁食提出质疑，认为力量训练与葡萄糖稳定是关键。最后，他对奥斯汀与旧金山的创业生态给出务实建议，主张兼顾人才密度与灵活性。",
+    "best_quote_en": "Sequencing is the magic sauce, I think, for a lot of things.",
+    "best_quote_zh": "我把康复过程拆解成 LEGO 片段，然后挑选 20% 进行 80/20 分析。"
+  }
+]
