@@ -1,133 +1,5 @@
 [
   {
-    "id": 3,
-    "title": "Why Certain Fashion Styles Endure",
-    "title_zh": "为何某些时尚风格经久不衰",
-    "source": "Who What Wear",
-    "link": "https://www.whowhatwear.com/fashion/enduring-styles",
-    "tags": [
-      "fashion trends",
-      "style evolution",
-      "cultural influence",
-      "aesthetics"
-    ],
-    "tags_zh": [
-      "时尚趋势",
-      "风格演变",
-      "文化影响",
-      "美学"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "The piece looks at how specific fashion styles remain influential over decades by evolving subtly while retaining core design elements, demonstrating continuity amid changing trends.",
-    "summary_zh": "文章分析某些时尚风格如何通过细微演变保持影响力，同时保留核心设计元素，展现趋势变化中的连续性。",
-    "best_quote_en": "\"Classic styles endure because they balance tradition with subtle modern reinterpretations.\"",
-    "best_quote_zh": "“经典风格之所以经久不衰，是因为它们在传统与现代再诠释之间取得了平衡。”"
-  },
-  {
-    "id": 4,
-    "title": "Monitoring Employee Presence: Balancing Oversight and Trust",
-    "title_zh": "员工出勤监控：监管与信任的平衡",
-    "source": "Yahoo Finance",
-    "link": "https://news.yahoo.com/news/business/employee-monitoring",
-    "tags": [
-      "workplace",
-      "employee tracking",
-      "privacy",
-      "productivity",
-      "management"
-    ],
-    "tags_zh": [
-      "职场",
-      "员工监控",
-      "隐私",
-      "生产力",
-      "管理"
-    ],
-    "date": "2025-09-14",
-    "summary_en": "Examines workplace monitoring tools aimed at enforcing attendance, highlighting the trade-offs between productivity, trust, and legal or ethical concerns.",
-    "summary_zh": "探讨旨在强制执行出勤的职场监控工具，强调生产力、信任与法律或伦理问题之间的权衡。",
-    "best_quote_en": "\"Turning attendance into a metric blurs the line between oversight and intrusion.\"",
-    "best_quote_zh": "“将出勤转化为衡量标准模糊了监管与干预的界限。”"
-  },
-  {
-    "id": 5,
-    "title": "Developers Navigating AI-Generated Workflows",
-    "title_zh": "开发者应对 AI 生成的工作流程",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2025/09/developers-ai-workflow",
-    "tags": [
-      "software development",
-      "AI",
-      "automation",
-      "workflow",
-      "human oversight"
-    ],
-    "tags_zh": [
-      "软件开发",
-      "人工智能",
-      "自动化",
-      "工作流程",
-      "人工监督"
-    ],
-    "date": "2025-09-14",
-    "summary_en": "The article describes how software developers increasingly supervise AI-generated code, balancing speed and creativity with oversight and quality assurance.",
-    "summary_zh": "文章描述软件开发者如何越来越多地监督 AI 生成的代码，在速度与创意之间保持监督和质量保障的平衡。",
-    "best_quote_en": "\"Human judgment remains essential, even when AI speeds up coding.\"",
-    "best_quote_zh": "“即便 AI 提速编码，人类判断仍不可或缺。”"
-  },
-  {
-    "id": 6,
-    "title": "Meet the 11‑Year‑Old Whose Code Was Adopted by a Gaming Giant",
-    "title_zh": "认识那位代码被著名游戏公司采纳的11岁少年",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/meet-the-11-year-old-whose-code-was-adopted-by-a-gaming-giant/",
-    "tags": [
-      "young coder",
-      "open source",
-      "gaming",
-      "education",
-      "inspiration"
-    ],
-    "tags_zh": [
-      "少年程序员",
-      "开源",
-      "游戏",
-      "教育",
-      "励志"
-    ],
-    "date": "2025‑09‑14",
-    "summary_en": "This article shares the story of Damir Buldakov, an 11‑year‑old from Vietnam whose Scratch plugin was adopted by Playgama (300M+ users). His 931‑line contribution became part of the Playgama Bridge SDK, enabling young Scratch developers to connect to a global gaming network. The article highlights his self‑learning through SoloLearn, YouTube, and forums, plus support from community and company.",
-    "summary_zh": "本文讲述越南11 岁少年Damir Buldakov 的故事。他开发的 Scratch 插件被月活超 3 亿的游戏平台 Playgama 采纳，成为 Playgama Bridge SDK 的一部分，使年轻的 Scratch 开发者能连接全球游戏平台。文中强调他通过 SoloLearn、YouTube 和论坛自学，以及社区和公司的支持。",
-    "best_quote_en": "\"Age doesn’t mean anything. What really matters is knowledge,\" Buldakov told The New Stack.",
-    "best_quote_zh": "“年龄不代表什么，真正重要的是知识，”Buldakov 对 The New Stack 说道。"
-  },
-  {
-    "id": 7,
-    "title": "Best Countries to Retire Abroad, According to the Global Citizen Solutions Report",
-    "title_zh": "根据全球公民解决方案报告，最佳退休移居国家",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2025/09/14/best-countries-retire-abroad-global-citizen-solutions-report.html",
-    "tags": [
-      "retirement",
-      "expat living",
-      "travel",
-      "financial planning",
-      "quality of life"
-    ],
-    "tags_zh": [
-      "退休",
-      "海外生活",
-      "旅行",
-      "财务规划",
-      "生活质量"
-    ],
-    "date": "2025‑09‑14",
-    "summary_en": "This article reports on the 2025 Global Citizen Solutions index ranking retirement visa and passive income programs. Highlights include countries that balance affordable living, strong public services, visa accessibility, and high quality of life — Portugal, Spain, Malaysia among them.",
-    "summary_zh": "本文报告了 2025 年 Global Citizen Solutions 指数中关于退休签证与被动收入项目的排名。重点包括那些生活成本低、公共服务强、签证政策友好且生活质量高的国家，如葡萄牙、西班牙和马来西亚等。",
-    "best_quote_en": "\"The Americas dominate the availability of digital nomad retirement visas and then Europe. They have a very high quality of life that's above average,\" Dr. Laura Madrid Sartoretto, Research Lead at GCS’ Global Intelligence Unit, tells CNBC Make It.",
-    "best_quote_zh": "“美洲在数字游民退休签证的可获得性方面占主导，其次是欧洲。它们的生活质量远高于平均水平，”Global Citizen Solutions 全球情报部研究负责人 Laura Madrid Sartoretto 告诉 CNBC Make It。"
-  },
-  {
     "id": 8,
     "title": "Museum of Color",
     "title_zh": "色彩博物馆",
@@ -2410,5 +2282,123 @@
     "summary_zh": "在这场漫长的访谈中，Ferriss 解析了术后康复的科学——用 BPC‑157、淋巴按摩和血流限制训练去除肘部阻塞，并强调“先序列化”思维可应用于任何问题。他公开分享 AI 工具链：Consensus.app 用于检索证据，ChatGPT 进行快速假设测试，提醒先交叉验证再请专家。还谈到个人补剂组合，混合主流与小众配方，并对间歇性禁食提出质疑，认为力量训练与葡萄糖稳定是关键。最后，他对奥斯汀与旧金山的创业生态给出务实建议，主张兼顾人才密度与灵活性。",
     "best_quote_en": "Sequencing is the magic sauce, I think, for a lot of things.",
     "best_quote_zh": "我把康复过程拆解成 LEGO 片段，然后挑选 20% 进行 80/20 分析。"
+  },
+  {
+    "id": 103,
+    "title": "The Airbnbs",
+    "title_zh": "Airbnb的故事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnbs.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "The piece chronicles Airbnb’s improbable rise from a cramped, credit‑card‑driven startup to a growth engine during the 2008 recession. It underscores the founders’ relentless energy, captured in their nickname “The Tasmanian Devil,” and the culture of rapid iteration—notes, new ideas, and a willingness to pivot. The narrative pivots on the concept of “ramen profitability,” a pragmatic milestone that allowed Airbnb to become self‑sustaining before investor exit. The authors detail a focused growth strategy: targeting the high‑demand New York market, improving host listings with professional photos, and leveraging host motivations to drive bookings. The story serves as a microcosm of startup resilience, illustrating that intrinsic passion and a clear, actionable vision can outpace financial uncertainty. It invites founders to adopt a disciplined, data‑driven approach while staying true to the core user experience that sparked the original idea. The account blends anecdote with strategic insight, making it a valuable case study for entrepreneurs and investors alike.",
+    "summary_zh": "文章描绘Airbnb从信用卡支撑的起步到2008衰退中实现增长的逆袭，突显创始人“塔斯马尼亚野兽”般的活力与快速迭代文化。通过“拉面盈利”这一里程碑，Airbnb实现自给自足，随后聚焦纽约高需求市场，提升房源照片，激活房东动机。故事既是创业韧性的缩影，也是以数据驱动、以用户体验为核心的实操指南，激励创业者在逆境中坚持初心、系统化增长。",
+    "best_quote_en": "They are not going to slow down.",
+    "best_quote_zh": "他们不会放慢速度。"
+  },
+  {
+    "id": 104,
+    "title": "Retro Recomendo: Science",
+    "title_zh": "Retro Recomendo: 科学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-science/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "Retro Recomendo: Science curates evergreen scientific insights, blending rapid‑review videos, classic texts, and participatory projects into a digestible weekly digest. The piece showcases how a single channel—Two Minute Papers—transforms dense AI papers into bite‑sized, visually rich explanations, proving that staying current need not be a chore. It contrasts this with timeless resources such as Asimov’s *Understanding Physics*, which demystifies core concepts through historical narrative, and the mid‑century anatomy primer that remains a pocket‑sized tour of human biology. The author also spotlights citizen‑science initiatives, illustrating that discovery can happen from a phone screen, and highlights niche documentaries that foreground field work over spectacle. The underlying insight is that learning science can be modular: quick overviews, deep dives, hands‑on participation, or playful apps all serve complementary roles. The editorial encourages readers to revisit foundational material, reminding us that knowledge, once distilled, stays relevant across decades.",
+    "summary_zh": "Retro Recomendo: 科学通过短视频、经典书籍和公民科学项目，提供可持续的科学学习路径。它强调快速回顾与深入阅读并行，展示了从AI论文到人体解剖、地质探险，再到互动维度游戏的多元学习方式。内容提醒我们，科学知识的价值在于其可复用性，旧闻新知交织，既能激发好奇，也能提供实践机会。",
+    "best_quote_en": "I find it a painless way to keep up in this fast moving field.",
+    "best_quote_zh": "它让我以一种轻松的方式跟上这个快速发展的领域。"
+  },
+  {
+    "id": 105,
+    "title": "Project Covalence",
+    "title_zh": "协同项目",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence emerges as a strategic response to the persistent bottleneck in COVID‑19 clinical trials: the sheer time, cost, and logistical burden of launching studies. By partnering with TrialSpark and leveraging Dr. Mark Fishman’s expertise, the platform offers a comprehensive, 21 CFR Part 11‑compliant ecosystem that spans remote data capture, telemedicine, at‑home specimen kits, biostatistics, and protocol drafting. The core insight is that community‑based, home‑centered trials can dramatically reduce hospital strain while accelerating enrollment. The initiative’s ambition to create master protocols for shared control arms and adaptive designs signals a shift toward modular, reusable trial infrastructure—an approach that could standardize best practices across academia and industry. The project’s value lies in its actionable, data‑driven model that transforms a traditionally siloed process into a shared, scalable resource, potentially reshaping how therapeutic candidates are evaluated in real‑world settings. Its implications extend beyond COVID‑19, offering a blueprint for rapid, decentralized research that could become a new norm for future public‑health crises.",
+    "summary_zh": "协同项目通过社区与居家试验，减少医院负担，加速招募，提供完整的远程数据、远程医疗、样本收集等一体化平台。它的核心在于构建共享控制组与自适应设计的主协议，推动临床试验从孤立到模块化，成为可复制、可扩展的科研基础设施，为未来公共卫生危机提供了快速、分散式研究的新范式。",
+    "best_quote_en": "Science remains the only way out of the COVID‑19 crisis.",
+    "best_quote_zh": "科学仍是摆脱 COVID‑19 危机的唯一途径。"
+  },
+  {
+    "id": 106,
+    "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
+    "title_zh": "通过了解独特的生物学，改变你的代谢健康与长寿 | 迈克尔·斯奈德博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/transform-metabolic-health-longevity-unique-biology-michael-snyder",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2025-09-08",
+    "summary_en": "In this episode, Dr. Michael Snyder, a Stanford genetics professor, decodes the science behind why our bodies react so differently to food, exercise, and medication. He explains the concept of glucose responders, the impact of specific genes, and how lifestyle factors intertwine to shape metabolic health. Snyder highlights critical life stages where vigilance is essential and dives into how fiber types can elicit opposite responses in different people. He also explores cutting‑edge tools—from continuous glucose monitoring to wearable sensors—that enable precise self‑tracking. The discussion moves beyond simple diet advice to a holistic framework for longevity, covering everything from insulin sensitivity to epigenetics, microbiome dynamics, and even environmental exposures. For anyone curious about tailoring health interventions to their unique biology, the episode offers actionable insights, data‑driven recommendations, and a roadmap for personalized medicine. It blends expert analysis with practical tools, making complex genomics accessible and immediately useful.",
+    "summary_zh": "斯奈德博士用基因学剖析人类代谢差异，阐释葡萄糖响应者、基因表达与生活方式如何共同决定健康与寿命。节目揭示关键年龄节点、不同纤维的相反效应，并介绍连续血糖监测、可穿戴传感器等精准自我追踪工具。它将饮食、运动与环境因素融入一体，提供可操作、数据驱动的个性化长寿方案，既有科学深度，又易于落地。",
+    "best_quote_en": "We discuss how to optimize your health and lifespan according to what type of glucose responder you are, which genes you express, your lifestyle and other factors.",
+    "best_quote_zh": "人们对不同纤维类型的反应相反。"
+  },
+  {
+    "id": 107,
+    "title": "Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More (#826)",
+    "title_zh": "Q&A 与 Tim — 我正在服用的补剂、奥斯汀与旧金山、训练心理表现、AI 工具、手术恢复、间歇性禁食等（#826）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/09/qa-with-tim-supplements-ai-recovery/",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "In this eclectic Q&A, Tim Ferriss weaves a tapestry of personal practice, cutting‑edge tech, and life‑design philosophy. He dissects his supplement stack—PAGG, BPC‑157, and a host of micronutrients—while linking each to measurable performance gains, offering a concrete “recipe” for readers. The conversation pivots to AI, where Ferriss recommends Consensus.app and LLMs for research, underscoring a workflow that blends machine‑assisted data mining with human vetting. He candidly shares his post‑surgery recovery, spotlighting sequencing, BFR training, and peptides, illustrating how deliberate, stepwise planning can accelerate healing. The episode also tackles the perennial debate of California vs. Austin for builders, and the subtle art of saying “no” to maintain focus. His reflections on intermittent fasting, philanthropy, and “fun as recovery” reveal a holistic mindset that marries productivity with well‑being. For listeners, the episode is a masterclass in applying systems thinking—sequencing, 80/20 analysis, and data‑driven choices—to both personal health and entrepreneurial ventures.",
+    "summary_zh": "在这场多元化的问答中，Ferriss 将个人实践、前沿技术与生活设计哲学交织成一幅织锦。他拆解自己的补剂组合——PAGG、BPC‑157 及多种微量营养素，并将每一种与可测量的表现提升挂钩，提供了具体的“配方”。随后，他讨论 AI 工具，推荐 Consensus.app 与 LLMs，用机器辅助数据挖掘与人工核查相结合的工作流程。Ferriss 还坦诚分享手术恢复过程，强调分步计划与 BFR 训练、肽类药物的作用，展示有条不紊的规划如何加速康复。",
+    "best_quote_en": "Sequencing is the crucial importance of breaking a problem down and solving its pieces in the right order.",
+    "best_quote_zh": "分解问题并按正确顺序解决各个部分的能力是关键——这就是序列化的重要性。"
   }
 ]
