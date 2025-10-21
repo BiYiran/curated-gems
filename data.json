@@ -1,121 +1,5 @@
 [
   {
-    "id": 8,
-    "title": "Museum of Color",
-    "title_zh": "色彩博物馆",
-    "source": "Emergence Magazine",
-    "link": "https://emergencemagazine.org/essay/museum-of-color/?src=longreads",
-    "tags": [
-      "pigment history",
-      "color",
-      "art and ecology",
-      "material culture",
-      "colonialism",
-      "science",
-      "toxicity"
-    ],
-    "tags_zh": [
-      "颜料史",
-      "色彩",
-      "艺术与生态",
-      "物质文化",
-      "殖民主义",
-      "科学",
-      "毒性"
-    ],
-    "date": "2025‑08‑28",
-    "summary_en": "In *Museum of Color*, Stephanie Krzywonos traces the histories, cultural meanings, and ecological costs of pigments from ochre to Vantablack. She shows how each color embodies layers of human labor, colonial extraction, environmental harm, and aesthetic value. The essay examines prehistoric cave paintings, the processing of dangerous minerals, commercial exploitation, synthetic innovations, and also the racial and political dimensions of whose colors have been valued or suppressed.",
-    "summary_zh": "在《色彩博物馆》中，Stephanie Krzywonos 追溯从赭石到 Vantablack 的颜料历史、文化意义与生态代价。她展示了每种颜色都凝聚了人类劳动、殖民掠夺、环境破坏与审美价值的层叠。文章考察史前洞穴壁画、有毒矿物颜料的加工、商业剥削、合成技术的创新，以及哪些颜色被重视或压制的种族与政治维度。",
-    "best_quote_en": "\"From ochre to lapis lazuli, Stephanie Krzywonos opens a door into the entangled histories of our most iconic pigments, revealing how colors hold stories of both lightness and darkness.\"",
-    "best_quote_zh": "“从赭石到天青石，Stephanie Krzywonos 打开了一扇通往我们最具标志性颜料纠缠历史的门，揭示色彩中既有光明也有黑暗的故事。”"
-  },
-  {
-    "id": 9,
-    "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
-    "title_zh": "人工智能并不是将要到来好莱坞，它已经来了",
-    "source": "WIRED",
-    "link": "https://www.wired.com/story/artificial-intelligence-hollywood-stability/?src=longreads",
-    "tags": [
-      "AI in media",
-      "Stability AI",
-      "Hollywood",
-      "generative tools",
-      "VFX",
-      "previz",
-      "copyright",
-      "labor concerns"
-    ],
-    "tags_zh": [
-      "媒体中的 AI",
-      "Stability AI",
-      "好莱坞",
-      "生成式工具",
-      "视觉特效",
-      "预视化",
-      "版权问题",
-      "劳动关切"
-    ],
-    "date": "2025‑08‑20",
-    "summary_en": "The article describes the transformation already underway in Hollywood thanks to generative AI, with Stability AI repositioning itself under new leadership (Prem Akkaraju as CEO, Sean Parker as chairman) to focus on building tools for filmmakers rather than chasing frontier, large‑scale models. It highlights how AI is being used in pre‑visualization, effects, editing and cost‑saving workflows; discusses challenges such as consistency, control, resolution, and licensing/training data; and addresses how studios and unions are responding. The piece also notes early uses of AI in final footage, the debt and leadership crises Stability AI faced, and how industry players are exploring AI as augmentative rather than fully replacement tools.",
-    "summary_zh": "这篇文章描述了生成式人工智能在好莱坞中已展开的变革，Stability AI 在新领导层（Prem Akkaraju 任 CEO，Sean Parker 任主席）的带领下转型，从追求最前沿的大模型，变为专注为电影制作人构建实用工具。文中强调 AI 在预视化、特效、剪辑和成本节约流程中的应用；探讨一致性、可控性、分辨率、版权与训练数据等挑战；讨论制片厂和工会的应对方式。文章还提到 AI 在最终影像中的早期使用，Stability AI 所经历的债务与领导危机，以及业界如何将 AI 视作辅助工具，而非完全的替代。",
-    "best_quote_en": "\"It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology.\"",
-    "best_quote_zh": "“这件事实际上关于我和 Sean 的加入，提供方向、提供领导力，并真正抓住我们所说的三大要素：时机、团队与技术。”"
-  },
-  {
-    "id": 10,
-    "title": "What’s so great about Britain? 14 very modern icons on the state of the nation",
-    "title_zh": "英国有何可骄傲？14 位现代象征论当下国家状态",
-    "source": "GQ UK",
-    "link": "https://www.gq-magazine.co.uk/article/the-state-of-the-nation-october-cover-story-2025?src=longreads",
-    "tags": [
-      "British identity",
-      "modern icons",
-      "culture",
-      "diversity",
-      "inequality",
-      "politics",
-      "national pride"
-    ],
-    "tags_zh": [
-      "英国身份",
-      "现代象征",
-      "文化",
-      "多样性",
-      "不平等",
-      "政治",
-      "国家自豪感"
-    ],
-    "date": "2025‑09‑15",
-    "summary_en": "This cover story gathers reflections from fourteen modern British figures — from athletes, actors, to artists — on what Britain means in 2025. They discuss both pride and disillusion: what’s remarkable about British identity (community, cultural exports, humour, creative diversity) and what’s failing (inequality, class divide, media problems, political division). The essays consider what people miss about Britain when abroad, what embarrasses them, what gives them hope, and what they would change if they could — touching on institutions such as NHS, the monarchy, free speech, and the creative industries.",
-    "summary_zh": "这篇封面故事汇集十四位现代英国人物（运动员、演员、艺术家等）对于 2025 年英国意味着什么的反思。他们既表达骄傲也表达失望：英国身份的可贵之处（社区、文化输出、幽默、创意多样性）与其不足（不平等、阶级分裂、媒体问题、政治对立）。文章讨论人在他乡怀念英国什么，让人尴尬的是什么，什么让他们有希望，以及如果可以改变的话他们会怎样做 — 涉及 NHS、君主制、言论自由与创意产业等机构。",
-    "best_quote_en": "\"We’ve shown time and time again, especially in working‑class communities, that we thrive when we join together and we celebrate our different cultures.\"",
-    "best_quote_zh": "“我们一次又一次地证明，尤其是在工人阶级社区，当我们联合起来并庆祝我们不同的文化时，我们会茁壮成长。”"
-  },
-  {
-    "id": 11,
-    "title": "A 25‑Year‑Old CEO Shares 9 Career Secrets Every Young Person Should Know",
-    "title_zh": "一位25岁CEO分享每个年轻人都该知道的九个职业秘诀",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2016/09/23/a-25-year-old-ceo-shares-9-career-secrets-every-young-person-should-know.html",
-    "tags": [
-      "career",
-      "personal development",
-      "leadership",
-      "advice"
-    ],
-    "tags_zh": [
-      "职业",
-      "个人成长",
-      "领导力",
-      "建议"
-    ],
-    "date": "2016‑09‑23",
-    "summary_en": "Brian Wong, CEO and co‑founder of Kiip, shares nine key lessons for young people to accelerate their career. Highlights include separating personal stress from work, facing fears, knowing your strengths, stopping comparison with others, and the importance of presentation and getting out into the world. Wong emphasizes mindset over external circumstances.",
-    "summary_zh": "Kiip 的 CEO 联合创始人 Brian Wong 分享了九条加速职业成长的关键经验，包括将私人压力与工作分开、直面恐惧、了解自身优势、停止与他人比较、重视展示形象并走出舒适区。他强调心态比外部环境更重要。",
-    "best_quote_en": "\"Your goal should be to get people to invest in you, not your project.\"",
-    "best_quote_zh": "“你的目标应该是让人们投资于你，而不是仅仅投资于你的项目。”"
-  },
-  {
     "id": 12,
     "title": "Solo travel for women: Tips for vacationing alone",
     "title_zh": "女性独自旅行：单独度假的建议",
@@ -2400,5 +2284,99 @@
     "summary_zh": "在这场多元化的问答中，Ferriss 将个人实践、前沿技术与生活设计哲学交织成一幅织锦。他拆解自己的补剂组合——PAGG、BPC‑157 及多种微量营养素，并将每一种与可测量的表现提升挂钩，提供了具体的“配方”。随后，他讨论 AI 工具，推荐 Consensus.app 与 LLMs，用机器辅助数据挖掘与人工核查相结合的工作流程。Ferriss 还坦诚分享手术恢复过程，强调分步计划与 BFR 训练、肽类药物的作用，展示有条不紊的规划如何加速康复。",
     "best_quote_en": "Sequencing is the crucial importance of breaking a problem down and solving its pieces in the right order.",
     "best_quote_zh": "分解问题并按正确顺序解决各个部分的能力是关键——这就是序列化的重要性。"
+  },
+  {
+    "id": 108,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "In “How to Think for Yourself,” the author dissects the anatomy of independent-mindedness and offers a practical playbook for cultivating it. The essay argues that for high‑impact fields—scientific research, investing, startup founding, and even essay writing—true value comes from ideas that are both correct and novel. It contrasts this with routine work, where correctness suffices. The author then identifies three core components of independent thinking: fastidiousness about truth, resistance to being told what to think, and curiosity. He explains how each can compensate for the others, and proposes concrete tactics—surrounding oneself with diverse, unconventional thinkers, practicing skeptical inquiry, and deliberately seeking out under‑explored ideas—to sharpen one’s own independent mindset. The piece blends psychological insight with actionable advice, making it a useful guide for anyone who wants to break free from groupthink and generate fresh, market‑creating ideas.",
+    "summary_zh": "作者在《如何独立思考》中剖析了独立思维的三大核心：对真理的严谨、拒绝被告知思路以及好奇心，并提出通过多元社交、批判性提问、寻找被忽视的领域等方法来培养。文章将独立思维与科学、投资、创业等高影响领域联系，强调原创性与正确性的双重价值，既是心理学洞察，也是实用指南。",
+    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
+    "best_quote_zh": "最好的寻找未被发现的想法的地方是别人在不关注的地方。"
+  },
+  {
+    "id": 109,
+    "title": "Dehydrators",
+    "title_zh": "脱水机",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/dehydrators/",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Dehydrators are more than kitchen gadgets; they’re a gateway to sustainable food preservation, DIY nutrition, and adventure readiness. In this article, the author compares two popular models—Nesco’s budget‑friendly unit and Excalibur’s premium, high‑capacity machine—highlighting design differences, airflow mechanics, and temperature ranges. Readers learn how to optimize drying times for delicate fungi, fruits, and even photographs, and discover the importance of a top‑down heating system for even distribution. The piece also turns to bulk freeze‑dried suppliers like Honeyville and Harmony House, offering cost‑effective options for backpackers and long‑haul travelers. Practical tips such as using non‑stick drying sheets, selecting the right temperature, and leveraging extended warranties give the reader actionable steps. The narrative blends personal anecdotes with data‑driven comparisons, creating a guide that feels both expert‑insightful and accessible to beginners. Whether you’re a weekend forager or a seasoned camper, the article equips you to build a versatile, low‑weight pantry that keeps flavor and nutrition intact.",
+    "summary_zh": "脱水机不仅是厨房小工具，更是可持续食物保存与户外营养的桥梁。文中对Nesco与Excalibur两款机型进行细致对比，阐释空气流动、温控与容量差异，并给出蘑菇、果干等食材的干燥技巧。作者还推荐Honeyville、Harmony House等批发冻干食品，帮助背包客和长途旅行者节省成本。实用建议如使用防粘烘干纸、选温度与保修策略，提供可操作步骤。个人经验与数据对比相结合，使内容既具专业洞见，又易于初学者理解，为读者打造轻量、保鲜、口味兼备的食品储备。",
+    "best_quote_en": "The Nesco Food Dehydrator is a simple, affordable, and well‑built tool for drying foods quickly and thoroughly.",
+    "best_quote_zh": "Nesco脱水机是一款简单、价格亲民、结构坚固的工具，可快速彻底地干燥食物。"
+  },
+  {
+    "id": 110,
+    "title": "Idea Generation",
+    "title_zh": "创意生成",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/idea-generation",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2020-05-28",
+    "summary_en": "The article dissects the elusive art of generating startup ideas, arguing that founders must cultivate an almost constant ideation habit rather than hunting for a single ‘golden’ concept. It highlights the importance of surrounding oneself with future‑oriented, low‑filter thinkers who celebrate even the most fragile, seemingly silly ideas. By projecting 20 years ahead and identifying tectonic shifts—like the mobile‑phone boom—the author shows how early recognition of emerging platforms can reveal hidden opportunities. Crucially, the piece stresses that a startup’s long‑term advantage hinges on the founder’s fit with the company, not just product‑market fit, and that a good idea must be defensible against widespread skepticism. The insights blend practical advice with a visionary mindset, urging founders to test ideas against their own strengths and the future’s unmet needs, turning curiosity into actionable strategy.",
+    "summary_zh": "文章探讨创始人如何持续生成创业点子，强调与未来导向、低过滤思考者共处的重要性；通过预判二十年后趋势与地质性变革，发现隐藏机遇；提出创始人/公司契合度与产品/市场契合度同等关键，鼓励用自身优势检验点子，推动好奇转化为可执行策略。",
+    "best_quote_en": "Founder/company fit is as important as product/market fit.",
+    "best_quote_zh": "创始人/公司与产品/市场的契合度同样重要。"
+  },
+  {
+    "id": 111,
+    "title": "How to Overcome Inner Resistance | Steven Pressfield",
+    "title_zh": "如何克服内在抵抗 | 史蒂文·普雷斯菲尔德",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/overcome-inner-resistance-steven-pressfield",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Steven Pressfield, author of *The War of Art*, dismantles the invisible wall of inner resistance that keeps creators, entrepreneurs, and everyday professionals from realizing their full potential. He argues that resistance is not a mystical force but a self‑sabotaging, procrastination‑driven habit that thrives on doubt, perfectionism, and distraction. Pressfield’s strategy is grounded in concrete, repeatable practices: setting a disciplined daily schedule, breaking work into small, manageable milestones, and cultivating a physical training routine that mirrors the mental rigor required for creative output. He emphasizes the importance of “turning pro”—adopting the habits of professionals rather than amateurs—and of embracing failure as a data point, not a verdict. His advice is actionable, data‑driven, and designed for people who want to move from intention to execution, making this episode a practical playbook for anyone seeking to convert ambition into tangible results.",
+    "summary_zh": "史蒂文·普雷斯菲尔德把“抵抗”视为拖延与自我怀疑的化身，提供可执行的日程、目标拆分与身体训练等实用技巧，帮助创作者与专业人士把握行动与成就。",
+    "best_quote_en": "Resistance is the self‑sabotaging tendency to procrastinate on your life’s most important work that keeps you from realizing your professional and creative potential.",
+    "best_quote_zh": "抵抗是自我破坏的倾向，让你拖延最重要的工作，从而阻止你实现专业和创造性潜力。"
   }
 ]
