@@ -1,103 +1,5 @@
 [
   {
-    "id": 12,
-    "title": "Solo travel for women: Tips for vacationing alone",
-    "title_zh": "女性独自旅行：单独度假的建议",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2025/09/15/solo-travel-for-women-tips-for-vacationing-alone.html",
-    "tags": [
-      "travel",
-      "lifestyle",
-      "women",
-      "self-growth",
-      "safety"
-    ],
-    "tags_zh": [
-      "旅行",
-      "生活方式",
-      "女性",
-      "自我成长",
-      "安全"
-    ],
-    "date": "2025‑09‑15",
-    "summary_en": "Lucy Handley shares insights from her solo travels in India, Vietnam, Sri Lanka, and the U.S., offering practical advice for women traveling alone. She emphasizes cultural respect, such as dressing modestly in Kerala, India, and balancing group tours with independent exploration. Handley highlights activities like yoga classes and staying in accommodations with group activities to foster connections. She also discusses safety precautions, including sharing itineraries with family, using cross-body purses, and trusting one's intuition. Her experiences underscore the empowerment and personal growth that come with solo travel.",
-    "summary_zh": "Lucy Handley 分享了她在印度、越南、斯里兰卡和美国的独自旅行经历，为女性独自旅行者提供实用建议。她强调文化尊重，如在印度喀拉拉邦穿着得体，以及将团体旅游与独立探索相结合。Handley 强调了参加瑜伽课程和入住提供团体活动的住宿，以促进社交。她还讨论了安全预防措施，包括与家人分享行程、使用斜挎包以及相信自己的直觉。她的经历凸显了独自旅行带来的赋权和个人成长。",
-    "best_quote_en": "\"I reveled in waking up solo and being able to choose exactly what I wanted to do each day.\"",
-    "best_quote_zh": "\"我陶醉于每天早晨独自醒来，能够完全按照自己的意愿安排一天的活动。\""
-  },
-  {
-    "id": 13,
-    "title": "‘If there’s nowhere else to go, this is where they come’: how Britain’s libraries provide much more than books",
-    "title_zh": "“如果无处可去，他们就来这里”：英国的图书馆提供的不只是书籍",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/article/2024/jun/25/how-britains-libraries-provide-more-than-books",
-    "tags": [
-      "society",
-      "community",
-      "education",
-      "public services"
-    ],
-    "tags_zh": [
-      "社会",
-      "社区",
-      "教育",
-      "公共服务"
-    ],
-    "date": "2024-06-25",
-    "summary_en": "The article explores how public libraries in Britain, such as Battle library in Reading, have evolved into vital community hubs offering far more than just books. Libraries now act as informal advice centres, mental health support spaces, help with digital tasks, and social spaces hosting activities like playgroups and literacy classes. They even lend non-book items like footballs and coats. Despite funding challenges, library staff remain committed to making libraries inclusive and welcoming for all.",
-    "summary_zh": "文章探讨英国公共图书馆（以雷丁的 Battle 图书馆为例）如何演变为重要的社区中心，提供远不止借书的服务。图书馆如今作为非正式咨询中心、心理健康支持场所，帮助处理数字事务，举办游戏小组和读写课程，甚至借出足球和冬衣等非书籍物品。尽管资金紧张，工作人员依然致力于使图书馆包容且欢迎所有人。",
-    "best_quote_en": "\"The average public library is not only a provider of the latest Anne Enright or Julia Donaldson: it is now an informal citizens advice bureau, a business development centre, a community centre and a mental health provider.\"",
-    "best_quote_zh": "“普通公共图书馆不仅仅提供最新的 Anne Enright 或 Julia Donaldson 的书籍：它如今还扮演着非正式公民咨询局、商业发展中心、社区中心与心理健康提供者的角色。”"
-  },
-  {
-    "id": 14,
-    "title": "‘You tried to tell yourself I wasn’t real’: what happens when people with acute psychosis meet the voices in their heads?",
-    "title_zh": "“你试图告诉自己我不真实”：当急性精神病患者面对脑中声音时发生了什么？",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry",
-    "tags": [
-      "health",
-      "mental health",
-      "therapy",
-      "technology"
-    ],
-    "tags_zh": [
-      "健康",
-      "心理健康",
-      "疗法",
-      "科技"
-    ],
-    "date": "2024-10-29",
-    "summary_en": "The article explores the innovative use of avatar therapy in treating individuals with acute psychosis who experience auditory hallucinations. Patients engage in dialogue with digital avatars representing their inner voices, guided by therapists. This approach has shown promising results in reducing the frequency and distress of hallucinations, offering a potential alternative to traditional pharmacological treatments.",
-    "summary_zh": "本文探讨了在治疗患有急性精神病并经历听觉幻觉的个体中，创新性地使用虚拟形象疗法。患者在治疗师的指导下，与代表其内心声音的数字虚拟形象进行对话。这种方法在减少幻觉的频率和困扰方面显示出良好的效果，为传统药物治疗提供了潜在的替代方案。",
-    "best_quote_en": "\"It was liberating just to talk to Tom [Ward] about it, because I didn’t speak to anyone else,\" Joe told me over coffee in south London. He still had the imposing presence of a rugby player, but he was so softly spoken that I had to strain to hear him talk over the hubbub of the cafe.",
-    "best_quote_zh": "“只是跟汤姆（Ward）谈论它就让我感到解脱，因为我没有跟其他人说过，”乔在伦敦南部喝咖啡时告诉我。他依然有橄榄球运动员的威严，但说话非常轻柔，我不得不费力听清他在咖啡馆的嘈杂声中说话。"
-  },
-  {
-    "id": 15,
-    "title": "Current applications and future directions in natural language processing for news media and mental health",
-    "title_zh": "新闻媒体与心理健康中的自然语言处理的当前应用与未来方向",
-    "source": "Scientific Reports",
-    "link": "https://www.nature.com/articles/s41598-025-18413-z",
-    "tags": [
-      "technology",
-      "health",
-      "media",
-      "research"
-    ],
-    "tags_zh": [
-      "科技",
-      "健康",
-      "媒体",
-      "研究"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This study examines the application of Natural Language Processing (NLP) techniques in analyzing the representation of mental health in news media. It highlights the challenges and limitations of current NLP methods, such as sentiment analysis and topic modeling, in capturing the nuances of mental health discourse. The study proposes ten recommendations for developing specialized NLP approaches to improve the accuracy and effectiveness of mental health news analysis.",
-    "summary_zh": "本研究探讨了自然语言处理（NLP）技术在分析新闻媒体中心理健康表现方面的应用。研究强调了当前NLP方法（如情感分析和主题建模）在捕捉心理健康话语细微差异方面的挑战和局限性。研究提出了十项建议，旨在开发专门的NLP方法，以提高心理健康新闻分析的准确性和有效性。",
-    "best_quote_en": "\"Our findings underscore the need for specialized NLP techniques in mental health news analysis.\"",
-    "best_quote_zh": "\"我们的研究结果强调了在心理健康新闻分析中需要专门的自然语言处理技术。\""
-  },
-  {
     "id": 16,
     "title": "The Myth of the American Diner",
     "title_zh": "美国餐馆的神话：餐车是否真的是为所有人而设？",
@@ -2378,5 +2280,99 @@
     "summary_zh": "史蒂文·普雷斯菲尔德把“抵抗”视为拖延与自我怀疑的化身，提供可执行的日程、目标拆分与身体训练等实用技巧，帮助创作者与专业人士把握行动与成就。",
     "best_quote_en": "Resistance is the self‑sabotaging tendency to procrastinate on your life’s most important work that keeps you from realizing your professional and creative potential.",
     "best_quote_zh": "抵抗是自我破坏的倾向，让你拖延最重要的工作，从而阻止你实现专业和创造性潜力。"
+  },
+  {
+    "id": 112,
+    "title": "Early Work",
+    "title_zh": "早期工作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/early.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "The piece confronts a universal barrier to innovation: the dread of producing a “lame” first draft. Drawing on his tenure at Y Combinator, the author argues that this fear is not irrational but a product of shallow standards and a lack of institutional customs for handling embryonic ideas. He illustrates how Silicon Valley’s culture—its willingness to tolerate rough prototypes and its optimistic, over‑confident mindset—has become a social custom that fuels breakthrough ventures. Practical tactics are offered: reframe early work as a sketch or a hack, inflate the perceived importance of the project, surround yourself with peers who can distinguish a promising “ugly duckling” from a dead end, and adopt a learning‑oriented experiment mindset. The essay blends anecdote, behavioral science, and a call for a cultural shift, urging readers to treat early failures as knowledge and to cultivate optimism as a strategic advantage. It is both a guide and a motivational manifesto for founders, designers, and anyone who must turn raw ideas into reality.",
+    "summary_zh": "作者指出，害怕早期成果被视为“烂”的恐惧并非无理，而是缺乏容忍粗糙原型的文化所致。以硅谷为例，作者展示了如何将低标准转为对想法的乐观挑战，并提供实用技巧：把早期工作视为草图或实验，夸大其重要性，寻找能辨别“美人鱼”与失败的同行，培养以学习为导向的实验心态。文章融合案例与行为科学，呼吁读者将失败视为知识，将乐观视为战略优势，既是指南也是激励宣言。",
+    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination – not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won’t work to trying to think of ways it could.",
+    "best_quote_zh": "处理新想法的正确方式是将其视为对你想象力的挑战——不是降低标准，而是完全改变思维，从列举想法行不通的原因转向寻找它可能实现的方式。"
+  },
+  {
+    "id": 113,
+    "title": "A Wild Swan / The Creative Cottage",
+    "title_zh": "野鹅 / 创意小屋",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "Michael Cunningham’s anthology, *A Wild Swan and Other Tales*, reimagines classic fairy tales with a razor‑sharp, sardonic voice that exposes the hollows of the happily‑ever‑after myth. By shifting perspectives, inserting time jumps, and giving characters new motivations—such as Rumpelstiltskin’s baby‑mania in “Little Man” and the beanstalk climber’s luck in “Jacked”—Cunningham invites readers to question narrative conventions while still indulging in the familiar. The companion volume, *The Creative Cottage*, showcases 13 meticulously restored tiny homes that blend upcycled, antique, and modern elements, offering a visual feast for lovers of architecture and sustainable design. Together, the two books celebrate the power of reinvention: one through literary subversion, the other through physical transformation. They prompt us to see the ordinary as a canvas for creativity, reminding that stories and spaces alike can be reshaped to reflect deeper truths and personal vision. Both works are intellectually stimulating, aesthetically refined, and inspire a mindful re‑engagement with the world around us.",
+    "summary_zh": "迈克尔·坎宁安的《野鹅与其他故事》以犀利讽刺的语调重塑经典童话，揭示“幸福永远”叙事的空洞；而《创意小屋》展示13座改造小屋，融合回收与古董，呈现可持续设计之美。两书共同强调再造的力量，激励读者以新视角审视故事与空间，提醒我们创意与真诚可在日常中绽放。",
+    "best_quote_en": "“End of story. ‘Happily ever after’ fell on everyone like a guillotine’s blade.”",
+    "best_quote_zh": "“故事结束。‘从此以后幸福’像断头台的刀刃一样落在每个人身上。”"
+  },
+  {
+    "id": 114,
+    "title": "Please Fund More Science",
+    "title_zh": "请多资助科学",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "The piece urges investors and donors to redirect capital toward pandemic‑related science, framing the COVID crisis as a unique rallying point for rapid innovation. It highlights how vaccine development, therapeutics, and public health measures hinge on sustained funding and collaboration. The author laments the federal government’s limited R&D investment while praising the unprecedented speed and focus of biotech firms and research labs. By calling science the key to a post‑pandemic world, the article positions funding as a lever for both societal resilience and economic opportunity. The tone blends urgency with optimism, suggesting that investors can play a pivotal role in accelerating breakthroughs and shaping a future where new viruses are met with swift, coordinated scientific responses. The piece is a rallying cry for a more science‑centric public policy, urging a shift from reactive to proactive investment.\n",
+    "summary_zh": "文章呼吁投资者将资本转向疫情相关科研，认为COVID危机是推动创新的独特契机。作者批评政府R&D投入不足，却赞叹生物技术公司与研究实验室的速度与专注。强调资金与合作是疫苗、疗法与公共卫生措施的关键，认为科学是后疫情世界的基石。文中以紧迫感与乐观并存，指出投资者能加速突破并塑造快速应对新病毒的未来，呼吁更以科学为核心的公共政策，推动从被动到主动的投资转变。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家可以帮助我们摆脱困境，他们需要的是资金和人脉。"
+  },
+  {
+    "id": 115,
+    "title": "The Tim Ferriss Show Transcripts: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More (#831)",
+    "title_zh": "Tim Ferriss节目文字稿：弗兰克·米勒，漫画传奇——创作过程、黑暗骑士归来、罪恶之城、300等更多（#831）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/20/frank-miller-transcript/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Frank Miller’s interview with Tim Ferriss offers a masterclass in creative methodology, blending raw artistic philosophy with disciplined storytelling. Miller traces his evolution from a 1970s Daredevil illustrator to the visionary behind Sin City, Dark Knight Returns, and 300, revealing how he subverted comic conventions by enlarging panels, inking black first, and treating the page as a cinematic frame. He explains that storytelling starts with a definitive ending, then builds a “spine” that guides pacing and emotional beats, and that the true innovation lies in marrying structure with spontaneity. The conversation also uncovers Miller’s mentorship network—Neal Adams, Jack Kirby, and Japanese influences—showing how cross‑cultural dialogue fuels artistic breakthroughs. His candid reflections on failure, the necessity of “killing the darlings,” and the importance of asking why resonate beyond comics, offering actionable insights for writers, designers, and entrepreneurs seeking to push boundaries. The dialogue is a rich source of inspiration for anyone who values disciplined creativity and relentless questioning.",
+    "summary_zh": "弗兰克·米勒与Tim Ferriss的访谈揭示了创作的核心：先定终点，再构架“脊梁”，让节奏与情感自然而来。米勒从《惊奇队长》到《罪恶之城》与《300》，通过放大画面、先打黑、把页面当作电影镜头，彻底颠覆漫画传统。谈及导师、跨文化影响，他强调与Neal Adams、Jack Kirby以及日本漫画的交流是突破的源泉。对失败的坦诚、删减“心爱的作品”的必要性以及不断提问的价值，激励创作者勇于突破，持续追问“为什么”。这段对话为作家、设计师和企业家提供了可操作的思维工具。",
+    "best_quote_en": "Ask every question.",
+    "best_quote_zh": "为什么？"
   }
 ]
