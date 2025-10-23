@@ -1,133 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "The Myth of the American Diner",
-    "title_zh": "美国餐馆的神话：餐车是否真的是为所有人而设？",
-    "source": "Eater",
-    "link": "https://www.eater.com/23753429/diner-history-restaurant-democracy-politics-symbol",
-    "tags": [
-      "food",
-      "history",
-      "culture",
-      "society"
-    ],
-    "tags_zh": [
-      "饮食",
-      "历史",
-      "文化",
-      "社会"
-    ],
-    "date": "2023-06-12",
-    "summary_en": "This feature traces the diner’s evolution from 19th-century lunch wagons to the iconographic American diner, examining how diners have been framed as democratic, all-inclusive spaces even when reality was more exclusionary. The piece explores changes in ownership, shifting clientele, nostalgia and preservation, and the diner’s symbolic role in politics and popular culture.",
-    "summary_zh": "这篇专题回顾了餐车在19世纪起源到成为美国标志性餐馆的演变，探讨了尽管现实更具排他性，但民众如何把餐馆塑造成民主、全民共享的空间。文章分析了所有权变迁、就客群的变化、怀旧与保护运动，以及餐馆在政治与流行文化中的象征作用。",
-    "best_quote_en": "\"There is probably no such thing as a place for everyone. But the diner has been considered a model of culinary democratization in the American public consciousness since its earliest days as a horse-drawn food cart selling sandwiches and coffee.\"",
-    "best_quote_zh": "“可能并不存在真正为所有人而设的地方。但自最早作为售卖三明治与咖啡的马车时代起，在美国公众意识中，餐馆就被视为饮食民主化的典范。”"
-  },
-  {
-    "id": 17,
-    "title": "ChatGPT Is Blowing Up Marriages as Spouses Use AI to Attack Their Partners",
-    "title_zh": "ChatGPT 正在摧毁婚姻：配偶用 AI 辱骂另一方",
-    "source": "Futurism",
-    "link": "https://futurism.com/chatgpt-marriages-divorces",
-    "tags": [
-      "technology",
-      "AI",
-      "society",
-      "relationships",
-      "psychology"
-    ],
-    "tags_zh": [
-      "科技",
-      "人工智能",
-      "社会",
-      "关系",
-      "心理学"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This article explores how some spouses are using ChatGPT and other AI chatbots to attack their partners during conflicts, turning the tool into a weapon in domestic disputes. Based on multiple interviews, court records, and chat logs, the piece shows how one partner’s reliance on AI can distort narratives, validate grievances, and amplify conflict to the point of divorce.",
-    "summary_zh": "文章探讨了一些配偶如何在争吵中使用 ChatGPT 或其他 AI 聊天机器人来攻击另一方，将这类工具变成家庭冲突的武器。基于多次访谈、法庭记录与聊天记录，文章展现了一方对 AI 的依赖如何扭曲叙事、强化不满、放大冲突，最终导致离婚。",
-    "best_quote_en": "\"What was happening, unbeknownst to me at the time, was she was dredging up all of these things that we had previously worked on, and putting it into ChatGPT. It’s not giving objective analysis. It’s only giving her back what she’s putting in.\"",
-    "best_quote_zh": "“当时我并不知道，她把我们之前处理过的所有事情都重新翻出来输入到 ChatGPT 里。它并没有给出客观的分析，只是把她输入的内容再反馈给她而已。”"
-  },
-  {
-    "id": 18,
-    "title": "Companies Are Being Torn Apart by AI “Workslop,” Stanford Research Finds",
-    "title_zh": "人工智能“工作混乱”正撕裂公司：斯坦福研究揭示真相",
-    "source": "Futurism",
-    "link": "https://futurism.com/future-society/ai-productivity-research",
-    "tags": [
-      "technology",
-      "AI",
-      "workplace",
-      "productivity",
-      "research"
-    ],
-    "tags_zh": [
-      "科技",
-      "人工智能",
-      "职场",
-      "生产力",
-      "研究"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This article reports on a Stanford research finding that AI tools, rather than boosting productivity, may be undermining collaboration, increasing friction between teams, and deteriorating workplace dynamics. The phenomenon is dubbed “workslop,” highlighting how AI can hamper, rather than help, actual work processes.",
-    "summary_zh": "文章报道一项斯坦福研究的发现：AI 工具可能并未提升生产力，反而削弱协作、增加团队间摩擦、破坏职场互动。文中以“workslop”来形容这种现象，揭示 AI 有时反而妨碍实际工作流程。",
-    "best_quote_en": "\"AI is supposed to revolutionize workforce productivity, but so far that hasn’t been the case.\"",
-    "best_quote_zh": "“人工智能本该变革劳动力生产力，但到目前为止情况并非如此。”"
-  },
-  {
-    "id": 19,
-    "title": "Report Warns That AI Is About to Make Your Boss a Panopticon Overlord",
-    "title_zh": "报告警告：AI 正将你的老板变为全景监控霸主",
-    "source": "Futurism",
-    "link": "https://futurism.com/future-society/europe-etuc-algorithmic-management",
-    "tags": [
-      "technology",
-      "AI",
-      "workplace",
-      "labor rights",
-      "policy"
-    ],
-    "tags_zh": [
-      "科技",
-      "人工智能",
-      "职场",
-      "劳工权利",
-      "政策"
-    ],
-    "date": "2025-09-??",
-    "summary_en": "This article discusses a recent ETUC (European Trade Union Confederation) report titled “Negotiating the Algorithm,” warning that algorithmic management tools are spreading rapidly across workplaces in the EU and U.S. The report outlines risks such as opaque evaluation, surveillance, automated punishments, discriminatory task assignment, and reduced autonomy for workers. It also suggests worker strategies and example wins in Europe resisting algorithmic overreach.",
-    "summary_zh": "文章讨论了欧洲工会联合会（ETUC）最新报告《协商算法》，警告算法管理工具正在欧盟及美国职场迅速普及。报告列举了评估不透明、监控、自动惩处、歧视性任务分配、削弱工人自主等风险，还提出工人的应对策略以及欧洲在抗衡算法滥用方面的成功案例。",
-    "best_quote_en": "\"Algorithmic management is used to determine work allocation and pay in ways that are typically opaque and often discriminatory... Workers have to contend with intensive forms of surveillance which reduce autonomy and undermine privacy.\"",
-    "best_quote_zh": "“算法管理被用于以通常不透明且常具歧视性的方式决定工作分配和薪酬… 工人必须应对密集的监控形式，这减少了自主性并削弱隐私。”"
-  },
-  {
-    "id": 20,
-    "title": "Lionsgate’s Attempt to Create Movies Using AI Has Crumbled Into Disaster",
-    "title_zh": "狮门影业尝试用 AI 制作电影惨遭失败",
-    "source": "Futurism",
-    "link": "https://futurism.com/artificial-intelligence/lionsgate-movies-ai",
-    "tags": [
-      "technology",
-      "AI",
-      "film industry",
-      "entertainment",
-      "legal"
-    ],
-    "tags_zh": [
-      "科技",
-      "人工智能",
-      "电影产业",
-      "娱乐",
-      "法律"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "Lionsgate’s bold partnership with AI startup Runway to generate entire movies from its catalog has collapsed under technical limitations and copyright challenges. Despite feeding its library of franchises like 'Hunger Games' and 'John Wick' into the AI, results were underwhelming. Experts say the dataset was too small, legal risks loom, and current AI tools can only produce uncanny, short clips — far from full-length films.",
-    "summary_zh": "狮门影业与初创公司 Runway 合作，用 AI 从其片库生成完整电影的计划因技术局限和版权问题而失败。尽管将《饥饿游戏》《疾速追杀》等片库输入 AI，结果却差强人意。专家指出数据集过小，法律风险突出，而现有 AI 工具只能生成怪异的短片段，距离完整电影相差甚远。",
-    "best_quote_en": "\"The Lionsgate catalog is too small to create a model. In fact, the Disney catalog is too small to create a model,\" a source told The Wrap.",
-    "best_quote_zh": "一位消息人士对 The Wrap 表示：“狮门影业的片库太小，无法用来创建模型。事实上，迪士尼的片库也太小。”"
-  },
-  {
     "id": 21,
     "title": "‘Men seem to make life for women worse’: single US women share the woes of dating in 2025",
     "title_zh": "“男人似乎让女性的生活更糟”：2025年美国单身女性分享约会困境",
@@ -2374,5 +2246,123 @@
     "summary_zh": "弗兰克·米勒与Tim Ferriss的访谈揭示了创作的核心：先定终点，再构架“脊梁”，让节奏与情感自然而来。米勒从《惊奇队长》到《罪恶之城》与《300》，通过放大画面、先打黑、把页面当作电影镜头，彻底颠覆漫画传统。谈及导师、跨文化影响，他强调与Neal Adams、Jack Kirby以及日本漫画的交流是突破的源泉。对失败的坦诚、删减“心爱的作品”的必要性以及不断提问的价值，激励创作者勇于突破，持续追问“为什么”。这段对话为作家、设计师和企业家提供了可操作的思维工具。",
     "best_quote_en": "Ask every question.",
     "best_quote_zh": "为什么？"
+  },
+  {
+    "id": 116,
+    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
+    "title_zh": "看到孕妇出现在公众视野中真好——但她们都必须如此美丽吗？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This opinion piece interrogates the media’s portrayal of pregnancy, using Victoria Secret’s decision to showcase a heavily‑pregnant model as a springboard for a broader critique. The author argues that the industry’s emphasis on glamour perpetuates a narrow, unrealistic standard that marginalizes the everyday experiences of most pregnant women. By juxtaposing the brand’s spectacle with the lived realities of postpartum bodies, the article invites readers to re‑examine how representation shapes societal expectations and body‑image anxiety. The piece is both a call to diversify imagery and a reflection on the commodification of maternity, pointing out that empowerment is lost when it is reduced to a marketing gimmick. It underscores the need for authentic narratives that celebrate the physical and emotional transformations of pregnancy, rather than merely aesthetic appeal. The author’s personal perspective—rooted in her own postpartum experience—adds credibility and emotional resonance, encouraging readers to question the intersection of commerce, culture, and the lived reality of motherhood.",
+    "summary_zh": "文章以维多利亚秘密的孕期模特为引子，批判媒体对孕妇形象的美化与刻板，呼吁呈现真实多元的孕产体态。作者用个人经验与批判视角，提醒读者关注商业化下的身体认同与文化期待。",
+    "best_quote_en": "Perhaps seeing more pregnant and postpartum bodies in the media could be a net gain for womankind.",
+    "best_quote_zh": "或许在媒体中看到更多孕产体态会给女性带来正面影响。"
+  },
+  {
+    "id": 117,
+    "title": "Modeling a Wealth Tax",
+    "title_zh": "财富税建模",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wtax.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "Modeling a Wealth Tax offers a stark illustration of how incremental rates can erode a founder’s equity over time. By treating wealth tax as a continuous compounding charge rather than a one‑off levy, the author demonstrates that even a modest 1‑2 % annual rate can strip away 45‑70 % of a startup founder’s holdings after six decades. The analysis foregrounds the importance of thresholds, showing that a $50 M exemption can dramatically reduce the tax burden yet still leave a sizable share captured. The piece is data‑driven, grounded in clear mathematical examples, and serves as both a cautionary tale and a practical guide for entrepreneurs contemplating long‑term wealth preservation. It challenges the common intuition that wealth taxes are negligible, prompting readers to rethink policy design and personal financial strategy.",
+    "summary_zh": "《财富税建模》以清晰的数学模型揭示，年税率仅1%–2%就能在60年内夺走45%–70%的创始人持股。阈值设定虽能缓解税负，却仍显著影响资产增值。文章以数据为基础，既是警示，也是创业者长远财富规划的实用指南。",
+    "best_quote_en": "The reason wealth taxes have such dramatic effects is that they're applied over and over to the same money. A wealth tax compounds.",
+    "best_quote_zh": "财富税之所以产生如此戏剧性影响，是因为它们会一次又一次地对同一笔资产征税。财富税会复利。"
+  },
+  {
+    "id": 118,
+    "title": "What’s in my NOW? — Aishwarya Goel",
+    "title_zh": "我的现在是什么？— Aishwarya Goel",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Aishwarya Goel’s “What’s in my NOW?” reads like a curated diary of the tools that scaffold her day, from a Philips floor lamp that morphs ambience to a DASH Mini Maker griddle that turns breakfast into a ritual. The post blends the mundane with the meaningful, illustrating how thoughtfully chosen physical items can shape mood and productivity. The digital section showcases MyNetDiary’s AI‑powered meal analysis and Bear Blog’s minimalist UX, highlighting the power of intuitive interfaces to sustain long‑term habits. The narrative is not merely a list; it’s a case study in self‑optimization, where each item is justified by a tangible outcome—faster cooking, clearer logging, steadier writing. The final quote, “Excellence is the capacity to take pain,” frames the entire exercise as disciplined practice rather than passive consumption. For readers, the piece offers a roadmap of actionable, tech‑savvy habits that can be adapted to any lifestyle, while subtly urging an appreciation for the small, deliberate choices that accumulate into a coherent identity.",
+    "summary_zh": "Aishwarya的“我的现在是什么？”像一份工具日记，展示灯光、烤盘、应用如何塑造情绪与效率。她将实物与数字工具结合，强调直观设计与习惯养成的力量。文章既是个人案例，也是自我优化的路线图，提醒读者小而有意的选择能聚成身份。",
+    "best_quote_en": "Excellence is the capacity to take pain. — James Dyson, founder, Dyson.",
+    "best_quote_zh": "卓越是承受痛苦的能力。—詹姆斯·戴森，戴森创始人"
+  },
+  {
+    "id": 119,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "COVID-19项目融资",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "The post is a pragmatic call to action for investors and entrepreneurs eager to tackle the pandemic’s most pressing supply and therapeutic gaps. By outlining four concrete focus areas—rapid production of ventilators and PPE, drug repurposing, unconventional vaccine platforms, and niche therapeutics—the author frames funding as a direct problem‑solving lever. The emphasis on engineering over science signals a low‑barrier entry point for hardware‑centric startups, while the explicit request for contract research partners underscores the importance of translational infrastructure. The tone balances urgency with a realistic appreciation of the logistical hurdles, and the invitation to email rather than rely on a spreadsheet reflects an understanding of the need for personal, high‑trust communication in crisis‑funding. Ultimately, the post invites a collaborative ecosystem that can accelerate innovation, reduce duplication, and democratize access to life‑saving solutions, making it a valuable resource for anyone looking to contribute strategically to pandemic resilience.",
+    "summary_zh": "作者提出了四个可落地的投资方向：快速生产呼吸机与防护装备、药物再利用、非传统疫苗与新型疗法，强调工程而非科研的可行性。通过邀请直接联系、寻找合同研究伙伴，凸显了在危机中高效合作与资源共享的重要性。此举不仅能加速创新，也为创业者提供了清晰的行动路径，体现了在疫情中精准投融资的价值与可能。",
+    "best_quote_en": "Also, if anyone knows of a contract research company that can run a viral challenge against SARS‑CoV‑2 in a humanized ACE2 animal model, that would help a startup I’m working with.",
+    "best_quote_zh": "此外，如果有人知道可以在基因工程ACE2动物模型上进行SARS‑CoV‑2病毒挑战的合同研究公司，那将有助于我正在合作的创业公司。"
+  },
+  {
+    "id": 120,
+    "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+    "title_zh": "必备：心态科学对健康与表现的影响 | Dr. Alia Crum",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-mindsets-health-performance-alia-crum",
+    "tags": [
+      "inspire",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Alia Crum, Stanford psychologist, dissects the power of belief systems—our mindsets about stress, exercise, and food—to shape not just how we feel but the very biology of our bodies. She cites experimental evidence that labeling a snack as “indulgent” can dampen satiety hormones, while reframing daily movement as real exercise accelerates weight‑loss and improves cardiovascular markers. The conversation extends to stress, turning the often‑dreaded stimulus into a tool for growth and peak performance, and explores the placebo and nocebo effects that underscore the mind‑body link. Dr. Crum offers actionable tools—mindset reframing, stress‑enhancing practices, and mindful eating cues—that listeners can implement immediately. The episode blends rigorous science with practical guidance, making it a valuable resource for anyone curious about the neuroscience of motivation, resilience, and health. Its clear, evidence‑driven narrative invites listeners to experiment with their own belief frameworks, promising measurable shifts in both mind and body.",
+    "summary_zh": "在Huberman Lab Essentials的这期节目中，斯坦福心理学家阿莉亚·克鲁姆博士阐释了信念系统——对压力、运动和饮食的心态——如何影响我们的情绪、行为乃至身体生理。她引用实验数据指出，把零食标记为“放纵”会降低饱腹激素，而把日常活动重新定义为真正的运动可加速减重并改善心血管指标。节目还探讨了如何将压力转化为成长与高峰表现的工具，并揭示安慰剂与无效安慰剂效应，强调心身联系。克鲁姆博士提供了可操作的工具——心态重塑、增强型压力练习与正念饮食提示，帮助听众立即落地。该节目将严谨科学与实用指导相结合，是渴望了解动机、韧性与健康神经科学的读者的理想资源。",
+    "best_quote_en": "our mindsets—for example, what we believe about stress, exercise and the food we eat—shape how we feel, behave and even how our bodies respond.",
+    "best_quote_zh": "我们的心态——例如我们对压力、锻炼和食物的看法——塑造了我们的感受、行为，甚至身体的反应。"
   }
 ]
