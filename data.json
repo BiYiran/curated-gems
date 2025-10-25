@@ -1,121 +1,5 @@
 [
   {
-    "id": 26,
-    "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
-    "title_zh": "她对自己的无知毫不自知：JK罗琳回应艾玛·沃森的争端",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/sep/29/jk-rowling-responds-to-emma-watson",
-    "tags": [
-      "learn",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "JK Rowling’s retort to Emma Watson’s transgender‑rights commentary ignites a fresh wave of public debate, underscoring how celebrity clout can amplify ideological clashes. Rowling’s post, replete with accusatory language, frames Watson as “ignorant” and accuses her of “trashing women’s rights.” The tone is unapologetically combative, yet it also reflects a broader cultural fault line: the friction between gender‑critical voices and trans‑affirming advocates. By invoking personal security threats and a sense of privilege, Rowling attempts to justify her defensive posture. The exchange exposes the limits of public discourse when both sides wield emotional capital and media reach, turning nuanced policy debates into a spectacle of vitriol. For readers, the piece offers a case study in how high‑profile personalities can shape narratives around gender politics, raising questions about accountability, freedom of expression, and the responsibilities of public figures when confronting sensitive social issues.",
-    "summary_zh": "JK 罗琳对艾玛·沃森关于跨性别权利的公开言论作出强硬回应，突显名人影响力如何放大意识形态冲突。罗琳将沃森称为“无知”，指责其“破坏女性权利”。她以个人安全威胁和特权感为辩护，揭示公众话语在情绪资本与媒体影响下的局限。此事件成为高调人物如何塑造性别政治叙事的案例，促使人们思考名人责任、言论自由与敏感议题的处理方式。",
-    "best_quote_en": "Emma and Dan Radcliffe in particular have both made it clear over the last few years that they think our former professional association gives them a particular right – nay, obligation – to critique me and my views in public.",
-    "best_quote_zh": "像其他从未在财富与名声中安稳成长的人一样，艾玛几乎没有真实生活经验，她根本不知道自己有多无知……"
-  },
-  {
-    "id": 27,
-    "title": "Third Place Happiness/Flight Payment Plans/Escaping the US",
-    "title_zh": "第三位的幸福 / 航班分期付款计划 / 逃离美国",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/third-place-happiness-flight-payment-plans-escaping-the-us/",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "This newsletter curates four seemingly disparate pieces that together sketch a broader portrait of modern life‑hustle and the quest for well‑being. The first article flips a familiar narrative: bronze Olympic medalists report higher happiness than their silver‑medal peers, hinting that the pursuit of an elusive top spot can erode joy more than the satisfaction of a solid finish. The second piece offers a practical guide for travelers, outlining credit‑card and installment options that let you book flights now and pay later, a timely hack for a budget‑conscious generation. The third article critiques the “live like a local” trope, exposing the gap between vacationers’ curated experiences and the everyday grind of residents, especially for digital nomads who earn high wages abroad yet live in luxury rentals. Finally, the last section tackles the increasingly common desire to escape the U.S., compiling routes, considerations, and the idea that a “home base” can be fluid rather than fixed. Together, the pieces weave together insights on happiness psychology, financial strategy, cultural authenticity, and global mobility, inviting readers to rethink how they chase success, adventure, and belonging.",
-    "summary_zh": "本周的简报汇聚四篇看似无关却互相呼应的文章，勾勒出现代生活与幸福追求的全景。首篇揭示铜牌得主比银牌得主更快乐，提醒我们对“第一”执着可能削弱真正的满足感。第二篇提供航班分期付款的实用攻略，帮助预算有限的旅者灵活规划行程。第三篇批判“像当地人一样生活”的误区，指出远程工作者在奢华租屋中赚取高薪却与当地人日常生活相距甚远。最后一篇聚焦逃离美国的趋势，列举路径与考量，并提出“家园”不必固定。四篇内容交织心理学、财务策略、文化真实性与全球流动性，促使读者重新审视成功、冒险与归属感的定义。",
-    "best_quote_en": "Bronze winners in the Olympics are happier than the Silver winners.",
-    "best_quote_zh": "铜牌得主比银牌得主更幸福。"
-  },
-  {
-    "id": 28,
-    "title": "Sora update #1",
-    "title_zh": "Sora 更新 #1",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/sora-update-number-1",
-    "tags": [
-      "update",
-      "education",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "Sora’s first public update reveals a pragmatic, user‑centric approach to refining AI‑powered content creation. The team highlights two immediate pivots: (1) granting rights holders granular control over character generation—an “interactive fan‑fiction” model that lets creators specify usage limits or opt‑out entirely; and (2) piloting a revenue‑sharing framework to monetize video output while rewarding rights holders. The narrative stresses rapid iteration, echoing early ChatGPT days, and a commitment to continuously absorb feedback. The announcement underscores a broader industry shift toward creator‑empowered AI ecosystems, balancing freedom, monetization, and ethical safeguards. It signals that Sora is not just a product but a living platform that will evolve with its community, offering a tangible example of how AI can be aligned with stakeholder interests while scaling usage and revenue.",
-    "summary_zh": "Sora首次公开更新展示了以用户为中心的 AI 内容创作迭代策略。团队宣布两项关键改动：一是为版权持有人提供细粒度的角色生成控制，支持“互动同人”模式；二是试行视频生成的收益分成，既激励创作者，又实现商业化。此举体现了 AI 生态正向创作者赋能、商业化与伦理共存的趋势，强调快速迭代与持续反馈的重要性。",
-    "best_quote_en": "We plan to do our iteration on different approaches in Sora, but then apply it consistently across our products.",
-    "best_quote_zh": "我们将以不同的方法在 Sora 上进行迭代，然后在我们的产品中一致地应用它们。"
-  },
-  {
-    "id": 29,
-    "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
-    "title_zh": "精要：人类如何在短期和长期选择并保持浪漫伴侣 | 大卫·巴斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-human-romantic-partner-selection-keep-david-buss",
-    "tags": [
-      "guide",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "This episode of Huberman Lab Essentials brings evolutionary psychology to the forefront of relationship science, unpacking how humans navigate mate selection across the spectrum of short- and long-term partnerships. Dr. David Buss articulates a nuanced taxonomy of universal partner traits—such as resource provision, social status, and perceived health—while also revealing gender‑specific priorities that shift with age and context. He does not shy from the darker side of romance, probing deception, jealousy, and stalking as evolutionary adaptations rather than moral failings. The discussion is peppered with data‑driven insights, real‑world examples, and practical self‑assessment tools that invite listeners to reflect on their own mate value and attachment styles. The episode’s intellectual curiosity is matched by its actionable takeaways, making it a compelling resource for anyone interested in the biology of love, the psychology of attraction, and the complex dance of human bonding.",
-    "summary_zh": "本期Huberman Lab Essentials聚焦进化心理学，剖析人类在短期与长期恋爱中的伴侣选择。大卫·巴斯博士阐述普遍伴侣特质与性别差异，并探讨欺骗、嫉妒与跟踪等阴暗面，提供数据驱动洞见与自我评估工具。内容兼具学术深度与实用性，激发对爱情与人际纽带的全新思考。",
-    "best_quote_en": "The darker aspects of mating behavior, such as deception, the evolutionary function of jealousy and the motivations behind stalking.",
-    "best_quote_zh": "关于恋爱关系中较暗面，如欺骗、嫉妒的进化功能以及跟踪行为的动机。"
-  },
-  {
-    "id": 30,
-    "title": "From Taylor Swift’s ‘The Life of a Showgirl’ to Spotify’s leadership shakeup… it’s MBW’s weekly round-up",
-    "title_zh": "从泰勒·斯威夫特的《Showgirl的生活》到Spotify的高层变动……这是MBW的每周综述",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/from-taylor-swifts-new-album-to-spotifys-leadership-shakeup-its-mbws-weekly-round-up/",
-    "tags": [
-      "update",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This week’s music industry roundup spotlights a cascade of headline‑making events: Taylor Swift’s latest album, The Life of a Showgirl, shatters Spotify’s pre‑save record, underscoring the platform’s algorithmic amplification power. A sweeping leadership reshuffle at Spotify—Daniel Ek stepping down as CEO in favour of a co‑CEO model—raises questions about governance and future product direction. In a parallel development, Universal Music Group and Warner Music Group appear poised to sign landmark AI‑music licensing deals, signalling a nascent convergence of copyright law and machine‑learning training data. Meanwhile, country star Zach Bryan sets a new U.S. ticket‑sale record at Michigan Stadium, proving live‑event revenue remains king. Finally, a top European music lawyer dismisses data‑privacy fears surrounding UMG’s proposed Downtown acquisition as “fantasy or paranoia.” Together, these stories paint a picture of an industry in flux, driven by AI, data, and evolving business models that demand both vigilance and agility.",
-    "summary_zh": "本周音乐行业聚焦多重热点：泰勒·斯威夫特新专辑在Spotify上创下预保存纪录，Spotify高层交替引发关注；环球与华纳或将与AI音乐公司达成标杆授权协议，标志着人工智能与版权的交汇；Zach Bryan在密歇根体育场创下美国单场门票最高纪录；而欧洲音乐律师对UMG收购数据担忧的“幻想”评价，凸显行业对数据安全的敏感。整体来看，音乐产业正处于技术驱动与商业模式创新交织的关键节点，AI授权与数据治理成为新焦点，行业从者需关注监管与合作共赢的平衡。",
-    "best_quote_en": "Universal Music Group and Warner Music Group are reportedly close to striking 'landmark' AI music licensing deals.",
-    "best_quote_zh": "数据相关的担忧更多源于幻想或偏执，而非具体、现实、理性的分析。"
-  },
-  {
     "id": 31,
     "title": "At the Edge of Peace",
     "title_zh": "和平边缘",
@@ -2358,5 +2242,123 @@
     "summary_zh": "Huberman Lab 通过神经科学阐释感恩，提出故事式练习比单纯列举更有效。研究显示，感恩激活奖励与社交脑区，提升平静、社交纽带与动力，同时降低焦虑与炎症。节目提供周度实操流程：挑选故事、重温、真诚表达，帮助听众把心理学研究落地。",
     "best_quote_en": "Being grateful activates specific brain regions, which enhance calm, social connection and motivation, while reducing anxiety and inflammation.",
     "best_quote_zh": "感恩能激活大脑特定区域，提升平静、社会连接与动力，同时降低焦虑和炎症。"
+  },
+  {
+    "id": 126,
+    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
+    "title_zh": "每次走出去，我第一件事就是想我的前额：女性接受植发的故事",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "The Guardian piece uncovers a quietly growing trend: women, long overlooked as a male‑dominated market, are turning to hair‑transplant surgery to address high foreheads, thinning crowns and the psychological toll of societal beauty norms. Through intimate case studies—from a 27‑year‑old nanny battling post‑COVID shedding to a 69‑year‑old retiree who finally finds confidence— the article blends medical facts with cultural critique. It highlights the stark gender gap in treatment eligibility, the rise of “Turkey as a transplant hub,” and the financial, procedural and safety risks that remain unregulated in the UK. The piece also exposes the lack of accredited training and the potential for “wild‑west” clinics, urging readers to seek vetted specialists and pre‑operative counselling. Overall, it challenges the notion that hair loss is a purely aesthetic issue, framing it instead as a complex intersection of health, identity and media pressure, and calls for greater transparency, patient education and industry standards.\n",
+    "summary_zh": "这篇《卫报》报道揭示了一个正在上升的女性植发趋势，女性因高额前额、稀疏顶峰和社会审美压力而寻求手术。文章通过真实案例，展示了手术的医学细节、费用与风险，并批评英国缺乏认证培训、行业监管松散。它呼吁更多透明度、患者教育与专业标准，提醒女性植发不只是美观，而是健康与身份的交织。\n",
+    "best_quote_en": "\"Women are suffering in silence,\" Ball says. \"There’s not so much information out there for them.\"",
+    "best_quote_zh": "“女性们在沉默中受苦，”Ball 说，“关于这件事的信息很少。”"
+  },
+  {
+    "id": 127,
+    "title": "Orthodox Privilege",
+    "title_zh": "正统特权",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/orth.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "The essay interrogates a subtle form of privilege—orthodox privilege—where conventional thinkers assume the safety of free expression and dismiss any notion that certain truths are unspoken. By framing this blindness as a historical pattern, the author invites readers to question the invisible boundaries that shape discourse. The piece blends philosophical reflection with a critique of social norms, urging a shift from merely acquiring knowledge to cultivating independent judgment. It challenges the prevailing ‘check your privilege’ rhetoric, arguing that those most insulated from dissent rarely recognize their own bias. The author proposes a pragmatic, polite approach: listen to claims of hidden truths even when evidence seems elusive, thereby fostering a more inclusive dialogue. This analysis offers a nuanced perspective on power dynamics in conversation, blending critical theory with actionable insight for those seeking deeper, more honest engagement in society.\n",
+    "summary_zh": "作者探讨‘正统特权’，指出传统思维者认为表达自由无害，却忽视某些真理无法言说的边界。通过历史视角，揭示话语中的隐形束缚，呼吁从单纯获取知识转向培养独立判断。批判“检查你的特权”话语，强调受限者往往不自知。提出礼貌倾听隐藏真理的做法，促进更包容的对话。该分析以批判理论与可操作洞见相结合，帮助读者在社会交往中实现更深层次、诚实的参与。\n",
+    "best_quote_en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.",
+    "best_quote_zh": "少数人能够以平静的态度表达与其社会环境偏见不同的观点。大多数人甚至无法形成这样的观点。"
+  },
+  {
+    "id": 128,
+    "title": "Musings on Reported Cost of Compute (Oct 2025)",
+    "title_zh": "关于计算成本报告的思考（2025年10月）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "The article dissects the multi‑layered cost structure of a 1 GW AI datacenter, breaking down infrastructure CAPEX, compute hardware, and OPEX into granular figures. It reveals how a single contract can range from $10 bn to $60 bn depending on whether you count just the physical plant, the GPU stack, or the full five‑year service agreement. The analysis also contrasts Nvidia‑centric builds with alternative ASICs, showing that non‑GPU compute could be up to 25 % cheaper yet still deliver comparable performance when factoring in HBM density and chip count. By mapping out future TPU‑v7 and Anthropic‑style pods, the piece projects a 10‑fold increase in both raw compute and model size by 2026, underscoring the square‑root scaling of active parameters and the rising feasibility of large MoE architectures. For practitioners, the post is a data‑driven guide to budgeting, negotiating contracts, and anticipating the hardware evolution that will shape next‑generation AI workloads.",
+    "summary_zh": "本文拆解1 GW AI 数据中心的成本结构，细化基础设施、硬件与运维费用，说明合同价值从100 亿美元到60 亿美元不等。对比 Nvidia 与 ASIC，揭示非 GPU 计算可低 25 %，但在 HBM 密度与芯片数上保持竞争力。展望 2026 年 TPU‑v7 与 Anthropic 样板，预示计算与模型规模十倍增长，凸显参数平方根扩展与 MoE 可行性。对从业者而言，是一份数据驱动的预算与合同谈判指南，也是对未来硬件演进的前瞻。",
+    "best_quote_en": "Thus 1 GW of compute could get reported as $10 bn (infrastructure capex), $30 bn (compute hardware capex without labor costs), $45 bn (infrastructure plus compute hardware capex), or $60 bn (the total cost of the contract between the AI company and the cloud provider over 5 years).",
+    "best_quote_zh": "因此，1 GW 的计算可以被报告为 100 亿美元（基础设施资本支出）；30 亿美元（计算硬件资本支出，不含人工成本）；45 亿美元（基础设施加计算硬件资本支出）；或 60 亿美元（与云服务商为期 5 年的合同总成本）。"
+  },
+  {
+    "id": 129,
+    "title": "The Feds Who Kill Blood-Sucking Parasites",
+    "title_zh": "联邦政府消灭吸血寄生虫",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-feds-who-kill-blood-sucking-parasites",
+    "tags": [
+      "update",
+      "science",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "The article chronicles the unseen guardianship of the Great Lakes, where a covert U.S.-Canadian partnership has kept the invasive sea lamprey at bay for decades. It unpacks the science behind lampricide, the political peril of budget cuts, and the creative alternatives—smart electric dams, pheromone traps, and AI‑assisted monitoring—being tested to pre‑empt resistance. The narrative juxtaposes the pragmatic, data‑driven tactics of federal workers with the cultural resonance of a “vampire fish” that keeps the public and lawmakers engaged. Yet, the piece also exposes a paradox: the very success of the program makes it vulnerable to fiscal retrenchment because its threat is invisible to the general populace. The article invites readers to question how public policy protects ecological infrastructure when the beneficiaries are few and the risks are diffuse. It calls for sustained investment in science‑driven conservation, lest the Great Lakes lose a quiet but vital line of defense.",
+    "summary_zh": "文章揭示了北美大湖区隐形的生态守卫——美加联手对抗侵入性海灯鱼，阐述了拉姆普西德化学剂的科学与政治风险，并探索智能电坝、信息素诱捕等新技术。它把数据驱动的治理与“吸血鱼”这一公共形象结合，提醒我们成功的防御往往因缺乏公众关注而易受预算削减。文章促使读者反思，生态基础设施的保护需要持续投入与科学创新，否则大湖区将失去这条无形但关键的防线。",
+    "best_quote_en": "If lampreys become resistant to lampricide, we’re gonna need alternatives.",
+    "best_quote_zh": "如果没有人真正了解威胁，在经济紧缩时期就更难说‘嘿，我们需要这笔钱’"
+  },
+  {
+    "id": 130,
+    "title": "Tales from Toddlerhood",
+    "title_zh": "幼儿成长故事",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "写作内容"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This post is a candid, humorous memoir that redefines toddler parenting as a paradoxical blend of adoration and exasperation. The author frames the 2‑year‑old as a “totalitarian dictator” who can simultaneously be a source of immense joy and utter boredom, a notion that both entertains and invites reflection on the developmental stages of early childhood. By cataloguing 8 quirky observations—from toddlers’ “genius” language acquisition to their wildly inaccurate worldview—the writer offers a satirical yet insightful lens into the cognitive and emotional shifts that shape a child’s perception of reality. The article also critiques the social media culture of toddler videos, revealing how parental expectations and external judgments can distort the parent‑child experience. Ultimately, the piece encourages a shift from micromanagement to facilitation, urging parents to foster autonomy and curiosity in their toddlers rather than controlling every detail. The narrative’s humor, candidness, and pragmatic parenting tips make it a relatable resource for new parents, while also serving as a social commentary on contemporary parenting norms.",
+    "summary_zh": "这篇文章以幽默、真诚的方式重塑幼儿育儿的二元性：既是狂热的喜爱，又是极度的无聊。作者把两岁孩子称为“极权独裁者”，并通过八个风趣观察，揭示语言学习的天才与认知世界的荒谬。文中批判了幼儿视频的社交媒体文化，指出父母期待与外部评判会扭曲亲子体验。作者倡导从微观管理向培养自主与好奇转变，鼓励家长以启发式方式引导孩子，而非过度控制。幽默与实用建议并存，使这篇文章既是新手父母的共鸣之作，也是对现代育儿观念的社会性评论。",
+    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
+    "best_quote_zh": "你可以同时对同一个人既完全着迷又极度无聊。"
   }
 ]
