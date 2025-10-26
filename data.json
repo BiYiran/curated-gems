@@ -1,123 +1,5 @@
 [
   {
-    "id": 31,
-    "title": "At the Edge of Peace",
-    "title_zh": "和平边缘",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
-    "tags": [
-      "update",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "At the Edge of Peace is a vivid chronicle of the fragile ceasefire between Israel and Hamas, framed by U.S. diplomatic maneuvering and internal Palestinian discord. The article dissects the tactical withdrawal clause, hostage releases, and the contentious role of international figures such as Tony Blair. It exposes the fissures within Hamas leadership—between hardliners and negotiators—and the political calculus that led to Trump’s public endorsement. By weaving data on public opinion, antisemitic incidents, and regional alliances, the piece offers a data‑driven lens on how a seemingly “big day” can simultaneously be a diplomatic win and a political gamble. The narrative invites readers to interrogate the paradox of a ceasefire that promises safety yet threatens to unravel Netanyahu’s coalition, thereby framing the conflict as a complex, multi‑layered puzzle. It ultimately underscores how the prospects of peace hinge on power dynamics, public sentiment, and the precarious balance between security and humanitarian relief.",
-    "summary_zh": "《和平边缘》以细腻笔触描绘以色列与哈马斯停火的脆弱与背后的外交博弈。文章剖析战术撤离、人物争议与内部对峙，结合民调与反犹事件数据，呈现停火既是外交胜利又是政治赌博的双重面貌。呼吁读者质疑和平与安全、民意与人道救援之间的微妙平衡，提醒和平曙光可能因权力博弈被推向风口浪尖。",
-    "best_quote_en": "We will never accept anyone who is not Palestinian to control the Palestinians.",
-    "best_quote_zh": "我们永远不会接受任何非巴勒斯坦人来控制巴勒斯坦人。"
-  },
-  {
-    "id": 32,
-    "title": "What’s in my NOW? — Melissa Willis",
-    "title_zh": "我的现在是什么？—Melissa Willis",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-melissa-willis/",
-    "tags": [
-      "update",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "Melissa Willis, a family historian and genetic genealogist living on a diversified farm, shares a candid snapshot of the tools and experiences that shape her daily life. From the evocative world of Stephen King’s “The End of the World As We Know It” to the tactile pleasure of Oberon leather journals, she illustrates how physical artifacts anchor memory and identity. Her earbuds become a sanctuary of focus amid farm bustle, while digital companions like The StoryGraph and Star Trek: The Next Generation offer organized, data‑driven leisure that rekindles a childhood love of reading. The piece culminates in a poetic meditation on chance and survival, echoing Wislawa Szymborska’s contemplations. Beyond a simple list, the article invites readers to reflect on how objects, habits, and stories intersect to create a sense of presence—“what’s in my NOW?” The narrative is both inspirational and practical, offering a roadmap for cultivating intentionality in everyday life. It’s a gentle reminder that our surroundings, both tangible and intangible, shape the narrative we live in.",
-    "summary_zh": "玛丽莎·威利斯以农场生活为背景，分享了塑造她日常的物品与体验。她将史蒂芬·金的短篇小说、Oberon皮革笔记本、降噪耳塞与数字工具如StoryGraph、星际迷航等，串联成一幅关于记忆与身份的画卷。文章以西蒙波萨的诗句收尾，探讨机缘与生存的哲学。它既是灵感，也是行动指南，提示读者如何通过有形与无形的事物，构建当下的自我。",
-    "best_quote_en": "If there had been no hand, no foot, no step, no hairsbreadth of coincidence, what would have happened? You survived because you were the first. You survived because you were the last.",
-    "best_quote_zh": "若无一手、一脚、一步、细微差别的巧合，你会怎样？你因第一而存活，也因最后而存活。"
-  },
-  {
-    "id": 33,
-    "title": "Sora 2",
-    "title_zh": "Sora 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/sora-2",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "Sora 2 represents a bold leap in AI‑driven creativity, fusing a cutting‑edge model with an intuitive video‑creation platform that feels like the “ChatGPT for creativity.” The announcement goes beyond a product launch; it outlines a philosophy that balances rapid, low‑friction content generation with a commitment to user well‑being. By prioritizing long‑term satisfaction, empowering users to curate their feeds, and fostering a culture of creation, the team seeks to avoid the pitfalls of addictive, algorithmic slop feeds. The product’s safeguards—deep‑fake mitigations, content filters, and mood monitoring—illustrate a proactive stance on ethical AI deployment. This vision positions Sora not merely as a tool but as a platform that could catalyze a Cambrian explosion in visual storytelling, while simultaneously addressing the social risks that accompany any new media ecosystem. The blend of technical ambition and social responsibility invites creators, technologists, and policy thinkers to rethink how AI can amplify human imagination without compromising mental health or authenticity.",
-    "summary_zh": "Sora 2 将前沿模型与视频创作平台相结合，像“创意版ChatGPT”，既强调低门槛创作，也关注用户长期满意度与心理健康。它通过可调节的内容推荐、深度伪造防护、情绪监测等措施，力求避免算法陷阱，促成创意的爆炸式增长，同时兼顾伦理与安全。此举为创作者、技术者与政策制定者提供了重新思考AI如何放大人类想象力的契机。",
-    "best_quote_en": "Optimize for long-term user satisfaction. The majority of users, looking back on the past 6 months, should feel that their life is better for using Sora than it would have been if they hadn’t.",
-    "best_quote_zh": "优化长期用户满意度。回顾过去六个月，绝大多数用户应该感到使用Sora后生活更好，而非未使用时。"
-  },
-  {
-    "id": 34,
-    "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
-    "title_zh": "使用神经科学协议提升学习速度与健康 | Dr. Poppy Crum",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum",
-    "tags": [
-      "inspire",
-      "education",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "Dr. Poppy Crum, a Stanford adjunct professor and former Dolby Chief Scientist, unpacks how neuroplasticity can be harnessed to accelerate learning and enhance wellbeing. She blends rigorous neuroscience with everyday tools—smartphones, AI, and video games—showing how zero‑cost protocols can be integrated into daily routines. A key insight is the concept of “digital twins,” virtual replicas of our bodies that, when paired with wearable sensors, can provide real‑time feedback on cognitive and physical states. Crum’s discussion extends to the future of health tech, highlighting how AI can either augment or replace certain tasks, and how gamification can cultivate durable habits. The episode offers a practical, data‑driven roadmap that challenges conventional wisdom about learning, encouraging listeners to experiment with low‑barrier interventions that are both scientifically grounded and immediately actionable. This synthesis of cutting‑edge research and accessible application makes the content highly valuable for learners, educators, and anyone curious about the intersection of brain science and technology.",
-    "summary_zh": "在这期节目中，Poppy Crum博士阐述了神经可塑性如何通过智能手机、AI与电子游戏等日常工具加速学习并提升健康。她提出“数字孪生”概念，结合可穿戴传感器实时反馈认知与身体状态，为未来健康科技指明方向。Crumb 的建议以零成本、数据驱动的方式呈现，兼具科学严谨与易于实践，既启发学习者，也为教育者与科技爱好者提供可落地的行动蓝图。",
-    "best_quote_en": "Use your smartphone, AI, and even video games to learn faster.",
-    "best_quote_zh": "使用智能手机、人工智能甚至电子游戏来加速学习。"
-  },
-  {
-    "id": 35,
-    "title": "The Tim Ferriss Show Transcripts: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance (#829)",
-    "title_zh": "The Tim Ferriss Show访谈稿：James Nestor——呼吸方案重启健康、改善睡眠并提升表现（#829）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/30/james-nestor-breath-transcript/",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "In this expansive episode, James Nestor unpacks the science of breathing, revealing how simple protocols can reboot health, fix sleep, and boost performance. Drawing on centuries‑old practices—from Tummo to Sudarshan Kriya—he demonstrates that breathing is a controllable, autonomous function that can be tuned for better oxygenation, reduced inflammation, and heightened mental clarity. He challenges conventional medical narratives, notably arguing that ADHD may largely stem from chronic sleep deprivation rather than a neurological disorder. Nestor also highlights the hidden dangers of indoor CO₂ levels, especially in hotels, and offers practical tools like nasal‑breathing tape, CO₂ monitors, and sleep‑tracking apps. The discussion blends rigorous research with personal anecdotes, providing actionable, data‑driven insights for anyone from athletes to office workers. Ultimately, it invites listeners to re‑educate themselves on a fundamental, often overlooked, biological process and to harness it for tangible, measurable health gains.",
-    "summary_zh": "本期节目中，James Nestor 以科学视角剖析呼吸的力量，展示简易呼吸法如何重塑健康、改善睡眠、提升表现。他将古老的 Tummo 与现代的 Sudarshan Kriya 结合，强调呼吸是可调控的自主功能，可改善氧合、降低炎症并提升认知。Nestor 质疑传统医学，提出 ADHD 可能源于慢性睡眠不足，而非神经疾病。他还揭露室内 CO₂ 危害，尤其在酒店环境，并提供鼻腔呼吸带、CO₂ 监测器及睡眠追踪应用等实用工具。节目将严谨研究与个人经历相结合，提供数据驱动、可操作的洞见，鼓励听众重新学习并利用这一被忽视的生物过程，获得可衡量的健康提升。",
-    "best_quote_en": "ADHD does not exist. What you’re looking at are sleep‑deprived kids.",
-    "best_quote_zh": "ADHD并不存在。你看到的是睡眠不足的孩子。"
-  },
-  {
     "id": 36,
     "title": "Solo trips abroad take off among women who seek break from work – and their families",
     "title_zh": "女性寻求工作与家庭休息，海外独自旅行热潮兴起",
@@ -2360,5 +2242,125 @@
     "summary_zh": "这篇文章以幽默、真诚的方式重塑幼儿育儿的二元性：既是狂热的喜爱，又是极度的无聊。作者把两岁孩子称为“极权独裁者”，并通过八个风趣观察，揭示语言学习的天才与认知世界的荒谬。文中批判了幼儿视频的社交媒体文化，指出父母期待与外部评判会扭曲亲子体验。作者倡导从微观管理向培养自主与好奇转变，鼓励家长以启发式方式引导孩子，而非过度控制。幽默与实用建议并存，使这篇文章既是新手父母的共鸣之作，也是对现代育儿观念的社会性评论。",
     "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
     "best_quote_zh": "你可以同时对同一个人既完全着迷又极度无聊。"
+  },
+  {
+    "id": 131,
+    "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
+    "title_zh": "我们正处于大阴毛复兴的边缘——随后金·K发布了她的阴毛丁字裤 | Coco Khan",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/21/big-bush-revival-kim-kardashian-pubic-hair-thong",
+    "tags": [
+      "update",
+      "politics",
+      "marketing",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "市场营销",
+      "争议观点"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "Coco Khan’s razor‑sharp commentary stitches together a cultural critique, a body‑positivity movement, and a commercial backlash, all centered on the sudden release of Skims’ faux‑hair “Ultimate Bush” thong. The piece frames the product as a symbolic assault on a nascent “big bush revival” that had begun to surface on runways, beauty counters, and TikTok, turning a fringe conversation about pubic hair into a mainstream battleground. Khan argues that the industry’s commodification of natural body parts—through synthetic replicas and celebrity‑driven hype—tramples the very autonomy the movement sought. She warns that the Kardashian‑standard homogenises beauty, stifles authentic expression, and reduces the body to an accessory. The article invites readers to question whether commercial novelty can truly empower or merely reinforce the status quo, urging a return to minimal effort and genuine self‑acceptance in a cost‑crunch era.",
+    "summary_zh": "金·K的阴毛丁字裤掀起的喧嚣，恰逢阴毛复兴热潮。Khan批评美妆业用仿制品把自然变成商品，质疑Kardashian标准对身体自主的压制，呼吁回归真实自我与极简生活。",
+    "best_quote_en": "The beauty industry has mastered selling us back an ersatz version of our own nature for enormous profit.",
+    "best_quote_zh": "美妆行业已经掌握了把我们自己的本性以仿制品的形式卖回来的艺术，赚取巨额利润。"
+  },
+  {
+    "id": 132,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "冠状病毒与可信度",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "The piece dissects why public figures—journalists, politicians, and pundits—so confidently downplayed COVID‑19, framing it as a mild flu. It argues that the danger of false forecasts lies not in the content but in the lack of accountability: predictions about nebulous or distant outcomes can be made with impunity. An epidemic, however, delivers rapid, undeniable evidence that a claim is wrong, exposing the recklessness of those who speak without understanding. The author uses Buffett’s metaphor—only when the tide recedes do we see who has been swimming naked—to highlight how the pandemic is a brutal credibility test. The article invites readers to reflect on the erosion of trust, the speed at which misinformation spreads, and the imperative for evidence‑based communication. It urges a shift from bravado to humility, urging leaders to admit uncertainty and to base statements on data, lest the public’s faith be permanently damaged.",
+    "summary_zh": "作者批判公众人物在疫情初期轻率将冠状病毒比作普通流感，指出错误预测的危害在于缺乏问责。疫情的快速、无可辩驳的事实检验让不负责任的言论暴露无遗。借用巴菲特的比喻，作者强调疫情是一次严峻的信誉考验，提醒领导者应以数据为基础、保持谦逊，以免失去公众信任。",
+    "best_quote_en": "\"It's only when the tide goes out that you learn who's been swimming naked.\"",
+    "best_quote_zh": "只有当潮水退去时，你才知道谁在裸泳。"
+  },
+  {
+    "id": 133,
+    "title": "Seven-ish Words from My Thought-Language",
+    "title_zh": "我思维语言中的七个词（大约）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
+    "tags": [
+      "guide",
+      "psychology",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This piece invents seven neologisms to interrogate the linguistic poverty of our inner dialogues, exposing how cognitive overload, decision paralysis, and emotional regulation intertwine. By weaving philosophical and psychological lenses, the author introduces concepts like \"word-clog\"—a state of being tongue‑tied not because of a lack of words, but because of an overabundance of mutually exclusive thoughts—and \"least-victory,\" a narrow win that barely offsets its cost. The article invites readers to rethink everyday conversations and self‑expression, revealing subtle barriers that shape our mental narratives. Its blend of original terminology, critical insight, and reflective depth offers both academic intrigue and practical relevance for anyone interested in the mechanics of thought and language.",
+    "summary_zh": "这篇文章通过七个自创词探讨思维中的语言贫乏，揭示认知冲突、决策僵局与情感调节的微妙机制。作者以哲学与心理学视角，提出“词堵”与“最小胜利”等概念，促使读者重新审视日常对话与自我表达的潜在障碍，具有启发性与学术价值。",
+    "best_quote_en": "To be tongue-tied not out of a lack of things to say, but out of an overabundance of mutually exclusive things to say.",
+    "best_quote_zh": "不是缺乏话可说，而是有过多相互排斥的想法导致说不出口。"
+  },
+  {
+    "id": 134,
+    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
+    "title_zh": "稳固耳机 / 无边界大使馆 / 数字游牧热点增长",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
+    "tags": [
+      "guide",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "This compact newsletter stitches together a pragmatic tech review, a sharp financial analysis, and a cultural snapshot of the evolving nomad ecosystem. The Soundcore Sport X20 earbuds earn praise for their over‑ear fit, waterproof build, and 12‑hour battery life—an excellent under‑$60 option that defies the common loss‑prone design. The article then pivots to a nuanced evaluation of “buying” airline and hotel points: when a promotion offers a 90–100% bonus, the math can justify a $150 outlay for a $300–$400 stay, turning a loyalty program into a cost‑effective investment. Finally, the piece spotlights the rise of remote‑work hubs, citing data‑driven growth in cities like Da Nang and Tirana, and invites readers to a local pop‑up salon that fosters a borderless nomadic community. The writer’s tone blends curiosity with actionable insight, encouraging readers to test gear, crunch numbers, and join a growing network of digital wanderers.",
+    "summary_zh": "这期简讯以耳机评测开篇，随后深入探讨购买航空与酒店积分的经济学，最后聚焦数字游牧热点的崛起。作者以实用、数据驱动的视角，鼓励读者在旅途中试验科技产品、计算积分价值，并加入无边界的数字游牧社区。",
+    "best_quote_en": "When the whole point of travel loyalty program points is to get something extra at no cost as a reward, outright paying for those points would seem to defeat the purpose.",
+    "best_quote_zh": "当旅行忠诚计划点的全部意义是以无成本获得额外奖励时，直接付费购买这些点似乎违背了目的。"
+  },
+  {
+    "id": 135,
+    "title": "Hard Startups",
+    "title_zh": "硬核创业",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/hard-startups",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-02-26",
+    "summary_en": "The article argues that the counterintuitive truth of startup success lies in pursuing hard, ambitious problems rather than chasing easy, low‑barrier ventures. It highlights how hard startups—those requiring significant capital, time, or technical breakthroughs—often attract talent, partners, and investors because they signal commitment and potential impact. The piece stresses that the most valuable hard problems are those whose solutions would be transformative if achieved, and that founders should frame their vision as a long‑term, mission‑driven narrative to rally people. It also warns that easy startups can become stagnant, failing to scale beyond a small core team, while hard startups can become the “tailwind” that fuels hiring, funding, and credibility. The article encourages founders to think beyond short‑term milestones, embrace long‑term horizons, and remain willing to make a decade‑long commitment, positioning themselves for compounding advantages. In essence, it invites entrepreneurs to choose the hard path, not because it is easier, but because it unlocks greater potential for meaning and impact.",
+    "summary_zh": "文章指出，创业成功的逆向真理在于追求艰难而雄心勃勃的问题，而非追逐易于实现的低门槛项目。它强调硬核创业需要大量资金、时间或技术突破，能够吸引人才、合作伙伴和投资者，因为它们传递出承诺与潜在影响。作者认为，最有价值的硬问题是如果实现能产生变革性的解决方案，创业者应以长期使命为叙事，激励团队。文章警示易创业难以扩展至核心团队之外，而硬创业则成为“顺风”，助力招聘、融资与信誉。它鼓励创业者放眼长期，愿意投入十年，获得复利优势，从而实现更大意义与影响。",
+    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
+    "best_quote_zh": "易创业是逆风；硬核创业是顺风。"
   }
 ]
