@@ -1,121 +1,5 @@
 [
   {
-    "id": 41,
-    "title": "Is it true that … women snore less than men?",
-    "title_zh": "女性比男性更少打鼾是真的吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/29/is-it-true-that-women-snore-less-than-men",
-    "tags": [
-      "solve",
-      "medicine",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "The Guardian’s latest piece on snoring dispels the myth that women are silent sleepers, revealing that men are nearly twice as likely to snore. Yet the gender gap narrows during two pivotal life stages—menopause and pregnancy—when hormonal shifts loosen airway tone. The article blends clinical data with expert commentary from UCL’s sleep surgeon, underscoring that snoring can signal serious conditions like sleep apnoea. It challenges readers to listen to their bodies, offering actionable advice: if snoring disrupts a partner’s sleep, seek medical evaluation. Beyond the statistics, the piece invites reflection on how gendered assumptions about health are rooted in societal bias rather than biology. By linking physiology, life‑stage changes, and practical steps, it equips readers with both knowledge and a roadmap for healthier nights.",
-    "summary_zh": "这篇Guardian文章揭示，男性打鼾几乎是女性的两倍，但在更年期与怀孕时性别差距缩小。专家指出，打鼾可能是睡眠呼吸暂停等严重病症的信号，提醒人们若打鼾影响伴侣睡眠应就医。文章批判性别刻板印象，提供可操作建议，帮助读者在生理与生活阶段中把握健康。",
-    "best_quote_en": "A change in snoring patterns should not be ignored, as it could be a symptom of a medical issue.",
-    "best_quote_zh": "如果打鼾模式发生变化，不能忽视，因为它可能是医疗问题的症状。"
-  },
-  {
-    "id": 42,
-    "title": "An NFT That Saves Lives",
-    "title_zh": "拯救生命的NFT",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nft.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "The article presents a groundbreaking use of non‑fungible tokens (NFTs) as a dynamic fundraising vehicle for a nonprofit that saves neonatal lives in South Asia. By tying the proceeds of a single NFT sale to a verifiable health impact—9 babies saved per 1,000 live births—the initiative turns an abstract digital asset into a measurable life‑saving metric. The reserve price of $2.5 million, calibrated to the cost of saving 2,000 lives, creates a powerful incentive for buyers to push the price higher, thereby increasing both the financial and humanitarian returns. This model showcases how blockchain transparency can be leveraged for social impact, offering a template for other mission‑driven organizations to monetize their cause while maintaining accountability. The piece is both inspirational and instructive, revealing a practical framework that blends philanthropy, data analytics, and emerging tech for real‑world change.",
-    "summary_zh": "文章展示了NFT如何成为社会公益的动态筹资工具：每售出一枚NFT，捐款将直接用于验证的健康影响——每千次活产可挽救九名婴儿。预留价250万美元对应拯救两千条生命，激励买家提高价格，进而扩大资金与人道回报。此模式将区块链透明度与公益结合，为其他使命组织提供可复制的商业模型。",
-    "best_quote_en": "The reserve price was about $2.5 million, because that's what it takes for the name to be accurate: that's what it costs to save 2000 lives.",
-    "best_quote_zh": "预留价格约为250万美元，因为这正是名称准确的成本：这就是拯救2000条生命所需的费用。"
-  },
-  {
-    "id": 43,
-    "title": "Why Israel and Hamas Might Finally Have a Deal",
-    "title_zh": "以色列与哈马斯可能达成协议的原因",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "The article dissects why a Gaza cease‑fire may finally materialize, weaving together three converging forces: Hamas’s political calculus, Trump’s unprecedented U.S. leverage, and Israel’s strategic fatigue. It argues that Hamas, split between hard‑liners and pragmatists, has reached a point where survival outweighs ideology, making it more willing to negotiate. Trump’s pressure—rooted in personal ambition, Gulf alliances, and a desire for a “win” narrative—has forced Netanyahu to consider a deal that trades hostages for prisoners and calls for Hamas disarmament, under a U.S.‑led oversight board. The piece underscores that, unlike previous administrations, Trump’s style is transactional and focused on image, allowing him to pull unprecedented levers. Yet it also cautions that the deal’s durability is uncertain: without concrete withdrawal guarantees, Hamas may still use the agreement to consolidate power. Ultimately, the analysis invites readers to weigh the political gamble against the humanitarian imperative, highlighting how domestic politics can reshape a protracted conflict.",
-    "summary_zh": "文章剖析以色列与哈马斯停战的可能性，聚焦哈马斯政治取舍、特朗普前所未有的美国影响力以及以色列的疲惫。它指出，哈马斯已将生存置于意识形态之上，特朗普的压力迫使内塔尼亚胡考虑以人质换囚犯、武器停用的方案，并设立美国主导的监督机构。文章警示，缺乏撤军保证的协议易被哈马斯利用巩固权力，最终提醒读者权衡政治博弈与人道需求。",
-    "best_quote_en": "Trump basically said, 'You do what I say. I’m the most pro‑Israeli President in the history of the world. You do what I say. I’ve given you a document, which by and large is a very pro‑Israel deal that does not envision a Palestinian state.'",
-    "best_quote_zh": "我认为哈马斯，甚至有外部和内部领导层之间的重大分裂，已经达到了政治生存将优先于意识形态的地步。"
-  },
-  {
-    "id": 44,
-    "title": "North America Adventures",
-    "title_zh": "北美冒险",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/north-america-adventures/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "The article champions two indispensable travel manuals—The People’s Guide to Mexico and The Milepost—highlighting their evolution, depth, and practical wisdom. It underscores how these guides transcend ordinary tourist handbooks by offering immersive, off‑beat insights into local culture, driving safety, and health precautions. The author’s personal anecdotes—ranging from navigating Mexico’s perilous highways to managing traveler’s diarrhea—illustrate the guides’ real‑world applicability. The piece also critiques generic guidebooks’ limitations, positioning these two titles as living encyclopedias that adapt through updated online resources. The broader implication is a call for travelers to prioritize experiential, context‑rich knowledge over superficial listings, thereby fostering safer, more authentic journeys. The narrative invites readers to view travel as a continuous learning process, where seasoned guides serve as both compass and safety net.",
-    "summary_zh": "文章强调两本不可或缺的旅行手册，提供深度实用智慧，超越普通旅游指南，帮助读者在北美冒险中获得安全、真实的体验。",
-    "best_quote_en": "The People’s Guide to Mexico is one of the best travel guides I’ve ever seen to anywhere in the world.",
-    "best_quote_zh": "它是人们在墨西哥的操作手册。"
-  },
-  {
-    "id": 45,
-    "title": "How to Make Yourself Unbreakable | DJ Shipley",
-    "title_zh": "如何让自己坚不可摧 | DJ Shipley",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "In this episode, retired Navy SEAL DJ Shipley demystifies the architecture of unbreakable resilience, weaving together rigorous physical routines, micro‑win psychology, and cutting‑edge mental‑health interventions. He frames every setback as a “small win” to be stacked, urging listeners to adopt a mindset of intentionality and to “control the controllable.” Shipley’s narrative is a living case study: from the claustrophobic corridors of BUD/S to the raw vulnerability of post‑deployment PTSD, he illustrates how structured rituals—morning workouts, compartmentalization, and deliberate rest—can recalibrate neuroplasticity. He also ventures into the therapeutic frontier of psychedelics, discussing ibogaine and 5‑MeO‑DMT as tools for empathy‑building and ego dissolution, positioning them as adjuncts to conventional counseling. The episode balances anecdote with actionable frameworks, offering listeners a blueprint to cultivate mental toughness, physical health, and holistic well‑being. It invites a broader conversation about veteran care, mental‑health stigma, and the science of resilience, prompting listeners to ask: what can I stack today to become unbreakable?",
-    "summary_zh": "退役海豹突击队员DJ Shipley在本期节目中拆解“坚不可摧”的结构，结合高强度训练、微小胜利心理与前沿心理疗法，展示从BUD/S到战后PTSD的自我重塑之路。他强调“控制可控”，倡导每日小步前行与刻意练习，甚至探讨伊波加因与5‑MeO‑DMT等精神药物在同理心与自我解构中的潜力。节目既是案例研究，也是可操作的行动指南，鼓励听众将身心韧性、健康与幸福纳入日常。此内容不仅为退伍军人提供新视角，也呼吁大众关注心理健康与韧性科学，让我们思考：今天我能做什么，让自己更坚韧？",
-    "best_quote_en": "Control the Controllable",
-    "best_quote_zh": "控制可控"
-  },
-  {
     "id": 46,
     "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
     "title_zh": "改变我的那一刻：我不再自我克制——并找到了我的真爱",
@@ -2360,5 +2244,123 @@
     "summary_zh": "博伊德·瓦蒂的故事把野外追踪与自我成长相结合，教我们在危机中放慢节奏，将自尊受挫转化为反思。通过在朗多洛齐的静默徒步和去除手机，他让人们体验自然节奏，激发洞察力。故事从纸制狮子到大猩猩，展示叙事与觉知的力量，提醒我们与自然的节律相连，提升安全感与领导力。",
     "best_quote_en": "When something is going that wrong, in the moment, you think to yourself, it can be quite devastating to your ego, but I’ve come to see those moments as quite positive because it does force a kind of reflection.",
     "best_quote_zh": "当事情进展不顺时，立即意识到这对你的自尊心和领导力都有冲击……我已经学会把这些时刻视为积极的，因为它们迫使你反思。"
+  },
+  {
+    "id": 141,
+    "title": "Riot Women and lesbians in the 1970s | Letters",
+    "title_zh": "《Riot Women 与 1970 年代的女同性恋》",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2025/oct/26/riot-women-and-lesbians-in-the-1970s",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "The letters piece offers a reflective lens on the misreading of Sally Wainwright’s BBC drama *Riot Women* and its historical framing of lesbian visibility in the 1970s. A reader counters Tiff Bakker’s claim that lesbians have always been invisible, arguing instead that 1970s feminism made them both visible and audible. The commentary intertwines personal anecdotes—such as a friend’s journey from feminist theory to rabbinical vocation, and another’s transformation into the punk icon Vi Subversa of Poison Girls—to illustrate how activism, art, and solidarity forged tangible spaces for queer voices. The analysis underscores the importance of contextual fidelity when dramatizing history, and celebrates the nuanced intersection of gender, sexuality, and cultural production. It invites readers to question surface-level interpretations, recognize the layered legacies of 1970s feminist movements, and appreciate the role of media in shaping collective memory. Ultimately, the letters remind us that storytelling is as much about honoring lived experience as it is about entertainment.",
+    "summary_zh": "信件通过对《Riot Women》剧集的误读进行反思，揭示1970年代女权主义如何让女同性恋既可见又可听。作者结合个人经历与历史人物，强调文化与政治交织的力量，提醒读者在解读历史剧时勿忽视细节与真实。",
+    "best_quote_en": "Lesbians were visible and audible in 1970s feminism.",
+    "best_quote_zh": "女同性恋在1970年代的女权主义中是可见且可听见的。"
+  },
+  {
+    "id": 142,
+    "title": "[CS 2881r] Can We Prompt Our Way to Safety? Comparing System Prompt Styles and Post-Training Effects on Safety Benchmarks",
+    "title_zh": "我们能通过提示实现安全吗？比较系统提示风格及后训练对安全基准的影响",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/hgMDvLyomQjpKiG2v/cs-2881r-can-we-prompt-our-way-to-safety-comparing-system",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This paper rigorously evaluates how different system prompt styles—minimal, principles, rules, and their combinations—affect safety and capability benchmarks for two DeepSeek-derived models. By contrasting a minimally trained baseline with a safety‑fine‑tuned counterpart across OR‑Bench and MMLU‑Pro, the authors uncover nuanced trade‑offs: minimal prompts often inflate over‑refusal, whereas principles or rules can reduce toxic‑refusal without severely harming accuracy. Notably, a well‑crafted prompt can bring a base model’s toxic‑refusal within 5% of a safety‑tuned model while cutting over‑refusal by up to tenfold, suggesting prompting as a potent, flexible complement to post‑training. The study also highlights model‑specific sensitivities—GPT‑4o and Claude‑3.5‑Sonnet respond differently to prompt styles—underscoring the need for empirical tuning. Overall, the work invites practitioners to view prompting not as a substitute but as a strategic layer atop safety training, balancing reversibility, precision, and risk of over‑conservatism.",
+    "summary_zh": "本研究通过对不同系统提示风格在安全与能力基准上的影响进行细致评估，揭示提示可在保持安全性的同时显著降低过度拒绝。对比基础模型与安全微调模型，发现精心设计的提示可将毒性拒绝率逼近安全模型，且过度拒绝率下降十倍以上。提示与后训练相互补充，提供灵活可逆的安全调节路径，提示不同模型对风格的响应差异提醒需经验调优。此工作提示我们将提示视为安全训练的策略层，而非替代方案。",
+    "best_quote_en": "The Unreasonable Effectiveness of Prompting in Getting LLMs to do Things.",
+    "best_quote_zh": "提示在让LLM完成任务方面的非凡有效性。"
+  },
+  {
+    "id": 143,
+    "title": "Why Biden’s White House Press Secretary Is Leaving the Democratic Party",
+    "title_zh": "为什么拜登白宫新闻秘书将离开民主党",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-bidens-white-house-press-secretary-is-leaving-the-democratic-party",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "In her new book, former White House press secretary Karine Jean‑Pierre confronts the Democratic Party’s betrayal of President Biden, framing her departure as a moral stand against a party she claims abandoned a leader during a crisis. The narrative intertwines personal experience with a broader critique of intra‑party politics, revealing how internal pressures can erode loyalty and reshape electoral strategy. Jean‑Pierre’s account exposes a tension between party pragmatism and principled defense of a president she regards as decently effective, highlighting the fraught dynamics of leadership succession in a polarized climate. Her story serves as a case study of how political identity can fracture under strategic pressures, offering readers a rare insider’s perspective on the cost of political expediency. The book invites reflection on the integrity of democratic institutions and the responsibilities of party leaders to safeguard the leaders they elect, while questioning whether loyalty to a candidate should eclipse the broader national interest.",
+    "summary_zh": "前白宫新闻秘书贾妮·皮埃尔在新书中揭露民主党背叛拜登，称其离党是对党内自私与失职的抗议。她的叙述揭示党内权谋与忠诚冲突，成为政治身份破裂的案例研究，促使读者重新思考民主制度的完整性与党派责任。",
+    "best_quote_en": "I watched Democratic leadership abandon, and in the end betray, a man who’d led our country through a pandemic and a time of historic political turmoil.",
+    "best_quote_zh": "我看到了民主党领导层抛弃并最终背叛了曾带领我们国家度过疫情和历史政治动荡的总统。"
+  },
+  {
+    "id": 144,
+    "title": "Mowers",
+    "title_zh": "割草机",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mowers/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "The article offers a hands‑on tour of niche yard‑care tools, from the hybrid DR Trimmer/Mower that tackles weeds in tight spots to the lightweight Brill Push Mower that turns manual mowing into a sustainable, low‑impact workout. It highlights real‑world user tips—such as experimenting with line types on the DR or the rare 8.75‑horse‑power engine on the Brill—underscoring the importance of maintenance and ergonomics. The piece also showcases the Cyclone Rake’s leaf‑sweeping prowess, the Stihl FSE‑60’s quiet, powerful electric trimmer, and the European scythe’s ergonomic, blade‑sharp design that rivals gas models. Across the reviews, a recurring theme emerges: thoughtful engineering can make routine yard work efficient, environmentally friendly, and even enjoyable. The article serves as a practical guide for homeowners seeking durable, high‑performance tools without compromising on sustainability or user experience.",
+    "summary_zh": "文章评测多款专业园艺工具，强调实用性与环保：DR混合割草机精准清除杂草，Brill手推割草机轻巧可持续；Cyclone耙高效清叶；Stihl电动修枝机安静强劲；欧洲镰刀符合人体工学。作者提供维护技巧与使用经验，帮助读者挑选既高效又低碳的园艺设备。",
+    "best_quote_en": "Nothing else comes close in keeping vegetation under control, even in tight spots like under fences.",
+    "best_quote_zh": "没有其他工具能像它那样在紧凑的空间（如篱笆下）有效控制植被。"
+  },
+  {
+    "id": 145,
+    "title": "How To Be Successful",
+    "title_zh": "如何取得成功",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-be-successful",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2019-01-24",
+    "summary_en": "The essay distills thirteen pragmatic principles for founders and ambitious individuals, framing success as an exponential, compound process rather than a linear one. It stresses the necessity of \"compounding yourself\"—seeking multiplicative growth in career, capital, and influence—and pairs this with an almost delusional self‑belief that fuels contrarian ideas and resilience. The author critiques conventional linear thinking, urging readers to focus on high‑leverage actions, deliberate risk‑taking, and relentless hard work, while also advocating for strategic focus and bold ambition. Networking and building a resilient, complementary team emerge as critical levers, as does ownership of assets that appreciate rapidly. The piece balances inspirational rhetoric with actionable advice, underscoring that success demands both conviction and self‑awareness. It invites readers to question external validation, to cultivate internal motivation, and to treat work as a series of high‑impact experiments. Ultimately, the narrative offers a roadmap that is simultaneously aspirational and grounded in the realities of entrepreneurial ecosystems, prompting reflection on how to translate ambition into measurable, scalable impact.",
+    "summary_zh": "文章把成功拆解成13条实操原则，强调复利思维、自信与风险、专注与努力、团队与资产拥有。它批判线性成长，提倡高杠杆行动与内驱动，既鼓舞人心又具可执行性，促使读者将野心转化为可衡量的影响。",
+    "best_quote_en": "Self‑belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.",
+    "best_quote_zh": "自信是极其强大的。我认识的最成功的人几乎把自信当成一种妄想。"
   }
 ]
