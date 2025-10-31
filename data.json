@@ -1,99 +1,5 @@
 [
   {
-    "id": 51,
-    "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
-    "title_zh": "Jess Cartner-Morley：女士化装风潮归来，注入现代时尚",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/08/jess-cartner-morley-ladylike-fashion-is-back-but-its-been-given-a-modern-twist",
-    "tags": [
-      "update",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Jess Cartner‑Morley’s latest piece on ladylike fashion argues that the revival isn’t merely a nostalgic nod but a purposeful, modern reinterpretation of a historically understated style. She pinpoints the ‘sturdy element’—a blazer, chunky knit or kitten‑heel boot—as the pivot that anchors pastel silhouettes into contemporary relevance. The article uses Miu Miu’s 2025 collection as a case study, noting how cloche hats, slip dresses and bullet bras can be repurposed with practical hacks such as ribbed socks or loafers to balance delicacy with grit. Beyond runway trends, Cartner‑Morley offers actionable styling tips: mix pastels with darker hues, layer multiple accessories, and maintain a poised posture. The piece invites readers to reimagine ladylike as a quiet, polished power that is both business‑savvy and fashion‑forward. It encourages experimentation while preserving the core elegance that defines the aesthetic, making it a useful guide for anyone seeking to refresh their wardrobe with a subtle yet striking twist.",
-    "summary_zh": "Jess Cartner‑Morley 在文章中指出，女士化装风潮的回归并非单纯的怀旧，而是对其细腻风格的现代重塑。她强调“坚固元素”——如西装外套、粗针织或小猫跟靴——是将柔和色调与当代感相结合的关键。文章以 Miu Miu 2025 系列为案例，展示如何通过加绒袜或乐福鞋等实用技巧，将复古元素与现代时尚融合。她还提供可操作的穿搭建议：将柔和色彩与深色调混搭、多层配饰、保持端庄姿态。文章鼓励读者在保留优雅本质的同时，尝试创新，让女士化装成为既商务又时尚的力量。",
-    "best_quote_en": "The key to bringing this look up to date is adding a sturdy element.",
-    "best_quote_zh": "关键是加入坚固的元素，让这套造型更现代。"
-  },
-  {
-    "id": 52,
-    "title": "Reflections",
-    "title_zh": "反思",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reflections",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-01-06",
-    "summary_en": "The piece offers a candid, reflective chronicle of OpenAI’s journey from a modest research lab to a global AI powerhouse, framed around the company’s second birthday of ChatGPT. It highlights the unpredictable path of building a new technology, the rapid scaling, and the painful governance lessons learned when a senior leader was unexpectedly fired. The author emphasizes the importance of diverse board oversight, transparent communication, and a culture of learning from failure. He also shares personal gratitude for mentors and allies, underscoring how external support can stabilize a fledgling enterprise during crises. Looking forward, the narrative projects a future where AGI and superintelligence reshape labor markets, scientific discovery, and abundance, while stressing the need for iterative safety and benefit-sharing. The article is a mix of strategic insight, personal anecdote, and a call to ethical leadership in an era of rapid AI advancement.",
-    "summary_zh": "作者以ChatGPT第二个生日为契机，回顾OpenAI从实验室到行业领袖的蜕变，强调快速扩张、治理失误与外部支持的重要性。文章展望AGI与超智能将重塑劳动力与科学，呼吁循序渐进的安全与共享。",
-    "best_quote_en": "The launch of ChatGPT kicked off a growth curve like nothing we have ever seen—in our company, our industry, and the world broadly.",
-    "best_quote_zh": "ChatGPT的发布引发了我们公司、行业乃至全球前所未有的增长曲线。"
-  },
-  {
-    "id": 53,
-    "title": "Build Your Ideal Physique | Dr. Bret Contreras",
-    "title_zh": "构建理想体格 | 布雷特·康特拉斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/build-ideal-physique-bret-contreras",
-    "tags": [
-      "guide",
-      "ai-research",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "In this episode, Dr. Bret Contreras—renowned as the “glute guy”—breaks down a comprehensive training framework that spans frequency, exercise selection, sets, reps, and periodization. Tailored for men and women of all ages and experience levels, the discussion emphasizes individualized recovery and adaptive programming, introducing practical tools such as the “four training patterns” and the “maximum recoverable volume” assessment. Contreras blends data‑driven insights with real‑world case studies to illuminate how low‑load activation can yield both strength and aesthetic gains, while navigating everyday constraints. The episode serves not only as a technical guide but also as a broader commentary on longevity, injury prevention, and self‑actualization in fitness. It offers actionable, advanced content that empowers listeners to design evidence‑based, personalized regimens for lasting performance and well‑being.",
-    "summary_zh": "在这期节目中，Bret Contreras 以其对臀肌训练的深厚专业，拆解了从训练频率、动作选择到组数、重复和周期化的完整体系。内容兼顾男女、不同年龄与经验层级，强调个体恢复与适应性调节，提供实用工具如‘四训练模式’与‘最大可恢复体积’的评估方法。Contreras 通过数据驱动与案例分析，揭示低负荷激活、力量与美学双赢的奥秘，并讨论如何在现实限制下保持动力与一致性。节目不仅是技术指南，更是一份关于长期健康、预防伤害与自我实现的启示，值得健身爱好者与专业人士深度研读。",
-    "best_quote_en": "We cover ideal training frequency, exercise selection, sets and repetitions and periodization.",
-    "best_quote_zh": "我们涵盖理想的训练频率、练习选择、组数和重复次数以及周期化。"
-  },
-  {
-    "id": 54,
-    "title": "David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should) (#828)",
-    "title_zh": "David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should) (#828)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/24/david-senra/",
-    "tags": [
-      "learn",
-      "leadership",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "领导管理",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2025-09-24",
-    "summary_en": "David Senra’s ninth‑year deep dive into 400+ biographies distills one universal truth: focus. The episode unpacks how extreme winners— from Buffett to Jobs, Zell to less‑known pioneers—channel relentless attention into single‑purpose pursuits, treat learning as behavior change, and build relationships at scale rather than a media empire. By treating biographies as one‑sided conversations, Senra demonstrates a disciplined reading‑to‑action workflow, the power of 24‑hour planning, and the importance of craft and authenticity. He also reveals the psychology behind obsessive focus, the value of a trusted inner circle, and how to translate historical lessons into modern entrepreneurial practice. For listeners, the episode offers actionable frameworks, case‑study insights, and a philosophical lens on what it means to live a life of purpose and impact.",
-    "summary_zh": "David Senra在九年的400多本传记研究中归纳出一句核心：专注。节目通过分析从巴菲特、乔布斯到不为人知的先驱，阐述极致赢家如何将全部精力投入单一目标，学习视作行为改变，建立规模化关系而非媒体帝国。传记如一面镜子，展示严谨阅读到行动的流程、24小时规划的力量以及工匠精神与真实性的重要性。节目还探讨专注的心理、内圈的价值及如何将历史经验转化为现代创业实践。为听众提供可执行框架、案例洞见与关于有意义生活的哲学视角。",
-    "best_quote_en": "If you could summarize nine years, 400 biographies, into one word of what I’ve learned, it’s focus.",
-    "best_quote_zh": "如果你能把九年的四百本传记浓缩成一句话，我学到的就是‘专注’。"
-  },
-  {
     "id": 55,
     "title": "Iconoclast partners with Vermillio to monitor use of Tony Bennett’s name, image, voice and likeness on gen-AI systems",
     "title_zh": "Iconoclast与Vermillio合作监测Tony Bennett在生成式AI系统中的姓名、形象、声音和肖像使用",
@@ -2362,5 +2268,99 @@
     "summary_zh": "本集拆解淋巴系统的工作原理，强调其无泵泵动机制，借助运动、呼吸与压力激活循环；通过游泳、太极、深呼吸等方法，改善浮肿、眼袋、脑雾，提升皮肤与心血管健康；并阐述睡眠中脑淋巴系统的清洁作用，预防认知衰退。内容以科学为根基，提供可操作的日常方案，兼顾免疫、抗炎与美容效果，适合关注整体健康与外观的人群。",
     "best_quote_en": "Because your lymphatic system lacks a central pump, it needs the mechanical forces generated by specific types of bodily movement, breathing and pressure to circulate your lymph properly, and I explain how you can activate these.",
     "best_quote_zh": "因为淋巴系统缺乏中央泵，需要通过特定身体运动、呼吸和压力产生的机械力来循环淋巴，我解释了如何激活这些机制。"
+  },
+  {
+    "id": 151,
+    "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
+    "title_zh": "Jess Cartner‑Morley：本季你的牛仔裤应当挺括、时尚、直筒",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/29/jess-cartner-morley-this-season-jeans-trend-stiff-smart-straight",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Jess Cartner‑Morley’s latest style column reframes the humble jean as a versatile, semi‑formal staple that can carry you from office to dinner with equal grace. By championing a stiff, straight‑leg cut, she argues that clean lines and proper tailoring trump the casual swagger of wide‑leg or distressed denim. The piece goes beyond a mere fashion tip; it maps a cultural shift where jeans move from weekend wear to a “smart” wardrobe choice, underscored by the high‑profile example of Julia Roberts on the Venice red carpet. Practical advice—tight but comfortable fit, waist‑high placement, minimal stretch, and the right belt—pairs with accessorising cues that elevate the look, such as a blazer, silk camisole, or subtle jewelry. The article balances expert insight with actionable steps, making it a useful guide for readers who want to upgrade their denim game without sacrificing comfort. Its critical lens on the “cobbled‑together” aesthetic reminds us that authenticity in style stems from harmony, not concealment. Overall, the column offers a fresh, evidence‑based perspective that empowers readers to rethink jeans as a confident, stylish asset.",
+    "summary_zh": "Jess Cartner‑Morley 用时尚视角重新定义牛仔裤：挺括直筒、干净剪裁是从办公室到晚宴的通行证。她强调合身、腰部高度、最小弹性与配饰的和谐搭配，指出牛仔不再是休闲单品，而是展现自信与品味的时尚利器。通过朱莉娅·罗伯茨在威尼斯红毯的示范，文章将牛仔从日常转为正式场合的“智能”选择，并提供可操作的穿搭技巧，提醒读者真正的时尚是“和谐”而非“掩饰”。",
+    "best_quote_en": "A blazer is to jeans what lipstick is to a bare face.",
+    "best_quote_zh": "西装外套对牛仔裤就像口红对裸脸一样."
+  },
+  {
+    "id": 152,
+    "title": "Resampling Conserves Redundancy & Mediation (Approximately) Under the Jensen-Shannon Divergence",
+    "title_zh": "在 Jensen‑Shannon 散度下，重采样近似保留冗余与调解",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JXsZRDcRX2eoWnSxo/resampling-conserves-redundancy-and-mediation-approximately",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This paper demonstrates that resampling under the Jensen‑Shannon (JS) divergence can approximately preserve both redundancy and mediation structures in latent variables, and it provides tight, explicit error bounds. Unlike the conventional KL divergence, JS’s square‑root is a true metric and is naturally equivalent to mutual information, making it a more principled choice for factorization error. By constructing auxiliary distributions and a three‑step proof, the authors show that after resampling one redundancy relationship is preserved exactly, while the other redundancy and the mediation relationship suffer only a controlled amplification bounded by the original errors. This result supplies a solid theoretical foundation for robust reconstruction of natural latent variables and suggests that future work should favor JS over KL when selecting an error metric. The work has implications for information theory, factor models, and latent representation learning in machine learning, offering both conceptual insight and practical guidance for researchers.\n",
+    "summary_zh": "本文展示了在 Jensen‑Shannon 散度下，重采样能够近似保留潜在变量的冗余与调解结构，且给出了精确的误差上界。与传统 KL 散度相比，JS 的平方根是度量，且与互信息天然对应，使其更适合作为因子化误差度量。作者通过构造辅助分布和三段证明，证明了在重采样后，一条冗余关系被完全保留，而另一条以及调解关系仅受原始误差的可控放大。此结果为自然潜在变量的稳健重构提供了理论依据，并提示未来在选择误差函数时应倾向于 JS。该工作对信息理论、因子模型以及机器学习中的潜在表示具有重要启示。",
+    "best_quote_en": "Jensen‑Shannon divergence is equivalent to the mutual information between X, a variable randomly sampled from one of the distributions, and Z, an indicator which determines the distribution X gets sampled from.",
+    "best_quote_zh": "Jensen‑Shannon 散度等价于从两种分布之一随机抽取的变量 X 与决定 X 采样来源的指示变量 Z 之间的互信息。"
+  },
+  {
+    "id": 153,
+    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "title_zh": "必备：减缓与逆转衰老的生物学 | 戴维·辛克莱博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
+    "tags": [
+      "update",
+      "medicine",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. David Sinclair, a Harvard genetics professor, dissects the cellular and molecular underpinnings of aging. He explains how lifestyle choices—fasting, exercise, and NAD⁺ boosters like NMN—can reawaken the body’s innate longevity pathways, potentially slowing or even reversing key aspects of biological aging. The discussion weaves together epigenetic clocks, sirtuins, mTOR signaling, and autophagy, offering a data‑driven map of how our habits shape the aging genome. Sinclair’s insights bridge cutting‑edge research with practical, actionable tools: meal timing, electrolyte balance, targeted supplementation, and exercise regimens tailored to individual biomarkers. The episode serves as both a primer for newcomers and a deep dive for seasoned enthusiasts, underscoring that aging is not a fixed fate but a modifiable process. It invites listeners to reimagine healthspan through evidence‑based interventions, sparking curiosity about the future of longevity science.",
+    "summary_zh": "本期Huberman实验室必备节目中，哈佛遗传学教授戴维·辛克莱博士阐述衰老的细胞与分子机制，强调禁食、运动与NAD⁺补充剂如NMN能激活身体天然长寿通路。通过基因时钟、沉默素、mTOR与自噬等概念，他将前沿研究与可操作的生活方式工具相结合，展示衰老可被调节的可能性。该节目既适合初学者，也为专业人士提供深度洞见，激发对长寿科学未来的好奇与探索。",
+    "best_quote_en": "specific behaviors, such as fasting, regular exercise and NAD⁺-boosting compounds like NMN, can activate the body's natural longevity pathways.",
+    "best_quote_zh": "具体行为，例如禁食、规律运动和像NMN这样的NAD⁺增强化合物，可以激活身体天然的长寿通路。"
+  },
+  {
+    "id": 154,
+    "title": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
+    "title_zh": "Jack Canfield — 销售6亿+本书、成功原则以及他如何让《4小时工作周》成真 (#833)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/30/jack-canfield-transcript/",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "Jack Canfield’s interview with Tim Ferriss is a masterclass in entrepreneurial resilience, strategic thinking, and the power of storytelling. From humble beginnings in a West Virginia steel town to becoming a Guinness‑record‑holding author, Canfield’s narrative is a testament to the value of seizing opportunities and learning from failures. He explains how the “Chicken Soup for the Soul” series was born out of a simple idea to compile relatable stories, and how relentless, data‑driven marketing—“the rule of five”—propelled the book to 1.3 million copies in a year and a half. Canfield also shares the profound influence of W. Clement Stone’s mentorship, the importance of setting audacious financial goals, and the discipline of 100 percent responsibility. The episode blends practical tactics—goal setting, marketing hacks, and mindset work—with philosophical insights into purpose, making it a compelling guide for anyone seeking actionable wisdom on turning ideas into lasting impact.",
+    "summary_zh": "Jack Canfield从小镇成长为全球畅销书作者，强调抓住机会、坚持不懈与故事营销的重要性。通过《鸡汤》系列的创意与“规则五”推广，他让书籍销量突破百万，展示了数据驱动与持续行动的力量。受W.Clement Stone影响，他强调设定大胆目标与全责担当，体现了将理念转化为持久影响的实用智慧。",
+    "best_quote_en": "If you want to make $100,000 a year, set a goal and act.",
+    "best_quote_zh": "如果你想一年赚十万美元，就设定目标并付诸行动。"
   }
 ]
