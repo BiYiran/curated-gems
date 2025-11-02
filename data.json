@@ -1,125 +1,5 @@
 [
   {
-    "id": 60,
-    "title": "GPT-4o",
-    "title_zh": "GPT-4o",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/gpt-4o",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2024-05-13",
-    "summary_en": "OpenAI’s announcement of GPT‑4o marks a pivotal shift from a purely research‑centric vision to a product‑first mindset that democratizes AI access while sustaining a commercial model. By offering the most capable model for free in ChatGPT, the company underscores its commitment to societal benefit, yet it simultaneously signals that monetizable features—personalization, data integration, and action‑taking—will underpin future revenue streams. The new voice and video mode, described as the best computer interface the author has ever used, represents a leap toward human‑like interaction, blurring the line between machine and conversational partner. This development raises critical questions about privacy, agency, and the ethical deployment of such powerful interfaces. For developers, educators, and entrepreneurs, GPT‑4o presents both a toolkit and a challenge: how to harness unprecedented expressiveness responsibly while building sustainable business models. The announcement invites a broader conversation about the role of AI in everyday life and the responsibilities of its creators.",
-    "summary_zh": "OpenAI推出GPT‑4o，标志着从纯科研向产品化转变，免费提供最强模型以惠及大众，同时通过可付费功能实现商业化。全新语音视频模式被誉为最佳计算机界面，逼真度逼近电影般AI，推动人与机器对话的自然化。此举激发关于隐私、代理权与伦理部署的讨论，也为开发者、教育者和创业者提供了前所未有的表达力与商业机会。",
-    "best_quote_en": "The new voice (and video) mode is the best computer interface I’ve ever used. It feels like AI from the movies; and it’s still a bit surprising to me that it’s real.",
-    "best_quote_zh": "新的语音（和视频）模式是我用过的最好的计算机界面。它像电影里的 AI；而它的存在让我仍然有点惊讶。"
-  },
-  {
-    "id": 61,
-    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
-    "title_zh": "为何值得更广泛地审视双王制文化 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "The piece invites readers to reconsider the prevalence of biarchal societies—systems where gender equality was the norm—by drawing on evidence from North America, Africa, South India, and Polynesia. It critiques Laura Spinney’s Eurocentric focus, highlighting how colonialism systematically erased female autonomy in Indigenous communities such as the Mi’kmaw and Kikuyu. By foregrounding matrilineal practices, agricultural control, and the reverence for gender-variant individuals, the article underscores that gender egalitarianism is not a modern utopia but a historical reality. This nuanced perspective challenges the binary of patriarchy versus matriarchy, revealing a spectrum where both genders co‑rule and diverse gender expressions are celebrated. For scholars and activists alike, the text serves as a call to excavate and honor these forgotten models, offering a richer framework for contemporary gender politics and decolonial scholarship. The article’s layered narrative invites critical reflection on how historical narratives shape our understanding of power, autonomy, and identity.",
-    "summary_zh": "文章通过北美、非洲、南印度与波利尼西亚的案例，呼吁重新审视双王制社会——性别平等的历史现实。它批判欧洲中心视角，强调殖民主义如何破坏米克马、基库尤等原住民的女性自治。文中强调母系农业控制、对跨性别者的崇敬，展示了性别共治与多元性别表达的共存。此视角挑战传统父权/母权二元论，为当代性别政治与去殖民学术提供更丰富的框架。",
-    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
-    "best_quote_zh": "在基库尤文化实践中，女性对农业生产拥有控制权，社区的主要生计来源。Mukuru说，她惊讶地发现该文化也是母系和性自由的。"
-  },
-  {
-    "id": 62,
-    "title": "Gar’s Tips & Tools – Issue #205",
-    "title_zh": "Gar的技巧与工具 – 第205期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
-    "tags": [
-      "solve",
-      "design",
-      "programming",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "编程开发",
-      "新手友好"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This issue of Gar’s Tips & Tools stitches together a tapestry of maker‑centric wisdom, from the humble spray booth to the intricacies of benchtop power supplies. The spray‑booth segment showcases resourcefulness—leveraging inexpensive components like a storage tote, furnace filter, and a brushless Mounto fan to create a safe, explosion‑proof environment. The rotary‑tool review balances enthusiasm with realism, acknowledging its limited torque yet celebrating its affordability for light plastic work. The carpenter‑pencil tutorial demystifies a seemingly simple tool, turning it into a versatile marking and measuring aid. Becky Stern’s power‑supply primer stands out as a textbook‑style guide, emphasizing safety, precision, and practical troubleshooting for electronics hobbyists. Minor anecdotes, such as battery rolling, add a human touch that underscores the joy of incremental efficiency. Overall, the newsletter delivers actionable, beginner‑friendly insights that empower makers to iterate, experiment, and save money without compromising safety or quality. Its blend of hands‑on demos, concise explanations, and community engagement exemplifies how niche expertise can be distilled into accessible, high‑impact content for a DIY audience.",
-    "summary_zh": "本期Gar的技巧与工具将喷漆舱、旋转工具、木匠铅笔和台式电源等多元主题交织在一起，既强调低成本实用性，又不失安全与专业性。喷漆舱用廉价零件构建，突出无爆炸风险；旋转工具虽扭矩有限，却因价格亲民而适合轻量塑料加工；木匠铅笔教程将平凡工具升级为多功能测量标记利器；贝基·斯特恩的电源指南则像课堂笔记，强调安全、精准与调试技巧。小细节如电池滚动更添人情味，提醒读者细节也能带来效率提升。整体内容实用、易学，帮助爱好者在实验、迭代与省钱之间找到平衡。",
-    "best_quote_en": "Unlike batteries or wall adapters, they provide precision, built-in protection, and flexibility that make them indispensable for prototyping, debugging, and testing, and all serious benchtop electronics work.",
-    "best_quote_zh": "与电池或壁式适配器不同，它们提供精确度、内置保护和灵活性，使其成为原型制作、调试和测试以及所有严肃的台式电子工作不可或缺的工具。"
-  },
-  {
-    "id": 63,
-    "title": "What I Wish Someone Had Told Me",
-    "title_zh": "我希望有人早告诉我",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2023-12-21",
-    "summary_en": "This compact manifesto distills the author’s hard‑earned wisdom into fifteen punchy directives, each a micro‑lesson for founders and teams. The overarching theme is that success hinges on a paradoxical blend of optimism, disciplined focus, and relentless execution. The author argues that starting is about raw energy—optimism, obsession, and personal connections—while finishing demands cohesion, calm urgency, and an unwavering commitment that transcends short‑term ego. A key insight is the strategic prioritization of high‑conviction bets: concentrate resources on a few audacious ideas rather than spreading thin, a practice that “deletes more stuff than you think.” The piece also emphasizes the power of incentives, clear communication, and fast iteration—reminding readers that plans span decades while execution is measured in weeks. Critically, it warns against bureaucracy and the “laws of physics” of business, urging founders to fight systemic inertia. The tone is pragmatic yet inspirational, encouraging a mindset of continuous learning, bold risk‑taking, and relentless resilience. It offers a concise, actionable playbook that resonates with both seasoned entrepreneurs and newcomers seeking a disciplined yet flexible framework for building enduring ventures.",
-    "summary_zh": "这篇短小精悍的宣言把作者的经验浓缩成十五条简洁指令，既是创业者的实战手册，也是团队的思考指南。作者强调，创业的起点在于热情与人脉，而成就的关键在于凝聚与执行。最具启发性的是“把资源聚焦在少数高信念赌注上”，这提醒我们要敢于抛弃琐碎，专注突破。文中还提到激励的超能力、快速迭代以及对官僚主义的抵制，提醒创业者以短周期检验、长期愿景为导向。整体语调务实而激励，鼓励持续学习、敢于冒险、永不放弃，提供了一套兼具灵活性与纪律性的创业思维框架。",
-    "best_quote_en": "Incentives are superpowers; set them carefully.",
-    "best_quote_zh": "激励是超能力；要精心设定。"
-  },
-  {
-    "id": 64,
-    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
-    "tags": [
-      "solve",
-      "science",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "The transcript offers a deep dive into behavioral economics, with Thaler and Kokonas unpacking how classic economic models assume rational agents while real-world behavior deviates. They discuss the winner’s curse, temptation bundling, nudges, and practical experiments—coffee‑mug pricing, reservation deposits—that illustrate loss aversion and status‑quo bias. The conversation spans finance (401(k) enrollment), hospitality (Tock), and even road safety (painted lane lines). It highlights the tension between rigorous modeling and messy human psychology, the power of storytelling for teaching, and the ethical boundaries of nudging. The episode delivers actionable insights for entrepreneurs, policymakers, and anyone designing systems that account for bounded rationality.",
-    "summary_zh": "本集对话深入行为经济学，阐释传统模型假设理性主体与现实偏差。通过赢家诅咒、诱惑捆绑、提示实验，展示失控偏差与选择架构如何影响金融、餐饮与交通等领域。讨论理论严谨与人性复杂的张力，强调故事化教学与道德边界。为创业者、决策者提供实用、可操作的系统设计思路。",
-    "best_quote_en": "People don’t actually maximize; they act as if they did.",
-    "best_quote_zh": "人们并不真正最大化；他们只是表现得好像在最大化。"
-  },
-  {
     "id": 65,
     "title": "From Drake losing his UMG lawsuit to HYBE’s new services division… it’s MBW’s weekly round-up",
     "title_zh": "从Drake败诉UMG到HYBE新服务部门… MBW本周综述",
@@ -2362,5 +2242,123 @@
     "summary_zh": "杰克·坎菲尔德在访谈中展示了从贫困到哈佛，再到全球畅销书的完整路径。他用“事件+回应=结果”的公式说明成功源于对事件的主动回应，并通过削减电视时间来创造“十四个月”效应，强调小习惯的累积力量。访谈兼具启发与实操，为创业者、教练及自我提升者提供可落地的思维与行动框架。",
     "best_quote_en": "E + R = O — event plus response equals outcome.",
     "best_quote_zh": "当你还是孩子时，奶奶给你鸡汤，你生病了……人们的精神很病弱。他们陷入绝望、无助和恐惧。"
+  },
+  {
+    "id": 160,
+    "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
+    "title_zh": "女强人还是传统妻子？一位经济学家谈男性主导的职场如何让女性失望",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/money/2025/oct/26/having-it-all-book-women-workforce",
+    "tags": [
+      "solve",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Economist Corinne Low’s new book, Having It All, exposes how a workforce engineered for men leaves women in a relentless “squeeze.” She charts the historical links between divorce law reform, rising female college enrolment, and the undervaluation of home‑production work, arguing that women’s economic agency has been systematically discounted. Low critiques the “Lean In” narrative that urges women to simply fit into male‑designed workplaces, and instead calls for structural policy changes—paid maternity leave, equitable parental leave, and a societal shift that encourages men to share home production. She offers a data‑driven framework for women to map their personal utility functions and make intentional choices, urging a balance that is neither “all‑or‑nothing” nor a return to the past. The book is a timely, actionable critique that blends rigorous economics with practical guidance for navigating gendered labour markets.",
+    "summary_zh": "Corinne Low在新书《Having It All》中揭示了男性主导的职场结构如何让女性处于“挤压”状态，批判“Lean In”理念，强调政策缺口与家庭责任不均，提出女性可依据个人效用函数制定生活路径，并呼吁制度变革与男性角色转变。",
+    "best_quote_en": "You have 24 hours in a day, being the Instagrammable tradwife or being Sheryl Sandberg are two separate full‑time jobs.",
+    "best_quote_zh": "当我们思考女性平均在劳动力之外花费更多时间、与孩子相处更多时，我们会说：‘哦，性别工资差距是因为女性有不同的偏好，这是她们的选择’。"
+  },
+  {
+    "id": 161,
+    "title": "A review of MSUM's AI Innovation Summit: Day One",
+    "title_zh": "MSUM AI创新峰会回顾：第一天",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WBxqbzGEDGaHtZE34/a-review-of-msum-s-ai-innovation-summit-day-one",
+    "tags": [
+      "analyze",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The MSUM AI Innovation Summit offered a microcosm of the current AI‑ecosystem debate: hype versus practical value, the tension between job displacement and new roles, and the need for data‑governance as a prerequisite for responsible adoption. The keynote from Shawn Riley, a venture studio founder, distilled the industry mantra that “if you are not an AI company, you will be out‑competed.” Yet his practical illustration—AI‑generated music and video for cost‑saving campaigns—remained modest, raising questions about the long‑term value of commodified generative media. The panel on ethics was the summit’s most compelling segment; panelists refrained from sensationalizing Skynet, instead focusing on bias mitigation through better data and synthetic augmentation, while acknowledging the limits of regulatory certainty. The event’s structure—business, education, and high‑school tracks—underscored the dual role of academia as both job‑preparation ground and intellectual incubator. For practitioners, the call to “build AI‑use muscles” and appoint AI champions offers a pragmatic roadmap, but the lack of concrete policy guidance signals a broader industry‑policy gap that will shape the next wave of AI governance.",
+    "summary_zh": "MSUM AI创新峰会展示了行业热情与实用价值的碰撞，强调数据治理与伦理风险，呼吁在企业与教育中培养 AI 使用肌肉。",
+    "best_quote_en": "If you are not an AI company, you will be outcompeted.",
+    "best_quote_zh": "AI仍然是个一年级生。"
+  },
+  {
+    "id": 162,
+    "title": "Watch the Trailer for “The New Yorker at 100”",
+    "title_zh": "观看《纽约客》百年纪录片预告片",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "The newly released Netflix documentary, “The New Yorker at 100,” is a cinematic chronicle that traces the evolution of one of America’s most iconic periodicals from a modest humor magazine to a global cultural powerhouse.  With a blend of archival footage, interviews with current and former staff, and celebrity commentators, the film frames the frantic final months leading up to the 100th‑anniversary issue as a dramatic race against time.  It also dives into pivotal moments—such as the publication of John Hersey’s “Hiroshima,” Rachel Carson’s “Silent Spring,” and Truman Capote’s “In Cold Blood”—that reshaped journalism and public opinion.  Narrated by Julianne Moore and directed by Academy‑Award‑winning filmmaker Marshall Curry, the documentary offers a reflective, data‑rich case study of media innovation, editorial ethics, and cultural impact.  For scholars, journalists, and anyone fascinated by the power of long‑form storytelling, the film is both a historical lesson and a call to recognize the ongoing relevance of thoughtful, investigative writing.",
+    "summary_zh": "这部Netflix纪录片《纽约客百年》用档案与访谈交织，生动再现了这份杂志从地方幽默刊物到全球文化巨擘的百年蜕变。影片聚焦百年纪念号的紧张筹备，展现编辑、记者与明星的多维视角，并回顾《原子弹》与《寂静的春天》等里程碑式作品对新闻与公众舆论的深远影响。对媒体史、文化研究乃至创意写作感兴趣的读者而言，它既是一堂历史课，也是一段对当代深度报道价值的呼唤。",
+    "best_quote_en": "The New Yorker had a century to prepare for its hundredth anniversary, and yet the final months before that milestone—this past February—were a scramble.",
+    "best_quote_zh": "《纽约客》有一百年的时间为其百年纪念做准备，然而在那一百年中的最后几个月——今年二月——却是一场混乱的冲刺。"
+  },
+  {
+    "id": 163,
+    "title": "What’s in my NOW? — Devin Porter",
+    "title_zh": "我的当下是什么？——德文·波特",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-devin-porter/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Devin Porter, a former pro‑poker player turned life coach, blends game‑theory intuition with corporate strategy to help clients read patterns and make better moves. He frames decision‑making as a psychological game, citing the mantra “Easy decision, hard life. Hard decision, easy life.” The article showcases his daily rituals—candles, family portraits, stoic reminders, NYT crosswords, coaching podcasts—illustrating how small habits anchor larger life choices. Porter’s approach is both inspirational and actionable: he offers 1:1 coaching, a newsletter, and a free session to dissect the link between play and purpose. The piece invites readers to reflect on how embracing difficult choices today can simplify tomorrow’s life, positioning coaching as a strategic, psychological skill set that transcends poker tables and boardrooms.",
+    "summary_zh": "德文·波特把扑克洞察与企业战略结合，帮助人们读懂模式、做出更佳决策。他用“易决，难生；难决，易生”阐释决策心理，并通过每日仪式（蜡烛、肖像、每日数独、播客）展示小习惯如何塑造大生活。文章既鼓舞人心，又提供可操作的教练资源，让读者明白勇敢选择会让未来更轻松。",
+    "best_quote_en": "\"Easy decision, hard life. Hard decision, easy life.\"",
+    "best_quote_zh": "“易决，难生；难决，易生。”"
+  },
+  {
+    "id": 164,
+    "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
+    "title_zh": "科学与健康：信仰上帝与宗教的益处 | 迪斯托诺博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-and-health-benefits-of-belief-in-god-and-religion-dr-david-desteno",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-08-25",
+    "summary_en": "Dr. David DeSteno’s interview with Huberman Lab bridges the gap between empirical science and the enduring human quest for meaning. He argues that while science cannot prove or disprove God’s existence, it can illuminate the psychological and physiological mechanisms that make religious rituals profoundly beneficial. By examining data from studies on prayer, gratitude, and community participation, DeSteno demonstrates that these practices lower cortisol, enhance empathy, and protect against loneliness—effects that rival or even surpass conventional mental‑health interventions. He also distinguishes healthy faith‑based communities from cults, using case studies of 12‑step programs and modern gatherings like Burning Man. The discussion invites listeners to view faith not as an obstacle to science but as a complementary system that can be studied, refined, and integrated into holistic wellness practices. The episode encourages a nuanced, evidence‑driven approach to spirituality, reminding us that belief can be both a personal sanctuary and a public good.",
+    "summary_zh": "德斯托诺博士在Huberman实验室的访谈将科学与人类对意义的追求相结合，指出宗教仪式通过降低皮质醇、提升同理心、抗孤独等机制，带来显著的心理与生理益处。",
+    "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
+    "best_quote_zh": "祈祷和感恩可以显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
   }
 ]
