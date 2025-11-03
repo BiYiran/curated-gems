@@ -1,119 +1,5 @@
 [
   {
-    "id": 65,
-    "title": "From Drake losing his UMG lawsuit to HYBE’s new services division… it’s MBW’s weekly round-up",
-    "title_zh": "从Drake败诉UMG到HYBE新服务部门… MBW本周综述",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/from-drake-losing-his-umg-lawsuit-to-hybes-new-services-division-its-mbws-weekly-round-up/",
-    "tags": [
-      "update",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "The roundup stitches together a week of music‑industry drama and strategy, highlighting how legal, marketing, and partnership dynamics shape the business today. Drake’s defamation suit against Universal Music Group (UMG) was dismissed, underscoring the legal protection afforded to artistic expression in rap battles and the court’s willingness to distinguish protected opinion from actionable defamation. Meanwhile, UMG quietly launched “House of Carmen,” an influencer‑payment app that monetizes TikTok and Instagram content, signaling a shift toward data‑driven creator marketing. HYBE’s launch of a U.S. services arm, targeting independent artists and labels, illustrates the growing demand for global distribution and marketing infrastructure. The new Spotify–BMG direct publishing deal demonstrates a trend toward multi‑year, direct licensing agreements that aim to deliver higher value to songwriters. Finally, the exit of Warner Music UK’s COO hints at leadership realignments amid deeper U.S.–U.K. integration. Together, these stories reveal a music ecosystem increasingly driven by legal clarity, creator monetization, and strategic partnerships that empower artists and labels alike.",
-    "summary_zh": "本周综述揭示音乐业的法律、营销与合作趋势：Drake诉讼被驳回凸显艺术表达的法定保护；UMG推出“House of Carmen”应用，开启数据驱动的创作者营销；HYBE扩展美国服务部，助力独立艺人；Spotify‑BMG直接授权协议强调对创作者的价值回馈；Warner UK COO离职显示高层调整。整体呈现出音乐生态正向更开放、数据化与合作化发展。",
-    "best_quote_en": "From the outset, this suit was an affront to all artists and their creative expression and never should have seen the light of day.",
-    "best_quote_zh": "我们很高兴法院驳回了此案，并期待继续成功推广Drake的音乐并投资他的事业。"
-  },
-  {
-    "id": 66,
-    "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
-    "title_zh": "我不断寻找帮助：留在乍得沙漠营地的苏丹女性被迫自食其力",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/oct/08/aid-cuts-sudanese-refugees-chad-malnutrition-healthcare",
-    "tags": [
-      "update",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "The Guardian’s field report paints a stark portrait of Sudanese women stranded in Chad’s remote desert camps, where malnutrition, limited water, and a single MSF‑run ambulance create a lethal triangle for pregnant refugees. Through intimate interviews—Makka’s harrowing labor, Ashe’s desperate search for milk, and Azza’s chronic disease—readers grasp how a single vehicle’s hours of delay can turn a uterine rupture into a death sentence. The piece is data‑driven, citing 878,000 refugees, 86 % women, and 824 births in emergency conditions, yet it remains a powerful case study of humanitarian infrastructure failure. The article invites reflection on global aid cuts, the fragility of “aid‑dependent” camps, and the resilience of women who turn scarcity into small economies. It urges policymakers to rethink transport logistics and nutrition programs, while reminding us that behind the statistics are women who have literally “searched and searched for help.”",
-    "summary_zh": "这篇报道揭示了乍得沙漠营地的苏丹女性在极度缺水、营养不良和医疗资源匮乏中的痛苦生存。通过亲身采访，读者看到单一救护车的延误如何导致孕妇致命。文章以数据为支撑，却又突出人性与韧性，提醒人们关注援助体系的薄弱与女性自力更生的故事。",
-    "best_quote_en": "I have searched and searched and searched for help but I cannot even get the medicine I need.",
-    "best_quote_zh": "我一直在寻找帮助，但我甚至得不到所需的药物。"
-  },
-  {
-    "id": 67,
-    "title": "How People Get Rich Now",
-    "title_zh": "如何让人们现在变得富有",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/richnow.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "The article traces the dramatic shift in the sources of wealth among America’s richest from 1982 to 2020, arguing that inheritance has given way to entrepreneurship—especially tech‑driven startups—and that the rise of venture capital and deregulation has made founding a company cheaper and faster. It highlights how oil and real estate dominated the old era, while today’s fortunes stem largely from scalable technology firms that win on product innovation rather than sheer deal‑making. The piece also contextualizes this trend within a broader historical narrative: the 19th‑century industrial boom, the mid‑20th‑century oligopolies, and the late‑20th‑century deregulation that opened the door for a new generation of founders. By examining the cost dynamics of startup creation, the speed of company growth, and the changing balance of power between founders and investors, the author presents a compelling case that wealth creation has become a default, not an exception. This analysis invites readers to rethink the “good old days” and recognize that the current wealth model is a continuation of a long‑standing entrepreneurial tradition, just amplified by technology and lower barriers to entry.",
-    "summary_zh": "文章从1982年到2020年，揭示美国最富有人群财富来源的巨大转变：从继承、油气、房地产转向技术创业。作者指出，科技公司凭借创新而非单纯的交易技巧成为新富翁的主要渠道，风险资本和放松监管降低了创业成本，使创办公司更易、增长更快。文章将这一现象放在19世纪工业浪潮、20世纪中期寡头垄断以及90年代放松管制的历史脉络中，强调财富创造已成为默认路径而非例外。通过剖析创业成本、公司增长速度和创始人与投资者的权力平衡，作者呼吁读者重新审视“好时代”，并看到技术与低门槛如何放大创业传统。\n",
-    "best_quote_en": "The decreasing cost of starting a startup increases the number of rich people in two ways: it means that more people start them, and that those who do can raise money on better terms.",
-    "best_quote_zh": "创业成本的降低以两种方式增加了富人的数量：一是更多人创办公司，二是那些创办公司的人能以更好的条件筹集资金。"
-  },
-  {
-    "id": 68,
-    "title": "The Persistent Pull of Planet Epstein",
-    "title_zh": "埃普斯坦星球的持久吸引力",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "The article dissects the erosion of trust in mainstream media and the rise of a new media ecosystem—“Planet Epstein”—where conspiracy narratives, especially those centered on Jeffrey Epstein, dominate public discourse. By juxtaposing traditional journalism’s foundational principles with the algorithmic amplification of sensational content, the author argues that social‑media platforms now wield greater influence over how Americans consume news than any established outlet. Drawing on recent polls, the piece illustrates a growing appetite for government transparency and a skepticism toward official narratives. It also traces a historical parallel to Father Coughlin’s radio empire, underscoring how technological shifts can rapidly reshape political gravity. The analysis invites readers to question whether the new media’s power has surpassed that of the old guard, suggesting we are closer to that threshold than many realize. Ultimately, it calls for a nuanced understanding of how digital ecosystems shape collective belief systems and the importance of critical media literacy in a fragmented information age.",
-    "summary_zh": "文章剖析主流媒体信任度下降与“埃普斯坦星球”新媒体生态的崛起，指出算法化的社交平台已超越传统媒体影响力。通过民调与历史类比，作者强调公众对政府透明度的渴望与官方叙事的怀疑，并呼吁提升媒体素养，以应对碎片化信息时代的信仰重塑。",
-    "best_quote_en": "If a kind of American consensus is breaking, then the internet has deepened the cracks.",
-    "best_quote_zh": "如果一种美国共识正在瓦解，那么互联网加深了裂痕。"
-  },
-  {
-    "id": 69,
-    "title": "What’s in my NOW? — Colby Black, P.I.",
-    "title_zh": "我的现在里有什么？— Colby Black, P.I.",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-colby-black-p-i/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Colby Black, a self‑described Operational Swiss Army Knife, opens a window into the tangible and intangible tools that shape his day‑to‑day workflow. He blends a mechanical OBD‑II scanner that turns a car’s error codes into a data‑driven diagnostic, a portable 15.6‑inch monitor that extends laptop real‑estate, and a Yeti Rambler that reminds him of the need for reliable hydration. On the digital side he champions Sunsama, a scheduling platform that keeps his personal and professional life in sync, and Cursor, a “vibe coding” editor that feels almost magical. The post closes with a resonant quote about avoiding short‑term greed, echoing a long‑standing personal credo. The piece is less a how‑to guide than a curated “tool kit” that invites readers to experiment, reflect, and adopt actionable habits. It offers practical, cross‑disciplinary insights for anyone seeking to optimize both work and life, making it a useful reference for productivity enthusiasts, tech‑savvy parents, and those curious about how everyday objects can influence mindset and output.",
-    "summary_zh": "Colby Black 用亲身经验分享一系列实用工具，既是个人效率的武器，也是生活方式的调色板。短期贪婪的警句提醒我们长远视角的重要，文章兼具启发与操作性，适合想提升日常生产力的读者。",
-    "best_quote_en": "Never let short term greed get in the way of long term greed.",
-    "best_quote_zh": "不要让短期贪婪阻碍长期贪婪。"
-  },
-  {
     "id": 70,
     "title": "Helion Needs You",
     "title_zh": "Helion 需要你",
@@ -2360,5 +2246,123 @@
     "summary_zh": "德斯托诺博士在Huberman实验室的访谈将科学与人类对意义的追求相结合，指出宗教仪式通过降低皮质醇、提升同理心、抗孤独等机制，带来显著的心理与生理益处。",
     "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
     "best_quote_zh": "祈祷和感恩可以显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
+  },
+  {
+    "id": 165,
+    "title": "UK women in tech: we would like to hear from you",
+    "title_zh": "英国科技女性：我们想听听您的声音",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The Lovelace 2025 report, in partnership with WeAreTechWomen, exposes a staggering churn in the UK’s tech sector: between 40,000 and 60,000 women depart each year, eroding an estimated £2‑3.5 billion in economic output. Only about 20 % of tech workers are women, and the study pinpoints the main culprits—lack of career advancement (25 %), inadequate recognition (17 %), and pay inequity (15 %). The piece is not merely a statistics dump; it’s a clarion call for industry leaders to interrogate the structural barriers that keep talent out of the pipeline. By inviting women to share their stories through a secure form, the Guardian turns data into lived experience, hoping to surface actionable insights that can inform policy, workplace culture, and recruitment practices. The report’s implications ripple beyond gender: it highlights how talent attrition inflates costs, reduces innovation, and perpetuates a talent‑scarcity crisis. For anyone invested in equitable tech ecosystems, the document offers a blend of hard numbers and human narratives, urging stakeholders to move from awareness to concrete change.",
+    "summary_zh": "报告揭示英国科技行业每年失去4万至6万名女性，造成20亿至35亿英镑损失。仅20%的从业者为女性，离职主因是缺乏晋升、认可不足与薪酬不平等。此文不仅呈现数据，更呼吁行业重新审视结构性障碍，将统计转化为可操作的见解，推动政策与文化变革。",
+    "best_quote_en": "\"Between 40,000 and 60,000 women leave the UK’s tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.\"",
+    "best_quote_zh": "\"每年有4万到6万名女性离开英国科技行业，给经济造成约20亿至35亿英镑的损失。\""
+  },
+  {
+    "id": 166,
+    "title": "There's some chance oral herpes is pretty bad for you?",
+    "title_zh": "口腔单纯疱疹可能对你有害吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/fdpGM3tzpnxfqrk8m/there-s-some-chance-oral-herpes-is-pretty-bad-for-you",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Recent discourse on oral herpes has moved beyond the trivial notion of cold sores, probing its insidious long‑term impact on neurological health. The article dissects the biology of HSV‑1 and HSV‑2, highlighting their dormancy in neuronal reservoirs and the potential for viral reactivation to infiltrate the brain. By collating epidemiological data, the author underscores a troubling link between oral herpes and Alzheimer’s, citing antiviral‑treated cohorts that exhibit markedly lower dementia incidence. The narrative balances caution with realism, reminding readers that while HSV‑1 prevalence is high, the absolute risk of severe sequelae remains modest. The piece calls for informed precaution—avoiding shared utensils, limiting casual kissing, and encouraging antiviral use in high‑risk partners—yet resists alarmist rhetoric. It invites further research into immune‑neural interactions and underscores the need for nuanced public health messaging. Ultimately, the article serves as a sobering reminder that chronic viral latency can subtly alter cognitive trajectories, urging clinicians and patients alike to weigh prevention against the backdrop of everyday exposure.",
+    "summary_zh": "本文从病毒学角度探讨口腔单纯疱疹的潜在长期后果，聚焦其在神经元中的潜伏与脑内再激活风险。作者引用流行病学研究，指出口腔单纯疱疹与阿尔茨海默病存在关联，抗病毒治疗可显著降低认知衰退风险。文章兼顾警示与理性，强调虽然HSV‑1普遍，但严重并发症的绝对风险仍低。建议避免共用餐具、限制随意接吻，并鼓励高危伴侣使用抗病毒药物，同时呼吁避免恐慌言论。呼吁进一步研究免疫‑神经相互作用，并强调公共卫生信息需细致平衡。整体提醒慢性病毒潜伏可悄然影响认知轨迹，促临床与公众权衡预防与日常暴露。",
+    "best_quote_en": "Oral herpes can make its way into your brain.",
+    "best_quote_zh": "口腔单纯疱疹可以进入你的大脑。"
+  },
+  {
+    "id": 167,
+    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
+    "title_zh": "Zohran Mamdani竞选市长揭示了在美国作为穆斯林的意义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "Zohran Mamdani’s unexpected lead in the New York City mayoral race forces a reckoning with America’s enduring Islamophobia. The piece weaves the 2008 Obama‑era “Muslim” rumors, the 2015 Trump lie about 9/11, and the current flurry of anti‑Muslim rhetoric into a single narrative that shows how religious identity is weaponised in politics. Mamdani, a 34‑year‑old democratic socialist, has faced attacks that shift from policy critique to insinuations of terrorism and foreign loyalty, echoing the “Ground Zero mosque” scare and the 9/11‑era surveillance of Muslim communities. The article highlights Mamdani’s proactive outreach—visiting 55 mosques, speaking at Friday prayers—to counter the narrative that “being Muslim” is a liability. It also documents the tangible harms: increased hate crimes, denaturalisation threats, and the erosion of trust in law‑enforcement. By grounding the story in FBI statistics, court cases, and personal anecdotes, the piece offers a data‑driven case study that critiques how the media and politicians perpetuate racialised fear while overlooking systemic inequities faced by Muslim Americans.",
+    "summary_zh": "Zohran Mamdani竞选纽约市长的背后，折射出美国长期的伊斯兰恐惧症。文章将2008年奥巴马“穆斯林”阴谋、2015年特朗普9/11谎言与当下的反穆斯林攻击串联，揭示宗教身份被政治武器化。Mamdani以亲民方式走访55座清真寺、主持周五礼拜，试图瓦解“穆斯林即恐怖分子”的刻板印象；同时文中引用FBI数据显示恐怖袭击后仇恨犯罪激增、移民拘留与降国籍威胁，说明制度性不公与媒体偏见交织。通过事实与案例，文章呈现一场关于身份、媒体与权力的深度案例研究。",
+    "best_quote_en": "To be Muslim in New York is to expect indignity.",
+    "best_quote_zh": "在纽约成为穆斯林意味着要预期被侮辱。"
+  },
+  {
+    "id": 168,
+    "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
+    "title_zh": "氛围音乐流/思维技巧指南/Kindle 手腕带",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/ambient-music-streams-thinking-skills-guide-kindle-hand-strap/",
+    "tags": [
+      "guide",
+      "education",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This eclectic post curates a spectrum of practical tools and insights that span cognition, design ethics, AI productivity, and everyday comfort. The first segment spotlights Shane Parrish’s *The Great Mental Models*, offering nine post‑AI thinking frameworks that sharpen problem‑solving and resilience in a data‑rich world. Next, the *Dark Patterns Hall of Shame* exposes manipulative UI tactics, not merely to shame but to educate designers and users, blending case studies with actionable antidotes. The *Perplexity*‑powered Comet Browser demonstrates how conversational AI can automate browsing, from deal comparison to calendar management, hinting at a future where context‑aware assistants become routine. Ambient music streams and a Kindle hand strap showcase low‑tech yet high‑value lifestyle tweaks that reduce friction and enhance focus. Together, the pieces underscore the value of interdisciplinary learning: critical thinking, ethical design, AI fluency, and ergonomic mindfulness converge to empower a more thoughtful, efficient, and humane digital experience.",
+    "summary_zh": "这篇混合帖汇聚了思维模型、暗黑模式、AI 浏览器、氛围音乐与 Kindle 手腕带等实用工具，展示了后 AI 世界里批判性思维、伦理设计与日常效率的交叉点。每个推荐都兼具启发与可操作性，帮助读者在信息爆炸与技术沉浸中保持清晰与舒适。",
+    "best_quote_en": "The Dark Patterns Hall of Shame was created by a team of researchers and designers to raise awareness about manipulative design techniques used by companies and websites.",
+    "best_quote_zh": "《黑暗模式名录》由一支研究员和设计师团队创建，旨在提高人们对公司和网站使用的操纵性设计技巧的认识。"
+  },
+  {
+    "id": 169,
+    "title": "US Digital Currency",
+    "title_zh": "",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/us-digital-currency",
+    "tags": [
+      "solve",
+      "politics",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2018-05-10",
+    "summary_en": "The author argues that a U.S.‑issued digital currency—dubbed USDC—could solve persistent problems of anonymity, taxation, and monetary policy that plague current cryptocurrencies. By treating USDC as a second legal tender and distributing it evenly among citizens, the U.S. could create a new source of wealth while embedding a tax‑collection mechanism directly into the protocol. The piece balances optimism with caution, noting the need for a delicate power split between the government and a largely self‑governed network. It frames the proposal as both a policy win for the nation and a potential catalyst for global financial dominance, urging readers to consider the long‑term governance implications of a state‑backed digital currency. The analysis is forward‑looking, pragmatic, and invites debate about the role of sovereign power in a decentralized economy.",
+    "summary_zh": "作者探讨美国若发行数字货币（USDC），将如何解决匿名性、税收与货币政策等难题，并可能让美国在全球金融体系中占据主导地位。文章从政策、技术与社会三角度出发，提出可行的发行与监管方案，强调政府与去中心化网络的权力平衡。作者认为此举既能为公民创造财富，又能为政府提供税收与货币工具，形成双赢局面。该分析兼具前瞻性与务实性，激发读者对数字货币治理未来的思考。",
+    "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
+    "best_quote_zh": "我认为第一个采取此类行动的超级大国政府将在未来世界中拥有令人羡慕的地位，并对全球货币拥有一定的权力。"
   }
 ]
