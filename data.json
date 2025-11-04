@@ -1,123 +1,5 @@
 [
   {
-    "id": 70,
-    "title": "Helion Needs You",
-    "title_zh": "Helion 需要你",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion-needs-you",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2022-07-13",
-    "summary_en": "Helion Energy’s recent strides—demonstrating Q > 1 fusion by 2024 and outlining a plan for a mass‑producible generator—reveal a bold vision that could reshape the global energy landscape. The company’s ambition to deliver clean, continuous power at one cent per kilowatt‑hour is not just a technical milestone; it’s a socio‑economic paradigm shift that promises to lower energy costs, enable large‑scale carbon capture, and unlock new industries. Yet, the path from laboratory breakthrough to commercial reality hinges on engineering resilience, scalable manufacturing, and policy integration—areas the post highlights as critical bottlenecks. By openly calling for talent across electrical, mechanical, and systems engineering, Helion turns the narrative from “what if” to “what now,” inviting practitioners to tackle real‑world problems. This blend of visionary promise with concrete hiring needs makes the article both a rallying cry and a practical guide for engineers eager to contribute to a future‑focused energy revolution.",
-    "summary_zh": "Helion Energy正朝着2024年实现Q > 1聚变并实现大规模可生产发电机的目标迈进，展示了清洁、持续能源的宏伟蓝图。其将千瓦时成本降至一美分的野心，意味着能源价格将大幅下降，碳捕集将变得可行，乃至整个产业链将被重塑。成功实现这一目标的关键在于可靠的工程设计、可扩展的制造工艺以及与电网和政府的协同。Helion公开招聘电气、机械与系统工程人才，邀请专业人士加入，共同解决从实验室到商业化的技术与管理难题，体现了从“如果”到“现在”的转变。",
-    "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
-    "best_quote_zh": "Helion的进展速度超出我的预期，预计2024年将实现Q > 1聚变，并解决设计大规模可生产发电机所需的所有问题。"
-  },
-  {
-    "id": 71,
-    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
-    "title_zh": "全球健康研究警告：青少年死亡率上升构成‘新兴危机’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "A landmark Global Burden of Disease study has sounded an alarm: youth mortality is rising in a way that threatens to reshape public health priorities. The report highlights that half of worldwide disease burden is preventable if risk factors such as hypertension, air pollution, smoking and obesity are tackled, yet the data reveal a sharp uptick in deaths among teens and young adults. In North America, the surge is driven by suicide and substance misuse, while in sub‑Saharan Africa infectious disease and injury remain dominant. Chronic illnesses—heart disease, diabetes and mental‑health disorders—now account for two‑thirds of ill‑health, underscoring the urgent need for integrated, youth‑centred care. The authors call for swift policy action, stronger health systems, and a shift from siloed interventions to holistic, data‑driven strategies that protect the next generation.",
-    "summary_zh": "全球健康研究揭示青少年死亡率上升为新兴危机，突显心血管、糖尿病、精神健康等慢性病与环境风险的交织。数据表明，若控制高血压、空气污染、吸烟与肥胖，可防止一半疾病负担。研究呼吁政府迅速行动，构建以青年为中心的整合医疗体系，防范社交媒体、经济不平等带来的心理危害。此报告既是警钟，也是行动指南，提醒我们将公共卫生资源与政策聚焦于年轻人，以扭转危机趋势。",
-    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake‑up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
-    "best_quote_zh": "该研究所呈现的证据是一次警钟，敦促政府和医疗领导者迅速而有策略地应对正在重塑公共卫生需求的令人不安的趋势。"
-  },
-  {
-    "id": 72,
-    "title": "Write Simply",
-    "title_zh": "写作简洁",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/simply.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "In \"Write Simply,\" the author champions clarity over ornamentation, arguing that the simplest prose lets ideas leap into readers’ heads without the friction of dense language. He observes that most readers abandon a piece midway unless the text feels effortless, and that the energy saved by avoiding unnecessary adjectives or jargon is redirected toward engaging with the core message. The essay stresses the global reach of plain writing, noting that non‑native English speakers often grasp concepts more readily than the language itself. By cutting away excess, the writer preserves honesty and longevity—texts that endure when cultural and linguistic shifts occur. The author’s own practice—rapid first drafts followed by meticulous editing—illustrates how simplicity emerges from disciplined revision. The piece is both a practical guide and a philosophical stance, reminding writers that elegance should serve understanding, not ego. It invites anyone who wishes to communicate more powerfully to rethink the value of linguistic minimalism.\n",
-    "summary_zh": "作者在《写作简洁》中强调，简洁的文字让思想自然跃入读者脑中，避免繁琐词句的摩擦。文章指出，读者往往在文章中途放弃，除非文本轻松易读；省去多余修饰可以让读者把精力留给核心观点。作者强调，简洁写作对非母语读者更友好，能跨越语言与文化的变化而长久存在。他提到自己的写作流程：快速完成初稿后，反复删改，最终实现简洁。整篇文章既是实用指南，也是哲学思考，提醒写作者应让优雅服务于理解，而非自我炫耀。",
-    "best_quote_en": "The less energy they expend on your prose, the more they'll have left for your ideas.",
-    "best_quote_zh": "他们在阅读你的文章上花费的精力越少，就越能把精力留给你的想法。"
-  },
-  {
-    "id": 73,
-    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
-    "title_zh": "子线性效用在人口与其他不常见功利主义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
-    "tags": [
-      "learn",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This post introduces a novel sub‑linear utility framework for population and other beings, challenging classical utilitarianism’s linear scaling. The author argues that marginal utility rises super‑linearly only up to a certain population threshold, after which additional individuals contribute diminishing returns because the space of valuable experiences becomes saturated. The discussion extends beyond humans to shrimp and post‑human entities, highlighting differing marginal values due to cognitive capacity. By examining simulation duplications, the author shows that value derives from novel observability rather than mere existence, arguing that identical simulations add no extra moral weight unless they reach distinct observers. The piece blends philosophical speculation with informal mathematical modeling, offering a thought experiment that invites readers to reconsider how we count lives and assign value. Its implications touch on effective altruism, policy prioritization, and the ethical treatment of non‑human life, prompting readers to rethink the shape of the utility function in a multi‑species world.",
-    "summary_zh": "作者提出子线性效用模型，认为人口效用在一定规模后递减，强调观测而非单纯存在的价值。文章探讨复制模拟的道德重量，延伸至虾与后人类，挑战传统功利主义与有效利他主义的线性假设，促使读者重新审视多物种价值评估。",
-    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
-    "best_quote_zh": "价值在于观察，而不是创造。"
-  },
-  {
-    "id": 74,
-    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
-    "title_zh": "最爱的T恤/设计灵感/如何变得更聪慧",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "The post is a mosaic of personal curation, spanning fashion, design, introspection, tech, spirituality, and digital art. It begins with a practical endorsement of a lightweight, breathable T‑shirt brand, immediately offering a tangible, actionable recommendation for readers seeking comfort and style. The next segment pivots to a historical design resource—an illustrated compendium of traditional Japanese packaging—highlighting how everyday objects can inspire contemporary product thinking. The author then shares a curated set of 25 reflective questions that serve as a low‑cost, self‑guided practice for developing wisdom, compassion, and self‑awareness, underscoring the power of introspection without professional mediation. A quick‑reference speed test tool (Fast.com) is presented as a no‑frills diagnostic for digital connectivity, while an offline church website is celebrated as a mindful, airplane‑mode sanctuary for digital detox. Finally, the article spotlights three digital artists whose motion‑based work straddles the line between animation and video, offering a glimpse into generative art that is not AI‑driven. The piece invites readers to adopt a holistic, curiosity‑driven lifestyle: mindful consumption, design thinking, self‑reflection, and digital wellness. It demonstrates that a single blog post can weave together disparate threads into a coherent narrative of intentional living, and it encourages experimentation across multiple domains to enrich everyday experience.",
-    "summary_zh": "这篇文章像一幅生活拼贴，涵盖时尚、设计、内省、科技与艺术。作者先推荐轻薄舒适的T恤，随后引入日本传统包装的设计书，启发产品思维；随后提供25条自我反思问题，倡导无需专业辅导即可自我成长；又分享快网速测试与离线教堂网站，强调数字断舍与正念；最后点出三位数字艺术家的动态创作，展示非AI生成的艺术魅力。整体呈现一种多元、好奇、意图驱动的生活方式，鼓励读者在消费、设计、心理与数字健康之间寻找平衡。",
-    "best_quote_en": "Introspection is my favorite tool for cultivating self‑awareness and emotional regulation, and you don’t need a therapist or coach to develop your own practice—just a good set of questions.",
-    "best_quote_zh": "自省是我培养自我意识和情绪调节的最爱工具，你不需要治疗师或教练来发展自己的实践——只需要一套好的问题。"
-  },
-  {
     "id": 75,
     "title": "Essentials: Time Perception, Memory & Focus",
     "title_zh": "必备知识：时间感知、记忆与专注",
@@ -2364,5 +2246,123 @@
     "summary_zh": "作者探讨美国若发行数字货币（USDC），将如何解决匿名性、税收与货币政策等难题，并可能让美国在全球金融体系中占据主导地位。文章从政策、技术与社会三角度出发，提出可行的发行与监管方案，强调政府与去中心化网络的权力平衡。作者认为此举既能为公民创造财富，又能为政府提供税收与货币工具，形成双赢局面。该分析兼具前瞻性与务实性，激发读者对数字货币治理未来的思考。",
     "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
     "best_quote_zh": "我认为第一个采取此类行动的超级大国政府将在未来世界中拥有令人羡慕的地位，并对全球货币拥有一定的权力。"
+  },
+  {
+    "id": 170,
+    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
+    "title_zh": "《卫报》视角：产科医疗过失赔偿激增，凸显产科改进的迫切性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
+    "tags": [
+      "update",
+      "medicine",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The Guardian’s opinion piece turns a statistical spike in NHS liability payouts into a stark indictment of systemic failures in maternity care. It traces the quadrupling of obstetric negligence claims to the lifetime‑care costs borne by severely injured infants, underscoring how financial figures mask the human toll. The article juxtaposes alarming data—rising severe vaginal tears, maternal mortality, and readmissions—with the chronic under‑recognition of birth trauma, revealing a culture that has historically treated poor care as “normal.” It critiques the long‑standing cycle of recommendations that have yet to translate into measurable outcomes, citing weak leadership, inadequate staffing, and a lack of learning from past scandals such as Morecambe Bay. The piece urges a shift from piecemeal fixes to a comprehensive, data‑driven overhaul, insisting that the government’s “litmus test” for maternity standards must move beyond rhetoric. The analysis invites readers to question whether current reforms will break the pattern or merely add another layer of bureaucracy, while highlighting the urgent need for actionable, expert‑led change.",
+    "summary_zh": "文章用激增的赔偿金警示产科系统性失误，批评“差劲护理被容忍为正常”，指出数据与文化交织的痛点，呼吁政府从制度化、数据驱动的角度彻底改革。",
+    "best_quote_en": "“Poor care is all‑too‑frequently tolerated as normal, and women are treated as an inconvenience.”",
+    "best_quote_zh": "差劲的护理被过度容忍为正常，女性被视为不便。"
+  },
+  {
+    "id": 171,
+    "title": "Haters",
+    "title_zh": "Haters",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The piece reframes fame’s polarities by equating haters with fanboys whose allegiance has simply flipped. It argues that both groups are obsessive, uncritical, and derive identity from the celebrity, but one idolises while the other demonises. The author identifies a recurring pattern: haters tend to be “losers” or those with frustrated talent, never achieving notable success, whereas those who succeed rarely become haters. This psychological framing offers a practical strategy—ignore the haters rather than engage, treating them like any obsessive fan. The article blends humor with a candid self‑reflection on the author’s own experience, providing a useful, data‑driven lens on social dynamics in the age of instant visibility. It invites readers, especially founders and public figures, to re‑evaluate the cost of fame and the inevitability of negative attention, while offering a concise, actionable rule of thumb for coping. The underlying insight—that hate is a mirror image of adoration—provides a fresh, almost counterintuitive perspective on human behaviour and public perception.",
+    "summary_zh": "作者把恨者视为把符号翻转的粉丝，揭示两者都是痴迷、无批判的身份认同者，只是立场相反。通过观察，发现恨者往往是失意者或才华受挫者，成功者很少成为恨者。文章提出的应对策略是忽视恨者，像对待痴迷粉丝一样不理会，从而降低负面情绪的干扰。此观点既具心理学洞察，又提供可操作的实用建议，帮助公众人物重新审视名声带来的正负两面，并给出简明的对策。",
+    "best_quote_en": "Haters are just fanboys with the sign switched.",
+    "best_quote_zh": "恨者只不过是把符号翻转的粉丝。"
+  },
+  {
+    "id": 172,
+    "title": "US Govt Whistleblower Guide",
+    "title_zh": "美国政府内部人士泄密指南",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/sbn7cdkpqhmFng5xS/us-govt-whistleblower-guide",
+    "tags": [
+      "guide",
+      "politics",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The guide presents a stark, pragmatic roadmap for potential whistleblowers, intertwining legal strategy, operational security, and psychological preparation. It underscores that leaking classified data is not a solitary act of bravery but a calculated risk that often culminates in imprisonment or exile. By advocating a two‑step approach—public disclosure in the U.S. for non‑classified summaries, and flight to Russia for classified leaks—the author acknowledges the brutal reality of U.S. surveillance infrastructures that log every file transfer. The advice is deeply actionable: use TAILS for air‑gapped work, redact with GIMP, avoid mobile devices, and secure documents with PGP before reaching journalists. Yet the tone is cautionary; it warns that even “advanced” op‑sec can only buy time, not immunity. The guide’s value lies in its candid, data‑driven assessment of outcomes—most leaks spark public debate but rarely force swift policy shifts—while offering a sobering perspective on the personal costs of whistleblowing.",
+    "summary_zh": "这份指南以极具实用性的方式描绘了泄密者的风险与路径。作者强调，泄密不仅是勇气，更是对美国监控体系的精准对抗。它建议在美国公开非机密信息，若涉及机密则逃往俄罗斯寻求庇护。指南详述了从使用TAILS、GIMP裁剪文件到PGP加密、与记者接触的每一步操作。作者也提醒，即便采用最先进的安全措施，也只能延缓被捕而非完全免除风险。更重要的是，它以数据驱动的视角告诉读者：多数泄密事件虽然能点燃公众讨论，却难以立即促成政策变革。对那些渴望揭露真相的人而言，这份指南既是行动手册，也是对个人代价的深思。",
+    "best_quote_en": "Most leaks did not by themselves lead to significant political change.",
+    "best_quote_zh": "多数泄密事件并未直接导致重大的政治变革。"
+  },
+  {
+    "id": 173,
+    "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
+    "title_zh": "乔伊亚姆·特里尔让奥斯陆成为电影地图",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/11/10/joachim-trier-profile",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Joachim Trier’s new feature, Sentimental Value, is more than a love letter to Oslo; it’s a masterclass in how place can become an active character, mirroring the director’s own intimate, almost therapeutic rapport with his actors. By inviting performers to make “mistakes” and encouraging a “tender” style, Trier blurs the line between rehearsal and real life, turning the set into a safe space where raw emotions surface naturally. The film’s use of the historic dragestil house—an architectural fairy‑tale—underscores the thematic interplay of memory, grief, and identity, while the narrative’s intergenerational arcs expose the quiet despair that can lurk beneath a society’s polished veneer. Trier’s method reveals a new model for indie filmmaking: low‑budget, high‑risk authenticity that relies on deep human connection rather than slick production values. For scholars, industry‑practitioners, and cinephiles, the article offers actionable insights into character‑driven storytelling, the power of place, and the therapeutic potential of collaborative filmmaking.\n",
+    "summary_zh": "特里尔用奥斯陆的历史与情感编织电影《Sentimental Value》，让城市成为活生生的角色。导演鼓励演员犯错，营造安全空间，让真实情绪自然流露。影片通过童话般的dragestil房屋，映射记忆、悲痛与身份交织，揭示表面光鲜背后的隐秘绝望。此作展示低成本高真实性的独立电影新模式，强调人与人深度互动，而非华丽技术。对电影学者、制片人和影迷而言，提供可操作的叙事技巧、地点力量及合作创作的治疗潜能。\n",
+    "best_quote_en": "People work better that way—at least, the people I want to work with.",
+    "best_quote_zh": "人们在那种方式下工作更好——至少，我想和他们一起工作。"
+  },
+  {
+    "id": 174,
+    "title": "Podcast Magic/Snap-on phone charger/OpenWebcam Database",
+    "title_zh": "播客魔法/磁吸手机充电器/OpenWebcam 数据库",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/podcast-magic-snap-on-phone-charger-openwebcam-database/",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "The post curates a handful of niche tech hacks that blend convenience, privacy, and design. Podcast Magic turns a fleeting audio cue into a searchable text snippet with a single voice command—no app, no subscription, just a one‑time fee. The Anker 621 MagGo magnetic charger eliminates cable clutter for on‑the‑go travelers, proving that form can be as functional as power. OpenWebcam Database offers a living atlas of 2,000+ cameras worldwide, letting users pause work and glimpse global scenery in real time. A Netflix drama, “Adolescence,” demonstrates how a zero‑cut, four‑hour performance can deliver visceral storytelling, while Scriber Pro shows how local, subscription‑free transcription can coexist with privacy. Finally, Curated Supply’s newsletter reminds readers that thoughtful design can replace disposable trends. Together, these snippets illustrate a broader shift toward user‑centric, privacy‑first tools that empower everyday exploration without sacrificing style or security.",
+    "summary_zh": "这篇文章汇集了几款实用且隐私友好的技术小工具：播客魔法让你一句话即可把听到的内容转成文本；磁吸充电器消除了携带线缆的麻烦；OpenWebcam 数据库提供全球 2,000+ 实时摄像头；Scriber Pro 本地化转录保护隐私；Netflix 的无剪辑剧集则展示了极致沉浸式叙事。它们共同体现了以用户为中心、隐私至上的技术趋势，既方便又不失设计感。",
+    "best_quote_en": "It processes everything locally on my Mac.",
+    "best_quote_zh": "这款磁吸充电器让我不再手忙脚乱"
   }
 ]
