@@ -1,121 +1,5 @@
 [
   {
-    "id": 75,
-    "title": "Essentials: Time Perception, Memory & Focus",
-    "title_zh": "必备知识：时间感知、记忆与专注",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "In this episode of Huberman Lab Essentials, Andrew Huberman dissects the biology of time perception, revealing how circadian and circannual rhythms, light exposure, and neurochemistry shape our subjective sense of time. He explains the entrainment of melatonin and other hormonal cascades that regulate energy, mood, and motivation across seasons, and shows how strategic scheduling of work intervals, exercise, and light can sharpen focus and productivity. The talk delves into dopamine, norepinephrine, and serotonin’s role in modulating temporal awareness, and how novelty, emotion, and routine distort our memory of past, present, and future. Huberman also addresses trauma’s impact on perceived time dilation and offers practical tools—such as structuring functional units and aligning sleep—to counter “over‑clocking.” The episode blends rigorous neuroscience with actionable lifestyle hacks, making it a valuable resource for anyone seeking to master the internal clock that governs cognition and behavior. Its implications stretch from personal time management to clinical interventions for mood disorders, underscoring the intertwined nature of biology and daily experience.",
-    "summary_zh": "Huberman在此节目中深入探讨时间感知的生物学基础，阐明昼夜节律、季节性光照与神经递质如何共同塑造我们的时间体验。他揭示了褪黑激素等激素的节律同步机制，并提供通过光照、运动与工作间隔来提升专注与生产力的实用方法。节目还讨论多巴胺、去甲肾上腺素与血清素在时间感知中的作用，以及新奇、情绪与日常习惯如何扭曲对过去与未来的记忆。针对创伤导致的时间膨胀，他给出结构化功能单元与睡眠同步的干预策略。内容兼具科学严谨与可操作性，为时间管理与情绪调节提供了全新视角。",
-    "best_quote_en": "Neurotransmitters like dopamine and serotonin influence our perception of time and how factors such as novelty, emotion and routine impact how we experience and recall time.",
-    "best_quote_zh": "多巴胺和血清素等神经递质影响我们对时间的感知，而新奇、情绪和日常惯例等因素则会影响我们如何体验和回忆时间。"
-  },
-  {
-    "id": 76,
-    "title": "Orthodoxy and women in the Anglican church | Letters",
-    "title_zh": "正统派与英格兰教会中的女性 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
-    "tags": [
-      "learn",
-      "education",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "The piece invites readers to reconsider the often mischaracterised stance of Anglican orthodoxy on women’s ordination. Rather than a blanket misogyny, the article argues, traditionalists are guided by a theological conviction that ministry is a representative act before God, not a meritocratic selection. It cautions against conflating doctrinal difference with bigotry, warning that the Church’s recent crises stem more from intolerance than from theological error. The author proposes that Archbishop Sarah Mullally’s tenure could model a gracious, theologically literate unity—showing that conviction and courtesy can coexist in public faith. By framing the debate as an intellectual, moral struggle rather than a cultural war, the article offers a pathway to renewal, appealing to younger generations who seek depth and seriousness in religion. The narrative underscores the importance of protecting conscience, encouraging open disagreement, and presenting faith as a living dialogue rather than a fixed dogma.",
-    "summary_zh": "文章呼吁重新审视英格兰教会传统主义者对女性任职的偏见。它指出，传统主义者并非出于偏见，而是基于神学信念：事工在神面前是代表性，而非能力问题。作者警示，教会近期危机的根源在于对信仰差异的排斥，而非神学错误。通过强调理性与礼貌共存，文章提出新任坎特伯雷大主教可成为统一示范，激发年轻人对宗教深度与严肃性的追求。",
-    "best_quote_en": "The traditionalists are not motivated by prejudice but by theological conviction, namely that ministry is representative before God, not a question of aptitude or value.",
-    "best_quote_zh": "传统主义者并非出于偏见，而是基于神学信念，即事工在神面前是代表性，而非能力或价值的问题。"
-  },
-  {
-    "id": 77,
-    "title": "Donate Unrestricted",
-    "title_zh": "无条件捐赠",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/donate.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "The piece re‑examines a long‑standing norm in the nonprofit sector: the practice of restricted donations. It argues that, in most cases, donors are the ones who mis‑allocate resources when they impose constraints, because nonprofits usually have a clearer sense of where money will do the most good. The author highlights two rare exceptions—umbrella organizations and truly domain‑expert donors such as the Gates Foundation—where restriction can be justified. The article then probes why donors persist in restricting gifts, noting motives ranging from personal branding to regulatory compliance. It ultimately offers a straightforward prescription: give unrestricted, trust the organization’s expertise, and recognize that publicity often favors the former. While the argument is compelling and action‑oriented, it risks oversimplifying complex donor‑nonprofit dynamics and underestimating the legitimate strategic uses of earmarked funds. Nevertheless, it provides a useful, thought‑provoking framework for anyone looking to maximize the impact of charitable giving.",
-    "summary_zh": "作者挑战传统捐赠模式，指出限制性捐赠往往导致资源错配，非营利组织更懂如何使用资金。文章指出两种例外情况——umbrella机构和真正的领域专家——可以合理限制。作者深入探讨捐赠者为何坚持限制，涉及品牌、合规等动机，最终提出核心建议：无条件捐赠，信任机构专业判断。此观点虽有启发，但也可能低估了受限捐赠的正当性。对慈善事业者而言，是一次值得深思的行动指南。",
-    "best_quote_en": "If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.",
-    "best_quote_zh": "如果非营利组织不比捐赠者更了解资金的最佳用途，那么它就是无能的，你根本不应该捐赠给它。"
-  },
-  {
-    "id": 78,
-    "title": "Discrete Generative Models",
-    "title_zh": "离散生成模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/frCmecCpHx2aAtALT/discrete-generative-models",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "Discrete Generative Models explores the limitations of conventional autoregressive and continuous diffusion approaches when tackling inherently discrete image features. By framing generation as a minimal‑information reconstruction problem, the paper critiques next‑token prediction for images and proposes discrete distribution networks that iteratively refine outputs via a fractal‑like training loop. The method balances a deterministic mapping to a known distribution with stochastic error corrections, drawing on normalizing flow theory and Hutchinson estimators while addressing the “dead” output issue through probabilistic selection and an adaptive temperature schedule. The work offers a novel perspective on discrete latent spaces, highlighting the trade‑off between continuity and discrete fidelity, and presents a potentially scalable, data‑driven framework that could inform future GAN‑style or diffusion‑style architectures. The analysis invites further experiments on higher‑resolution data and a formal convergence study, underscoring both the promise and the open challenges of discrete generative modeling.",
-    "summary_zh": "本文从最小信息重建的视角审视传统自回归与连续扩散模型在处理离散图像特征时的局限性，提出离散分布网络。通过分层迭代与分形训练，模型在保持可逆映射的同时引入随机误差校正，借鉴正则化流与Hutchinson估计，解决“死亡”输出问题。作者引入概率采样与自适应温度调度，兼顾连续性与离散精度，为未来GAN或扩散架构提供可扩展、数据驱动的思路。该研究激发了对高分辨率数据与收敛性理论的进一步探索，既展示潜力亦揭示挑战。",
-    "best_quote_en": "This motivates a need for discrete distribution networks.",
-    "best_quote_zh": "这促使我们需要离散分布网络。"
-  },
-  {
-    "id": 79,
-    "title": "DALL•E 2",
-    "title_zh": "DALL•E 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "OpenAI’s DALL•E 2 marks a watershed moment in AI‑driven creativity, demonstrating how natural‑language prompts can generate complex, coherent images with minimal user effort. The post frames the tool not merely as a novelty but as a harbinger of a broader interface paradigm: conversational commands that translate directly into actionable outputs across domains—from code to art. By highlighting DALL•E 2’s conceptual grasp and its capacity to produce complete works, the author probes the impending shift in labor markets, where routine creative tasks may be automated while new roles emerge around curation, ethical oversight, and hybrid human‑AI collaboration. The discussion also cautions that the model’s power invites misuse, underscoring the necessity of incremental deployment and community governance. Ultimately, the piece invites readers to rethink the limits of human imagination, suggesting that the true constraint will be ideas rather than technical skill. This analysis encourages a balanced view: celebrating AI’s creative potential while remaining vigilant about its societal impacts.",
-    "summary_zh": "OpenAI 推出的 DALL•E 2 通过自然语言提示生成复杂图像，开启了人与机器对话式创作的新纪元。作者将其视为未来接口趋势的典型案例，指出从代码到艺术的多领域应用将因自然语言驱动而大幅提升。文章深度探讨了此技术对劳动力市场的冲击，既可能自动化常规创意工作，又能催生审美策划、伦理监管等新岗位。作者警示其强大功能易被滥用，强调渐进式部署与社区协作的重要性。最终，文中呼吁人们把焦点放在想法的边界，而非技术限制，提醒我们在拥抱 AI 创意潜能的同时，需审慎评估其社会影响。",
-    "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
-    "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的又一个例子：你用自然语言或上下文提示说出你想要的，计算机就会去做。"
-  },
-  {
     "id": 80,
     "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
     "title_zh": "保护与提升听力与大脑健康 | 康斯坦丁娜·斯坦科维奇博士",
@@ -2364,5 +2248,123 @@
     "summary_zh": "这篇文章汇集了几款实用且隐私友好的技术小工具：播客魔法让你一句话即可把听到的内容转成文本；磁吸充电器消除了携带线缆的麻烦；OpenWebcam 数据库提供全球 2,000+ 实时摄像头；Scriber Pro 本地化转录保护隐私；Netflix 的无剪辑剧集则展示了极致沉浸式叙事。它们共同体现了以用户为中心、隐私至上的技术趋势，既方便又不失设计感。",
     "best_quote_en": "It processes everything locally on my Mac.",
     "best_quote_zh": "这款磁吸充电器让我不再手忙脚乱"
+  },
+  {
+    "id": 175,
+    "title": "The Two Kinds of Moderate",
+    "title_zh": "两种温和派",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mod.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The essay dissects the notion of political moderation into two distinct modes—intentional and accidental—highlighting how each shapes belief formation and social positioning. Intentional moderates deliberately occupy a midpoint, their views tracking the median of ideological extremes, whereas accidental moderates arrive there by independently weighing each issue, resulting in a scattered but centrist average. The author argues that intentional moderation is, paradoxically, a form of ideological conformity, shifting with the dominant narrative, while accidental moderation demands the most courage: standing alone amid both camps without the safety net of a large group. The piece links this distinction to intellectual independence, suggesting that the most impressive thinkers are accidental moderates, unbound by doctrinaire politics. It critiques the label of “coward” often applied to moderates and invites readers to reassess the value of independent thought in a polarized world.",
+    "summary_zh": "作者把政治温和派分为有意与无意两类，指出有意温和派随主流潮流漂移，而无意温和派凭独立思考走中间。文章强调独立思考的价值，认为最杰出的人往往是无意温和派，并批评对温和派的“懦弱”标签。",
+    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
+    "best_quote_zh": "我认识的大多数最出色的人都是偶然的温和派。"
+  },
+  {
+    "id": 176,
+    "title": "A Guide To Being Persuasive About AI Dangers",
+    "title_zh": "关于AI危险的说服指南",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/QoMwFosibKffC4vxA/a-guide-to-being-persuasive-about-ai-dangers",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "By weaving together three core practices—empathetic listening, uncompromising honesty, and deep technical literacy—this guide offers a pragmatic playbook for persuading skeptics about AI’s existential risks. The author first stresses the importance of “circling,” a meditative technique that trains speakers to map interlocutors’ world models and uncover hidden assumptions. Next, he warns against corporate jargon and hedging, insisting that truth, even when uncomfortable, is the most persuasive weapon. Finally, he urges readers to immerse themselves in foundational AI alignment literature and security thinking, so they can answer counterarguments with precision. The step‑by‑step framework—identify gaps, listen attentively, and tailor explanations—transforms abstract dread into concrete, relatable facts. The piece balances philosophical depth with actionable dialogue tactics, making it useful for policy makers, researchers, and anyone who wants to make the case for responsible AI. Its blend of introspection, evidence‑based argumentation, and conversational skill sets it apart as a valuable resource for risk communication.",
+    "summary_zh": "本文从人际洞察、诚实表达和深度理解三维度剖析如何说服他人关注AI风险。作者强调先观察对方世界模型，随后以事实为根基、直面真相，再用通俗易懂的逻辑填补认知空白。通过循序渐进的对话技巧，读者可在一对一场景中提升说服力，既保持真实性，又避免信息过载。文章兼具理论与实践，适合政策制定者、技术传播者和普通公众，是提升AI风险沟通素养的实用指南。",
+    "best_quote_en": "Be honest. Don’t do corporate-speak and don’t hedge. Always be honest about why you believe in it.",
+    "best_quote_zh": "诚实是我们的优势"
+  },
+  {
+    "id": 177,
+    "title": "Free Press / Building Stories",
+    "title_zh": "Free Press / Building Stories",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "update",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The article juxtaposes two seemingly disparate works—Jean‑François Bizot’s pictorial chronicle of the 1960s underground press and Chris Ware’s meticulously curated graphic‑novel anthology—to illuminate how form and content can subvert cultural narratives. Bizot’s volume is more than a photographic archive; it is a design laboratory that captures the anarchic spirit of a generation that challenged drug policy, gender norms, and authoritarianism. The photographs reveal a spectrum from amateurish, garish layouts to moments of visual brilliance, offering designers a rare window into the evolution of activist aesthetics. In contrast, Ware’s *Building Stories* reframes the comic medium as a sophisticated narrative architecture, with 14 stories packaged in varied formats that invite readers to assemble their own story paths. The book’s layout experiments—from spiraling panels to modular game‑board strips—demonstrate how physical form can mirror psychological themes such as alienation and routine. Together, the pieces underscore that design is not merely decorative; it is a vehicle for social critique, emotional resonance, and reader agency. The article invites practitioners to study these works as case studies that challenge conventional publishing paradigms and inspire creative, problem‑solving approaches.",
+    "summary_zh": "文章通过对1960年代地下报纸的图像史与Chris Ware的精心策划的图像小说合集进行对比，揭示形式与内容如何颠覆文化叙事。Bizot的作品是活力与设计实验的实验室；Ware的《Building Stories》则把漫画变成叙事建筑，布局实验让读者自行拼装故事路径。两者共同强调设计既是社会批判与情感共鸣的媒介，也是读者主动性的体现。",
+    "best_quote_en": "\"Almost every page of this book has a full‑color photo of a cover or interior page from dozens of well‑known and obscure newspapers from the era. Though much of the design is amateurish and ugly, there are examples of brilliance, too, making this a worthy reference for designers.\"",
+    "best_quote_zh": "“本书几乎每一页都展示了几十份知名与不知名报纸的全彩封面或内部页面。虽然大部分设计粗糙、丑陋，却也有闪光点，值得设计师参考。”"
+  },
+  {
+    "id": 178,
+    "title": "Productivity",
+    "title_zh": "生产力",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/productivity",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2018-04-10",
+    "summary_en": "The article is a pragmatic, almost diary‑style guide that blends behavioral science, systems thinking, and personal experimentation to outline a holistic productivity framework. It starts with the powerful idea of compound growth—small daily gains multiplied over decades—and argues that the real lever is choosing the right problems, not the speed of execution. The author emphasizes independent thought, conviction, and strategic delegation, arguing that people work best when they are passionate about the task. He then details a concrete prioritization system based on three pillars: finish important work, avoid trivial tasks, and maintain lists. The piece also explores the often‑overlooked physical factors—sleep, light, exercise, nutrition—that can double productivity, and warns against “productivity porn.” The tone is reflective yet actionable, inviting readers to experiment with sleep trackers, cold exposure, or low‑dose sleep aids. Overall, it offers a blend of theory, personal anecdotes, and practical tools that can help anyone re‑engineer their work habits for long‑term growth.\n",
+    "summary_zh": "作者用亲身实验和行为科学，阐述了复合成长与目标选择的重要性，强调在有激情的任务中工作，列举了优先级三大支柱和可操作的清单方法。随后深入探讨睡眠、光照、运动、营养等身体因素，指出它们能提升两倍生产力。文章既有理论深度，又提供可落地的工具和实验思路，鼓励读者在日常中尝试睡眠追踪、冷暴露或低剂量助眠，真正实现长期成长。",
+    "best_quote_en": "If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.",
+    "best_quote_zh": "如果你每天比别人多完成10%，并且每次提升1%，复合差异将是巨大的。"
+  },
+  {
+    "id": 179,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "利用现有药物以新方式治疗与治愈脑部与身体疾病 | Dr. David Fajgenbaum",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "In this episode, Dr. David Fajgenbaum reveals the astonishing power of drug repurposing—an FDA‑approved medication that once saved his own life from Castleman’s disease becomes a beacon for untreatable cancers and rare disorders. He explains how many drugs, long pigeonholed into narrow indications, can be re‑imagined to target entirely new pathologies, turning a clinical “dead‑end” into a therapeutic breakthrough. The conversation goes beyond theory, offering concrete tools: how to sift through credible medical databases, engage with patient‑advocacy groups, and leverage AI‑driven disease mapping. Fajgenbaum’s narrative underscores a simple yet profound truth: the mindset of self‑agency and relentless curiosity can unlock cures that the mainstream system has overlooked. For clinicians, patients, and curious listeners alike, the episode is a call to action—explore, question, and harness existing drugs for a healthier future.",
+    "summary_zh": "在这期节目中，David Fajgenbaum 分享了药物再利用的奇迹——一剂原本用于其他疾病的药物竟能拯救他免于 Castleman 病的死亡。他强调，医学界常忽视的“旧药新用”不仅为罕见病提供了治愈可能，也为癌症等难治疾病打开了新思路。节目深入探讨了寻找可靠健康信息、与疾病组织合作、以及利用数据库映射疾病关联的实用工具。更重要的是，他呼吁患者与医生保持主动心态，敢于探索未知，才能在医学进步的浪潮中抓住机会。",
+    "best_quote_en": "Many approved medications can successfully treat or even cure diseases other than the ones they are typically used to treat.",
+    "best_quote_zh": "许多已批准的药物可以成功治疗甚至治愈它们通常不用于治疗的疾病。"
   }
 ]
