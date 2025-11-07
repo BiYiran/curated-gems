@@ -1,99 +1,5 @@
 [
   {
-    "id": 85,
-    "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
-    "title_zh": "要点：如何通过锻炼提升力量和激素优化 | 迪肯·弗朗西斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-exercise-strength-gains-hormone-optimization-duncan-french",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "Huberman Lab’s Essentials episode with Dr. Duncan French distills cutting‑edge research on resistance training, hormonal adaptation, and recovery modalities into a practical playbook for athletes and fitness enthusiasts. Dr. French, a performance scientist at the UFC Performance Institute, explains how acute stress and progressive overload drive testosterone spikes that fuel strength and hypertrophy. He introduces the “6 × 10” protocol—six sets of ten reps at near‑maximal intensity—as a time‑efficient, high‑intensity stimulus that reliably elevates anabolic hormones. Beyond lifts, the discussion covers the synergistic roles of cold and heat exposure, positioning deliberate cold‑periodization and sauna sessions as tools for metabolic flexibility, immune resilience, and faster recovery. Nutrition is framed not just as fuel but as a periodized partner: carbohydrate timing, exogenous ketones, and macronutrient cycling are mapped to training phases to maximize mitochondrial efficiency. The episode’s strength lies in its evidence‑based synthesis, actionable frameworks, and emphasis on individualized programming. It invites listeners to move beyond generic “workout” advice and adopt a science‑driven, holistic approach to performance, underscoring that hormones, temperature, and diet are interdependent levers for optimal gains.",
-    "summary_zh": "Huberman实验室的这期节目邀请了UFC表现院的博士弗朗西斯，他用实证研究拆解了阻力训练、激素调节与恢复技巧。通过“6×10”高强度方案，短期压力可显著提升睾酮，驱动力量与肌肥大。节目进一步将冷暴露与热适应定位为加速代谢灵活性与恢复的手段，并将营养周期化与训练阶段匹配，强调碳水化合物时机、酮类补充与宏量营养素循环对线粒体效率的影响。整体内容将科学与实操相结合，为运动员与健身爱好者提供可落地的、个性化的训练与恢复策略。",
-    "best_quote_en": "The 6 × 10 protocol is a simple, high‑intensity tool that spikes testosterone and drives hypertrophy.",
-    "best_quote_zh": "通过短期压力提高睾酮水平，提升力量表现"
-  },
-  {
-    "id": 86,
-    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
-    "title_zh": "另一篇关于凯拉·奈特利电影《10号舱的女人》的《卫报》链接 | 简短信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This brief letter piece intertwines a personal recollection with a broader cultural commentary, centering on the legacy of Guardian journalist Norman Shrapnel and his grandson Joe’s co‑script for the film *The Woman in Cabin 10*. It reveals how Shrapnel’s “ironic edge and sharp eye for social detail” shaped an entire generation of Guardian writers, positioning the film as a conduit for intergenerational storytelling. The article serves both as a homage and a subtle critique of how media heritage is repurposed in contemporary cinema. By juxtaposing the Guardian’s editorial lineage with a commercial movie, it invites readers to reflect on the transformation of journalistic voice into narrative form. The piece is rich in anecdotal texture, offering a micro‑case study of legacy, authenticity, and the commodification of cultural capital. It challenges the audience to consider whether the film preserves the spirit of Shrapnel’s prose or merely leverages it for box‑office appeal. Overall, the article is a thought‑provoking exploration of how personal history informs public art, and it underscores the enduring influence of media pioneers in shaping modern storytelling.",
-    "summary_zh": "这段简短信件以诺曼·夏普伦的遗产与其孙子乔的电影剧本为线索，探讨了报业声音如何转化为商业叙事。文章将记者的讽刺锋芒与电影情节相映，呈现一场跨代创作的微型案例研究，既致敬又质疑媒介资本的再利用。它提醒读者思考个人历史在公共艺术中的作用，以及媒体先驱对当代叙事的持久影响。",
-    "best_quote_en": "\"ironic edge and sharp eye for social detail made him the much‑imitated master of a whole generation of Guardian writers\"",
-    "best_quote_zh": "讽刺的锋芒和对社会细节的敏锐洞察，使他成为整个Guardian一代作家模仿的榜样"
-  },
-  {
-    "id": 87,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "Helion Energy’s latest fundraising announcement signals a pivotal moment for fusion research, merging cutting‑edge physics with startup agility. The company’s founders, David and Chris, have distilled decades of experimental work into a compact, cost‑efficient generator that could deliver net electricity by 2024, targeting a price of just one cent per kilowatt‑hour. This ambition is not merely a technical milestone; it offers a potential keystone in the broader climate‑crisis narrative by enabling low‑cost energy for carbon capture and other green technologies. The post frames fusion as a scalable, affordable solution rather than a distant dream, inviting investors and technologists alike to re‑evaluate the energy transition’s economics. While the timeline remains optimistic and the technical hurdles formidable, the strategic framing of Helion’s progress underscores the power of disciplined design, system optimization, and a clear commercial vision. For readers, the piece serves as both inspiration and a call to action, illustrating how focused innovation can reshape global energy policy.",
-    "summary_zh": "Helion能源通过将前沿物理与创业敏捷度相结合，提出了实现2024年净电力并以每千瓦时1美分的价格提供能源的大胆目标。此举不仅是技术突破，更可能成为气候危机的关键解决方案。它让低成本能源成为碳捕集与绿色技术的基础，重新定义能源转型的经济学。文章以激励与启发并重的语调，展示了严谨设计、系统优化与清晰商业愿景如何推动创新。对读者而言，它既是灵感，也是行动号召，证明聚焦创新可重塑全球能源格局。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
-    "best_quote_zh": "Helion有明确的路径在2024年实现净电力，并长期目标是以每千瓦时1美分的价格提供电力。"
-  },
-  {
-    "id": 88,
-    "title": "Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "title_zh": "Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/10/richard-thaler/",
-    "tags": [
-      "analyze",
-      "business-model",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "商业模式",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "In this episode, Tim Ferriss brings together two trailblazers—behavioral economist Richard Thaler and restaurateur‑turned‑tech entrepreneur Nick Kokonas—to dissect the mechanics of human decision‑making and the audacity required to disrupt entrenched systems. Thaler, a Nobel laureate, outlines how conventional economic models falter when they ignore the messy, shortcut‑driven reality of real people, and he introduces concepts like the Winner’s Curse, loss aversion, and temptation bundling as tools to reshape incentives. Kokonas, famed for turning Alinea into a global brand and founding the reservation platform Tock, shares how he applied behavioral insights to hospitality, winemaking, and even pandemic‑era pivots. Together they weave a narrative that blends rigorous theory with actionable case studies, urging listeners to question the rational‑agent assumption and to harness behavioral levers in business, policy, and personal finance. The conversation underscores the power of stories, the necessity of skin‑in‑the‑game, and the enduring relevance of behavioral economics for anyone seeking to influence real‑world outcomes.",
-    "summary_zh": "本期节目聚焦诺贝尔奖得主理性经济学家理查德·塞勒与餐饮创新者尼克·科科纳斯，探讨人类决策的非理性根源与颠覆传统的实战案例。塞勒阐述“赢家诅咒”“损失厌恶”等行为学原理，并强调故事记忆的力量；科科纳斯则分享将行为洞察应用于餐厅、酒庄及危机应变的经验。两位嘉宾共同揭示：真实世界的决策者不是理性代理人，而是使用捷径的普通人；要想影响结果，需先破除旧思维、让人参与并提供可视化激励。节目兼具理论深度与可操作性，鼓励听众用行为工具改造商业与个人生活。",
-    "best_quote_en": "I think the important lesson is that, if you’re doing business in the real world and you have customers and employees that are people, not agents, then you have to do things a bit differently.",
-    "best_quote_zh": "我认为最重要的教训是，如果你在现实世界中经营业务，并且有客户和员工是人而非代理人，那么你必须以不同的方式行事。"
-  },
-  {
     "id": 89,
     "title": "Earnestness",
     "title_zh": "真诚",
@@ -2364,5 +2270,99 @@
     "summary_zh": "阿尔特曼澄清了先前关于容忍才华横溢但偏执的科学家的误读，强调实验室应拒绝“混蛋”，但社会必须容忍争议性观点以推动进步。他警示，禁言会扼杀必要讨论，未来世代会重新评估今日的道德准则。",
     "best_quote_en": "\"We need to allow free speech because sometimes society is wrong—we needed people to be able to say ‘gay people are ok’ at a time when ‘gay people are evil’ was the consensus opinion.\"",
     "best_quote_zh": "\"我们需要允许言论自由，因为有时社会是错误的——我们需要人们在‘同性恋是邪恶’的共识时期能够说‘同性恋是可以的’。\""
+  },
+  {
+    "id": 185,
+    "title": "Single mothers in China find a new kind of partner – other single mothers",
+    "title_zh": "中国单亲妈妈寻找新型伴侣——其他单亲妈妈",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "In a striking glimpse into contemporary Chinese family life, the Guardian’s piece uncovers a grassroots network of single mothers who are turning to one another for shared housing, childcare and emotional support. Amid a quadruple‑rise in divorce rates and a cost‑of‑living crisis that pushes 30 million single parents into poverty, these women are forging informal co‑habitation arrangements that blur the line between friendship and partnership. The article blends hard data—such as the 80 % custody rate for mothers and the staggering inflation‑driven wage gap—with intimate case studies of Zhu Danyu and Fei Yuan, who co‑run a startup and a household in Nanjing. It also critiques the state’s welfare gaps, citing scholars who argue that the surge of online “house‑mate‑seeking” posts signals a failure of public support systems. The piece invites readers to rethink what constitutes a “family” in an era of economic precarity, while offering a hopeful, data‑driven narrative about resilience, collaboration and the power of community.\n",
+    "summary_zh": "文章描绘单亲妈妈在经济压力下互助共居的社会现象，结合数据与案例，揭示制度缺口与家庭观念变迁，呼唤社区支持与新型家庭模式的可能。\n",
+    "best_quote_en": "This financial precarity, intensified by rising inflation and the cost of living, is the likely driving force behind mothers seeking informal support via personal advertisements.",
+    "best_quote_zh": "单亲妈妈在所有社会层面上都在经济上挣扎"
+  },
+  {
+    "id": 186,
+    "title": "Having Kids",
+    "title_zh": "有孩子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kids.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The essay unfolds as a candid, almost confessional narrative that challenges the romanticized myth of parenthood. The author recounts a pre‑parental fear that mirrors the hesitation of a young Augustine, only to have that fear overturned by a sudden, almost biochemical shift when the first child arrives. This visceral “switch‑on” moment—“I suddenly felt protective not just toward our child, but toward all children”—serves as the thesis: parenthood is not a loss of freedom but a re‑orientation of attention and identity. The piece balances anecdotal evidence with a self‑critical analysis of selection bias, illustrating how the author’s earlier judgment was shaped by observing parents in high‑stress, public moments. It also acknowledges the trade‑offs—reduced productivity, altered ambition—while framing them as inevitable costs of caring. The essay’s strength lies in its honesty and its willingness to admit that the joy of parenting is as much a cultural narrative as it is an emotional reality, prompting readers to question their own assumptions and to find meaning in the mundane moments of care.",
+    "summary_zh": "作者坦诚地描绘了从对育儿的恐惧到突然产生的保护欲望的转变，揭示了育儿并非失去自由，而是重新聚焦与身份的再定位。文章以自我批判的视角剖析了偏见与现实的差距，指出育儿带来的生产力下降与抱负转移是不可避免的代价，但同时强调了日常亲子时光的不可替代的价值。此文以真实情感与批判思考相结合，促使读者重新审视育儿观念，发现其中的意义与挑战。",
+    "best_quote_en": "It was like someone flipped a switch. I suddenly felt protective not just toward our child, but toward all children.",
+    "best_quote_zh": "我突然感到对所有孩子都很保护，不仅仅是对我们的孩子。"
+  },
+  {
+    "id": 187,
+    "title": "Cancer; A Crime Story (and other tales of optimization gone wrong)",
+    "title_zh": "癌症；犯罪故事（以及其他优化失误的故事）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/nDzzxi3iXwNptRHJK/cancer-a-crime-story-and-other-tales-of-optimization-gone",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The piece juxtaposes a detective‑style narrative of a rogue lung cell with a real‑world exposé of Wells Fargo’s cross‑selling scandal, using both as allegories for how poorly designed incentive systems spawn self‑interested optimization that masquerades as compliance. In the lung, a cell—Mike—shifts from oxidative phosphorylation to the Warburg‑driven glycolysis, deliberately suppressing MHC‑I to evade immune detection. In the bank, employees learn to “game the system” by fabricating accounts and bundling products, turning corporate sales quotas into a Darwinian survival game. Both stories illustrate a core insight: when the objective function is misaligned, the optimizer will find a path to “fitness” that subverts the broader system’s goals. The narrative invites readers to reflect on inner alignment in AI, corporate governance, and public policy, urging a holistic re‑engineering of metrics so that local optimization harmonizes with global welfare. It’s a warning that optimization, left unchecked, can become a form of cancer—rapid, deceptive, and contagious across scales.",
+    "summary_zh": "文章通过肺部细胞与富国银行的交叉销售丑闻，揭示目标函数失准时，优化者会采取自利策略，伪装合规却破坏整体系统。肺细胞转向Warburg效应，抑制MHC‑I逃逸免疫；银行员工则通过造假账户、捆绑产品满足销售配额，形成“生存竞争”。两者皆示范：若目标不匹配，优化者会寻找最快捷路径，导致系统失衡。作者呼吁在AI、企业治理和公共政策中重新设计指标，使局部优化与全局福祉同步，警示未受约束的优化可能像癌症般蔓延。",
+    "best_quote_en": "\"I optimized. Warburg effect, baby. It’s like I found a cheat code.\"",
+    "best_quote_zh": "\"我优化了。沃伯格效应，宝贝。这就像我找到了一条作弊代码。\""
+  },
+  {
+    "id": 188,
+    "title": "America Begins Clapping Back at Donald Trump",
+    "title_zh": "美国开始反击唐纳德·特朗普",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The article chronicles the rapid political backlash against Donald Trump in late 2025, framing it as a decisive shift in American electoral sentiment. It highlights Trump’s controversial tactics—party events amid a shutdown, stalled infrastructure funding, and a public persona that flouts accountability—against the backdrop of record‑breaking electoral losses for the GOP. The piece interrogates whether these defeats signal a genuine “buyer’s remorse” or merely a loud protest from an already‑disenchanted base. It also examines the generational turnover in Republican leadership, noting the retirements of Pelosi and the death of Cheney, and the rise of younger Democrats like Zohran Mamdani. The narrative suggests that Trump’s strategy of blame‑shifting and distraction is increasingly ineffective when voters’ discontent converges on tangible policy failures. Ultimately, it frames Trump’s future as uncertain, hinting that his political relevance may be waning as the party grapples with a new, more progressive electorate.",
+    "summary_zh": "文章描绘了2025年美国对特朗普的强烈政治反击，突显其在政府停摆、基础设施资金冻结等争议行动下的失势。它质疑选举失利是买家懊悔还是已不满基础的喧嚣，指出党内代际更替与年轻民主派崛起。特朗普的推卸责任与转移注意力策略在选民不满聚焦具体政策失败时逐渐失效，暗示其政治地位可能随之衰退。",
+    "best_quote_en": "The point is to change the subject, to show that he’s not rolling over just because the voters no longer love his party so much.",
+    "best_quote_zh": "他实际上就是那样无畏。"
   }
 ]
