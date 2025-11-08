@@ -1,123 +1,5 @@
 [
   {
-    "id": 89,
-    "title": "Earnestness",
-    "title_zh": "真诚",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/earnest.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The essay reframes “earnestness” as a foundational virtue for founders, arguing that genuine motivation—acting for the right reasons and with maximum effort—translates into resilience and breakthrough. By contrasting earnest founders with those driven primarily by money, the author exposes a blind spot in Silicon Valley’s talent calculus: the undervaluation of intrinsic curiosity. The piece deftly ties earnestness to the broader evolution of startup culture, noting how the alignment of intellectual passion with financial upside has accelerated since the mid‑century. It also cautions that earnestness can be a double‑edged sword, offering strength yet exposing founders to vulnerability in social contexts. The essay invites founders, investors, and observers to reassess what qualities predict success, urging a shift from surface metrics to deeper motive alignment. Its blend of anecdote, historical reference, and pragmatic insight makes it a thought‑provoking guide for anyone navigating the entrepreneurial landscape.",
-    "summary_zh": "作者把真诚视为创业者的核心美德，强调内在动机与最大努力相结合能带来韧性与突破。他指出，硅谷往往低估了真诚的价值，真正的好奇心与财务回报的契合已成为创业文化的转折点。真诚既是力量，也是脆弱的源头。文章通过案例与历史，引导读者重新评估成功的关键，提倡从表面指标转向动机层面的深度洞察。",
-    "best_quote_en": "When you call someone earnest, you're making a statement about their motives. It means both that they're doing something for the right reasons, and that they're trying as hard as they can.",
-    "best_quote_zh": "当你称某人为真诚时，你是在对他们的动机作出陈述。它意味着他们既出于正确的理由做事，又尽最大努力去做。"
-  },
-  {
-    "id": 90,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "The essay reframes the notion of being misunderstood as a strategic advantage. It argues that true leaders should care about others’ opinions on a long‑term horizon, trading short‑term reputational risk for enduring influence. By embracing criticism and maintaining a long‑view, a small group of rebels can tackle problems that mainstream consensus ignores. The author blends anecdotal evidence with psychological insight, offering a nuanced guide on when to listen and when to ignore. The piece invites readers to question conventional wisdom about reputation, encouraging a mindset that values future impact over present approval.",
-    "summary_zh": "文章揭示了被误解的力量：以长远视角关注他人评价，可将短期低声望转化为长期高声望。作者强调，正确时被误解是优势，能让少数人聚焦未被解决的问题。 这提醒创业者与领袖，敢于被误解可开启创新空间；短视的自我保护只会错失突破。通过拥抱批评，持续修正与坚持，终将赢得历史的认可。此外，文章还强调了选择关注对象与时间尺度的重要性，提示我们在追求影响力时要把握长期价值，而非一时口碑。",
-    "best_quote_en": "As long as you are right, being misunderstood by most people is a strength not a weakness.",
-    "best_quote_zh": "只要你是对的，受到大多数人的误解是一种优势，而非弱点。"
-  },
-  {
-    "id": 91,
-    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
-    "title_zh": "基础：你的大脑如何运作并解释世界 | 戴维·贝森博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "Dr. David Berson’s Huberman Lab Essentials episode dissects the visual and vestibular circuits that turn photons into conscious perception, revealing how light entrains circadian rhythms, how the cerebellum fine‑tunes motor output, and how the basal ganglia arbitrate action selection. The discussion extends from basic retinal phototransduction to melanopsin‑mediated brightness detection, highlighting the therapeutic potential of targeted light exposure for sleep and mood regulation. Berson also illustrates neuroplasticity in the visual cortex through a striking case of cortical reorganization after injury, underscoring that the brain’s wiring is both precise and malleable. By weaving cellular mechanisms with real‑world tools—like timed light therapy, vestibular‑stimulating exercises, and impulse‑control strategies—he offers a data‑driven, actionable framework for anyone seeking to optimize cognition, balance, and decision‑making. The episode invites listeners to appreciate the elegance of sensory integration while providing concrete, future‑focused interventions grounded in cutting‑edge neuroscience.",
-    "summary_zh": "在Huberman实验室的基础节目中，戴维·贝森博士详细阐述了视觉与前庭系统如何将光子转换为意识感知，并探讨光对昼夜节律的调节作用。节目从视网膜光感受器到黑色素蛋白光受体的信号转导展开，强调通过定时光照干预改善睡眠与情绪的临床前景。贝森博士还展示了视觉皮层可塑性的惊人案例，证明大脑在受损后能重新组织功能。整合细胞机制与实用工具——如光疗、前庭刺激与冲动控制策略——他为优化认知、平衡与决策提供了数据驱动、可操作的框架，既有理论深度，又具未来导向。",
-    "best_quote_en": "We explore how the brain processes visual information, from photons entering the eye to conscious perception in the cortex.",
-    "best_quote_zh": "我们探讨大脑如何处理视觉信息，从光子进入眼睛到皮层中的意识感知。"
-  },
-  {
-    "id": 92,
-    "title": "The Tim Ferriss Show Transcripts: Pablos Holman — One of the Scariest Hackers I’ve Ever Met (#827)",
-    "title_zh": "《泰姆·费里斯秀》访谈稿：帕布洛斯·霍尔曼——我遇到过的最可怕的黑客之一（#827）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/17/pablos-holman-transcript/",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "Pablos Holman’s interview on The Tim Ferriss Show is a masterclass in the intersection of deep technology, hacking, and global strategy. Holman, a self‑taught hacker who grew up in Alaska and later worked on Blue Origin’s space projects, unpacks the hacker mindset—“a bottomless pit of puzzles”—and how it fuels invention beyond software. He candidly discusses zero‑day exploits, the economics of nuclear reactors, and the paradox of security: the very tools that protect us can become weapons for state actors. Holman’s narrative challenges the conventional VC narrative that technical risk is the primary hurdle, arguing instead that once a breakthrough is proven, market risk evaporates. He paints a future where energy—especially nuclear and fusion—drives the next wave of deep tech, urging policymakers to streamline regulation and investors to look beyond the SaaS playbook. The episode is intellectually provocative, blending personal anecdotes with geopolitical analysis, and it invites listeners to rethink the role of hackers as inventors and the true scale of untapped markets.\n",
-    "summary_zh": "帕布洛斯·霍尔曼在《泰姆·费里斯秀》中的访谈，是一次深度技术、黑客精神与全球战略交汇的课堂。霍尔曼自学成才，曾在蓝色起源工作，揭示了黑客思维——“无尽的谜题”——如何推动软件之外的发明。他坦诚讨论零日漏洞、核能经济以及安全的悖论：保护工具也可能成为国家武器。霍尔曼质疑传统风险投资关注技术风险，认为突破后市场风险消失，呼吁政策制定者简化监管，投资者跳出SaaS框架，关注核能与聚变等深度技术，开辟未开发市场。",
-    "best_quote_en": "\"A hacker is someone who is attracted to puzzles. They are attracted to computer security, because it’s a bottomless pit of puzzles.\"",
-    "best_quote_zh": "\"黑客是吸引谜题的人。\""
-  },
-  {
-    "id": 93,
-    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
-    "title_zh": "Jess Cartner‑Morley谈时尚：今年冬季外套的首要规则——让它更长",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
-    "tags": [
-      "inspire",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Jess Cartner‑Morley, a Guardian fashion columnist, distills a single, decisive guideline for winter outerwear: length matters. She argues that a coat should extend well below the knee—ideally to the calf or ankle—to signal sartorial confidence and align with evolving proportions in contemporary tailoring. The piece contrasts the ubiquitous knee‑length coats of recent winters with a resurgence of long, oversized, wool‑heavy silhouettes, bold checks, faux furs, and leather. Cartner‑Morley links this shift to looser trousers and a broader aesthetic trend toward “big” silhouettes, suggesting that the coat’s length now conveys personality more than ever. Her tone mixes playful admonition with expert insight, offering readers a practical, trend‑driven rule that feels both actionable and future‑focused. For fashion enthusiasts, the article serves as a concise, actionable primer on a key seasonal shift, while also hinting at the underlying cultural momentum that makes long coats a statement piece this year.",
-    "summary_zh": "Jess Cartner‑Morley在《卫报》时尚专栏中提出冬季外套的核心规则：外套要长，最好到膝下甚至踝部。她指出，长款外套不仅符合当前宽松裤装的比例，也成为展示个人品味的标志。文中将短款外套与长款羊毛、印花、仿皮毛等新潮流作对比，强调长款外套的“大胆”与“个性”。作者以轻松又专业的语气，为读者提供一条既可操作又前瞻性的时尚建议，既是实用指南，也是对当下审美变迁的洞察。",
-    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
-    "best_quote_zh": "你的外套需要长。就是这么简单，这是大新闻。"
-  },
-  {
     "id": 94,
     "title": "The Last Columbia Protester in ICE Detention",
     "title_zh": "The Last Columbia Protester in ICE Detention",
@@ -2364,5 +2246,123 @@
     "summary_zh": "文章描绘了2025年美国对特朗普的强烈政治反击，突显其在政府停摆、基础设施资金冻结等争议行动下的失势。它质疑选举失利是买家懊悔还是已不满基础的喧嚣，指出党内代际更替与年轻民主派崛起。特朗普的推卸责任与转移注意力策略在选民不满聚焦具体政策失败时逐渐失效，暗示其政治地位可能随之衰退。",
     "best_quote_en": "The point is to change the subject, to show that he’s not rolling over just because the voters no longer love his party so much.",
     "best_quote_zh": "他实际上就是那样无畏。"
+  },
+  {
+    "id": 189,
+    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
+    "title_zh": "派对装扮的意外升级：鸡尾酒T恤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
+    "tags": [
+      "update",
+      "design",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The article chronicles the metamorphosis of the humble T‑shirt into a sophisticated cocktail T‑shirt, a trend that blends casual comfort with evening elegance. It highlights the material shift from cotton to wool and cashmere, noting the thermodynamic benefits that keep wearers warm in cool settings and cool in heat—an ideal feature for the festive season’s variable climates. Designers like Prada’s Miuccia and Raf Simons are credited with injecting luxury into the form, using glittering embellishments and chains to elevate the garment’s status. The piece also discusses market dynamics: high‑end versions price in the four‑figure range, while high‑street retailers replicate the look with synthetic blends, raising concerns about sustainability and ethical sourcing. Practically, the article offers expert insights on how cocktail T‑shirts can serve as versatile wardrobe staples, reducing overconsumption and accommodating diverse body proportions. The narrative invites readers to reconsider the T‑shirt as a stylish, functional, and socially conscious choice for both office and evening wear.",
+    "summary_zh": "文章描绘了 T 恤从休闲到鸡尾酒 T 恤的华丽转变，强调羊毛和羊绒材质带来的温度调节优势，并以 Prada 等设计师的奢华装饰为例，探讨高端与平价市场的可持续性问题。它指出鸡尾酒 T 恤兼具多场合适用性与环保理念，鼓励读者以更智慧的方式打造衣橱。",
+    "best_quote_en": "They have that sort of understated look that a T‑shirt tends to give the wearer, but unlike the way a cotton T‑shirt sort of unravels by midday, the knit has a more polished effect,",
+    "best_quote_zh": "我喜欢充分利用我的衣橱，这些 T 恤帮助我在换装时不浪费宝贵的银子，避免一次性派对穿着的浪费。"
+  },
+  {
+    "id": 190,
+    "title": "The Lesson to Unlearn",
+    "title_zh": "需要忘却的教训",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/lesson.html",
+    "tags": [
+      "solve",
+      "education",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "The article traces the paradox of modern education: grades become the proxy for learning, turning tests into hackable targets. The author recalls a philosophy student who said grades matter only if they reflect learning, a sentiment that was rarely heard in academia. He argues that the system’s focus on scores forces students to study for exams rather than for knowledge, creating a culture where “hacking the test” is the path to success. Drawing a parallel with startup culture, he shows how founders often treat fundraising as a test, ignoring the core product’s quality. By “unlearning” the obsession with grades, he believes individuals and society can shift from test‑oriented success to genuine skill and innovation. The piece ends with a call to recognize and abandon the illusion that grades equal learning, freeing both education and entrepreneurship from a harmful legacy.",
+    "summary_zh": "作者通过对高考、大学与创业的反思，揭示了成绩与学习的错位：考试往往是可被操纵的测试，真正的价值在于真实掌握。文章指出，教育体系鼓励学生为分数而学习，导致“破解测试”成为成功的捷径。作者进一步把这一现象与创业相类比，指出创业者往往把“赢得投资”当作测试，忽视了产品本身的价值。通过对比，他呼吁我们先“忘却”这种对测试的执念，重新聚焦于真正的学习与创新，从而实现个人与社会的双重解放。",
+    "best_quote_en": "The most damaging thing you learned in school wasn’t something you learned in any specific class. It was learning to get good grades.",
+    "best_quote_zh": "教育中最具破坏性的不是你在任何特定课程中学到的知识，而是学会了拿好成绩。"
+  },
+  {
+    "id": 191,
+    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
+    "title_zh": "叛军在达尔富尔发布大规模屠杀视频，世界目击",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The piece unfolds through a first‑person lens, exposing the RSF’s brutal massacres in Darfur and the international community’s indifference. By weaving satellite imagery, on‑the‑ground interviews, and expert commentary, the author constructs a multi‑layered narrative that goes beyond mere reportage. The analysis of UAE arms shipments, U.S. policy missteps, and ethnic cleansing forces readers to confront the systemic nature of the violence and the failure of humanitarian intervention. It reminds us that raw facts alone cannot conceal the scale of wartime atrocity; only a synthesis of data, human stories, and policy critique can spur real change. The article urges a shift from passive observation to active advocacy, highlighting the moral imperative for global actors to intervene decisively.",
+    "summary_zh": "文章以第一人称视角，揭示了达尔富尔冲突中RSF的残酷屠杀与国际社会的冷漠。作者结合卫星影像、现场采访与专家访谈，构建了一个多维度的叙事框架。通过对阿联酋武器供应、美国政策失误以及当地族群清洗的剖析，文章不仅呈现事实，更引发读者对国际人道干预的反思。它提醒我们，单纯的新闻报道无法掩盖战争的系统性暴力；只有将数据与人性结合，才能促成真正的政策转变。",
+    "best_quote_en": "If we’re going to risk upsetting the U.A.E., it is not going to be over something as ‘inconsequential’ as Sudan.",
+    "best_quote_zh": "世界只是站着观看，没有采取任何具体行动。"
+  },
+  {
+    "id": 192,
+    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
+    "title_zh": "更好的旅行枕头/设定旅行/最受外派人士欢迎的国家",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The piece blends practical travel hacks with data‑driven insights, offering a concise guide for frequent flyers and expats alike. It opens with a critique of conventional airport pillows and showcases a versatile, inflatable Modern Age pillow that doubles as a seat cushion and even a makeshift eye mask—an actionable tip that turns a simple accessory into a multi‑purpose solution. The pre‑packed toiletry kit demonstrates how to streamline packing by buying duplicate TSA‑friendly items, turning a stressful pre‑flight ritual into a repeatable routine. The author then pivots to Expedia’s annual travel trends, highlighting destinations that have surged in search volume and emerging patterns such as “salvaged stays” and “set jetting.” This data‑backed snapshot not only informs readers about where the market is heading but also invites them to consider niche travel experiences. Finally, the survey‑based list of top Asian expat destinations underscores the importance of convenience, connectivity, and community, revealing China’s unexpected rise in expat rankings. Overall, the article balances personal anecdotes with empirical evidence, encouraging readers to adopt practical tools while staying attuned to global travel currents.",
+    "summary_zh": "文章把旅行小技巧与数据洞察巧妙结合，既提供实用的枕头、洗漱套装建议，又用Expedia报告揭示热门目的地和新兴趋势，最后列出亚洲顶级外派国，提醒读者关注便利与社群。",
+    "best_quote_en": "Expedia and a few of its partner companies released their annual travel trends report recently and since this one is backed by search and booking data, it’s worth paying attention to for what’s really happening.",
+    "best_quote_zh": "Expedia 及其合作伙伴最近发布了年度旅游趋势报告，由于该报告基于搜索和预订数据，值得关注其真实动态。"
+  },
+  {
+    "id": 193,
+    "title": "E Pur Si Muove",
+    "title_zh": "E Pur Si Muove",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/e-pur-si-muove",
+    "tags": [
+      "analyze",
+      "tech-trends",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "技术趋势",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2017-12-14",
+    "summary_en": "The piece is a candid critique of Silicon Valley’s growing intolerance for controversial ideas, arguing that the very culture that fuels its success is under threat. The author recounts personal experiences in China and San Francisco, noting that even seemingly innocuous debates can feel hostile, and that the resulting self‑censorship stifles the radical thinking that historically drives breakthrough innovations. He warns that if the Bay Area continues to police discourse, it risks losing the brightest minds to more permissive environments, undermining startups that thrive on disruptive thinking. The essay invokes Newton, Galileo, and Bitcoin as historical examples of ideas once deemed heretical. The core insight is that innovation depends on the freedom to debate ideas, not merely to agree with consensus. By framing political correctness as a tool that can be weaponized, the author urges a recalibration of the startup ecosystem toward a culture where ideas—not people—are judged on merit.",
+    "summary_zh": "作者以在中国与旧金山的亲身经历为例，批评硅谷日益压制争议性思维，警示若持续限制言论，创新将受阻，顶尖人才将流失。",
+    "best_quote_en": "Restricting speech leads to restricting ideas and therefore restricted innovation—the most successful societies have generally been the most open ones.",
+    "best_quote_zh": "我不想让人们说‘gay people are evil’会让合理的人相信这句话是真实的，我更担心失去相反的观点——我们需要有人自由地说‘gay people are ok’来推动进步。"
   }
 ]
