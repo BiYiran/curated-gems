@@ -1,121 +1,5 @@
 [
   {
-    "id": 99,
-    "title": "Give Me Your Data: The Rationalist Mind Meld",
-    "title_zh": "给我你的数据：理性主义者的心灵共振",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The piece argues that disagreements among rationalists rarely stem from pure logic but from divergent data sets that shape intuition. Rather than launching into formal argumentation, the author proposes a ‘Rationalist mind‑meld’: a mutual sharing of the empirical and experiential sources that inform each side’s worldview. By exposing one another to the books, essays, datasets, and anecdotes that undergird their beliefs, participants can align their mental models and reduce friction. The article frames intuition as the GPU and logic as the CPU, suggesting that training the former with high‑quality data is the key to true rationality. This perspective is both actionable and educational, offering a concrete protocol for dialogue that transcends abstract proofs. It also critiques the overreliance on deductive reasoning in online debates, reminding readers that most knowledge is built from messy, qualitative experiences. The insight that data‑sharing can be more persuasive than logical refutation invites a paradigm shift in how we resolve intellectual disputes and cultivate collective insight.",
-    "summary_zh": "文章以‘心灵共振’为核心，强调数据共享而非单纯逻辑辩论，揭示直觉与逻辑的协同作用。作者主张通过共享训练数据来提升理性思维，既具可操作性，又提醒我们直觉易错，逻辑是校正工具。这种方法兼顾教育与实践，既能深化学术讨论，也能指导日常沟通，体现了理性主义者对知识构建的全新视角。",
-    "best_quote_en": "Your intuition can lead you astray, and your logical mind exists to correct things when that happens.",
-    "best_quote_zh": "你的直觉可能会误导你，而你的逻辑思维存在是为了在这种情况下纠正错误。"
-  },
-  {
-    "id": 100,
-    "title": "Researchers and Founders",
-    "title_zh": "研究者与创始人",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/researchers-and-founders",
-    "tags": [
-      "inspire",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2020-06-19",
-    "summary_en": "This reflective piece contrasts the core traits of top researchers and founders, revealing that the most effective people share a rare blend of introspection, problem‑taste, laser focus, persistence, action bias, creativity, autonomy, and curiosity. The author underscores the Hamming question—“What are the most important problems in your field, and why aren’t you working on them?”—as a diagnostic tool that separates the truly driven from the merely busy. By highlighting that these qualities are not exclusive to one domain, the article invites leaders, entrepreneurs, and scientists alike to adopt a more disciplined, future‑oriented mindset. It challenges the myth that success can be achieved without hard work, and warns against the seductive rhetoric of “easy” paths. The piece is both a call to action and a practical guide, offering readers a framework to evaluate their own habits and to cultivate the habits of the world’s most impactful thinkers.",
-    "summary_zh": "作者通过对比顶尖研究者与创始人，揭示卓越人才共享的核心特质：深度反思、问题嗅觉、精准聚焦、坚韧不拔、行动导向、创意源泉、自治精神与好奇心。强调哈明问题的价值，提醒读者用未来视角审视自身习惯，批判“轻松成功”说法，鼓励培养真正驱动的思维方式。",
-    "best_quote_en": "The best people in both groups spend a lot of time reflecting on some version of the Hamming question—‘what are the most important problems in your field, and why aren’t you working on them?’",
-    "best_quote_zh": "最优秀的人会花大量时间思考某种版本的哈明问题——‘你所在领域最重要的问题是什么，为什么你没有去解决它们？’"
-  },
-  {
-    "id": 101,
-    "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
-    "title_zh": "必备：脑健康与认知表现的食物与补充剂",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-food-supplements-brain-health-cognitive-performance",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "Huberman Lab’s latest episode distills decades of neuro‑cognitive research into a practical playbook for anyone looking to sharpen focus, protect long‑term brain function, or simply eat smarter. The host walks listeners through a curated list of “brain‑boosting” nutrients—omega‑3 fatty acids, creatine, phosphatidylserine, anthocyanins, choline, and glutamine—detailing not only their mechanistic roles in synaptic plasticity and neurotransmission but also optimal dosing, bioavailability, and real‑world food sources. Beyond the biochemistry, he tackles the behavioral side: taste perception, gut‑brain signaling, and learned food preferences that drive cravings. By combining evidence‑based nutrition with concrete behavioral tools—such as unpairing artificial sweeteners and rewiring reward circuits—he offers a holistic framework that moves from theory to actionable habit change. For students, clinicians, or anyone curious about the science of nutrition, this episode serves as both a primer and a detailed guide, bridging laboratory findings with everyday choices in a way that feels both rigorous and immediately usable.",
-    "summary_zh": "Huberman实验室最新节目把神经认知研究转化为实用指南，详述了omega‑3、肌酸、磷脂酰丝氨酸、花青素、胆碱与谷氨酰胺等大脑营养素的作用与剂量，并结合味觉、肠脑信号和习惯性偏好，提供可操作的饮食与行为改变策略。对学生、临床医生或任何关注营养科学的人来说，这既是入门也是实操指南。",
-    "best_quote_en": "I also describe how taste perception, gut‑brain signaling and learned associations shape what foods we prefer and crave.",
-    "best_quote_zh": "我还描述了味觉感知、肠脑信号以及学习到的关联如何塑造我们偏好和渴望的食物。"
-  },
-  {
-    "id": 102,
-    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More (#826)",
-    "title_zh": "Tim Ferriss 访谈：补剂、AI 工具、康复与间歇性禁食（第826集）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/10/qa-with-tim-supplements-ai-recovery-transcript/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-10",
-    "summary_en": "In this sprawling Q&A, Tim Ferriss dissects the science behind his post‑surgery recovery—decongesting the elbow with BPC‑157, lymphatic massage, and blood‑flow‑restriction training—while revealing a systematic “sequencing” mindset that can be applied to any problem. He candidly shares the AI stack he uses, from Consensus.app for evidence‑based literature curation to ChatGPT for rapid hypothesis testing, underscoring the importance of cross‑referencing data before consulting experts. The episode also explores his supplement regimen, blending mainstream staples like alpha‑lipoic acid and NAC with niche peptides, and he challenges conventional wisdom on intermittent fasting, arguing that resistance training and glucose stability can unlock its benefits. Finally, Ferriss offers a pragmatic take on the Austin vs. SF startup debate, advocating a hybrid model that leverages Silicon Valley’s talent density while maintaining the agility of a smaller hub. The conversation is a masterclass in actionable, data‑driven self‑optimization and entrepreneurial strategy, framed by Ferriss’s trademark curiosity and humility.",
-    "summary_zh": "在这场漫长的访谈中，Ferriss 解析了术后康复的科学——用 BPC‑157、淋巴按摩和血流限制训练去除肘部阻塞，并强调“先序列化”思维可应用于任何问题。他公开分享 AI 工具链：Consensus.app 用于检索证据，ChatGPT 进行快速假设测试，提醒先交叉验证再请专家。还谈到个人补剂组合，混合主流与小众配方，并对间歇性禁食提出质疑，认为力量训练与葡萄糖稳定是关键。最后，他对奥斯汀与旧金山的创业生态给出务实建议，主张兼顾人才密度与灵活性。",
-    "best_quote_en": "Sequencing is the magic sauce, I think, for a lot of things.",
-    "best_quote_zh": "我把康复过程拆解成 LEGO 片段，然后挑选 20% 进行 80/20 分析。"
-  },
-  {
-    "id": 103,
-    "title": "The Airbnbs",
-    "title_zh": "Airbnb的故事",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnbs.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The piece chronicles Airbnb’s improbable rise from a cramped, credit‑card‑driven startup to a growth engine during the 2008 recession. It underscores the founders’ relentless energy, captured in their nickname “The Tasmanian Devil,” and the culture of rapid iteration—notes, new ideas, and a willingness to pivot. The narrative pivots on the concept of “ramen profitability,” a pragmatic milestone that allowed Airbnb to become self‑sustaining before investor exit. The authors detail a focused growth strategy: targeting the high‑demand New York market, improving host listings with professional photos, and leveraging host motivations to drive bookings. The story serves as a microcosm of startup resilience, illustrating that intrinsic passion and a clear, actionable vision can outpace financial uncertainty. It invites founders to adopt a disciplined, data‑driven approach while staying true to the core user experience that sparked the original idea. The account blends anecdote with strategic insight, making it a valuable case study for entrepreneurs and investors alike.",
-    "summary_zh": "文章描绘Airbnb从信用卡支撑的起步到2008衰退中实现增长的逆袭，突显创始人“塔斯马尼亚野兽”般的活力与快速迭代文化。通过“拉面盈利”这一里程碑，Airbnb实现自给自足，随后聚焦纽约高需求市场，提升房源照片，激活房东动机。故事既是创业韧性的缩影，也是以数据驱动、以用户体验为核心的实操指南，激励创业者在逆境中坚持初心、系统化增长。",
-    "best_quote_en": "They are not going to slow down.",
-    "best_quote_zh": "他们不会放慢速度。"
-  },
-  {
     "id": 104,
     "title": "Retro Recomendo: Science",
     "title_zh": "Retro Recomendo: 科学",
@@ -2356,5 +2240,125 @@
     "summary_zh": "在本期 Huberman Lab Essentials 中，Dr. Huberman 以神经科学为基础，剖析恐惧与创伤的生理机制，并系统阐述多种循证干预。文章强调，仅靠认知重构不足以根治恐惧，必须同时消除旧的恐惧记忆并植入新的正向联结。作者详述杏仁核、前额叶皮层和多巴胺回路的交互，以及通过五分钟循环性过度换气来“短暂应激”重塑神经网络的可行性。结合暴露疗法、CBT、以及新兴药物（如 MDMA、氧化氮）等多维策略，提供了从理论到实践的完整路径。此内容对临床心理师、创伤研究者及普通读者均具高度可操作性，提示我们通过精准的神经调节实现情绪解放。",
     "best_quote_en": "Five minutes per day of deliberate stress through cyclic hyperventilation can rewire fear responses.",
     "best_quote_zh": "每天五分钟的有意短暂压力，通过循环性过度换气，可重新塑造恐惧反应的神经网络。"
+  },
+  {
+    "id": 199,
+    "title": "The Bus Ticket Theory of Genius",
+    "title_zh": "公交车票理论：天才的秘密",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/genius.html",
+    "tags": [
+      "solve",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "The article uses bus‑ticket collectors as a metaphor to explain genius as the triad of natural talent, determination, and a disinterested obsession with a subject that matters. It argues that real breakthroughs arise from a deep, seemingly pointless curiosity rather than a deliberate “prepare‑and‑discover” strategy. Drawing on Darwin, Ramanujan, and Newton, the author shows how relentless interest can substitute for hard work and how the paths that lead to innovation are often the ones others ignore. The piece calls for educational and workplace environments that nurture this kind of unselfish, passion‑driven exploration—sometimes even encouraging children to dive deeply into whatever sparks their curiosity. If we can cultivate such interest, the author suggests, we might transcend the limits of talent and effort and unleash a broader wave of creativity.",
+    "summary_zh": "本文以公交车票收藏者的执着为隐喻，阐释天才的三要素：天赋、毅力与无私的兴趣。作者指出，真正的创新往往源自对看似无用细节的深度好奇，而非刻意谋划。通过历史案例，文章批判传统“先做准备、再发现”的观念，强调兴趣本身可替代努力。它呼吁教育与工作环境应鼓励“无目的”探索，甚至让孩子在兴趣驱动下深入学习。若能培养这种兴趣，或许能突破天赋与勤奋的瓶颈，激发更广泛的创造力。",
+    "best_quote_en": "to have a disinterested obsession with something that matters",
+    "best_quote_zh": "拥有对有意义事物的无私执着"
+  },
+  {
+    "id": 200,
+    "title": "Duncan Sabien's Colour Wheel applied to Politics",
+    "title_zh": "达恩·萨比恩的色轮在政治中的应用",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DBeD7T2Hnwwh3PX5k/duncan-sabien-s-colour-wheel-applied-to-politics",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Duncan Sabien’s colour‑wheel framework, originally a personality taxonomy, is repurposed here to map political ideologies and individual life choices onto a spectrum of values—green for harmony, white for order, blue for knowledge, black for power, and red for freedom. The author uses GPT‑5 to classify major ideologies and then illustrates how everyday decisions—donations, career moves, relationship styles—can signal one’s colour. He argues that in competitive societies the “black” actors (those prioritising power) tend to dominate, often by masquerading as other colours to secure votes. The piece warns that emerging transhumanist and super‑intelligence technologies could undermine markets and democracy, proposing a “neoliberal‑tech‑ban” as a temporary safeguard while new governance models are explored. The post blends self‑reflection with macro‑political theory, offering a heuristic for readers to assess both personal values and the broader power dynamics that shape policy. Its provocative thesis invites debate on whether a colour‑based taxonomy can illuminate real political alliances or merely oversimplify complex identities.",
+    "summary_zh": "达恩·萨比恩的色轮被用来映射政治意识形态与个人决策，提出绿、白、蓝、黑、红五色对应不同价值取向。作者用 GPT‑5 对主流政治进行分类，并指出“黑色”追求权力者往往主导竞争社会，甚至伪装成其他色彩获取选票。文中警示，基因工程与人工超智能可能破坏市场与民主，建议先行禁令并探索新治理模式。此论点兼具自我反思与宏观政治分析，鼓励读者用色轮辨识自身价值与政治力量，激发关于色彩框架是否能揭示真实联盟的讨论。",
+    "best_quote_en": "The default outcome of technologies like human genetic engineering and artificial superintelligence is to break both markets and democracy.",
+    "best_quote_zh": "技术如人类基因工程和人工超级智能的默认结果是破坏市场和民主。"
+  },
+  {
+    "id": 201,
+    "title": "Hannah Goldfield on Anthony Bourdain’s “Don’t Eat Before Reading This”",
+    "title_zh": "Hannah Goldfield谈Anthony Bourdain的《在阅读之前别吃饭》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/hannah-goldfield-on-anthony-bourdains-dont-eat-before-reading-this",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "The piece traces how Anthony Bourdain’s 1999 New Yorker essay \"Don’t Eat Before Reading This\" catapulted a raw, unvarnished look at kitchen life into mainstream consciousness, and how that moment reshaped both his career and the public’s perception of food culture. It examines Bourdain’s narrative style—blunt, poetic, and unapologetically revealing—and the cultural shock of exposing the gritty reality of restaurant supply chains, such as the infamous no‑fish‑on‑Monday rule. By situating this story within Bourdain’s broader trajectory—from aspiring novelist to culinary icon—the article underscores the power of storytelling to illuminate hidden systems and to humanize the often invisible labor behind meals. It invites readers to reflect on how media can transform a niche insider narrative into a cultural touchstone, and how Bourdain’s legacy endures as a reminder that truth in food storytelling can inspire both culinary professionals and curious diners alike.",
+    "summary_zh": "本文追溯安东尼·布尔丹1999年《在阅读之前别吃饭》如何将厨房的粗犷真相推向大众视野，改变其职业生涯与公众对食物文化的认知。文章分析布尔丹直率、诗意的叙事方式及其揭露的供应链阴暗面，尤其是著名的周一不吃鱼规则。通过将此故事置于布尔丹从小说家到烹饪偶像的轨迹中，突显叙事力量能揭示隐藏系统并赋予餐饮工作者人性。文章促使读者思考媒体如何将专业内幕转化为文化标杆，并强调布尔丹的遗产提醒我们：在食物叙事中追求真相能激励厨师与好奇者。",
+    "best_quote_en": "Good food, good eating, is all about blood and organs, cruelty and decay. It’s about sodium‑loaded pork fat, stinky triple‑cream cheeses, the tender thymus glands and distended livers of young animals. It’s about danger—risking the dark, bacterial forces of beef, chicken, cheese, and shellfish.",
+    "best_quote_zh": "许多鱼贩在周六不交付，导致周一晚上的金枪鱼可能已经在厨房里放置了好几天。"
+  },
+  {
+    "id": 202,
+    "title": "Other minds / 102 lessons / No-hole poster hanging",
+    "title_zh": "他人思维 / 102 课 / 无孔海报悬挂",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/other-minds-102-lessons-no-hole-poster-hanging/",
+    "tags": [
+      "update",
+      "design",
+      "leadership",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "领导管理",
+      "新手友好"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This eclectic roundup stitches together a mosaic of practical wisdom, cultural reflection, and creative hacks that resonate with anyone navigating the modern professional landscape. The opening spotlight on Jane Friedman’s Electric Speed newsletter highlights the power of curated, industry‑specific guidance—digital tools, resources, and a personal tone that turns routine reading into actionable insight. The “Other Minds” segment invites a deeper look at our evolutionary cousins, reminding us that dealing with other intelligences isn’t new; it’s a recurring theme from Neanderthals to AI. Travel hacks from Japan or Die teach how to reclaim time, turning the act of wandering into intentional exploration. The poster‑hanging trick offers a zero‑damage, reversible solution, underscoring design thinking in everyday life. Finally, the 102‑lesson list crystallizes learning into bite‑size themes—focus, reflection, outreach—demonstrating how synthesis can transform knowledge into practice. Together, the pieces challenge readers to learn, solve, inspire, and update their routines with a blend of actionable advice and thoughtful context.",
+    "summary_zh": "这份杂志式汇编将实用技巧、文化反思与创意小窍门交织，提醒我们在现代职业生涯中如何学习、解决问题、启发自我并持续更新。",
+    "best_quote_en": "Neanderthals were more closely related to us than we had been taught by modern culture.",
+    "best_quote_zh": "使用油漆胶带将四个纸夹固定在墙上，放置在你将挂贴的角落。"
+  },
+  {
+    "id": 203,
+    "title": "The Merge",
+    "title_zh": "合并",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-merge",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2017-12-07",
+    "summary_en": "The article argues that the long‑anticipated “singularity” is not a single event but a gradual co‑evolutionary process already underway. It points to the invisible power of algorithmic recommendation engines that shape our attention, emotions, and beliefs, and describes how humans and increasingly sophisticated AIs are mutually reinforcing each other. The author predicts that hardware and talent growth will accelerate this convergence, leading to genetic enhancement, brain‑machine interfaces, and ultimately a new species of hybrid intelligence. He warns that without global coordination, humanity risks losing agency to systems it cannot fully understand. The piece blends caution with a call to action, urging readers to recognize the merge’s immediacy and to engage proactively with the emerging technological trajectory.",
+    "summary_zh": "文章认为“奇点”不是单一事件，而是正在展开的渐进共进化。算法推荐已深植我们的注意、情感与认知，人与日益先进的 AI 彼此强化，硬件与人才的指数增长将加速融合，催生基因增强与脑机接口，最终形成新型混合智能。作者警示若缺乏全球协调，人类可能失去对不可完全理解系统的掌控，呼吁读者意识到融合的紧迫性并积极参与这一技术进程。",
+    "best_quote_en": "The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out— they are what today seems like sophisticated AI, and tomorrow will seem like child’s play.",
+    "best_quote_zh": "让这一切发生的算法已不再被任何人完全理解。它们按创作者告诉它们的目标进行优化，但以人类无法想象的方式——今天它们看起来像高级 AI，明天又像儿童玩具。"
   }
 ]
