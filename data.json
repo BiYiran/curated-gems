@@ -1,125 +1,5 @@
 [
   {
-    "id": 104,
-    "title": "Retro Recomendo: Science",
-    "title_zh": "Retro Recomendo: 科学",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-science/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "Retro Recomendo: Science curates evergreen scientific insights, blending rapid‑review videos, classic texts, and participatory projects into a digestible weekly digest. The piece showcases how a single channel—Two Minute Papers—transforms dense AI papers into bite‑sized, visually rich explanations, proving that staying current need not be a chore. It contrasts this with timeless resources such as Asimov’s *Understanding Physics*, which demystifies core concepts through historical narrative, and the mid‑century anatomy primer that remains a pocket‑sized tour of human biology. The author also spotlights citizen‑science initiatives, illustrating that discovery can happen from a phone screen, and highlights niche documentaries that foreground field work over spectacle. The underlying insight is that learning science can be modular: quick overviews, deep dives, hands‑on participation, or playful apps all serve complementary roles. The editorial encourages readers to revisit foundational material, reminding us that knowledge, once distilled, stays relevant across decades.",
-    "summary_zh": "Retro Recomendo: 科学通过短视频、经典书籍和公民科学项目，提供可持续的科学学习路径。它强调快速回顾与深入阅读并行，展示了从AI论文到人体解剖、地质探险，再到互动维度游戏的多元学习方式。内容提醒我们，科学知识的价值在于其可复用性，旧闻新知交织，既能激发好奇，也能提供实践机会。",
-    "best_quote_en": "I find it a painless way to keep up in this fast moving field.",
-    "best_quote_zh": "它让我以一种轻松的方式跟上这个快速发展的领域。"
-  },
-  {
-    "id": 105,
-    "title": "Project Covalence",
-    "title_zh": "协同项目",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/project-covalence",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2020-06-16",
-    "summary_en": "Project Covalence emerges as a strategic response to the persistent bottleneck in COVID‑19 clinical trials: the sheer time, cost, and logistical burden of launching studies. By partnering with TrialSpark and leveraging Dr. Mark Fishman’s expertise, the platform offers a comprehensive, 21 CFR Part 11‑compliant ecosystem that spans remote data capture, telemedicine, at‑home specimen kits, biostatistics, and protocol drafting. The core insight is that community‑based, home‑centered trials can dramatically reduce hospital strain while accelerating enrollment. The initiative’s ambition to create master protocols for shared control arms and adaptive designs signals a shift toward modular, reusable trial infrastructure—an approach that could standardize best practices across academia and industry. The project’s value lies in its actionable, data‑driven model that transforms a traditionally siloed process into a shared, scalable resource, potentially reshaping how therapeutic candidates are evaluated in real‑world settings. Its implications extend beyond COVID‑19, offering a blueprint for rapid, decentralized research that could become a new norm for future public‑health crises.",
-    "summary_zh": "协同项目通过社区与居家试验，减少医院负担，加速招募，提供完整的远程数据、远程医疗、样本收集等一体化平台。它的核心在于构建共享控制组与自适应设计的主协议，推动临床试验从孤立到模块化，成为可复制、可扩展的科研基础设施，为未来公共卫生危机提供了快速、分散式研究的新范式。",
-    "best_quote_en": "Science remains the only way out of the COVID‑19 crisis.",
-    "best_quote_zh": "科学仍是摆脱 COVID‑19 危机的唯一途径。"
-  },
-  {
-    "id": 106,
-    "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
-    "title_zh": "通过了解独特的生物学，改变你的代谢健康与长寿 | 迈克尔·斯奈德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/transform-metabolic-health-longevity-unique-biology-michael-snyder",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "In this episode, Dr. Michael Snyder, a Stanford genetics professor, decodes the science behind why our bodies react so differently to food, exercise, and medication. He explains the concept of glucose responders, the impact of specific genes, and how lifestyle factors intertwine to shape metabolic health. Snyder highlights critical life stages where vigilance is essential and dives into how fiber types can elicit opposite responses in different people. He also explores cutting‑edge tools—from continuous glucose monitoring to wearable sensors—that enable precise self‑tracking. The discussion moves beyond simple diet advice to a holistic framework for longevity, covering everything from insulin sensitivity to epigenetics, microbiome dynamics, and even environmental exposures. For anyone curious about tailoring health interventions to their unique biology, the episode offers actionable insights, data‑driven recommendations, and a roadmap for personalized medicine. It blends expert analysis with practical tools, making complex genomics accessible and immediately useful.",
-    "summary_zh": "斯奈德博士用基因学剖析人类代谢差异，阐释葡萄糖响应者、基因表达与生活方式如何共同决定健康与寿命。节目揭示关键年龄节点、不同纤维的相反效应，并介绍连续血糖监测、可穿戴传感器等精准自我追踪工具。它将饮食、运动与环境因素融入一体，提供可操作、数据驱动的个性化长寿方案，既有科学深度，又易于落地。",
-    "best_quote_en": "We discuss how to optimize your health and lifespan according to what type of glucose responder you are, which genes you express, your lifestyle and other factors.",
-    "best_quote_zh": "人们对不同纤维类型的反应相反。"
-  },
-  {
-    "id": 107,
-    "title": "Q&A with Tim — Supplements I’m Taking, Austin vs. SF, Training for Mental Performance, Current Go-To AI Tools, Recovering from Surgery, Intermittent Fasting, and More (#826)",
-    "title_zh": "Q&A 与 Tim — 我正在服用的补剂、奥斯汀与旧金山、训练心理表现、AI 工具、手术恢复、间歇性禁食等（#826）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/09/qa-with-tim-supplements-ai-recovery/",
-    "tags": [
-      "analyze",
-      "health-wellness",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "健康养生",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "In this eclectic Q&A, Tim Ferriss weaves a tapestry of personal practice, cutting‑edge tech, and life‑design philosophy. He dissects his supplement stack—PAGG, BPC‑157, and a host of micronutrients—while linking each to measurable performance gains, offering a concrete “recipe” for readers. The conversation pivots to AI, where Ferriss recommends Consensus.app and LLMs for research, underscoring a workflow that blends machine‑assisted data mining with human vetting. He candidly shares his post‑surgery recovery, spotlighting sequencing, BFR training, and peptides, illustrating how deliberate, stepwise planning can accelerate healing. The episode also tackles the perennial debate of California vs. Austin for builders, and the subtle art of saying “no” to maintain focus. His reflections on intermittent fasting, philanthropy, and “fun as recovery” reveal a holistic mindset that marries productivity with well‑being. For listeners, the episode is a masterclass in applying systems thinking—sequencing, 80/20 analysis, and data‑driven choices—to both personal health and entrepreneurial ventures.",
-    "summary_zh": "在这场多元化的问答中，Ferriss 将个人实践、前沿技术与生活设计哲学交织成一幅织锦。他拆解自己的补剂组合——PAGG、BPC‑157 及多种微量营养素，并将每一种与可测量的表现提升挂钩，提供了具体的“配方”。随后，他讨论 AI 工具，推荐 Consensus.app 与 LLMs，用机器辅助数据挖掘与人工核查相结合的工作流程。Ferriss 还坦诚分享手术恢复过程，强调分步计划与 BFR 训练、肽类药物的作用，展示有条不紊的规划如何加速康复。",
-    "best_quote_en": "Sequencing is the crucial importance of breaking a problem down and solving its pieces in the right order.",
-    "best_quote_zh": "分解问题并按正确顺序解决各个部分的能力是关键——这就是序列化的重要性。"
-  },
-  {
-    "id": 108,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何独立思考",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "In “How to Think for Yourself,” the author dissects the anatomy of independent-mindedness and offers a practical playbook for cultivating it. The essay argues that for high‑impact fields—scientific research, investing, startup founding, and even essay writing—true value comes from ideas that are both correct and novel. It contrasts this with routine work, where correctness suffices. The author then identifies three core components of independent thinking: fastidiousness about truth, resistance to being told what to think, and curiosity. He explains how each can compensate for the others, and proposes concrete tactics—surrounding oneself with diverse, unconventional thinkers, practicing skeptical inquiry, and deliberately seeking out under‑explored ideas—to sharpen one’s own independent mindset. The piece blends psychological insight with actionable advice, making it a useful guide for anyone who wants to break free from groupthink and generate fresh, market‑creating ideas.",
-    "summary_zh": "作者在《如何独立思考》中剖析了独立思维的三大核心：对真理的严谨、拒绝被告知思路以及好奇心，并提出通过多元社交、批判性提问、寻找被忽视的领域等方法来培养。文章将独立思维与科学、投资、创业等高影响领域联系，强调原创性与正确性的双重价值，既是心理学洞察，也是实用指南。",
-    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
-    "best_quote_zh": "最好的寻找未被发现的想法的地方是别人在不关注的地方。"
-  },
-  {
     "id": 109,
     "title": "Dehydrators",
     "title_zh": "脱水机",
@@ -2360,5 +2240,119 @@
     "summary_zh": "文章认为“奇点”不是单一事件，而是正在展开的渐进共进化。算法推荐已深植我们的注意、情感与认知，人与日益先进的 AI 彼此强化，硬件与人才的指数增长将加速融合，催生基因增强与脑机接口，最终形成新型混合智能。作者警示若缺乏全球协调，人类可能失去对不可完全理解系统的掌控，呼吁读者意识到融合的紧迫性并积极参与这一技术进程。",
     "best_quote_en": "The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out— they are what today seems like sophisticated AI, and tomorrow will seem like child’s play.",
     "best_quote_zh": "让这一切发生的算法已不再被任何人完全理解。它们按创作者告诉它们的目标进行优化，但以人类无法想象的方式——今天它们看起来像高级 AI，明天又像儿童玩具。"
+  },
+  {
+    "id": 204,
+    "title": "General and Surprising",
+    "title_zh": "一般与惊人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/sun.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The piece argues that the most valuable insights combine generality and surprise—a rare pairing that yields lasting impact. It points out that while many thinkers produce either broad truths or startling revelations, few manage to merge both. The author suggests that the sweet spot lies in incremental novelty: a small delta of fresh perspective added to an otherwise familiar idea. This approach keeps the insight grounded yet original, allowing writers to build a chain of ideas that grow in depth. He warns against discouragement when others deem an insight “not much new,” emphasizing that even modest novelty can trigger a multiplier effect. The essay also addresses the inevitable repetition in creative work, framing it as a natural, even beneficial, process that can refine and deepen understanding. Overall, it offers a pragmatic roadmap for generating ideas that are both broadly applicable and intriguingly new, encouraging persistence and iterative refinement.",
+    "summary_zh": "作者指出最有价值的洞见兼具普遍性与惊喜，难以实现。建议通过小幅创新（delta）在熟悉概念上增添新意，既保持可理解性，又具原创性。强调即使是微小的新颖也能产生乘数效应，鼓励持续迭代，避免因他人质疑“没新意”而气馁。",
+    "best_quote_en": "A small delta of novelty is all you'll be able to get most of the time.",
+    "best_quote_zh": "你讨论的想法越普遍，你就越不必担心重复自己。"
+  },
+  {
+    "id": 205,
+    "title": "Did Democrats Win the Shutdown After All?",
+    "title_zh": "民主党最终赢得政府停摆了吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/did-democrats-win-the-shutdown-after-all",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "In this incisive piece, the author dissects how Democrats leveraged the longest U.S. shutdown to pivot public focus toward health‑care subsidies and Trump’s alleged corruption. He argues that, while the shutdown failed to single out a clear victor in the media, it nonetheless carved a modest political advantage for Democrats in the recent off‑year elections. The article critiques the cost–benefit calculus: a protracted standoff could harm federal workers and inflate Obamacare premiums, whereas a compromise risks alienating the base. By tracing the split in the Senate, the media’s muted framing, and the backlash from progressive leaders, the author calls for a middle ground between hard‑line tactics and pragmatic concessions. He concludes that the party’s future hinges on embracing a “spirit of diversity” and coalition‑building rather than relentless confrontation, offering a nuanced roadmap for navigating the post‑shutdown landscape.",
+    "summary_zh": "在这篇深度分析中，作者从政府停摆的历史与政治角度剖析民主党如何利用停摆制造舆论焦点，聚焦医保与特朗普腐败。文章指出停摆虽未如预期集中公众注意，却在选举中为民主党赢得了一定的舆论优势。作者批判停摆背后的权衡：若继续斗争可能导致联邦雇员受损与医保费用上升，若妥协则可能被基线抛弃。通过对立派议员投票与媒体反应的细致描写，作者呼吁党内在激进与温和之间寻找平衡，强调“精神多样性”与“联盟建设”是未来的关键。",
+    "best_quote_en": "If I were in the Senate, I wouldn’t vote for this compromise.",
+    "best_quote_zh": "如果我是参议员，我不会投这份妥协。"
+  },
+  {
+    "id": 206,
+    "title": "Utensils",
+    "title_zh": "器具",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/utensils/",
+    "tags": [
+      "solve",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "The piece is a curated tour of five seemingly ordinary utensils that quietly transform everyday chores into effortless rituals. From the “Magic Fish Scaler,” a tiny hex‑bit device that shields the thumb and keeps scales from splattering, to the Norpro Comfort Grip Deluxe Scraper, whose clever middle‑thickened profile and dual‑curved edges tackle both rounded and square pans, each item embodies a lesson in user‑centric design. The Dexter‑Russell Dough Scraper proves that a wide wooden handle can turn a mundane counter‑cleaner into a multi‑purpose transport tool, while the Best Flour Duster shows how a spring‑loaded wire can dust a surface evenly in seconds. Even the Vic Firth Pump‑and‑Grind Pepper Mill demonstrates that portability and ergonomics can coexist in a tiny cylinder. Finally, the Banana Guard turns a fragile fruit into a travel‑ready companion, proving that thoughtful packaging can preserve freshness on the go. Together, the stories illustrate how small, well‑thought‑out tools can solve persistent pain points, inspire creative workarounds, and remind us that ingenuity often lives in the overlooked.\n",
+    "summary_zh": "文章挑选了五款看似普通却能让日常琐事变得轻松的工具：从能保护手指防止鱼鳞飞溅的魔法鱼鳞刀，到兼顾圆角与方角锅具的 Norpro 刮刀，再到能多用途搬运食材的 Dexter‑Russell 面团刮刀，甚至连可随身携带的 Vic Firth 迷你胡椒粉磨碎机和香蕉保护盒都展示了巧妙的设计思路。每件物品都体现了以用户为中心的设计理念，解决了实际痛点，并提醒我们创新往往隐藏在被忽视的细节中。\n",
+    "best_quote_en": "What would make you design a fish scaler with what looks like plastic hex‑head bits loosely attached to the underside of a circular disc? It doesn’t make sense. But it works!",
+    "best_quote_zh": "你会怎么设计一把看似把塑料六角头件松散地附着在圆盘底部的鱼鳞刀？这看不太合理。但它确实能用！"
+  },
+  {
+    "id": 207,
+    "title": "American Equity",
+    "title_zh": "美国股权",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/american-equity",
+    "tags": [
+      "update",
+      "economics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2017-11-27",
+    "summary_en": "The “American Equity” proposal envisions a radical redistribution of national prosperity: every adult U.S. citizen would receive an annual share of the country’s GDP. By turning the nation into a shared‑ownership economy, the idea seeks to align individual incentives with collective growth, counteract wealth concentration, and smooth the transition to an automation‑driven future. The author argues that such a system would boost social cohesion, eliminate absolute poverty, and free people to pursue meaningful work. However, the proposal faces formidable practical hurdles—tax‑system overhaul, immigration policy recalibration, rules on transferability and borrowing, and coordination with housing, education, and health reforms. While the concept is bold and potentially transformative, it remains highly controversial and would require a profound shift in political will and public imagination. Its merit lies in stimulating debate about the distribution of wealth in a modern economy and the role of the state in ensuring inclusive prosperity.",
+    "summary_zh": "美国股权计划提出让每位成年美国公民每年获得国内生产总值的一份，试图通过共享国家繁荣来对抗财富集聚与自动化冲击。作者认为此举可激发社会凝聚力、消除绝对贫困，并为未来技术转型提供缓冲。然而，实施需克服税制改革、移民政策、转让与借贷规则等复杂障碍，并与住房、教育、医疗等结构性改革相配合。该方案兼具大胆与争议性，既是对传统分配机制的创新，也是对美国社会公平与经济活力的深刻试探。",
+    "best_quote_en": "If everyone benefits more directly from economic growth, then it will be easier to move faster toward this better world.",
+    "best_quote_zh": "如果每个人能更直接地从经济增长中受益，那么我们就更容易更快地迈向更好的世界。"
+  },
+  {
+    "id": 208,
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "title_zh": "你的思维是如何构建的，以及你如何塑造它们 | Dr. Jennifer Groh",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
+    "tags": [
+      "learn",
+      "education",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Dr. Jennifer Groh, a Duke University professor of psychology and neuroscience, unpacks the neural choreography that turns raw sights and sounds into coherent thoughts. She explains that our brains build dynamic maps of the world, constantly integrating sensory streams to guide navigation, decision‑making, and even future expectations. The episode pivots on a deceptively simple insight: the focus you give to particular stimuli not only shapes the thoughts you have in the moment, but also rewires the default pathways that will govern your mind for years to come. By weaving together research on auditory localization, visual‑auditory integration, and the neurobiology of attention, Groh offers a toolkit of actionable techniques—mental interval training, environmental cues, and deliberate practice—to enhance focus, happiness, and task‑switching efficiency. Her perspective is both evidence‑based and immediately applicable, making the discussion relevant to anyone from students to high‑performance professionals. The conversation invites listeners to rethink the plasticity of their own cognition and to actively sculpt the narratives that drive their lives.",
+    "summary_zh": "在这期节目中，杜克大学心理与神经科学教授Jennifer Groh揭示了大脑如何编码感官信息并将其整合，形成我们的思维。她强调，关注点决定思维轨迹，甚至影响未来思维模式。通过讨论注意力训练、情绪调节与任务切换，她提供了一套可操作的神经重塑工具，帮助听众提升专注力与幸福感。内容兼具科学严谨与实用性，适合对认知科学感兴趣、想提升自我管理能力的人群。",
+    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
+    "best_quote_zh": "你专注的事物决定了你的思想，不仅仅是在那一刻，而是对你未来的思想也有影响。"
   }
 ]
