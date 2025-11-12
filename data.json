@@ -1,123 +1,5 @@
 [
   {
-    "id": 109,
-    "title": "Dehydrators",
-    "title_zh": "脱水机",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/dehydrators/",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "Dehydrators are more than kitchen gadgets; they’re a gateway to sustainable food preservation, DIY nutrition, and adventure readiness. In this article, the author compares two popular models—Nesco’s budget‑friendly unit and Excalibur’s premium, high‑capacity machine—highlighting design differences, airflow mechanics, and temperature ranges. Readers learn how to optimize drying times for delicate fungi, fruits, and even photographs, and discover the importance of a top‑down heating system for even distribution. The piece also turns to bulk freeze‑dried suppliers like Honeyville and Harmony House, offering cost‑effective options for backpackers and long‑haul travelers. Practical tips such as using non‑stick drying sheets, selecting the right temperature, and leveraging extended warranties give the reader actionable steps. The narrative blends personal anecdotes with data‑driven comparisons, creating a guide that feels both expert‑insightful and accessible to beginners. Whether you’re a weekend forager or a seasoned camper, the article equips you to build a versatile, low‑weight pantry that keeps flavor and nutrition intact.",
-    "summary_zh": "脱水机不仅是厨房小工具，更是可持续食物保存与户外营养的桥梁。文中对Nesco与Excalibur两款机型进行细致对比，阐释空气流动、温控与容量差异，并给出蘑菇、果干等食材的干燥技巧。作者还推荐Honeyville、Harmony House等批发冻干食品，帮助背包客和长途旅行者节省成本。实用建议如使用防粘烘干纸、选温度与保修策略，提供可操作步骤。个人经验与数据对比相结合，使内容既具专业洞见，又易于初学者理解，为读者打造轻量、保鲜、口味兼备的食品储备。",
-    "best_quote_en": "The Nesco Food Dehydrator is a simple, affordable, and well‑built tool for drying foods quickly and thoroughly.",
-    "best_quote_zh": "Nesco脱水机是一款简单、价格亲民、结构坚固的工具，可快速彻底地干燥食物。"
-  },
-  {
-    "id": 110,
-    "title": "Idea Generation",
-    "title_zh": "创意生成",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/idea-generation",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-05-28",
-    "summary_en": "The article dissects the elusive art of generating startup ideas, arguing that founders must cultivate an almost constant ideation habit rather than hunting for a single ‘golden’ concept. It highlights the importance of surrounding oneself with future‑oriented, low‑filter thinkers who celebrate even the most fragile, seemingly silly ideas. By projecting 20 years ahead and identifying tectonic shifts—like the mobile‑phone boom—the author shows how early recognition of emerging platforms can reveal hidden opportunities. Crucially, the piece stresses that a startup’s long‑term advantage hinges on the founder’s fit with the company, not just product‑market fit, and that a good idea must be defensible against widespread skepticism. The insights blend practical advice with a visionary mindset, urging founders to test ideas against their own strengths and the future’s unmet needs, turning curiosity into actionable strategy.",
-    "summary_zh": "文章探讨创始人如何持续生成创业点子，强调与未来导向、低过滤思考者共处的重要性；通过预判二十年后趋势与地质性变革，发现隐藏机遇；提出创始人/公司契合度与产品/市场契合度同等关键，鼓励用自身优势检验点子，推动好奇转化为可执行策略。",
-    "best_quote_en": "Founder/company fit is as important as product/market fit.",
-    "best_quote_zh": "创始人/公司与产品/市场的契合度同样重要。"
-  },
-  {
-    "id": 111,
-    "title": "How to Overcome Inner Resistance | Steven Pressfield",
-    "title_zh": "如何克服内在抵抗 | 史蒂文·普雷斯菲尔德",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/overcome-inner-resistance-steven-pressfield",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "Steven Pressfield, author of *The War of Art*, dismantles the invisible wall of inner resistance that keeps creators, entrepreneurs, and everyday professionals from realizing their full potential. He argues that resistance is not a mystical force but a self‑sabotaging, procrastination‑driven habit that thrives on doubt, perfectionism, and distraction. Pressfield’s strategy is grounded in concrete, repeatable practices: setting a disciplined daily schedule, breaking work into small, manageable milestones, and cultivating a physical training routine that mirrors the mental rigor required for creative output. He emphasizes the importance of “turning pro”—adopting the habits of professionals rather than amateurs—and of embracing failure as a data point, not a verdict. His advice is actionable, data‑driven, and designed for people who want to move from intention to execution, making this episode a practical playbook for anyone seeking to convert ambition into tangible results.",
-    "summary_zh": "史蒂文·普雷斯菲尔德把“抵抗”视为拖延与自我怀疑的化身，提供可执行的日程、目标拆分与身体训练等实用技巧，帮助创作者与专业人士把握行动与成就。",
-    "best_quote_en": "Resistance is the self‑sabotaging tendency to procrastinate on your life’s most important work that keeps you from realizing your professional and creative potential.",
-    "best_quote_zh": "抵抗是自我破坏的倾向，让你拖延最重要的工作，从而阻止你实现专业和创造性潜力。"
-  },
-  {
-    "id": 112,
-    "title": "Early Work",
-    "title_zh": "早期工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/early.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "The piece confronts a universal barrier to innovation: the dread of producing a “lame” first draft. Drawing on his tenure at Y Combinator, the author argues that this fear is not irrational but a product of shallow standards and a lack of institutional customs for handling embryonic ideas. He illustrates how Silicon Valley’s culture—its willingness to tolerate rough prototypes and its optimistic, over‑confident mindset—has become a social custom that fuels breakthrough ventures. Practical tactics are offered: reframe early work as a sketch or a hack, inflate the perceived importance of the project, surround yourself with peers who can distinguish a promising “ugly duckling” from a dead end, and adopt a learning‑oriented experiment mindset. The essay blends anecdote, behavioral science, and a call for a cultural shift, urging readers to treat early failures as knowledge and to cultivate optimism as a strategic advantage. It is both a guide and a motivational manifesto for founders, designers, and anyone who must turn raw ideas into reality.",
-    "summary_zh": "作者指出，害怕早期成果被视为“烂”的恐惧并非无理，而是缺乏容忍粗糙原型的文化所致。以硅谷为例，作者展示了如何将低标准转为对想法的乐观挑战，并提供实用技巧：把早期工作视为草图或实验，夸大其重要性，寻找能辨别“美人鱼”与失败的同行，培养以学习为导向的实验心态。文章融合案例与行为科学，呼吁读者将失败视为知识，将乐观视为战略优势，既是指南也是激励宣言。",
-    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination – not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won’t work to trying to think of ways it could.",
-    "best_quote_zh": "处理新想法的正确方式是将其视为对你想象力的挑战——不是降低标准，而是完全改变思维，从列举想法行不通的原因转向寻找它可能实现的方式。"
-  },
-  {
-    "id": 113,
-    "title": "A Wild Swan / The Creative Cottage",
-    "title_zh": "野鹅 / 创意小屋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
-    "tags": [
-      "guide",
-      "design",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "Michael Cunningham’s anthology, *A Wild Swan and Other Tales*, reimagines classic fairy tales with a razor‑sharp, sardonic voice that exposes the hollows of the happily‑ever‑after myth. By shifting perspectives, inserting time jumps, and giving characters new motivations—such as Rumpelstiltskin’s baby‑mania in “Little Man” and the beanstalk climber’s luck in “Jacked”—Cunningham invites readers to question narrative conventions while still indulging in the familiar. The companion volume, *The Creative Cottage*, showcases 13 meticulously restored tiny homes that blend upcycled, antique, and modern elements, offering a visual feast for lovers of architecture and sustainable design. Together, the two books celebrate the power of reinvention: one through literary subversion, the other through physical transformation. They prompt us to see the ordinary as a canvas for creativity, reminding that stories and spaces alike can be reshaped to reflect deeper truths and personal vision. Both works are intellectually stimulating, aesthetically refined, and inspire a mindful re‑engagement with the world around us.",
-    "summary_zh": "迈克尔·坎宁安的《野鹅与其他故事》以犀利讽刺的语调重塑经典童话，揭示“幸福永远”叙事的空洞；而《创意小屋》展示13座改造小屋，融合回收与古董，呈现可持续设计之美。两书共同强调再造的力量，激励读者以新视角审视故事与空间，提醒我们创意与真诚可在日常中绽放。",
-    "best_quote_en": "“End of story. ‘Happily ever after’ fell on everyone like a guillotine’s blade.”",
-    "best_quote_zh": "“故事结束。‘从此以后幸福’像断头台的刀刃一样落在每个人身上。”"
-  },
-  {
     "id": 114,
     "title": "Please Fund More Science",
     "title_zh": "请多资助科学",
@@ -2354,5 +2236,125 @@
     "summary_zh": "在这期节目中，杜克大学心理与神经科学教授Jennifer Groh揭示了大脑如何编码感官信息并将其整合，形成我们的思维。她强调，关注点决定思维轨迹，甚至影响未来思维模式。通过讨论注意力训练、情绪调节与任务切换，她提供了一套可操作的神经重塑工具，帮助听众提升专注力与幸福感。内容兼具科学严谨与实用性，适合对认知科学感兴趣、想提升自我管理能力的人群。",
     "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
     "best_quote_zh": "你专注的事物决定了你的思想，不仅仅是在那一刻，而是对你未来的思想也有影响。"
+  },
+  {
+    "id": 209,
+    "title": "5 Things I Learned After 10 Days of Inkhaven",
+    "title_zh": "10天Inkhaven之后我学到的五件事",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wHfseCBgYSiA9Nz47/5-things-i-learned-after-10-days-of-inkhaven",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "Inkhaven’s 10‑day residency proves that daily publishing can be both a disciplined habit and a social experiment. The author’s first lesson is that a hard publishing deadline eliminates excuses: 41 writers produce over 400 posts with minimal attrition. The second insight is the psychological timing of output—many posts are finished just before midnight, revealing a tension between urgency and quality. Third, the built environment was largely ignored; writers gravitated to living rooms and lunch tables, showing that physical space design alone doesn’t dictate behavior. Fourth, the program feels energizing rather than stressful, suggesting that forced output can create a positive feedback loop when well supported. Finally, the biggest flaw is the lack of proactive collaboration: despite a roster of high‑profile mentors, residents rarely seek help, pointing to a market failure in peer‑review incentives. These observations offer a data‑driven case study on habit formation, community design, and the economics of creative labor.",
+    "summary_zh": "Inkhaven 10 天的写作驻留实验显示，强制每日发布能消除借口，41 位作者共产 400+ 篇文章，几乎无流失。多数作品在午夜前完成，揭示了紧迫感与质量的张力。空间设计被忽视，作者更倾向于客厅和餐桌，说明物理环境并非决定因素。整体氛围更激励人而非压力，表明强制输出在良好支持下可产生正反馈。最大的问题是缺乏主动合作：尽管有众多导师，作者很少主动求助，暴露出同行评审激励的市场失灵。此案例为习惯养成、社区设计与创意劳动经济提供数据驱动的洞见。",
+    "best_quote_en": "People suck at proactively getting help from other people.",
+    "best_quote_zh": "人们主动寻求他人帮助的能力很差。"
+  },
+  {
+    "id": 210,
+    "title": "The Hidden Devastation of Hurricanes",
+    "title_zh": "飓风的隐藏毁灭",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The piece uncovers the invisible toll of hurricanes, revealing that cardiovascular deaths and hospitalizations spike for years after a storm. By weaving epidemiological data from Medicare, NOAA, and academic studies, the author demonstrates that indirect deaths—heart attacks triggered by evacuation stress, electrocutions, or loss of medical access—can rival or exceed official counts. The narrative also links long‑term economic decline and disrupted health infrastructure to rising infant mortality and chronic disease prevalence. Importantly, the article argues that recovery budgets must shift from immediate damage control to sustained health and economic support, including neonatal care, insurance enrollment, and rapid‑response funding. The analysis highlights the systemic nature of disaster impacts, urging policymakers to rethink post‑hurricane strategies in a warming world where storms grow stronger and linger longer. It challenges readers to see hurricanes not just as fleeting catastrophes but as catalysts for prolonged public health crises.",
+    "summary_zh": "文章揭示飓风的隐形伤害：心血管疾病和住院率在风暴后数年内持续飙升。作者通过医疗、气象与学术数据，证明间接死亡可与官方统计相当甚至超越。经济衰退、医疗设施瘫痪进一步加剧婴儿死亡与慢性病风险。文章主张恢复投入需从即时灾害修复转向长期健康与经济支持，如新生儿护理、保险覆盖与快速响应基金。此分析提醒政策制定者，面对气候加剧的更强飓风，应重新审视灾后策略，视其为长期公共卫生危机的催化剂。",
+    "best_quote_en": "They pull at every element of the fabric of society.",
+    "best_quote_zh": "它们会拉扯社会结构的每一个元素。"
+  },
+  {
+    "id": 211,
+    "title": "Only What’s Necessary / The White Donkey",
+    "title_zh": "仅必要之物 / 白色驴子",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The article juxtaposes two distinct yet thematically resonant books: Chip Kidd’s visual compendium on Charles M. Schulz’s “Peanuts” and Maximilian Uriarte’s stark, autobiographical comic‑novel about the Marine Corps’ existential crisis. In the first, the author dissects the meticulous production process, ephemera, and design philosophy that underlie a seemingly simple strip, revealing the depth behind “only what’s necessary.” The second follows a young Marine’s trajectory from training to combat, using minimalist art and vivid color washes to expose hazing, PTSD, and the alienation of veterans. Both works illuminate how narrative, visual style, and context intertwine to convey complex human experience. I’m struck by how the article treats these texts as case studies—showing that even a beloved comic can be a lens on society, while a war‑comic can humanize institutional critique. The critical lens invites readers to reflect on art’s role in documenting history and on storytelling’s power to challenge assumptions.",
+    "summary_zh": "两本书分别聚焦于史诗级的设计与战争体验，第一本通过《Peanuts》创作史揭示简约之美，第二本以海军陆战队的视角探讨存在危机。文章将两者对比，强调叙事与视觉的力量，并在细节与人性之间寻找共通点。个人阅读中，发现艺术与现实的对话能激发深层思考，让我们重新审视创作与生存的意义。",
+    "best_quote_en": "The title comes from Schulz himself, who referred to his cartooning style as keeping only what’s necessary.",
+    "best_quote_zh": "标题来自舒尔茨本人，他把自己的漫画风格称为只保留必要的东西。"
+  },
+  {
+    "id": 212,
+    "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+    "title_zh": "必备：定时光照以提升睡眠、能量与情绪 | Dr. Samer Hattar",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-timing-light-for-better-sleep-energy-and-mood-dr-samer-hattar",
+    "tags": [
+      "inspire",
+      "medicine",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2025-08-21",
+    "summary_en": "Dr. Samer Hattar, chief of the Section on Light and Circadian Rhythms at NIMH, delves into the science of how light governs our internal clock and, in turn, mood, sleep, appetite, learning, and overall mental health. He explains that aligning our circadian rhythm with natural light patterns—morning sun exposure, dim evening lighting, and consistent meal timing—can unlock more restful sleep, heightened energy, and a steadier mood. The episode offers concrete, actionable protocols, from morning sunlight routines to screen‑time limits, that listeners can implement immediately. It also tackles common challenges—jet lag, seasonal depression, and the impact of artificial lighting—providing evidence‑based strategies to mitigate them. Beyond the practical advice, Hattar’s insights illuminate the broader implications of circadian biology for productivity and wellbeing, underscoring the power of simple environmental adjustments. As someone fascinated by the intersection of neuroscience and everyday life, I find this episode both a roadmap and a reminder that our bodies are finely tuned to the light we encounter.",
+    "summary_zh": "哈塔博士阐述光照如何同步昼夜节律，影响睡眠、情绪与学习。他提供晨光暴露、晚间调暗灯光、规律饮食等实用方案，帮助缓解时差与季节抑郁。此篇既是行动指南，也提醒我们日常环境的微调能显著提升身心健康。",
+    "best_quote_en": "Light powerfully shapes mood, sleep, appetite, learning and overall mental health by aligning—or misaligning—our internal circadian clock.",
+    "best_quote_zh": "光强烈地塑造情绪、睡眠、食欲、学习以及整体心理健康，通过与我们内部昼夜节律的同步或错位。"
+  },
+  {
+    "id": 213,
+    "title": "Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
+    "title_zh": "Ben Patrick（KneesOverToesGuy）——20分钟训练，带来惊人效果：从慢性膝痛到扣篮，受 Charles Poliquin 教训，打造坚固下肢，更多内容 (#835)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/11/ben-patrick-kneesovertoesguy/",
+    "tags": [
+      "learn",
+      "medicine",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "Ben Patrick, aka KneesOverToesGuy, has turned personal knee injury into a global movement that redefines lower‑body training. The episode dissects his 20‑minute, joint‑centric workouts, the science behind knee‑over‑toe progression, and how he blended Poliquin’s deep‑range strength philosophy with modern biomechanics. Listeners learn concrete drills—tib bar, backward sled, and split squat—each explained with clear metrics, progression tables, and injury‑prevention logic. Patrick also explains his “minimum effective dose” mindset, showing that consistency beats intensity when building functional strength. The conversation frames knee health as a performance lever, not a medical problem, and offers actionable protocols for students, athletes, and anyone with chronic pain. By weaving case studies, expert insight, and data‑driven principles, the episode transforms a niche niche into a practical playbook for anyone seeking pain‑free, high‑level movement.",
+    "summary_zh": "Ben Patrick（KneesOverToesGuy）将个人膝伤逆转为全球训练范式。节目拆解20分钟膝关节核心动作，融合Poliquin深度范围力量与现代运动生物力学。听众可获得Tib Bar、后向滑雪、分腿深蹲等实战练习，附进阶表格与伤害预防逻辑。Patrick阐述“最小有效量”理念，强调持续比高强度更能提升功能性力量。整段对话把膝部健康视为性能杠杆，而非单纯医疗问题，提供可操作的协议，适用于学生、运动员与慢性疼痛者。通过案例、专家见解与数据驱动原则，节目将专业知识转化为痛感消除与高水平动作的实用手册。",
+    "best_quote_en": "Strength is gained in the range it is trained.",
+    "best_quote_zh": "力量在训练的范围内获得。"
   }
 ]
