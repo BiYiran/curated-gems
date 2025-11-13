@@ -1,121 +1,5 @@
 [
   {
-    "id": 114,
-    "title": "Please Fund More Science",
-    "title_zh": "请多资助科学",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/please-fund-more-science",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-03-30",
-    "summary_en": "The piece urges investors and donors to redirect capital toward pandemic‑related science, framing the COVID crisis as a unique rallying point for rapid innovation. It highlights how vaccine development, therapeutics, and public health measures hinge on sustained funding and collaboration. The author laments the federal government’s limited R&D investment while praising the unprecedented speed and focus of biotech firms and research labs. By calling science the key to a post‑pandemic world, the article positions funding as a lever for both societal resilience and economic opportunity. The tone blends urgency with optimism, suggesting that investors can play a pivotal role in accelerating breakthroughs and shaping a future where new viruses are met with swift, coordinated scientific responses. The piece is a rallying cry for a more science‑centric public policy, urging a shift from reactive to proactive investment.\n",
-    "summary_zh": "文章呼吁投资者将资本转向疫情相关科研，认为COVID危机是推动创新的独特契机。作者批评政府R&D投入不足，却赞叹生物技术公司与研究实验室的速度与专注。强调资金与合作是疫苗、疗法与公共卫生措施的关键，认为科学是后疫情世界的基石。文中以紧迫感与乐观并存，指出投资者能加速突破并塑造快速应对新病毒的未来，呼吁更以科学为核心的公共政策，推动从被动到主动的投资转变。",
-    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
-    "best_quote_zh": "科学家可以帮助我们摆脱困境，他们需要的是资金和人脉。"
-  },
-  {
-    "id": 115,
-    "title": "The Tim Ferriss Show Transcripts: Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300, and Much More (#831)",
-    "title_zh": "Tim Ferriss节目文字稿：弗兰克·米勒，漫画传奇——创作过程、黑暗骑士归来、罪恶之城、300等更多（#831）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/20/frank-miller-transcript/",
-    "tags": [
-      "learn",
-      "writing-content",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "Frank Miller’s interview with Tim Ferriss offers a masterclass in creative methodology, blending raw artistic philosophy with disciplined storytelling. Miller traces his evolution from a 1970s Daredevil illustrator to the visionary behind Sin City, Dark Knight Returns, and 300, revealing how he subverted comic conventions by enlarging panels, inking black first, and treating the page as a cinematic frame. He explains that storytelling starts with a definitive ending, then builds a “spine” that guides pacing and emotional beats, and that the true innovation lies in marrying structure with spontaneity. The conversation also uncovers Miller’s mentorship network—Neal Adams, Jack Kirby, and Japanese influences—showing how cross‑cultural dialogue fuels artistic breakthroughs. His candid reflections on failure, the necessity of “killing the darlings,” and the importance of asking why resonate beyond comics, offering actionable insights for writers, designers, and entrepreneurs seeking to push boundaries. The dialogue is a rich source of inspiration for anyone who values disciplined creativity and relentless questioning.",
-    "summary_zh": "弗兰克·米勒与Tim Ferriss的访谈揭示了创作的核心：先定终点，再构架“脊梁”，让节奏与情感自然而来。米勒从《惊奇队长》到《罪恶之城》与《300》，通过放大画面、先打黑、把页面当作电影镜头，彻底颠覆漫画传统。谈及导师、跨文化影响，他强调与Neal Adams、Jack Kirby以及日本漫画的交流是突破的源泉。对失败的坦诚、删减“心爱的作品”的必要性以及不断提问的价值，激励创作者勇于突破，持续追问“为什么”。这段对话为作家、设计师和企业家提供了可操作的思维工具。",
-    "best_quote_en": "Ask every question.",
-    "best_quote_zh": "为什么？"
-  },
-  {
-    "id": 116,
-    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
-    "title_zh": "看到孕妇出现在公众视野中真好——但她们都必须如此美丽吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This opinion piece interrogates the media’s portrayal of pregnancy, using Victoria Secret’s decision to showcase a heavily‑pregnant model as a springboard for a broader critique. The author argues that the industry’s emphasis on glamour perpetuates a narrow, unrealistic standard that marginalizes the everyday experiences of most pregnant women. By juxtaposing the brand’s spectacle with the lived realities of postpartum bodies, the article invites readers to re‑examine how representation shapes societal expectations and body‑image anxiety. The piece is both a call to diversify imagery and a reflection on the commodification of maternity, pointing out that empowerment is lost when it is reduced to a marketing gimmick. It underscores the need for authentic narratives that celebrate the physical and emotional transformations of pregnancy, rather than merely aesthetic appeal. The author’s personal perspective—rooted in her own postpartum experience—adds credibility and emotional resonance, encouraging readers to question the intersection of commerce, culture, and the lived reality of motherhood.",
-    "summary_zh": "文章以维多利亚秘密的孕期模特为引子，批判媒体对孕妇形象的美化与刻板，呼吁呈现真实多元的孕产体态。作者用个人经验与批判视角，提醒读者关注商业化下的身体认同与文化期待。",
-    "best_quote_en": "Perhaps seeing more pregnant and postpartum bodies in the media could be a net gain for womankind.",
-    "best_quote_zh": "或许在媒体中看到更多孕产体态会给女性带来正面影响。"
-  },
-  {
-    "id": 117,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "财富税建模",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "Modeling a Wealth Tax offers a stark illustration of how incremental rates can erode a founder’s equity over time. By treating wealth tax as a continuous compounding charge rather than a one‑off levy, the author demonstrates that even a modest 1‑2 % annual rate can strip away 45‑70 % of a startup founder’s holdings after six decades. The analysis foregrounds the importance of thresholds, showing that a $50 M exemption can dramatically reduce the tax burden yet still leave a sizable share captured. The piece is data‑driven, grounded in clear mathematical examples, and serves as both a cautionary tale and a practical guide for entrepreneurs contemplating long‑term wealth preservation. It challenges the common intuition that wealth taxes are negligible, prompting readers to rethink policy design and personal financial strategy.",
-    "summary_zh": "《财富税建模》以清晰的数学模型揭示，年税率仅1%–2%就能在60年内夺走45%–70%的创始人持股。阈值设定虽能缓解税负，却仍显著影响资产增值。文章以数据为基础，既是警示，也是创业者长远财富规划的实用指南。",
-    "best_quote_en": "The reason wealth taxes have such dramatic effects is that they're applied over and over to the same money. A wealth tax compounds.",
-    "best_quote_zh": "财富税之所以产生如此戏剧性影响，是因为它们会一次又一次地对同一笔资产征税。财富税会复利。"
-  },
-  {
-    "id": 118,
-    "title": "What’s in my NOW? — Aishwarya Goel",
-    "title_zh": "我的现在是什么？— Aishwarya Goel",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
-    "tags": [
-      "solve",
-      "design",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "Aishwarya Goel’s “What’s in my NOW?” reads like a curated diary of the tools that scaffold her day, from a Philips floor lamp that morphs ambience to a DASH Mini Maker griddle that turns breakfast into a ritual. The post blends the mundane with the meaningful, illustrating how thoughtfully chosen physical items can shape mood and productivity. The digital section showcases MyNetDiary’s AI‑powered meal analysis and Bear Blog’s minimalist UX, highlighting the power of intuitive interfaces to sustain long‑term habits. The narrative is not merely a list; it’s a case study in self‑optimization, where each item is justified by a tangible outcome—faster cooking, clearer logging, steadier writing. The final quote, “Excellence is the capacity to take pain,” frames the entire exercise as disciplined practice rather than passive consumption. For readers, the piece offers a roadmap of actionable, tech‑savvy habits that can be adapted to any lifestyle, while subtly urging an appreciation for the small, deliberate choices that accumulate into a coherent identity.",
-    "summary_zh": "Aishwarya的“我的现在是什么？”像一份工具日记，展示灯光、烤盘、应用如何塑造情绪与效率。她将实物与数字工具结合，强调直观设计与习惯养成的力量。文章既是个人案例，也是自我优化的路线图，提醒读者小而有意的选择能聚成身份。",
-    "best_quote_en": "Excellence is the capacity to take pain. — James Dyson, founder, Dyson.",
-    "best_quote_zh": "卓越是承受痛苦的能力。—詹姆斯·戴森，戴森创始人"
-  },
-  {
     "id": 119,
     "title": "Funding for COVID-19 Projects",
     "title_zh": "COVID-19项目融资",
@@ -2356,5 +2240,121 @@
     "summary_zh": "Ben Patrick（KneesOverToesGuy）将个人膝伤逆转为全球训练范式。节目拆解20分钟膝关节核心动作，融合Poliquin深度范围力量与现代运动生物力学。听众可获得Tib Bar、后向滑雪、分腿深蹲等实战练习，附进阶表格与伤害预防逻辑。Patrick阐述“最小有效量”理念，强调持续比高强度更能提升功能性力量。整段对话把膝部健康视为性能杠杆，而非单纯医疗问题，提供可操作的协议，适用于学生、运动员与慢性疼痛者。通过案例、专家见解与数据驱动原则，节目将专业知识转化为痛感消除与高水平动作的实用手册。",
     "best_quote_en": "Strength is gained in the range it is trained.",
     "best_quote_zh": "力量在训练的范围内获得。"
+  },
+  {
+    "id": 214,
+    "title": "Charisma / Power",
+    "title_zh": "魅力 / 权力",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pow.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "At first glance the piece is a brief reflection on the paradox of power without charisma. By citing Hillary Clinton and the archetypal ‘builder‑type’ CEO, the author dramatizes how authority can become a magnet for criticism when it is not paired with magnetic personality. The core insight is that such criticism is not always a sign of incompetence; it can signal that the individual is, paradoxically, the right fit for a role that demands vision and execution over charm. The author’s candid admission that there is no cure for the problem underscores a broader human truth: leadership is a messy, ambivalent mix of strengths and blind spots. For readers, the essay offers a nuanced lens to reframe criticism as a diagnostic tool rather than a verdict, inviting leaders to embrace their unique skill sets while acknowledging the limits of charisma. The piece resonates with anyone navigating the tension between technical prowess and interpersonal appeal, making it a valuable prompt for introspection and strategic self‑assessment.",
+    "summary_zh": "这篇短文以希拉里·克林顿为例，揭示了权力与魅力不匹配时，批评的聚焦如何变成领导的负担。作者认为，批评并不总是能力不足的标志，而是对那些需要远见与执行而非花招的“建造者”CEO 的一种验证。文章坦言没有万能解药，提醒我们领导力本质上是光与影的交织。对读者而言，它提供了一种把批评视为诊断工具的思维方式，让人学会在技术与人际之间找到平衡，从而更好地拥抱自身独特优势。",
+    "best_quote_en": "The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
+    "best_quote_zh": "我们能做的最好的，就是认识到这种情况，并理解成为批评的磁石有时并不是说明某人不适合这份工作，而是说明他们正是最合适的人。"
+  },
+  {
+    "id": 215,
+    "title": "The Mess at the BBC Will Never End",
+    "title_zh": "BBC的混乱永无止境",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-uk/the-mess-at-the-bbc-will-never-end",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The article exposes a deep‑seated crisis within the BBC, triggered by an internal memo that accuses the broadcaster of systematic bias in its coverage of Trump, Gaza, gender and race.  The memo, written by former adviser Michael Prescott, reveals a pattern of editorial edits—most famously the Jan. 6 clip that altered Trump’s words to sound more incendiary— and questions the integrity of the BBC’s guidelines.  The fallout was swift: high‑level resignations, public outcry from politicians and media, and a looming threat of licence‑fee cuts.  The piece frames the BBC as a beleaguered public institution caught between its own bureaucratic inertia and external partisan attacks.  It invites readers to reflect on the fragile trust that underpins public media and the cost of “defensive” leadership when accountability is compromised.  The narrative underscores that a broadcaster’s credibility hinges on transparency, not just editorial standards, and warns that without genuine reform, the “mess” may persist indefinitely.",
+    "summary_zh": "BBC内部泄露的批评信揭示了编辑偏见与权力斗争，导致高层辞职、政治指责与资助危机。文章深度剖析公共媒体信任的脆弱性，提醒读者透明与责任是维系公信力的关键。",
+    "best_quote_en": "If BBC journalists are to be allowed to edit video in order to make people ‘say’ things they never actually said, then what value are the Corporation’s guidelines, why should the BBC be trusted, and where will this all end?",
+    "best_quote_zh": "如果BBC记者被允许编辑视频让人们说出他们从未说过的话，那么广播公司的准则有什么价值，BBC应该被信任吗，这一切会走向何方？"
+  },
+  {
+    "id": 216,
+    "title": "The Tim Ferriss Show Transcripts: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "《蒂姆·费里斯秀》访谈稿：罗布乐思联合创始人David Baszucki——通往1.5亿+日活跃用户之路、关键商业决策、酮疗法提升脑健康、日常习惯、罗布乐思经济学等（#834）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/05/david-baszucki-roblox-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The interview with Roblox co‑founder David Baszucki is a masterclass in scaling, decision‑making, and the surprising power of metabolic science. Baszucki opens with the story of how a 21‑year‑old son’s bipolar crisis became a catalyst for a family‑led ketogenic trial that outperformed twenty‑plus medications—a narrative that blends personal vulnerability with hard data. He then unpacks the engine behind Roblox’s 150 million daily users: a creator‑driven economy, a shift from subscription to virtual currency, and a relentless focus on safety and inclusivity for a young audience. The episode also touches on daily routines, CrossFit, sun exposure, and the role of continuous glucose monitors in both personal and corporate wellness. Across the 2‑hour conversation, Ferriss and Baszucki weave lessons on product strategy, health innovation, and the importance of aligning physiology with performance, offering listeners a blueprint for entrepreneurial resilience and bio‑hacking curiosity.",
+    "summary_zh": "在与罗布乐思联合创始人David Baszucki的访谈中，创业与健康的交汇点被生动揭示。他分享了儿子精神分裂症危机如何促成家庭酮疗试验，竟超越二十多种药物；随后阐述了罗布乐思如何通过创作者经济、虚拟货币与安全机制，驱动1.5亿日活。访谈还涉及每日锻炼、日照与持续血糖监测在个人与企业健康中的作用，提供了创业韧性与生物黑客的实践蓝图。",
+    "best_quote_en": "After 20 plus meds and treatments and all of it, we started and he started to see results from this diet, which was an absolute miracle.",
+    "best_quote_zh": "在经历了20多种药物和治疗后，我们开始实行酮饮食，他开始看到效果，这是一场绝对的奇迹。"
+  },
+  {
+    "id": 217,
+    "title": "Grammy winner MixedByAli launches ‘EngineEars Direct’ music distribution platform",
+    "title_zh": "格莱美获奖者MixedByAli推出‘EngineEars Direct’音乐分发平台",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/grammy-winner-mixedbyali-launches-engineears-direct-music-distribution-platform/",
+    "tags": [
+      "update",
+      "startup-funding",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "EngineEars Direct, powered by EMPIRE’s white‑label Supply Chain platform, extends EngineEars’ original mission of creating a true operating system for music creators.  The new service lets artists upload directly to more than 350 streaming services while keeping 100 % of their earnings, and bundles real‑time analytics, advertising tools, a built‑in CRM and step‑by‑step playbooks.  By coupling studio‑booking, mixing, mastering and distribution under one browser‑based workflow, EngineEars differentiates itself from incumbents like TuneCore and DistroKid.  The launch signals a shift toward a unified, data‑driven creative ecosystem that promises greater transparency and control for independent musicians—a development that will reshape how artists monetize and engage their audiences.",
+    "summary_zh": "EngineEars Direct平台的推出，标志着音乐制作与发行的全流程一体化迈向新阶段。Derek “MixedByAli” Ali强调，平台不仅让艺术家可直接上传至350+流媒体，还提供实时分析、广告投放与CRM功能，帮助创作者掌控收益与粉丝关系。与TuneCore、DistroKid等竞争者不同，EngineEars通过整合预订、混音、分发等环节，力求为独立音乐人打造一站式工作流。此举体现了对音乐行业公平、透明与创新的承诺，值得业内关注与学习。",
+    "best_quote_en": "This is more than a product launch. It’s a continuation of our mission to give music creators the power, control, and transparency they’ve always deserved.",
+    "best_quote_zh": "这不仅仅是一次产品发布，而是我们继续使命的一部分——让音乐创作者拥有他们一直渴望的权力、控制权和透明度。"
+  },
+  {
+    "id": 218,
+    "title": "Why I Think Side Hustles Can Be Bad (And Why I Still Do Them)",
+    "title_zh": "为什么我认为副业可能有害（但我仍然坚持做）",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2025/11/why-i-think-side-hustles-can-be-bad-and-why-i-still-do-them.html",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The article offers a balanced, reflective take on side hustles, highlighting both their pitfalls and their undeniable benefits. It systematically lists 12 common problems—low pay for high effort, burnout, distraction from core goals, tax headaches, unpredictable income, financial risk, physical and mental tolls, blurred boundaries, unrealistic promises, hustle‑culture pressure, and comparison traps—and pairs each with practical mitigation strategies. The author’s personal anecdotes (e.g., a sister paying off $40,000 in student loans in seven months) ground the advice in real-world evidence, while the call for clear boundaries and realistic goal setting underscores a pragmatic, sustainable approach. The piece encourages readers to weigh side hustles against their own priorities, rather than following trends blindly. Overall, it serves as a pragmatic guide for anyone weighing the decision to add a side gig, offering actionable steps to maximize benefits while minimizing stress.",
+    "summary_zh": "文章以自我反思的视角，系统列举副业常见的十二大痛点，并提供可行的缓解方案。作者用亲身经历与案例佐证，强调设定边界与现实目标的重要性，帮助读者在追求副业收益的同时避免过度疲惫与焦虑。",
+    "best_quote_en": "\"Side hustles can help you stop living paycheck to paycheck, pay off debt faster, tap into your creative side, and enjoy the flexibility to work when and how you want.\"",
+    "best_quote_zh": "\"副业可以帮助你摆脱靠工资过活的状态，更快偿还债务，发挥创意，并享受按自己想法工作时间的灵活性。\""
   }
 ]
