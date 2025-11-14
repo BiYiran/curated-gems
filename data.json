@@ -1,99 +1,5 @@
 [
   {
-    "id": 119,
-    "title": "Funding for COVID-19 Projects",
-    "title_zh": "COVID-19项目融资",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-03-15",
-    "summary_en": "The post is a pragmatic call to action for investors and entrepreneurs eager to tackle the pandemic’s most pressing supply and therapeutic gaps. By outlining four concrete focus areas—rapid production of ventilators and PPE, drug repurposing, unconventional vaccine platforms, and niche therapeutics—the author frames funding as a direct problem‑solving lever. The emphasis on engineering over science signals a low‑barrier entry point for hardware‑centric startups, while the explicit request for contract research partners underscores the importance of translational infrastructure. The tone balances urgency with a realistic appreciation of the logistical hurdles, and the invitation to email rather than rely on a spreadsheet reflects an understanding of the need for personal, high‑trust communication in crisis‑funding. Ultimately, the post invites a collaborative ecosystem that can accelerate innovation, reduce duplication, and democratize access to life‑saving solutions, making it a valuable resource for anyone looking to contribute strategically to pandemic resilience.",
-    "summary_zh": "作者提出了四个可落地的投资方向：快速生产呼吸机与防护装备、药物再利用、非传统疫苗与新型疗法，强调工程而非科研的可行性。通过邀请直接联系、寻找合同研究伙伴，凸显了在危机中高效合作与资源共享的重要性。此举不仅能加速创新，也为创业者提供了清晰的行动路径，体现了在疫情中精准投融资的价值与可能。",
-    "best_quote_en": "Also, if anyone knows of a contract research company that can run a viral challenge against SARS‑CoV‑2 in a humanized ACE2 animal model, that would help a startup I’m working with.",
-    "best_quote_zh": "此外，如果有人知道可以在基因工程ACE2动物模型上进行SARS‑CoV‑2病毒挑战的合同研究公司，那将有助于我正在合作的创业公司。"
-  },
-  {
-    "id": 120,
-    "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
-    "title_zh": "必备：心态科学对健康与表现的影响 | Dr. Alia Crum",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-mindsets-health-performance-alia-crum",
-    "tags": [
-      "inspire",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-09-04",
-    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Alia Crum, Stanford psychologist, dissects the power of belief systems—our mindsets about stress, exercise, and food—to shape not just how we feel but the very biology of our bodies. She cites experimental evidence that labeling a snack as “indulgent” can dampen satiety hormones, while reframing daily movement as real exercise accelerates weight‑loss and improves cardiovascular markers. The conversation extends to stress, turning the often‑dreaded stimulus into a tool for growth and peak performance, and explores the placebo and nocebo effects that underscore the mind‑body link. Dr. Crum offers actionable tools—mindset reframing, stress‑enhancing practices, and mindful eating cues—that listeners can implement immediately. The episode blends rigorous science with practical guidance, making it a valuable resource for anyone curious about the neuroscience of motivation, resilience, and health. Its clear, evidence‑driven narrative invites listeners to experiment with their own belief frameworks, promising measurable shifts in both mind and body.",
-    "summary_zh": "在Huberman Lab Essentials的这期节目中，斯坦福心理学家阿莉亚·克鲁姆博士阐释了信念系统——对压力、运动和饮食的心态——如何影响我们的情绪、行为乃至身体生理。她引用实验数据指出，把零食标记为“放纵”会降低饱腹激素，而把日常活动重新定义为真正的运动可加速减重并改善心血管指标。节目还探讨了如何将压力转化为成长与高峰表现的工具，并揭示安慰剂与无效安慰剂效应，强调心身联系。克鲁姆博士提供了可操作的工具——心态重塑、增强型压力练习与正念饮食提示，帮助听众立即落地。该节目将严谨科学与实用指导相结合，是渴望了解动机、韧性与健康神经科学的读者的理想资源。",
-    "best_quote_en": "our mindsets—for example, what we believe about stress, exercise and the food we eat—shape how we feel, behave and even how our bodies respond.",
-    "best_quote_zh": "我们的心态——例如我们对压力、锻炼和食物的看法——塑造了我们的感受、行为，甚至身体的反应。"
-  },
-  {
-    "id": 121,
-    "title": "The Four Quadrants of Conformism",
-    "title_zh": "四种从众型",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/conformism.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The article presents a psychological map of conformity, carving society into four quadrants—aggressively conventional, passively conventional, passively independent, and aggressively independent. Drawing on childhood observations and adult behaviors, the author argues that an individual’s placement is largely a function of personality rather than cultural norms. He links the aggressive conventional type to historical oppression and modern intolerance, suggesting that this group fuels the “great good” narrative that shields itself from dissent. Conversely, the independent-minded, especially the aggressive independent, are portrayed as the engine of innovation—scientists, startup founders, and other pioneers who thrive when the conventional is kept in check. The piece warns that weakening protections for free inquiry erodes the “canary” of independent thinkers, leading to a chilling effect on ideas that ripple across domains. The analysis blends anecdote, historical reference, and a call for vigilance, offering a framework that is both diagnostic and prescriptive for understanding the cultural forces that shape creativity and conformity.\n",
-    "summary_zh": "作者用四象限模型描绘从众心理，指出个体位置更取决于性格而非文化。强调激进守规者对社会麻烦负有不成比例责任，独立思考者是创新动力。警示自由探究受限会抑制边缘思想，产生连锁效应。",
-    "best_quote_en": "The aggressively conventional-minded are responsible for a disproportionate amount of the trouble in the world.",
-    "best_quote_zh": "积极的守规者对世界的麻烦负有不成比例的责任。"
-  },
-  {
-    "id": 122,
-    "title": "Why I Don't Believe in True AGI",
-    "title_zh": "为什么我不相信真正的通用人工智能",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/iwxALBkHMPZZbrWcr/why-i-don-t-believe-in-true-agi",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The essay argues that true artificial general intelligence cannot arise from mere scaling of neural networks because consciousness requires embodiment, self‑referential loops, and a lived sense of stakes. It critiques AlphaGo and other deep‑learning systems as purely statistical pattern recognizers that lack intentionality or an internal notion of “I.” Drawing on phenomenology, Gödel–Escher–Bach paradoxes, and thermodynamic irreversibility, the author insists that intelligence is a non‑halting, self‑preserving process tied to a body and its environment. Without a body, an agent cannot experience figure‑ground distinctions that imbue perception with meaning, nor can it feel fear, value, or mortality. The piece urges a shift from optimizing utility functions toward designing agents that must survive and resist collapse, thereby generating true awareness. It invites readers to rethink AGI as “artificial survival” rather than abstract computation, offering a philosophical, practical, and critical lens on the limits of current AI research.",
-    "summary_zh": "文章认为，真正的通用人工智能无法通过单纯扩大神经网络实现，因为意识需要具身、奇异循环以及对生存风险的内在感知。作者批评 AlphaGo 等深度学习系统仅是统计模式识别器，缺乏意向性或“我”的概念。借助现象学、哥德尔‑艾舍尔‑巴赫悖论与热力学不可逆性，作者强调智能是与身体及其环境紧密相连的非终止自保过程。没有身体，代理无法体验图形与背景的对立，也无法感知恐惧、价值或死亡。文章呼吁从优化效用函数转向让代理必须生存与抗崩溃，从而产生真正的意识，提示我们把 AGI 视为“人工生存”而非抽象计算。",
-    "best_quote_en": "To exist, in the human sense, is to live under the possibility of ceasing.",
-    "best_quote_zh": "存在于人类意义上，就是在可能死亡的前提下活着。"
-  },
-  {
     "id": 123,
     "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
     "title_zh": "数字入境欧洲/文本诈骗/孟买第二机场",
@@ -2356,5 +2262,101 @@
     "summary_zh": "文章以自我反思的视角，系统列举副业常见的十二大痛点，并提供可行的缓解方案。作者用亲身经历与案例佐证，强调设定边界与现实目标的重要性，帮助读者在追求副业收益的同时避免过度疲惫与焦虑。",
     "best_quote_en": "\"Side hustles can help you stop living paycheck to paycheck, pay off debt faster, tap into your creative side, and enjoy the flexibility to work when and how you want.\"",
     "best_quote_zh": "\"副业可以帮助你摆脱靠工资过活的状态，更快偿还债务，发挥创意，并享受按自己想法工作时间的灵活性。\""
+  },
+  {
+    "id": 219,
+    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
+    "title_zh": "森林中的诞生：克什米尔山脉中独自分娩的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "In the high, snow‑melted corridors of the Pir Panjal, Gujjar nomads traverse 215 km on horseback, carrying pregnant women who often deliver without any medical aid. The article exposes a hidden maternal mortality crisis: while state statistics boast a respectable MMR, they omit the thousands of women who die en route, where hospitals lie miles away and midwives rely on ancestral knowledge alone. Through intimate portraits—Fatima Deader’s newborn tied to a horse, Fozia Choudhary’s blood‑stained survival, Saira Begum’s lament—the narrative underscores systemic neglect, early marriage, and malnutrition. It juxtaposes grassroots solutions like mobile clinics in Mongolia and Ethiopia against persistent political promises. The piece calls for data‑driven policy, equitable healthcare access, and a shift from “survival by luck” to structured support. It invites readers to recognize the stark disparity between official health metrics and lived realities, urging advocacy for nomadic women’s rights and comprehensive maternal care.",
+    "summary_zh": "在喜马拉雅的雪融河谷，古吉尔牧民踏上215公里的马背旅程，孕妇往往在无医疗援助的环境中分娩。文章揭示了隐藏的产妇死亡危机：官方统计数据虽显示较低的孕产死亡率，却忽视了数千名在路途中因医院遥不可及、医护匮乏而丧生的女性。通过Fatima、Fozia与Saira Begum的亲身经历，凸显了系统性忽视、早婚与营养不良。文中对比了蒙古、埃塞俄比亚等国的移动诊所与持续的政治空谈，呼吁以数据为导向的政策与公平医疗。它提醒读者，官方指标与现实差距巨大，亟需为游牧女性争取权利与全面产科护理。",
+    "best_quote_en": "If I fall sick or grow too old, who will help these women?",
+    "best_quote_zh": "如果我生病或变老，谁会帮助这些女性？"
+  },
+  {
+    "id": 220,
+    "title": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
+    "title_zh": "《Tim Ferriss Show》脚本：Ben Patrick（KneesOverToesGuy）——20分钟训练带来惊人效果，从慢性膝痛到扣篮，查尔斯·波利坎的教训，强化下肢，等更多（#835）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/13/ben-patrick-kneesovertoesguy-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "Ben Patrick, the man behind KneesOverToesGuy, takes the spotlight in this episode, revealing a paradigm‑shifting approach to knee rehabilitation and strength training. He chronicles a personal journey from chronic pain and multiple surgeries to a 42‑inch vertical leap, crediting a blend of backward sled pulls, full‑range squats, and targeted mobility work that defy conventional wisdom. The interview dissects the science behind “knee‑over‑toes” movement, the role of progressive overload, and the importance of aligning strength with flexibility. Patrick’s narrative is punctuated by practical, data‑driven advice—such as the use of sled pulls to reduce joint load and the strategic elevation of heels—to guide listeners through a stepwise protocol. Beyond technique, he shares entrepreneurial insights, emphasizing the value of authenticity, local manufacturing, and the ethical tension between product sales and trust. The episode offers a holistic blueprint for anyone seeking to rebuild joint health, improve performance, and cultivate a sustainable fitness mindset.",
+    "summary_zh": "Ben Patrick以其KneesOverToesGuy品牌深入探讨膝关节康复与力量训练，揭示从慢性疼痛到42英寸垂直跳跃的转变。节目强调逆向雪橇拉、全程深蹲与移动性训练的科学原理，展示如何将力量与柔韧性结合。Patrick分享实用、数据驱动的训练方法，并讨论创业与诚信之间的张力。",
+    "best_quote_en": "I found that the videos I put out that really hit home and help people then, long‑term, wind up doing well.",
+    "best_quote_zh": "我发现我发布的视频真正触动人心、帮助人们，长期来看，最终会取得成功。"
+  },
+  {
+    "id": 221,
+    "title": "Confirmed: Thomas Coesfeld will continue to lead BMG in dual role alongside Chairman and CEO position at parent Bertelsmann",
+    "title_zh": "确认：托马斯·科斯费尔德将继续以双重角色领导BMG，并兼任母公司伯特尔斯曼的董事长兼首席执行官",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/confirmed-thomas-coesfeld-will-continue-to-lead-bmg-in-dual-role-alongside-chairman-and-ceo-position-at-parent-bertelsmann/",
+    "tags": [
+      "update",
+      "leadership",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "Thomas Coesfeld’s ascension to dual helm of BMG and Bertelsmann marks a strategic pivot for the media conglomerate, underscoring the company’s intent to streamline decision‑making across its diverse portfolio. The announcement, timed to coincide with the end of Thomas Rabe’s 15‑year tenure, signals confidence in Coesfeld’s proven track record: a 6.4 % revenue lift and a 37 % EBITDA surge in 2024, coupled with a sustained single‑digit growth in music‑streaming revenue. Analysts note that consolidating leadership could accelerate BMG’s streaming initiatives and leverage synergies with Bertelsmann’s publishing and entertainment arms. Yet, the transition also poses risks—balancing BMG’s creative autonomy against corporate oversight, and navigating a rapidly evolving digital‑music landscape. For executives and investors, the move offers a case study in vertical integration, talent consolidation, and the challenges of scaling media ecosystems in a post‑pandemic era. The announcement invites scrutiny on governance, cultural fit, and the strategic alignment of Bertelsmann’s multi‑sector ambitions.",
+    "summary_zh": "托马斯·科斯费尔德将双重领袖BMG与伯特尔斯曼，凸显公司整合决策的战略意图，兼顾创意与运营，兼顾风险与机遇。",
+    "best_quote_en": "I am very much looking forward to assuming responsibility for leading Bertelsmann, it is a challenge I will take on with the full support of the Executive Board, top management, and all employees.",
+    "best_quote_zh": "我非常期待承担领导伯特尔斯曼的责任，这是一项我将以执行委员会、顶层管理和所有员工的全力支持来承担的挑战。"
+  },
+  {
+    "id": 222,
+    "title": "8 Things To Do if You’re Barely Scraping by Financially",
+    "title_zh": "8 Things To Do if You’re Barely Scraping by Financially",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2025/11/things-to-do-if-youre-barely-scraping-by-financially.html",
+    "tags": [
+      "analyze",
+      "personal-finance",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "个人理财",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "The article offers a pragmatic roadmap for individuals teetering on the brink of financial collapse. It begins with the foundational step of honest bookkeeping—tracking every dollar spent for at least a month—to illuminate hidden leakages. From there, it prioritizes essential bills, negotiates with creditors, and leverages low‑barrier side hustles to generate supplemental income. The piece balances austerity with psychological well‑being, advocating a “no‑spend challenge” to reset habits without crushing morale. Importantly, it opens a window to public assistance programs and community resources, dispelling the stigma of asking for help. The writer’s personal anecdotes lend credibility, while the curated links to external guides reinforce the article’s actionable nature. Overall, the piece is a comprehensive, data‑driven, and empathetic guide that empowers readers to regain control of their finances through incremental, sustainable steps.",
+    "summary_zh": "文章为陷入财务危机的人提供实用路线图，先记录支出以发现漏洞，再优先支付基本账单、谈判债务、开展低门槛副业。它兼顾节俭与心理健康，倡导“零消费挑战”，并鼓励利用政府与社区援助，打破求助耻辱。作者亲身经历与外部资源链接，使内容既可信又可操作，帮助读者通过渐进、可持续的步骤重获财务掌控。",
+    "best_quote_en": "You can even combine several small income streams, like a few surveys, selling some items, and a side gig like DoorDash, to bring in hundreds of extra dollars a month.",
+    "best_quote_zh": "你可以把不必要的消费暂停一段时间。"
   }
 ]
