@@ -1,101 +1,5 @@
 [
   {
-    "id": 123,
-    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
-    "title_zh": "数字入境欧洲/文本诈骗/孟买第二机场",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
-    "tags": [
-      "update",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "The newsletter stitches together four seemingly disparate headlines into a cohesive snapshot of how technology, crime, infrastructure, and culture intersect in our rapidly changing world. The European Electronic Entry System (EES) promises a smoother, passport‑free flow but at the cost of granular surveillance—an early warning about the trade‑off between convenience and privacy. The “pig‑butchering” scam story, highlighted by a $15 billion Bitcoin seizure, illustrates the evolving sophistication of cyber‑financial fraud and the need for global regulatory coordination. Mumbai’s new Navi Airport signals a strategic shift to alleviate congestion and stimulate regional economic growth, yet its phased rollout raises questions about long‑term sustainability and capacity planning. Finally, Time Out’s coolest‑neighbourhoods list offers a human‑centered lens on urban vibrancy, reminding readers that data‑driven travel guides must still capture lived experience. Together, these bites prompt readers to weigh efficiency against oversight, recognize emerging threat vectors, and appreciate the nuanced layers of global mobility and local identity.\n",
-    "summary_zh": "本周简报将四条看似无关的头条编织成一幅技术、犯罪、基础设施与文化交织的全景。欧洲电子入境系统（EES）虽能加速通关，却伴随细致监控，提醒便利与隐私的权衡；“猪屠宰”诈骗案及其150亿美元比特币扣押，揭示网络金融犯罪的日益精密，呼唤跨国监管；孟买新航站楼的分阶段开放则展示缓解拥堵、刺激地区经济的策略，但亦引发可持续性与容量规划的思考；而《时代》关于全球最酷街区的榜单，则以人文视角提醒数据导向的旅行指南仍需捕捉生活本质。整体而言，内容促使读者在效率与监管、威胁与治理、全球流动与地方身份之间做出思考。\n",
-    "best_quote_en": "The Department of Justice seized $15 billion in Bitcoin from just one of the perpetrators running a big \"pig butchering\" scheme.",
-    "best_quote_zh": "移民排队应该会更快，像全球通行证那样，一旦修正问题，护照印章也会消失。"
-  },
-  {
-    "id": 124,
-    "title": "The Virus",
-    "title_zh": "The Virus",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-virus",
-    "tags": [
-      "update",
-      "medicine",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2020-03-07",
-    "summary_en": "While the author admits uncertainty, the piece presents a sober forecast of COVID‑19’s lasting imprint on society. Drawing on expert testimony, it argues that the pandemic is merely a warning sign—an inevitable “warm‑up” to potentially more lethal outbreaks. The essay urges young, healthy people to curb spread, emphasizing that asymptomatic carriers fuel contagion, especially among vulnerable elders. It then sketches a new normal: reduced business travel, persistent hygiene, but likely not a permanent shift to full‑time remote work. The economic analysis ties the plummet in U.S. Treasury yields to systemic fragility, illustrating how a health crisis can trigger cascading financial shocks. The tone is reflective yet prescriptive, urging preparedness and resilience. The piece blends epidemiology, behavioral change, and macro‑financial insight, offering readers a holistic, data‑driven warning that extends beyond the immediate crisis to future pandemic readiness.",
-    "summary_zh": "作者以专家视角警示，COVID‑19仅是更大流行的预热，呼吁年轻人减少传播，强调无症状者对老年人危害。预见新常态：商务旅行减少、卫生习惯持续，但远程工作不一定常态。通过美债收益率下跌，阐释系统脆弱与健康危机的连锁影响，呈现宏观经济与疫情交织的全景，激励社会提升防御与韧性。",
-    "best_quote_en": "The economic disruption is still probably under‑appreciated and will remind us that our systems are more fragile than we think.",
-    "best_quote_zh": "经济冲击仍可能被低估，并提醒我们系统比我们想象的更脆弱。"
-  },
-  {
-    "id": 125,
-    "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
-    "title_zh": "Essentials：感恩科学与构建感恩练习",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-of-gratitude-practice",
-    "tags": [
-      "guide",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "Huberman Lab’s Essentials episode demystifies gratitude by marrying neuroscience with practical habit‑building. Rather than the superficial “list what you’re grateful for,” the host argues for story‑based gratitude, which engages reward‑and‑social circuits in the brain. He explains how this activation boosts calm, strengthens social bonds, and fuels motivation, while simultaneously dampening anxiety and even lowering inflammatory markers. The discussion is steeped in peer‑reviewed data, citing studies that map gratitude to specific neural pathways and immune outcomes. Beyond theory, the episode offers a concrete, weekly protocol: identify a meaningful story, revisit it, and express genuine thanks with heartfelt intention. The format blends expert insight, data‑driven evidence, and actionable guidance, making it a valuable resource for anyone looking to translate psychological research into tangible well‑being practices.",
-    "summary_zh": "Huberman Lab 通过神经科学阐释感恩，提出故事式练习比单纯列举更有效。研究显示，感恩激活奖励与社交脑区，提升平静、社交纽带与动力，同时降低焦虑与炎症。节目提供周度实操流程：挑选故事、重温、真诚表达，帮助听众把心理学研究落地。",
-    "best_quote_en": "Being grateful activates specific brain regions, which enhance calm, social connection and motivation, while reducing anxiety and inflammation.",
-    "best_quote_zh": "感恩能激活大脑特定区域，提升平静、社会连接与动力，同时降低焦虑和炎症。"
-  },
-  {
-    "id": 126,
-    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
-    "title_zh": "每次走出去，我第一件事就是想我的前额：女性接受植发的故事",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "The Guardian piece uncovers a quietly growing trend: women, long overlooked as a male‑dominated market, are turning to hair‑transplant surgery to address high foreheads, thinning crowns and the psychological toll of societal beauty norms. Through intimate case studies—from a 27‑year‑old nanny battling post‑COVID shedding to a 69‑year‑old retiree who finally finds confidence— the article blends medical facts with cultural critique. It highlights the stark gender gap in treatment eligibility, the rise of “Turkey as a transplant hub,” and the financial, procedural and safety risks that remain unregulated in the UK. The piece also exposes the lack of accredited training and the potential for “wild‑west” clinics, urging readers to seek vetted specialists and pre‑operative counselling. Overall, it challenges the notion that hair loss is a purely aesthetic issue, framing it instead as a complex intersection of health, identity and media pressure, and calls for greater transparency, patient education and industry standards.\n",
-    "summary_zh": "这篇《卫报》报道揭示了一个正在上升的女性植发趋势，女性因高额前额、稀疏顶峰和社会审美压力而寻求手术。文章通过真实案例，展示了手术的医学细节、费用与风险，并批评英国缺乏认证培训、行业监管松散。它呼吁更多透明度、患者教育与专业标准，提醒女性植发不只是美观，而是健康与身份的交织。\n",
-    "best_quote_en": "\"Women are suffering in silence,\" Ball says. \"There’s not so much information out there for them.\"",
-    "best_quote_zh": "“女性们在沉默中受苦，”Ball 说，“关于这件事的信息很少。”"
-  },
-  {
     "id": 127,
     "title": "Orthodox Privilege",
     "title_zh": "正统特权",
@@ -2358,5 +2262,101 @@
     "summary_zh": "文章为陷入财务危机的人提供实用路线图，先记录支出以发现漏洞，再优先支付基本账单、谈判债务、开展低门槛副业。它兼顾节俭与心理健康，倡导“零消费挑战”，并鼓励利用政府与社区援助，打破求助耻辱。作者亲身经历与外部资源链接，使内容既可信又可操作，帮助读者通过渐进、可持续的步骤重获财务掌控。",
     "best_quote_en": "You can even combine several small income streams, like a few surveys, selling some items, and a side gig like DoorDash, to bring in hundreds of extra dollars a month.",
     "best_quote_zh": "你可以把不必要的消费暂停一段时间。"
+  },
+  {
+    "id": 223,
+    "title": "The Risk of Discovery",
+    "title_zh": "发现的风险",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disc.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "The article revisits the oft‑overlooked gambles that shaped scientific breakthroughs, using Newton as a prime example. It argues that biographies, by excising mistakes, create a myth of infallibility and silence the very uncertainty that fuels discovery. Newton’s forays into alchemy and theology, now viewed as wasted effort, were in fact strategic bets on nascent knowledge domains that could have yielded physics. The piece invites readers to rethink risk as an intrinsic part of genius, not a flaw, and to recognize that the payoff of any bold idea is unknowable until pursued. By framing scientific progress as a series of calculated risks, it challenges the conventional narrative of linear, error‑free discovery and encourages a more nuanced appreciation of curiosity and courage in innovation. The analysis underscores that modern scientists and entrepreneurs alike can learn from this historical lens, embracing uncertainty as a catalyst for breakthrough.",
+    "summary_zh": "文章揭示科学史上被忽视的冒险，指出传记删去错误导致人们低估科学家所承担的风险。以牛顿为例，他在炼金术和神学上的尝试本是对未来物理学的赌注，显示天才与疯狂并非分离。作者呼吁重新认识风险是创新的核心，鼓励现代科研与创业者拥抱不确定性，以求突破。",
+    "best_quote_en": "Because biographies of famous scientists tend to edit out their mistakes, we underestimate the degree of risk they were willing to take.",
+    "best_quote_zh": "因为名人科学家的传记往往会删去他们的错误，我们低估了他们愿意承担的风险程度。"
+  },
+  {
+    "id": 224,
+    "title": "A Love Song to Nicotine",
+    "title_zh": "对尼古丁的情歌",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ECnb9r6n8kLAaGupT/a-love-song-to-nicotine",
+    "tags": [
+      "guide",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "In this candid essay the author chronicles how a casual encounter with nicotine lozenges sparked a lifelong experiment in cognitive enhancement and habit formation. He frames nicotine not as a smoker’s habit but as a subtle, sublingual stimulant that can sharpen working memory, dampen anxiety, and even reduce the so‑called “ugh fields” that plague procrastination. By comparing the fast, high‑peak delivery of cigarettes to the slow, steady release of lozenges, he argues that the latter’s lower addiction potential makes it a more responsible tool for productivity. The narrative weaves personal anecdotes—gym sessions, writing blocks, and social texting—into a broader discussion of how psychoactive substances can be strategically deployed for self‑improvement. While acknowledging the risk of addiction, the author presents a nuanced, data‑driven perspective that challenges the stigma surrounding nicotine. His call to “play with fire” invites readers to question conventional wisdom, explore safer analogues, and consider controlled risk‑taking as a catalyst for progress.",
+    "summary_zh": "作者在这篇坦诚的随笔中，讲述了一次偶遇尼古丁含片如何点燃他对认知提升与习惯形成的长期实验。他将尼古丁视为一种细腻、舌下的兴奋剂，能增强工作记忆、缓解焦虑，并削弱“ugh场”——拖延时的负面自我条件化。作者对比香烟的快速高峰与含片的慢速稳定释放，认为后者的成瘾潜力更低，因而更适合作为提升生产力的工具。文章通过健身、写作阻断和社交文本等个人轶事，展开对精神活性物质可被策略性使用的讨论。作者承认成瘾风险，却以数据驱动的视角挑战尼古丁的污名化，并呼吁读者勇于“玩火”，探索更安全的替代品，推动有意识的风险承担。",
+    "best_quote_en": "Nicotine is a wonder drug for reducing these fields of negative self‑conditioning: ugh fields simply go away on it.",
+    "best_quote_zh": "尼古丁是一种奇迹药物，可以减少负面自我条件化的“ugh场”，它们在尼古丁作用下就会消失。"
+  },
+  {
+    "id": 225,
+    "title": "David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "David Baszucki，Roblox 联合创始人——通往1.5亿+每日用户的路径、关键商业决策、酮类疗法提升脑部健康、日常习惯、Roblox 经济及更多",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/04/david-baszucki-roblox/",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The episode weaves together the entrepreneurial saga of Roblox’s co‑founder with cutting‑edge health science, illustrating how a single platform can scale to 150 million daily users while simultaneously influencing mental well‑being. Baszucki’s narrative is rich in practical take‑aways: from the lean, three‑month build of a monetization system to the meticulous safety architecture that protects a child‑centric audience. He juxtaposes this with a personal story of his son’s bipolar disorder, where a ketogenic diet produced measurable improvements in weeks—an anecdote that underscores the power of physiological interventions over talk therapy alone. The conversation also touches on future‑oriented themes—AI‑driven safety, virtual workspaces, and the inevitable convergence of gaming and education—making the episode a roadmap for founders, health advocates, and anyone interested in how technology can shape behavior. The blend of data‑driven strategy, expert insight, and real‑world experimentation makes it a compelling case study for both business and health innovation.",
+    "summary_zh": "本期节目将Roblox联合创始人David Baszucki的创业历程与前沿健康科学交织，展示平台如何实现1.5亿+每日用户的规模，同时影响心理健康。Baszucki分享了从三个月内打造盈利系统到为儿童设计的安全架构的实战经验，并以其儿子双相情感障碍通过生酮饮食在数周内显著改善的亲身故事，强调生理干预的重要性。节目还探讨AI安全、虚拟工作空间及游戏与教育的融合，构成创始人、健康倡导者与技术爱好者的路线图。数据驱动的策略、专家洞见与真实实验的结合，使其成为商业与健康创新的典型案例。",
+    "best_quote_en": "\"Our son with bipolar tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication.\"",
+    "best_quote_zh": "\"我们的儿子患有双相情感障碍，尝试了生酮饮食，几周内就出现了我们从未在任何药物或治疗中看到的进展。\""
+  },
+  {
+    "id": 226,
+    "title": "‘I see an explosion of hybrid sounds coming from Africa. The next big global hits will come from these cultural crossovers.’",
+    "title_zh": "我看到来自非洲的混合声音爆炸。下一个全球大热将来自这些文化交叉。",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/i-see-an-explosion-of-hybrid-sounds-coming-from-africa-the-next-big-global-hits-will-come-from-these-cultural-crossovers/",
+    "tags": [
+      "inspire",
+      "leadership",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The interview with ONErpm’s Nuno Rocha paints a vivid picture of a music industry on the cusp of a cross‑cultural revolution. By anchoring new offices in Angola, Morocco, and Egypt, the company is building localized hubs that marry data‑driven strategy with cultural authenticity. Rocha’s mantra—“proximity, personalization, and strong local partnerships”—highlights a shift from generic distribution to ecosystem building, empowering artists to thrive locally while scaling globally. The piece is not merely a corporate profile; it interrogates the structural inequities that keep emerging‑market talent invisible and offers a concrete playbook: technology, mentorship, and regional playlists. It also foregrounds the “hybrid sounds” of Lusophone and Francophone Africa as the next global hit generators, suggesting that the future of pop will be as much about linguistic bridges as sonic innovation. The analysis invites readers to rethink music‑business models, data ethics, and the democratization of creative labor.",
+    "summary_zh": "采访中，ONErpm的Nuno Rocha描绘了音乐行业即将迎来跨文化革命的景象。通过在安哥拉、摩洛哥和埃及设立本地化办公点，公司正在打造融合数据驱动与文化真实性的本土中心。Rocha的口号——“接近、个性化、强大本土合作”——凸显了从单纯分发向生态系统建设的转变，赋能艺术家在本土繁荣并全球扩张。文章不仅是企业宣传，更探讨了让新兴市场人才被忽视的结构性不平等，并提供技术、导师与区域播放列表的具体方案。它将葡语与法语非洲的“混合声音”定位为下一个全球热门的源头，提示流行未来将更多依赖语言桥梁与声音创新。",
+    "best_quote_en": "The goal is not only to distribute music, but to build sustainable ecosystems that allow artists to thrive locally and expand globally.",
+    "best_quote_zh": "我们的目标不仅是分发音乐，而是构建可持续的生态系统，让艺术家在本地繁荣并全球扩张。"
   }
 ]
