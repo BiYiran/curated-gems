@@ -1,123 +1,5 @@
 [
   {
-    "id": 127,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "The essay interrogates a subtle form of privilege—orthodox privilege—where conventional thinkers assume the safety of free expression and dismiss any notion that certain truths are unspoken. By framing this blindness as a historical pattern, the author invites readers to question the invisible boundaries that shape discourse. The piece blends philosophical reflection with a critique of social norms, urging a shift from merely acquiring knowledge to cultivating independent judgment. It challenges the prevailing ‘check your privilege’ rhetoric, arguing that those most insulated from dissent rarely recognize their own bias. The author proposes a pragmatic, polite approach: listen to claims of hidden truths even when evidence seems elusive, thereby fostering a more inclusive dialogue. This analysis offers a nuanced perspective on power dynamics in conversation, blending critical theory with actionable insight for those seeking deeper, more honest engagement in society.\n",
-    "summary_zh": "作者探讨‘正统特权’，指出传统思维者认为表达自由无害，却忽视某些真理无法言说的边界。通过历史视角，揭示话语中的隐形束缚，呼吁从单纯获取知识转向培养独立判断。批判“检查你的特权”话语，强调受限者往往不自知。提出礼貌倾听隐藏真理的做法，促进更包容的对话。该分析以批判理论与可操作洞见相结合，帮助读者在社会交往中实现更深层次、诚实的参与。\n",
-    "best_quote_en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.",
-    "best_quote_zh": "少数人能够以平静的态度表达与其社会环境偏见不同的观点。大多数人甚至无法形成这样的观点。"
-  },
-  {
-    "id": 128,
-    "title": "Musings on Reported Cost of Compute (Oct 2025)",
-    "title_zh": "关于计算成本报告的思考（2025年10月）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The article dissects the multi‑layered cost structure of a 1 GW AI datacenter, breaking down infrastructure CAPEX, compute hardware, and OPEX into granular figures. It reveals how a single contract can range from $10 bn to $60 bn depending on whether you count just the physical plant, the GPU stack, or the full five‑year service agreement. The analysis also contrasts Nvidia‑centric builds with alternative ASICs, showing that non‑GPU compute could be up to 25 % cheaper yet still deliver comparable performance when factoring in HBM density and chip count. By mapping out future TPU‑v7 and Anthropic‑style pods, the piece projects a 10‑fold increase in both raw compute and model size by 2026, underscoring the square‑root scaling of active parameters and the rising feasibility of large MoE architectures. For practitioners, the post is a data‑driven guide to budgeting, negotiating contracts, and anticipating the hardware evolution that will shape next‑generation AI workloads.",
-    "summary_zh": "本文拆解1 GW AI 数据中心的成本结构，细化基础设施、硬件与运维费用，说明合同价值从100 亿美元到60 亿美元不等。对比 Nvidia 与 ASIC，揭示非 GPU 计算可低 25 %，但在 HBM 密度与芯片数上保持竞争力。展望 2026 年 TPU‑v7 与 Anthropic 样板，预示计算与模型规模十倍增长，凸显参数平方根扩展与 MoE 可行性。对从业者而言，是一份数据驱动的预算与合同谈判指南，也是对未来硬件演进的前瞻。",
-    "best_quote_en": "Thus 1 GW of compute could get reported as $10 bn (infrastructure capex), $30 bn (compute hardware capex without labor costs), $45 bn (infrastructure plus compute hardware capex), or $60 bn (the total cost of the contract between the AI company and the cloud provider over 5 years).",
-    "best_quote_zh": "因此，1 GW 的计算可以被报告为 100 亿美元（基础设施资本支出）；30 亿美元（计算硬件资本支出，不含人工成本）；45 亿美元（基础设施加计算硬件资本支出）；或 60 亿美元（与云服务商为期 5 年的合同总成本）。"
-  },
-  {
-    "id": 129,
-    "title": "The Feds Who Kill Blood-Sucking Parasites",
-    "title_zh": "联邦政府消灭吸血寄生虫",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-feds-who-kill-blood-sucking-parasites",
-    "tags": [
-      "update",
-      "science",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The article chronicles the unseen guardianship of the Great Lakes, where a covert U.S.-Canadian partnership has kept the invasive sea lamprey at bay for decades. It unpacks the science behind lampricide, the political peril of budget cuts, and the creative alternatives—smart electric dams, pheromone traps, and AI‑assisted monitoring—being tested to pre‑empt resistance. The narrative juxtaposes the pragmatic, data‑driven tactics of federal workers with the cultural resonance of a “vampire fish” that keeps the public and lawmakers engaged. Yet, the piece also exposes a paradox: the very success of the program makes it vulnerable to fiscal retrenchment because its threat is invisible to the general populace. The article invites readers to question how public policy protects ecological infrastructure when the beneficiaries are few and the risks are diffuse. It calls for sustained investment in science‑driven conservation, lest the Great Lakes lose a quiet but vital line of defense.",
-    "summary_zh": "文章揭示了北美大湖区隐形的生态守卫——美加联手对抗侵入性海灯鱼，阐述了拉姆普西德化学剂的科学与政治风险，并探索智能电坝、信息素诱捕等新技术。它把数据驱动的治理与“吸血鱼”这一公共形象结合，提醒我们成功的防御往往因缺乏公众关注而易受预算削减。文章促使读者反思，生态基础设施的保护需要持续投入与科学创新，否则大湖区将失去这条无形但关键的防线。",
-    "best_quote_en": "If lampreys become resistant to lampricide, we’re gonna need alternatives.",
-    "best_quote_zh": "如果没有人真正了解威胁，在经济紧缩时期就更难说‘嘿，我们需要这笔钱’"
-  },
-  {
-    "id": 130,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "幼儿成长故事",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This post is a candid, humorous memoir that redefines toddler parenting as a paradoxical blend of adoration and exasperation. The author frames the 2‑year‑old as a “totalitarian dictator” who can simultaneously be a source of immense joy and utter boredom, a notion that both entertains and invites reflection on the developmental stages of early childhood. By cataloguing 8 quirky observations—from toddlers’ “genius” language acquisition to their wildly inaccurate worldview—the writer offers a satirical yet insightful lens into the cognitive and emotional shifts that shape a child’s perception of reality. The article also critiques the social media culture of toddler videos, revealing how parental expectations and external judgments can distort the parent‑child experience. Ultimately, the piece encourages a shift from micromanagement to facilitation, urging parents to foster autonomy and curiosity in their toddlers rather than controlling every detail. The narrative’s humor, candidness, and pragmatic parenting tips make it a relatable resource for new parents, while also serving as a social commentary on contemporary parenting norms.",
-    "summary_zh": "这篇文章以幽默、真诚的方式重塑幼儿育儿的二元性：既是狂热的喜爱，又是极度的无聊。作者把两岁孩子称为“极权独裁者”，并通过八个风趣观察，揭示语言学习的天才与认知世界的荒谬。文中批判了幼儿视频的社交媒体文化，指出父母期待与外部评判会扭曲亲子体验。作者倡导从微观管理向培养自主与好奇转变，鼓励家长以启发式方式引导孩子，而非过度控制。幽默与实用建议并存，使这篇文章既是新手父母的共鸣之作，也是对现代育儿观念的社会性评论。",
-    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
-    "best_quote_zh": "你可以同时对同一个人既完全着迷又极度无聊。"
-  },
-  {
-    "id": 131,
-    "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
-    "title_zh": "我们正处于大阴毛复兴的边缘——随后金·K发布了她的阴毛丁字裤 | Coco Khan",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/21/big-bush-revival-kim-kardashian-pubic-hair-thong",
-    "tags": [
-      "update",
-      "politics",
-      "marketing",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "市场营销",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "Coco Khan’s razor‑sharp commentary stitches together a cultural critique, a body‑positivity movement, and a commercial backlash, all centered on the sudden release of Skims’ faux‑hair “Ultimate Bush” thong. The piece frames the product as a symbolic assault on a nascent “big bush revival” that had begun to surface on runways, beauty counters, and TikTok, turning a fringe conversation about pubic hair into a mainstream battleground. Khan argues that the industry’s commodification of natural body parts—through synthetic replicas and celebrity‑driven hype—tramples the very autonomy the movement sought. She warns that the Kardashian‑standard homogenises beauty, stifles authentic expression, and reduces the body to an accessory. The article invites readers to question whether commercial novelty can truly empower or merely reinforce the status quo, urging a return to minimal effort and genuine self‑acceptance in a cost‑crunch era.",
-    "summary_zh": "金·K的阴毛丁字裤掀起的喧嚣，恰逢阴毛复兴热潮。Khan批评美妆业用仿制品把自然变成商品，质疑Kardashian标准对身体自主的压制，呼吁回归真实自我与极简生活。",
-    "best_quote_en": "The beauty industry has mastered selling us back an ersatz version of our own nature for enormous profit.",
-    "best_quote_zh": "美妆行业已经掌握了把我们自己的本性以仿制品的形式卖回来的艺术，赚取巨额利润。"
-  },
-  {
     "id": 132,
     "title": "Coronavirus and Credibility",
     "title_zh": "冠状病毒与可信度",
@@ -2358,5 +2240,123 @@
     "summary_zh": "采访中，ONErpm的Nuno Rocha描绘了音乐行业即将迎来跨文化革命的景象。通过在安哥拉、摩洛哥和埃及设立本地化办公点，公司正在打造融合数据驱动与文化真实性的本土中心。Rocha的口号——“接近、个性化、强大本土合作”——凸显了从单纯分发向生态系统建设的转变，赋能艺术家在本土繁荣并全球扩张。文章不仅是企业宣传，更探讨了让新兴市场人才被忽视的结构性不平等，并提供技术、导师与区域播放列表的具体方案。它将葡语与法语非洲的“混合声音”定位为下一个全球热门的源头，提示流行未来将更多依赖语言桥梁与声音创新。",
     "best_quote_en": "The goal is not only to distribute music, but to build sustainable ecosystems that allow artists to thrive locally and expand globally.",
     "best_quote_zh": "我们的目标不仅是分发音乐，而是构建可持续的生态系统，让艺术家在本地繁荣并全球扩张。"
+  },
+  {
+    "id": 227,
+    "title": "’Tis the season for dubious TV adverts | Letters",
+    "title_zh": "疑似广告的季节 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
+    "tags": [
+      "update",
+      "ai-research",
+      "marketing",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "市场营销",
+      "争议观点"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The Guardian’s letter section turns a single John Lewis Christmas ad into a microcosm of modern consumer culture, exposing the thin line between sentimentality and manipulation. Critics argue the ad’s “wholesome family” narrative masks a commercial agenda that pressures already‑stressed shoppers to buy overpriced gifts, while the company’s own history of wage stagnation and bonus cuts undermines the promised generosity. The letters further unpack gender dynamics, noting how male heroism is foregrounded at the expense of women’s domestic roles, reinforcing dated stereotypes. The piece serves as a cautionary tale about advertising’s Pavlovian triggers and the ethical responsibilities of brands. It invites readers to question the emotional currency of holiday campaigns and consider how such messaging shapes societal expectations, consumer behavior, and the evolving definition of “family.” The commentary blends cultural critique with a call for transparency, making it a useful primer for media scholars, marketers, and anyone wary of the holiday season’s commercial haze.",
+    "summary_zh": "这篇信件以约翰·刘易斯圣诞广告为镜，揭示了情感营销与消费操纵的交织。广告的“温馨家庭”叙事掩盖了对已被压榨消费者的商业诱导，品牌过去的工资停滞与奖金缺失更让人质疑其所谓的慷慨。文章还批评了性别刻板印象，男性英雄被过度突出，女性角色被边缘化。作者呼吁读者重新审视节日广告的情感操控，关注其对社会期待与消费行为的影响，提醒我们在商业氛围中保持批判性思考。",
+    "best_quote_en": "The cynicism of these ads – pretending to care while desperately trying to trigger the Pavlovian Christmas shopping response – is truly depressing.",
+    "best_quote_zh": "这些广告的虚伪让人失望——它们假装关心，却急切地试图触发巴甫洛夫式的圣诞购物反应，真是令人沮丧。"
+  },
+  {
+    "id": 228,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "如何让匹兹堡成为创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The talk argues that Pittsburgh can become a startup hub by leveraging its growing 25‑29 population, historic neighborhoods, and a strong research university—CMU. The author stresses that attracting young talent is the first step, and that city policy should focus on fast permitting for food startups, preserving mid‑century architecture, and encouraging walkable, bike‑friendly streets. He cautions against over‑commercializing the university and suggests that the best way for academia to foster entrepreneurship is to remain an open, low‑friction environment that lets students pursue side projects. Finally, he notes that a robust investor network is a long‑term goal, but that modern funding mechanisms (Kickstarter, Y Combinator) reduce the need for a dense local venture scene. The piece blends urban planning insights with startup strategy, offering a pragmatic roadmap for mid‑size cities aspiring to emulate Silicon Valley.",
+    "summary_zh": "演讲指出，匹兹堡可凭借25‑29岁年轻人增多、历史街区与CMU强大学力，打造创业中心。重点是简化餐饮许可、保护老建筑、提升步行与骑行便利，吸引青年。作者警示大学不宜过度商业化，最佳方式是保持低壁垒，鼓励学生开展副项目。虽缺乏成熟投资网络，但众筹与YC等已足以支撑早期融资。整体思路兼顾城市规划与创业策略，为中型城市提供可操作路线。",
+    "best_quote_en": "If a university really wanted to help its students start startups, the empirical evidence, weighted by market cap, suggests the best thing they can do is literally nothing.",
+    "best_quote_zh": "如果大学真的想帮助学生创业，经验数据显示，最好的办法就是什么都不做。"
+  },
+  {
+    "id": 229,
+    "title": "Support the Movement against AI extinction risk",
+    "title_zh": "支持反对AI灭绝风险的运动",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CjkQvuQpFffxYcJsR/support-the-movement-against-ai-extinction-risk",
+    "tags": [
+      "solve",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The piece is an activist manifesto that seeks to mobilize a mass movement against the perceived existential threat of artificial superintelligence. It blends a stark warning—\"heads of US AI labs, the executive branch, and intelligence agencies will race to build superintelligence despite risk awareness\"—with a pragmatic, multi‑layered playbook. The author urges the creation of a coordinated social‑media presence, political engagement, and even technical sabotage as levers to shift policy and public opinion. The tone oscillates between pessimistic realism and hopeful pragmatism, acknowledging that persuasion alone may be insufficient but still worth trying. It frames AI risk as a political, not purely technical, problem, and encourages diverse tactics from grassroots campaigns to policy lobbying. The critique lies in its moral ambiguity: advocating cyberattacks and potential violence while simultaneously denouncing assassination. Ultimately, the article invites readers to choose a concrete action—social media, political candidacy, or technical sabotage—to influence the trajectory of AI development.",
+    "summary_zh": "作者把AI灭绝风险视作政治议题，提出从社媒宣传到网络攻击、参政竞选的多元行动方案。文中警告美方高层会在风险意识下竞速研发超级智能，呼吁大众形成规模化运动。其语调兼具悲观与务实，既承认说服难度，又强调行动必要。内容在鼓动技术干预与提倡政治参与之间徘徊，呈现出道德灰色地带。整体来看，文章是一次对AI治理的激进呼吁，试图将技术风险转化为可操作的政治议题。",
+    "best_quote_en": "Assuming I and people like me do nothing, the most likely scenario I forecast is that heads of US AI labs, heads of US executive branch and heads of US intelligence community will choose to race to building superintelligence despite being at least vaguely aware of the risks of doing so.",
+    "best_quote_zh": "我支持创建一个大规模运动，迫使他们不要这么做。"
+  },
+  {
+    "id": 230,
+    "title": "The Mystery of the Political Assassin",
+    "title_zh": "政治刺客之谜",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "Margaret Talbot’s essay unspools the paradox of political assassination: the deliberate intent of an assassin rarely aligns with the historic fallout. By juxtaposing Gavrilo Princip’s 1914 act, which ignited a world war, with Yitzhak Rabin’s 1995 murder, which halted a fragile peace, the piece exposes a pattern—rational, organized actors often pursue symbolic, high‑profile targets, yet the consequences are chaotic and rarely serve their original purpose. Talbot weaves Ball’s taxonomy of “modern” assassins—ranging from state‑backed CIA manuals to lone, internet‑radicalized individuals—to argue that the era of Princip has ceded to a fragmented, ungrouped form of violence. The essay’s strength lies in its data‑driven chronicle of recent U.S. attacks, from Trump‑related attempts to the high‑profile killing of UnitedHealthcare CEO Brian Thompson, and in its critical reflection on how society constructs meaning around violent acts. It invites readers to question whether the “message” of these deeds survives public discourse, and whether the narrative we craft merely masks the systemic grievances that fuel them.",
+    "summary_zh": "文章探讨政治刺杀的悖论：刺客的意图往往与历史后果不符。通过对比1914年普林斯和1995年拉宾的刺杀，揭示了理性组织化的刺客往往针对象征性高调目标，却常导致混乱且难以实现预期。作者用数据梳理近美刺杀事件，指出从政府支持的暗杀手册到网络极端个体，刺杀已从传统集体化走向碎片化、无组织化。文章促使读者思考这些暴力行为的“信息”是否在公众话语中存活，以及我们构建的叙事是否掩盖了激发暴力的根本不满。",
+    "best_quote_en": "The problem with most revolutionary acts is that the message is lost on normies.",
+    "best_quote_zh": "大多数革命行为的问题在于，信息对普通人来说被遗失。"
+  },
+  {
+    "id": 231,
+    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
+    "title_zh": "美国机场混乱 / NewLife 估算器 / 远程储物柜取件",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The piece stitches together a series of pragmatic responses to the longest U.S. government shutdown, revealing how travelers can adapt to sudden air‑traffic curbs, plan cross‑border moves, and streamline packing. It opens with a stark warning: a 10 % reduction in traffic across 40 hubs will push many to seek rail or car alternatives, while insurance coverage becomes essential. The NewLife calculator showcases AI‑powered cost comparisons, turning relocation into a data‑driven exercise that can save thousands monthly. A packing hack turns everyday wardrobe items into temporary luggage, a low‑effort strategy that reduces weight and costs. Finally, Amazon’s locker network offers a residency‑agnostic solution for nomads, turning any U.S. city into a secure drop‑off point. Together, these insights form a toolkit that transforms uncertainty into actionable choices, emphasizing flexibility, data, and resourcefulness in modern travel.",
+    "summary_zh": "在政府停摆的阴影下，文章把旅行者的焦虑转化为可操作的方案：从航班限制到搬迁成本估算，再到轻装打包和跨城市取件。它强调数据驱动与灵活应变，让不确定性变成可管理的资源。",
+    "best_quote_en": "The longest US government shutdown in history is still going, with the president breaking his own previous record, and as with the last long run, it’s creating havoc for unpaid airport workers and thus airline travelers.",
+    "best_quote_zh": "如果你是流动的，只在美国偶尔出现，亚马逊的储物柜服务是一个不错的方式，可以在你所在的任何城市接收包裹。"
   }
 ]
