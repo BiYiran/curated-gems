@@ -1,125 +1,5 @@
 [
   {
-    "id": 132,
-    "title": "Coronavirus and Credibility",
-    "title_zh": "冠状病毒与可信度",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/cred.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "The piece dissects why public figures—journalists, politicians, and pundits—so confidently downplayed COVID‑19, framing it as a mild flu. It argues that the danger of false forecasts lies not in the content but in the lack of accountability: predictions about nebulous or distant outcomes can be made with impunity. An epidemic, however, delivers rapid, undeniable evidence that a claim is wrong, exposing the recklessness of those who speak without understanding. The author uses Buffett’s metaphor—only when the tide recedes do we see who has been swimming naked—to highlight how the pandemic is a brutal credibility test. The article invites readers to reflect on the erosion of trust, the speed at which misinformation spreads, and the imperative for evidence‑based communication. It urges a shift from bravado to humility, urging leaders to admit uncertainty and to base statements on data, lest the public’s faith be permanently damaged.",
-    "summary_zh": "作者批判公众人物在疫情初期轻率将冠状病毒比作普通流感，指出错误预测的危害在于缺乏问责。疫情的快速、无可辩驳的事实检验让不负责任的言论暴露无遗。借用巴菲特的比喻，作者强调疫情是一次严峻的信誉考验，提醒领导者应以数据为基础、保持谦逊，以免失去公众信任。",
-    "best_quote_en": "\"It's only when the tide goes out that you learn who's been swimming naked.\"",
-    "best_quote_zh": "只有当潮水退去时，你才知道谁在裸泳。"
-  },
-  {
-    "id": 133,
-    "title": "Seven-ish Words from My Thought-Language",
-    "title_zh": "我思维语言中的七个词（大约）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
-    "tags": [
-      "guide",
-      "psychology",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This piece invents seven neologisms to interrogate the linguistic poverty of our inner dialogues, exposing how cognitive overload, decision paralysis, and emotional regulation intertwine. By weaving philosophical and psychological lenses, the author introduces concepts like \"word-clog\"—a state of being tongue‑tied not because of a lack of words, but because of an overabundance of mutually exclusive thoughts—and \"least-victory,\" a narrow win that barely offsets its cost. The article invites readers to rethink everyday conversations and self‑expression, revealing subtle barriers that shape our mental narratives. Its blend of original terminology, critical insight, and reflective depth offers both academic intrigue and practical relevance for anyone interested in the mechanics of thought and language.",
-    "summary_zh": "这篇文章通过七个自创词探讨思维中的语言贫乏，揭示认知冲突、决策僵局与情感调节的微妙机制。作者以哲学与心理学视角，提出“词堵”与“最小胜利”等概念，促使读者重新审视日常对话与自我表达的潜在障碍，具有启发性与学术价值。",
-    "best_quote_en": "To be tongue-tied not out of a lack of things to say, but out of an overabundance of mutually exclusive things to say.",
-    "best_quote_zh": "不是缺乏话可说，而是有过多相互排斥的想法导致说不出口。"
-  },
-  {
-    "id": 134,
-    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
-    "title_zh": "稳固耳机 / 无边界大使馆 / 数字游牧热点增长",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
-    "tags": [
-      "guide",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This compact newsletter stitches together a pragmatic tech review, a sharp financial analysis, and a cultural snapshot of the evolving nomad ecosystem. The Soundcore Sport X20 earbuds earn praise for their over‑ear fit, waterproof build, and 12‑hour battery life—an excellent under‑$60 option that defies the common loss‑prone design. The article then pivots to a nuanced evaluation of “buying” airline and hotel points: when a promotion offers a 90–100% bonus, the math can justify a $150 outlay for a $300–$400 stay, turning a loyalty program into a cost‑effective investment. Finally, the piece spotlights the rise of remote‑work hubs, citing data‑driven growth in cities like Da Nang and Tirana, and invites readers to a local pop‑up salon that fosters a borderless nomadic community. The writer’s tone blends curiosity with actionable insight, encouraging readers to test gear, crunch numbers, and join a growing network of digital wanderers.",
-    "summary_zh": "这期简讯以耳机评测开篇，随后深入探讨购买航空与酒店积分的经济学，最后聚焦数字游牧热点的崛起。作者以实用、数据驱动的视角，鼓励读者在旅途中试验科技产品、计算积分价值，并加入无边界的数字游牧社区。",
-    "best_quote_en": "When the whole point of travel loyalty program points is to get something extra at no cost as a reward, outright paying for those points would seem to defeat the purpose.",
-    "best_quote_zh": "当旅行忠诚计划点的全部意义是以无成本获得额外奖励时，直接付费购买这些点似乎违背了目的。"
-  },
-  {
-    "id": 135,
-    "title": "Hard Startups",
-    "title_zh": "硬核创业",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/hard-startups",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2020-02-26",
-    "summary_en": "The article argues that the counterintuitive truth of startup success lies in pursuing hard, ambitious problems rather than chasing easy, low‑barrier ventures. It highlights how hard startups—those requiring significant capital, time, or technical breakthroughs—often attract talent, partners, and investors because they signal commitment and potential impact. The piece stresses that the most valuable hard problems are those whose solutions would be transformative if achieved, and that founders should frame their vision as a long‑term, mission‑driven narrative to rally people. It also warns that easy startups can become stagnant, failing to scale beyond a small core team, while hard startups can become the “tailwind” that fuels hiring, funding, and credibility. The article encourages founders to think beyond short‑term milestones, embrace long‑term horizons, and remain willing to make a decade‑long commitment, positioning themselves for compounding advantages. In essence, it invites entrepreneurs to choose the hard path, not because it is easier, but because it unlocks greater potential for meaning and impact.",
-    "summary_zh": "文章指出，创业成功的逆向真理在于追求艰难而雄心勃勃的问题，而非追逐易于实现的低门槛项目。它强调硬核创业需要大量资金、时间或技术突破，能够吸引人才、合作伙伴和投资者，因为它们传递出承诺与潜在影响。作者认为，最有价值的硬问题是如果实现能产生变革性的解决方案，创业者应以长期使命为叙事，激励团队。文章警示易创业难以扩展至核心团队之外，而硬创业则成为“顺风”，助力招聘、融资与信誉。它鼓励创业者放眼长期，愿意投入十年，获得复利优势，从而实现更大意义与影响。",
-    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
-    "best_quote_zh": "易创业是逆风；硬核创业是顺风。"
-  },
-  {
-    "id": 136,
-    "title": "How to Write Usefully",
-    "title_zh": "如何写作有用",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/useful.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The essay reframes the classic notion of persuasive prose into a practical framework for “useful writing.”  It argues that an essay should be correct, bold, and, most importantly, deliver knowledge that the reader didn’t already possess.  The author introduces a four‑factor formula—correctness, importance, novelty, and strength—and treats each as a measurable axis that can be multiplied into a usefulness score.  He draws on a personal “Morris technique” of publishing only what is worth hearing, and he contrasts the freedom of essay writing with the constraints of journalism.  The piece is both a guide and a critique, warning that bold truths can provoke backlash when they challenge entrenched beliefs.  In short, it offers a rigorous, self‑reflective methodology for crafting essays that inform, persuade, and, ultimately, move the reader forward.",
-    "summary_zh": "作者把传统的劝说性散文重新定义为“有用写作”，强调四大要素：正确性、重要性、新颖性与力度，并用可量化的公式评估写作价值。通过“莫里斯技巧”提醒写作者只发布值得听见的内容。文章兼具指导与批判，警示大胆真相可能因挑战固有观念而招致反弹。整体呈现一套严谨、自省的写作方法，帮助作者创作既能传递新知又能激发思考的散文。",
-    "best_quote_en": "Useful writing is bold, but true.",
-    "best_quote_zh": "有用的写作既大胆又真实。"
-  },
-  {
     "id": 137,
     "title": "Uncommon Utilitarianism #3: Bounded Utility Functions",
     "title_zh": "Uncommon Utilitarianism #3：有界效用函数",
@@ -2358,5 +2238,125 @@
     "summary_zh": "在政府停摆的阴影下，文章把旅行者的焦虑转化为可操作的方案：从航班限制到搬迁成本估算，再到轻装打包和跨城市取件。它强调数据驱动与灵活应变，让不确定性变成可管理的资源。",
     "best_quote_en": "The longest US government shutdown in history is still going, with the president breaking his own previous record, and as with the last long run, it’s creating havoc for unpaid airport workers and thus airline travelers.",
     "best_quote_zh": "如果你是流动的，只在美国偶尔出现，亚马逊的储物柜服务是一个不错的方式，可以在你所在的任何城市接收包裹。"
+  },
+  {
+    "id": 232,
+    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
+    "title_zh": "我在36岁决定冷冻卵子前所想知道的一切",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
+    "tags": [
+      "analyze",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The Guardian piece offers a candid, data‑rich primer on egg‑freezing, framing it as the first half of an IVF journey rather than a guaranteed shortcut to parenthood. It highlights the surge in UK cycles, the commercial pressures, and the stark reality that frozen eggs do not guarantee a live birth. Practical guidance—clinic selection via HFEA metrics, realistic egg‑count targets, and the financial nuances of hidden costs—is paired with nuanced medical insights from UCL experts. The article balances hopeful narratives from celebrities with sober warnings about age‑related quality decline and the need for a supportive network. Readers gain a clear, actionable roadmap: understand the science, budget for the hidden fees, and prepare mentally for the emotional roller‑coaster. It’s a thoughtful blend of medical fact, personal testimony, and pragmatic advice that empowers women to make informed, realistic choices about fertility preservation.",
+    "summary_zh": "这篇Guardian文章以真实案例和数据为基础，阐释卵子冷冻是IVF的前奏而非保证成功。它揭示英国冷冻周期激增、商业化与价格不透明的现实，并提供实用指南：通过HFEA评估诊所、合理预期卵子数量、了解隐藏费用。文章兼顾名人故事与医学专家警示，强调年龄对卵子质量的影响，并鼓励建立支持网络。读者可获得科学、预算与情绪管理的完整路线图，帮助女性做出理性、可行的生育储备决策。",
+    "best_quote_en": "“You’ve got to be prepared that it may not be successful.”",
+    "best_quote_zh": "“你必须准备好它可能不会成功。”"
+  },
+  {
+    "id": 233,
+    "title": "Life is Short",
+    "title_zh": "生命很短",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The essay contends that life’s brevity is a tangible fact, not merely a rhetorical flourish, and that recognizing this fact reshapes how we allocate our finite moments. By framing time as a series of discrete, countable units—such as the eight Christmases a child experiences—the author shows how scarcity becomes apparent when we move from continuous to discrete thinking. The central thesis is that “life is too short for bullshit,” urging readers to eliminate wasteful activities, whether they’re forced by external circumstances or self‑deluded by addictive patterns. The piece blends personal anecdote, psychological insight, and practical strategy: prioritize authentic, meaningful pursuits, prune toxic obligations, and cultivate a habit of urgency to seize opportunities before they close. It invites a reflective, almost philosophical stance that life’s shortness should inspire purposeful action rather than resignation, making the argument both intellectually engaging and immediately actionable.",
+    "summary_zh": "作者通过把时间拆解为可数的、有限的事件，阐明人生确实短暂，并以“人生太短，别浪费在废话上”为核心论点，鼓励读者剔除无意义的事务，专注真正重要的事物。",
+    "best_quote_en": "Life is too short for bullshit.",
+    "best_quote_zh": "生活太短，别浪费在废话上。"
+  },
+  {
+    "id": 234,
+    "title": "Video games are philosophy's playground",
+    "title_zh": "视频游戏是哲学的游乐场",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rGg5QieyJ6uBwDnSh/video-games-are-philosophy-s-playground",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "This essay argues that multiplayer video games function as living laboratories for metaphysics, allowing players to experiment with alternative spatial, temporal, causal, and ontological structures in a way that traditional thought experiments cannot match. By navigating top‑down maps, first‑person worlds, and portal‑shaped geometries, players develop intuitions about space that are as natural as reading a map. Games also blur time’s linearity—turn‑based, real‑time, retrocausal multiplayer, and even non‑linear systems like Achron—forcing players to reconcile multiple temporal logics. Ontologically, games range from structural realism in Factorio to character realism in RPGs, training players to shift between pattern‑centric and person‑centric views. Modal logic becomes tangible through save files and branching narratives, while multiplayer systems force designers to adopt concrete theories of truth and causality. The author proposes that game designers, educators, and philosophers can harness these mechanics to create richer metaphysical models, teach abstract concepts through gameplay, and develop AI agents in more nuanced environments. Ultimately, the essay positions video games as a bridge between speculative philosophy and experiential learning, offering a sandbox for testing ideas that once lived only in the mind.",
+    "summary_zh": "文章将多人游戏视为活实验室，让玩家在空间、时间、因果和存在论上进行实验，培养直觉。游戏把线性时间打碎，呈现多重时间逻辑；从结构主义到角色主义，教玩家在模式与个体间自由切换；存档与分支剧情让模态逻辑可触摸；多人网络迫使设计师选择真理与因果理论。作者呼吁设计师、教师和哲学家利用游戏机制，创造更丰富的形而上模型，借游戏教导抽象概念，培养更具适应性的 AI。游戏成为理论与体验的桥梁，开启可实验的形而上世界。",
+    "best_quote_en": "Games let us experimentally vary fundamental features of reality—time, space, causality, ontology—and then live inside those variations long enough to build strong intuitions about them.",
+    "best_quote_zh": "游戏让我们实验性地改变现实的基本特征——时间、空间、因果关系、存在论——并在其中生活足够长的时间，以形成强烈的直觉。"
+  },
+  {
+    "id": 235,
+    "title": "The Meaning of Trump’s Presidential Pardons",
+    "title_zh": "特朗普总统赦免的意义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/11/24/the-meaning-of-trumps-presidential-pardons",
+    "tags": [
+      "guide",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The article dissects the unprecedented scale of President Trump’s pardons, framing them as a nexus of political loyalty, legal manipulation, and economic bargaining. By tracing the pardon power from Hammurabi to the modern U.S. Constitution, it highlights how selective clemency can both correct perceived injustices and, when wielded unchecked, create a parallel justice system that rewards allies over the rule of law. Trump’s recent “pardon economy”—where lobbyists and donors vie for executive clemency—illustrates a shift from rare, principled use to a transactional tool that bolsters partisan advantage. The piece urges readers to reconsider the constitutional balance between executive mercy and democratic accountability, reminding us that the power to forgive can also become a weapon of political survival. Its critical lens invites debate on whether such expansive pardons undermine public trust or serve as a necessary check on prosecutorial overreach.",
+    "summary_zh": "特朗普大规模赦免的背后，是政治忠诚与司法操控的交织。文章剖析赦免权从历史到当代的演变，揭示其如何成为政治工具、经济交易与社会正义的灰色地带。读者可从中反思宪法赋予的权力与公共信任的边界。",
+    "best_quote_en": "The pardon economy presents the possibility that, if you’re nice enough to the President, a jury’s judgment might be set aside.",
+    "best_quote_zh": "赦免可以成为通往另一个司法体系的捷径。"
+  },
+  {
+    "id": 236,
+    "title": "Colors of Asia / book.sv / Compression bags",
+    "title_zh": "《亚洲之色》/ book.sv/ 压缩袋",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/colors-of-asia-book-sv-compression-bags/",
+    "tags": [
+      "guide",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The post is a mosaic of personal insights that weave together creativity, practicality, and thoughtful reflection.  Its centerpiece, the newly‑released book *Colors of Asia*, is presented not as a conventional travel guide but as a chromatic collage—each page a burst of color that captures the spirit of a place.  The author’s decision to limit the run to 1,000 copies and price it affordably signals a deliberate shift from mass‑market ambition to a community‑centric, fan‑first approach, offering a model for niche publishing that prioritizes connection over volume.  The accompanying travel hacks—from compression bags that eliminate the need for vacuum pumps to a curated list of indispensable apps for China—serve as actionable, real‑world advice that empowers readers to travel smarter.  Finally, the brief philosophical vignette on radical acceptance injects a mindful lens, reminding us that the way we respond to small annoyances can transform everyday experience.  Together, the post invites readers to re‑imagine how we consume, move, and interpret the world around us.",
+    "summary_zh": "作者以色彩与实用为线索，呈现《亚洲之色》与旅行技巧，强调限量与粉丝至上，兼具创意与行动指南，亦不忘以心理学视角审视日常小事，激发读者重新思考消费、移动与感知。",
+    "best_quote_en": "This isn’t about liking what happened — just not making it worse by fighting reality.",
+    "best_quote_zh": "这并不是要喜欢发生的事——只是不要因抗争现实而让它变得更糟。"
   }
 ]
