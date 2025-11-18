@@ -1,123 +1,5 @@
 [
   {
-    "id": 137,
-    "title": "Uncommon Utilitarianism #3: Bounded Utility Functions",
-    "title_zh": "Uncommon Utilitarianism #3：有界效用函数",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/jvXF88XmqtsR7uE4w/uncommon-utilitarianism-3-bounded-utility-functions",
-    "tags": [
-      "solve",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The post delves into the controversial debate over whether agents should adopt bounded utility functions to avoid Dutch‑book paradoxes that arise with unbounded utilities. It starts with Vann McGee’s elegant proof that an agent with an unbounded utility function and reasonable epistemic assumptions is vulnerable to an infinite sequence of bets that guarantees net loss, even though each bet individually offers positive expected utility. The author then explores the trilemma that emerges: either reject the epistemic assumptions, accept bounded utilities, or pursue an as‑yet‑unspecified alternative. The discussion moves beyond the proof’s idealised setting to practical concerns—finite decision horizons, real‑world betting limits, and the philosophical intuition that utility should asymptote to a maximum. By contrasting classic paradoxes such as Pascal’s Wager, Pascal’s Mugging, and the St. Petersburg game, the writer argues that bounded utilities provide a coherent, exploitable‑free framework that aligns with sub‑linear preferences over wealth and population. The piece is both a rigorous mathematical critique and a reflective philosophical essay, inviting readers to rethink the foundations of utilitarian decision theory.",
-    "summary_zh": "作者通过Vann McGee的证明，说明无界效用会导致无穷赌注的“荷兰书”悖论，进而提出三种可行方案：违背常识性认识论、采用有界效用或寻找其他方法。随后作者结合帕斯卡赌注、帕斯卡挑衅与圣彼得斯堡游戏等经典悖论，论证有界效用既能避免被利用，又能与财富和人口的次线性偏好相契合，成为更连贯的功利主义决策框架。",
-    "best_quote_en": "\"Even a simply infinite sequence of bets is something in which we mortals never have a chance to participate, so as long as our interest in decision theory is purely practical, we needn’t fret over the example, whether it’s presented to us in the static or dynamic version.\"",
-    "best_quote_zh": "“即使是一个简单的无限序列的赌注，也是我们凡人永远没有机会参与的事情，所以只要我们对决策理论的兴趣纯粹是实践性的，我们就不必为这个例子担忧，无论它是以静态还是动态的方式呈现给我们。”"
-  },
-  {
-    "id": 138,
-    "title": "How To Invest In Startups",
-    "title_zh": "如何投资创业公司",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
-    "tags": [
-      "guide",
-      "startup-funding",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业融资",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2020-01-13",
-    "summary_en": "This article demystifies the often-overlooked art of startup investing, offering a pragmatic, three‑step framework that blends networking, founder assessment, and deal‑closing tactics. It begins by acknowledging the current capital‑saturated climate, where valuations soar and the best opportunities are crowded. The author then distills success into three pillars: 1) access—earned through relentless, value‑added networking and personal branding; 2) decision‑making—focused on spotting founders with rapid improvement, mission‑driven grit, and the capacity to scale; 3) close rate—enhanced by a founder‑friendly reputation, decisive action, and peer‑level engagement. He enriches the guidance with concrete, actionable advice—how to help founders set realistic goals, provide tactical sales guidance, and intervene before costly mistakes. The piece is grounded in real‑world case studies, yet it reframes them as universal principles, urging readers to think in terms of power‑law returns and scalable momentum. For anyone looking to move beyond generic “investor” talk into effective, data‑driven practice, this article offers a thoughtful, practical playbook.",
-    "summary_zh": "文章拆解了创业投资的实务与思维，强调在资本拥挤的时代，获取机会需通过价值导向的网络与品牌；评估创始人时关注快速成长与使命感；成交时需树立同行友好形象并果断行动。作者结合案例，提供可操作的建议，如帮助创始人设定可达成目标、提供具体销售工具，并在关键时刻主动干预。整体以功率法则为视角，鼓励投资者关注可扩张的规模与高回报潜力，既有理论深度又兼具落地可行性。",
-    "best_quote_en": "The power law is that powerful.",
-    "best_quote_zh": "最好的公司往往有勇气在行业领先两年。"
-  },
-  {
-    "id": 139,
-    "title": "How to Set & Achieve Massive Goals | Alex Honnold",
-    "title_zh": "如何设定并实现宏大目标 | Alex Honnold",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-set-and-achieve-massive-goals-alex-honnold",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "Alex Honnold’s conversation with Huberman Lab distills the art of turning grand aspirations into tangible reality. He explains how to map a massive goal—whether climbing El Capitan or a career milestone—into a sequence of micro‑actions that keep momentum alive. The discussion moves beyond mere planning; it probes the psychological underpinnings of motivation, the necessity of embracing mortality, and the role of risk assessment in pushing boundaries. Honnold’s emphasis on “embracing your uniqueness and mortality” reframes goal‑setting as a conscious, intentional practice that aligns daily habits with a larger life vision. He also weaves in practical advice on strength training, mental rehearsal, and balancing ambition with family and work. The episode offers a holistic framework: define the big picture, break it into daily challenges, stay risk‑aware, and stay connected to what you love. Listeners gain a roadmap that is both actionable and deeply reflective, prompting them to re‑evaluate what success truly means.",
-    "summary_zh": "Alex Honnold 与 Huberman Lab 的对话揭示了把宏大目标拆解成可执行小步骤的秘诀。通过强调拥抱独特性与死亡，他把目标设定视为有意识、有意图的实践，帮助听众将日常行动与更大的人生愿景对齐。内容涵盖动机心理、风险评估、力量训练与生活平衡，提供既可操作又富有反思的全景式框架，促使人们重新审视成功的意义。",
-    "best_quote_en": "Embracing your uniqueness and mortality is the most powerful way to envision and live a fuller, more intentional life.",
-    "best_quote_zh": "拥抱你的独特性和死亡是构想并过上更充实、更有意图生活的最强大方式。"
-  },
-  {
-    "id": 140,
-    "title": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
-    "title_zh": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/24/the-return-of-the-lion-tracker-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "Boyd Varty, a lion‑tracker and wilderness guide, opens a window onto a world where ancient animal instincts and modern personal‑development practices collide. In this episode, he shares the brutal lessons of firefighting and tracking that taught him to “slow down the energy” when things go wrong, reframing ego‑shattering moments as catalysts for reflection. He then explains how his retreats at Londolozi harness wordlessness, silence, and the rhythm of nature to accelerate insight—removing phones, allowing the body’s parasympathetic system to surface, and letting stories unfold naturally. Varty’s anecdotes—from a paper‑mache lion that sparked a firefighting drill to a baboon that turned a hotel room into a chaotic playground—illustrate the power of storytelling as awareness and the subtle ways nature’s patterns can guide safety, leadership, and meaning. Listeners leave with a toolkit for grounding themselves in the present, embracing uncertainty, and cultivating a deeper relationship with the world around them.",
-    "summary_zh": "博伊德·瓦蒂的故事把野外追踪与自我成长相结合，教我们在危机中放慢节奏，将自尊受挫转化为反思。通过在朗多洛齐的静默徒步和去除手机，他让人们体验自然节奏，激发洞察力。故事从纸制狮子到大猩猩，展示叙事与觉知的力量，提醒我们与自然的节律相连，提升安全感与领导力。",
-    "best_quote_en": "When something is going that wrong, in the moment, you think to yourself, it can be quite devastating to your ego, but I’ve come to see those moments as quite positive because it does force a kind of reflection.",
-    "best_quote_zh": "当事情进展不顺时，立即意识到这对你的自尊心和领导力都有冲击……我已经学会把这些时刻视为积极的，因为它们迫使你反思。"
-  },
-  {
-    "id": 141,
-    "title": "Riot Women and lesbians in the 1970s | Letters",
-    "title_zh": "《Riot Women 与 1970 年代的女同性恋》",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2025/oct/26/riot-women-and-lesbians-in-the-1970s",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "The letters piece offers a reflective lens on the misreading of Sally Wainwright’s BBC drama *Riot Women* and its historical framing of lesbian visibility in the 1970s. A reader counters Tiff Bakker’s claim that lesbians have always been invisible, arguing instead that 1970s feminism made them both visible and audible. The commentary intertwines personal anecdotes—such as a friend’s journey from feminist theory to rabbinical vocation, and another’s transformation into the punk icon Vi Subversa of Poison Girls—to illustrate how activism, art, and solidarity forged tangible spaces for queer voices. The analysis underscores the importance of contextual fidelity when dramatizing history, and celebrates the nuanced intersection of gender, sexuality, and cultural production. It invites readers to question surface-level interpretations, recognize the layered legacies of 1970s feminist movements, and appreciate the role of media in shaping collective memory. Ultimately, the letters remind us that storytelling is as much about honoring lived experience as it is about entertainment.",
-    "summary_zh": "信件通过对《Riot Women》剧集的误读进行反思，揭示1970年代女权主义如何让女同性恋既可见又可听。作者结合个人经历与历史人物，强调文化与政治交织的力量，提醒读者在解读历史剧时勿忽视细节与真实。",
-    "best_quote_en": "Lesbians were visible and audible in 1970s feminism.",
-    "best_quote_zh": "女同性恋在1970年代的女权主义中是可见且可听见的。"
-  },
-  {
     "id": 142,
     "title": "[CS 2881r] Can We Prompt Our Way to Safety? Comparing System Prompt Styles and Post-Training Effects on Safety Benchmarks",
     "title_zh": "我们能通过提示实现安全吗？比较系统提示风格及后训练对安全基准的影响",
@@ -2358,5 +2240,123 @@
     "summary_zh": "作者以色彩与实用为线索，呈现《亚洲之色》与旅行技巧，强调限量与粉丝至上，兼具创意与行动指南，亦不忘以心理学视角审视日常小事，激发读者重新思考消费、移动与感知。",
     "best_quote_en": "This isn’t about liking what happened — just not making it worse by fighting reality.",
     "best_quote_zh": "这并不是要喜欢发生的事——只是不要因抗争现实而让它变得更糟。"
+  },
+  {
+    "id": 237,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The essay reframes economic inequality as a multifaceted phenomenon rather than a single pie‑fallacy. By dissecting its roots—tax loopholes, addiction, rent‑seeking versus wealth creation—the author argues that the real driver of persistent disparity is the exponential acceleration of productivity enabled by technology. This insight forces a shift from blanket calls to reduce inequality toward targeted interventions: curb corrupt practices, strengthen social mobility, and address poverty as the true symptom. The piece balances critique of traditional economic statistics with a pragmatic call to focus on specific levers—such as limiting zero‑sum wealth extraction—while acknowledging that reducing inequality would require curbing startup dynamism, an undesirable trade‑off. The essay’s intellectual curiosity lies in its insistence that we must understand the mechanics before prescribing fixes, challenging the prevailing narrative that “more equality is always better.”",
+    "summary_zh": "作者将经济不平等从单一的“饼状悖论”拆解为多元因素，强调技术加速生产率是根本驱动力。文章呼吁精准干预：遏制腐败、提升社会流动性、聚焦贫困而非单纯追求平等。它提醒我们，若要削减不平等，必须牺牲创业活力——这不是可取之路。作者以批判传统统计、强调机制理解为核心，挑战“越平等越好”的主流叙事，激发读者重新思考可持续社会的可能性。",
+    "best_quote_en": "If you want to understand economic inequality—and more importantly, if you actually want to fix the bad aspects of it—you have to tease apart the components.",
+    "best_quote_zh": "如果你想了解经济不平等——更重要的是，如果你真的想纠正其不良方面——你必须拆分其组成部分。"
+  },
+  {
+    "id": 238,
+    "title": "The Darkest Thread in the Epstein E-mails",
+    "title_zh": "埃普斯坦邮件中的最黑暗线索",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-darkest-thread-in-the-epstein-e-mails",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The piece dissects the newly released trove of Jeffrey Epstein’s correspondence, spotlighting how the political elite—most notably Donald Trump—are woven into its fabric. By mapping out the emails, the article reveals a pattern of “negative space” where Trump’s name is often absent or dismissed, yet his influence permeates the narrative through real‑world interactions, property deals, and informal conversations with figures such as Steve Bannon, Lawrence Summers, and Ghislaine Maxwell. The analysis underscores the tension between the public’s demand for transparency and the political machinery that can stall or manipulate disclosure. It also highlights the stark contrast between the alleged sexual abuse and the political opportunism that follows, illustrating how powerful actors can shape discourse while avoiding accountability. This investigative lens invites readers to question the integrity of the political process and the ethics of silence, prompting a deeper reflection on how power, media, and public trust intersect in contemporary politics.",
+    "summary_zh": "文章剖析了新公布的埃普斯坦邮件，聚焦唐纳德·特朗普与权力圈的交织。通过梳理邮件，揭示特朗普虽名不常出现，却通过地产交易、与斯蒂夫·班农、劳伦斯·萨默斯等人的互动，潜移默化地影响叙事。文中指出公众对透明度的渴求与政治机制的阻碍之间的张力，展示权力与媒体如何在不承担责任的情况下操纵话语。此篇报道促使读者反思政治诚信与公众信任的交汇点。",
+    "best_quote_en": "Donald Trump occupies a kind of negative space in the available files, which run an enervating gamut from the inane to the depraved.",
+    "best_quote_zh": "唐纳德·特朗普在可获得的文件中占据一种负空间，文件内容从无聊到堕落交织在一起。"
+  },
+  {
+    "id": 239,
+    "title": "Coral",
+    "title_zh": "珊瑚",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/coral/",
+    "tags": [
+      "guide",
+      "science",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The piece is a gentle yet deeply informative tour through the world of coral reefs, framed by the author’s personal snorkeling adventure in the Bahamas and the practical tools of field guides and home aquaria. It highlights how a field guide—first the Peterson primer, then Paul Humann’s richly illustrated volumes—acts as a bridge between the bewildering diversity of reef life and a layperson’s curiosity. The narrative underscores the value of hands‑on experience, noting that even seasoned reef keepers learn more from a well‑crafted aquarium manual than from any textbook. By weaving in the PBS series *The Shape of Life*, the author broadens the lens to the entire animal kingdom, reminding readers that coral reefs are a microcosm of Earth’s evolutionary tapestry. The article invites readers to explore, document, and ultimately respect the unseen ecosystems beneath the waves, offering actionable insights for both beginners and seasoned hobbyists. Its tone balances wonder with practical guidance, making it a compelling resource for anyone eager to deepen their marine biology knowledge.",
+    "summary_zh": "文章以作者在巴哈马潜水的亲身经历为起点，细致描绘了珊瑚礁的奇妙多样性，并强调了现场指南与家庭水族箱在解读海洋生态中的重要作用。通过介绍Peterson和Humann的实用手册，作者展示了如何将海底世界的复杂性转化为易懂的知识。文章还引用PBS《生命的形状》系列，将珊瑚礁视为地球进化的缩影，激发读者对海洋生物的敬畏与探索欲。整体语调兼具好奇与实用，既适合初学者，也为经验丰富的水族爱好者提供可操作的见解。",
+    "best_quote_en": "The guides contain a sufficient critical mass of species that you can be confident you actually saw what you think you saw.",
+    "best_quote_zh": "我感到神圣，受祝福。"
+  },
+  {
+    "id": 240,
+    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+    "title_zh": "呼吸：对身心健康与表现的必修课 | Dr. Jack Feldman",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
+    "tags": [
+      "guide",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "Huberman Lab’s latest Essentials episode brings in Dr. Jack Feldman, a UCLA neurobiology professor, to dissect the science of breathing. The conversation starts with the anatomy of respiration—diaphragm mechanics, the pre‑Bötzinger complex, and the neural circuitry that sets our breathing rhythm—before moving into the psychological implications of breath patterns. Feldman explains how controlled breathing can dampen the fear circuitry, reduce anxiety, and build emotional resilience, citing studies that link slow, box‑style breathing with decreased cortisol and improved autonomic balance. He also offers concrete tools, from box breathing for peak performance to magnesium L‑threonate supplementation for cognitive longevity, grounding each recommendation in recent trials. For listeners, the episode is a blend of mechanistic insight and practical take‑aways, positioning breathing as a low‑cost, high‑impact lever for mental and physical well‑being.",
+    "summary_zh": "Huberman实验室最新的Essentials节目邀请了UCLA神经生物学教授Jack Feldman，深入剖析呼吸科学。节目先讲解呼吸机制——膈肌运动、pre‑Bötzinger复合体与呼吸节律的神经回路——随后探讨呼吸模式对情绪与焦虑的调节作用。Feldman指出，受控呼吸可抑制恐惧回路，降低皮质醇并提升自主神经平衡，引用慢速、方形呼吸能提升情绪韧性。节目还提供实用工具，如方形呼吸训练与镁L‑苏糖酸补充剂，均基于最新临床试验。对听众而言，这是一场将机理与实操相结合的节目，展示呼吸作为低成本高效益的身心调节杠杆。",
+    "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
+    "best_quote_zh": "呼吸模式深刻影响情绪状态，包括降低焦虑和增强情绪韧性的作用。"
+  },
+  {
+    "id": 241,
+    "title": "Notes on Being a Man, and Advice for Young Men Who Are Feeling Lost — Scott Galloway",
+    "title_zh": "关于做一个男人的笔记",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/24/advice-for-young-men/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "Scott Galloway’s latest book, Notes on Being a Man, reframes the crisis of young men as a call to intentional self‑development. He moves beyond lamenting dropout rates and rising suicide statistics to prescribe a concrete four‑point framework—fitness, nutrition, money, work—that can be operationalized via daily habits and phone‑based time audits. The author’s “S‑C‑A‑F‑A” mnemonic distills mental health into Sweat, Clean eating, Abstinence, Family, Affection, offering a holistic, low‑cost intervention. By weaving personal anecdotes, statistical evidence, and a “no‑BS tough‑love” tone, Galloway turns abstract social commentary into a step‑by‑step guide. The piece raises questions about masculinity, parental expectations, and the digital ecosystem that amplifies self‑criticism. While the advice is actionable, it risks oversimplifying complex socioeconomic factors that drive the very behaviors it seeks to curb. Still, the book’s pragmatic focus and narrative style provide a valuable starting point for mentors and policy makers looking to redirect the energy of young men toward constructive goals.",
+    "summary_zh": "《Notes on Being a Man》将年轻男子的迷失视为自我成长的契机。作者提出以健身、营养、金钱、工作四要素为核心的实操框架，并用“S‑C‑A‑F‑A”口诀将心理健康简化为汗水、清洁饮食、戒酒戒毒、家庭、亲情。通过数据与亲身轶事相结合，书把宏观社会议题转化为可执行的步骤，既鼓舞又警示。虽然行动建议易于落地，但也未能完全涵盖导致行为失衡的复杂社会经济因素。整体而言，它为导师与政策制定者提供了一个可落地的起点。",
+    "best_quote_en": "S‑C‑A‑F‑A: Sweat, Clean eating, Abstinence, Family, Affection.",
+    "best_quote_zh": "S‑C‑A‑F‑A：汗水、清洁饮食、戒酒戒毒、家庭、亲情"
   }
 ]
