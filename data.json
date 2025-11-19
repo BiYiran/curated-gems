@@ -1,75 +1,5 @@
 [
   {
-    "id": 142,
-    "title": "[CS 2881r] Can We Prompt Our Way to Safety? Comparing System Prompt Styles and Post-Training Effects on Safety Benchmarks",
-    "title_zh": "我们能通过提示实现安全吗？比较系统提示风格及后训练对安全基准的影响",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/hgMDvLyomQjpKiG2v/cs-2881r-can-we-prompt-our-way-to-safety-comparing-system",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "This paper rigorously evaluates how different system prompt styles—minimal, principles, rules, and their combinations—affect safety and capability benchmarks for two DeepSeek-derived models. By contrasting a minimally trained baseline with a safety‑fine‑tuned counterpart across OR‑Bench and MMLU‑Pro, the authors uncover nuanced trade‑offs: minimal prompts often inflate over‑refusal, whereas principles or rules can reduce toxic‑refusal without severely harming accuracy. Notably, a well‑crafted prompt can bring a base model’s toxic‑refusal within 5% of a safety‑tuned model while cutting over‑refusal by up to tenfold, suggesting prompting as a potent, flexible complement to post‑training. The study also highlights model‑specific sensitivities—GPT‑4o and Claude‑3.5‑Sonnet respond differently to prompt styles—underscoring the need for empirical tuning. Overall, the work invites practitioners to view prompting not as a substitute but as a strategic layer atop safety training, balancing reversibility, precision, and risk of over‑conservatism.",
-    "summary_zh": "本研究通过对不同系统提示风格在安全与能力基准上的影响进行细致评估，揭示提示可在保持安全性的同时显著降低过度拒绝。对比基础模型与安全微调模型，发现精心设计的提示可将毒性拒绝率逼近安全模型，且过度拒绝率下降十倍以上。提示与后训练相互补充，提供灵活可逆的安全调节路径，提示不同模型对风格的响应差异提醒需经验调优。此工作提示我们将提示视为安全训练的策略层，而非替代方案。",
-    "best_quote_en": "The Unreasonable Effectiveness of Prompting in Getting LLMs to do Things.",
-    "best_quote_zh": "提示在让LLM完成任务方面的非凡有效性。"
-  },
-  {
-    "id": 143,
-    "title": "Why Biden’s White House Press Secretary Is Leaving the Democratic Party",
-    "title_zh": "为什么拜登白宫新闻秘书将离开民主党",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-bidens-white-house-press-secretary-is-leaving-the-democratic-party",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "In her new book, former White House press secretary Karine Jean‑Pierre confronts the Democratic Party’s betrayal of President Biden, framing her departure as a moral stand against a party she claims abandoned a leader during a crisis. The narrative intertwines personal experience with a broader critique of intra‑party politics, revealing how internal pressures can erode loyalty and reshape electoral strategy. Jean‑Pierre’s account exposes a tension between party pragmatism and principled defense of a president she regards as decently effective, highlighting the fraught dynamics of leadership succession in a polarized climate. Her story serves as a case study of how political identity can fracture under strategic pressures, offering readers a rare insider’s perspective on the cost of political expediency. The book invites reflection on the integrity of democratic institutions and the responsibilities of party leaders to safeguard the leaders they elect, while questioning whether loyalty to a candidate should eclipse the broader national interest.",
-    "summary_zh": "前白宫新闻秘书贾妮·皮埃尔在新书中揭露民主党背叛拜登，称其离党是对党内自私与失职的抗议。她的叙述揭示党内权谋与忠诚冲突，成为政治身份破裂的案例研究，促使读者重新思考民主制度的完整性与党派责任。",
-    "best_quote_en": "I watched Democratic leadership abandon, and in the end betray, a man who’d led our country through a pandemic and a time of historic political turmoil.",
-    "best_quote_zh": "我看到了民主党领导层抛弃并最终背叛了曾带领我们国家度过疫情和历史政治动荡的总统。"
-  },
-  {
-    "id": 144,
-    "title": "Mowers",
-    "title_zh": "割草机",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/mowers/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The article offers a hands‑on tour of niche yard‑care tools, from the hybrid DR Trimmer/Mower that tackles weeds in tight spots to the lightweight Brill Push Mower that turns manual mowing into a sustainable, low‑impact workout. It highlights real‑world user tips—such as experimenting with line types on the DR or the rare 8.75‑horse‑power engine on the Brill—underscoring the importance of maintenance and ergonomics. The piece also showcases the Cyclone Rake’s leaf‑sweeping prowess, the Stihl FSE‑60’s quiet, powerful electric trimmer, and the European scythe’s ergonomic, blade‑sharp design that rivals gas models. Across the reviews, a recurring theme emerges: thoughtful engineering can make routine yard work efficient, environmentally friendly, and even enjoyable. The article serves as a practical guide for homeowners seeking durable, high‑performance tools without compromising on sustainability or user experience.",
-    "summary_zh": "文章评测多款专业园艺工具，强调实用性与环保：DR混合割草机精准清除杂草，Brill手推割草机轻巧可持续；Cyclone耙高效清叶；Stihl电动修枝机安静强劲；欧洲镰刀符合人体工学。作者提供维护技巧与使用经验，帮助读者挑选既高效又低碳的园艺设备。",
-    "best_quote_en": "Nothing else comes close in keeping vegetation under control, even in tight spots like under fences.",
-    "best_quote_zh": "没有其他工具能像它那样在紧凑的空间（如篱笆下）有效控制植被。"
-  },
-  {
     "id": 145,
     "title": "How To Be Successful",
     "title_zh": "如何取得成功",
@@ -2358,5 +2288,77 @@
     "summary_zh": "《Notes on Being a Man》将年轻男子的迷失视为自我成长的契机。作者提出以健身、营养、金钱、工作四要素为核心的实操框架，并用“S‑C‑A‑F‑A”口诀将心理健康简化为汗水、清洁饮食、戒酒戒毒、家庭、亲情。通过数据与亲身轶事相结合，书把宏观社会议题转化为可执行的步骤，既鼓舞又警示。虽然行动建议易于落地，但也未能完全涵盖导致行为失衡的复杂社会经济因素。整体而言，它为导师与政策制定者提供了一个可落地的起点。",
     "best_quote_en": "S‑C‑A‑F‑A: Sweat, Clean eating, Abstinence, Family, Affection.",
     "best_quote_zh": "S‑C‑A‑F‑A：汗水、清洁饮食、戒酒戒毒、家庭、亲情"
+  },
+  {
+    "id": 242,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article juxtaposes two seemingly disparate works—a mid‑century psychological study of famed architects and a compact comic adaptation of Neil Gaiman’s short story—to illuminate how context shapes creative expression. The first book, *The Creative Architect*, unearths a modest yet profound thesis: creativity thrives when the self is liberated from conformity, demanding elegance as well as solution. Its archival presentation—photos, test sheets, and correspondence—offers a rare window into 1950s design culture, inviting readers to interrogate the myth of the solitary genius. The second, *How to Talk to Girls at Parties*, showcases Gaiman’s deft handling of awkward intimacy through a visually striking comic. The narrative’s charm lies in its universal relatability and the subtle tension between expectation and reality, underscored by the illustrators’ ability to render uncanny worlds that feel almost tangible. Together, the pieces underscore that creativity is both an internal, disciplined practice and a socially mediated dialogue. For readers, the article serves as a reminder that studying historical artifacts and contemporary storytelling can both enrich our own creative journeys.",
+    "summary_zh": "文章将1950年代建筑师心理研究与格兰·盖曼短篇改编漫画并置，揭示创意既是自我解放的产物，也是社会对话的结果。前者以档案形式呈现，质疑孤独天才神话；后者通过幽默与细腻情感，展示人与人之间的尴尬与共鸣。两者共同提醒我们，创作既需内在纪律，也需外在交流，历史与当代叙事都能为个人创意旅程提供启示。",
+    "best_quote_en": "What propels creativity is the unfettered expression of the self.",
+    "best_quote_zh": "你永远不会完全领先剧情，而且很容易同情恩的尴尬。"
+  },
+  {
+    "id": 243,
+    "title": "The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
+    "title_zh": "狮子追踪者的归来 — Boyd Varty 探索内在野性、自然的隐藏智慧以及如何活得充实 (#832)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/22/the-return-of-the-lion-tracker/",
+    "tags": [
+      "solve",
+      "leadership",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "In this episode, Boyd Varty, a fourth‑generation tracker from South Africa’s Londolozi Game Reserve, shares how the raw, wordless world of lions, leopards and the Kalahari desert becomes a living teacher. He frames nature as a “meaning machine” that mirrors our own instinctual patterns, and urges listeners to step into silence to discover the quiet intelligence that lives within. Drawing on personal stories—from a fire‑fighting drill gone wrong to a close encounter with a black mamba—he demonstrates how tracking skills translate into leadership, resilience, and creative problem‑solving. The conversation blends philosophy with practical “tracking your life” tools, offering a roadmap for anyone who wants to re‑enchant themselves, cultivate presence, and feel fully alive. It’s a rare blend of wilderness wisdom and actionable self‑development that invites you to listen, learn, and transform.",
+    "summary_zh": "在这期节目中，Boyd Varty 以他作为狮子追踪者的亲身经历，阐述自然世界如何成为自我探索与成长的镜子。他强调‘无言’的观察与沉默的力量，指出在喧嚣中寻找内在的宁静与清晰。通过具体案例，他展示了如何将追踪技巧转化为个人领导力、韧性与创新的工具。节目既是一次哲学的对话，也是实用的行动指南，鼓励听众重新与自然对话，激活潜能，感受真正的活力与存在感。",
+    "best_quote_en": "The natural world is not just where meaning constellates. It is meaning in some fundamental way.",
+    "best_quote_zh": "自然界不仅是意义聚集的地方，它本身在某种根本方式上就是意义。"
+  },
+  {
+    "id": 244,
+    "title": "Baby Shark creator Pinkfong’s shares soar, fall back to earth in stock market debut",
+    "title_zh": "Pinkfong创始人——婴儿鲨鱼——股价飙升，随后回落至首发价上方9%",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/baby-shark-creator-pinkfongs-shares-soar-fall-back-to-earth-in-stock-market-debut/",
+    "tags": [
+      "analyze",
+      "startup-funding",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业融资",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "Pinkfong’s debut on South Korea’s Kosdaq has turned a viral child‑song into a headline‑making IPO story. The company, best known for “Baby Shark,” saw its shares jump 62 % intraday before closing 9 % above the offering price, raising $53 million amid demand 600 times the supply. The article examines how Pinkfong’s success is built on a single, highly monetizable IP and how the firm plans to diversify with new characters, a TV show and pop‑up stores. Analysts weigh the risks of sustaining growth when the business shifts from a one‑hit phenomenon to a broader entertainment brand. Revenue figures show a healthy 18.8 billion KRW operating profit, but future earnings will hinge on licensing, merchandise sales and the performance of new IPs. The piece also highlights the company’s strategic partnership with Sony Music and its ambition to launch three new IPs by 2028. Readers gain insight into the mechanics of a media‑centric IPO, the importance of IP diversification, and the challenges of scaling a child‑centric brand into a multi‑generational entertainment empire.",
+    "summary_zh": "Pinkfong在科斯达克首发，股价飙升后回落，IPO筹资5300万美元。文章聚焦其“Baby Shark”IP的商业模式，探讨多元化扩张与未来盈利。同时评估与索尼音乐的合作及2028年前三款新IP计划，帮助读者理解媒体IPO背后的IP变现与品牌扩张策略。",
+    "best_quote_en": "The key will be how effectively the company can monetize its existing IPs — Baby Shark, Bebefinn — and how well its new IPs perform.",
+    "best_quote_zh": "Pinkfong 的股价在首次公开募股当天飙升，随后回落至高于 IPO 价格 9% 的收盘价。"
   }
 ]
