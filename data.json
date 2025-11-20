@@ -1,125 +1,5 @@
 [
   {
-    "id": 145,
-    "title": "How To Be Successful",
-    "title_zh": "如何取得成功",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-be-successful",
-    "tags": [
-      "solve",
-      "leadership",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2019-01-24",
-    "summary_en": "The essay distills thirteen pragmatic principles for founders and ambitious individuals, framing success as an exponential, compound process rather than a linear one. It stresses the necessity of \"compounding yourself\"—seeking multiplicative growth in career, capital, and influence—and pairs this with an almost delusional self‑belief that fuels contrarian ideas and resilience. The author critiques conventional linear thinking, urging readers to focus on high‑leverage actions, deliberate risk‑taking, and relentless hard work, while also advocating for strategic focus and bold ambition. Networking and building a resilient, complementary team emerge as critical levers, as does ownership of assets that appreciate rapidly. The piece balances inspirational rhetoric with actionable advice, underscoring that success demands both conviction and self‑awareness. It invites readers to question external validation, to cultivate internal motivation, and to treat work as a series of high‑impact experiments. Ultimately, the narrative offers a roadmap that is simultaneously aspirational and grounded in the realities of entrepreneurial ecosystems, prompting reflection on how to translate ambition into measurable, scalable impact.",
-    "summary_zh": "文章把成功拆解成13条实操原则，强调复利思维、自信与风险、专注与努力、团队与资产拥有。它批判线性成长，提倡高杠杆行动与内驱动，既鼓舞人心又具可执行性，促使读者将野心转化为可衡量的影响。",
-    "best_quote_en": "Self‑belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.",
-    "best_quote_zh": "自信是极其强大的。我认识的最成功的人几乎把自信当成一种妄想。"
-  },
-  {
-    "id": 146,
-    "title": "Exclamation marks! Why do women use them three times as much as men?",
-    "title_zh": "感叹号！为什么女性使用它们的频率是男性的三倍？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/oct/28/exclamation-marks-why-do-women-use-them-three-times-as-much-as-men",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article examines a recent experimental social‑psychology study that found women use exclamation marks three times as often as men. It argues that this linguistic strategy is a response to gendered expectations: society labels women who do not appear enthusiastic as cold or unfriendly, so many women add exclamation points to signal warmth and agreeableness. The piece presents the research’s mixed implications—while exclamation marks can make messages seem friendlier, they also invite perceptions of reduced analytical competence and authority. The author critiques the study’s framing, noting that the data may reinforce stereotypes rather than challenge them. Readers gain a nuanced view of how punctuation can reflect and reinforce gender norms, and they are prompted to consider how language choices shape professional credibility. The article blends academic findings with everyday examples, making the topic accessible while encouraging critical reflection on communication practices.",
-    "summary_zh": "本文探讨一项社会心理学实验，发现女性在书面交流中使用感叹号的频率是男性的三倍。作者认为这是一种对性别期望的回应——如果女性不表现热情，往往被视为冷漠。感叹号既能传递亲和力，又可能削弱专业权威。文章批判研究可能强化刻板印象，呼吁读者重新审视标点与职业形象的关系。",
-    "best_quote_en": "It found that women use exclamation marks in communication three times more often than men do, something rooted in their realisation that society will reject them as cold and unfriendly if they don’t go out of their way to appear enthusiastic!",
-    "best_quote_zh": "研究发现，女性在沟通中使用感叹号的频率是男性的三倍，这源于她们意识到如果不表现出热情，社会会把她们视为冷漠和不友好。"
-  },
-  {
-    "id": 147,
-    "title": "Being a Noob",
-    "title_zh": "成为新手",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "The essay reframes the uneasy label of “noob” into a powerful growth catalyst. By arguing that the more you feel like a beginner locally, the less you feel like one globally, it flips the traditional narrative of ignorance. The author links this inversion to evolutionary psychology: humans historically favored competence in familiar tasks over the uncertainty of novelty, a bias that now hampers our ability to adapt to rapid change. Embracing the noob mindset, the piece suggests, unlocks curiosity, fosters continuous learning, and ultimately expands one’s knowledge horizon. It blends personal anecdotes with broader reflections on how modern abundance—whether in information or technology—creates a paradox where the very discomfort of being a novice becomes a strategic advantage. The article invites readers to view their gaps not as deficits but as gateways to exploration, urging a shift from avoidance to active curiosity. In doing so, it offers a nuanced critique of self‑improvement culture while championing a more humble, inquisitive approach to life and work.",
-    "summary_zh": "作者把“新手”这一尴尬标签转化为成长的动力，指出本地越是新手，全球越不再是新手，从而颠覆传统的无知观。通过进化心理学的视角，他解释了人类为何更偏爱熟悉的技能而忽视新奇的探索，强调在信息与技术爆炸的时代，接受新手心态能激发好奇心、持续学习，拓宽知识视野。文章既批判自我提升的刻板印象，又倡导谦逊与探索，让读者把差距视为通往未知的通道，推动从回避到主动好奇的转变。",
-    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
-    "best_quote_zh": "你在本地越是新手，全球越不再是新手。"
-  },
-  {
-    "id": 148,
-    "title": "Print Workshop / Smart About Sharks",
-    "title_zh": "打印工作坊 / 关于鲨鱼的聪明小知识",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/print-workshop-smart-about-sharks/",
-    "tags": [
-      "guide",
-      "design",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article juxtaposes two distinct yet complementary creative resources: Christine Schmidt’s *Print Workshop*, a hands‑on guide that demystifies printmaking for the uninitiated, and Owen Davey’s *Smart About Sharks*, a visually engaging fact book that turns marine biology into playful learning. Schmidt’s book is structured like a laboratory manual—step‑by‑step instructions, project templates, and vivid illustrations—making it both a comprehensive primer for novices and a springboard for seasoned artists seeking fresh ideas. Davey’s work, meanwhile, transforms dense scientific data into bite‑sized, memorable nuggets, each framed by a stylized, retro aesthetic that appeals to children and adults alike. Together they highlight the power of accessible, tactile knowledge: one invites hands‑on creation, the other invites curious observation. The piece underscores how well‑crafted educational tools can inspire creativity, spark curiosity, and foster a lifelong love of learning across disciplines.",
-    "summary_zh": "文章将克里斯汀·施密特的《打印工作坊》与欧文·戴维的《关于鲨鱼的聪明小知识》并列，展示了两种不同但互补的创意资源。前者以手把手教程和项目模板，让初学者快速掌握印刷技巧；后者以趣味事实和复古插画，将海洋生物知识变成亲子共读的乐趣。两本书共同强调易懂、可操作的教育工具能激发创造力、培养好奇心，并在不同年龄层中传播终身学习的热情。",
-    "best_quote_en": "With step-by-step instructions, project templates, and illustrated project and resource guides, this book serves as both an exhaustive guide for the DIY-er just starting out in printmaking, as well as a jumping‑off point for artists who need a nudge toward new ideas.",
-    "best_quote_zh": "鲨鱼在地球上存在于200百万年前，比恐龙还早；还有一种叫巨口鲨的鲨鱼，拥有发光的嘴巴。"
-  },
-  {
-    "id": 149,
-    "title": "Reinforcement Learning Progress",
-    "title_zh": "强化学习进展",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2018-06-25",
-    "summary_en": "OpenAI’s latest breakthrough—training five autonomous agents to defeat semi‑pro Dota players using Proximal Policy Optimization—demonstrates the immense potential of deep reinforcement learning (RL) when paired with massive compute and a realistic simulation. The agents, trained solely through self‑play without human data, achieved a 90‑95% win rate, underscoring RL’s capacity to master complex, real‑time decision‑making that mirrors real‑world challenges. This milestone signals a shift toward solving problems that resist hand‑crafted solutions, positioning RL as a pivotal branch of machine learning on the path to general intelligence. The article frames this as a proof‑of‑concept that could extend to varied domains, from logistics to autonomous systems, highlighting the scalability and adaptability of RL strategies. It invites researchers and practitioners to rethink how we design reward functions and leverage simulation environments to accelerate AI progress, offering both excitement and caution about the computational demands and ethical implications of such large‑scale training.",
-    "summary_zh": "OpenAI用自我对战训练出五名Dota代理，击败半职业选手，展现深度强化学习在复杂实时决策中的巨大潜力。此突破提示RL可解决难以手工编码的问题，预示通用智能的新方向。",
-    "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving.",
-    "best_quote_zh": "这是一件大事，因为它表明深度强化学习能够解决极其困难的问题，只要你有足够的计算规模和一个真正良好的模拟环境来捕捉你要解决的问题。"
-  },
-  {
     "id": 150,
     "title": "Improve Your Lymphatic System for Overall Health & Appearance",
     "title_zh": "改善淋巴系统以提升整体健康与外观",
@@ -2360,5 +2240,123 @@
     "summary_zh": "Pinkfong在科斯达克首发，股价飙升后回落，IPO筹资5300万美元。文章聚焦其“Baby Shark”IP的商业模式，探讨多元化扩张与未来盈利。同时评估与索尼音乐的合作及2028年前三款新IP计划，帮助读者理解媒体IPO背后的IP变现与品牌扩张策略。",
     "best_quote_en": "The key will be how effectively the company can monetize its existing IPs — Baby Shark, Bebefinn — and how well its new IPs perform.",
     "best_quote_zh": "Pinkfong 的股价在首次公开募股当天飙升，随后回落至高于 IPO 价格 9% 的收盘价。"
+  },
+  {
+    "id": 245,
+    "title": "Jess Cartner-Morley on fashion: how to do the country look – without being a flat cap cliche",
+    "title_zh": "Jess Cartner-Morley谈时尚：如何演绎乡村风格——不落入平顶帽陈词滥调",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/19/jess-cartner-morley-on-fashion-how-to-do-the-country-look-without-being-a-flat-cap-cliche",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Jess Cartner‑Morley’s column is a playful yet thoughtful guide to the country‑style trend that has recently swept the urban fashion scene. She argues that the key to pulling off a “country look” is authenticity rather than cliché: avoid the flat‑cap, tweed, and waxed‑jacket tropes that feel staged. Instead, she suggests layering practical, rugged pieces—barn jackets, Fair Isle jumpers, corduroy trousers—while keeping color palettes muted yet warm. Her insight that the appeal of country fashion stems from a longing for wholesomeness and a symbolic connection to nature offers a deeper lens on why such aesthetics resonate in a digital‑heavy era. The piece is actionable, offering concrete wardrobe choices and styling tips that respect both the trend’s roots and the wearer’s urban reality. It invites readers to experiment responsibly, turning a fleeting fashion fad into a sustainable, grounded style statement.",
+    "summary_zh": "Jess Cartner‑Morley用机智与洞察力剖析了当下都市时尚界的乡村风潮。她强调，真正的乡村造型不在于套用平顶帽、呢料或蜡质外套等陈词滥调，而在于真实与实用。建议搭配棕褐色的农舍夹克、Fair Isle针织衫和灯芯绒裤，色调保持柔和温暖。她指出，乡村时尚的魅力源自人们对纯朴与与自然相连的渴望，正是对数字时代浮躁生活的回应。文章提供可操作的穿搭建议，帮助读者在保持都市身份的同时，拥抱这一可持续且扎根的风格。",
+    "best_quote_en": "The gravitational pull of this look is to do with our longing for wholesomeness.",
+    "best_quote_zh": "服装总是部分表演."
+  },
+  {
+    "id": 246,
+    "title": "What’s in my NOW? — Molly Harris",
+    "title_zh": "我的现在是什么？——莫莉·哈里斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Molly Harris’s “What’s in my NOW?” reads like a personal inventory of micro‑tech and mental hygiene tools that map a day to comfort. She lists a digital hygrometer that plugs into a custom dew‑point calculator, a fidget slider, and even ear canal scratchers—odd, yet oddly effective items that turn mundane anxieties into tactile relief. On the digital side, she champions Inoreader, a feature‑rich RSS reader that also monitors YouTube, and Tetr.io, a tetromino game she claims helps reset her brain after CPTSD‑related stress. The invisible layer is a short but potent quote, “This too shall pass,” framing her entire approach as a reminder that moments of discomfort are transient. The piece is both a practical guide and a gentle meditation, offering actionable, beginner‑friendly tools that readers can adopt immediately. It invites readers to treat each moment as a curated set of interventions, blending technology, tactile comfort, and philosophical resilience into a coherent, low‑barrier routine.",
+    "summary_zh": "莫莉·哈里斯的《我的现在是什么？》像是一份微技术与心理健康工具的个人清单。她列出数字湿度计、抓握滑块、耳道挠痒器等日常小物，让焦虑变成可触摸的舒缓。数字方面，她推崇功能丰富的RSS阅读器 Inoreader 与能帮助 CPTSD 压力恢复的 Tetr.io。隐形层则是简短却有力的“这也会过去”，提醒我们不安时光皆是短暂。文章兼具实用指南与温柔冥想，提供可操作、易上手的工具，鼓励读者把每一刻当作精心策划的干预，融合科技、触觉与哲学韧性。",
+    "best_quote_en": "This too shall pass.",
+    "best_quote_zh": "这也会过去。"
+  },
+  {
+    "id": 247,
+    "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+    "title_zh": "利用干细胞治疗自闭症、癫痫和精神分裂症 | 司尔吉·帕斯卡博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/using-stem-cells-to-cure-autism-epilepsy-and-schizophrenia-dr-sergiu-pasca",
+    "tags": [
+      "learn",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "Dr. Sergiu Pașca, a Stanford psychiatrist, unpacks the genetic roots of autism and the alarming rise in diagnoses. He foregrounds his pioneering organoid and assembloid technologies—human stem‑cell–derived mini‑brains that recapitulate cortical development—to model disease and test gene‑editing therapies. The episode traces how CRISPR, follistatin, and other molecular levers may correct neural circuitry in conditions ranging from autism to schizophrenia. Pașca also wrestles with the ethical tightrope of transplanting stem‑cell–derived tissue into children, balancing scientific promise against safety concerns. What makes the conversation compelling is its blend of cutting‑edge science, real‑world data, and a cautious moral compass. Listeners gain actionable insights into how stem‑cell research could shift the treatment paradigm, while also understanding the limits of current technology. The discussion invites critical reflection on the pace of translational medicine and the responsibility that comes with it.",
+    "summary_zh": "斯坦福精神科教授帕斯卡博士阐释自闭症遗传根源与诊断激增，重点介绍他研发的器官样体与组装体技术，探讨基因编辑与干细胞疗法如何重塑神经网络。节目兼顾科学前沿与伦理考量，既提供可操作的研究洞见，又提醒技术局限，促使听众深思转化医学的速度与责任。",
+    "best_quote_en": "organoids and assembloids—human stem cell–derived tools he pioneered to study, treat and cure complex brain diseases.",
+    "best_quote_zh": "器官样体和组装体——他发明的人类干细胞衍生工具，用于研究、治疗和治愈复杂脑部疾病。"
+  },
+  {
+    "id": 248,
+    "title": "The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom (#836)",
+    "title_zh": "四小时工作周原则——避免13个错误、微退休艺术与自由的眩晕感",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/19/the-4-hour-workweek-principles/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Tim Ferriss revisits the classic 4‑Hour Workweek, peeling back the layers of what really makes the book timeless. He opens with the notion of “mini‑retirements,” a radical shift from the one‑big‑vacation model to a life of distributed adventure and continuous rejuvenation. The episode then confronts the emotional void that follows extreme freedom—how to stay grounded when you have “too much time.” Ferriss distills his 13 most common pitfalls, offering concrete, actionable guidance that feels both fresh and deeply rooted in the original framework. The discussion is peppered with real‑world anecdotes, from the “death of vacations” to the “alternative to binge traveling,” and ends with a call to action: map your own mini‑retirement, guard your time, and learn to say no. For listeners who crave practical tools, this episode delivers a blend of philosophy, strategy, and step‑by‑step tactics that can be applied immediately in any lifestyle‑design journey.",
+    "summary_zh": "Tim Ferriss 重新审视《四小时工作周》，提出“微退休”概念，打破传统大假期思维，倡导把自由分散成持续的冒险与恢复。随后他剖析自由带来的情感空虚，教你如何在拥有过多时间时保持根基。核心是13个常见错误的实用对策，配合真实案例，让理念落地。节目以“自由的死亡”与“非沉迷式旅行”为切入点，最后号召听众制定自己的微退休计划，守护时间，学会说“不”。对渴望立即行动的读者而言，这是一份兼具哲学与策略、可操作步骤的实战指南。",
+    "best_quote_en": "The birth of mini‑retirements and the death of vacations.",
+    "best_quote_zh": "“生命中不只是加速，还有更深的存在。”——甘地"
+  },
+  {
+    "id": 249,
+    "title": "How I Became a Freelancer and Earn a Living From Home",
+    "title_zh": "我如何成为自由职业者并在家赚取生计",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2025/11/how-i-became-a-freelancer-and-earn-living-from-home.html",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "This candid guide demystifies the journey from novice to self‑employed, offering a practical playbook for aspiring home‑based freelancers. The author’s narrative is anchored in real‑world tactics—starting with low‑stakes gigs to build a portfolio, leveraging platforms like Upwork, and gradually scaling to higher‑paying, long‑term projects. What sets the piece apart is its emphasis on self‑discovery: experimenting across roles (project management, writing, design) until a fit emerges, and then refining skill sets to meet market demand. The article balances motivational anecdotes with hard‑earned lessons—patience in client acquisition, boundary setting to avoid burnout, and the importance of clear communication. Readers gain actionable insights into profile optimization, proposal strategies, and rate setting, while also receiving a nuanced perspective on the emotional rollercoaster of freelancing. The piece invites readers to view freelancing not merely as a side hustle but as a deliberate career path that blends flexibility, continuous learning, and purposeful work.\n",
+    "summary_zh": "这篇自述式指南把从零到自由职业者的路拆解成可操作的步骤，强调先做小项目积累经验，再通过Upwork等平台寻找高质量客户。作者不只分享技巧，更提醒读者要有耐心、设边界、善于沟通，才能避免倦怠。内容兼具鼓舞与实用，帮助读者把自由职业视为既灵活又能持续学习的职业路径。\n",
+    "best_quote_en": "Finding quality clients that you enjoy working with takes time; patience is key.",
+    "best_quote_zh": "我真的不喜欢图形设计或社交媒体管理"
   }
 ]
