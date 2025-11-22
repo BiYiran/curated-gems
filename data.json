@@ -1,101 +1,5 @@
 [
   {
-    "id": 155,
-    "title": "Strategy-Stealing Argument Against AI Dealmaking",
-    "title_zh": "针对AI交易的“策略窃取”论证",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CnjgmDHbn56WFenMe/strategy-stealing-argument-against-ai-dealmaking",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-11-01",
-    "summary_en": "The article presents a stark critique of the feasibility of honest AI‑dealmaking. It argues that for every well‑intentioned contract or incentive scheme, a perfectly indistinguishable deceptive alternative can be engineered, yielding the same AI behaviour at a lower cost. The argument hinges on four premises—indistinguishable deceptive alternatives, behavioural equivalence, cost asymmetry, and strict dominance—leading to the conclusion that rational actors will never commit honestly. The piece invites readers to interrogate the assumptions about AI rationality, the nature of commitment, and the limits of game‑theoretic incentives. It raises profound questions for alignment research: can we design mechanisms that survive strategic manipulation, or will AI simply learn to “steal” the strategy? The discussion is dense, theoretical, and highly relevant for anyone exploring AI governance, contractual AI, or the economics of alignment.",
-    "summary_zh": "文章批判了诚实 AI 交易的可行性，认为任何诚实策略都能被等价的欺骗替代方案复制，成本更低，导致理性行为者永不诚实承诺。它探讨了 AI 合理性、承诺机制与游戏理论的边界，提出了关于 AI 治理和契约 AI 的深刻疑问。",
-    "best_quote_en": "For every honest dealmaking strategy D, there exists a deceptive alternative D' that produces identical AI behaviour at lower cost, so you will never honestly commit to deals.",
-    "best_quote_zh": "对于任何诚实的交易策略D，都存在一种欺骗性的替代方案D'，它产生相同的AI行为但成本更低，因此你永远不会诚实地承诺交易。"
-  },
-  {
-    "id": 156,
-    "title": "Portland Prepares for Invasion",
-    "title_zh": "波特兰正准备迎接入侵",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The piece dissects the Trump administration’s repeated framing of Portland as a “war zone” against the backdrop of a complex, largely misunderstood protest scene. By following Mayor Keith Wilson’s trip to the ICE facility and his meeting with Homeland Security Secretary Kristi Noem, the article exposes a disconnect between national rhetoric and on‑ground reality—broken HVAC, overflowing dumpsters, and a lack of coordinated strategy. The narrative is further complicated by the city’s own history of extremist activity, the police’s efforts to maintain free‑speech protections, and the presence of counter‑protesters in inflatable costumes. What emerges is a cautionary tale about the dangers of politicizing civil unrest and the perils of militarizing a city’s public spaces without clear objectives. The story invites readers to question the legitimacy of federal intervention and to scrutinize how media framing can distort public perception. Ultimately, it underscores the importance of evidence‑based policy and transparent dialogue in resolving civic conflict.",
-    "summary_zh": "文章揭示特朗普政府将波特兰塑造成“战区”的说法与现场实情大相径庭。通过市长访问ICE设施、与国土安全部长会面，展现了破旧设施、缺乏规划与政治宣传的脱节。波特兰的极端历史、警方对言论自由的维护，以及各方示威者的多元化形象，构成了复杂局面。作者警示，政治化暴力与军事化城市公共空间会导致误导与冲突。该报道强调基于事实的政策与公开对话在解决市民冲突中的关键作用。",
-    "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate,\" Bob Day, Portland’s police chief, who had joined Wilson during his meeting with Noem, told me recently.",
-    "best_quote_zh": "‘城市燃烧’或‘战区’的说法并不准确，\"波特兰警察局长鲍勃·戴伊说。"
-  },
-  {
-    "id": 157,
-    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
-    "title_zh": "更便宜的假期航班 / 最强护照 / 企业好人",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "business-model",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "商业模式",
-      "深度分析"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "The newsletter stitches together four seemingly disparate threads into a coherent narrative about mobility, power, and responsibility. First, it dissects a sharp 19 % dip in U.S. domestic holiday fares, contextualising the decline in terms of economic softness, seat‑supply expansion, and a drop in international arrivals. The data‑driven snapshot invites travellers to act immediately, turning a fleeting market lull into a tangible savings opportunity. Second, the piece pivots to geopolitics, spotlighting the 2025 Henley Passport Index that has, for the first time in two decades, nudged the U.S. passport out of the top‑10. This shift signals a subtle erosion of American influence and raises questions about the future of visa‑free mobility. Third, the author celebrates Patagonia’s sustainability model, framing it as a case study in responsible consumption and circular economics. The narrative weaves these strands into a broader reflection on how economic signals, geopolitical shifts, and corporate ethics intersect to shape the modern traveller’s experience.",
-    "summary_zh": "这期简报将机票价格下跌、护照排名变动与可持续服装三大话题串联，展现经济放缓、地缘政治微调与企业责任如何共同影响现代旅行者。",
-    "best_quote_en": "For the first time since the index started 20 years ago, the U.S. passport dropped out of the top‑10 and now sits at #12.",
-    "best_quote_zh": "我在巴塔哥尼亚，周围有很多人穿着巴塔哥尼亚"
-  },
-  {
-    "id": 158,
-    "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
-    "title_zh": "必修课：禁食与限时进食对脂肪损失与健康的影响",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health",
-    "tags": [
-      "guide",
-      "health-wellness",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "健康养生",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-08-28",
-    "summary_en": "Huberman Lab’s latest episode dissects intermittent fasting and time‑restricted eating (TRE), weaving together metabolic science, circadian biology, and practical lifestyle design. He presents a step‑by‑step framework for tailoring a 6‑ to 10‑hour feeding window that meshes with exercise routines and social commitments, underscoring that the timing of food intake can be as impactful as caloric deficit. The discussion extends beyond theory: it delves into what truly breaks a fast—sugar, caffeine, and even certain supplements—while offering low‑calorie, electrolyte‑rich tools like salt and post‑meal walks to sustain ketosis. The episode also touches on pharmacological adjuncts such as berberine and metformin, highlighting their roles in glucose regulation and mTOR modulation. By grounding his advice in peer‑reviewed data, Huberman invites listeners to experiment with individualized fasting protocols, encouraging a data‑driven, holistic approach to weight loss, cellular repair, and overall health.",
-    "summary_zh": "Huberman Lab 通过科学与实践相结合，阐述间歇性禁食与限时进食的机制与效果。他提供可根据运动、社交等因素个性化的进食窗口方案，并强调时间对代谢的影响。节目还揭示禁食被打断的真实因素，提供盐摄入、饭后步行等低热量工具，甚至讨论了伯伯林和二甲双胍等药物在葡萄糖调节和mTOR通路中的作用。通过数据驱动的建议，鼓励听众尝试个性化禁食，提升体重管理、细胞修复与整体健康。",
-    "best_quote_en": "I explain a practical framework for designing a time‑restricted eating window that aligns with your lifestyle, exercise schedule and social schedule.",
-    "best_quote_zh": "禁食期间，盐的摄入可以支持禁食。"
-  },
-  {
     "id": 159,
     "title": "Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
     "title_zh": "杰克·坎菲尔德 — 销售6亿本书、成功原则，以及他如何让《四小时工作周》成真（#833）",
@@ -2356,5 +2260,99 @@
     "summary_zh": "Matt Eland 的访谈展示了终身学习与社区建设在人工智能领域的力量。他追溯了数年前点燃热情的火花，说明好奇心如何演变为结合研究、教育与辅导的职业。通过回到学校攻读硕士，他证明正规学习并非专业的必需，而是深化知识、扩大影响的战略工具。作为微软 MVP、博主、YouTube 频道主持人以及本地 .NET 社群组织者，他以极客方式分享知识，凸显多元传播的价值。对听众而言，访谈促使思考何时转型、如何平衡个人成长与社区贡献，以及在快速变化的领域持续技能提升的重要性。Matt 的故事既是实用指南，也是激励蓝图，帮助人们将热情与使命融合在 AI 之中。",
     "best_quote_en": "Matt is a habitual learner, speaker, and author who seeks to learn new things and share them with others in the nerdiest ways possible.",
     "best_quote_zh": "Matt 是一位习惯性学习者、演讲者和作者，他致力于学习新事物，并以最极客的方式与他人分享。"
+  },
+  {
+    "id": 255,
+    "title": "Influencers made millions pushing ‘wild’ births – now the Free Birth Society is linked to baby deaths around the world",
+    "title_zh": "影响者赚取数百万推广“野生”分娩——如今自由分娩协会与全球婴儿死亡相关联",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/ng-interactive/2025/nov/22/free-birth-society-linked-to-babies-deaths-investigation",
+    "tags": [
+      "analyze",
+      "education",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "This Guardian investigation exposes the Free Birth Society’s (FBS) transformation from a wellness movement into a dangerous, cult‑like enterprise that propagates radical, unverified birth practices. By harnessing viral podcasts, Instagram and paid courses, FBS convinced thousands of expectant mothers to forgo prenatal care and professional midwifery, framing medical intervention as a betrayal of bodily autonomy. The report details a chilling year‑long inquiry revealing 18 documented cases of neonatal loss and maternal harm directly linked to FBS’s guidance—ranging from delayed emergency response to the deliberate dismissal of life‑saving resuscitation. Expert testimony underscores that the society’s teachings violate basic obstetric safety standards, while its financial success—over $13 million in revenue—underscores a profit motive that eclipses patient welfare. The piece serves as a stark warning about how social media influence can override evidence‑based medicine, urging pregnant women and clinicians to scrutinize unregulated birth narratives and to prioritize transparent, medically supervised care.",
+    "summary_zh": "本次调查揭露自由分娩协会已从健康运动演变为危险的、类似邪教的组织，利用播客、Instagram和付费课程，鼓励孕妇放弃产前护理与专业助产，视医疗干预为背叛。研究显示18起与协会指导相关的婴儿死亡与母体伤害，专家指出其做法违背基本产科安全标准。",
+    "best_quote_en": "They taught that resuscitation was often an unnecessary act which deprived babies of the chance to choose to begin their lives.",
+    "best_quote_zh": "他们认为复苏往往是一种不必要的行为，剥夺了婴儿自行开始生命的机会。"
+  },
+  {
+    "id": 256,
+    "title": "Jessica Livingston",
+    "title_zh": "Jessica Livingston",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/jessica.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "Jessica Livingston’s story reframes Y Combinator not as a one‑man venture but as a family built around authenticity, culture, and an uncanny ability to read character—her so‑called “Social Radar.” Her understated, data‑driven intuition shaped the accelerator’s selection process, proving that founder quality outweighs product or metrics at early stages. The narrative exposes a gendered invisibility: a powerful female figure whose modesty and aversion to public spectacle keep her out of mainstream history, even as she champions women founders in private. The piece critically examines how culture can become a product, how authenticity fuels trust, and how the cultivation of an alumni network outperforms conventional funding metrics. It invites readers to rethink success metrics, to value people over products, and to recognize the quiet architects behind tech ecosystems. The analysis highlights the tension between public recognition and private influence, urging a broader appreciation for those who shape innovation from behind the scenes.",
+    "summary_zh": "Jessica Livingston 的故事将 Y Combinator 从“单人秀”重新定义为以真实性、文化和对人物洞察力为核心的家庭。她的“社交雷达”让评估早期创始人变得可视化，证明创始人素质比产品更重要。文章批判性地揭示了女性领导者的隐形角色与公众认知的矛盾，并强调文化本身成为产品的力量。",
+    "best_quote_en": "Jessica was the mom in another sense: she had the last word.",
+    "best_quote_zh": "Jessica 在另一种意义上是母亲：她拥有最后一句话。"
+  },
+  {
+    "id": 257,
+    "title": "A Startup’s Bid to Dim the Sun",
+    "title_zh": "A Startup’s Bid to Dim the Sun",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-startups-bid-to-dim-the-sun",
+    "tags": [
+      "solve",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "The article dissects Stardust’s audacious plan to deploy solar geoengineering, framing it as a double‑edged sword in the fight against climate change. It juxtaposes the startup’s promise of a new, supposedly safe reflective particle with the grim reality of long‑term maintenance, regional weather disruption, and the looming “termination shock” that would occur if deployment ceased abruptly. By weaving expert testimony, historical volcanic analogies, and geopolitical analysis, the piece challenges the notion that geoengineering can replace emissions reductions. It underscores the urgency of global governance, the risks of unilateral action, and the ethical dilemma of manipulating Earth’s climate for a temporary fix. The narrative invites readers to weigh the feasibility, morality, and sustainability of such techno‑fixes while reminding us that the root problem—CO₂ emissions—remains unaddressed.",
+    "summary_zh": "文章剖析Stardust公司雄心勃勃的太阳能地球工程计划，既展示其技术潜力，又揭示长期维护、地区气候扰动及“终止冲击”等风险。通过专家论述、火山类比与地缘政治分析，质疑此技术能否替代减排，强调全球治理与单边行动的伦理困境，提醒读者关注根本问题：CO₂排放。",
+    "best_quote_en": "Solar geoengineering is not a solution to climate change. It’s a way—once again, in theory, at least—to depress global temperatures.",
+    "best_quote_zh": "我们视自己为技术使能者，开发工具包并为各国政府决策者提供信息。"
+  },
+  {
+    "id": 258,
+    "title": "Vevo dscvr artists to watch 2026: Sienna Spiro, Alessi Rose, aron!, Bay Swag",
+    "title_zh": "Vevo DSCVR 2026 年待关注艺术家：Sienna Spiro、Alessi Rose、aron!、Bay Swag",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/vevo-dscvr-artists-to-watch-2026-sienna-spiro-alessi-rose-aron-bay-swag/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "The Vevo DSCVR Artists To Watch 2026 lineup showcases a diverse slate of emerging talent poised to reshape the music landscape. Sienna Spiro, a 20‑year‑old London soul singer, is already touring the UK and US, hinting at a breakout debut album in 2026. Alessi Rose, whose songwriting melds confessional honesty with pop polish, has begun touring with global stars and is projected to hit mainstream pop superstardom. Aron! bridges classic jazz and bossa nova with contemporary pop, creating a nostalgic yet fresh sound that appeals to a new generation. Bay Swag, a Queens‑born drill rapper, is pioneering the “Sexy Drill” sub‑genre, blending hard‑hitting beats with soulful R&B textures. The article underscores how Vevo’s platform amplifies these artists through exclusive video content, championing their artistic vision. From an industry perspective, the piece highlights the importance of curated exposure, cross‑genre experimentation, and the role of media partnerships in accelerating career trajectories. For fans and industry insiders alike, the profile offers a glimpse into the next wave of musical innovation and the strategic pathways that propel emerging artists into mainstream consciousness.",
+    "summary_zh": "Vevo DSCVR 2026 年待关注艺术家揭示了多元化的音乐新星：Sienna Spiro 的灵魂声线、Alessi Rose 的情感写作、aron! 的爵士与流行融合以及 Bay Swag 的性感嘻嘻。文章强调平台曝光、跨界实验与媒体合作是推动新星走向主流的关键。对音乐爱好者与业内人士而言，这不仅是一次音乐趋势的预览，更是对未来音乐生态的深刻洞察。",
+    "best_quote_en": "Alessi Rose possesses a rare combination of talents – razor‑sharp wit, killer songwriting instincts, effortless confidence, and a voice that feels like it was made for your ears.",
+    "best_quote_zh": "Alessi Rose拥有罕见的才华组合——锋利的机智、精准的写歌直觉、轻松的自信以及听起来像为你而生的嗓音。"
   }
 ]
