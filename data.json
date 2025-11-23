@@ -1,123 +1,5 @@
 [
   {
-    "id": 159,
-    "title": "Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
-    "title_zh": "杰克·坎菲尔德 — 销售6亿本书、成功原则，以及他如何让《四小时工作周》成真（#833）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/29/jack-canfield/",
-    "tags": [
-      "learn",
-      "education",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Jack Canfield’s interview is a masterclass in how to turn personal belief into a global movement. He traces a trajectory from poverty to Harvard, from a single “yes” that launched the Chicken Soup series to the multi‑million‑copy success of The Success Principles. The conversation is peppered with practical frameworks—most notably the E + R = O equation that reframes outcomes as the product of event and response. Canfield’s narrative underscores the power of narrative ownership, community support, and relentless responsibility. He also reveals how disciplined time‑management (cutting an hour of TV a day) can create a “14‑month year,” a concrete illustration of his broader thesis that small, consistent actions compound into extraordinary results. The interview is both inspirational and instructional, offering a blueprint for entrepreneurs, coaches, and anyone seeking to translate mindset into measurable impact.",
-    "summary_zh": "杰克·坎菲尔德在访谈中展示了从贫困到哈佛，再到全球畅销书的完整路径。他用“事件+回应=结果”的公式说明成功源于对事件的主动回应，并通过削减电视时间来创造“十四个月”效应，强调小习惯的累积力量。访谈兼具启发与实操，为创业者、教练及自我提升者提供可落地的思维与行动框架。",
-    "best_quote_en": "E + R = O — event plus response equals outcome.",
-    "best_quote_zh": "当你还是孩子时，奶奶给你鸡汤，你生病了……人们的精神很病弱。他们陷入绝望、无助和恐惧。"
-  },
-  {
-    "id": 160,
-    "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
-    "title_zh": "女强人还是传统妻子？一位经济学家谈男性主导的职场如何让女性失望",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/money/2025/oct/26/having-it-all-book-women-workforce",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Economist Corinne Low’s new book, Having It All, exposes how a workforce engineered for men leaves women in a relentless “squeeze.” She charts the historical links between divorce law reform, rising female college enrolment, and the undervaluation of home‑production work, arguing that women’s economic agency has been systematically discounted. Low critiques the “Lean In” narrative that urges women to simply fit into male‑designed workplaces, and instead calls for structural policy changes—paid maternity leave, equitable parental leave, and a societal shift that encourages men to share home production. She offers a data‑driven framework for women to map their personal utility functions and make intentional choices, urging a balance that is neither “all‑or‑nothing” nor a return to the past. The book is a timely, actionable critique that blends rigorous economics with practical guidance for navigating gendered labour markets.",
-    "summary_zh": "Corinne Low在新书《Having It All》中揭示了男性主导的职场结构如何让女性处于“挤压”状态，批判“Lean In”理念，强调政策缺口与家庭责任不均，提出女性可依据个人效用函数制定生活路径，并呼吁制度变革与男性角色转变。",
-    "best_quote_en": "You have 24 hours in a day, being the Instagrammable tradwife or being Sheryl Sandberg are two separate full‑time jobs.",
-    "best_quote_zh": "当我们思考女性平均在劳动力之外花费更多时间、与孩子相处更多时，我们会说：‘哦，性别工资差距是因为女性有不同的偏好，这是她们的选择’。"
-  },
-  {
-    "id": 161,
-    "title": "A review of MSUM's AI Innovation Summit: Day One",
-    "title_zh": "MSUM AI创新峰会回顾：第一天",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/WBxqbzGEDGaHtZE34/a-review-of-msum-s-ai-innovation-summit-day-one",
-    "tags": [
-      "analyze",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "The MSUM AI Innovation Summit offered a microcosm of the current AI‑ecosystem debate: hype versus practical value, the tension between job displacement and new roles, and the need for data‑governance as a prerequisite for responsible adoption. The keynote from Shawn Riley, a venture studio founder, distilled the industry mantra that “if you are not an AI company, you will be out‑competed.” Yet his practical illustration—AI‑generated music and video for cost‑saving campaigns—remained modest, raising questions about the long‑term value of commodified generative media. The panel on ethics was the summit’s most compelling segment; panelists refrained from sensationalizing Skynet, instead focusing on bias mitigation through better data and synthetic augmentation, while acknowledging the limits of regulatory certainty. The event’s structure—business, education, and high‑school tracks—underscored the dual role of academia as both job‑preparation ground and intellectual incubator. For practitioners, the call to “build AI‑use muscles” and appoint AI champions offers a pragmatic roadmap, but the lack of concrete policy guidance signals a broader industry‑policy gap that will shape the next wave of AI governance.",
-    "summary_zh": "MSUM AI创新峰会展示了行业热情与实用价值的碰撞，强调数据治理与伦理风险，呼吁在企业与教育中培养 AI 使用肌肉。",
-    "best_quote_en": "If you are not an AI company, you will be outcompeted.",
-    "best_quote_zh": "AI仍然是个一年级生。"
-  },
-  {
-    "id": 162,
-    "title": "Watch the Trailer for “The New Yorker at 100”",
-    "title_zh": "观看《纽约客》百年纪录片预告片",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The newly released Netflix documentary, “The New Yorker at 100,” is a cinematic chronicle that traces the evolution of one of America’s most iconic periodicals from a modest humor magazine to a global cultural powerhouse.  With a blend of archival footage, interviews with current and former staff, and celebrity commentators, the film frames the frantic final months leading up to the 100th‑anniversary issue as a dramatic race against time.  It also dives into pivotal moments—such as the publication of John Hersey’s “Hiroshima,” Rachel Carson’s “Silent Spring,” and Truman Capote’s “In Cold Blood”—that reshaped journalism and public opinion.  Narrated by Julianne Moore and directed by Academy‑Award‑winning filmmaker Marshall Curry, the documentary offers a reflective, data‑rich case study of media innovation, editorial ethics, and cultural impact.  For scholars, journalists, and anyone fascinated by the power of long‑form storytelling, the film is both a historical lesson and a call to recognize the ongoing relevance of thoughtful, investigative writing.",
-    "summary_zh": "这部Netflix纪录片《纽约客百年》用档案与访谈交织，生动再现了这份杂志从地方幽默刊物到全球文化巨擘的百年蜕变。影片聚焦百年纪念号的紧张筹备，展现编辑、记者与明星的多维视角，并回顾《原子弹》与《寂静的春天》等里程碑式作品对新闻与公众舆论的深远影响。对媒体史、文化研究乃至创意写作感兴趣的读者而言，它既是一堂历史课，也是一段对当代深度报道价值的呼唤。",
-    "best_quote_en": "The New Yorker had a century to prepare for its hundredth anniversary, and yet the final months before that milestone—this past February—were a scramble.",
-    "best_quote_zh": "《纽约客》有一百年的时间为其百年纪念做准备，然而在那一百年中的最后几个月——今年二月——却是一场混乱的冲刺。"
-  },
-  {
-    "id": 163,
-    "title": "What’s in my NOW? — Devin Porter",
-    "title_zh": "我的当下是什么？——德文·波特",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-devin-porter/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Devin Porter, a former pro‑poker player turned life coach, blends game‑theory intuition with corporate strategy to help clients read patterns and make better moves. He frames decision‑making as a psychological game, citing the mantra “Easy decision, hard life. Hard decision, easy life.” The article showcases his daily rituals—candles, family portraits, stoic reminders, NYT crosswords, coaching podcasts—illustrating how small habits anchor larger life choices. Porter’s approach is both inspirational and actionable: he offers 1:1 coaching, a newsletter, and a free session to dissect the link between play and purpose. The piece invites readers to reflect on how embracing difficult choices today can simplify tomorrow’s life, positioning coaching as a strategic, psychological skill set that transcends poker tables and boardrooms.",
-    "summary_zh": "德文·波特把扑克洞察与企业战略结合，帮助人们读懂模式、做出更佳决策。他用“易决，难生；难决，易生”阐释决策心理，并通过每日仪式（蜡烛、肖像、每日数独、播客）展示小习惯如何塑造大生活。文章既鼓舞人心，又提供可操作的教练资源，让读者明白勇敢选择会让未来更轻松。",
-    "best_quote_en": "\"Easy decision, hard life. Hard decision, easy life.\"",
-    "best_quote_zh": "“易决，难生；难决，易生。”"
-  },
-  {
     "id": 164,
     "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
     "title_zh": "科学与健康：信仰上帝与宗教的益处 | 迪斯托诺博士",
@@ -2354,5 +2236,123 @@
     "summary_zh": "Vevo DSCVR 2026 年待关注艺术家揭示了多元化的音乐新星：Sienna Spiro 的灵魂声线、Alessi Rose 的情感写作、aron! 的爵士与流行融合以及 Bay Swag 的性感嘻嘻。文章强调平台曝光、跨界实验与媒体合作是推动新星走向主流的关键。对音乐爱好者与业内人士而言，这不仅是一次音乐趋势的预览，更是对未来音乐生态的深刻洞察。",
     "best_quote_en": "Alessi Rose possesses a rare combination of talents – razor‑sharp wit, killer songwriting instincts, effortless confidence, and a voice that feels like it was made for your ears.",
     "best_quote_zh": "Alessi Rose拥有罕见的才华组合——锋利的机智、精准的写歌直觉、轻松的自信以及听起来像为你而生的嗓音。"
+  },
+  {
+    "id": 259,
+    "title": "Five key findings from our investigation into the Free Birth Society",
+    "title_zh": "我们对自由分娩协会调查的五大发现",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/five-key-findings-from-our-investigation-into-the-free-birth-society",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "The Guardian’s year‑long probe into the Free Birth Society (FBS) uncovers a chilling portrait of a multimillion‑dollar enterprise that sells unverified, risk‑laden birthing guidance under the guise of empowerment. Led by ex‑doulas turned influencers, FBS markets “free‑birthing” as a safe alternative to medical care, yet its content is riddled with medically false claims—such as zero infection risk from cutting an umbilical cord—and offers dangerous, passive resuscitation tactics. The investigation links the organization to 48 documented cases of stillbirths and neonatal deaths worldwide, with evidence that FBS’s leaders personally advised mothers during labor, often encouraging them to continue without seeking help. Prof. Soo Downe’s warning that unsupervised births elevate maternal and infant risk is echoed by obstetricians consulted in the study. The report highlights how FBS exploits mistrust in maternity services, amassing over $13 million in revenue while deflecting criticism with “educational” disclaimers. The story serves as a stark reminder that commercial health narratives can have deadly consequences, underscoring the need for rigorous regulation and public education on evidence‑based maternity care.",
+    "summary_zh": "这份调查揭露了一个以“自由分娩”为名的多百万美元企业，利用医疗误导导致多起婴儿死亡。它警示公众：商业健康信息若缺乏科学依据，后果可能致命。",
+    "best_quote_en": "“Across whole populations, going through labour and birth without professional support is associated with higher levels of risk for mother and baby.”",
+    "best_quote_zh": "“在整个群体中，没有专业支持的分娩与母亲和婴儿的风险升高相关。”"
+  },
+  {
+    "id": 260,
+    "title": "A Way to Detect Bias",
+    "title_zh": "检测偏见的方法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/bias.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "The article presents a surprisingly simple yet powerful method for detecting bias in selection processes without needing detailed knowledge of the applicant pool. By comparing the post‑selection performance of groups that are theoretically disadvantaged, one can infer whether a process is harder for them to pass. The method hinges on having a random sample of selected applicants, valid performance metrics, and roughly equal ability distributions across groups. A compelling case study illustrates its application in venture capital: First Round Capital’s own portfolio revealed that startups with female founders outperformed those without by 63%, suggesting an unconscious bias in the firm’s selection. The piece highlights the rarity of such analyses, the potential for third‑party oversight, and the increasing availability of relevant data. It invites a future where data‑driven bias detection becomes a standard audit tool, raising questions about transparency, accountability, and the ethical responsibilities of decision‑makers.",
+    "summary_zh": "本文提出一种不需要了解申请者池即可检测选拔偏见的简易方法。通过比较被选中者的后续表现，判断是否存在对某类申请者更苛刻的过程。案例显示，风险投资公司 First Round 的投资组合中女性创始人创办的公司表现优于非女性创始人公司，揭示潜在偏见。作者强调此类分析罕见，第三方监督的可能性日益增加，并预见数据驱动的偏见检测将成为常规审计工具，促使决策者更关注透明度与责任。",
+    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
+    "best_quote_zh": "这不仅仅是检测偏见的启发式方法。它就是偏见的本质。"
+  },
+  {
+    "id": 261,
+    "title": "The Sikh-Separatist Assassination Plot",
+    "title_zh": "锡克分离主义暗杀阴谋",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-sikh-separatist-assassination-plot",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "The article dissects a chilling transnational assassination network that targets Sikh separatists in North America, revealing a sophisticated web of Indian intelligence, narcotics trafficking, and covert operations. By weaving first‑hand interviews, court filings, and diplomatic fallout, the piece illustrates how the Indian government’s hard‑line nationalism under Modi has escalated into extraterritorial repression. It underscores the paradox of Western democracies—Canada’s swift diplomatic break versus the United States’ reluctant confrontation—while exposing the fragile safety of diaspora activists. The narrative invites readers to question the limits of state sovereignty, the ethics of covert violence, and the geopolitical calculus that pits human rights against strategic alliances. Ultimately, it challenges us to rethink how international law, intelligence cooperation, and domestic politics intersect in a world where a single assassination can ripple across continents.",
+    "summary_zh": "文章揭露印度政府对北美锡克分离主义者的跨国暗杀网络，揭示情报、毒品与暗杀的阴谋。它让人思考国家主权、秘密行动与人权的冲突，并反映了西方在外交与安全中的矛盾立场。",
+    "best_quote_en": "\"The world order is taking a new shape,\" he announced.",
+    "best_quote_zh": "\"我准备面对子弹\""
+  },
+  {
+    "id": 262,
+    "title": "My 2025 Holiday Gift Guide: 11 Gifts to Make Your Holidays Extra Fun, Relaxing, and Delicious",
+    "title_zh": "2025年假日礼物指南：11件让假日更有趣、放松、丰盛的礼物",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/21/2025-holiday-gift-guide/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "Tim Ferriss’ 2025 holiday gift guide blends personal experience with actionable recommendations, offering readers a curated list of 11 items that span books, fitness tools, kitchen gadgets, sleep tech, and wellness supplements. The post excels in its practical focus—each gift is accompanied by a brief rationale, usage context, and, where applicable, a special discount code, making the article a one-stop resource for gift shoppers. Ferriss’ narrative voice invites readers into his daily routines, turning the guide into a case study of how thoughtful, functional gifts can enhance well‑being. The guide’s value lies in its blend of expert insight and real‑world applicability, providing a template for readers to assess their own gift‑giving needs and to discover products that genuinely improve quality of life. It’s a timely reminder that the best gifts are those that combine utility, enjoyment, and a touch of personal touch.",
+    "summary_zh": "Tim Ferriss用亲身经验与可操作建议，精心挑选11件礼物，涵盖书籍、健身工具、厨房小电器、睡眠科技与保健补充品。每件礼物都附有使用理由、场景以及折扣码，成为礼物购物的实用指南。文章以案例研究的方式呈现，展示礼物如何提升生活质量。",
+    "best_quote_en": "Momentous Creatine Chews make it as close to effortless as possible.",
+    "best_quote_zh": "Momentous Creatine Chews 让服用变得几乎毫不费力。"
+  },
+  {
+    "id": 263,
+    "title": "Austin Daboh OBE, EVP of Warner’s Atlantic Records UK, exits",
+    "title_zh": "奥斯汀·达博 OBE，华纳阿特兰大唱片英国执行副总裁离职",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/austin-daboh-obe-evp-of-warners-atlantic-records-uk-exits/",
+    "tags": [
+      "update",
+      "leadership",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "Austin Daboh’s exit from Warner Music’s Atlantic Records UK marks a pivotal moment for the UK’s music industry, underscoring a broader realignment toward tighter U.S. integration. Daboh’s career trajectory—from BBC radio to Spotify’s editorial helm, Apple Music’s cultural strategy, and finally as EVP and President of Black Music—illustrates a rare blend of curatorial insight and executive acumen. His departure signals a shift in leadership philosophy: UK labels now report to U.S. headquarters, hinting at a consolidation that may streamline decision‑making but could also dilute local autonomy. For industry observers, Daboh’s move invites reflection on how talent development, playlist curation, and cross‑cultural collaboration are evolving under corporate hierarchies. The narrative also highlights the importance of strategic partnerships and the need for leaders who can navigate both creative and business imperatives in an increasingly globalized market.",
+    "summary_zh": "奥斯汀·达博离职标志英国音乐行业重组，显示出对美国总部的更紧密依赖。他从BBC到Spotify、Apple Music再到Atlantic的跨平台经验，凸显创意与管理的双重才华。此次变动促使人们重新审视人才培养与内容策划在全球化背景下的演变，以及领导者在保持创意自由与商业目标之间的平衡。",
+    "best_quote_en": "Turning the page after five and a half incredible years at Atlantic Records / Warner Music,",
+    "best_quote_zh": "在Atlantic Records / Warner Music度过了五年半的精彩时光后翻开新的一页"
   }
 ]
