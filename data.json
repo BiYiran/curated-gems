@@ -1,99 +1,5 @@
 [
   {
-    "id": 164,
-    "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
-    "title_zh": "科学与健康：信仰上帝与宗教的益处 | 迪斯托诺博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/science-and-health-benefits-of-belief-in-god-and-religion-dr-david-desteno",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-08-25",
-    "summary_en": "Dr. David DeSteno’s interview with Huberman Lab bridges the gap between empirical science and the enduring human quest for meaning. He argues that while science cannot prove or disprove God’s existence, it can illuminate the psychological and physiological mechanisms that make religious rituals profoundly beneficial. By examining data from studies on prayer, gratitude, and community participation, DeSteno demonstrates that these practices lower cortisol, enhance empathy, and protect against loneliness—effects that rival or even surpass conventional mental‑health interventions. He also distinguishes healthy faith‑based communities from cults, using case studies of 12‑step programs and modern gatherings like Burning Man. The discussion invites listeners to view faith not as an obstacle to science but as a complementary system that can be studied, refined, and integrated into holistic wellness practices. The episode encourages a nuanced, evidence‑driven approach to spirituality, reminding us that belief can be both a personal sanctuary and a public good.",
-    "summary_zh": "德斯托诺博士在Huberman实验室的访谈将科学与人类对意义的追求相结合，指出宗教仪式通过降低皮质醇、提升同理心、抗孤独等机制，带来显著的心理与生理益处。",
-    "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
-    "best_quote_zh": "祈祷和感恩可以显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
-  },
-  {
-    "id": 165,
-    "title": "UK women in tech: we would like to hear from you",
-    "title_zh": "英国科技女性：我们想听听您的声音",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "The Lovelace 2025 report, in partnership with WeAreTechWomen, exposes a staggering churn in the UK’s tech sector: between 40,000 and 60,000 women depart each year, eroding an estimated £2‑3.5 billion in economic output. Only about 20 % of tech workers are women, and the study pinpoints the main culprits—lack of career advancement (25 %), inadequate recognition (17 %), and pay inequity (15 %). The piece is not merely a statistics dump; it’s a clarion call for industry leaders to interrogate the structural barriers that keep talent out of the pipeline. By inviting women to share their stories through a secure form, the Guardian turns data into lived experience, hoping to surface actionable insights that can inform policy, workplace culture, and recruitment practices. The report’s implications ripple beyond gender: it highlights how talent attrition inflates costs, reduces innovation, and perpetuates a talent‑scarcity crisis. For anyone invested in equitable tech ecosystems, the document offers a blend of hard numbers and human narratives, urging stakeholders to move from awareness to concrete change.",
-    "summary_zh": "报告揭示英国科技行业每年失去4万至6万名女性，造成20亿至35亿英镑损失。仅20%的从业者为女性，离职主因是缺乏晋升、认可不足与薪酬不平等。此文不仅呈现数据，更呼吁行业重新审视结构性障碍，将统计转化为可操作的见解，推动政策与文化变革。",
-    "best_quote_en": "\"Between 40,000 and 60,000 women leave the UK’s tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.\"",
-    "best_quote_zh": "\"每年有4万到6万名女性离开英国科技行业，给经济造成约20亿至35亿英镑的损失。\""
-  },
-  {
-    "id": 166,
-    "title": "There's some chance oral herpes is pretty bad for you?",
-    "title_zh": "口腔单纯疱疹可能对你有害吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/fdpGM3tzpnxfqrk8m/there-s-some-chance-oral-herpes-is-pretty-bad-for-you",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "Recent discourse on oral herpes has moved beyond the trivial notion of cold sores, probing its insidious long‑term impact on neurological health. The article dissects the biology of HSV‑1 and HSV‑2, highlighting their dormancy in neuronal reservoirs and the potential for viral reactivation to infiltrate the brain. By collating epidemiological data, the author underscores a troubling link between oral herpes and Alzheimer’s, citing antiviral‑treated cohorts that exhibit markedly lower dementia incidence. The narrative balances caution with realism, reminding readers that while HSV‑1 prevalence is high, the absolute risk of severe sequelae remains modest. The piece calls for informed precaution—avoiding shared utensils, limiting casual kissing, and encouraging antiviral use in high‑risk partners—yet resists alarmist rhetoric. It invites further research into immune‑neural interactions and underscores the need for nuanced public health messaging. Ultimately, the article serves as a sobering reminder that chronic viral latency can subtly alter cognitive trajectories, urging clinicians and patients alike to weigh prevention against the backdrop of everyday exposure.",
-    "summary_zh": "本文从病毒学角度探讨口腔单纯疱疹的潜在长期后果，聚焦其在神经元中的潜伏与脑内再激活风险。作者引用流行病学研究，指出口腔单纯疱疹与阿尔茨海默病存在关联，抗病毒治疗可显著降低认知衰退风险。文章兼顾警示与理性，强调虽然HSV‑1普遍，但严重并发症的绝对风险仍低。建议避免共用餐具、限制随意接吻，并鼓励高危伴侣使用抗病毒药物，同时呼吁避免恐慌言论。呼吁进一步研究免疫‑神经相互作用，并强调公共卫生信息需细致平衡。整体提醒慢性病毒潜伏可悄然影响认知轨迹，促临床与公众权衡预防与日常暴露。",
-    "best_quote_en": "Oral herpes can make its way into your brain.",
-    "best_quote_zh": "口腔单纯疱疹可以进入你的大脑。"
-  },
-  {
-    "id": 167,
-    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
-    "title_zh": "Zohran Mamdani竞选市长揭示了在美国作为穆斯林的意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "Zohran Mamdani’s unexpected lead in the New York City mayoral race forces a reckoning with America’s enduring Islamophobia. The piece weaves the 2008 Obama‑era “Muslim” rumors, the 2015 Trump lie about 9/11, and the current flurry of anti‑Muslim rhetoric into a single narrative that shows how religious identity is weaponised in politics. Mamdani, a 34‑year‑old democratic socialist, has faced attacks that shift from policy critique to insinuations of terrorism and foreign loyalty, echoing the “Ground Zero mosque” scare and the 9/11‑era surveillance of Muslim communities. The article highlights Mamdani’s proactive outreach—visiting 55 mosques, speaking at Friday prayers—to counter the narrative that “being Muslim” is a liability. It also documents the tangible harms: increased hate crimes, denaturalisation threats, and the erosion of trust in law‑enforcement. By grounding the story in FBI statistics, court cases, and personal anecdotes, the piece offers a data‑driven case study that critiques how the media and politicians perpetuate racialised fear while overlooking systemic inequities faced by Muslim Americans.",
-    "summary_zh": "Zohran Mamdani竞选纽约市长的背后，折射出美国长期的伊斯兰恐惧症。文章将2008年奥巴马“穆斯林”阴谋、2015年特朗普9/11谎言与当下的反穆斯林攻击串联，揭示宗教身份被政治武器化。Mamdani以亲民方式走访55座清真寺、主持周五礼拜，试图瓦解“穆斯林即恐怖分子”的刻板印象；同时文中引用FBI数据显示恐怖袭击后仇恨犯罪激增、移民拘留与降国籍威胁，说明制度性不公与媒体偏见交织。通过事实与案例，文章呈现一场关于身份、媒体与权力的深度案例研究。",
-    "best_quote_en": "To be Muslim in New York is to expect indignity.",
-    "best_quote_zh": "在纽约成为穆斯林意味着要预期被侮辱。"
-  },
-  {
     "id": 168,
     "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
     "title_zh": "氛围音乐流/思维技巧指南/Kindle 手腕带",
@@ -2354,5 +2260,101 @@
     "summary_zh": "奥斯汀·达博离职标志英国音乐行业重组，显示出对美国总部的更紧密依赖。他从BBC到Spotify、Apple Music再到Atlantic的跨平台经验，凸显创意与管理的双重才华。此次变动促使人们重新审视人才培养与内容策划在全球化背景下的演变，以及领导者在保持创意自由与商业目标之间的平衡。",
     "best_quote_en": "Turning the page after five and a half incredible years at Atlantic Records / Warner Music,",
     "best_quote_zh": "在Atlantic Records / Warner Music度过了五年半的精彩时光后翻开新的一页"
+  },
+  {
+    "id": 264,
+    "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
+    "title_zh": "孤独修复：我在30多岁时想找新朋友，结果比我想象的更容易",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/the-loneliness-fix-i-wanted-to-find-new-friends-in-my-30s-and-it-was-easier-than-i-imagined",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "Emily Bratt’s candid narrative demystifies the myth that friendship becomes a distant dream after thirty. By blending data on the social‑time costs of adult life with her own experiments—Bumble BFF, Timeleft, SpareRoom, and spontaneous meet‑ups—she illustrates a pragmatic, multi‑channel strategy for rekindling social bonds. The article’s core insight is that loneliness is less a fixed life stage and more a self‑fulfilling belief; the perceived difficulty is amplified by societal narratives that equate age with social decline. Bratt’s case study demonstrates that intentional, varied approaches—online matchmaking, shared interests, and community spaces—can yield meaningful connections within months. Her reflection on the feedback loop of happiness and openness invites readers to reframe friendship as an active, reciprocal practice rather than a passive expectation. The piece balances anecdote with research, offering actionable steps while critiquing the cultural scripts that discourage mid‑life social expansion.",
+    "summary_zh": "布拉特用亲身经历拆解了三十岁后交友变难的迷思，展示多渠道、主动出击的社交策略；她的案例证明，孤独更多是自我设限而非不可逾越的年龄障碍，鼓励人们以开放、积极的心态重塑人际网络。",
+    "best_quote_en": "Age doesn’t stop you from making friends – fear, anxiety and sadness do.",
+    "best_quote_zh": "我认为一旦你投入时间去处理情绪，你会发现有一片广阔的人群等待成为你的伙伴。"
+  },
+  {
+    "id": 265,
+    "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+    "title_zh": "必备：控制多巴胺以提升动机、专注与满足感",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-controlling-your-dopamine-for-motivation-focus-satisfaction",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "Huberman’s Essentials episode demystifies dopamine’s role in motivation, turning a complex neurochemical narrative into a practical playbook. He dissects how dopamine’s highs, lows, and baseline shape our drive, linking evolutionary insights to everyday productivity. The host then delivers concrete, science‑backed tools—cold exposure, caffeine, intermittent rewards, growth mindset, and targeted supplements—to boost dopamine safely and sustainably. By framing dopamine as a lever rather than a mystery, the episode empowers listeners to fine‑tune their motivation for school, work, or daily life. The content blends rigorous neuroscience with actionable strategies, offering a roadmap that is both evidence‑based and immediately usable. For anyone seeking to harness the brain’s reward system without falling into addiction or burnout, this episode provides a clear, data‑driven guide that balances theory with practice.",
+    "summary_zh": "Huberman 通过解码多巴胺在动机中的作用，把复杂的神经化学转化为可操作的手册。他阐述多巴胺高低与基线如何塑造驱动力，并结合进化视角与日常生产力。随后提供科学验证的工具——冷暴露、咖啡因、间歇奖励、成长心态与定向补剂，帮助安全提升多巴胺。内容将多巴胺视为杠杆，赋予听众调控动机的能力，兼顾理论与实践，为想要利用奖励系统而不陷入成瘾或倦怠的人提供了数据驱动的清晰路径。",
+    "best_quote_en": "I explain how dopamine regulates motivation and provide science‑based tools to help improve focus, discipline and overall drive.",
+    "best_quote_zh": "我解释了多巴胺如何调节动机，并提供基于科学的工具来帮助提升专注力、纪律性和整体驱动力。"
+  },
+  {
+    "id": 266,
+    "title": "From Suno’s $2.45bn valuation to Live Nation’s DOJ fight… it’s MBW’s weekly round-up",
+    "title_zh": "从Suno的24.5亿美元估值到Live Nation的司法部诉讼……MBW每周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-sunos-2-45bn-valuation-to-live-nations-doj-fight-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "legal",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "This week’s Music Business Worldwide roundup spotlights the rapid convergence of AI and traditional music business models. Suno’s $250 million Series C, valuing the platform at $2.45 billion and already generating $200 million in annual revenue, underscores the commercial viability of AI‑generated music. At the same time, KLAY Vision’s licensing agreements with Universal, Sony, and Warner demonstrate an industry‑wide shift toward AI‑powered platforms that respect copyright. Warner Music Group’s Q3 revenue surge, driven by artist services and merchandise, illustrates how legacy labels are leveraging new revenue streams while navigating legal battles—evidenced by its settlement with Udio and partnership with Stability AI. Meanwhile, Live Nation’s motion to dismiss a DOJ antitrust suit highlights the regulatory scrutiny facing ticketing giants. Together, these stories reveal a music ecosystem in flux, where AI innovation, licensing frameworks, and legal strategy intersect, offering both opportunities and challenges for stakeholders across the value chain.",
+    "summary_zh": "本周MBW综述聚焦AI与传统音乐模式的融合：Suno融资并已实现年营收2亿美元，KLAY与环球、索尼、华纳签署AI授权，表明行业正向AI平台转型。华纳音乐第三季收入增长，靠艺人服务与周边，亦与Udio和Stability AI合作，解决版权争议。Live Nation则向司法部提交驳回诉讼动议，显示票务巨头面临监管压力。整体来看，音乐生态正处于变革期，AI创新、授权框架与法律策略交织，为行业各方带来机遇与挑战。",
+    "best_quote_en": "\"KLAY will help further evolve music experiences for fans, leveraging the potential of AI, while fully respecting the rights of artists, songwriters, and rightsholders.\"",
+    "best_quote_zh": "\"KLAY 将帮助进一步发展音乐体验，为粉丝利用 AI 的潜力，同时充分尊重艺术家、词曲作者和权利持有人的权利。\""
+  },
+  {
+    "id": 267,
+    "title": "S27:E7 - Tech and Art (Chris Immel)",
+    "title_zh": "S27:E7 - 科技与艺术（Chris Immel）",
+    "source": "CodeNewbie Podcast",
+    "link": "https://www.codenewbie.org/podcast/tech-and-art",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2024-05-15",
+    "summary_en": "In this episode, Chris Immel—an AI engineer and digital artist—explores the fusion of software development and creative expression. He argues that AI’s rapid ascent is not a threat but a catalyst for human evolution, urging developers to harness its power responsibly. Chris’s background in architecture and startup ecosystems gives him a unique lens: he sees AI as a tool that can amplify artistic vision and streamline complex systems. The discussion highlights practical ways to embed AI into creative workflows, from generative art pipelines to intelligent UI design. He also reflects on the ethical dimensions, emphasizing transparency, bias mitigation, and the importance of human oversight. The episode offers a balanced mix of technical insight, artistic inspiration, and a forward‑looking perspective that encourages listeners to view AI as an ally rather than an adversary.",
+    "summary_zh": "Chris Immel 在本期节目中探讨了软件开发与艺术创作的交汇点，认为 AI 是推动人类进步的催化剂而非威胁。他强调透明度与伦理，鼓励开发者将 AI 视为合作伙伴，以实现更具创造力与效率的未来。",
+    "best_quote_en": "He believes deeply in the inevitability of the transformative effect of AI on human society, and wants to be part of making that a transformation for the better.",
+    "best_quote_zh": "他深信 AI 对人类社会的变革性影响是不可避免的，并希望成为让这种变革更好的力量的一部分。"
   }
 ]
