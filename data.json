@@ -1,77 +1,5 @@
 [
   {
-    "id": 168,
-    "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
-    "title_zh": "氛围音乐流/思维技巧指南/Kindle 手腕带",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/ambient-music-streams-thinking-skills-guide-kindle-hand-strap/",
-    "tags": [
-      "guide",
-      "education",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This eclectic post curates a spectrum of practical tools and insights that span cognition, design ethics, AI productivity, and everyday comfort. The first segment spotlights Shane Parrish’s *The Great Mental Models*, offering nine post‑AI thinking frameworks that sharpen problem‑solving and resilience in a data‑rich world. Next, the *Dark Patterns Hall of Shame* exposes manipulative UI tactics, not merely to shame but to educate designers and users, blending case studies with actionable antidotes. The *Perplexity*‑powered Comet Browser demonstrates how conversational AI can automate browsing, from deal comparison to calendar management, hinting at a future where context‑aware assistants become routine. Ambient music streams and a Kindle hand strap showcase low‑tech yet high‑value lifestyle tweaks that reduce friction and enhance focus. Together, the pieces underscore the value of interdisciplinary learning: critical thinking, ethical design, AI fluency, and ergonomic mindfulness converge to empower a more thoughtful, efficient, and humane digital experience.",
-    "summary_zh": "这篇混合帖汇聚了思维模型、暗黑模式、AI 浏览器、氛围音乐与 Kindle 手腕带等实用工具，展示了后 AI 世界里批判性思维、伦理设计与日常效率的交叉点。每个推荐都兼具启发与可操作性，帮助读者在信息爆炸与技术沉浸中保持清晰与舒适。",
-    "best_quote_en": "The Dark Patterns Hall of Shame was created by a team of researchers and designers to raise awareness about manipulative design techniques used by companies and websites.",
-    "best_quote_zh": "《黑暗模式名录》由一支研究员和设计师团队创建，旨在提高人们对公司和网站使用的操纵性设计技巧的认识。"
-  },
-  {
-    "id": 169,
-    "title": "US Digital Currency",
-    "title_zh": "",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/us-digital-currency",
-    "tags": [
-      "solve",
-      "politics",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2018-05-10",
-    "summary_en": "The author argues that a U.S.‑issued digital currency—dubbed USDC—could solve persistent problems of anonymity, taxation, and monetary policy that plague current cryptocurrencies. By treating USDC as a second legal tender and distributing it evenly among citizens, the U.S. could create a new source of wealth while embedding a tax‑collection mechanism directly into the protocol. The piece balances optimism with caution, noting the need for a delicate power split between the government and a largely self‑governed network. It frames the proposal as both a policy win for the nation and a potential catalyst for global financial dominance, urging readers to consider the long‑term governance implications of a state‑backed digital currency. The analysis is forward‑looking, pragmatic, and invites debate about the role of sovereign power in a decentralized economy.",
-    "summary_zh": "作者探讨美国若发行数字货币（USDC），将如何解决匿名性、税收与货币政策等难题，并可能让美国在全球金融体系中占据主导地位。文章从政策、技术与社会三角度出发，提出可行的发行与监管方案，强调政府与去中心化网络的权力平衡。作者认为此举既能为公民创造财富，又能为政府提供税收与货币工具，形成双赢局面。该分析兼具前瞻性与务实性，激发读者对数字货币治理未来的思考。",
-    "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
-    "best_quote_zh": "我认为第一个采取此类行动的超级大国政府将在未来世界中拥有令人羡慕的地位，并对全球货币拥有一定的权力。"
-  },
-  {
-    "id": 170,
-    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
-    "title_zh": "《卫报》视角：产科医疗过失赔偿激增，凸显产科改进的迫切性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
-    "tags": [
-      "update",
-      "medicine",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The Guardian’s opinion piece turns a statistical spike in NHS liability payouts into a stark indictment of systemic failures in maternity care. It traces the quadrupling of obstetric negligence claims to the lifetime‑care costs borne by severely injured infants, underscoring how financial figures mask the human toll. The article juxtaposes alarming data—rising severe vaginal tears, maternal mortality, and readmissions—with the chronic under‑recognition of birth trauma, revealing a culture that has historically treated poor care as “normal.” It critiques the long‑standing cycle of recommendations that have yet to translate into measurable outcomes, citing weak leadership, inadequate staffing, and a lack of learning from past scandals such as Morecambe Bay. The piece urges a shift from piecemeal fixes to a comprehensive, data‑driven overhaul, insisting that the government’s “litmus test” for maternity standards must move beyond rhetoric. The analysis invites readers to question whether current reforms will break the pattern or merely add another layer of bureaucracy, while highlighting the urgent need for actionable, expert‑led change.",
-    "summary_zh": "文章用激增的赔偿金警示产科系统性失误，批评“差劲护理被容忍为正常”，指出数据与文化交织的痛点，呼吁政府从制度化、数据驱动的角度彻底改革。",
-    "best_quote_en": "“Poor care is all‑too‑frequently tolerated as normal, and women are treated as an inconvenience.”",
-    "best_quote_zh": "差劲的护理被过度容忍为正常，女性被视为不便。"
-  },
-  {
     "id": 171,
     "title": "Haters",
     "title_zh": "Haters",
@@ -2356,5 +2284,77 @@
     "summary_zh": "Chris Immel 在本期节目中探讨了软件开发与艺术创作的交汇点，认为 AI 是推动人类进步的催化剂而非威胁。他强调透明度与伦理，鼓励开发者将 AI 视为合作伙伴，以实现更具创造力与效率的未来。",
     "best_quote_en": "He believes deeply in the inevitability of the transformative effect of AI on human society, and wants to be part of making that a transformation for the better.",
     "best_quote_zh": "他深信 AI 对人类社会的变革性影响是不可避免的，并希望成为让这种变革更好的力量的一部分。"
+  },
+  {
+    "id": 268,
+    "title": "Can Trump’s Peace Initiative Stop the Congo’s Thirty-Year War?",
+    "title_zh": "特朗普的和平倡议能否终止刚果的三十年战争？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/12/01/can-trumps-peace-initiative-stop-the-congos-thirty-year-war",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "The piece unspools the tangled reality behind Trump’s proclaimed ‘peace’ in eastern Congo, juxtaposing glossy diplomatic milestones with the brutal persistence of tribal militias, foreign mercenaries, and mineral greed. It foregrounds the king of Bukumu’s fragile sovereignty, the M23’s opportunistic hold on Goma, and Rwanda’s strategic stake in coltan and gold. The UN’s costly, mandate‑weak peacekeeping forces and Qatar’s lukewarm mediation highlight the limits of external intervention. The narrative critiques Trump’s symbolic triumph as a veneer over a conflict that thrives on resource exploitation, ethnic enmity, and a cycle of violence that has outlived colonial borders. The article invites readers to interrogate the rhetoric of peace, the economics of conflict, and the moral cost of geopolitical ambition, urging a deeper, data‑driven reckoning rather than a superficial headline victory.",
+    "summary_zh": "文章揭示特朗普在刚果东部宣称的‘和平’背后，现实是部族武装、外来雇佣兵和资源贪婪交织的混乱。它聚焦布库穆国王的脆弱主权、M23对戈马的占领以及卢旺达在钛铌、黄金的战略利益。联合国昂贵却缺乏执行力的维和行动和卡塔尔的温和斡旋，凸显外部干预的局限。文中批判特朗普的象征性胜利掩盖了超越殖民边界、以资源掠夺和族群仇恨为燃料的长期冲突。它促使读者深入质问和平话语、冲突经济和地缘政治野心的道德代价，呼吁用数据驱动的深度审视，而非肤浅的标题胜利。",
+    "best_quote_en": "The only way to survive in this minefield is to stay neutral.",
+    "best_quote_zh": "在这片战场上，唯一的生存之道就是保持中立。"
+  },
+  {
+    "id": 269,
+    "title": "One of Suno’s latest investors will be of particular interest to the music industry…",
+    "title_zh": "Suno最新投资者之一将引起音乐产业的特别关注…",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/one-of-sunos-latest-investors-will-be-of-particular-interest-to-the-music-industry/",
+    "tags": [
+      "update",
+      "startup-funding",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "Suno’s latest Series C round, valued at $2.45 billion, brings together a high‑profile VC, Menlo Ventures, and a surprising player from the music world: Hallwood Media. Hallwood’s board, staffed by UMG alumni and TikTok’s former music chief, signals a growing conviction that AI‑generated music can be a mainstream commodity. The company’s signing of Imoliver and the breakout success of Xania Monet—both AI‑born “artists” that have cracked Billboard charts—illustrates the tension between novelty and legitimacy. While critics like Kehlani decry the loss of human authenticity, Hallwood’s multi‑million‑dollar deals and UMG’s licensing settlements with platforms like Udio hint at a future where AI and traditional music rights co‑exist under regulated frameworks. The article’s core insight is that the music industry is at a crossroads: either it embraces AI as an expansion of creative possibilities or it resists, risking marginalization of emerging digital talent. This piece is a timely case study on the legal, cultural, and economic implications of AI‑generated art, offering both cautionary tales and strategic opportunities for stakeholders.\n",
+    "summary_zh": "Suno最新融资引入音乐巨头Hallwood Media，标志着AI音乐正从实验走向主流。Hallwood董事会聚集UMG与TikTok高管，签约AI创作的Imoliver和Xania Monet，已登上Billboard榜单，凸显技术与版权的碰撞。音乐人对AI的担忧与行业对合法化的需求形成张力，UMG与Udio的版权和解显示了可持续路径。文章提醒我们，AI音乐既是创新机遇，也是法律与文化的试金石，行业必须在拥抱与规范之间找到平衡。",
+    "best_quote_en": "\"Imoliver represents the future of our medium,\" Jacobson declared.",
+    "best_quote_zh": "\"这不是关于取代艺术家，而是关于扩展可能性。\""
+  },
+  {
+    "id": 270,
+    "title": "I Retired 5 Years Ago With $500,000. Now I Have $1,000,000",
+    "title_zh": "五年前我以50万美元退休，现在我拥有100万美元",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2025/11/i-retired-5-years-ago-with-500000-now-i-have-1000000.html",
+    "tags": [
+      "analyze",
+      "personal-finance",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "个人理财",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "This interview with a self‑made early retiree illustrates that financial independence can be achieved without a high‑income business or lottery luck. The subject, known as “Purple,” reached $500,000 in a five‑year span by rigorously tracking spending, strategically job‑hopping to boost income, geo‑arbitraging living costs, and investing the surplus in low‑cost index funds. The narrative evolves as she now reports a $1 million net worth, entirely from market gains, while living off a modest withdrawal rate anchored in the 4% rule. She candidly discusses health insurance, accidental income streams, and the psychological shift from corporate stress to intentional living. Her story offers concrete, data‑driven tactics—spending audits, flexible withdrawal strategies, and maintaining a cash cushion—making it a valuable case study for anyone pursuing early retirement. The piece blends personal reflection with actionable finance advice, underscoring that disciplined, informed decisions can translate aspiration into tangible wealth.",
+    "summary_zh": "这篇访谈展示了通过严格消费审计、职业跳槽、地理套利和低成本指数基金投资，五年内从零积累至50万美元退休，并在不再投入新资金的情况下，凭借市场收益翻倍至100万美元。作者分享了健康保险、意外收入、灵活取款策略以及现金缓冲等实战经验，强调自我诚实与目标一致的重要性。",
+    "best_quote_en": "I’m the happiest I’ve ever been. And that’s happier than I ever thought I would be because of my clinical depression.",
+    "best_quote_zh": "我最好的建议是诚实对待自己。思考什么让你快乐并朝着那条路努力——无论那是什么。"
   }
 ]
