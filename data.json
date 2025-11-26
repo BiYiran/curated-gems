@@ -1,51 +1,5 @@
 [
   {
-    "id": 171,
-    "title": "Haters",
-    "title_zh": "Haters",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "The piece reframes fame’s polarities by equating haters with fanboys whose allegiance has simply flipped. It argues that both groups are obsessive, uncritical, and derive identity from the celebrity, but one idolises while the other demonises. The author identifies a recurring pattern: haters tend to be “losers” or those with frustrated talent, never achieving notable success, whereas those who succeed rarely become haters. This psychological framing offers a practical strategy—ignore the haters rather than engage, treating them like any obsessive fan. The article blends humor with a candid self‑reflection on the author’s own experience, providing a useful, data‑driven lens on social dynamics in the age of instant visibility. It invites readers, especially founders and public figures, to re‑evaluate the cost of fame and the inevitability of negative attention, while offering a concise, actionable rule of thumb for coping. The underlying insight—that hate is a mirror image of adoration—provides a fresh, almost counterintuitive perspective on human behaviour and public perception.",
-    "summary_zh": "作者把恨者视为把符号翻转的粉丝，揭示两者都是痴迷、无批判的身份认同者，只是立场相反。通过观察，发现恨者往往是失意者或才华受挫者，成功者很少成为恨者。文章提出的应对策略是忽视恨者，像对待痴迷粉丝一样不理会，从而降低负面情绪的干扰。此观点既具心理学洞察，又提供可操作的实用建议，帮助公众人物重新审视名声带来的正负两面，并给出简明的对策。",
-    "best_quote_en": "Haters are just fanboys with the sign switched.",
-    "best_quote_zh": "恨者只不过是把符号翻转的粉丝。"
-  },
-  {
-    "id": 172,
-    "title": "US Govt Whistleblower Guide",
-    "title_zh": "美国政府内部人士泄密指南",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/sbn7cdkpqhmFng5xS/us-govt-whistleblower-guide",
-    "tags": [
-      "guide",
-      "politics",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "The guide presents a stark, pragmatic roadmap for potential whistleblowers, intertwining legal strategy, operational security, and psychological preparation. It underscores that leaking classified data is not a solitary act of bravery but a calculated risk that often culminates in imprisonment or exile. By advocating a two‑step approach—public disclosure in the U.S. for non‑classified summaries, and flight to Russia for classified leaks—the author acknowledges the brutal reality of U.S. surveillance infrastructures that log every file transfer. The advice is deeply actionable: use TAILS for air‑gapped work, redact with GIMP, avoid mobile devices, and secure documents with PGP before reaching journalists. Yet the tone is cautionary; it warns that even “advanced” op‑sec can only buy time, not immunity. The guide’s value lies in its candid, data‑driven assessment of outcomes—most leaks spark public debate but rarely force swift policy shifts—while offering a sobering perspective on the personal costs of whistleblowing.",
-    "summary_zh": "这份指南以极具实用性的方式描绘了泄密者的风险与路径。作者强调，泄密不仅是勇气，更是对美国监控体系的精准对抗。它建议在美国公开非机密信息，若涉及机密则逃往俄罗斯寻求庇护。指南详述了从使用TAILS、GIMP裁剪文件到PGP加密、与记者接触的每一步操作。作者也提醒，即便采用最先进的安全措施，也只能延缓被捕而非完全免除风险。更重要的是，它以数据驱动的视角告诉读者：多数泄密事件虽然能点燃公众讨论，却难以立即促成政策变革。对那些渴望揭露真相的人而言，这份指南既是行动手册，也是对个人代价的深思。",
-    "best_quote_en": "Most leaks did not by themselves lead to significant political change.",
-    "best_quote_zh": "多数泄密事件并未直接导致重大的政治变革。"
-  },
-  {
     "id": 173,
     "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
     "title_zh": "乔伊亚姆·特里尔让奥斯陆成为电影地图",
@@ -2356,5 +2310,53 @@
     "summary_zh": "这篇访谈展示了通过严格消费审计、职业跳槽、地理套利和低成本指数基金投资，五年内从零积累至50万美元退休，并在不再投入新资金的情况下，凭借市场收益翻倍至100万美元。作者分享了健康保险、意外收入、灵活取款策略以及现金缓冲等实战经验，强调自我诚实与目标一致的重要性。",
     "best_quote_en": "I’m the happiest I’ve ever been. And that’s happier than I ever thought I would be because of my clinical depression.",
     "best_quote_zh": "我最好的建议是诚实对待自己。思考什么让你快乐并朝着那条路努力——无论那是什么。"
+  },
+  {
+    "id": 271,
+    "title": "The sights and sounds of Bhutan",
+    "title_zh": "不丹的风景与声音",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
+    "tags": [
+      "update",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The article is a reflective travelogue that doubles as a socio‑cultural case study of Bhutan, a nation that has successfully resisted the homogenizing forces of globalization. It opens with the author’s personal travel pledge, then moves into a vivid portrait of Bhutan’s geography, history, and most strikingly, its governance model—where the king’s personal philanthropy and the country’s Gross National Happiness metric replace GDP as a development yardstick. Readers learn how the monarchy’s direct cash‑transfer during COVID saved tourism livelihoods, how strict bans on TV and internet preserved cultural identity, and how Bhutan’s carbon‑negative forests exemplify a living environmental policy. The piece also warns of demographic drift and the ambitious yet long‑term Gelephu Mindfulness City plan. By weaving anecdote, policy analysis, and environmental data, the post invites readers to think critically about alternative prosperity models and the trade‑offs of cultural preservation in a rapidly changing world.",
+    "summary_zh": "作者用亲身旅行的视角，深入剖析不丹这座“最后的佛国”，展示其独特的治理模式——国王亲自发放现金救济、以国民幸福总值取代GDP。文章还强调不丹的碳负森林、严格的电视禁令与人口外流危机，提醒读者思考文化保守与发展之间的平衡。",
+    "best_quote_en": "Bhutan is the world’s one carbon‑negative country—their vast forests absorb more CO₂ than their populace emits.",
+    "best_quote_zh": "不丹是世界上唯一的碳负国家——他们广阔的森林吸收的二氧化碳多于其人口排放的量。"
+  },
+  {
+    "id": 272,
+    "title": "Warner Music Group strikes ‘landmark’ deal with Suno; settles copyright lawsuit against AI music generator",
+    "title_zh": "华纳音乐集团与Suno签订‘里程碑’协议；与AI音乐生成器和解版权诉讼",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/",
+    "tags": [
+      "inspire",
+      "music-arts",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The Warner Music Group‑Suno partnership marks a pivotal shift in AI‑generated music, blending cutting‑edge technology with a robust licensing framework that protects artists while expanding creative possibilities. By granting creators full control over the use of their names, likenesses, voices, and compositions, the deal addresses longstanding copyright concerns that have plagued the industry. The agreement also introduces a tiered model—free tier for streaming, paid tier with download limits—creating a sustainable revenue stream that incentivizes both users and artists. Suno’s acquisition of Songkick further deepens fan engagement, hinting at a future where AI‑driven platforms serve as holistic ecosystems for discovery, collaboration, and monetization. This collaboration signals a broader industry pivot toward responsible AI, as other major labels and tech firms announce similar deals. Ultimately, the partnership showcases how AI can become a pro‑artist tool when anchored in transparent, artist‑centric principles, potentially reshaping the economics and culture of music creation.",
+    "summary_zh": "华纳音乐与Suno的‘里程碑’协议，将AI创作与版权保护结合，开启付费与授权模式，既为创作者保驾护航，也为用户提供更丰富体验。此举凸显AI音乐正从侵权阴影走向合规创新，标志着行业对合法授权与艺术家权益的重新重视。",
+    "best_quote_en": "AI becomes pro-artist when it adheres to our principles: committing to licensed models, reflecting the value of music on and off platform, and providing artists and songwriters with an opt-in for the use of their name, image, likeness, voice and compositions in new AI songs.",
+    "best_quote_zh": "当AI遵循我们的原则时，它就成为了支持艺术家的工具：承诺使用许可模型，体现音乐在平台内外的价值，并为艺术家和作词人提供可选择是否将其姓名、形象、声音和作品用于新的AI歌曲的选项。"
   }
 ]
