@@ -1,125 +1,5 @@
 [
   {
-    "id": 173,
-    "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
-    "title_zh": "乔伊亚姆·特里尔让奥斯陆成为电影地图",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/11/10/joachim-trier-profile",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "Joachim Trier’s new feature, Sentimental Value, is more than a love letter to Oslo; it’s a masterclass in how place can become an active character, mirroring the director’s own intimate, almost therapeutic rapport with his actors. By inviting performers to make “mistakes” and encouraging a “tender” style, Trier blurs the line between rehearsal and real life, turning the set into a safe space where raw emotions surface naturally. The film’s use of the historic dragestil house—an architectural fairy‑tale—underscores the thematic interplay of memory, grief, and identity, while the narrative’s intergenerational arcs expose the quiet despair that can lurk beneath a society’s polished veneer. Trier’s method reveals a new model for indie filmmaking: low‑budget, high‑risk authenticity that relies on deep human connection rather than slick production values. For scholars, industry‑practitioners, and cinephiles, the article offers actionable insights into character‑driven storytelling, the power of place, and the therapeutic potential of collaborative filmmaking.\n",
-    "summary_zh": "特里尔用奥斯陆的历史与情感编织电影《Sentimental Value》，让城市成为活生生的角色。导演鼓励演员犯错，营造安全空间，让真实情绪自然流露。影片通过童话般的dragestil房屋，映射记忆、悲痛与身份交织，揭示表面光鲜背后的隐秘绝望。此作展示低成本高真实性的独立电影新模式，强调人与人深度互动，而非华丽技术。对电影学者、制片人和影迷而言，提供可操作的叙事技巧、地点力量及合作创作的治疗潜能。\n",
-    "best_quote_en": "People work better that way—at least, the people I want to work with.",
-    "best_quote_zh": "人们在那种方式下工作更好——至少，我想和他们一起工作。"
-  },
-  {
-    "id": 174,
-    "title": "Podcast Magic/Snap-on phone charger/OpenWebcam Database",
-    "title_zh": "播客魔法/磁吸手机充电器/OpenWebcam 数据库",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/podcast-magic-snap-on-phone-charger-openwebcam-database/",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "The post curates a handful of niche tech hacks that blend convenience, privacy, and design. Podcast Magic turns a fleeting audio cue into a searchable text snippet with a single voice command—no app, no subscription, just a one‑time fee. The Anker 621 MagGo magnetic charger eliminates cable clutter for on‑the‑go travelers, proving that form can be as functional as power. OpenWebcam Database offers a living atlas of 2,000+ cameras worldwide, letting users pause work and glimpse global scenery in real time. A Netflix drama, “Adolescence,” demonstrates how a zero‑cut, four‑hour performance can deliver visceral storytelling, while Scriber Pro shows how local, subscription‑free transcription can coexist with privacy. Finally, Curated Supply’s newsletter reminds readers that thoughtful design can replace disposable trends. Together, these snippets illustrate a broader shift toward user‑centric, privacy‑first tools that empower everyday exploration without sacrificing style or security.",
-    "summary_zh": "这篇文章汇集了几款实用且隐私友好的技术小工具：播客魔法让你一句话即可把听到的内容转成文本；磁吸充电器消除了携带线缆的麻烦；OpenWebcam 数据库提供全球 2,000+ 实时摄像头；Scriber Pro 本地化转录保护隐私；Netflix 的无剪辑剧集则展示了极致沉浸式叙事。它们共同体现了以用户为中心、隐私至上的技术趋势，既方便又不失设计感。",
-    "best_quote_en": "It processes everything locally on my Mac.",
-    "best_quote_zh": "这款磁吸充电器让我不再手忙脚乱"
-  },
-  {
-    "id": 175,
-    "title": "The Two Kinds of Moderate",
-    "title_zh": "两种温和派",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mod.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "The essay dissects the notion of political moderation into two distinct modes—intentional and accidental—highlighting how each shapes belief formation and social positioning. Intentional moderates deliberately occupy a midpoint, their views tracking the median of ideological extremes, whereas accidental moderates arrive there by independently weighing each issue, resulting in a scattered but centrist average. The author argues that intentional moderation is, paradoxically, a form of ideological conformity, shifting with the dominant narrative, while accidental moderation demands the most courage: standing alone amid both camps without the safety net of a large group. The piece links this distinction to intellectual independence, suggesting that the most impressive thinkers are accidental moderates, unbound by doctrinaire politics. It critiques the label of “coward” often applied to moderates and invites readers to reassess the value of independent thought in a polarized world.",
-    "summary_zh": "作者把政治温和派分为有意与无意两类，指出有意温和派随主流潮流漂移，而无意温和派凭独立思考走中间。文章强调独立思考的价值，认为最杰出的人往往是无意温和派，并批评对温和派的“懦弱”标签。",
-    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
-    "best_quote_zh": "我认识的大多数最出色的人都是偶然的温和派。"
-  },
-  {
-    "id": 176,
-    "title": "A Guide To Being Persuasive About AI Dangers",
-    "title_zh": "关于AI危险的说服指南",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/QoMwFosibKffC4vxA/a-guide-to-being-persuasive-about-ai-dangers",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "By weaving together three core practices—empathetic listening, uncompromising honesty, and deep technical literacy—this guide offers a pragmatic playbook for persuading skeptics about AI’s existential risks. The author first stresses the importance of “circling,” a meditative technique that trains speakers to map interlocutors’ world models and uncover hidden assumptions. Next, he warns against corporate jargon and hedging, insisting that truth, even when uncomfortable, is the most persuasive weapon. Finally, he urges readers to immerse themselves in foundational AI alignment literature and security thinking, so they can answer counterarguments with precision. The step‑by‑step framework—identify gaps, listen attentively, and tailor explanations—transforms abstract dread into concrete, relatable facts. The piece balances philosophical depth with actionable dialogue tactics, making it useful for policy makers, researchers, and anyone who wants to make the case for responsible AI. Its blend of introspection, evidence‑based argumentation, and conversational skill sets it apart as a valuable resource for risk communication.",
-    "summary_zh": "本文从人际洞察、诚实表达和深度理解三维度剖析如何说服他人关注AI风险。作者强调先观察对方世界模型，随后以事实为根基、直面真相，再用通俗易懂的逻辑填补认知空白。通过循序渐进的对话技巧，读者可在一对一场景中提升说服力，既保持真实性，又避免信息过载。文章兼具理论与实践，适合政策制定者、技术传播者和普通公众，是提升AI风险沟通素养的实用指南。",
-    "best_quote_en": "Be honest. Don’t do corporate-speak and don’t hedge. Always be honest about why you believe in it.",
-    "best_quote_zh": "诚实是我们的优势"
-  },
-  {
-    "id": 177,
-    "title": "Free Press / Building Stories",
-    "title_zh": "Free Press / Building Stories",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-press-building-stories/",
-    "tags": [
-      "update",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "The article juxtaposes two seemingly disparate works—Jean‑François Bizot’s pictorial chronicle of the 1960s underground press and Chris Ware’s meticulously curated graphic‑novel anthology—to illuminate how form and content can subvert cultural narratives. Bizot’s volume is more than a photographic archive; it is a design laboratory that captures the anarchic spirit of a generation that challenged drug policy, gender norms, and authoritarianism. The photographs reveal a spectrum from amateurish, garish layouts to moments of visual brilliance, offering designers a rare window into the evolution of activist aesthetics. In contrast, Ware’s *Building Stories* reframes the comic medium as a sophisticated narrative architecture, with 14 stories packaged in varied formats that invite readers to assemble their own story paths. The book’s layout experiments—from spiraling panels to modular game‑board strips—demonstrate how physical form can mirror psychological themes such as alienation and routine. Together, the pieces underscore that design is not merely decorative; it is a vehicle for social critique, emotional resonance, and reader agency. The article invites practitioners to study these works as case studies that challenge conventional publishing paradigms and inspire creative, problem‑solving approaches.",
-    "summary_zh": "文章通过对1960年代地下报纸的图像史与Chris Ware的精心策划的图像小说合集进行对比，揭示形式与内容如何颠覆文化叙事。Bizot的作品是活力与设计实验的实验室；Ware的《Building Stories》则把漫画变成叙事建筑，布局实验让读者自行拼装故事路径。两者共同强调设计既是社会批判与情感共鸣的媒介，也是读者主动性的体现。",
-    "best_quote_en": "\"Almost every page of this book has a full‑color photo of a cover or interior page from dozens of well‑known and obscure newspapers from the era. Though much of the design is amateurish and ugly, there are examples of brilliance, too, making this a worthy reference for designers.\"",
-    "best_quote_zh": "“本书几乎每一页都展示了几十份知名与不知名报纸的全彩封面或内部页面。虽然大部分设计粗糙、丑陋，却也有闪光点，值得设计师参考。”"
-  },
-  {
     "id": 178,
     "title": "Productivity",
     "title_zh": "生产力",
@@ -2358,5 +2238,121 @@
     "summary_zh": "华纳音乐与Suno的‘里程碑’协议，将AI创作与版权保护结合，开启付费与授权模式，既为创作者保驾护航，也为用户提供更丰富体验。此举凸显AI音乐正从侵权阴影走向合规创新，标志着行业对合法授权与艺术家权益的重新重视。",
     "best_quote_en": "AI becomes pro-artist when it adheres to our principles: committing to licensed models, reflecting the value of music on and off platform, and providing artists and songwriters with an opt-in for the use of their name, image, likeness, voice and compositions in new AI songs.",
     "best_quote_zh": "当AI遵循我们的原则时，它就成为了支持艺术家的工具：承诺使用许可模型，体现音乐在平台内外的价值，并为艺术家和作词人提供可选择是否将其姓名、形象、声音和作品用于新的AI歌曲的选项。"
+  },
+  {
+    "id": 273,
+    "title": "I got an epidural for all three of my births – none of them worked as expected",
+    "title_zh": "我在三次分娩中都做了硬膜外麻醉——却都没有达到预期效果",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/nov/25/what-to-know-about-epidural",
+    "tags": [
+      "solve",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The article offers a candid, data‑driven narrative that demystifies epidural analgesia for expectant parents. It blends personal testimony with expert commentary, revealing that failure rates of 8‑23 % are not rare medical mishaps but inherent variability in anatomy, drug metabolism, and procedural timing. The piece underscores that myths—such as waiting until a specific cervical dilation or fearing medication depletion—can jeopardize pain control and even fetal safety. Importantly, it highlights actionable strategies: early communication with anesthesiology, tailored formulations for known sensitivities (e.g., red‑haired patients), and flexible dosing protocols. By juxtaposing anecdotal frustration with rigorous evidence, the author invites readers to view epidurals as complex, patient‑specific interventions rather than black‑box solutions. The article’s critical tone and nuanced insights empower informed decision‑making and set realistic expectations for labor analgesia, bridging the gap between patient experience and clinical practice.",
+    "summary_zh": "文章以个人经历为切入点，结合专家数据，揭示硬膜外麻醉失败率在8‑23%并非医疗失误，而是解剖、代谢与时机差异所致。它驳斥常见误区，强调早沟通、个体化配方和灵活剂量的必要性，帮助孕产妇理性预期并做出知情选择。",
+    "best_quote_en": "\"Epidurals are complex; it’s not like when you order something from a vending machine, it falls down and that’s what you get,\" says Dr John W Patton III.",
+    "best_quote_zh": "“硬膜外麻醉很复杂；不像在自动售货机点东西，直接下来的那样。”——约翰·W·帕顿博士"
+  },
+  {
+    "id": 274,
+    "title": "Write Like You Talk",
+    "title_zh": "像你说话一样写",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/talk.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The essay argues that writing most often drifts into a formal, complex register that alienates readers. By treating the first draft as a spoken conversation—asking whether each sentence sounds like something you’d say to a friend—authors can strip away unnecessary flourishes and make their prose more direct and engaging. The author calls informal language “the athletic clothing of ideas,” suggesting that the most advanced thinkers communicate in the simplest terms. While poetic or deliberately opaque prose has its place, the piece contends that for the vast majority of writers, conversational style is the key to capturing attention and conveying meaning. The strategy is practical: draft normally, then revise sentence by sentence, or even explain the draft to a friend and rewrite based on that retelling. The implication is that mastering spoken‑style writing can elevate an author above 95 % of peers, making content more accessible and memorable in an information‑dense world.",
+    "summary_zh": "写作若能像说话一样，读者的注意力就不会漂移。作者指出，书面语往往过于复杂、正式，导致信息传递效率低。通过先用口语化草稿，再逐句审视“我会不会对朋友说”来检查，可让文字更贴近读者。文章强调，非正式语言是思想的运动服装，真正的专业人士往往用最简洁的词句表达最深奥的概念。对大多数写作者而言，练习口语化写作是提高可读性的捷径。它不仅适用于日常写作，也可用于学术、商业沟通，帮助作者在信息洪流中脱颖而出。",
+    "best_quote_en": "Informal language is the athletic clothing of ideas.",
+    "best_quote_zh": "非正式语言是思想的运动服装。"
+  },
+  {
+    "id": 275,
+    "title": "Information Hygiene",
+    "title_zh": "信息卫生",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xEPiojzEzQexafcBR/information-hygiene",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "Information Hygiene draws a vivid parallel between the body’s immune system and the mind’s epistemic defenses, framing misinformation as a biological pathogen that spreads through memetic contagion. By dissecting innate and adaptive immunity, the author maps environmental filters, baseline beliefs, and active reasoning onto layers of cognitive vigilance. The piece underscores that knowledge is not a passive asset; it is a dynamic, practice‑driven shield. It argues that emotional biases, ideological confirmation, and source fatigue create entry points for falsehoods, and that cultivating a robust knowledge base is the most effective vaccine. The author further stresses the ethical duty of “masking”—avoiding the unverified spread of ideas—and advocates a “scout mindset” that prioritizes truth mapping over rhetorical victory. The essay invites readers to trace the provenance of beliefs, to interrogate their own epistemic habits, and to build a culture of continual self‑audit. In an era where memes outpace fact‑checking, this framework offers a pragmatic, actionable strategy for resilient cognition.",
+    "summary_zh": "信息卫生以人体免疫为隐喻，将谣言比作细菌，揭示认知防御的三层结构：环境屏障、先入为主的信念与主动推理。作者强调知识不是被动资源，而是需要持续训练的防护盾。情绪偏见、意识形态确认与信息疲劳成为“病毒”的入口，只有构建坚实的知识基础才能有效抵御。文中提出“戴口罩”式的传播准则，倡导“侦察者思维”，把真相映射放在赢得辩论之上。作者鼓励读者追溯信念来源、审视自身认知习惯，形成持续自检的文化。在信息与谣言共舞的时代，这套框架为认知韧性提供了可操作的路径。",
+    "best_quote_en": "Notice confusion is the most powerful tool for investigating what's true.",
+    "best_quote_zh": "注意困惑是调查真相最强大的工具。"
+  },
+  {
+    "id": 276,
+    "title": "Ukrainian Men Approaching Military Age Are Fleeing in Droves",
+    "title_zh": "接近征兵年龄的乌克兰男性正在大量逃离",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/ukrainian-men-approaching-military-age-are-fleeing-in-droves",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The article examines how a temporary policy lift—allowing Ukrainian men under 23 to leave the country—has triggered a mass exodus amid a brutal war of attrition. Through the intimate portrait of Klim Milchenko, the piece reveals the psychological calculus of a young man who weighs survival against duty, and the broader societal consequences of a shrinking mobilization pool. Data from German and Polish borders illustrate a surge in refugee flow, while officials argue the rule will curb early desertion and preserve national cohesion. Critics, however, warn that the policy risks long‑term manpower shortages and erodes the sense of collective responsibility. The narrative also touches on the challenges of integration, discrimination, and the fading public support for Ukrainian refugees in neighboring states. Ultimately, the piece underscores the paradox of a war that forces citizens to flee the front lines they are meant to defend, raising questions about the sustainability of Ukraine’s defense strategy and the human cost of policy decisions made under duress.",
+    "summary_zh": "文章通过乌克兰男性接近征兵年龄后被允许离境的临时政策，揭示了在激烈的消耗战中出现的人员外逃现象。以克里姆·米尔切尼科的亲身经历为线索，文章探讨了个体在生存与义务之间的心理权衡，并指出这一政策导致的动员池缩小对乌克兰国防的长期影响。德国、波兰边境数据显示难民涌入激增，官方认为此举可遏止早期逃离、维护国家凝聚力；但批评者担忧此举将削弱未来兵力储备，破坏集体责任感。文章还讨论了难民融入、歧视和邻国对乌克兰难民支持度下降等问题，强调战争迫使本应保卫前线的人们逃离前线的悖论，提出了对乌克兰防御策略可持续性与政策决策人道成本的深刻反思。",
+    "best_quote_en": "\"When you have friends who have been killed, when you see how soldiers are living on the front line, when you see how that could be your life, it’s a very scary thing,\"",
+    "best_quote_zh": "当你有朋友被杀，当你看到士兵在前线的生活，当你看到那可能是你的生活时，这非常可怕。"
+  },
+  {
+    "id": 277,
+    "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+    "title_zh": "女性激素健康，PCOS，子宫内膜异位症，生育与乳腺癌 | Dr. Thaïs Aliabadi",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-thais-aliabadi",
+    "tags": [
+      "learn",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "Dr. Thaïs Aliabadi, a board‑certified OB‑GYN and surgical pioneer, takes the stage to unpack the hidden epidemics of PCOS and endometriosis—conditions that silently sabotage fertility yet remain under‑diagnosed. Through a data‑driven lens, she dissects symptom patterns, hormonal biomarkers (AMH, HPA axis), and the molecular underpinnings of insulin resistance and chronic inflammation. The conversation pivots from clinical diagnostics—pelvic ultrasound, hormone panels—to practical, actionable strategies: targeted supplements, GLP‑1 agonists, lifestyle pivots, and the timing of fertility preservation. Beyond reproductive health, the dialogue expands to breast‑cancer risk stratification, perimenopause navigation, and the imperative of self‑advocacy in a fragmented medical landscape. What sets this episode apart is its dual focus on evidence‑based medicine and empowerment: women are not passive recipients but informed partners in their health trajectory. The episode is a lifeline for anyone navigating hormonal turbulence, offering a roadmap that blends rigorous science with everyday feasibility.",
+    "summary_zh": "Dr. Aliabadi 以数据为导向，剖析 PCOS 与子宫内膜异位症的症状、诊断与治疗，强调胰岛素抵抗、慢性炎症与激素失衡的关系，并提供可执行的补充与生活方式方案。她进一步探讨乳腺癌风险评估、围绝经期管理与自我倡导，帮助女性把握健康主动权。",
+    "best_quote_en": "This conversation offers empowering, potentially life‑changing information for women of all ages to take control of their hormone, reproductive and overall health.",
+    "best_quote_zh": "这段对话提供了赋权且可能改变人生的信息，帮助各年龄段女性掌控她们的激素、繁殖和整体健康。"
   }
 ]
