@@ -1,97 +1,5 @@
 [
   {
-    "id": 178,
-    "title": "Productivity",
-    "title_zh": "生产力",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/productivity",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "The article is a pragmatic, almost diary‑style guide that blends behavioral science, systems thinking, and personal experimentation to outline a holistic productivity framework. It starts with the powerful idea of compound growth—small daily gains multiplied over decades—and argues that the real lever is choosing the right problems, not the speed of execution. The author emphasizes independent thought, conviction, and strategic delegation, arguing that people work best when they are passionate about the task. He then details a concrete prioritization system based on three pillars: finish important work, avoid trivial tasks, and maintain lists. The piece also explores the often‑overlooked physical factors—sleep, light, exercise, nutrition—that can double productivity, and warns against “productivity porn.” The tone is reflective yet actionable, inviting readers to experiment with sleep trackers, cold exposure, or low‑dose sleep aids. Overall, it offers a blend of theory, personal anecdotes, and practical tools that can help anyone re‑engineer their work habits for long‑term growth.\n",
-    "summary_zh": "作者用亲身实验和行为科学，阐述了复合成长与目标选择的重要性，强调在有激情的任务中工作，列举了优先级三大支柱和可操作的清单方法。随后深入探讨睡眠、光照、运动、营养等身体因素，指出它们能提升两倍生产力。文章既有理论深度，又提供可落地的工具和实验思路，鼓励读者在日常中尝试睡眠追踪、冷暴露或低剂量助眠，真正实现长期成长。",
-    "best_quote_en": "If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.",
-    "best_quote_zh": "如果你每天比别人多完成10%，并且每次提升1%，复合差异将是巨大的。"
-  },
-  {
-    "id": 179,
-    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
-    "title_zh": "利用现有药物以新方式治疗与治愈脑部与身体疾病 | Dr. David Fajgenbaum",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "In this episode, Dr. David Fajgenbaum reveals the astonishing power of drug repurposing—an FDA‑approved medication that once saved his own life from Castleman’s disease becomes a beacon for untreatable cancers and rare disorders. He explains how many drugs, long pigeonholed into narrow indications, can be re‑imagined to target entirely new pathologies, turning a clinical “dead‑end” into a therapeutic breakthrough. The conversation goes beyond theory, offering concrete tools: how to sift through credible medical databases, engage with patient‑advocacy groups, and leverage AI‑driven disease mapping. Fajgenbaum’s narrative underscores a simple yet profound truth: the mindset of self‑agency and relentless curiosity can unlock cures that the mainstream system has overlooked. For clinicians, patients, and curious listeners alike, the episode is a call to action—explore, question, and harness existing drugs for a healthier future.",
-    "summary_zh": "在这期节目中，David Fajgenbaum 分享了药物再利用的奇迹——一剂原本用于其他疾病的药物竟能拯救他免于 Castleman 病的死亡。他强调，医学界常忽视的“旧药新用”不仅为罕见病提供了治愈可能，也为癌症等难治疾病打开了新思路。节目深入探讨了寻找可靠健康信息、与疾病组织合作、以及利用数据库映射疾病关联的实用工具。更重要的是，他呼吁患者与医生保持主动心态，敢于探索未知，才能在医学进步的浪潮中抓住机会。",
-    "best_quote_en": "Many approved medications can successfully treat or even cure diseases other than the ones they are typically used to treat.",
-    "best_quote_zh": "许多已批准的药物可以成功治疗甚至治愈它们通常不用于治疗的疾病。"
-  },
-  {
-    "id": 180,
-    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
-    "title_zh": "Jess Cartner-Morley 讲时尚：推出 Twinset 2.0——实用与时尚的结合",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Jess Cartner‑Morley’s piece on the Twinset 2.0 is more than a style rundown; it’s a cultural audit of comfort‑centric fashion’s return. She frames the twinset as a layered, low‑key rebellion against minimalist austerity, offering designers and consumers alike a blueprint for texture, proportion and color experimentation. By dissecting the shift from the rigid, school‑uniform aesthetic of past decades to the relaxed, “knit‑necklace” vibe of today, the article highlights how layering becomes a subtle statement of individuality. The piece also hints at the economic and environmental implications of re‑using existing knitwear, encouraging a circular approach to wardrobe curation. Overall, the article invites readers to rethink the twinset not as a trend but as a strategic, sustainable fashion tool that balances practicality with panache.",
-    "summary_zh": "Jess Cartner‑Morley 的 Twinset 2.0 评述，把层叠针织视为对极简主义的低调反叛。她提倡用纹理、比例与色彩的实验，让旧衣重塑时尚与舒适的平衡。此文既是时尚指南，也是可持续消费的启示，提醒我们在追求舒适的同时，也能保持独特个性。",
-    "best_quote_en": "Ultimately, the new twinset trend speaks to our collective craving for comfort that doesn’t abandon style.",
-    "best_quote_zh": "最终，新的 Twinset 趋势体现了我们共同对舒适的渴求，却不放弃时尚。"
-  },
-  {
-    "id": 181,
-    "title": "Fashionable Problems",
-    "title_zh": "时尚问题",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fp.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "In a concise yet thought‑provoking essay, the author uncovers a pervasive pattern across disciplines: brilliant minds, despite their ingenuity, gravitate toward the same “fashionable” problems, leaving vast, unexplored territories untouched. He argues that the most valuable breakthroughs often arise from tackling unfashionable questions—those in fields perceived as fully explored, such as Lisp programming or venture‑capital theory. By daring to probe these neglected spaces, one multiplies impact because the surface area of potential discovery is enormous. The piece also reminds readers that genuine passion is the ultimate antidote to conformity; love for the work itself sustains perseverance, even when the problem seems marginal or the path is fraught with mistakes. The essay invites entrepreneurs and innovators to resist the herd mentality, seek the overlooked, and let curiosity, rather than trend‑following, guide their next big idea.",
-    "summary_zh": "作者洞察到，才华横溢的人往往被“时尚”问题牵引，忽视了更广阔的未探索领域。他指出，真正的突破常源自对被视为已被充分研究的领域（如Lisp、创业融资）中不受关注的问题进行大胆探究。热爱本身是抵御趋同的最佳防线，持续投入即使问题被认为边缘化。此文激励创业者和创新者放下潮流，追求被忽视的空间，让好奇心主导下一步的重大突破。",
-    "best_quote_en": "People who would never dream of being fashionable in any other way get sucked into working on fashionable problems.",
-    "best_quote_zh": "那些从未想过在其他任何方式上时尚的人，却被迫投入到时尚问题中。"
-  },
-  {
     "id": 182,
     "title": "Geometric UDT",
     "title_zh": "几何 UDT",
@@ -2354,5 +2262,97 @@
     "summary_zh": "Dr. Aliabadi 以数据为导向，剖析 PCOS 与子宫内膜异位症的症状、诊断与治疗，强调胰岛素抵抗、慢性炎症与激素失衡的关系，并提供可执行的补充与生活方式方案。她进一步探讨乳腺癌风险评估、围绝经期管理与自我倡导，帮助女性把握健康主动权。",
     "best_quote_en": "This conversation offers empowering, potentially life‑changing information for women of all ages to take control of their hormone, reproductive and overall health.",
     "best_quote_zh": "这段对话提供了赋权且可能改变人生的信息，帮助各年龄段女性掌控她们的激素、繁殖和整体健康。"
+  },
+  {
+    "id": 278,
+    "title": "Default Alive or Default Dead?",
+    "title_zh": "默认存活还是默认死亡？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/aord.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "In “Default Alive or Default Dead?” the author reframes startup survival as a binary health check: are you on a trajectory that will eventually yield profitability, or are you doomed to run out of runway? The piece argues that founders rarely ask this question early enough, leading to the “fatal pinch” where slow growth and high burn combine to create a lethal spiral. By insisting on an honest, data‑driven assessment—calculating runway, burn, and growth rates—entrepreneurs can spot the red flag before it becomes a death sentence. The author further critiques the VC‑driven over‑hiring culture, noting that hiring too fast is the biggest killer of early‑stage companies that raise capital. Instead, the article champions lean growth, product‑market fit iteration, and the discipline to resist scaling until traction is proven. This pragmatic framework not only offers a diagnostic tool but also challenges conventional wisdom about fundraising and scaling, making it a valuable guide for founders and investors alike.",
+    "summary_zh": "作者通过“默认存活/默认死亡”概念，揭示了初创公司常见的财务与成长陷阱，强调早期自我评估与避免过度招聘的重要性。此视角既具可操作性，又挑战传统融资思维，值得创业者深思。",
+    "best_quote_en": "The fatal pinch is default dead + slow growth + not enough time to fix it.",
+    "best_quote_zh": "致命的窒息是默认死亡 + 缓慢增长 + 没有足够时间修复。"
+  },
+  {
+    "id": 279,
+    "title": "What are Putin’s Ultimate Demands for Peace in Ukraine?",
+    "title_zh": "普京对乌克兰和平的终极要求是什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-are-putins-ultimate-demands-for-peace-in-ukraine",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The article dissects the stalemate that has defined the Russia‑Ukraine conflict for nearly four years, spotlighting the starkly divergent demands of Moscow and Kyiv. It chronicles the emergence of two competing peace frameworks—Trump‑backed Witkoff’s 28‑point plan and Rubio‑led 19‑point proposal—each tailored to the interests of one side. By weaving in insider reports, leaked recordings, and expert commentary, the piece illuminates why Putin insists on a permanent denial of Ukrainian sovereignty and NATO accession, while Kyiv seeks West‑backed security guarantees. It also contextualizes Russia’s economic pressures, declining oil revenue, and recruitment woes, revealing a calculus that may compel Moscow to negotiate. The article underscores the fragility of any ceasefire absent a binding, multigenerational settlement and questions the durability of a NATO‑banned Ukraine. Ultimately, it offers a nuanced, data‑driven analysis of the geopolitical chess game that could shape Europe’s future stability.",
+    "summary_zh": "文章剖析俄乌冲突四年未变的僵局，聚焦普京与基辅的对立需求。通过两套和平方案的对比，揭示普京坚持否认乌克兰主权与北约加入的根源，并说明乌方对西方安全保障的渴求。结合内部消息与专家观点，阐述俄方经济压力与人力短缺可能促使其谈判的可能性。文章强调，除非达成具有法律约束力的多代方案，否则停火难以持久。",
+    "best_quote_en": "Russia will not be satisfied with anything less than an iron‑clad, generations‑long resolution to what the source called the “Ukrainian question.”",
+    "best_quote_zh": "俄罗斯不会满足于任何不如铁定、世代持续的解决方案，正如来源所称的“乌克兰问题”。"
+  },
+  {
+    "id": 280,
+    "title": "Apps for China Travel/Airline Stopovers/Unlimited Budget Flights",
+    "title_zh": "中国旅行必备应用、航班中转与无限预算机票",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/apps-for-china-travel-airline-stopovers-unlimited-budget-flights/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "写作内容"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The article stitches together practical travel hacks for China with a broader lens on cost‑saving strategies abroad, all wrapped in a light‑hearted, advisory tone. It starts by cataloguing the indispensable tech stack—VPNs, Airalo eSIMs, and other tools—to bypass China’s digital firewall, citing Kevin Kelly’s firsthand experience. It then pivots to a clever airline stopover trick: flying through a hub like Panama or Emirates to snag a free night in a foreign city, effectively turning a layover into a mini‑vacation. The piece takes a detour into eco‑responsible hospitality, urging travelers to choose resorts that cultivate native pollinators, thereby linking leisure with biodiversity preservation. Finally, it spotlights Frontier’s GoWild All‑You‑Can‑Fly Pass, framing it as a high‑risk, high‑reward investment for spontaneous flyers. The core insight is that savvy travelers can layer tech, logistics, and environmental consciousness to craft richer, more affordable journeys. The article’s mix of actionable advice and contextual nuance makes it a valuable resource for budget‑savvy, socially conscious globetrotters.",
+    "summary_zh": "文章以实用攻略为核心，先列出中国必备的VPN、eSIM等工具，随后提出通过中转城市免费停留的机票技巧，再引入生态友好型酒店与蜂群保护，最后评估Frontier航空的无限飞行通行证。整体呈现技术、成本与环保的多维旅行策略，适合预算有限且关注可持续的旅者。",
+    "best_quote_en": "It’s a crazy good deal that would be worth taking a gamble on because you can start using it this year and keep using it through Spring of 2027.",
+    "best_quote_zh": "Airalo eSIM 可能消除额外步骤的需求，因为它已内置。"
+  },
+  {
+    "id": 281,
+    "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
+    "title_zh": "如何重塑大脑并加速学习 | 迈克尔·基尔加德博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-rewire-your-brain-and-learn-faster-dr-michael-kilgard",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-08-11",
+    "summary_en": "In this episode, neuroscientist Dr. Michael Kilgard demystifies the mechanics of neuroplasticity, revealing how alertness, focused effort, post‑learning reflection, and sleep collectively forge lasting neural rewiring. He dissects the roles of key neuromodulators—dopamine, acetylcholine, serotonin, norepinephrine—in learning, and translates these biochemical insights into concrete behavioral steps. The discussion extends beyond cognition to therapeutic interventions such as vagal nerve stimulation (VNS) for tinnitus, stroke, PTSD, and paralysis, underscoring the clinical relevance of plasticity science. Kilgard’s narrative blends rigorous research with practical guidance, offering a roadmap for individuals aiming to accelerate skill acquisition, enhance memory, or rehabilitate motor function. The episode balances depth with accessibility, making complex neurobiological concepts actionable for learners, clinicians, and anyone curious about the brain’s adaptive capacity. It invites listeners to view learning not as a static endpoint but as a dynamic, modifiable process shaped by deliberate practice and optimal rest.",
+    "summary_zh": "本期节目由神经科学家基尔加德博士阐释神经可塑性的机制，强调警觉、专注、反思与睡眠如何共同塑造大脑重构。他解析多巴胺、胆碱能、血清素与去甲肾上腺素在学习中的作用，并将理论转化为可操作的行为步骤。节目还探讨迷走神经刺激（VNS）在治疗耳鸣、卒中、创伤后应激障碍和瘫痪等方面的临床应用，展示可塑性科学的实际价值。内容兼具深度与易懂性，为希望加速学习、提升记忆或康复运动功能的听众提供可落地的策略。",
+    "best_quote_en": "Neuroplasticity requires alertness, effortful focus, post‑learning reflection and sleep.",
+    "best_quote_zh": "神经可塑性需要警觉、努力专注、学习后的反思和睡眠。"
   }
 ]
