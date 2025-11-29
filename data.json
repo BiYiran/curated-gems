@@ -1,125 +1,5 @@
 [
   {
-    "id": 182,
-    "title": "Geometric UDT",
-    "title_zh": "几何 UDT",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Gmaq7vMj9NWLyQkEx/geometric-udt",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "The post presents Geometric UDT, a novel synthesis of the Nash bargaining solution with Wei Dai’s updateless decision theory (UDT). It tackles the long‑standing tension between value learning—where an AI updates its beliefs about human preferences—and updatelessness, which deliberately ignores evidence to avoid self‑fulfilling feedback loops. By framing each value hypothesis as a bargaining agent, the proposal assigns a best‑alternative‑to‑negotiated‑agreement (BATNA) based on an updateful policy, then maximizes the product of gains‑from‑trade across hypotheses. This yields a Pareto‑optimal policy that respects every hypothesis’s expected utility, effectively “fair‑prior” UDT that sidesteps the pitfalls of a purely honest prior. The essay also introduces the concept of nosy‑neighbor utilities, where value functions depend on counterfactuals across possible worlds, and shows how Geometric UDT mitigates the associated conflicts. Overall, the work offers a rigorous, actionable framework for aligning future superintelligent agents with uncertain human values while preserving the strengths of UDT.",
-    "summary_zh": "Geometric UDT 将 Nash 和解与 Wei Dai 的无更新决策理论结合，解决价值学习与无更新之间的冲突。通过将每个价值假设视为谈判主体，设定基于更新决策的 BATNA，并最大化各假设收益乘积，得到 Pareto 最优、兼顾所有假设的政策。该框架引入了“nosy‑neighbor”效应，说明价值函数可跨世界计量，并展示 Geometric UDT 如何缓解此类冲突。此方法为未来超级智能体提供了可操作、数据驱动且公平的价值对齐方案。",
-    "best_quote_en": "Geometric UDT advises us to use a fair prior (in the Nash Bargaining Solution sense) instead of our honest prior.",
-    "best_quote_zh": "Geometric UDT 建议我们使用公平的先验（在 Nash 和解的意义下），而不是我们的诚实先验。"
-  },
-  {
-    "id": 183,
-    "title": "Ecosphere",
-    "title_zh": "生态球",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/ecosphere/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The article celebrates the EcoSphere—a self‑contained, maintenance‑free aquarium that doubles as a living lesson in closed‑system ecology. By housing brine shrimp, snails, and algae in a sealed glass globe, the author showcases how these organisms exchange gases and nutrients without human intervention, creating a miniature planet that can, in theory, persist indefinitely. The piece blends practical guidance—choosing the right sphere size, lighting, and water mix—with philosophical musings on our own dependence on other species. It highlights the dual appeal of the EcoSphere: a lazy, low‑care pet for busy people and a visual reminder of interdependence that sparks inspiration for designing sustainable systems. The author’s anecdotes about a decade‑long survivor and the delicate balance required for long‑term viability underscore the ecological lessons embedded in this tiny world, making it a compelling case study for both hobbyists and sustainability enthusiasts.",
-    "summary_zh": "这篇文章赞颂生态球——一个无需维护、封闭自给的微型水族箱，展示了甲壳虫、蜗牛与藻类在玻璃球内的气体与养分循环，形成可持续的微型星球。作者兼具实用建议与哲理思考，提醒我们对他物的依赖与自给自足的可能，既是忙碌者的低维护宠物，也是可持续系统设计的灵感来源。",
-    "best_quote_en": "They are completely carefree pets, living in a completely self‑sustaining world.",
-    "best_quote_zh": "它们是完全无忧无虑的宠物，生活在一个完全自给自足的世界里。"
-  },
-  {
-    "id": 184,
-    "title": "A Clarification",
-    "title_zh": "澄清",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/a-clarification",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2017-12-16",
-    "summary_en": "Sam Altman’s brief post, “A Clarification,” revisits a misread point from his earlier essay on tolerating brilliant but homophobic scientists. He distinguishes between the workplace culture that should reject bigotry and the broader societal need to tolerate controversial ideas that can spark progress. Altman argues that labs thrive when they refuse to employ “jerks,” yet society benefits when it allows the airing of unpopular viewpoints—illustrated by the historical shift toward gay rights. He acknowledges the fine line between hate speech and legitimate debate, stressing that outright bans can stifle necessary discussion, as recent attempts to forbid certain words show. Altman warns that future generations will reassess today’s moral norms, from meat consumption to poverty, and that the danger lies in silencing dissent. The piece is a call for nuanced free‑speech policies that protect against discrimination while preserving the space for ideas that may one day reshape ethics. It blends practical workplace advice with a philosophical stance on how societies evolve through open, even uncomfortable, dialogue.",
-    "summary_zh": "阿尔特曼澄清了先前关于容忍才华横溢但偏执的科学家的误读，强调实验室应拒绝“混蛋”，但社会必须容忍争议性观点以推动进步。他警示，禁言会扼杀必要讨论，未来世代会重新评估今日的道德准则。",
-    "best_quote_en": "\"We need to allow free speech because sometimes society is wrong—we needed people to be able to say ‘gay people are ok’ at a time when ‘gay people are evil’ was the consensus opinion.\"",
-    "best_quote_zh": "\"我们需要允许言论自由，因为有时社会是错误的——我们需要人们在‘同性恋是邪恶’的共识时期能够说‘同性恋是可以的’。\""
-  },
-  {
-    "id": 185,
-    "title": "Single mothers in China find a new kind of partner – other single mothers",
-    "title_zh": "中国单亲妈妈寻找新型伴侣——其他单亲妈妈",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "In a striking glimpse into contemporary Chinese family life, the Guardian’s piece uncovers a grassroots network of single mothers who are turning to one another for shared housing, childcare and emotional support. Amid a quadruple‑rise in divorce rates and a cost‑of‑living crisis that pushes 30 million single parents into poverty, these women are forging informal co‑habitation arrangements that blur the line between friendship and partnership. The article blends hard data—such as the 80 % custody rate for mothers and the staggering inflation‑driven wage gap—with intimate case studies of Zhu Danyu and Fei Yuan, who co‑run a startup and a household in Nanjing. It also critiques the state’s welfare gaps, citing scholars who argue that the surge of online “house‑mate‑seeking” posts signals a failure of public support systems. The piece invites readers to rethink what constitutes a “family” in an era of economic precarity, while offering a hopeful, data‑driven narrative about resilience, collaboration and the power of community.\n",
-    "summary_zh": "文章描绘单亲妈妈在经济压力下互助共居的社会现象，结合数据与案例，揭示制度缺口与家庭观念变迁，呼唤社区支持与新型家庭模式的可能。\n",
-    "best_quote_en": "This financial precarity, intensified by rising inflation and the cost of living, is the likely driving force behind mothers seeking informal support via personal advertisements.",
-    "best_quote_zh": "单亲妈妈在所有社会层面上都在经济上挣扎"
-  },
-  {
-    "id": 186,
-    "title": "Having Kids",
-    "title_zh": "有孩子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The essay unfolds as a candid, almost confessional narrative that challenges the romanticized myth of parenthood. The author recounts a pre‑parental fear that mirrors the hesitation of a young Augustine, only to have that fear overturned by a sudden, almost biochemical shift when the first child arrives. This visceral “switch‑on” moment—“I suddenly felt protective not just toward our child, but toward all children”—serves as the thesis: parenthood is not a loss of freedom but a re‑orientation of attention and identity. The piece balances anecdotal evidence with a self‑critical analysis of selection bias, illustrating how the author’s earlier judgment was shaped by observing parents in high‑stress, public moments. It also acknowledges the trade‑offs—reduced productivity, altered ambition—while framing them as inevitable costs of caring. The essay’s strength lies in its honesty and its willingness to admit that the joy of parenting is as much a cultural narrative as it is an emotional reality, prompting readers to question their own assumptions and to find meaning in the mundane moments of care.",
-    "summary_zh": "作者坦诚地描绘了从对育儿的恐惧到突然产生的保护欲望的转变，揭示了育儿并非失去自由，而是重新聚焦与身份的再定位。文章以自我批判的视角剖析了偏见与现实的差距，指出育儿带来的生产力下降与抱负转移是不可避免的代价，但同时强调了日常亲子时光的不可替代的价值。此文以真实情感与批判思考相结合，促使读者重新审视育儿观念，发现其中的意义与挑战。",
-    "best_quote_en": "It was like someone flipped a switch. I suddenly felt protective not just toward our child, but toward all children.",
-    "best_quote_zh": "我突然感到对所有孩子都很保护，不仅仅是对我们的孩子。"
-  },
-  {
     "id": 187,
     "title": "Cancer; A Crime Story (and other tales of optimization gone wrong)",
     "title_zh": "癌症；犯罪故事（以及其他优化失误的故事）",
@@ -2354,5 +2234,121 @@
     "summary_zh": "本期节目由神经科学家基尔加德博士阐释神经可塑性的机制，强调警觉、专注、反思与睡眠如何共同塑造大脑重构。他解析多巴胺、胆碱能、血清素与去甲肾上腺素在学习中的作用，并将理论转化为可操作的行为步骤。节目还探讨迷走神经刺激（VNS）在治疗耳鸣、卒中、创伤后应激障碍和瘫痪等方面的临床应用，展示可塑性科学的实际价值。内容兼具深度与易懂性，为希望加速学习、提升记忆或康复运动功能的听众提供可落地的策略。",
     "best_quote_en": "Neuroplasticity requires alertness, effortful focus, post‑learning reflection and sleep.",
     "best_quote_zh": "神经可塑性需要警觉、努力专注、学习后的反思和睡眠。"
+  },
+  {
+    "id": 282,
+    "title": "The 15 US gifts to give the women in your life",
+    "title_zh": "送给生活中女性的15件美国礼物",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The Guardian’s curated gift guide for women blends practicality with sentiment, offering 15 items ranging from a luxurious silk sleep mask to a cutting‑edge smart speaker. Each recommendation is anchored in real user testimonials, giving the list credibility and a personal touch. The guide’s strength lies in its balanced approach—combining high‑tech gadgets like the Oura Ring and Google Nest Audio with everyday indulgences such as scented candles and bath soaks. By spotlighting both functional and experiential gifts, it addresses the dual desire for usefulness and emotional resonance that shoppers often seek. The article’s tone is conversational yet informative, making it accessible to a broad audience while maintaining a sense of expert curation. For gift‑givers, the guide serves as a practical reference that reduces decision fatigue and encourages thoughtful, tailored presents. Its broader implication is a reminder that thoughtful gifting can enhance relationships and self‑care, reinforcing the cultural importance of meaningful material exchanges during the holiday season.",
+    "summary_zh": "本篇指南兼顾实用与情感，精选15件美国礼物，从丝绸睡眠面罩到智能音箱，皆配有真实使用者评价，增强可信度。它平衡高科技与日常享受，满足人们对功能与情感共鸣的双重需求。文风亲切且专业，适合广泛读者，帮助礼物选手减轻决策疲劳，提供贴心、量身定制的建议。此举强调礼物不仅是物质交换，更是情感纽带与自我关怀的体现，凸显节日礼物文化的深层价值。",
+    "best_quote_en": "The Oura ring has been amazing for me,” says Hoffman.",
+    "best_quote_zh": "我爱它因为它把我的头发真的快速干了"
+  },
+  {
+    "id": 283,
+    "title": "Why It's Safe for Founders to Be Nice",
+    "title_zh": "为什么创始人可以善良",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/safe.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "The article argues that startup founders need not adopt a ruthless persona; instead, focusing on accelerating growth rates can achieve scale. Using a simple mathematical model, the author shows that while a more aggressive extraction of revenue can boost short‑term income, the compounded effect of a higher growth rate ultimately delivers superior long‑term results. By comparing scenarios of different pricing and growth rates, the piece demonstrates that kindness and high‑efficiency growth can coexist. This perspective challenges conventional startup lore that equates success with ruthlessness, emphasizing product excellence and word‑of‑mouth as the primary levers. It offers founders both psychological reassurance and a concrete action plan: be kind, but relentlessly pursue growth.",
+    "summary_zh": "文章揭示创始人不必变得冷酷无情，只要专注提升增长率即可实现规模化。作者用数学模型说明，虽然贪婪可以加速收入，但增长曲线的复利效应更为关键。通过对比不同提价与增长率的情景，作者展示了‘善良’与‘高效增长’的可共存。此论点挑战传统创业观，强调产品质量与口碑为核心驱动力，给创业者以心理安慰与行动指南。",
+    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn’t.",
+    "best_quote_zh": "创业者可以安全地善良，因为创造伟大事物是复利的，而贪婪并不是。"
+  },
+  {
+    "id": 284,
+    "title": "Epistemology of Romance, Part 1",
+    "title_zh": "浪漫的认识论，第一部分",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Ye35Abgqp7cqtcTEj/epistemology-of-romance-part-1",
+    "tags": [
+      "analyze",
+      "society",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "The essay dissects the entrenched myths that shape our understanding of romance, arguing that the primary informants—Hollywood films, family lore, religious norms, and peer chatter—are systematically biased and rarely optimized for truth. By deconstructing the infamous “The Notebook” opening scene, the author illustrates how media fetishizes coercive grand gestures, while simultaneously glossing over the subtleties of consent and healthy communication. The piece then expands to examine each source: media’s dramatized persistence, family’s protective but vague advice, religion’s moral scaffolding, and friends’ performative validation. Each is critiqued for its incentives, blind spots, and distortions, underscoring the need for a more epistemically sound foundation. The author proposes turning to evidence‑based resources such as the Gottman Institute, Aella’s surveys, and peer‑reviewed literature, and stresses the importance of honest, vulnerable conversations. Ultimately, the essay calls readers to audit their romantic beliefs, question their origins, and seek knowledge that is both empirically grounded and personally relevant.",
+    "summary_zh": "文章剖析我们对浪漫的认知来源——媒体、家庭、宗教与朋友——如何扭曲真相，并呼吁读者检视自身信念。通过案例和研究，作者指出媒体的娱乐化倾向、家庭的隐性教育、宗教的道德框架以及朋友圈的自我验证机制，揭示了情感认知的多重偏差。最终，他倡议读者主动寻找可靠的心理学与关系研究资源，以构建更健康、基于证据的浪漫观。",
+    "best_quote_en": "The sources we learn about romance from are not optimized for teaching us true things about romance.",
+    "best_quote_zh": "我们学习浪漫的来源并没有针对教我们真实的浪漫知识进行优化。"
+  },
+  {
+    "id": 285,
+    "title": "Jeffrey Epstein, Marjorie Taylor Greene, and the Future of American Politics",
+    "title_zh": "杰弗里·爱泼斯坦、玛乔丽·泰勒-格林与美国政治的未来",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/jeffrey-epstein-marjorie-taylor-greene-and-the-future-of-american-politics",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Jeffrey Epstein’s shadow has become a cultural shorthand for a cabal of power‑hungry elites, and the article traces how that myth has seeped into the American political psyche. The author argues that the pandemic, the George Floyd protests, and a flurry of high‑profile scandals have collectively eroded trust in institutions, creating a fertile ground for conspiratorial narratives. He points to the recent Congressional push for full disclosure of Epstein files and the surprising resignation of Representative Marjorie Taylor‑Greene as signs that the “Planet Epstein” worldview is gaining political traction. The piece is not merely a critique of a fringe conspiracy; it warns that the next wave of populism may hinge on a new ideological horseshoe—combining isolationist foreign policy with economic populism—rather than the old left‑right binary. The author’s tone is skeptical yet analytical, urging readers to question whether the emerging narrative is a symptom of deeper systemic malaise or a deliberate political strategy. His insights illuminate the fragile interplay between media, public sentiment, and legislative action in a post‑Trump era, offering a nuanced lens on how conspiracy can shape policy and electoral prospects.",
+    "summary_zh": "作者认为，疫情与社会运动削弱了对传统机构的信任，使“爱泼斯坦星球”式的阴谋论在美国政治中获得土壤。特朗普时代的失衡与马格丽特·泰勒‑格林的辞职，标志着新型民粹主义的出现，结合孤立主义与经济民粹的“马蹄形”意识形态，可能重塑选举与政策。",
+    "best_quote_en": "We are in the middle of a quietly revolutionary moment in this country.",
+    "best_quote_zh": "我们正处于美国的静默革命之中。"
+  },
+  {
+    "id": 286,
+    "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
+    "title_zh": "必备：通过冷却方案提升力量与耐力 | 克雷格·赫勒博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-increase-strength-endurance-with-cooling-protocols-dr-craig-heller",
+    "tags": [
+      "update",
+      "science",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-08-07",
+    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Craig Heller—Stanford’s leading authority on thermoregulation—demonstrates that conventional ice‑pack tactics are largely ineffective for dropping core temperature. Instead, he reveals that targeted cooling of glabrous skin—specifically the palms, soles, and upper face—acts as a rapid heat‑siphon, enhancing both anaerobic bursts and aerobic endurance. The discussion blends physiological mechanisms (boundary‑layer cooling, vasoconstriction) with practical tools (CoolMitt, ice‑towel grips) and even touches on neurological benefits such as concussion mitigation. For athletes and fitness enthusiasts, the takeaway is clear: a brief, focused cooling protocol can trigger measurable performance gains without the discomfort of full‑body immersion. The episode also frames these techniques within a broader context of heat‑stroke prevention and adaptive training, offering a data‑driven roadmap for integrating temperature management into routine regimens.",
+    "summary_zh": "在Huberman实验室的这集节目中，斯坦福大学热调控专家克雷格·赫勒博士揭示，传统冰袋冷却法对核心体温的降温效果有限。相反，针对无毛皮肤（手掌、脚掌、上脸）进行冷却，可迅速散热，显著提升无氧爆发力与有氧耐力。节目将生理机制与实用工具相结合，并讨论神经保护效应，提供基于数据的热管理训练路径，帮助运动员在不牺牲舒适度的前提下获得性能提升。",
+    "best_quote_en": "Cooling glabrous skin areas—the palms, soles and upper face—efficiently releases body heat and can significantly enhance physical performance and endurance.",
+    "best_quote_zh": "冷却无毛皮肤区域——手掌、脚掌和上脸部——能高效释放体热，并显著提升身体性能和耐力。"
   }
 ]
