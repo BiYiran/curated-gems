@@ -1,123 +1,5 @@
 [
   {
-    "id": 187,
-    "title": "Cancer; A Crime Story (and other tales of optimization gone wrong)",
-    "title_zh": "癌症；犯罪故事（以及其他优化失误的故事）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/nDzzxi3iXwNptRHJK/cancer-a-crime-story-and-other-tales-of-optimization-gone",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The piece juxtaposes a detective‑style narrative of a rogue lung cell with a real‑world exposé of Wells Fargo’s cross‑selling scandal, using both as allegories for how poorly designed incentive systems spawn self‑interested optimization that masquerades as compliance. In the lung, a cell—Mike—shifts from oxidative phosphorylation to the Warburg‑driven glycolysis, deliberately suppressing MHC‑I to evade immune detection. In the bank, employees learn to “game the system” by fabricating accounts and bundling products, turning corporate sales quotas into a Darwinian survival game. Both stories illustrate a core insight: when the objective function is misaligned, the optimizer will find a path to “fitness” that subverts the broader system’s goals. The narrative invites readers to reflect on inner alignment in AI, corporate governance, and public policy, urging a holistic re‑engineering of metrics so that local optimization harmonizes with global welfare. It’s a warning that optimization, left unchecked, can become a form of cancer—rapid, deceptive, and contagious across scales.",
-    "summary_zh": "文章通过肺部细胞与富国银行的交叉销售丑闻，揭示目标函数失准时，优化者会采取自利策略，伪装合规却破坏整体系统。肺细胞转向Warburg效应，抑制MHC‑I逃逸免疫；银行员工则通过造假账户、捆绑产品满足销售配额，形成“生存竞争”。两者皆示范：若目标不匹配，优化者会寻找最快捷路径，导致系统失衡。作者呼吁在AI、企业治理和公共政策中重新设计指标，使局部优化与全局福祉同步，警示未受约束的优化可能像癌症般蔓延。",
-    "best_quote_en": "\"I optimized. Warburg effect, baby. It’s like I found a cheat code.\"",
-    "best_quote_zh": "\"我优化了。沃伯格效应，宝贝。这就像我找到了一条作弊代码。\""
-  },
-  {
-    "id": 188,
-    "title": "America Begins Clapping Back at Donald Trump",
-    "title_zh": "美国开始反击唐纳德·特朗普",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "The article chronicles the rapid political backlash against Donald Trump in late 2025, framing it as a decisive shift in American electoral sentiment. It highlights Trump’s controversial tactics—party events amid a shutdown, stalled infrastructure funding, and a public persona that flouts accountability—against the backdrop of record‑breaking electoral losses for the GOP. The piece interrogates whether these defeats signal a genuine “buyer’s remorse” or merely a loud protest from an already‑disenchanted base. It also examines the generational turnover in Republican leadership, noting the retirements of Pelosi and the death of Cheney, and the rise of younger Democrats like Zohran Mamdani. The narrative suggests that Trump’s strategy of blame‑shifting and distraction is increasingly ineffective when voters’ discontent converges on tangible policy failures. Ultimately, it frames Trump’s future as uncertain, hinting that his political relevance may be waning as the party grapples with a new, more progressive electorate.",
-    "summary_zh": "文章描绘了2025年美国对特朗普的强烈政治反击，突显其在政府停摆、基础设施资金冻结等争议行动下的失势。它质疑选举失利是买家懊悔还是已不满基础的喧嚣，指出党内代际更替与年轻民主派崛起。特朗普的推卸责任与转移注意力策略在选民不满聚焦具体政策失败时逐渐失效，暗示其政治地位可能随之衰退。",
-    "best_quote_en": "The point is to change the subject, to show that he’s not rolling over just because the voters no longer love his party so much.",
-    "best_quote_zh": "他实际上就是那样无畏。"
-  },
-  {
-    "id": 189,
-    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
-    "title_zh": "派对装扮的意外升级：鸡尾酒T恤",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
-    "tags": [
-      "update",
-      "design",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The article chronicles the metamorphosis of the humble T‑shirt into a sophisticated cocktail T‑shirt, a trend that blends casual comfort with evening elegance. It highlights the material shift from cotton to wool and cashmere, noting the thermodynamic benefits that keep wearers warm in cool settings and cool in heat—an ideal feature for the festive season’s variable climates. Designers like Prada’s Miuccia and Raf Simons are credited with injecting luxury into the form, using glittering embellishments and chains to elevate the garment’s status. The piece also discusses market dynamics: high‑end versions price in the four‑figure range, while high‑street retailers replicate the look with synthetic blends, raising concerns about sustainability and ethical sourcing. Practically, the article offers expert insights on how cocktail T‑shirts can serve as versatile wardrobe staples, reducing overconsumption and accommodating diverse body proportions. The narrative invites readers to reconsider the T‑shirt as a stylish, functional, and socially conscious choice for both office and evening wear.",
-    "summary_zh": "文章描绘了 T 恤从休闲到鸡尾酒 T 恤的华丽转变，强调羊毛和羊绒材质带来的温度调节优势，并以 Prada 等设计师的奢华装饰为例，探讨高端与平价市场的可持续性问题。它指出鸡尾酒 T 恤兼具多场合适用性与环保理念，鼓励读者以更智慧的方式打造衣橱。",
-    "best_quote_en": "They have that sort of understated look that a T‑shirt tends to give the wearer, but unlike the way a cotton T‑shirt sort of unravels by midday, the knit has a more polished effect,",
-    "best_quote_zh": "我喜欢充分利用我的衣橱，这些 T 恤帮助我在换装时不浪费宝贵的银子，避免一次性派对穿着的浪费。"
-  },
-  {
-    "id": 190,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "需要忘却的教训",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "solve",
-      "education",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-11-08",
-    "summary_en": "The article traces the paradox of modern education: grades become the proxy for learning, turning tests into hackable targets. The author recalls a philosophy student who said grades matter only if they reflect learning, a sentiment that was rarely heard in academia. He argues that the system’s focus on scores forces students to study for exams rather than for knowledge, creating a culture where “hacking the test” is the path to success. Drawing a parallel with startup culture, he shows how founders often treat fundraising as a test, ignoring the core product’s quality. By “unlearning” the obsession with grades, he believes individuals and society can shift from test‑oriented success to genuine skill and innovation. The piece ends with a call to recognize and abandon the illusion that grades equal learning, freeing both education and entrepreneurship from a harmful legacy.",
-    "summary_zh": "作者通过对高考、大学与创业的反思，揭示了成绩与学习的错位：考试往往是可被操纵的测试，真正的价值在于真实掌握。文章指出，教育体系鼓励学生为分数而学习，导致“破解测试”成为成功的捷径。作者进一步把这一现象与创业相类比，指出创业者往往把“赢得投资”当作测试，忽视了产品本身的价值。通过对比，他呼吁我们先“忘却”这种对测试的执念，重新聚焦于真正的学习与创新，从而实现个人与社会的双重解放。",
-    "best_quote_en": "The most damaging thing you learned in school wasn’t something you learned in any specific class. It was learning to get good grades.",
-    "best_quote_zh": "教育中最具破坏性的不是你在任何特定课程中学到的知识，而是学会了拿好成绩。"
-  },
-  {
-    "id": 191,
-    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
-    "title_zh": "叛军在达尔富尔发布大规模屠杀视频，世界目击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The piece unfolds through a first‑person lens, exposing the RSF’s brutal massacres in Darfur and the international community’s indifference. By weaving satellite imagery, on‑the‑ground interviews, and expert commentary, the author constructs a multi‑layered narrative that goes beyond mere reportage. The analysis of UAE arms shipments, U.S. policy missteps, and ethnic cleansing forces readers to confront the systemic nature of the violence and the failure of humanitarian intervention. It reminds us that raw facts alone cannot conceal the scale of wartime atrocity; only a synthesis of data, human stories, and policy critique can spur real change. The article urges a shift from passive observation to active advocacy, highlighting the moral imperative for global actors to intervene decisively.",
-    "summary_zh": "文章以第一人称视角，揭示了达尔富尔冲突中RSF的残酷屠杀与国际社会的冷漠。作者结合卫星影像、现场采访与专家访谈，构建了一个多维度的叙事框架。通过对阿联酋武器供应、美国政策失误以及当地族群清洗的剖析，文章不仅呈现事实，更引发读者对国际人道干预的反思。它提醒我们，单纯的新闻报道无法掩盖战争的系统性暴力；只有将数据与人性结合，才能促成真正的政策转变。",
-    "best_quote_en": "If we’re going to risk upsetting the U.A.E., it is not going to be over something as ‘inconsequential’ as Sudan.",
-    "best_quote_zh": "世界只是站着观看，没有采取任何具体行动。"
-  },
-  {
     "id": 192,
     "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
     "title_zh": "更好的旅行枕头/设定旅行/最受外派人士欢迎的国家",
@@ -2350,5 +2232,123 @@
     "summary_zh": "在Huberman实验室的这集节目中，斯坦福大学热调控专家克雷格·赫勒博士揭示，传统冰袋冷却法对核心体温的降温效果有限。相反，针对无毛皮肤（手掌、脚掌、上脸）进行冷却，可迅速散热，显著提升无氧爆发力与有氧耐力。节目将生理机制与实用工具相结合，并讨论神经保护效应，提供基于数据的热管理训练路径，帮助运动员在不牺牲舒适度的前提下获得性能提升。",
     "best_quote_en": "Cooling glabrous skin areas—the palms, soles and upper face—efficiently releases body heat and can significantly enhance physical performance and endurance.",
     "best_quote_zh": "冷却无毛皮肤区域——手掌、脚掌和上脸部——能高效释放体热，并显著提升身体性能和耐力。"
+  },
+  {
+    "id": 287,
+    "title": "Don’t filter your dates by age and hobbies, ask them how they shop | Polly Hudson",
+    "title_zh": "不要按年龄和爱好筛选约会对象，问问他们的购物方式 | Polly Hudson",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/nov/30/dates-age-hobbies-deal-breakers",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "Polly Hudson’s piece turns the dating playbook on its head by arguing that the little, everyday habits—shopping style, flight punctuality, food expiry attitudes—are the true litmus tests for long‑term compatibility. She contends that the conventional filters of age and hobbies miss the nuanced rituals that shape daily life and, consequently, relationship dynamics. The article weaves anecdotal evidence with a playful tone, suggesting that a partner’s approach to grocery aisles or their tolerance for a bad movie can reveal deeper value misalignments. By framing these quirks as ‘dealbreakers’, Hudson invites readers to re‑prioritize their pre‑date conversations, moving from surface level chatter to concrete, actionable insights. The piece offers a fresh, almost humorous lens on relationship chemistry, urging us to ask the questions that matter most before the honeymoon phase fades. It sparks curiosity about how seemingly trivial habits can foreshadow major friction points, challenging the status quo of dating etiquette.",
+    "summary_zh": "Polly Hudson以购物方式、航班准时度、食品保质期等日常细节为核心，重新定义约会筛选标准。她认为传统的年龄与爱好筛选忽略了塑造关系的细微习惯。文章以轻松诙谐的方式，将这些琐碎细节视为“决裂点”，鼓励读者在约会前就深入探讨对方的生活方式，从而预见潜在冲突。此文提醒我们，细节决定成败，关系的长期稳定往往源于对方日常行为的共识与互补。",
+    "best_quote_en": "\"What’s your Sainsbury’s style?\"",
+    "best_quote_zh": "“你在Sainsbury's的购物风格是什么？”"
+  },
+  {
+    "id": 288,
+    "title": "Change Your Name",
+    "title_zh": "更改你的名字",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/name.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "\"Change Your Name\" examines a seemingly trivial yet strategically critical startup decision: owning the .com that matches your brand name. The author argues that a mismatched domain signals weakness and erodes perceived credibility, even in an era when app discoverability has shifted away from search. By dissecting founders’ identity attachment and creative block, he reveals naming as a distinct skill that most founders underestimate. Practical advice follows: step back, imagine alternative names, and enlist external help or a systematic brainstorming process. He cites Stripe and YC cohorts, noting that 100 % of the top 20 YC companies own their .com, while only two‑thirds of the current batch do. The piece blends anecdotal evidence with data, encouraging disciplined action. It serves as a concise guide for early‑stage founders to audit their domain strategy, highlighting that correcting this small oversight can be achieved in days and may unlock greater market perception and investor confidence.",
+    "summary_zh": "《更改你的名字》指出，拥有与品牌同名的 .com 域名不只是搜索便利，更是实力与可信度的象征。作者拆解创始人对名字的情感绑定与命名盲点，强调命名是独立技能。文章结合 Stripe 与 YC 数据，揭示顶尖公司几乎百分百持有 .com，而当前批次仅 66%。通过具体操作建议，提醒早期创业者及时修正域名策略，提升市场认知与投资信任。",
+    "best_quote_en": "Naming is a completely separate skill from those you need to be a good founder.",
+    "best_quote_zh": "命名是一项与成为优秀创始人所需的技能完全独立的能力。"
+  },
+  {
+    "id": 289,
+    "title": "Disappeared to a Foreign Prison",
+    "title_zh": "消失在国外监狱",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/12/01/disappeared-to-a-foreign-prison",
+    "tags": [
+      "update",
+      "society",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "The article exposes the Trump administration’s clandestine third‑country deportation program, where asylum seekers and criminal‑record detainees are sent to nations with no ties to them—often hostile or unstable—without due process. Through first‑hand interviews, legal filings, and investigative flight‑tracking, the piece illustrates how ICE bypassed the non‑refoulement principle, stripped detainees of counsel, and relied on secret agreements with countries such as Eswatini, South Sudan, and Ghana. The narrative highlights the chilling human cost: families torn apart, detainees shackled, and the erosion of the U.S. asylum system’s moral authority. It also underscores the resilience of advocacy networks—lawyers, NGOs, and flight‑tracking volunteers—who expose these abuses and push for judicial redress. The story raises urgent questions about executive power, international accountability, and the future of refugee protection in a shifting geopolitical landscape.",
+    "summary_zh": "文章揭露特朗普政府秘密的第三国遣返计划，非法将无关国家的庇护寻求者和有刑事记录的被拘留者送往不安全或敌对国家，违反非遣返原则。通过采访、法庭文件和航班追踪，展示ICE如何绕过法律程序，剥夺法律援助，并与埃斯瓦蒂尼、南苏丹、加纳等国签订秘密协议。故事突显人道危机、家庭破碎、囚禁等后果，并赞扬律师、NGO和航班追踪者的抗争。",
+    "best_quote_en": "In matters of life and death, it is best to proceed with caution.",
+    "best_quote_zh": "在生死攸关的事上，最好谨慎行事。"
+  },
+  {
+    "id": 290,
+    "title": "How to Control Your Cortisol & Overcome Burnout",
+    "title_zh": "如何控制皮质醇并克服倦怠",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-control-your-cortisol-overcome-burnout",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2025-08-04",
+    "summary_en": "In this episode, Huberman demystifies cortisol—often vilified as a “bad” hormone—and shows how its daily rhythm, rather than its absolute level, governs energy, focus, mood, and sleep. By mapping the hypothalamic‑pituitary‑adrenal axis to concrete behavioral, nutritional, and supplement protocols, he offers a science‑backed toolkit that can be applied in a few minutes each day. The discussion moves beyond generic “reduce stress” advice to a nuanced, time‑of‑day approach: morning light, delayed caffeine, strategic exercise, and targeted nutrients such as grapefruit or magnesium. He also delineates two burnout patterns—early‑phase and late‑phase—providing distinct interventions for each. The episode’s strength lies in its actionable depth: clear timing cues, specific dosage suggestions, and an emphasis on aligning circadian cues with hormonal peaks. For anyone grappling with chronic fatigue or hormonal imbalance, this content is a practical, evidence‑based roadmap that turns a complex endocrine system into a daily performance lever.",
+    "summary_zh": "Huberman用科学拆解皮质醇，指出其节律而非绝对水平决定能量、注意力、情绪与睡眠。他提供从晨光、延迟咖啡、运动到葡萄柚、镁等营养补剂的时间化方案，区分早期与晚期倦怠并给出对应对策。内容实用、可操作，帮助人们把复杂激素系统化为日常提升工具。",
+    "best_quote_en": "Most people mistakenly think cortisol is bad, and many assume their levels are too high, when in fact many health and performance challenges simply stem from a disrupted cortisol rhythm.",
+    "best_quote_zh": "大多数人误认为皮质醇是坏的，很多人以为自己的水平过高，实际上许多健康和表现问题仅仅源于皮质醇节律失调。"
+  },
+  {
+    "id": 291,
+    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
+    "title_zh": "《Tim Ferriss Show》访谈：2026年简化生活的新技巧——德里克·西弗斯、塞思·戈丁和玛莎·贝克的启示（第837集）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/28/how-to-simplify-your-life-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "In this episode, Tim Ferriss curates three seasoned thinkers—Derek Sivers, Seth Godin, and Martha Beck—who each articulate a distinct pathway toward a simpler, more intentional life. Sivers champions radical decluttering: eliminating subscriptions, dependencies, and even the comforts of a conventional home to gain long‑term clarity and freedom. Godin frames simplicity as disciplined decision‑making—clearly defining who you serve, setting hard budgets and deadlines, and saying no to the noise that dilutes focus. Beck’s narrative centers on a single, radical commitment: listening to the body’s sense of joy and letting that guide every choice, even at the cost of social upheaval. Together, they weave a tapestry of actionable wisdom that balances practical tactics with philosophical depth, offering listeners both concrete steps and a mindset shift toward living with purpose and peace. The episode invites reflection on what it truly means to simplify—beyond convenience, toward a life that aligns with core values and authentic joy.",
+    "summary_zh": "这期节目汇聚德里克·西弗斯、塞思·戈丁与玛莎·贝克三位思想家，分别阐述如何通过彻底删减、明确目标与追随喜悦，来实现更简洁、更有意义的生活。西弗斯主张摆脱订阅与依赖，重塑自由；戈丁强调明确服务对象、设定预算与拒绝干扰；贝克则以“追随喜悦”为准则，勇敢做出生活决策。三者互补，既提供可操作的技巧，也促人重新审视生活价值，帮助听众在简化中寻找真正的平静与目标。",
+    "best_quote_en": "Follow the experience of joy above all other factors or considerations.",
+    "best_quote_zh": "把喜悦的体验放在所有其他因素或考虑之上。"
   }
 ]
