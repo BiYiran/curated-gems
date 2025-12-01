@@ -1,97 +1,5 @@
 [
   {
-    "id": 192,
-    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
-    "title_zh": "更好的旅行枕头/设定旅行/最受外派人士欢迎的国家",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "The piece blends practical travel hacks with data‑driven insights, offering a concise guide for frequent flyers and expats alike. It opens with a critique of conventional airport pillows and showcases a versatile, inflatable Modern Age pillow that doubles as a seat cushion and even a makeshift eye mask—an actionable tip that turns a simple accessory into a multi‑purpose solution. The pre‑packed toiletry kit demonstrates how to streamline packing by buying duplicate TSA‑friendly items, turning a stressful pre‑flight ritual into a repeatable routine. The author then pivots to Expedia’s annual travel trends, highlighting destinations that have surged in search volume and emerging patterns such as “salvaged stays” and “set jetting.” This data‑backed snapshot not only informs readers about where the market is heading but also invites them to consider niche travel experiences. Finally, the survey‑based list of top Asian expat destinations underscores the importance of convenience, connectivity, and community, revealing China’s unexpected rise in expat rankings. Overall, the article balances personal anecdotes with empirical evidence, encouraging readers to adopt practical tools while staying attuned to global travel currents.",
-    "summary_zh": "文章把旅行小技巧与数据洞察巧妙结合，既提供实用的枕头、洗漱套装建议，又用Expedia报告揭示热门目的地和新兴趋势，最后列出亚洲顶级外派国，提醒读者关注便利与社群。",
-    "best_quote_en": "Expedia and a few of its partner companies released their annual travel trends report recently and since this one is backed by search and booking data, it’s worth paying attention to for what’s really happening.",
-    "best_quote_zh": "Expedia 及其合作伙伴最近发布了年度旅游趋势报告，由于该报告基于搜索和预订数据，值得关注其真实动态。"
-  },
-  {
-    "id": 193,
-    "title": "E Pur Si Muove",
-    "title_zh": "E Pur Si Muove",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/e-pur-si-muove",
-    "tags": [
-      "analyze",
-      "tech-trends",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "技术趋势",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2017-12-14",
-    "summary_en": "The piece is a candid critique of Silicon Valley’s growing intolerance for controversial ideas, arguing that the very culture that fuels its success is under threat. The author recounts personal experiences in China and San Francisco, noting that even seemingly innocuous debates can feel hostile, and that the resulting self‑censorship stifles the radical thinking that historically drives breakthrough innovations. He warns that if the Bay Area continues to police discourse, it risks losing the brightest minds to more permissive environments, undermining startups that thrive on disruptive thinking. The essay invokes Newton, Galileo, and Bitcoin as historical examples of ideas once deemed heretical. The core insight is that innovation depends on the freedom to debate ideas, not merely to agree with consensus. By framing political correctness as a tool that can be weaponized, the author urges a recalibration of the startup ecosystem toward a culture where ideas—not people—are judged on merit.",
-    "summary_zh": "作者以在中国与旧金山的亲身经历为例，批评硅谷日益压制争议性思维，警示若持续限制言论，创新将受阻，顶尖人才将流失。",
-    "best_quote_en": "Restricting speech leads to restricting ideas and therefore restricted innovation—the most successful societies have generally been the most open ones.",
-    "best_quote_zh": "我不想让人们说‘gay people are evil’会让合理的人相信这句话是真实的，我更担心失去相反的观点——我们需要有人自由地说‘gay people are ok’来推动进步。"
-  },
-  {
-    "id": 194,
-    "title": "Emma Barnett says she felt ‘mugged, robbed’ after perimenopause at 38",
-    "title_zh": "艾玛·巴恩特称自己在38岁围绝经期感到‘被抢劫、被抢走’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/nov/07/emma-barnett-bbc-perimenopause",
-    "tags": [
-      "update",
-      "education",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "Emma Barnett’s candid reflection on her perimenopausal experience at 38 exposes a deeper cultural silence surrounding women’s midlife transitions. By describing the phase as a “mugging” that stripped her of identity, she forces listeners to confront the emotional and hormonal turbulence that is often dismissed as mere discomfort. The piece frames perimenopause not just as a medical milestone but as a societal shock, underscoring the lack of institutional support and the commercial exploitation of a knowledge gap. Barnett’s call for normalization and an “emergency number” highlights the urgent need for public health education, policy reform, and empathetic dialogue. The article invites us to rethink how media, medicine, and markets treat female aging, urging a shift from commodification to compassionate care. It is a timely reminder that personal narratives can catalyze systemic change.",
-    "summary_zh": "艾玛·巴恩特在38岁围绝经期的坦诚叙述揭示了社会对女性中年转型的沉默。她将这一阶段形容为“抢劫”，让人重新审视常被忽视的情绪与激素剧变。文章强调围绝经不仅是医学里程碑，更是社会冲击，指出现行支持缺失与市场对知识空白的剥削。她呼吁规范化与设立“紧急热线”，凸显公共卫生教育与政策改革的迫切需求。此篇提醒我们，个人故事能推动系统变革，促使媒体、医学与市场从商品化走向同理与关怀。",
-    "best_quote_en": "I do feel there has been a theft. I do feel there’s no emergency number to call. ‘I’d like to report a crime. Yeah, someone stole me.’",
-    "best_quote_zh": "我确实觉得有人偷走了我。没有紧急电话可以拨打。‘我想报案。是的，有人偷走了我。’"
-  },
-  {
-    "id": 195,
-    "title": "Novelty and Heresy",
-    "title_zh": "新颖与异端",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "The essay frames novelty as a double‑edged sword: every breakthrough sits beside a mistaken assumption that people cling to, and the very act of disproving that assumption invites accusations of heresy. By mapping the “dead zone” around a false belief, the author shows how the most fertile ground for ideas is hidden in the shadows of entrenched thinking. This perspective reframes the usual narrative of scientific progress—from linear discovery to a battle against ideological resistance—highlighting the psychological cost of challenging orthodoxy. The piece also offers a constructive takeaway: deliberately hunting heretical angles can turn a culture of suppression into a minefield of innovation. For practitioners, the insight is actionable—scrutinize the assumptions that dominate your domain, treat them as potential fault lines, and design experiments that expose them. The essay blends historical anecdotes (Galileo, Darwin) with a practical framework, making it a valuable resource for leaders, entrepreneurs, and scholars who grapple with the tension between stability and disruption.",
-    "summary_zh": "作者将创新视作双刃剑：突破往往与人们执着的错误假设相伴，揭露它们便会被指为异端。通过描绘“死区”，揭示最富潜力的想法隐藏在固有思维的阴影中。此视角将科学进步从线性发现转为对抗意识形态的斗争，凸显挑战正统的心理成本。作者也给出建设性建议：主动寻找异端视角，可将抑制文化转化为创新的矿脉。对实践者而言，洞见可操作——审视主导领域的假设，将其视为潜在断层，设计实验以揭示它们。",
-    "best_quote_en": "When you look at the question this way, the depressingly large dead zones around mistaken assumptions become excitingly large mines of new ideas.",
-    "best_quote_zh": "如果你发现新的东西，很可能会被指控犯有某种异端。"
-  },
-  {
     "id": 196,
     "title": "Where Our Engineering Education Went Wrong",
     "title_zh": "我们的工程教育出现了哪些问题",
@@ -2350,5 +2258,101 @@
     "summary_zh": "这期节目汇聚德里克·西弗斯、塞思·戈丁与玛莎·贝克三位思想家，分别阐述如何通过彻底删减、明确目标与追随喜悦，来实现更简洁、更有意义的生活。西弗斯主张摆脱订阅与依赖，重塑自由；戈丁强调明确服务对象、设定预算与拒绝干扰；贝克则以“追随喜悦”为准则，勇敢做出生活决策。三者互补，既提供可操作的技巧，也促人重新审视生活价值，帮助听众在简化中寻找真正的平静与目标。",
     "best_quote_en": "Follow the experience of joy above all other factors or considerations.",
     "best_quote_zh": "把喜悦的体验放在所有其他因素或考虑之上。"
+  },
+  {
+    "id": 292,
+    "title": "‘I was hooked’: the rise of the intrepid female solo traveller",
+    "title_zh": "我上瘾了：勇敢女性独自旅行者的崛起",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/travel/2025/nov/30/i-was-hooked-the-rise-of-the-intrepid-female-solo-traveller",
+    "tags": [
+      "inspire",
+      "science",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The Guardian piece charts a quiet revolution: older women and younger adventurers are redefining travel by stepping off the beaten path alone. 46 % of solo bookings for a major operator are now women, and stories from retirees like Linda, Claudia, and RoseMary illustrate how solo trips can be both liberating and deeply personal. The narrative weaves statistics with intimate anecdotes, revealing that the appeal lies in autonomy, self‑reflection, and the chance to reshape one’s identity beyond domestic roles. Yet the article also flags a practical hurdle—single‑supplement pricing that makes solo holidays costly for many seniors. It invites readers to reconsider the societal stigma around independent travel and to recognize that the trend is not a niche fad but a growing cultural shift toward self‑empowerment. The piece is inspiring, data‑driven, and offers a compelling case study for anyone curious about the future of leisure travel.",
+    "summary_zh": "文章描绘了女性独自旅行的崛起，统计显示女性占比已达46%。从退休摄影师到年轻冒险者，她们通过自我探索打破传统角色束缚，展现了旅行的自由与自我成长。作者指出单人补贴高昂是阻碍，呼吁社会重新审视独立旅行的价值。整体既有数据支持，又以真实故事激励读者，呈现未来生活方式的新趋势。",
+    "best_quote_en": "I try new things because I want to, not because I feel I have to.",
+    "best_quote_zh": "我试着做新事，因为我想做，而不是因为我觉得必须做。"
+  },
+  {
+    "id": 293,
+    "title": "What’s in my NOW? — Emma Christley",
+    "title_zh": "我的现在里有什么？—Emma Christley",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-emma-christley/",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "Emma Christley’s essay is a candid, almost diary‑like exploration of the everyday tools and habits that sustain her as a writer. She lists a mechanical keyboard, noise‑cancelling headphones, and a meticulously organized notebook ecosystem, each item serving as a small ritual that quiets the mental chatter and invites focused creation. The piece also touches on her recent binge of the classic ER series, framing it as a source of practical life lessons rather than mere entertainment. Her closing quote—“Your choices don’t have to make sense to anyone else”—encapsulates the core of the article: a celebration of personal agency over external validation. The essay is both inspirational and actionable, offering concrete, low‑tech solutions for anyone seeking to streamline their creative workflow while honoring their individuality.",
+    "summary_zh": "在这篇自传式文章中，Emma Christley 通过分享写作工具、阅读习惯和生活选择，揭示了创作与自我管理的微妙平衡。她的机械键盘、耳机和笔记本构成了专属的创作生态，提醒我们物质与心理的互补。更重要的是，她用一句简短却深刻的箴言提醒读者：选择不必为别人说得通。此文兼具启发性与可操作性，适合任何想提升写作效率与自我认知的人。",
+    "best_quote_en": "Your choices don’t have to make sense to anyone else.",
+    "best_quote_zh": "你的选择不必为别人说得通。"
+  },
+  {
+    "id": 294,
+    "title": "Essentials: ADHD & How Anyone Can Improve Their Focus",
+    "title_zh": "精华：ADHD 与任何人如何提升专注力",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-adhd-how-anyone-can-improve-their-focus",
+    "tags": [
+      "learn",
+      "medicine",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-07-31",
+    "summary_en": "In this episode of Huberman Lab Essentials, the host dives into the neurobiology of ADHD, spotlighting dopamine’s central role in focus regulation and how both pharmacologic and non‑pharmacologic strategies can recalibrate attention. By dissecting the circuitry that governs attention, working memory, and time perception, he lays out a framework that applies not only to ADHD patients but to anyone seeking sharper concentration. The discussion balances prescription stimulants—Ritalin, Adderall, Modafinil—with evidence‑based supplements (omega‑3s, phosphatidylserine, L‑tyrosine) and behavioral tools (visual focus training, smartphone limits). A key takeaway is the low‑dopamine hypothesis, suggesting that many focus deficits stem from insufficient dopamine signaling, which can be addressed through diet, sleep, and targeted cognitive exercises. The episode’s strength lies in its actionable, data‑driven guidance, yet it stops short of offering a step‑by‑step protocol, leaving listeners to tailor the concepts to their unique contexts. Overall, it bridges cutting‑edge neuroscience with practical habits, making it a valuable resource for clinicians, educators, and self‑improvement seekers alike.",
+    "summary_zh": "主持人从神经科学角度剖析 ADHD，强调多巴胺在注意力调节中的核心作用，并将药物与非药物方法结合，提供可操作的提升专注策略。此内容既适用于 ADHD 患者，也适合想提升注意力的普通人。",
+    "best_quote_en": "Dopamine plays a pivotal role in regulating and coordinating focus.",
+    "best_quote_zh": "多巴胺在调节和协调注意力方面起着关键作用。"
+  },
+  {
+    "id": 295,
+    "title": "How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
+    "title_zh": "简化你的生活在2026——来自Derek Sivers、Seth Godin和Martha Beck的新提示（#837）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/26/how-to-simplify-your-life/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "In this episode of The Tim Ferriss Show, Ferriss curates three thought leaders—Derek Sivers, Seth Godin, and Martha Beck—to distill the most actionable rules for life simplification in the coming year. Sivers champions a first‑principles mindset, urging listeners to strip away default settings, subscriptions, and dependencies, revealing how radical minimalism can free creative bandwidth. Godin frames simplification as disciplined focus: define a single audience, eliminate gray areas, and enforce hard boundaries that protect time and energy. Beck shares a personal narrative of a single, radical commitment that shifted her from anxiety to purpose, underscoring the power of joy‑driven decisions. Together, they weave a narrative that simplifies not just habits but the entire life architecture—removing noise, clarifying purpose, and creating space for intentional growth. The episode is a practical playbook for anyone seeking to reduce complexity, reclaim agency, and cultivate a life that feels both purposeful and effortless.",
+    "summary_zh": "在本期《Tim Ferriss Show》中，主角邀请三位思想领袖：Derek Sivers、Seth Godin与Martha Beck，共同探讨如何在2026年简化生活。Sivers强调以第一原理拆解默认设置，消除订阅与依赖；Godin则把简化视为纪律化的专注，明确目标并设定硬性边界；Beck以个人经历阐释单一决策如何从焦虑转向意义。三者交织的视角，帮助听众从习惯到整体架构去除噪音，澄清人生目标，腾出空间实现有意识的成长。",
+    "best_quote_en": "Simplify is the opposite of complex — not just a synonym for ‘easy.’",
+    "best_quote_zh": "简化是复杂的反面——不只是“简单”的同义词。"
   }
 ]
