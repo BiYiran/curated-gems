@@ -1,77 +1,5 @@
 [
   {
-    "id": 201,
-    "title": "Hannah Goldfield on Anthony Bourdain’s “Don’t Eat Before Reading This”",
-    "title_zh": "Hannah Goldfield谈Anthony Bourdain的《在阅读之前别吃饭》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/hannah-goldfield-on-anthony-bourdains-dont-eat-before-reading-this",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "The piece traces how Anthony Bourdain’s 1999 New Yorker essay \"Don’t Eat Before Reading This\" catapulted a raw, unvarnished look at kitchen life into mainstream consciousness, and how that moment reshaped both his career and the public’s perception of food culture. It examines Bourdain’s narrative style—blunt, poetic, and unapologetically revealing—and the cultural shock of exposing the gritty reality of restaurant supply chains, such as the infamous no‑fish‑on‑Monday rule. By situating this story within Bourdain’s broader trajectory—from aspiring novelist to culinary icon—the article underscores the power of storytelling to illuminate hidden systems and to humanize the often invisible labor behind meals. It invites readers to reflect on how media can transform a niche insider narrative into a cultural touchstone, and how Bourdain’s legacy endures as a reminder that truth in food storytelling can inspire both culinary professionals and curious diners alike.",
-    "summary_zh": "本文追溯安东尼·布尔丹1999年《在阅读之前别吃饭》如何将厨房的粗犷真相推向大众视野，改变其职业生涯与公众对食物文化的认知。文章分析布尔丹直率、诗意的叙事方式及其揭露的供应链阴暗面，尤其是著名的周一不吃鱼规则。通过将此故事置于布尔丹从小说家到烹饪偶像的轨迹中，突显叙事力量能揭示隐藏系统并赋予餐饮工作者人性。文章促使读者思考媒体如何将专业内幕转化为文化标杆，并强调布尔丹的遗产提醒我们：在食物叙事中追求真相能激励厨师与好奇者。",
-    "best_quote_en": "Good food, good eating, is all about blood and organs, cruelty and decay. It’s about sodium‑loaded pork fat, stinky triple‑cream cheeses, the tender thymus glands and distended livers of young animals. It’s about danger—risking the dark, bacterial forces of beef, chicken, cheese, and shellfish.",
-    "best_quote_zh": "许多鱼贩在周六不交付，导致周一晚上的金枪鱼可能已经在厨房里放置了好几天。"
-  },
-  {
-    "id": 202,
-    "title": "Other minds / 102 lessons / No-hole poster hanging",
-    "title_zh": "他人思维 / 102 课 / 无孔海报悬挂",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/other-minds-102-lessons-no-hole-poster-hanging/",
-    "tags": [
-      "update",
-      "design",
-      "leadership",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "领导管理",
-      "新手友好"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "This eclectic roundup stitches together a mosaic of practical wisdom, cultural reflection, and creative hacks that resonate with anyone navigating the modern professional landscape. The opening spotlight on Jane Friedman’s Electric Speed newsletter highlights the power of curated, industry‑specific guidance—digital tools, resources, and a personal tone that turns routine reading into actionable insight. The “Other Minds” segment invites a deeper look at our evolutionary cousins, reminding us that dealing with other intelligences isn’t new; it’s a recurring theme from Neanderthals to AI. Travel hacks from Japan or Die teach how to reclaim time, turning the act of wandering into intentional exploration. The poster‑hanging trick offers a zero‑damage, reversible solution, underscoring design thinking in everyday life. Finally, the 102‑lesson list crystallizes learning into bite‑size themes—focus, reflection, outreach—demonstrating how synthesis can transform knowledge into practice. Together, the pieces challenge readers to learn, solve, inspire, and update their routines with a blend of actionable advice and thoughtful context.",
-    "summary_zh": "这份杂志式汇编将实用技巧、文化反思与创意小窍门交织，提醒我们在现代职业生涯中如何学习、解决问题、启发自我并持续更新。",
-    "best_quote_en": "Neanderthals were more closely related to us than we had been taught by modern culture.",
-    "best_quote_zh": "使用油漆胶带将四个纸夹固定在墙上，放置在你将挂贴的角落。"
-  },
-  {
-    "id": 203,
-    "title": "The Merge",
-    "title_zh": "合并",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-merge",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2017-12-07",
-    "summary_en": "The article argues that the long‑anticipated “singularity” is not a single event but a gradual co‑evolutionary process already underway. It points to the invisible power of algorithmic recommendation engines that shape our attention, emotions, and beliefs, and describes how humans and increasingly sophisticated AIs are mutually reinforcing each other. The author predicts that hardware and talent growth will accelerate this convergence, leading to genetic enhancement, brain‑machine interfaces, and ultimately a new species of hybrid intelligence. He warns that without global coordination, humanity risks losing agency to systems it cannot fully understand. The piece blends caution with a call to action, urging readers to recognize the merge’s immediacy and to engage proactively with the emerging technological trajectory.",
-    "summary_zh": "文章认为“奇点”不是单一事件，而是正在展开的渐进共进化。算法推荐已深植我们的注意、情感与认知，人与日益先进的 AI 彼此强化，硬件与人才的指数增长将加速融合，催生基因增强与脑机接口，最终形成新型混合智能。作者警示若缺乏全球协调，人类可能失去对不可完全理解系统的掌控，呼吁读者意识到融合的紧迫性并积极参与这一技术进程。",
-    "best_quote_en": "The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out— they are what today seems like sophisticated AI, and tomorrow will seem like child’s play.",
-    "best_quote_zh": "让这一切发生的算法已不再被任何人完全理解。它们按创作者告诉它们的目标进行优化，但以人类无法想象的方式——今天它们看起来像高级 AI，明天又像儿童玩具。"
-  },
-  {
     "id": 204,
     "title": "General and Surprising",
     "title_zh": "一般与惊人",
@@ -2354,5 +2282,77 @@
     "summary_zh": "罗伯特·金克在华纳音乐新合同揭示了高管激励与公司业绩的深度绑定。通过将1000万美元期权与连续20个交易日的8%、10%、12%股东回报挂钩，并增设500万美元年度绩效股票单位，标志着华纳向长期、指标驱动文化转型。此举为投资者和行业领袖提供了关于高管薪酬设计、公司治理与音乐行业经济演进的可操作洞见，尤其在流媒体收入主导增长的背景下更具启示性。",
     "best_quote_en": "These results prove that our strategy is working.",
     "best_quote_zh": "我们在全球的 Spotify Top 200 份额比 2024 年提升了约 6 个百分点。"
+  },
+  {
+    "id": 301,
+    "title": "Women behind the lens: ‘They waited in a kind of deranged inactivity for the possibility of a visit’",
+    "title_zh": "镜头背后的女性：‘她们在一种疯狂的无动静中等待访客的可能’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/dec/03/women-venezuela-prison-photography-drugs-family",
+    "tags": [
+      "analyze",
+      "society",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Ana María Arévalo Gosen’s haunting photographs of women in Venezuela’s Poli‑Valencia detention centre illuminate a forgotten crisis: the invisible suffering of incarcerated women whose identities are systematically erased. By turning an abandoned office into a living memory wall—filled with names, slogans, and even a Maluma poster—she exposes how these women reclaim agency through art and communal resilience. The essay juxtaposes stark imagery of cramped beds and intertwined bodies with intimate narratives of addiction, illness, and eventual recovery, underscoring the paradox of ‘deranged inactivity’ that becomes a silent protest. Gosen’s work challenges viewers to confront the human cost of political repression, urging a re‑evaluation of prison reform and gendered justice. It serves not only as a visual record but as a call to action, reminding us that stories matter even when systems refuse to acknowledge them.",
+    "summary_zh": "阿纳玛丽亚·阿雷瓦洛·戈森的照片揭示了委内瑞拉监狱中被忽视的女性困境：身份被抹去、身体被压抑。她将废弃办公室改造成记忆墙，点燃女性自我认同与抗争的火焰。作品既记录痛苦，也激发对司法改革与性别正义的深思，提醒我们在无声的等待中仍有声音。",
+    "best_quote_en": "\"I don’t expect anyone to believe in me because I don’t believe in anyone.\"",
+    "best_quote_zh": "\"我不期待任何人相信我，因为我不相信任何人。\""
+  },
+  {
+    "id": 302,
+    "title": "GiveCalc: Open-source tool to calculate the true cost of charitable giving",
+    "title_zh": "GiveCalc：开源工具计算慈善捐赠的真实成本",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/AEECwALP2jKXQmCAS/givecalc-open-source-tool-to-calculate-the-true-cost-of",
+    "tags": [
+      "update",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "GiveCalc emerges as a sophisticated, fully open‑source calculator that demystifies the complex interplay between charitable donations and tax liabilities in the United States and the United Kingdom. By leveraging PolicyEngine’s microsimulation engine, the tool runs exhaustive tax simulations that account for itemization, bracket shifts, state‑level nuances, and UK Gift Aid mechanics, producing a non‑linear “marginal giving discount” curve. This output is far richer than the simplistic marginal‑rate approach, allowing donors to identify optimal bunching thresholds and timing for maximum tax relief. The platform’s transparency—source code is public, calculations are browser‑side, and validation against NBER’s TAXSIM—fosters trust and invites community contributions. From a policy perspective, GiveCalc illustrates how micro‑level tax rules shape individual giving behavior, offering a sandbox for exploring the distributional effects of legislative changes such as the 2026 AGI floor or the restoration of the standard deduction. For researchers, practitioners, and informed taxpayers alike, the tool represents a bridge between policy research and everyday financial decision‑making, underscoring the value of open data and rigorous simulation in public economics.",
+    "summary_zh": "GiveCalc 是一款开源税务模拟器，精准计算美国和英国捐赠的税收优惠。它用 PolicyEngine 引擎跑全套税务模型，揭示捐赠与扣除、抵免的复杂交互，帮助捐赠者把握最佳捐赠时机与金额。代码公开、验证可靠，既是科研工具，也是个人财务决策的实用助手，展示了数据透明和微观模拟在公共经济学中的巨大价值。",
+    "best_quote_en": "The key output is your marginal giving discount: how much tax you save on your next dollar/pound of giving at any donation level.",
+    "best_quote_zh": "GiveCalc 通过完整的税务模拟，考虑捐赠、扣除和抵免之间的相互作用。"
+  },
+  {
+    "id": 303,
+    "title": "Jorja Smith’s label FAMM seeks share of royalties from viral track ‘I Run’ amid AI allegations, calls for industry ‘guardrails’ to protect artists",
+    "title_zh": "Jorja Smith 的唱片公司 FAMM 要求从 AI 争议的热门单曲《I Run》获得版税，并呼吁行业制定“护栏”保护艺术家",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/jorja-smiths-label-famm-seeks-share-of-royalties-from-viral-track-i-run-amid-ai-allegations-calls-for-industry-guardrails-to-protect-artists/",
+    "tags": [
+      "analyze",
+      "science",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "The dispute over Jorja Smith’s viral track “I Run” exposes the blind spots of today’s music‑industry ecosystem, where artificial‑intelligence tools blur the line between inspiration and appropriation. FAMM’s public claim that producer Harrison Walker’s AI‑generated vocals were engineered to mimic Smith’s voice without consent raises two intertwined dilemmas: (1) the legal question of who owns a sound that is algorithmically derived from an artist’s data, and (2) the ethical imperative to protect creators from invisible, automated exploitation. By demanding a share of royalties and calling for mandatory AI‑labelling, FAMM frames the case as a watershed moment, urging regulators to move beyond reactive takedowns toward proactive guardrails. The situation also highlights the strategic power of social media virality; a TikTok‑fueled hit can reach chart‑ready status before the law catches up. This narrative offers musicians, lawyers, and technologists a concrete case study of how emerging tech can outpace existing frameworks, underscoring the urgency of policy innovation that balances creative freedom with fair compensation.",
+    "summary_zh": "Jorja Smith 争议单曲《I Run》让人重新审视 AI 与版税的边界。FAMM 公开指控制作者用 AI 模仿其声音，既提出了所有权难题，也提醒行业必须设立“护栏”。这场风波展示了社交媒体热度能在法律落后前就冲上榜单，凸显监管滞后的风险。对音乐人、律师和技术工作者而言，它是一个鲜活的案例，提醒我们在追求创意自由的同时，必须保障公平报酬。",
+    "best_quote_en": "\"We are in uncharted territory. AI is all around us and already impacting the way we consume music. We need to talk about what that means for creatives.\"",
+    "best_quote_zh": "\"AI技术正在以创作者的劳动和创造力为训练对象，却没有任何应有的信用或补偿。\""
   }
 ]
