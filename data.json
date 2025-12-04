@@ -1,119 +1,5 @@
 [
   {
-    "id": 204,
-    "title": "General and Surprising",
-    "title_zh": "一般与惊人",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/sun.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "The piece argues that the most valuable insights combine generality and surprise—a rare pairing that yields lasting impact. It points out that while many thinkers produce either broad truths or startling revelations, few manage to merge both. The author suggests that the sweet spot lies in incremental novelty: a small delta of fresh perspective added to an otherwise familiar idea. This approach keeps the insight grounded yet original, allowing writers to build a chain of ideas that grow in depth. He warns against discouragement when others deem an insight “not much new,” emphasizing that even modest novelty can trigger a multiplier effect. The essay also addresses the inevitable repetition in creative work, framing it as a natural, even beneficial, process that can refine and deepen understanding. Overall, it offers a pragmatic roadmap for generating ideas that are both broadly applicable and intriguingly new, encouraging persistence and iterative refinement.",
-    "summary_zh": "作者指出最有价值的洞见兼具普遍性与惊喜，难以实现。建议通过小幅创新（delta）在熟悉概念上增添新意，既保持可理解性，又具原创性。强调即使是微小的新颖也能产生乘数效应，鼓励持续迭代，避免因他人质疑“没新意”而气馁。",
-    "best_quote_en": "A small delta of novelty is all you'll be able to get most of the time.",
-    "best_quote_zh": "你讨论的想法越普遍，你就越不必担心重复自己。"
-  },
-  {
-    "id": 205,
-    "title": "Did Democrats Win the Shutdown After All?",
-    "title_zh": "民主党最终赢得政府停摆了吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/did-democrats-win-the-shutdown-after-all",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "In this incisive piece, the author dissects how Democrats leveraged the longest U.S. shutdown to pivot public focus toward health‑care subsidies and Trump’s alleged corruption. He argues that, while the shutdown failed to single out a clear victor in the media, it nonetheless carved a modest political advantage for Democrats in the recent off‑year elections. The article critiques the cost–benefit calculus: a protracted standoff could harm federal workers and inflate Obamacare premiums, whereas a compromise risks alienating the base. By tracing the split in the Senate, the media’s muted framing, and the backlash from progressive leaders, the author calls for a middle ground between hard‑line tactics and pragmatic concessions. He concludes that the party’s future hinges on embracing a “spirit of diversity” and coalition‑building rather than relentless confrontation, offering a nuanced roadmap for navigating the post‑shutdown landscape.",
-    "summary_zh": "在这篇深度分析中，作者从政府停摆的历史与政治角度剖析民主党如何利用停摆制造舆论焦点，聚焦医保与特朗普腐败。文章指出停摆虽未如预期集中公众注意，却在选举中为民主党赢得了一定的舆论优势。作者批判停摆背后的权衡：若继续斗争可能导致联邦雇员受损与医保费用上升，若妥协则可能被基线抛弃。通过对立派议员投票与媒体反应的细致描写，作者呼吁党内在激进与温和之间寻找平衡，强调“精神多样性”与“联盟建设”是未来的关键。",
-    "best_quote_en": "If I were in the Senate, I wouldn’t vote for this compromise.",
-    "best_quote_zh": "如果我是参议员，我不会投这份妥协。"
-  },
-  {
-    "id": 206,
-    "title": "Utensils",
-    "title_zh": "器具",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/utensils/",
-    "tags": [
-      "solve",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "The piece is a curated tour of five seemingly ordinary utensils that quietly transform everyday chores into effortless rituals. From the “Magic Fish Scaler,” a tiny hex‑bit device that shields the thumb and keeps scales from splattering, to the Norpro Comfort Grip Deluxe Scraper, whose clever middle‑thickened profile and dual‑curved edges tackle both rounded and square pans, each item embodies a lesson in user‑centric design. The Dexter‑Russell Dough Scraper proves that a wide wooden handle can turn a mundane counter‑cleaner into a multi‑purpose transport tool, while the Best Flour Duster shows how a spring‑loaded wire can dust a surface evenly in seconds. Even the Vic Firth Pump‑and‑Grind Pepper Mill demonstrates that portability and ergonomics can coexist in a tiny cylinder. Finally, the Banana Guard turns a fragile fruit into a travel‑ready companion, proving that thoughtful packaging can preserve freshness on the go. Together, the stories illustrate how small, well‑thought‑out tools can solve persistent pain points, inspire creative workarounds, and remind us that ingenuity often lives in the overlooked.\n",
-    "summary_zh": "文章挑选了五款看似普通却能让日常琐事变得轻松的工具：从能保护手指防止鱼鳞飞溅的魔法鱼鳞刀，到兼顾圆角与方角锅具的 Norpro 刮刀，再到能多用途搬运食材的 Dexter‑Russell 面团刮刀，甚至连可随身携带的 Vic Firth 迷你胡椒粉磨碎机和香蕉保护盒都展示了巧妙的设计思路。每件物品都体现了以用户为中心的设计理念，解决了实际痛点，并提醒我们创新往往隐藏在被忽视的细节中。\n",
-    "best_quote_en": "What would make you design a fish scaler with what looks like plastic hex‑head bits loosely attached to the underside of a circular disc? It doesn’t make sense. But it works!",
-    "best_quote_zh": "你会怎么设计一把看似把塑料六角头件松散地附着在圆盘底部的鱼鳞刀？这看不太合理。但它确实能用！"
-  },
-  {
-    "id": 207,
-    "title": "American Equity",
-    "title_zh": "美国股权",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/american-equity",
-    "tags": [
-      "update",
-      "economics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "经济金融",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2017-11-27",
-    "summary_en": "The “American Equity” proposal envisions a radical redistribution of national prosperity: every adult U.S. citizen would receive an annual share of the country’s GDP. By turning the nation into a shared‑ownership economy, the idea seeks to align individual incentives with collective growth, counteract wealth concentration, and smooth the transition to an automation‑driven future. The author argues that such a system would boost social cohesion, eliminate absolute poverty, and free people to pursue meaningful work. However, the proposal faces formidable practical hurdles—tax‑system overhaul, immigration policy recalibration, rules on transferability and borrowing, and coordination with housing, education, and health reforms. While the concept is bold and potentially transformative, it remains highly controversial and would require a profound shift in political will and public imagination. Its merit lies in stimulating debate about the distribution of wealth in a modern economy and the role of the state in ensuring inclusive prosperity.",
-    "summary_zh": "美国股权计划提出让每位成年美国公民每年获得国内生产总值的一份，试图通过共享国家繁荣来对抗财富集聚与自动化冲击。作者认为此举可激发社会凝聚力、消除绝对贫困，并为未来技术转型提供缓冲。然而，实施需克服税制改革、移民政策、转让与借贷规则等复杂障碍，并与住房、教育、医疗等结构性改革相配合。该方案兼具大胆与争议性，既是对传统分配机制的创新，也是对美国社会公平与经济活力的深刻试探。",
-    "best_quote_en": "If everyone benefits more directly from economic growth, then it will be easier to move faster toward this better world.",
-    "best_quote_zh": "如果每个人能更直接地从经济增长中受益，那么我们就更容易更快地迈向更好的世界。"
-  },
-  {
-    "id": 208,
-    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
-    "title_zh": "你的思维是如何构建的，以及你如何塑造它们 | Dr. Jennifer Groh",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
-    "tags": [
-      "learn",
-      "education",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "Dr. Jennifer Groh, a Duke University professor of psychology and neuroscience, unpacks the neural choreography that turns raw sights and sounds into coherent thoughts. She explains that our brains build dynamic maps of the world, constantly integrating sensory streams to guide navigation, decision‑making, and even future expectations. The episode pivots on a deceptively simple insight: the focus you give to particular stimuli not only shapes the thoughts you have in the moment, but also rewires the default pathways that will govern your mind for years to come. By weaving together research on auditory localization, visual‑auditory integration, and the neurobiology of attention, Groh offers a toolkit of actionable techniques—mental interval training, environmental cues, and deliberate practice—to enhance focus, happiness, and task‑switching efficiency. Her perspective is both evidence‑based and immediately applicable, making the discussion relevant to anyone from students to high‑performance professionals. The conversation invites listeners to rethink the plasticity of their own cognition and to actively sculpt the narratives that drive their lives.",
-    "summary_zh": "在这期节目中，杜克大学心理与神经科学教授Jennifer Groh揭示了大脑如何编码感官信息并将其整合，形成我们的思维。她强调，关注点决定思维轨迹，甚至影响未来思维模式。通过讨论注意力训练、情绪调节与任务切换，她提供了一套可操作的神经重塑工具，帮助听众提升专注力与幸福感。内容兼具科学严谨与实用性，适合对认知科学感兴趣、想提升自我管理能力的人群。",
-    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
-    "best_quote_zh": "你专注的事物决定了你的思想，不仅仅是在那一刻，而是对你未来的思想也有影响。"
-  },
-  {
     "id": 209,
     "title": "5 Things I Learned After 10 Days of Inkhaven",
     "title_zh": "10天Inkhaven之后我学到的五件事",
@@ -2354,5 +2240,121 @@
     "summary_zh": "Jorja Smith 争议单曲《I Run》让人重新审视 AI 与版税的边界。FAMM 公开指控制作者用 AI 模仿其声音，既提出了所有权难题，也提醒行业必须设立“护栏”。这场风波展示了社交媒体热度能在法律落后前就冲上榜单，凸显监管滞后的风险。对音乐人、律师和技术工作者而言，它是一个鲜活的案例，提醒我们在追求创意自由的同时，必须保障公平报酬。",
     "best_quote_en": "\"We are in uncharted territory. AI is all around us and already impacting the way we consume music. We need to talk about what that means for creatives.\"",
     "best_quote_zh": "\"AI技术正在以创作者的劳动和创造力为训练对象，却没有任何应有的信用或补偿。\""
+  },
+  {
+    "id": 304,
+    "title": "Jess Cartner-Morley on fashion: ’tis the season to party. Time to recap Christmas dressing rules",
+    "title_zh": "Jess Cartner‑Morley谈时尚：'是派对季节'，回顾圣诞穿衣规则",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/03/jess-cartner-morley-on-fashion-tis-the-season-to-party-time-to-recap-christmas-dressing-rules",
+    "tags": [
+      "guide",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "In a breezy, witty column, Cartner‑Morley reminds us that Christmas party attire should not stay understated but sparkle to match the festive mood. She argues that “wearing something upbeat puts you in a more party‑appropriate headspace,” and frames this as a psychological cue that invites conversation and fun. The piece then bridges old etiquette with contemporary sustainability, encouraging vintage finds and wardrobe recycling over new purchases. Her practical mantra—raise your usual outfit by a generous 30%—provides a simple, actionable rule that keeps style festive without feeling forced. The article is simultaneously a gentle critique of over‑conservative holiday dressing and a celebration of personal expression, blending humor, expert insight, and a subtle call for greener fashion choices. It offers readers a fresh, inclusive guide that feels both timely and timeless.",
+    "summary_zh": "在这篇时尚专栏里，Cartner‑Morley以轻松诙谐的笔触提醒读者，圣诞派对的服装不应只追求低调，而是要用亮点点燃氛围。她强调“穿得活泼就能进入更合适的心境”，并将传统礼仪与当下可持续时尚结合，提倡复古与再利用。文章通过“先打好基础再升级30%”的规则，让人们在节日中既能保持个性，又不失礼仪。她的建议既实用又富有人情味，既是对传统的温柔改写，也是对当代消费观的批判。",
+    "best_quote_en": "If you wear something upbeat, you put yourself in a more party‑appropriate headspace.",
+    "best_quote_zh": "如果你穿得活泼，你就会进入更符合派对氛围的心境。"
+  },
+  {
+    "id": 305,
+    "title": "The Ronco Principle",
+    "title_zh": "Ronco原则",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ronco.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "The article explores how benevolence, not luck, underpins the remarkable success of venture investor Ron Conway.  By consistently acting with integrity—being genuinely kind, transparent, and fair—Conway earned a reputation that turns referrals into high‑value opportunities.  The piece argues that in a world where information is instantly shared and future leaders emerge from unlikely places, the cost of pretending to be good far outweighs the cost of truly being good.  Conway’s accidental discovery of this “future‑proof” strategy shows that the most profitable investors are often the most upstanding.  For founders and investors alike, the key insight is that authenticity breeds trust, which in turn unlocks more deals.  The narrative blends anecdote with data‑driven observation, suggesting that benevolence and returns are positively correlated.  It invites readers to rethink how character shapes success in the startup ecosystem and beyond.",
+    "summary_zh": "文中指出，罗恩·康威的成功源于真诚善良，而非偶然。透明与不可预测的创业环境使得假装好人成本高昂，真正善良才赢得信任与机会。文章通过案例与数据，强调善行与回报正相关，启示创投者与创始人：品格决定成功。",
+    "best_quote_en": "In almost every domain there are advantages to seeming good. It makes people trust you.",
+    "best_quote_zh": "在几乎所有领域，表现得善良都有优势。它让人们信任你。"
+  },
+  {
+    "id": 306,
+    "title": "What is the most impressive game an LLM can implement from scratch?",
+    "title_zh": "LLM 从零实现的最令人印象深刻的游戏是什么？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/GbjnPZWmY6TeqMHzJ/what-is-the-most-impressive-game-an-llm-can-implement-from",
+    "tags": [
+      "guide",
+      "ai-research",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "The article probes whether large language models (LLMs) can autonomously generate polished, playable games from a simple prompt, using the recent GPT‑5.1 demo as a benchmark. It argues that conventional coding metrics—LeetCode‑style challenges or static web‑page templates—fail to expose a model’s true engineering depth because they rely on boilerplate libraries or pre‑written patterns. Game programming, by contrast, demands novel mechanics, sound design, user‑centric interaction loops, and edge‑case robustness—all in one shot. The author proposes that “game‑as‑a‑metric” could become the gold standard for assessing LLM coding competence, mirroring how reinforcement‑learning agents were evaluated through gameplay. He shares personal trials, noting the scarcity of high‑quality LLM‑generated games beyond simple clones of Snake or Asteroids, and invites readers to experiment with prompts. The piece ends with a call for systematic, reproducible studies to map the frontier of LLM creativity and practical impact on the software economy.",
+    "summary_zh": "文章探讨LLM能否在一次性提示下从零开始生成完整、可玩游戏，批评传统编码评测过度依赖模板和库，提出游戏编程可作为评估LLM工程深度的金标准，呼吁系统实验。",
+    "best_quote_en": "\"Game programming, in contrast, is all about pushing technical limits, and, unlike most other domains of programming, there are sharply diminishing returns on coloring‑by‑numbers.\"",
+    "best_quote_zh": "\"游戏编程相反，完全是关于推动技术极限，并且与其他编程领域不同，颜色填充的收益急剧递减。\""
+  },
+  {
+    "id": 307,
+    "title": "What America Can Learn from Its Largest Wildfire of the Year",
+    "title_zh": "美国从今年最大的野火中能学到什么",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-america-can-learn-from-its-largest-wildfire-of-the-year",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "The Dragon Bravo blaze, ignited in Grand Canyon’s North Rim, forces a reevaluation of America’s long‑standing fire policy. Once a symbol of suppression, the fire was allowed to burn as a managed experiment, only to spiral into a fast, uncontrollable inferno that consumed 145,000 acres. The narrative exposes a clash between ecological science—advocating for prescribed burns to reduce fuel loads—and political pressure for rapid suppression. Field observations, modeling failures, and divergent agency statements illustrate the precarious balance between safety, ecosystem health, and public perception. Yet, even as the fire devastated infrastructure, early ecological data suggest limited soil damage and potential long‑term resilience gains. The incident underscores the need for adaptive, data‑driven fire management, transparent communication, and a policy framework that protects both people and the very ecosystems that fire shapes. It invites policymakers, scientists, and fire‑fighters to rethink fire as a multifaceted tool rather than a threat to be extinguished.",
+    "summary_zh": "龙·布拉多大火让美国重新审视火灾政策。从灭火到管理再到失控，揭示生态学与政治的冲突。模型失效、信息不透明、机构立场分歧，使公众对“管理火灾”产生疑虑。尽管破坏严重，初步生态数据表明土壤损伤有限，可能提升长期韧性。此事件凸显需要数据驱动、透明沟通与平衡安全与生态的政策框架，重新将火视为多功能工具。",
+    "best_quote_en": "Once you create an agency that’s only focussed on fire, life and safety become the main focus, and any notion of fire as a multipurpose ecological tool loses its value.",
+    "best_quote_zh": "它只是森林的循环。"
+  },
+  {
+    "id": 308,
+    "title": "Sun-powered Africa/Vietnam Trains/Travel Laptop Mic",
+    "title_zh": "太阳能驱动的非洲/越南火车/随身笔记本麦克风",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/sun-powered-africa-vietnam-trains-travel-laptop-mic/",
+    "tags": [
+      "guide",
+      "politics",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Solar power’s meteoric rise in Africa, as highlighted by a staggering 99.5 % drop in panel costs over 45 years, underscores a quiet revolution that bypasses the fossil‑fuel grid. The article juxtaposes this green boom with practical travel wisdom—an exhaustive rail guide for Vietnam that empowers itinerant explorers to navigate the country’s network with confidence, and a Thai policy shift that lifts alcohol sales restrictions to boost tourism, revealing how legislation can be leveraged for economic stimulus. A tiny, USB‑powered microphone demonstrates how modest tech can elevate content creation on the road, while the surrounding newsletter context frames these snippets as bite‑size insights for nomads. Together, the piece invites readers to contemplate how technological affordability, infrastructural ingenuity, and regulatory flexibility converge to reshape livelihoods, and it encourages a proactive mindset toward seizing emerging opportunities.",
+    "summary_zh": "太阳能在非洲的爆发式增长提醒我们能源转型的可能；越南火车指南为背包客提供实用路径；泰国酒法放宽揭示旅游与政策的微妙平衡；便携麦克风则展示技术小物的巨大价值。每一篇都让人对未来充满好奇与期待。",
+    "best_quote_en": "\"Solar panels dropped 99.5% in 45 years. What if we’re only halfway through?\"",
+    "best_quote_zh": "\"太阳能板在45年内降价99.5%。如果我们只走到一半会怎样？\""
   }
 ]
