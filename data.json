@@ -1,125 +1,5 @@
 [
   {
-    "id": 209,
-    "title": "5 Things I Learned After 10 Days of Inkhaven",
-    "title_zh": "10天Inkhaven之后我学到的五件事",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/wHfseCBgYSiA9Nz47/5-things-i-learned-after-10-days-of-inkhaven",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "Inkhaven’s 10‑day residency proves that daily publishing can be both a disciplined habit and a social experiment. The author’s first lesson is that a hard publishing deadline eliminates excuses: 41 writers produce over 400 posts with minimal attrition. The second insight is the psychological timing of output—many posts are finished just before midnight, revealing a tension between urgency and quality. Third, the built environment was largely ignored; writers gravitated to living rooms and lunch tables, showing that physical space design alone doesn’t dictate behavior. Fourth, the program feels energizing rather than stressful, suggesting that forced output can create a positive feedback loop when well supported. Finally, the biggest flaw is the lack of proactive collaboration: despite a roster of high‑profile mentors, residents rarely seek help, pointing to a market failure in peer‑review incentives. These observations offer a data‑driven case study on habit formation, community design, and the economics of creative labor.",
-    "summary_zh": "Inkhaven 10 天的写作驻留实验显示，强制每日发布能消除借口，41 位作者共产 400+ 篇文章，几乎无流失。多数作品在午夜前完成，揭示了紧迫感与质量的张力。空间设计被忽视，作者更倾向于客厅和餐桌，说明物理环境并非决定因素。整体氛围更激励人而非压力，表明强制输出在良好支持下可产生正反馈。最大的问题是缺乏主动合作：尽管有众多导师，作者很少主动求助，暴露出同行评审激励的市场失灵。此案例为习惯养成、社区设计与创意劳动经济提供数据驱动的洞见。",
-    "best_quote_en": "People suck at proactively getting help from other people.",
-    "best_quote_zh": "人们主动寻求他人帮助的能力很差。"
-  },
-  {
-    "id": 210,
-    "title": "The Hidden Devastation of Hurricanes",
-    "title_zh": "飓风的隐藏毁灭",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "The piece uncovers the invisible toll of hurricanes, revealing that cardiovascular deaths and hospitalizations spike for years after a storm. By weaving epidemiological data from Medicare, NOAA, and academic studies, the author demonstrates that indirect deaths—heart attacks triggered by evacuation stress, electrocutions, or loss of medical access—can rival or exceed official counts. The narrative also links long‑term economic decline and disrupted health infrastructure to rising infant mortality and chronic disease prevalence. Importantly, the article argues that recovery budgets must shift from immediate damage control to sustained health and economic support, including neonatal care, insurance enrollment, and rapid‑response funding. The analysis highlights the systemic nature of disaster impacts, urging policymakers to rethink post‑hurricane strategies in a warming world where storms grow stronger and linger longer. It challenges readers to see hurricanes not just as fleeting catastrophes but as catalysts for prolonged public health crises.",
-    "summary_zh": "文章揭示飓风的隐形伤害：心血管疾病和住院率在风暴后数年内持续飙升。作者通过医疗、气象与学术数据，证明间接死亡可与官方统计相当甚至超越。经济衰退、医疗设施瘫痪进一步加剧婴儿死亡与慢性病风险。文章主张恢复投入需从即时灾害修复转向长期健康与经济支持，如新生儿护理、保险覆盖与快速响应基金。此分析提醒政策制定者，面对气候加剧的更强飓风，应重新审视灾后策略，视其为长期公共卫生危机的催化剂。",
-    "best_quote_en": "They pull at every element of the fabric of society.",
-    "best_quote_zh": "它们会拉扯社会结构的每一个元素。"
-  },
-  {
-    "id": 211,
-    "title": "Only What’s Necessary / The White Donkey",
-    "title_zh": "仅必要之物 / 白色驴子",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
-    "tags": [
-      "update",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "The article juxtaposes two distinct yet thematically resonant books: Chip Kidd’s visual compendium on Charles M. Schulz’s “Peanuts” and Maximilian Uriarte’s stark, autobiographical comic‑novel about the Marine Corps’ existential crisis. In the first, the author dissects the meticulous production process, ephemera, and design philosophy that underlie a seemingly simple strip, revealing the depth behind “only what’s necessary.” The second follows a young Marine’s trajectory from training to combat, using minimalist art and vivid color washes to expose hazing, PTSD, and the alienation of veterans. Both works illuminate how narrative, visual style, and context intertwine to convey complex human experience. I’m struck by how the article treats these texts as case studies—showing that even a beloved comic can be a lens on society, while a war‑comic can humanize institutional critique. The critical lens invites readers to reflect on art’s role in documenting history and on storytelling’s power to challenge assumptions.",
-    "summary_zh": "两本书分别聚焦于史诗级的设计与战争体验，第一本通过《Peanuts》创作史揭示简约之美，第二本以海军陆战队的视角探讨存在危机。文章将两者对比，强调叙事与视觉的力量，并在细节与人性之间寻找共通点。个人阅读中，发现艺术与现实的对话能激发深层思考，让我们重新审视创作与生存的意义。",
-    "best_quote_en": "The title comes from Schulz himself, who referred to his cartooning style as keeping only what’s necessary.",
-    "best_quote_zh": "标题来自舒尔茨本人，他把自己的漫画风格称为只保留必要的东西。"
-  },
-  {
-    "id": 212,
-    "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
-    "title_zh": "必备：定时光照以提升睡眠、能量与情绪 | Dr. Samer Hattar",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-timing-light-for-better-sleep-energy-and-mood-dr-samer-hattar",
-    "tags": [
-      "inspire",
-      "medicine",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "医学健康",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2025-08-21",
-    "summary_en": "Dr. Samer Hattar, chief of the Section on Light and Circadian Rhythms at NIMH, delves into the science of how light governs our internal clock and, in turn, mood, sleep, appetite, learning, and overall mental health. He explains that aligning our circadian rhythm with natural light patterns—morning sun exposure, dim evening lighting, and consistent meal timing—can unlock more restful sleep, heightened energy, and a steadier mood. The episode offers concrete, actionable protocols, from morning sunlight routines to screen‑time limits, that listeners can implement immediately. It also tackles common challenges—jet lag, seasonal depression, and the impact of artificial lighting—providing evidence‑based strategies to mitigate them. Beyond the practical advice, Hattar’s insights illuminate the broader implications of circadian biology for productivity and wellbeing, underscoring the power of simple environmental adjustments. As someone fascinated by the intersection of neuroscience and everyday life, I find this episode both a roadmap and a reminder that our bodies are finely tuned to the light we encounter.",
-    "summary_zh": "哈塔博士阐述光照如何同步昼夜节律，影响睡眠、情绪与学习。他提供晨光暴露、晚间调暗灯光、规律饮食等实用方案，帮助缓解时差与季节抑郁。此篇既是行动指南，也提醒我们日常环境的微调能显著提升身心健康。",
-    "best_quote_en": "Light powerfully shapes mood, sleep, appetite, learning and overall mental health by aligning—or misaligning—our internal circadian clock.",
-    "best_quote_zh": "光强烈地塑造情绪、睡眠、食欲、学习以及整体心理健康，通过与我们内部昼夜节律的同步或错位。"
-  },
-  {
-    "id": 213,
-    "title": "Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
-    "title_zh": "Ben Patrick（KneesOverToesGuy）——20分钟训练，带来惊人效果：从慢性膝痛到扣篮，受 Charles Poliquin 教训，打造坚固下肢，更多内容 (#835)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/11/ben-patrick-kneesovertoesguy/",
-    "tags": [
-      "learn",
-      "medicine",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "Ben Patrick, aka KneesOverToesGuy, has turned personal knee injury into a global movement that redefines lower‑body training. The episode dissects his 20‑minute, joint‑centric workouts, the science behind knee‑over‑toe progression, and how he blended Poliquin’s deep‑range strength philosophy with modern biomechanics. Listeners learn concrete drills—tib bar, backward sled, and split squat—each explained with clear metrics, progression tables, and injury‑prevention logic. Patrick also explains his “minimum effective dose” mindset, showing that consistency beats intensity when building functional strength. The conversation frames knee health as a performance lever, not a medical problem, and offers actionable protocols for students, athletes, and anyone with chronic pain. By weaving case studies, expert insight, and data‑driven principles, the episode transforms a niche niche into a practical playbook for anyone seeking pain‑free, high‑level movement.",
-    "summary_zh": "Ben Patrick（KneesOverToesGuy）将个人膝伤逆转为全球训练范式。节目拆解20分钟膝关节核心动作，融合Poliquin深度范围力量与现代运动生物力学。听众可获得Tib Bar、后向滑雪、分腿深蹲等实战练习，附进阶表格与伤害预防逻辑。Patrick阐述“最小有效量”理念，强调持续比高强度更能提升功能性力量。整段对话把膝部健康视为性能杠杆，而非单纯医疗问题，提供可操作的协议，适用于学生、运动员与慢性疼痛者。通过案例、专家见解与数据驱动原则，节目将专业知识转化为痛感消除与高水平动作的实用手册。",
-    "best_quote_en": "Strength is gained in the range it is trained.",
-    "best_quote_zh": "力量在训练的范围内获得。"
-  },
-  {
     "id": 214,
     "title": "Charisma / Power",
     "title_zh": "魅力 / 权力",
@@ -2356,5 +2236,121 @@
     "summary_zh": "太阳能在非洲的爆发式增长提醒我们能源转型的可能；越南火车指南为背包客提供实用路径；泰国酒法放宽揭示旅游与政策的微妙平衡；便携麦克风则展示技术小物的巨大价值。每一篇都让人对未来充满好奇与期待。",
     "best_quote_en": "\"Solar panels dropped 99.5% in 45 years. What if we’re only halfway through?\"",
     "best_quote_zh": "\"太阳能板在45年内降价99.5%。如果我们只走到一半会怎样？\""
+  },
+  {
+    "id": 309,
+    "title": "War Is Peace, the Dozing Don Edition",
+    "title_zh": "战争是和平，打盹的唐纳德版",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/war-is-peace-the-dozing-don-edition",
+    "tags": [
+      "update",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "The piece satirically exposes a paradoxical Trump presidency that brands itself a peacemaker while simultaneously launching unprovoked military strikes. By staging a ceremonial signing of a fictitious peace accord with African leaders at a renamed think‑tank, the former president masks a pattern of unilateral force, as highlighted by the Caribbean drug‑boat bombings and the looming threat to Venezuela. The narrative underlines a recurring theme: political rhetoric that frames violence as “miraculous” or “necessary” while ignoring legal and ethical constraints. It also critiques the complicit media and political allies who applaud the president’s self‑proclaimed diplomatic successes without scrutiny. The article urges readers to question the legitimacy of such “peace” gestures, exposing the hollowness of rhetoric when juxtaposed with real‑world conflict. In doing so, it invites a broader reflection on how leadership narratives can be weaponized to justify aggression, and how citizens must remain vigilant against the seductive simplicity of grandiose slogans.\n",
+    "summary_zh": "文章讽刺性揭露特朗普总统自诩为“和平缔造者”，却在加勒比海发动无端军事打击，既掩盖其单边武力，又利用媒体与盟友的赞誉，形成了“和平”与暴力的荒诞对照。它提醒人们，政治言辞的光鲜外表往往掩盖了法律与道德的缺失，公众需保持警惕，防止夸张口号被用来为侵略正当化。",
+    "best_quote_en": "It’s going to be a great miracle.",
+    "best_quote_zh": "战争是和平"
+  },
+  {
+    "id": 310,
+    "title": "Free Ski Passes/Free Japan Flights/Posture-fixing Shirt",
+    "title_zh": "免费滑雪通行证/日本免费航班/矫正姿势衬衫",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-ski-passes-free-japan-flights-posture-fixing-shirt/",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "This compact newsletter stitches together a series of travel‑savvy hacks that turn ordinary journeys into cost‑effective adventures. First, Alaska Airlines offers free lift tickets at select resorts when you book with them—an elegant perk that blends airline loyalty with ski‑season savings, though the list is scattered and time‑bound. Next, the article spotlights a clever posture‑fixing polo from Forme, a wearable that subtly nudges shoulders back, promising ergonomic benefits for the perpetually hunched traveler. The pièce de résistance is the All Nippon Airways scheme: a conditional, free domestic flight within Japan for passengers arriving from Europe, provided they fly economy into Tokyo, stay no more than 24 hours, and then hop to a smaller city. Finally, the piece updates readers on the expanded Epic and Ikon passes that now include dozens of European resorts, turning a North‑American pass into a passport for alpine tourism worldwide. Together, these snippets illuminate how strategic booking and niche products can dramatically reduce travel costs while enhancing comfort, offering readers a practical toolkit for smarter, more flexible itineraries.",
+    "summary_zh": "这期简讯把免费滑雪通行证、姿势矫正衬衫和日本国内航班优惠串联成一套实用的旅行省钱攻略。阿拉斯加航空的免费滑雪票、Forme的可穿戴姿势矫正衬衫、ANA的欧陆直飞东京后转机免费国内航班，以及Epic/Ikon通行证的欧洲扩展，皆为行程节省与舒适度提升提供可操作方案。",
+    "best_quote_en": "If you have one of those passes, you’re not restricted to North America anymore.",
+    "best_quote_zh": "如果你拥有其中一个通行证，你就不再局限于北美。"
+  },
+  {
+    "id": 311,
+    "title": "Essentials: The Science of Making & Breaking Habits",
+    "title_zh": "必备：习惯的建立与打破科学",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-of-making-breaking-habits",
+    "tags": [
+      "update",
+      "science",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Huberman dissects the neural mechanics of habit formation and dissolution, offering a dual‑system framework that marries circadian alignment with a 21‑day reinforcement cycle. He explains how individual neuroplasticity shapes habit persistence, highlighting the concept of “linchpin” habits that serve as keystones for cascading behavioral change. The episode moves beyond theory, presenting concrete tools—task bracketing, visualization, and procedural review—that readers can implement to rewire maladaptive patterns. By framing habits as both identity‑based and goal‑oriented, Huberman invites listeners to interrogate their self‑concept and to embed new actions into the rhythm of daily life. The practical, evidence‑based guidance positions this content as a valuable resource for anyone seeking to cultivate lasting change, whether they are students, entrepreneurs, or health professionals.",
+    "summary_zh": "Huberman用神经科学拆解习惯的形成与破除，提出日节奏与21天强化相结合的双系统。强调个体可塑性和“关键习惯”，并给出可操作的任务分块、可视化、步骤回顾等工具。内容既有理论深度，又贴合日常实践，适合想要持续改变的学生、创业者和健康从业者。",
+    "best_quote_en": "Task bracketing helps you segment your day into focused, manageable chunks, reducing overwhelm.",
+    "best_quote_zh": "任务分块帮助你将一天划分为专注、可管理的片段，减少压力。"
+  },
+  {
+    "id": 312,
+    "title": "The Tim Ferriss Show Transcripts: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
+    "title_zh": "Tim Ferriss 访谈稿：随机节目——2-2-2 规则、人工智能的未来、生物电医学、现代约会生存、DORA 在阿尔茨海默症中的承诺，以及安东尼·德·梅罗的智慧（#838）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2-transcript/",
+    "tags": [
+      "solve",
+      "medicine",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "This episode of the Random Show brings together a kaleidoscope of topics—from the 2‑2‑2 drinking rule to the cutting‑edge frontier of AI, from accelerated TMS combined with D‑C‑S for mental health to the promise of DORA drugs for Alzheimer’s and the modern dating dilemma. Tim Ferriss and Kevin Rose weave personal anecdotes, expert interviews, and data‑driven insights into a conversation that feels both actionable and thought‑provoking. The discussion highlights how accelerated TMS can deliver a month‑long remission in a single week, how D‑C‑S may compress therapy into one day, and how AI’s rapid iteration makes yesterday’s “hallucinations” today’s standard. It also examines the pitfalls of dating apps, the nuanced role of sleep in neurodegeneration, and the philosophical tension between objective metrics and lived experience. In the end, the episode reminds us that while technology offers unprecedented promise, it also demands a cautious, data‑centric mindset.",
+    "summary_zh": "这期随机节目聚焦多元议题，从2-2-2饮酒规则到AI前沿，再到加速TMS与DCS在精神健康中的突破，DORA药物对阿尔茨海默的潜力，以及现代约会困境。Tim与Kevin以亲身实验与专家访谈交织，既提供可落地的行动方案，又引发对技术与生活交织的深思。节目在揭示前沿医学与AI进展的同时，也提醒我们在快速变革中保持批判与适度。",
+    "best_quote_en": "AI is moving at a pace that outpaces our ability to lock into opinions.",
+    "best_quote_zh": "人工智能正在以超出我们锁定观点的速度前进。"
+  },
+  {
+    "id": 313,
+    "title": "Epidemic Sound sues Meta again, alleging copyright infringement of 1,000 additional works",
+    "title_zh": "Epidemic Sound再次起诉Meta，指控其侵犯1000项新增作品的版权",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/epidemic-sound-sues-meta-again-alleging-copyright-infringement-of-1000-additional-works/",
+    "tags": [
+      "update",
+      "legal",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "深度分析"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "Epidemic Sound's second lawsuit against Meta underscores the escalating battle over music licensing on social‑media platforms. By filing a complaint that names 1,000 newly registered works, the Swedish company seeks up to $150 million in statutory damages, pushing Meta to confront its Audio Library, Original Audio and Reels Remix tools that allegedly enable users to exploit unlicensed tracks. The complaint highlights Meta’s repeated refusal to grant Epidemic access to its Rights Manager for Music, a tool designed to help rights holders monitor and protect their content. This case illustrates how platform‑wide copyright enforcement can become a high‑stakes legal contest, forcing technology firms to reckon with both the scale of user‑generated content and the expectations of creators. For artists, producers, and platform operators alike, the lawsuit is a stark reminder that licensing gaps can quickly translate into multimillion‑dollar liabilities. It also raises questions about how emerging AI‑driven editing tools may complicate attribution and royalty collection in the future.",
+    "summary_zh": "Epidemic Sound再次起诉Meta，指控其在音频库、Original Audio及Reels Remix等工具中使用未授权音乐，要求最高1.5亿美元赔偿。诉讼揭示平台版权监管的紧迫性，也警示创作者与技术公司在AI编辑工具日益普及的背景下，必须严肃对待授权与报酬。",
+    "best_quote_en": "Meta has not secured a license from Epidemic for the use of its copyrighted music on its platforms or paid Epidemic or its artists a penny for the infringing uses of its music at issue herein.",
+    "best_quote_zh": "Meta没有从Epidemic获得许可来使用其受版权保护的音乐，亦未为其侵权使用支付一分钱。"
   }
 ]
