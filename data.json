@@ -1,123 +1,5 @@
 [
   {
-    "id": 226,
-    "title": "‘I see an explosion of hybrid sounds coming from Africa. The next big global hits will come from these cultural crossovers.’",
-    "title_zh": "我看到来自非洲的混合声音爆炸。下一个全球大热将来自这些文化交叉。",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/i-see-an-explosion-of-hybrid-sounds-coming-from-africa-the-next-big-global-hits-will-come-from-these-cultural-crossovers/",
-    "tags": [
-      "inspire",
-      "leadership",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "The interview with ONErpm’s Nuno Rocha paints a vivid picture of a music industry on the cusp of a cross‑cultural revolution. By anchoring new offices in Angola, Morocco, and Egypt, the company is building localized hubs that marry data‑driven strategy with cultural authenticity. Rocha’s mantra—“proximity, personalization, and strong local partnerships”—highlights a shift from generic distribution to ecosystem building, empowering artists to thrive locally while scaling globally. The piece is not merely a corporate profile; it interrogates the structural inequities that keep emerging‑market talent invisible and offers a concrete playbook: technology, mentorship, and regional playlists. It also foregrounds the “hybrid sounds” of Lusophone and Francophone Africa as the next global hit generators, suggesting that the future of pop will be as much about linguistic bridges as sonic innovation. The analysis invites readers to rethink music‑business models, data ethics, and the democratization of creative labor.",
-    "summary_zh": "采访中，ONErpm的Nuno Rocha描绘了音乐行业即将迎来跨文化革命的景象。通过在安哥拉、摩洛哥和埃及设立本地化办公点，公司正在打造融合数据驱动与文化真实性的本土中心。Rocha的口号——“接近、个性化、强大本土合作”——凸显了从单纯分发向生态系统建设的转变，赋能艺术家在本土繁荣并全球扩张。文章不仅是企业宣传，更探讨了让新兴市场人才被忽视的结构性不平等，并提供技术、导师与区域播放列表的具体方案。它将葡语与法语非洲的“混合声音”定位为下一个全球热门的源头，提示流行未来将更多依赖语言桥梁与声音创新。",
-    "best_quote_en": "The goal is not only to distribute music, but to build sustainable ecosystems that allow artists to thrive locally and expand globally.",
-    "best_quote_zh": "我们的目标不仅是分发音乐，而是构建可持续的生态系统，让艺术家在本地繁荣并全球扩张。"
-  },
-  {
-    "id": 227,
-    "title": "’Tis the season for dubious TV adverts | Letters",
-    "title_zh": "疑似广告的季节 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
-    "tags": [
-      "update",
-      "ai-research",
-      "marketing",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "市场营销",
-      "争议观点"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "The Guardian’s letter section turns a single John Lewis Christmas ad into a microcosm of modern consumer culture, exposing the thin line between sentimentality and manipulation. Critics argue the ad’s “wholesome family” narrative masks a commercial agenda that pressures already‑stressed shoppers to buy overpriced gifts, while the company’s own history of wage stagnation and bonus cuts undermines the promised generosity. The letters further unpack gender dynamics, noting how male heroism is foregrounded at the expense of women’s domestic roles, reinforcing dated stereotypes. The piece serves as a cautionary tale about advertising’s Pavlovian triggers and the ethical responsibilities of brands. It invites readers to question the emotional currency of holiday campaigns and consider how such messaging shapes societal expectations, consumer behavior, and the evolving definition of “family.” The commentary blends cultural critique with a call for transparency, making it a useful primer for media scholars, marketers, and anyone wary of the holiday season’s commercial haze.",
-    "summary_zh": "这篇信件以约翰·刘易斯圣诞广告为镜，揭示了情感营销与消费操纵的交织。广告的“温馨家庭”叙事掩盖了对已被压榨消费者的商业诱导，品牌过去的工资停滞与奖金缺失更让人质疑其所谓的慷慨。文章还批评了性别刻板印象，男性英雄被过度突出，女性角色被边缘化。作者呼吁读者重新审视节日广告的情感操控，关注其对社会期待与消费行为的影响，提醒我们在商业氛围中保持批判性思考。",
-    "best_quote_en": "The cynicism of these ads – pretending to care while desperately trying to trigger the Pavlovian Christmas shopping response – is truly depressing.",
-    "best_quote_zh": "这些广告的虚伪让人失望——它们假装关心，却急切地试图触发巴甫洛夫式的圣诞购物反应，真是令人沮丧。"
-  },
-  {
-    "id": 228,
-    "title": "How to Make Pittsburgh a Startup Hub",
-    "title_zh": "如何让匹兹堡成为创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pgh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The talk argues that Pittsburgh can become a startup hub by leveraging its growing 25‑29 population, historic neighborhoods, and a strong research university—CMU. The author stresses that attracting young talent is the first step, and that city policy should focus on fast permitting for food startups, preserving mid‑century architecture, and encouraging walkable, bike‑friendly streets. He cautions against over‑commercializing the university and suggests that the best way for academia to foster entrepreneurship is to remain an open, low‑friction environment that lets students pursue side projects. Finally, he notes that a robust investor network is a long‑term goal, but that modern funding mechanisms (Kickstarter, Y Combinator) reduce the need for a dense local venture scene. The piece blends urban planning insights with startup strategy, offering a pragmatic roadmap for mid‑size cities aspiring to emulate Silicon Valley.",
-    "summary_zh": "演讲指出，匹兹堡可凭借25‑29岁年轻人增多、历史街区与CMU强大学力，打造创业中心。重点是简化餐饮许可、保护老建筑、提升步行与骑行便利，吸引青年。作者警示大学不宜过度商业化，最佳方式是保持低壁垒，鼓励学生开展副项目。虽缺乏成熟投资网络，但众筹与YC等已足以支撑早期融资。整体思路兼顾城市规划与创业策略，为中型城市提供可操作路线。",
-    "best_quote_en": "If a university really wanted to help its students start startups, the empirical evidence, weighted by market cap, suggests the best thing they can do is literally nothing.",
-    "best_quote_zh": "如果大学真的想帮助学生创业，经验数据显示，最好的办法就是什么都不做。"
-  },
-  {
-    "id": 229,
-    "title": "Support the Movement against AI extinction risk",
-    "title_zh": "支持反对AI灭绝风险的运动",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CjkQvuQpFffxYcJsR/support-the-movement-against-ai-extinction-risk",
-    "tags": [
-      "solve",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The piece is an activist manifesto that seeks to mobilize a mass movement against the perceived existential threat of artificial superintelligence. It blends a stark warning—\"heads of US AI labs, the executive branch, and intelligence agencies will race to build superintelligence despite risk awareness\"—with a pragmatic, multi‑layered playbook. The author urges the creation of a coordinated social‑media presence, political engagement, and even technical sabotage as levers to shift policy and public opinion. The tone oscillates between pessimistic realism and hopeful pragmatism, acknowledging that persuasion alone may be insufficient but still worth trying. It frames AI risk as a political, not purely technical, problem, and encourages diverse tactics from grassroots campaigns to policy lobbying. The critique lies in its moral ambiguity: advocating cyberattacks and potential violence while simultaneously denouncing assassination. Ultimately, the article invites readers to choose a concrete action—social media, political candidacy, or technical sabotage—to influence the trajectory of AI development.",
-    "summary_zh": "作者把AI灭绝风险视作政治议题，提出从社媒宣传到网络攻击、参政竞选的多元行动方案。文中警告美方高层会在风险意识下竞速研发超级智能，呼吁大众形成规模化运动。其语调兼具悲观与务实，既承认说服难度，又强调行动必要。内容在鼓动技术干预与提倡政治参与之间徘徊，呈现出道德灰色地带。整体来看，文章是一次对AI治理的激进呼吁，试图将技术风险转化为可操作的政治议题。",
-    "best_quote_en": "Assuming I and people like me do nothing, the most likely scenario I forecast is that heads of US AI labs, heads of US executive branch and heads of US intelligence community will choose to race to building superintelligence despite being at least vaguely aware of the risks of doing so.",
-    "best_quote_zh": "我支持创建一个大规模运动，迫使他们不要这么做。"
-  },
-  {
-    "id": 230,
-    "title": "The Mystery of the Political Assassin",
-    "title_zh": "政治刺客之谜",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-11-15",
-    "summary_en": "Margaret Talbot’s essay unspools the paradox of political assassination: the deliberate intent of an assassin rarely aligns with the historic fallout. By juxtaposing Gavrilo Princip’s 1914 act, which ignited a world war, with Yitzhak Rabin’s 1995 murder, which halted a fragile peace, the piece exposes a pattern—rational, organized actors often pursue symbolic, high‑profile targets, yet the consequences are chaotic and rarely serve their original purpose. Talbot weaves Ball’s taxonomy of “modern” assassins—ranging from state‑backed CIA manuals to lone, internet‑radicalized individuals—to argue that the era of Princip has ceded to a fragmented, ungrouped form of violence. The essay’s strength lies in its data‑driven chronicle of recent U.S. attacks, from Trump‑related attempts to the high‑profile killing of UnitedHealthcare CEO Brian Thompson, and in its critical reflection on how society constructs meaning around violent acts. It invites readers to question whether the “message” of these deeds survives public discourse, and whether the narrative we craft merely masks the systemic grievances that fuel them.",
-    "summary_zh": "文章探讨政治刺杀的悖论：刺客的意图往往与历史后果不符。通过对比1914年普林斯和1995年拉宾的刺杀，揭示了理性组织化的刺客往往针对象征性高调目标，却常导致混乱且难以实现预期。作者用数据梳理近美刺杀事件，指出从政府支持的暗杀手册到网络极端个体，刺杀已从传统集体化走向碎片化、无组织化。文章促使读者思考这些暴力行为的“信息”是否在公众话语中存活，以及我们构建的叙事是否掩盖了激发暴力的根本不满。",
-    "best_quote_en": "The problem with most revolutionary acts is that the message is lost on normies.",
-    "best_quote_zh": "大多数革命行为的问题在于，信息对普通人来说被遗失。"
-  },
-  {
     "id": 231,
     "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
     "title_zh": "美国机场混乱 / NewLife 估算器 / 远程储物柜取件",
@@ -2352,5 +2234,121 @@
     "summary_zh": "本周 MBW 综述聚焦音乐版权与 AI 争议，Epidemic Sound 继续起诉 Meta 侵权，WMG 对 PacSun 追索 290 款作品，Robert Kyncl 重签 CEO 合同，Jorja Smith 旗下 FAMM 要求 AI 作品分红，Breaking Rust 面临抄袭指控。内容揭示行业对版权、AI 合规与商业模式的深刻挑战，提醒从业者关注技术演进与法律风险。",
     "best_quote_en": "Epidemic Sound has filed a second copyright infringement lawsuit against Facebook parent company Meta, alleging that the tech giant continues to infringe the music company’s catalog across Facebook, Instagram and WhatsApp.",
     "best_quote_zh": "Epidemic Sound 已再次对 Meta 提起版权侵权诉讼，指其在 Facebook、Instagram 和 WhatsApp 上继续侵权。"
+  },
+  {
+    "id": 326,
+    "title": "‘Performance is inherently vulnerable’: Kristen Stewart says acting is ‘unmasculine’",
+    "title_zh": "表演本质上脆弱：克里斯汀·斯图尔特称表演是‘非男性化’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/dec/08/kristen-stewart-method-acting-masculinity-vulnerable",
+    "tags": [
+      "update",
+      "music-arts",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Kristen Stewart’s provocative claim that acting is inherently vulnerable and unmasculine challenges long‑standing gender norms in Hollywood. By dissecting the myth of the stoic male method actor versus the perceived emotional instability of women, Stewart invites a broader conversation about authenticity, power dynamics, and the performative expectations placed on actors. Her critique of Marlon Brando’s “Krypton” mispronunciation and the notion that male actors can mask vulnerability with bravado exposes the double standard that rewards men’s emotional control while stigmatizing women’s rawness. The piece serves as a case study in gendered performance theory, offering a nuanced lens for scholars, industry insiders, and audiences alike to re‑evaluate how vulnerability is framed, valued, and commodified in cinema. It pushes readers to question whether the current paradigm truly reflects artistic truth or perpetuates a patriarchal narrative that marginalizes female expression.",
+    "summary_zh": "克里斯汀·斯图尔特质疑表演本质上脆弱且非男性化，揭露男演员被夸赞、女演员被贴“情绪失衡”标签的双重标准。她以马龙·布兰多的“克里普顿”发音失误为例，指出男性通过“勇敢”掩盖脆弱的方式被赞扬，而女性若展现同样情感则被视为疯狂。此文从性别表演理论角度出发，提供案例分析，促使业界与观众重新审视脆弱性在电影中的价值与性别化评判，质疑现行模式是否真正体现艺术真理，或是维持父权叙事，边缘化女性表达。",
+    "best_quote_en": "\"Performance is inherently vulnerable and therefore quite embarrassing and unmasculine.\"",
+    "best_quote_zh": "“表演本质上脆弱，因此相当尴尬且非男性化。”"
+  },
+  {
+    "id": 327,
+    "title": "Don't Talk to Corp Dev",
+    "title_zh": "不要与企业发展部交谈",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/corpdev.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Don’t Talk to Corp Dev is a candid primer on when founders should or should not engage corporate development teams. The author argues that the moment a startup is in a “just‑in‑time” state—either thriving at a high valuation or on the brink of collapse—is the only time a conversation with a corporate buyer makes sense. For most growth‑stage founders, the piece warns that opening the door to M&A discussions can become a costly distraction, draining focus and eroding morale. He illustrates this with vivid analogies, likening the process to a marathon runner being coaxed into stopping mid‑race. The article also exposes the psychological tactics of corporate buyers: low‑ball offers, feigned vetoes, and a relentless drive to minimize purchase price. The ultimate prescription is a simple rule of thumb: “If you don’t want to sell now, don’t even meet.” The article blends personal anecdotes, expert insight, and actionable guidelines, making it a valuable read for founders navigating early‑stage M&A considerations.",
+    "summary_zh": "《不要与企业发展部交谈》以直白的方式告诉创业者何时与企业收购团队接触才合适。作者认为，只有在公司极度成功或濒临破产时才值得谈判，否则会分散精力并削弱士气。他用马拉松比喻M&A谈判的诱惑与陷阱，揭示企业方的低价诱导和虚假否决。核心建议是：如果你现在不想卖，就别先约会。文章结合个人经历、专家视角和实用技巧，为早期创业者提供了清晰的行动指南。",
+    "best_quote_en": "They want to talk about buying you. That's what the title 'corp dev' means.",
+    "best_quote_zh": "他们想谈论收购你。这就是‘corp dev’这个标题的含义。"
+  },
+  {
+    "id": 328,
+    "title": "Baby Feed",
+    "title_zh": "婴儿喂养",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/baby-feed/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "The article presents a curated set of baby‑feeding tools that blend practicality with thoughtful design, offering new parents tangible solutions to everyday challenges. From the Munchkin Snack Catcher’s one‑way rubber flap that keeps crumbs from spilling, to Dr. Brown’s bottle system that eliminates air‑swallowing and reduces colic, each product is evaluated for real‑world impact. The author’s personal anecdotes—such as the Doidy Cup’s role in preventing choking and the Tiny Diner Placemat’s portability—add credibility and underscore the importance of ergonomics in infant care. The piece also highlights material safety, noting BPA‑free and non‑phthalate options. While the discussion is product‑centric, it implicitly champions evidence‑based parenting, encouraging parents to weigh functionality, hygiene, and developmental benefits. Overall, the article serves as a practical guide that empowers parents to make informed choices, emphasizing that thoughtful product design can significantly improve feeding experiences for both babies and caregivers.",
+    "summary_zh": "这篇文章通过评测多款婴儿喂养工具，展示了在日常育儿中如何通过实用设计提升体验。作者以亲身试用为依据，强调产品的功能性、安全性与便利性，并通过细节说明其对宝宝舒适与父母效率的积极影响。内容不仅是商品推荐，更是对育儿理念的细致阐述，鼓励家长在选择时关注实用与健康双重价值。",
+    "best_quote_en": "The secret to Dr. Brown’s Baby Bottles, apparently, is the tube system inside — it prevents the infant from swallowing air, which makes for a happier baby (and by extension, happier parents).",
+    "best_quote_zh": "据说，Dr. Brown 婴儿瓶的秘密在于内部的管道系统——它防止婴儿吞咽空气，从而让宝宝更快乐（也让父母更开心）。"
+  },
+  {
+    "id": 329,
+    "title": "Master the Creative Process | Twyla Tharp",
+    "title_zh": "掌握创意过程 | Twyla Tharp",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/master-the-creative-process-twyla-tharp",
+    "tags": [
+      "guide",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Twyla Tharp’s conversation with the Huberman Lab distills the paradox of artistic brilliance: it is born not from spontaneous inspiration alone but from a disciplined, almost ritualistic routine that becomes the “spine” of creative work. She argues that a clear central message, audience‑centric thinking, and relentless daily practice elevate standards and transform vision into reality. Tharp’s anecdotes—from early ballet training to the evolution of her choreography—illustrate how hard work, competition, and even the names we choose shape our self‑efficacy. The episode offers actionable frameworks: a “box” of habits, a “scratching” technique for idea refinement, and the importance of physical conditioning for sustained creativity. For practitioners and aspiring creators alike, it underscores that mastery is a cumulative process of habit, reflection, and disciplined execution, not a flash of genius. This pragmatic, expert‑insight‑rich dialogue invites listeners to re‑engineer their creative rituals and harness their inner vision with measurable consistency.",
+    "summary_zh": "Twyla Tharp 以纪律为脊梁，揭示创作成功的秘诀：清晰主题、以观众为中心、日常练习。她用舞蹈与生活故事说明自我效能的塑造，强调习惯与身体训练对创意的持续影响。",
+    "best_quote_en": "The spine of creative work is a disciplined routine.",
+    "best_quote_zh": "创作的脊梁是有纪律的日常。"
+  },
+  {
+    "id": 330,
+    "title": "The 23 biggest music business deals of 2025: From Taylor Swift to Tencent Music, Live Nation, and Chord.",
+    "title_zh": "2025年最大音乐商业交易23大：从泰勒·斯威夫特到腾讯音乐、Live Nation 与 Chord",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/the-23-biggest-music-business-deals-of-2025-from-taylor-swift-to-tencent-music-live-nation-and-chord/",
+    "tags": [
+      "update",
+      "startup-funding",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "2025’s music‑industry headline deals reveal a seismic shift away from blockbuster artist‑catalog buyouts toward a finance‑centric ecosystem. The absence of new mega‑catalog acquisitions—after last year’s Queen, Pink Floyd, and Michael Jackson deals—highlights a pivot to asset‑backed securitization (ABS), debt‑leveraged fundraising, and joint‑venture “war‑chest” building. Tencent Music’s $2.4 billion purchase of Ximalaya underscores the rise of non‑Western powerhouses and the blurring of streaming, podcasting, and live‑event borders. Meanwhile, Chord Music Partners’ multi‑billion‑dollar raise and Concord’s record‑breaking $1.76 billion ABS illustrate how rights are increasingly treated as liquid capital. The wave extends to AI: Suno’s $250 million Series C, coupled with its recent settlement with Warner, signals a new frontier where algorithm‑generated music and major‑label collaboration converge. Collectively, these transactions point to a future where music rights are fungible assets, financing innovation and reshaping the cultural economy.",
+    "summary_zh": "2025 年音乐交易的顶尖案例显示，行业正从明星专辑大买卖转向金融化生态。腾讯音乐收购喜马拉雅、Chord 音乐融资、Concord 资产证券化，以及 Suno 的 AI 版图，均表明版权正被视作可流通资本，推动技术创新与文化经济重塑。",
+    "best_quote_en": "Asset-backed securitization (ABS) of music catalogs has truly taken off.",
+    "best_quote_zh": "音乐目录的资产支持证券化（ABS）真正起飞了。"
   }
 ]
