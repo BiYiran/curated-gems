@@ -1,125 +1,5 @@
 [
   {
-    "id": 231,
-    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
-    "title_zh": "美国机场混乱 / NewLife 估算器 / 远程储物柜取件",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "The piece stitches together a series of pragmatic responses to the longest U.S. government shutdown, revealing how travelers can adapt to sudden air‑traffic curbs, plan cross‑border moves, and streamline packing. It opens with a stark warning: a 10 % reduction in traffic across 40 hubs will push many to seek rail or car alternatives, while insurance coverage becomes essential. The NewLife calculator showcases AI‑powered cost comparisons, turning relocation into a data‑driven exercise that can save thousands monthly. A packing hack turns everyday wardrobe items into temporary luggage, a low‑effort strategy that reduces weight and costs. Finally, Amazon’s locker network offers a residency‑agnostic solution for nomads, turning any U.S. city into a secure drop‑off point. Together, these insights form a toolkit that transforms uncertainty into actionable choices, emphasizing flexibility, data, and resourcefulness in modern travel.",
-    "summary_zh": "在政府停摆的阴影下，文章把旅行者的焦虑转化为可操作的方案：从航班限制到搬迁成本估算，再到轻装打包和跨城市取件。它强调数据驱动与灵活应变，让不确定性变成可管理的资源。",
-    "best_quote_en": "The longest US government shutdown in history is still going, with the president breaking his own previous record, and as with the last long run, it’s creating havoc for unpaid airport workers and thus airline travelers.",
-    "best_quote_zh": "如果你是流动的，只在美国偶尔出现，亚马逊的储物柜服务是一个不错的方式，可以在你所在的任何城市接收包裹。"
-  },
-  {
-    "id": 232,
-    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
-    "title_zh": "我在36岁决定冷冻卵子前所想知道的一切",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
-    "tags": [
-      "analyze",
-      "medicine",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The Guardian piece offers a candid, data‑rich primer on egg‑freezing, framing it as the first half of an IVF journey rather than a guaranteed shortcut to parenthood. It highlights the surge in UK cycles, the commercial pressures, and the stark reality that frozen eggs do not guarantee a live birth. Practical guidance—clinic selection via HFEA metrics, realistic egg‑count targets, and the financial nuances of hidden costs—is paired with nuanced medical insights from UCL experts. The article balances hopeful narratives from celebrities with sober warnings about age‑related quality decline and the need for a supportive network. Readers gain a clear, actionable roadmap: understand the science, budget for the hidden fees, and prepare mentally for the emotional roller‑coaster. It’s a thoughtful blend of medical fact, personal testimony, and pragmatic advice that empowers women to make informed, realistic choices about fertility preservation.",
-    "summary_zh": "这篇Guardian文章以真实案例和数据为基础，阐释卵子冷冻是IVF的前奏而非保证成功。它揭示英国冷冻周期激增、商业化与价格不透明的现实，并提供实用指南：通过HFEA评估诊所、合理预期卵子数量、了解隐藏费用。文章兼顾名人故事与医学专家警示，强调年龄对卵子质量的影响，并鼓励建立支持网络。读者可获得科学、预算与情绪管理的完整路线图，帮助女性做出理性、可行的生育储备决策。",
-    "best_quote_en": "“You’ve got to be prepared that it may not be successful.”",
-    "best_quote_zh": "“你必须准备好它可能不会成功。”"
-  },
-  {
-    "id": 233,
-    "title": "Life is Short",
-    "title_zh": "生命很短",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vb.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The essay contends that life’s brevity is a tangible fact, not merely a rhetorical flourish, and that recognizing this fact reshapes how we allocate our finite moments. By framing time as a series of discrete, countable units—such as the eight Christmases a child experiences—the author shows how scarcity becomes apparent when we move from continuous to discrete thinking. The central thesis is that “life is too short for bullshit,” urging readers to eliminate wasteful activities, whether they’re forced by external circumstances or self‑deluded by addictive patterns. The piece blends personal anecdote, psychological insight, and practical strategy: prioritize authentic, meaningful pursuits, prune toxic obligations, and cultivate a habit of urgency to seize opportunities before they close. It invites a reflective, almost philosophical stance that life’s shortness should inspire purposeful action rather than resignation, making the argument both intellectually engaging and immediately actionable.",
-    "summary_zh": "作者通过把时间拆解为可数的、有限的事件，阐明人生确实短暂，并以“人生太短，别浪费在废话上”为核心论点，鼓励读者剔除无意义的事务，专注真正重要的事物。",
-    "best_quote_en": "Life is too short for bullshit.",
-    "best_quote_zh": "生活太短，别浪费在废话上。"
-  },
-  {
-    "id": 234,
-    "title": "Video games are philosophy's playground",
-    "title_zh": "视频游戏是哲学的游乐场",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rGg5QieyJ6uBwDnSh/video-games-are-philosophy-s-playground",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "This essay argues that multiplayer video games function as living laboratories for metaphysics, allowing players to experiment with alternative spatial, temporal, causal, and ontological structures in a way that traditional thought experiments cannot match. By navigating top‑down maps, first‑person worlds, and portal‑shaped geometries, players develop intuitions about space that are as natural as reading a map. Games also blur time’s linearity—turn‑based, real‑time, retrocausal multiplayer, and even non‑linear systems like Achron—forcing players to reconcile multiple temporal logics. Ontologically, games range from structural realism in Factorio to character realism in RPGs, training players to shift between pattern‑centric and person‑centric views. Modal logic becomes tangible through save files and branching narratives, while multiplayer systems force designers to adopt concrete theories of truth and causality. The author proposes that game designers, educators, and philosophers can harness these mechanics to create richer metaphysical models, teach abstract concepts through gameplay, and develop AI agents in more nuanced environments. Ultimately, the essay positions video games as a bridge between speculative philosophy and experiential learning, offering a sandbox for testing ideas that once lived only in the mind.",
-    "summary_zh": "文章将多人游戏视为活实验室，让玩家在空间、时间、因果和存在论上进行实验，培养直觉。游戏把线性时间打碎，呈现多重时间逻辑；从结构主义到角色主义，教玩家在模式与个体间自由切换；存档与分支剧情让模态逻辑可触摸；多人网络迫使设计师选择真理与因果理论。作者呼吁设计师、教师和哲学家利用游戏机制，创造更丰富的形而上模型，借游戏教导抽象概念，培养更具适应性的 AI。游戏成为理论与体验的桥梁，开启可实验的形而上世界。",
-    "best_quote_en": "Games let us experimentally vary fundamental features of reality—time, space, causality, ontology—and then live inside those variations long enough to build strong intuitions about them.",
-    "best_quote_zh": "游戏让我们实验性地改变现实的基本特征——时间、空间、因果关系、存在论——并在其中生活足够长的时间，以形成强烈的直觉。"
-  },
-  {
-    "id": 235,
-    "title": "The Meaning of Trump’s Presidential Pardons",
-    "title_zh": "特朗普总统赦免的意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/11/24/the-meaning-of-trumps-presidential-pardons",
-    "tags": [
-      "guide",
-      "politics",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The article dissects the unprecedented scale of President Trump’s pardons, framing them as a nexus of political loyalty, legal manipulation, and economic bargaining. By tracing the pardon power from Hammurabi to the modern U.S. Constitution, it highlights how selective clemency can both correct perceived injustices and, when wielded unchecked, create a parallel justice system that rewards allies over the rule of law. Trump’s recent “pardon economy”—where lobbyists and donors vie for executive clemency—illustrates a shift from rare, principled use to a transactional tool that bolsters partisan advantage. The piece urges readers to reconsider the constitutional balance between executive mercy and democratic accountability, reminding us that the power to forgive can also become a weapon of political survival. Its critical lens invites debate on whether such expansive pardons undermine public trust or serve as a necessary check on prosecutorial overreach.",
-    "summary_zh": "特朗普大规模赦免的背后，是政治忠诚与司法操控的交织。文章剖析赦免权从历史到当代的演变，揭示其如何成为政治工具、经济交易与社会正义的灰色地带。读者可从中反思宪法赋予的权力与公共信任的边界。",
-    "best_quote_en": "The pardon economy presents the possibility that, if you’re nice enough to the President, a jury’s judgment might be set aside.",
-    "best_quote_zh": "赦免可以成为通往另一个司法体系的捷径。"
-  },
-  {
     "id": 236,
     "title": "Colors of Asia / book.sv / Compression bags",
     "title_zh": "《亚洲之色》/ book.sv/ 压缩袋",
@@ -2350,5 +2230,123 @@
     "summary_zh": "2025 年音乐交易的顶尖案例显示，行业正从明星专辑大买卖转向金融化生态。腾讯音乐收购喜马拉雅、Chord 音乐融资、Concord 资产证券化，以及 Suno 的 AI 版图，均表明版权正被视作可流通资本，推动技术创新与文化经济重塑。",
     "best_quote_en": "Asset-backed securitization (ABS) of music catalogs has truly taken off.",
     "best_quote_zh": "音乐目录的资产支持证券化（ABS）真正起飞了。"
+  },
+  {
+    "id": 331,
+    "title": "Warning system to spot poor care at NHS England maternity wards",
+    "title_zh": "英国 NHS 产科护理警报系统",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/dec/08/warning-system-to-spot-poor-care-at-nhs-england-maternity-wards",
+    "tags": [
+      "update",
+      "medicine",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "The NHS England’s Maternity Outcomes Signal System (MOSS) marks a watershed in obstetric safety, turning raw outcome data into a real‑time early warning mechanism. By setting 95 % and 99 % confidence thresholds for deaths or serious neonatal injury, the system forces prompt, board‑approved reviews within days of a signal. This data‑driven approach, born from the 2022 East Kent investigation, will cover every maternity unit nationwide, ensuring that no cluster of adverse events slips past oversight. The initiative is not only a procedural upgrade; it signals a cultural shift toward transparency and accountability, empowering frontline managers with evidence‑based triggers. For clinicians, policymakers, and patients, the system offers a concrete tool to pre‑empt harm and benchmark performance. Yet, its success hinges on rigorous data collection, swift governance, and sustained investment. MOSS exemplifies how statistical vigilance can transform health policy into actionable safety nets, setting a precedent for other high‑risk care domains.",
+    "summary_zh": "MOSS系统将产科不良事件实时转化为预警信号，以95%和99%的置信度触发管理层迅速评估。它源自东肯特调查，覆盖全英产科，推动透明与问责。此举既是技术升级，也是文化转变，为临床、决策者与患者提供可操作的安全工具，若能持续投入与治理，将成为高危医疗领域的标杆。",
+    "best_quote_en": "For too long, maternity warning signs have been missed. Now, this is a key step we are taking to improve maternity care.",
+    "best_quote_zh": "这是一项真正积极的发展，直接源自对东肯特产科服务调查的结果。"
+  },
+  {
+    "id": 332,
+    "title": "Let the Other 95% of Great Programmers In",
+    "title_zh": "让其他95%的优秀程序员进来",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/95.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "This essay argues that America’s tech dominance hinges on attracting the world’s top programmers, not merely training more domestic talent. The author contends that exceptional programmers possess innate aptitude and curiosity that cannot be fully cultivated through education alone, and that the U.S., with less than 5 % of the global population, cannot rely on domestic supply to meet demand. Drawing on anecdotal evidence from Silicon Valley startups, he demonstrates that firms are willing to navigate complex immigration processes to secure elite talent, and that the cost of doing so is offset by the transformative impact of these individuals. The piece frames immigration policy as a strategic lever for maintaining technological leadership, warning that failure to capitalize on this opportunity could erode U.S. influence in the next half‑century. It blends data‑driven reasoning with a persuasive call to action, urging policymakers to streamline pathways for high‑skill talent while guarding against exploitation by low‑skill visa programs. The article’s blend of economic logic, policy critique, and future‑focused vision makes it a compelling read for anyone interested in tech strategy and immigration reform.",
+    "summary_zh": "文章认为美国科技霸主地位取决于吸引全球顶尖程序员，而非单纯培养本土人才。作者指出，卓越程序员拥有天赋与好奇心，教育无法完全塑造；美国仅占全球人口5%，无法满足需求。通过硅谷初创企业案例，展示企业愿意克服移民程序获取精英人才，成本被其价值抵消。作者将移民政策视为维持技术领先的战略杠杆，警示若不抓住机会，未来半世纪美国影响力可能被削弱。文章结合数据与行动号召，倡议简化高技能人才通道，同时防止低技能签证滥用。",
+    "best_quote_en": "Exceptional programmers have an aptitude for and interest in programming that is not merely the product of training.",
+    "best_quote_zh": "如果我们想保持这个选项开放，最好的办法是利用它：世界上越多的优秀程序员在这里，越有可能让其他人来这里。"
+  },
+  {
+    "id": 333,
+    "title": "If You Quit Social Media, Will You Read More Books?",
+    "title_zh": "如果你戒掉社交媒体，你会读更多书吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books",
+    "tags": [
+      "inspire",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Jay Caspian Kang’s column chronicles a personal experiment: quitting social media to see if the freed bandwidth would translate into more book reading. The narrative is both anecdotal and data‑driven, citing literacy surveys that reveal a steep decline in daily reading among youth and adults. Kang’s observation that the absence of platforms like X, Instagram, and TikTok did not magically boost his own reading habits forces a deeper interrogation of the assumed link between digital distraction and literary engagement. He juxtaposes the idea of “smart” reading—discovering titles via Reddit, BookTok, or Substack—with the risk of echo‑chambers that filter out dissenting voices. The piece challenges the simplistic narrative that social media inherently erodes culture, suggesting instead a nuanced interplay where the internet can both streamline access and constrain breadth. In a broader sense, the article calls for a balanced media diet that preserves depth, community, and the slow deliberation that long‑form texts uniquely afford.",
+    "summary_zh": "作者用亲身戒社交媒体的实验，揭示数字沉迷与阅读习惯的微妙关联。他质疑‘少读多精’的论调，提醒我们在信息洪流中仍需守护多元视角与深度思考。",
+    "best_quote_en": "Social media does create a powerful consensus—on the internet, everything tends to grow quickly toward one source of light— and an argument can be made that a slower, more fractured network of in‑person, localized arguments might ultimately offer up more intellectual variety.",
+    "best_quote_zh": "社交媒体确实创造了强大的共识——在互联网上，一切往往迅速趋向一个光源——而可以说，慢速、更碎片化的面对面、本地化的争论网络最终可能提供更多的知识多样性。"
+  },
+  {
+    "id": 334,
+    "title": "Chihuly on Fire / Cursed Pirate Girl",
+    "title_zh": "火焰中的奇胡利 / 被诅咒的海盗女孩",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/chihuly-on-fire-cursed-pirate-girl/",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "The article juxtaposes two distinct artistic realms—Dale Chihuly’s groundbreaking glass sculptures and Jeremy Bastian’s intricate black‑and‑white graphic novel—highlighting how color and technique can redefine perceived boundaries. Chihuly’s narrative traces a pivotal shift in the 1980s when he introduced the Macchia series, infusing solid hues and “jimmies” of crushed glass into sculptural forms, thereby challenging the conservative expectations of the craft‑arts scene. The review underscores how his fearless use of color and fire‑based production processes elevate the medium from decorative to provocative, positioning Chihuly as a provocateur who insists that beauty itself is a political act. In contrast, the graphic novel discussion spotlights meticulous line work and mechanical pencil precision, celebrating the artist’s mastery of detail to create an immersive, swashbuckling narrative. Together, the pieces illuminate the power of visual storytelling, whether through molten glass or inked panels, and invite readers to reconsider the limits of artistic expression and the role of technical daring in contemporary art.",
+    "summary_zh": "文章将奇胡利的玻璃雕塑与海盗女孩的黑白漫画并置，探讨色彩与技巧如何打破传统界限。奇胡利在80年代通过Macchia系列大胆运色与火焰工艺，将玻璃艺术从装饰提升为政治性美学；而漫画则以机械铅笔与细腻线条呈现冒险叙事，展示细节的力量。两者共同揭示视觉叙事的潜能，鼓励读者重新审视技术勇气与艺术表达的边界。",
+    "best_quote_en": "Chihuly takes the greater aesthetic risk by being brash enough to demand that his creations are also, well, beautiful.",
+    "best_quote_zh": "即使在他的早期，奇胡利的雄心似乎比全国的玻璃艺术画廊网络更大。"
+  },
+  {
+    "id": 335,
+    "title": "Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
+    "title_zh": "Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/09/dr-fei-fei-li-the-godmother-of-ai/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "In this episode, Tim Ferriss sits down with Dr. Fei‑Fei Li, a pioneer of computer vision and a vocal advocate for human‑centered AI. Li’s journey—from a physics degree at Princeton to leading Stanford’s AI Lab and co‑founding World Labs—illustrates how curiosity and interdisciplinary thinking can steer the next wave of AI innovation. She explains how spatial intelligence, a branch of AI that maps the world into meaningful, navigable representations, could reshape everything from autonomous vehicles to global logistics. The conversation also tackles the ethical and societal dimensions of AI, urging listeners to ask audacious questions and align technology with humanity’s long‑term interests. Li’s candid reflections on failure, mentorship, and the “North Star” mindset provide actionable guidance for researchers, founders, and policy makers alike, making this episode a must‑listen for anyone wanting to navigate the complex future of AI.",
+    "summary_zh": "在本期节目中，铁粉与AI先驱李飞飞博士对话，探讨人本AI、空间智能与技术伦理。李博士从普林斯顿物理学到斯坦福AI实验室，再到创立World Labs，展示好奇与跨学科思维如何引领AI未来。她强调空间智能如何改变自动驾驶与物流，并呼吁以“北极星”思维提问、对齐技术与人类长远利益。对研究者、创业者和政策制定者均具可操作性，是理解AI未来的必听之作。",
+    "best_quote_en": "“inaugural Sequoia Professor in the Computer Science Department at Stanford University”",
+    "best_quote_zh": "“斯坦福大学计算机科学系的首任Sequoia教授”"
   }
 ]
