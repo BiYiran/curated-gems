@@ -1,123 +1,5 @@
 [
   {
-    "id": 236,
-    "title": "Colors of Asia / book.sv / Compression bags",
-    "title_zh": "《亚洲之色》/ book.sv/ 压缩袋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/colors-of-asia-book-sv-compression-bags/",
-    "tags": [
-      "guide",
-      "design",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The post is a mosaic of personal insights that weave together creativity, practicality, and thoughtful reflection.  Its centerpiece, the newly‑released book *Colors of Asia*, is presented not as a conventional travel guide but as a chromatic collage—each page a burst of color that captures the spirit of a place.  The author’s decision to limit the run to 1,000 copies and price it affordably signals a deliberate shift from mass‑market ambition to a community‑centric, fan‑first approach, offering a model for niche publishing that prioritizes connection over volume.  The accompanying travel hacks—from compression bags that eliminate the need for vacuum pumps to a curated list of indispensable apps for China—serve as actionable, real‑world advice that empowers readers to travel smarter.  Finally, the brief philosophical vignette on radical acceptance injects a mindful lens, reminding us that the way we respond to small annoyances can transform everyday experience.  Together, the post invites readers to re‑imagine how we consume, move, and interpret the world around us.",
-    "summary_zh": "作者以色彩与实用为线索，呈现《亚洲之色》与旅行技巧，强调限量与粉丝至上，兼具创意与行动指南，亦不忘以心理学视角审视日常小事，激发读者重新思考消费、移动与感知。",
-    "best_quote_en": "This isn’t about liking what happened — just not making it worse by fighting reality.",
-    "best_quote_zh": "这并不是要喜欢发生的事——只是不要因抗争现实而让它变得更糟。"
-  },
-  {
-    "id": 237,
-    "title": "Economic Inequality",
-    "title_zh": "经济不平等",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ineq.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "The essay reframes economic inequality as a multifaceted phenomenon rather than a single pie‑fallacy. By dissecting its roots—tax loopholes, addiction, rent‑seeking versus wealth creation—the author argues that the real driver of persistent disparity is the exponential acceleration of productivity enabled by technology. This insight forces a shift from blanket calls to reduce inequality toward targeted interventions: curb corrupt practices, strengthen social mobility, and address poverty as the true symptom. The piece balances critique of traditional economic statistics with a pragmatic call to focus on specific levers—such as limiting zero‑sum wealth extraction—while acknowledging that reducing inequality would require curbing startup dynamism, an undesirable trade‑off. The essay’s intellectual curiosity lies in its insistence that we must understand the mechanics before prescribing fixes, challenging the prevailing narrative that “more equality is always better.”",
-    "summary_zh": "作者将经济不平等从单一的“饼状悖论”拆解为多元因素，强调技术加速生产率是根本驱动力。文章呼吁精准干预：遏制腐败、提升社会流动性、聚焦贫困而非单纯追求平等。它提醒我们，若要削减不平等，必须牺牲创业活力——这不是可取之路。作者以批判传统统计、强调机制理解为核心，挑战“越平等越好”的主流叙事，激发读者重新思考可持续社会的可能性。",
-    "best_quote_en": "If you want to understand economic inequality—and more importantly, if you actually want to fix the bad aspects of it—you have to tease apart the components.",
-    "best_quote_zh": "如果你想了解经济不平等——更重要的是，如果你真的想纠正其不良方面——你必须拆分其组成部分。"
-  },
-  {
-    "id": 238,
-    "title": "The Darkest Thread in the Epstein E-mails",
-    "title_zh": "埃普斯坦邮件中的最黑暗线索",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-darkest-thread-in-the-epstein-e-mails",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The piece dissects the newly released trove of Jeffrey Epstein’s correspondence, spotlighting how the political elite—most notably Donald Trump—are woven into its fabric. By mapping out the emails, the article reveals a pattern of “negative space” where Trump’s name is often absent or dismissed, yet his influence permeates the narrative through real‑world interactions, property deals, and informal conversations with figures such as Steve Bannon, Lawrence Summers, and Ghislaine Maxwell. The analysis underscores the tension between the public’s demand for transparency and the political machinery that can stall or manipulate disclosure. It also highlights the stark contrast between the alleged sexual abuse and the political opportunism that follows, illustrating how powerful actors can shape discourse while avoiding accountability. This investigative lens invites readers to question the integrity of the political process and the ethics of silence, prompting a deeper reflection on how power, media, and public trust intersect in contemporary politics.",
-    "summary_zh": "文章剖析了新公布的埃普斯坦邮件，聚焦唐纳德·特朗普与权力圈的交织。通过梳理邮件，揭示特朗普虽名不常出现，却通过地产交易、与斯蒂夫·班农、劳伦斯·萨默斯等人的互动，潜移默化地影响叙事。文中指出公众对透明度的渴求与政治机制的阻碍之间的张力，展示权力与媒体如何在不承担责任的情况下操纵话语。此篇报道促使读者反思政治诚信与公众信任的交汇点。",
-    "best_quote_en": "Donald Trump occupies a kind of negative space in the available files, which run an enervating gamut from the inane to the depraved.",
-    "best_quote_zh": "唐纳德·特朗普在可获得的文件中占据一种负空间，文件内容从无聊到堕落交织在一起。"
-  },
-  {
-    "id": 239,
-    "title": "Coral",
-    "title_zh": "珊瑚",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/coral/",
-    "tags": [
-      "guide",
-      "science",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The piece is a gentle yet deeply informative tour through the world of coral reefs, framed by the author’s personal snorkeling adventure in the Bahamas and the practical tools of field guides and home aquaria. It highlights how a field guide—first the Peterson primer, then Paul Humann’s richly illustrated volumes—acts as a bridge between the bewildering diversity of reef life and a layperson’s curiosity. The narrative underscores the value of hands‑on experience, noting that even seasoned reef keepers learn more from a well‑crafted aquarium manual than from any textbook. By weaving in the PBS series *The Shape of Life*, the author broadens the lens to the entire animal kingdom, reminding readers that coral reefs are a microcosm of Earth’s evolutionary tapestry. The article invites readers to explore, document, and ultimately respect the unseen ecosystems beneath the waves, offering actionable insights for both beginners and seasoned hobbyists. Its tone balances wonder with practical guidance, making it a compelling resource for anyone eager to deepen their marine biology knowledge.",
-    "summary_zh": "文章以作者在巴哈马潜水的亲身经历为起点，细致描绘了珊瑚礁的奇妙多样性，并强调了现场指南与家庭水族箱在解读海洋生态中的重要作用。通过介绍Peterson和Humann的实用手册，作者展示了如何将海底世界的复杂性转化为易懂的知识。文章还引用PBS《生命的形状》系列，将珊瑚礁视为地球进化的缩影，激发读者对海洋生物的敬畏与探索欲。整体语调兼具好奇与实用，既适合初学者，也为经验丰富的水族爱好者提供可操作的见解。",
-    "best_quote_en": "The guides contain a sufficient critical mass of species that you can be confident you actually saw what you think you saw.",
-    "best_quote_zh": "我感到神圣，受祝福。"
-  },
-  {
-    "id": 240,
-    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
-    "title_zh": "呼吸：对身心健康与表现的必修课 | Dr. Jack Feldman",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
-    "tags": [
-      "guide",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "Huberman Lab’s latest Essentials episode brings in Dr. Jack Feldman, a UCLA neurobiology professor, to dissect the science of breathing. The conversation starts with the anatomy of respiration—diaphragm mechanics, the pre‑Bötzinger complex, and the neural circuitry that sets our breathing rhythm—before moving into the psychological implications of breath patterns. Feldman explains how controlled breathing can dampen the fear circuitry, reduce anxiety, and build emotional resilience, citing studies that link slow, box‑style breathing with decreased cortisol and improved autonomic balance. He also offers concrete tools, from box breathing for peak performance to magnesium L‑threonate supplementation for cognitive longevity, grounding each recommendation in recent trials. For listeners, the episode is a blend of mechanistic insight and practical take‑aways, positioning breathing as a low‑cost, high‑impact lever for mental and physical well‑being.",
-    "summary_zh": "Huberman实验室最新的Essentials节目邀请了UCLA神经生物学教授Jack Feldman，深入剖析呼吸科学。节目先讲解呼吸机制——膈肌运动、pre‑Bötzinger复合体与呼吸节律的神经回路——随后探讨呼吸模式对情绪与焦虑的调节作用。Feldman指出，受控呼吸可抑制恐惧回路，降低皮质醇并提升自主神经平衡，引用慢速、方形呼吸能提升情绪韧性。节目还提供实用工具，如方形呼吸训练与镁L‑苏糖酸补充剂，均基于最新临床试验。对听众而言，这是一场将机理与实操相结合的节目，展示呼吸作为低成本高效益的身心调节杠杆。",
-    "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
-    "best_quote_zh": "呼吸模式深刻影响情绪状态，包括降低焦虑和增强情绪韧性的作用。"
-  },
-  {
     "id": 241,
     "title": "Notes on Being a Man, and Advice for Young Men Who Are Feeling Lost — Scott Galloway",
     "title_zh": "关于做一个男人的笔记",
@@ -2348,5 +2230,119 @@
     "summary_zh": "在本期节目中，铁粉与AI先驱李飞飞博士对话，探讨人本AI、空间智能与技术伦理。李博士从普林斯顿物理学到斯坦福AI实验室，再到创立World Labs，展示好奇与跨学科思维如何引领AI未来。她强调空间智能如何改变自动驾驶与物流，并呼吁以“北极星”思维提问、对齐技术与人类长远利益。对研究者、创业者和政策制定者均具可操作性，是理解AI未来的必听之作。",
     "best_quote_en": "“inaugural Sequoia Professor in the Computer Science Department at Stanford University”",
     "best_quote_zh": "“斯坦福大学计算机科学系的首任Sequoia教授”"
+  },
+  {
+    "id": 336,
+    "title": "How to Be an Expert in a Changing World",
+    "title_zh": "如何在变化的世界里成为专家",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ecw.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "In a world that never stands still, the author argues that expertise is a moving target—what works today may be obsolete tomorrow. Drawing on a decade of early‑stage startup investing, he teaches how to guard against the seductive trap of overconfidence in static beliefs. The key is to adopt an explicit belief in change, stay aggressively open‑minded, and treat hypotheses as living experiments rather than immutable truths. He introduces a counterintuitive strategy: bet on people, not ideas. By surrounding yourself with earnest, energetic, independent‑minded founders, you increase the odds of spotting the next breakthrough before others do. The piece blends personal anecdotes, behavioral insights, and actionable frameworks—making it a practical guide for investors, entrepreneurs, and anyone who wants to stay ahead of the curve. It invites readers to question their assumptions, embrace uncertainty, and view failure as a stepping‑stone to future success.",
+    "summary_zh": "在永不停息的世界里，作者指出专业知识是一种不断变化的目标——今天有效的事物明天可能已过时。他用十年早期创业投资经验，教人如何防止过度自信陷阱。核心是明确相信变化、保持极度开放的心态，把假设视为活实验，而非不变真理。作者提出反直觉策略：下注人而非想法。围绕真诚、充满活力、独立思考的创始人，可在他人之前捕捉下一次突破。文章融合个人轶事、行为洞察与可操作框架，成为投资人、创业者以及想保持领先的人的实用指南，鼓励读者质疑假设，拥抱不确定，视失败为通向未来成功的垫脚石。",
+    "best_quote_en": "The best strategy is simply to be aggressively open‑minded.",
+    "best_quote_zh": "让自己始终保持开放的心态是最好的策略。"
+  },
+  {
+    "id": 337,
+    "title": "Brain-inspired LLM alignment",
+    "title_zh": "基于脑启发的LLM对齐",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/PL4f6mnA2BuLr2m3s/brain-inspired-llm-alignment",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "The article proposes a novel hybrid architecture that blends large‑language‑model (LLM) autoregression with brain‑like cognitive scaffolding. By introducing a thought‑generator backbone, parallel reward‑assessor heads, and a steering subsystem that aggregates valence scores, the author envisions an early‑alignment pipeline that trains these heads during pre‑training rather than relying on post‑hoc fine‑tuning. This design addresses key alignment pitfalls: the opaque agency of RLHF, the vulnerability of LLM personalities to jailbreaks, and the lack of interpretable reward signals. The proposal also leverages synthetic data and curriculum‑driven RL to shape the model’s world‑model from the outset, mirroring how biological systems learn through active experience. The discussion bridges neuroscience concepts—learning systems, steering subsystems, and reward prediction—with practical LLM engineering, offering a roadmap for future research into “brain‑like” alignment. Its implications resonate beyond AI safety, hinting at a new class of models that are both more interpretable and more resilient to manipulation.",
+    "summary_zh": "文章将大语言模型与脑类认知架构融合，提出思维生成器、奖励评估头与调度子系统的混合框架，强调在预训练阶段就训练评估头以实现早期对齐。它指出RLHF的不可解释性、人格易被越狱以及缺乏可解释奖励信号等问题，并通过合成数据与课程化强化学习模拟生物学习过程，提升模型的可解释性与抗操纵性。该思路跨越神经科学与LLM工程，提供未来“脑启发”对齐的研究路线，对AI安全与模型可解释性具有深远意义。",
+    "best_quote_en": "LLMs are pre‑trained offline on an enormous amount of natural text, whereas the brain‑like approach relies heavily on reinforcement learning throughout the whole training process.",
+    "best_quote_zh": "LLMs 预训练离线的大量自然文本，而脑类方法则在整个训练过程中大量依赖强化学习。"
+  },
+  {
+    "id": 338,
+    "title": "Is the Supreme Court Unsure About Birthright Citizenship?",
+    "title_zh": "最高法院对出生公民身份是否存在不确定性？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-the-supreme-court-unsure-about-birthright-citizenship",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "The article dissects the Supreme Court’s looming decision on Trump’s controversial executive order that seeks to strip citizenship from babies born to non‑citizen parents. It frames the case as a crucible for constitutional interpretation, the Fourteenth Amendment, and the enduring legacy of Wong Kim Ark. The narrative exposes the political calculus behind the Court’s cert grant—whether to reaffirm the status quo, allow the President a courtesy, or force a hard‑line defense of birthright rights. It also highlights the administrative absurdities of the order’s “residency” test and the broader societal fallout: from the “anchor‑baby” rhetoric to the practical nightmare of proving parental status. The piece urges readers to consider how a Supreme Court ruling could ripple through immigration policy, federal law, and the very definition of American citizenship, reminding us that legal precedent and political ambition are inextricably linked.",
+    "summary_zh": "文章剖析最高法院即将审理的特朗普行政命令，该命令试图剥夺出生在美国但父母非公民子女的公民身份。它把案件定位为宪法解释、十四修正案以及Wong Kim Ark遗产的试金石。文中揭示了最高法院授予审理资格背后的政治算计——是重申现状、向总统示好，还是硬撑出生公民权。还批判了行政命令中“居留”测试的荒谬与社会后果，从“锚宝宝”言论到证明父母身份的实际难题。作者提醒读者，最高法院的裁决将深刻影响移民政策、联邦法律和美国公民身份的定义，凸显法律先例与政治野心的不可分割。",
+    "best_quote_en": "The big prize for the White House, of course, would be an end to birthright citizenship, which many conservatives and opponents of immigration have come to deeply resent.",
+    "best_quote_zh": "如果我在你的位置，我绝不会把这个案子提交给最高法院，\"Elena Kagan 说。"
+  },
+  {
+    "id": 339,
+    "title": "What’s in my NOW? — George Kosmopoulos",
+    "title_zh": "我的现在里有什么？—乔治·科斯莫普洛斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-george-kosmopoulos/",
+    "tags": [
+      "inspire",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "In “What’s in my NOW?”, George Kosmopoulos offers a candid, almost diary-like snapshot of his life, weaving together the tangible (a Leatherman keychain, Haflinger slippers) and the intangible (the philosophy of infinite games). He refrains from grandiose claims, instead framing his daily practices—coding, teaching, BJJ, and coffee rituals—as incremental steps toward resilience. The post invites readers to consider what “meaningful building” looks like when it is rooted in routine and reflection. By juxtaposing the physical, digital, and invisible layers, George creates a holistic template that encourages self‑audit: what tools support your focus, what habits sustain your energy, and what worldview keeps you in play? The article’s value lies in its gentle provocation: it nudges us to redefine success beyond product launches and profit, toward a life that is both functional and philosophically grounded. It is a call to mindful curation, urging us to ask, “What’s in my NOW?” and to act upon it with intentionality.\n",
+    "summary_zh": "乔治·科斯莫普洛斯在《我的现在里有什么？》中，用日常物品与无限游戏的哲学，勾勒出生活的全貌。他将编码、教学、柔术与咖啡等细节，视为构建韧性与意义的基石。通过将物理、数字与隐形三层交织，提示我们审视支持专注的工具、维系能量的习惯以及让自己持续参与的世界观。此文的价值在于引导读者重新定义成功：不再是单纯的产品或利润，而是功能与哲学并存的生活方式。它是一种对自我策划的呼唤，鼓励我们问：“我的现在里有什么？”并以目的性去行动。\n",
+    "best_quote_en": "Finite games are played to win seriously with defined rules and endpoints, and infinite games are played for the purpose of continuing play itself with fun.",
+    "best_quote_zh": "有限游戏是为了赢而严肃进行，具有明确的规则和终点；无限游戏则是为了继续游戏本身而进行，带着乐趣。"
+  },
+  {
+    "id": 340,
+    "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+    "title_zh": "克拉托姆、阿片类与其他天然药物的健康效应与风险 | Dr. Chris McCurdy",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/health-effects-and-risks-of-kratom-opioids-and-other-natural-occurring-medicines-dr-chris-mccurdy",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-07-21",
+    "summary_en": "In this episode, Dr. Chris McCurdy, a leading pharmacologist, dissects the multifaceted world of kratom—its energizing, mood‑enhancing, and analgesic properties, alongside its potential as an opioid alternative. He rigorously evaluates the safety profile, highlighting dose‑dependent toxicity, respiratory depression, and the heightened addiction risk of isolated alkaloid products. The discussion extends beyond kratom, framing plant‑derived compounds within a broader medicinal chemistry context, weighing therapeutic promise against regulatory and ethical concerns. McCurdy’s balanced narrative offers listeners a data‑driven, expert‑insight perspective that challenges simplistic hype, urging careful consideration of dosage, product labeling, and interactions. The episode serves as a critical educational resource for clinicians, researchers, and informed consumers navigating the emerging landscape of natural therapeutics, and underscores the need for evidence‑based guidance in an era of rapid market expansion.",
+    "summary_zh": "Dr. Chris McCurdy 通过严谨的数据与专业洞察，剖析克拉托姆的多重效用与风险，揭示剂量与纯度对安全性的决定性影响，并将其置于更广阔的植物衍生药物框架中。节目兼具教育与警示意义，提醒医务人员与公众在自然疗法日益普及的时代，需以证据为基础，审慎评估产品与剂量，避免误用与潜在危害。",
+    "best_quote_en": "Kratom’s wide-ranging effects, including its use for boosting energy, enhancing mood, managing pain and as a potential opioid substitute, while also explaining its critical safety concerns and addictive potential, especially for kratom-derived/isolate products.",
+    "best_quote_zh": "克拉托姆的广泛作用包括提升能量、改善情绪、管理疼痛以及作为潜在阿片类替代品的使用，尤其强调其关键安全问题与成瘾潜力，尤其是克拉托姆派生/分离产品。"
   }
 ]
