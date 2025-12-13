@@ -1,99 +1,5 @@
 [
   {
-    "id": 246,
-    "title": "What’s in my NOW? — Molly Harris",
-    "title_zh": "我的现在是什么？——莫莉·哈里斯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "Molly Harris’s “What’s in my NOW?” reads like a personal inventory of micro‑tech and mental hygiene tools that map a day to comfort. She lists a digital hygrometer that plugs into a custom dew‑point calculator, a fidget slider, and even ear canal scratchers—odd, yet oddly effective items that turn mundane anxieties into tactile relief. On the digital side, she champions Inoreader, a feature‑rich RSS reader that also monitors YouTube, and Tetr.io, a tetromino game she claims helps reset her brain after CPTSD‑related stress. The invisible layer is a short but potent quote, “This too shall pass,” framing her entire approach as a reminder that moments of discomfort are transient. The piece is both a practical guide and a gentle meditation, offering actionable, beginner‑friendly tools that readers can adopt immediately. It invites readers to treat each moment as a curated set of interventions, blending technology, tactile comfort, and philosophical resilience into a coherent, low‑barrier routine.",
-    "summary_zh": "莫莉·哈里斯的《我的现在是什么？》像是一份微技术与心理健康工具的个人清单。她列出数字湿度计、抓握滑块、耳道挠痒器等日常小物，让焦虑变成可触摸的舒缓。数字方面，她推崇功能丰富的RSS阅读器 Inoreader 与能帮助 CPTSD 压力恢复的 Tetr.io。隐形层则是简短却有力的“这也会过去”，提醒我们不安时光皆是短暂。文章兼具实用指南与温柔冥想，提供可操作、易上手的工具，鼓励读者把每一刻当作精心策划的干预，融合科技、触觉与哲学韧性。",
-    "best_quote_en": "This too shall pass.",
-    "best_quote_zh": "这也会过去。"
-  },
-  {
-    "id": 247,
-    "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
-    "title_zh": "利用干细胞治疗自闭症、癫痫和精神分裂症 | 司尔吉·帕斯卡博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/using-stem-cells-to-cure-autism-epilepsy-and-schizophrenia-dr-sergiu-pasca",
-    "tags": [
-      "learn",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-08-18",
-    "summary_en": "Dr. Sergiu Pașca, a Stanford psychiatrist, unpacks the genetic roots of autism and the alarming rise in diagnoses. He foregrounds his pioneering organoid and assembloid technologies—human stem‑cell–derived mini‑brains that recapitulate cortical development—to model disease and test gene‑editing therapies. The episode traces how CRISPR, follistatin, and other molecular levers may correct neural circuitry in conditions ranging from autism to schizophrenia. Pașca also wrestles with the ethical tightrope of transplanting stem‑cell–derived tissue into children, balancing scientific promise against safety concerns. What makes the conversation compelling is its blend of cutting‑edge science, real‑world data, and a cautious moral compass. Listeners gain actionable insights into how stem‑cell research could shift the treatment paradigm, while also understanding the limits of current technology. The discussion invites critical reflection on the pace of translational medicine and the responsibility that comes with it.",
-    "summary_zh": "斯坦福精神科教授帕斯卡博士阐释自闭症遗传根源与诊断激增，重点介绍他研发的器官样体与组装体技术，探讨基因编辑与干细胞疗法如何重塑神经网络。节目兼顾科学前沿与伦理考量，既提供可操作的研究洞见，又提醒技术局限，促使听众深思转化医学的速度与责任。",
-    "best_quote_en": "organoids and assembloids—human stem cell–derived tools he pioneered to study, treat and cure complex brain diseases.",
-    "best_quote_zh": "器官样体和组装体——他发明的人类干细胞衍生工具，用于研究、治疗和治愈复杂脑部疾病。"
-  },
-  {
-    "id": 248,
-    "title": "The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom (#836)",
-    "title_zh": "四小时工作周原则——避免13个错误、微退休艺术与自由的眩晕感",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/19/the-4-hour-workweek-principles/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "Tim Ferriss revisits the classic 4‑Hour Workweek, peeling back the layers of what really makes the book timeless. He opens with the notion of “mini‑retirements,” a radical shift from the one‑big‑vacation model to a life of distributed adventure and continuous rejuvenation. The episode then confronts the emotional void that follows extreme freedom—how to stay grounded when you have “too much time.” Ferriss distills his 13 most common pitfalls, offering concrete, actionable guidance that feels both fresh and deeply rooted in the original framework. The discussion is peppered with real‑world anecdotes, from the “death of vacations” to the “alternative to binge traveling,” and ends with a call to action: map your own mini‑retirement, guard your time, and learn to say no. For listeners who crave practical tools, this episode delivers a blend of philosophy, strategy, and step‑by‑step tactics that can be applied immediately in any lifestyle‑design journey.",
-    "summary_zh": "Tim Ferriss 重新审视《四小时工作周》，提出“微退休”概念，打破传统大假期思维，倡导把自由分散成持续的冒险与恢复。随后他剖析自由带来的情感空虚，教你如何在拥有过多时间时保持根基。核心是13个常见错误的实用对策，配合真实案例，让理念落地。节目以“自由的死亡”与“非沉迷式旅行”为切入点，最后号召听众制定自己的微退休计划，守护时间，学会说“不”。对渴望立即行动的读者而言，这是一份兼具哲学与策略、可操作步骤的实战指南。",
-    "best_quote_en": "The birth of mini‑retirements and the death of vacations.",
-    "best_quote_zh": "“生命中不只是加速，还有更深的存在。”——甘地"
-  },
-  {
-    "id": 249,
-    "title": "How I Became a Freelancer and Earn a Living From Home",
-    "title_zh": "我如何成为自由职业者并在家赚取生计",
-    "source": "Making Sense of Cents",
-    "link": "https://www.makingsenseofcents.com/2025/11/how-i-became-a-freelancer-and-earn-living-from-home.html",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "This candid guide demystifies the journey from novice to self‑employed, offering a practical playbook for aspiring home‑based freelancers. The author’s narrative is anchored in real‑world tactics—starting with low‑stakes gigs to build a portfolio, leveraging platforms like Upwork, and gradually scaling to higher‑paying, long‑term projects. What sets the piece apart is its emphasis on self‑discovery: experimenting across roles (project management, writing, design) until a fit emerges, and then refining skill sets to meet market demand. The article balances motivational anecdotes with hard‑earned lessons—patience in client acquisition, boundary setting to avoid burnout, and the importance of clear communication. Readers gain actionable insights into profile optimization, proposal strategies, and rate setting, while also receiving a nuanced perspective on the emotional rollercoaster of freelancing. The piece invites readers to view freelancing not merely as a side hustle but as a deliberate career path that blends flexibility, continuous learning, and purposeful work.\n",
-    "summary_zh": "这篇自述式指南把从零到自由职业者的路拆解成可操作的步骤，强调先做小项目积累经验，再通过Upwork等平台寻找高质量客户。作者不只分享技巧，更提醒读者要有耐心、设边界、善于沟通，才能避免倦怠。内容兼具鼓舞与实用，帮助读者把自由职业视为既灵活又能持续学习的职业路径。\n",
-    "best_quote_en": "Finding quality clients that you enjoy working with takes time; patience is key.",
-    "best_quote_zh": "我真的不喜欢图形设计或社交媒体管理"
-  },
-  {
     "id": 250,
     "title": "The Refragmentation",
     "title_zh": "再碎片化",
@@ -2342,5 +2248,101 @@
     "summary_zh": "在这段深入访谈中，AI先驱李飞飞博士讲述了 ImageNet 的诞生、从数据匮乏到数据丰富的 AI 转变，以及她对空间智能的愿景。她解释了移民成长、父母的非传统方式如何培养她的好奇心，强调导师鲍勃·萨贝拉在她转向美国学术界的关键作用。李博士认为 AI 是文明技术，其经济、文化、政治影响与工业革命同等重要。她呼吁以人为本的治理，强调“学习学习”而非凭学位，并指出 AI 能加速教育、重塑劳动力市场。对话以寻找北极星为结语，提醒听众好奇与大胆提问是进步的真正引擎。",
     "best_quote_en": "AI is a civilizational technology that will reshape our economy, culture, and the very fabric of society.",
     "best_quote_zh": "AI是一种文明技术，它将重塑我们的经济、文化和社会结构。"
+  },
+  {
+    "id": 346,
+    "title": "America’s Betting Craze Has Spread to Its News Networks",
+    "title_zh": "美国的博彩狂潮已蔓延至其新闻网络",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks",
+    "tags": [
+      "inspire",
+      "politics",
+      "legal",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "法律法规",
+      "未来预测"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "The fusion of prediction markets into mainstream news marks a seismic shift in journalism, blurring the line between objective reporting and speculative betting. While the allure of real‑time odds offers a data‑driven lens on politics, economics, and even weather, the low liquidity of many markets undermines their predictive power, turning them into flashy gimmicks rather than reliable forecasts. Yet the partnership signals a deeper financial desperation among media firms, hinting at a future where news outlets increasingly monetize through gambling‑linked content. This trend raises thorny ethical questions: can a platform that profits from uncertainty truly serve the public good, or will it erode trust, fuel addiction, and open the door to insider trading? The article’s blend of market valuations, legal battles, and expert debate invites a critical examination of whether this convergence will ultimately democratize information or simply commodify it.\n\n",
+    "summary_zh": "将预测市场嵌入新闻，不仅让报道更具即时性，也让博彩与信息传播交织，挑战新闻公正与读者信任。低流动性使赔率缺乏预言力，却也为读者提供新视角；同时，广告与盈利诱惑可能诱发赌博成瘾与内幕操纵。此举既是媒体融资的创新，也是道德风险的实验。未来若大规模复制，或将重塑舆论生态，也可能为误信息治理带来工具与陷阱。",
+    "best_quote_en": "The ticker advertising Kalshi’s betting odds and displaying Kalshi’s logo while journalists tout the credibility of that data is a very legitimizing force for a gambling company.",
+    "best_quote_zh": "在记者夸耀该数据可信度的同时，广告条显示 Kalshi 的投注赔率并展示 Kalshi 的标识，成为赌博公司极具合法化力量的方式。"
+  },
+  {
+    "id": 347,
+    "title": "Gar’s Tips & Tools – Issue #207",
+    "title_zh": "Gar 的提示与工具 – 第207期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-207/",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "Gar’s Issue #207 is a rich tapestry of maker wisdom, blending practical tool recommendations, hands‑on tutorials, and reflective organization hacks. The article opens with a curated list of 2025 gift‑worthy tools—from the compact Olight iMini flashlight to the versatile DeWalt oscillating tool—each chosen for real‑world utility and personal resonance. A standout segment is David Riddle’s JB Weld guide, where meticulous preparation and texture‑focused bonding unlock the epoxy’s full potential; his methodical approach turns a simple adhesive into a reliable, repeatable process. The 3‑D‑printed tool showcase demonstrates how thoughtful design can solve everyday frustrations—hex‑key handles that eliminate torque loss, a one‑handed broom hook, and a magnet dispenser—illustrating the power of user‑centric prototyping. The history of the Allen hex key adds depth, reminding readers that even the most ordinary tools carry stories of safety and standardization. Finally, the author’s candid reflection on reorganizing a workshop cart turns a personal anecdote into a universal call to re‑evaluate workflow systems. Together, these insights encourage makers to blend knowledge, creativity, and deliberate organization to elevate both craft and efficiency.",
+    "summary_zh": "Gar 207期融合工具推荐、实用教程与工作坊整理技巧，既有Olight iMini闪光灯等精选礼物，也有JB Weld 的细致配合方法与3D打印实用工具。作者通过回顾艾伦六角扳手的历史，提醒我们即使最普通的工具也承载安全与标准化的故事。最后的整理经验分享，鼓励创作者用系统化思维提升工作效率与创作质量。",
+    "best_quote_en": "Preparation is everything.",
+    "best_quote_zh": "准备就是一切。"
+  },
+  {
+    "id": 348,
+    "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+    "title_zh": "《必备：如何构建、维护与修复肠道健康》| 朱斯汀·索恩伯格博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-build-maintain-repair-gut-health-justin-sonnenburg",
+    "tags": [
+      "learn",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "The episode dissects the gut microbiome as a dynamic, bidirectional interface between diet, environment, and the immune system, framing it as a central axis for mental and physical wellness. By mapping how antibiotics, Western diets, and industrial sanitation erode microbial diversity, the discussion shifts from abstract biology to actionable nutrition—fiber, fermented foods, pre‑ and probiotics—backed by peer‑reviewed evidence. The host’s framing is both instructive and persuasive, urging listeners to view gut health as a modifiable lifestyle lever rather than a fixed trait. The analysis also highlights the broader socio‑environmental narrative: how our modern “clean” habits paradoxically foster disease. The episode’s value lies in its evidence‑driven, practical roadmap for non‑experts, while its critical lens invites deeper inquiry into the microbiome’s role in systemic disease and the ethical implications of microbiome‑targeted therapeutics.",
+    "summary_zh": "这期节目把肠道菌群视为饮食、环境与免疫系统的双向桥梁，阐明其在身心健康中的核心地位。通过剖析抗生素、欧美高脂低纤维饮食与工业化卫生如何削弱微生物多样性，主持人将理论转化为可操作的营养策略——高纤维、发酵食品、益生元与益生菌，并以同行评议为依据。节目强调肠道健康是可调节的生活方式杠杆，而非固定属性，提醒听众关注现代“干净”习惯背后的疾病风险。其价值在于提供实用、循证的指南，并激发对微生物在系统性疾病及其伦理问题中的更深探讨。",
+    "best_quote_en": "Lifestyle factors such as antibiotics and Western‑style diets can damage gut diversity, and prebiotics or probiotics may help.",
+    "best_quote_zh": "生活方式因素，如抗生素和西式饮食，可能损害肠道多样性，益生元或益生菌可能有所帮助。"
+  },
+  {
+    "id": 349,
+    "title": "From UMG’s ‘robust remedy’ to address Downtown deal concern, to GoDigital Music’s Marc Anthony catalog buy… it’s MBW’s weekly round-up",
+    "title_zh": "从UMG的‘强力补救方案’解决Downtown交易关切，到GoDigital Music收购Marc Anthony目录…这就是MBW的每周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-umgs-robust-remedy-to-address-downtown-deal-concern-to-godigital-musics-marc-anthony-catalog-buy-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This week’s MBW roundup spotlights pivotal moves reshaping the music business. Universal Music Group (UMG) filed a “robust remedy” with the European Commission to clear the final hurdle on its $775 million acquisition of Downtown Music Holdings, positioning the deal as a win for independent artists and fans alike. Meanwhile, GoDigital Music closed a $115 million purchase of several Latin‑music catalogs, including Marc Anthony’s publishing rights, adding 30,000+ new assets to its library. Spotify rolled out music‑video beta for Premium users in the U.S. and Canada, expanding its content offering beyond audio. Rostrum Pacific secured $150 million in credit to accelerate catalog acquisitions, underscoring the continued appetite for physical and digital rights. These headlines reveal a sector balancing regulatory scrutiny, strategic consolidation, and technological experimentation, urging stakeholders to stay agile at the intersection of law, creativity, and commerce.",
+    "summary_zh": "本周MBW综述聚焦音乐产业的关键动态：UMG为欧盟监管提交“强力补救方案”，GoDigital以1.15亿美元收购多份拉丁音乐目录并入Marc Anthony作品，Spotify在北美启动音乐视频功能，Rostrum Pacific获得1.5亿美元融资加速目录扩张。通过这些交易，行业巨头与新兴平台共同推动内容生态多元化与创新，提醒从业者关注监管、版权与技术交叉点。",
+    "best_quote_en": "Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.",
+    "best_quote_zh": "我们提交了一个强有力的补救方案，全面解决了欧盟委员会唯一剩余的关切。"
   }
 ]
