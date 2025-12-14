@@ -1,121 +1,5 @@
 [
   {
-    "id": 250,
-    "title": "The Refragmentation",
-    "title_zh": "再碎片化",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/re.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "In this sweeping historical essay, the author argues that the sharp fragmentation we see in politics, culture, and economics today is the natural undoing of a mid‑20th‑century cohesion that was itself a product of war and the rise of gigantic national corporations. He traces how World War II’s wartime wage controls, tax policies, and federal power flattened income disparities, while the consolidation of industry under a few massive firms fostered a shared cultural and economic middle ground. With the decline of those forces, the era of “Duplo” cohesion gave way to a high‑resolution, networked economy driven by computing power, deregulation, and the rise of startups. The essay asks whether any of that old cohesion can be re‑created, concluding that we can only mitigate its consequences rather than reverse the trend. It offers a nuanced, data‑driven case study of the forces that shaped, and continue to shape, our fragmented society.",
-    "summary_zh": "作者将今日政治、文化与经济的碎片化视为二十世纪由战争与大型国企产生的凝聚力自然崩解的结果。战争压缩收入差距、国企统一市场，形成“Duplo”时代的共同文化与经济中间地带。随着这些力量衰退，计算机技术、去监管与创业浪潮催生高分辨率网络经济。文章探讨是否能重建旧凝聚力，结论是只能缓解碎片化后果，而非逆转趋势。",
-    "best_quote_en": "The Duplo economy was a low‑res version 1, and the world has moved to a higher‑resolution version 2.",
-    "best_quote_zh": "Duplo 经济是低分辨率的版本 1，世界已迈向更高分辨率的版本 2。"
-  },
-  {
-    "id": 251,
-    "title": "Dick Cheney’s Long, Strange Goodbye",
-    "title_zh": "迪克·切尼的漫长而奇怪的告别",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/dick-cheneys-long-strange-goodbye",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "The article is a reflective piece that uses the funeral of former Vice‑President Dick Cheney as a lens to examine the fractured political landscape under Donald Trump. It recounts the author’s surprise encounter with liberal media figure Rachel Maddow in a Washington National Cathedral that also hosted former Republicans, Democrats, and former Presidents, underscoring the surreal blending of ideological extremes. The narrative critiques Trump’s incendiary social‑media posts, the Republican Party’s shift toward Trump‑aligned partisanship, and Cheney’s own legacy—particularly the Iraq war and post‑9/11 foreign‑policy decisions—while noting how these controversies were largely omitted from the service. By juxtaposing personal anecdotes with broader political commentary, the piece invites readers to question how legacy, accountability, and the possibility of reconciliation intersect in a nation where power and party have become indistinguishable. It ends with a call to reflect on whether a new path can emerge from the current deep division, suggesting that the funeral itself may have been a symbolic moment of potential change.",
-    "summary_zh": "在特朗普统治下的华盛顿，迪克·切尼的葬礼成了政治分裂的缩影。作者在教堂中偶遇玛多与其他政界人物，映射出党派与个人立场的交织。切尼的遗产与伊拉克战争、9/11等争议被淡化，凸显当代政治对历史的抹杀。特朗普的威胁与共和党内部的背离被揭露，文章通过细腻的叙事质疑权力与责任的界限。读者被邀请思考，是否有可能在这场分裂中寻找共识，重塑美国政治的未来？",
-    "best_quote_en": "He can never be trusted with power again.",
-    "best_quote_zh": "他永远不可信任权力。"
-  },
-  {
-    "id": 252,
-    "title": "Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners",
-    "title_zh": "Essentials：与家人、朋友和恋人建立强大社会纽带的科学",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-building-strong-social-bonds-family-friends-romantic-partners",
-    "tags": [
-      "learn",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "In this episode of Huberman Lab Essentials, Andrew Huberman delves into the neuroscience of social connection, revealing how our brains are wired for a specific amount of interaction—social homeostasis. He explains the neurochemical choreography of oxytocin and dopamine that governs everything from infant bonding to adult relationships, and how these systems differentiate introverts from extroverts. The discussion goes beyond theory, offering concrete, actionable strategies for deepening ties through shared experiences, emotional and cognitive empathy, and physiological synchrony. By unpacking the biology of loneliness, social hierarchies, and attachment styles, Huberman equips listeners with a data‑driven framework to nurture healthier, more resilient relationships. This blend of rigorous science and practical guidance makes the episode a valuable resource for anyone seeking to understand and improve their social bonds.",
-    "summary_zh": "Huberman 讲解社会纽带的神经科学，阐释社交稳态、催产素与多巴胺如何塑造从婴儿期到成年期的人际关系，并区分内向与外向。结合数据与实践，他提供共情、共享体验等可操作策略，帮助听众建立更健康、持久的亲密关系。",
-    "best_quote_en": "Social homeostasis explains why we feel lonely, seek connection, and navigate social hierarchies.",
-    "best_quote_zh": "社交稳态解释了我们为何感到孤独、寻求连接以及如何在社交层级中导航。"
-  },
-  {
-    "id": 253,
-    "title": "How To Give Meaningful Gifts When You’re on a Tight Budget",
-    "title_zh": "如何在预算紧张时送出有意义的礼物",
-    "source": "Making Sense of Cents",
-    "link": "https://www.makingsenseofcents.com/2025/11/how-to-give-meaningful-gifts-when-youre-on-a-tight-budget.html",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "personal-finance",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "个人理财",
-      "新手友好"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "This article demystifies holiday gifting for the financially constrained, offering a blend of budgeting strategy, DIY creativity, and experiential generosity. The author foregrounds a realistic budget mindset—segmenting total holiday spend and applying it person‑by‑person—before exploring low‑cost, high‑impact gifts such as homemade treats, memory jars, and handwritten letters. The piece also champions the power of time‑based gifts and community approaches like Secret Santa, underscoring that emotional resonance outweighs price tags. Practicality shines through with actionable tips on leveraging reward apps, cashback, and early‑shopping tactics, turning ordinary purchases into free gift cards. The author’s tone is conversational yet instructive, inviting readers to view gifting as an exercise in attentiveness rather than expenditure. Ultimately, the article reframes holiday generosity as an opportunity for mindful, budget‑friendly creativity that strengthens relationships without incurring debt.",
-    "summary_zh": "本文以轻松却深刻的语调，拆解了预算紧张下的节日礼物策略。作者强调先设定可行的总预算，再细分至每位收礼人，随后提出低成本但意义深远的 DIY 礼物、时间体验与团体赠礼方案。文中还提供实用技巧：利用奖励积分、返现与提前购物，甚至通过免费礼品卡实现“零花费”采购。作者的核心观点是：礼物的价值在于用心而非价格，鼓励读者以关注与创意取代冲动消费，提升关系质量而不负债。",
-    "best_quote_en": "The most memorable gifts are the ones that come from the heart and not the store.",
-    "best_quote_zh": "最难忘的礼物来自内心，而非商店。"
-  },
-  {
-    "id": 254,
-    "title": "S27:E8 - Learning AI (Matt Eland)",
-    "title_zh": "S27:E8 - 学习人工智能（Matt Eland）",
-    "source": "CodeNewbie Podcast",
-    "link": "https://www.codenewbie.org/podcast/learning-ai",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2024-05-22",
-    "summary_en": "Matt Eland’s interview is a masterclass in lifelong learning and community building within AI. He traces the spark that ignited his passion decades ago, revealing how curiosity can evolve into a career that blends research, education, and mentorship. By choosing to return to academia for a master’s, Matt demonstrates that formal study is not a prerequisite for expertise but a strategic tool to deepen knowledge and broaden impact. His role as a Microsoft MVP and prolific content creator—through blogs, a YouTube channel, and a local .NET group—underscores the power of sharing knowledge in diverse, nerdy formats. The conversation invites listeners to reflect on their own learning trajectories: when to pivot, how to balance personal growth with community contribution, and the value of continuous skill refinement in a fast‑moving field. Ultimately, Matt’s story serves as both a practical guide and an inspirational blueprint for anyone looking to fuse passion with purpose in AI.",
-    "summary_zh": "Matt Eland 的访谈展示了终身学习与社区建设在人工智能领域的力量。他追溯了数年前点燃热情的火花，说明好奇心如何演变为结合研究、教育与辅导的职业。通过回到学校攻读硕士，他证明正规学习并非专业的必需，而是深化知识、扩大影响的战略工具。作为微软 MVP、博主、YouTube 频道主持人以及本地 .NET 社群组织者，他以极客方式分享知识，凸显多元传播的价值。对听众而言，访谈促使思考何时转型、如何平衡个人成长与社区贡献，以及在快速变化的领域持续技能提升的重要性。Matt 的故事既是实用指南，也是激励蓝图，帮助人们将热情与使命融合在 AI 之中。",
-    "best_quote_en": "Matt is a habitual learner, speaker, and author who seeks to learn new things and share them with others in the nerdiest ways possible.",
-    "best_quote_zh": "Matt 是一位习惯性学习者、演讲者和作者，他致力于学习新事物，并以最极客的方式与他人分享。"
-  },
-  {
     "id": 255,
     "title": "Influencers made millions pushing ‘wild’ births – now the Free Birth Society is linked to baby deaths around the world",
     "title_zh": "影响者赚取数百万推广“野生”分娩——如今自由分娩协会与全球婴儿死亡相关联",
@@ -2344,5 +2228,125 @@
     "summary_zh": "本周MBW综述聚焦音乐产业的关键动态：UMG为欧盟监管提交“强力补救方案”，GoDigital以1.15亿美元收购多份拉丁音乐目录并入Marc Anthony作品，Spotify在北美启动音乐视频功能，Rostrum Pacific获得1.5亿美元融资加速目录扩张。通过这些交易，行业巨头与新兴平台共同推动内容生态多元化与创新，提醒从业者关注监管、版权与技术交叉点。",
     "best_quote_en": "Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.",
     "best_quote_zh": "我们提交了一个强有力的补救方案，全面解决了欧盟委员会唯一剩余的关切。"
+  },
+  {
+    "id": 350,
+    "title": "The Axiom of Choice is Not Controversial",
+    "title_zh": "选择公理并非有争议",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/t2wq3znQuPP66DpMT/the-axiom-of-choice-is-not-controversial",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "The article demystifies the Axiom of Choice (AC) by dismantling the most common objections—Banach‑Tarski and Vitali paradoxes—showing that AC merely supplies the language to formalise already‑existing non‑constructive phenomena. It argues that the real power of AC lies in enabling deep structural results: Tychonoff’s theorem, the existence of bases for all vector spaces, algebraic closures, and the compactness theorem in logic. By contrasting AC with weaker variants, the author stresses that rejecting AC would create far greater pathologies and hinder progress in modern mathematics. The piece is a persuasive, accessible guide that reframes AC from a controversial principle to a practical, indispensable tool, urging readers to abandon unfounded fears and embrace its constructive utility. It invites mathematicians to see AC not as a source of paradox but as a bridge to elegant, far‑reaching theorems.",
+    "summary_zh": "文章以清晰的逻辑拆解了选择公理的两大争议——Banach‑Tarski与Vitali悖论，指出AC只是让我们能够把已存在的非构造性现象形式化。它强调AC在证明Tychonoff定理、向量空间基、代数闭包以及逻辑紧致性定理等关键结果中的不可替代作用。作者对比更弱的选择变体，警示若否决AC会导致更严重的数学病态，阻碍现代数学的发展。整篇文章既是说服性的辩护，也是易懂的指南，呼吁读者摒弃无端的恐惧，拥抱AC的实用价值，将其视为通往优雅、深远定理的桥梁。",
+    "best_quote_en": "The axiom of choice simply says that given any indexed collection of (non-empty) sets, you can make one arbitrary choice from each set.",
+    "best_quote_zh": "选择公理只是让你把自由群的悖论行为应用到球面上。"
+  },
+  {
+    "id": 351,
+    "title": "Caught in the “Ceasefire”",
+    "title_zh": "被困在《停火》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/caught-in-the-c-span-ceasefire",
+    "tags": [
+      "solve",
+      "politics",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "The piece dissects C‑SPAN’s new “Ceasefire” show—an earnest attempt to model bipartisan civility amid America’s fractured media climate—against the backdrop of its predecessor, CNN’s “Crossfire.” By weaving anecdotes from high‑profile debates, the author argues that civility, while appealing, risks conflating friendliness with productive disagreement. He points out that true debate thrives on passion, theatricality, and rigorous testing of ideas, not merely on calm consensus. The article also surveys the rise of online “debate‑me” formats and their potential to both illuminate radical positions and amplify toxic rhetoric. Through a mix of historical context, contemporary examples, and critical reflection, the piece invites readers to question whether the current “Ceasefire” model truly serves democratic discourse or merely offers a sanitized façade. It ultimately calls for a more nuanced, evidence‑driven approach that preserves the adversarial spirit necessary to challenge entrenched narratives.",
+    "summary_zh": "文章通过对C‑SPAN新秀《停火》与CNN旧秀《交叉火》对比，探讨了在分裂媒体环境下，真诚的两党合作是否能真正服务民主。作者认为，单纯的礼貌可能掩盖了激烈辩论的必要性，呼吁在保持对立精神的同时，注重证据与批判。",
+    "best_quote_en": "Debate itself has always had a capacity for coarseness, and to elevate contentious interlocutors.",
+    "best_quote_zh": "辩论本身一直具有粗俗的能力，并能提升有争议的对话者。"
+  },
+  {
+    "id": 352,
+    "title": "Unexplained & Unusual",
+    "title_zh": "未解之谜与奇异",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/unexplained-unusual/",
+    "tags": [
+      "learn",
+      "science",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The article blends two complementary worlds—curated science‑tourism hotspots and a vast, unfiltered catalogue of anomalies.  It invites readers to physically experience complex engineering marvels like the Solucar PS10 solar receiver or Taipei 101’s tuned‑mass pendulum, while simultaneously confronting the epistemic humility that underpins science: every “unexplained” observation is a potential doorway to new theory.  By presenting anomalies without interpretation, the piece champions an open‑ended, data‑driven mindset, echoing William James’s exhortation that “exceptional observations” renew science.  The juxtaposition of tangible sites and abstract anomalies encourages a broader appreciation of the unknown, urging scientists, educators, and curious travelers alike to seek out the edges of knowledge.  The narrative’s strength lies in its dual framing—actionable travel recommendations paired with a reminder that the greatest discoveries often begin with a question, not a definitive answer.",
+    "summary_zh": "文章将科学旅游热点与无序异常目录并置，既提供实地体验的可操作性，又提醒科学的谦逊与未知的价值。它通过实景展示与未解现象的开放记录，鼓励读者以数据驱动、探索未知的心态，重新审视科学的边界。",
+    "best_quote_en": "“Round about the accredited and orderly facts of every science there ever floats a sort of dust‑cloud of exceptional observations… Anyone who will steadily look after the irregular phenomena will renovate his science.”",
+    "best_quote_zh": "“在每门科学的公认秩序事实周围，总会漂浮着一片异常观测的尘埃云……任何持续关注不规则现象的人都会改造自己的科学。”"
+  },
+  {
+    "id": 353,
+    "title": "Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging",
+    "title_zh": "基础要点：健康饮食与饮食障碍——厌食症、贪食症与暴食症",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-healthy-eating-and-eating-disorders-anorexia-bulimia-binging",
+    "tags": [
+      "learn",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-07-17",
+    "summary_en": "In the latest Huberman Lab Essentials episode, Andrew Huberman demystifies the neurobiology of appetite and the clinical realities of eating disorders. He dissects how leptin, dopamine, and reward circuitry orchestrate hunger signals, then pivots to the devastating cascade that turns normal eating into anorexia, bulimia, or binge‑eating disorder. The talk balances rigorous science with compassionate case studies, underscoring that disrupted circadian rhythms, hormonal imbalances, and maladaptive habits can precipitate full‑blown pathology. Huberman also surveys evidence‑based interventions—family‑based therapy, CBT, pharmacotherapy—and stresses the importance of early, multidisciplinary care. For listeners, the episode offers a dual benefit: actionable tools to fine‑tune personal nutrition and a sobering, data‑driven framework for recognizing and treating eating disorders. The content is especially relevant for clinicians, nutritionists, and anyone seeking to bridge the gap between brain science and real‑world recovery.",
+    "summary_zh": "Huberman 在最新的 Essentials 访谈中，用神经科学阐释食欲调控，剖析厌食、贪食与暴食的生理根源。结合激素、奖励回路与习惯循环，他揭示饮食失调的形成机制，并评估 CBT、家庭疗法及药物治疗的临床证据。此节目兼具科学严谨与人文关怀，为临床医师、营养师及公众提供可操作的营养调控方法与早期干预思路，搭建大脑科学与康复实践的桥梁。",
+    "best_quote_en": "I explain how brain circuits, hormones such as leptin and reward systems interact to regulate appetite, satiety and overall eating behaviors.",
+    "best_quote_zh": "我解释大脑回路、激素（如瘦素）以及奖励系统如何相互作用，调节食欲、饱腹感和整体饮食行为。"
+  },
+  {
+    "id": 354,
+    "title": "UMG submits ‘robust remedy’ to EU regulator to address ‘only remaining concern’ about $775m Downtown deal",
+    "title_zh": "UMG提交“强有力补救措施”回应欧盟监管机构对775亿美元Downtown收购的“唯一剩余关切”",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/umg-submits-robust-remedy-to-eu-regulator-to-address-only-remaining-concern-about-775m-downtown-deal/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "Universal Music Group’s latest filing with the European Commission marks a pivotal moment in the EU’s scrutiny of its $775 million takeover of Downtown Music Holdings. By presenting a “robust remedy,” UMG signals its willingness to address the single regulatory hurdle—access to proprietary data housed in Downtown’s Curve royalty‑accounting platform that could tilt competition in wholesale distribution and A&L services. The remedy, touted as comprehensive, underscores the industry’s high‑stakes battle over data dominance and the protection of independent labels. For practitioners, the case illustrates how antitrust authorities evaluate data‑centric competitive advantages and the kinds of concessions that can satisfy them. It also offers a real‑world blueprint for large music conglomerates navigating EU merger reviews, highlighting the need for transparent, data‑driven justifications and the importance of stakeholder engagement. Ultimately, the outcome will reverberate across the global music economy, shaping the future of artist services and distribution ecosystems.",
+    "summary_zh": "UMG向欧盟委员会提交“强有力补救措施”，回应其对775亿美元收购Downtown的唯一关切。此举凸显数据垄断与竞争审查的交锋，为音乐行业提供合规与数据治理的实战案例。",
+    "best_quote_en": "\"Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.\"",
+    "best_quote_zh": "\"在与欧盟委员会进行建设性对话后，我们已提交了一项强有力的补救措施，全面解决了委员会仅剩的关注点。\""
   }
 ]
