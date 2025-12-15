@@ -1,123 +1,5 @@
 [
   {
-    "id": 255,
-    "title": "Influencers made millions pushing ‘wild’ births – now the Free Birth Society is linked to baby deaths around the world",
-    "title_zh": "影响者赚取数百万推广“野生”分娩——如今自由分娩协会与全球婴儿死亡相关联",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/ng-interactive/2025/nov/22/free-birth-society-linked-to-babies-deaths-investigation",
-    "tags": [
-      "analyze",
-      "education",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-22",
-    "summary_en": "This Guardian investigation exposes the Free Birth Society’s (FBS) transformation from a wellness movement into a dangerous, cult‑like enterprise that propagates radical, unverified birth practices. By harnessing viral podcasts, Instagram and paid courses, FBS convinced thousands of expectant mothers to forgo prenatal care and professional midwifery, framing medical intervention as a betrayal of bodily autonomy. The report details a chilling year‑long inquiry revealing 18 documented cases of neonatal loss and maternal harm directly linked to FBS’s guidance—ranging from delayed emergency response to the deliberate dismissal of life‑saving resuscitation. Expert testimony underscores that the society’s teachings violate basic obstetric safety standards, while its financial success—over $13 million in revenue—underscores a profit motive that eclipses patient welfare. The piece serves as a stark warning about how social media influence can override evidence‑based medicine, urging pregnant women and clinicians to scrutinize unregulated birth narratives and to prioritize transparent, medically supervised care.",
-    "summary_zh": "本次调查揭露自由分娩协会已从健康运动演变为危险的、类似邪教的组织，利用播客、Instagram和付费课程，鼓励孕妇放弃产前护理与专业助产，视医疗干预为背叛。研究显示18起与协会指导相关的婴儿死亡与母体伤害，专家指出其做法违背基本产科安全标准。",
-    "best_quote_en": "They taught that resuscitation was often an unnecessary act which deprived babies of the chance to choose to begin their lives.",
-    "best_quote_zh": "他们认为复苏往往是一种不必要的行为，剥夺了婴儿自行开始生命的机会。"
-  },
-  {
-    "id": 256,
-    "title": "Jessica Livingston",
-    "title_zh": "Jessica Livingston",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/jessica.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-11-22",
-    "summary_en": "Jessica Livingston’s story reframes Y Combinator not as a one‑man venture but as a family built around authenticity, culture, and an uncanny ability to read character—her so‑called “Social Radar.” Her understated, data‑driven intuition shaped the accelerator’s selection process, proving that founder quality outweighs product or metrics at early stages. The narrative exposes a gendered invisibility: a powerful female figure whose modesty and aversion to public spectacle keep her out of mainstream history, even as she champions women founders in private. The piece critically examines how culture can become a product, how authenticity fuels trust, and how the cultivation of an alumni network outperforms conventional funding metrics. It invites readers to rethink success metrics, to value people over products, and to recognize the quiet architects behind tech ecosystems. The analysis highlights the tension between public recognition and private influence, urging a broader appreciation for those who shape innovation from behind the scenes.",
-    "summary_zh": "Jessica Livingston 的故事将 Y Combinator 从“单人秀”重新定义为以真实性、文化和对人物洞察力为核心的家庭。她的“社交雷达”让评估早期创始人变得可视化，证明创始人素质比产品更重要。文章批判性地揭示了女性领导者的隐形角色与公众认知的矛盾，并强调文化本身成为产品的力量。",
-    "best_quote_en": "Jessica was the mom in another sense: she had the last word.",
-    "best_quote_zh": "Jessica 在另一种意义上是母亲：她拥有最后一句话。"
-  },
-  {
-    "id": 257,
-    "title": "A Startup’s Bid to Dim the Sun",
-    "title_zh": "A Startup’s Bid to Dim the Sun",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-startups-bid-to-dim-the-sun",
-    "tags": [
-      "solve",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "The article dissects Stardust’s audacious plan to deploy solar geoengineering, framing it as a double‑edged sword in the fight against climate change. It juxtaposes the startup’s promise of a new, supposedly safe reflective particle with the grim reality of long‑term maintenance, regional weather disruption, and the looming “termination shock” that would occur if deployment ceased abruptly. By weaving expert testimony, historical volcanic analogies, and geopolitical analysis, the piece challenges the notion that geoengineering can replace emissions reductions. It underscores the urgency of global governance, the risks of unilateral action, and the ethical dilemma of manipulating Earth’s climate for a temporary fix. The narrative invites readers to weigh the feasibility, morality, and sustainability of such techno‑fixes while reminding us that the root problem—CO₂ emissions—remains unaddressed.",
-    "summary_zh": "文章剖析Stardust公司雄心勃勃的太阳能地球工程计划，既展示其技术潜力，又揭示长期维护、地区气候扰动及“终止冲击”等风险。通过专家论述、火山类比与地缘政治分析，质疑此技术能否替代减排，强调全球治理与单边行动的伦理困境，提醒读者关注根本问题：CO₂排放。",
-    "best_quote_en": "Solar geoengineering is not a solution to climate change. It’s a way—once again, in theory, at least—to depress global temperatures.",
-    "best_quote_zh": "我们视自己为技术使能者，开发工具包并为各国政府决策者提供信息。"
-  },
-  {
-    "id": 258,
-    "title": "Vevo dscvr artists to watch 2026: Sienna Spiro, Alessi Rose, aron!, Bay Swag",
-    "title_zh": "Vevo DSCVR 2026 年待关注艺术家：Sienna Spiro、Alessi Rose、aron!、Bay Swag",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/vevo-dscvr-artists-to-watch-2026-sienna-spiro-alessi-rose-aron-bay-swag/",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "The Vevo DSCVR Artists To Watch 2026 lineup showcases a diverse slate of emerging talent poised to reshape the music landscape. Sienna Spiro, a 20‑year‑old London soul singer, is already touring the UK and US, hinting at a breakout debut album in 2026. Alessi Rose, whose songwriting melds confessional honesty with pop polish, has begun touring with global stars and is projected to hit mainstream pop superstardom. Aron! bridges classic jazz and bossa nova with contemporary pop, creating a nostalgic yet fresh sound that appeals to a new generation. Bay Swag, a Queens‑born drill rapper, is pioneering the “Sexy Drill” sub‑genre, blending hard‑hitting beats with soulful R&B textures. The article underscores how Vevo’s platform amplifies these artists through exclusive video content, championing their artistic vision. From an industry perspective, the piece highlights the importance of curated exposure, cross‑genre experimentation, and the role of media partnerships in accelerating career trajectories. For fans and industry insiders alike, the profile offers a glimpse into the next wave of musical innovation and the strategic pathways that propel emerging artists into mainstream consciousness.",
-    "summary_zh": "Vevo DSCVR 2026 年待关注艺术家揭示了多元化的音乐新星：Sienna Spiro 的灵魂声线、Alessi Rose 的情感写作、aron! 的爵士与流行融合以及 Bay Swag 的性感嘻嘻。文章强调平台曝光、跨界实验与媒体合作是推动新星走向主流的关键。对音乐爱好者与业内人士而言，这不仅是一次音乐趋势的预览，更是对未来音乐生态的深刻洞察。",
-    "best_quote_en": "Alessi Rose possesses a rare combination of talents – razor‑sharp wit, killer songwriting instincts, effortless confidence, and a voice that feels like it was made for your ears.",
-    "best_quote_zh": "Alessi Rose拥有罕见的才华组合——锋利的机智、精准的写歌直觉、轻松的自信以及听起来像为你而生的嗓音。"
-  },
-  {
-    "id": 259,
-    "title": "Five key findings from our investigation into the Free Birth Society",
-    "title_zh": "我们对自由分娩协会调查的五大发现",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/five-key-findings-from-our-investigation-into-the-free-birth-society",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "The Guardian’s year‑long probe into the Free Birth Society (FBS) uncovers a chilling portrait of a multimillion‑dollar enterprise that sells unverified, risk‑laden birthing guidance under the guise of empowerment. Led by ex‑doulas turned influencers, FBS markets “free‑birthing” as a safe alternative to medical care, yet its content is riddled with medically false claims—such as zero infection risk from cutting an umbilical cord—and offers dangerous, passive resuscitation tactics. The investigation links the organization to 48 documented cases of stillbirths and neonatal deaths worldwide, with evidence that FBS’s leaders personally advised mothers during labor, often encouraging them to continue without seeking help. Prof. Soo Downe’s warning that unsupervised births elevate maternal and infant risk is echoed by obstetricians consulted in the study. The report highlights how FBS exploits mistrust in maternity services, amassing over $13 million in revenue while deflecting criticism with “educational” disclaimers. The story serves as a stark reminder that commercial health narratives can have deadly consequences, underscoring the need for rigorous regulation and public education on evidence‑based maternity care.",
-    "summary_zh": "这份调查揭露了一个以“自由分娩”为名的多百万美元企业，利用医疗误导导致多起婴儿死亡。它警示公众：商业健康信息若缺乏科学依据，后果可能致命。",
-    "best_quote_en": "“Across whole populations, going through labour and birth without professional support is associated with higher levels of risk for mother and baby.”",
-    "best_quote_zh": "“在整个群体中，没有专业支持的分娩与母亲和婴儿的风险升高相关。”"
-  },
-  {
     "id": 260,
     "title": "A Way to Detect Bias",
     "title_zh": "检测偏见的方法",
@@ -2348,5 +2230,125 @@
     "summary_zh": "UMG向欧盟委员会提交“强有力补救措施”，回应其对775亿美元收购Downtown的唯一关切。此举凸显数据垄断与竞争审查的交锋，为音乐行业提供合规与数据治理的实战案例。",
     "best_quote_en": "\"Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.\"",
     "best_quote_zh": "\"在与欧盟委员会进行建设性对话后，我们已提交了一项强有力的补救措施，全面解决了委员会仅剩的关注点。\""
+  },
+  {
+    "id": 355,
+    "title": "When bits of optimization imply bits of modeling: the Touchette-Lloyd theorem",
+    "title_zh": "当优化的比特暗示建模的比特：Touchette‑Lloyd 定理",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6aqPCfp3wCk6CKW5J/when-bits-of-optimization-imply-bits-of-modeling-the",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The Touchette‑Lloyd theorem formalises a deep link between optimisation and information: any policy that achieves more entropy reduction than a purely blind controller must acquire a proportional amount of mutual information with the environment. By distinguishing blind (information‑free) and sighted (information‑bearing) policies, the result provides a quantitative selection theorem—\"optimisation implies modelling\"—and offers a concrete bound: ΔH≤ΔH_max‑blind+I(X;A). The article unpacks this inequality with pedagogical examples, such as a five‑bit string guessing game, illustrating how each extra bit of state knowledge translates into a predictable gain in entropy reduction. It situates the theorem within the broader agent‑structure problem, linking entropy minimisation to world‑model construction, and contrasts the result with the Good Regulator Theorem and the internal‑model principle. The discussion highlights practical implications for control design, the limits of mutual‑information‑only strategies, and opens avenues for future work on non‑deterministic dynamics and generalised reward‑maximisation frameworks.",
+    "summary_zh": "Touchette‑Lloyd 定理揭示了优化与信息之间的定量关系：任何比盲目控制器更能降低熵的策略，必须从环境中获取相应的互信息。作者通过五位二进制猜谜游戏等实例，展示了每多一比特状态知识可带来多大熵降低，并将该结果放在代理结构问题与世界模型构建的框架内。该定理与良好调节器定理、内部模型原理等理论相呼应，为控制系统设计提供了新的信息‑理论视角。",
+    "best_quote_en": "For each bit of entropy reduction (beyond what the environment does on its own) the policy must use an additional bit of information from the state X.",
+    "best_quote_zh": "对于每一比特的熵降低（超出环境自身所能做到的），策略必须从状态 X 中使用额外的一比特信息。"
+  },
+  {
+    "id": 356,
+    "title": "In the Wake of Australia’s Hanukkah Beach Massacre",
+    "title_zh": "澳大利亚哈努卡海滩大屠杀之后",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/in-the-wake-of-australias-hanukkah-beach-massacre",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The article is a Q&A with Michael Visontay that unpacks how a recent gun‑men attack on Bondi Beach has crystallised a long‑standing rise in antisemitism in Australia. Visontay, himself a Holocaust‑survivor descendant, frames the country’s Jewish community as a highly vigilant, survivor‑driven collective that has historically responded forcefully to even low‑level hate. He links the surge in incidents to the October 2023 Hamas attacks and the subsequent politicisation of Israel‑Palestine debate. The piece exposes how criticism of Israel is weaponised as a proxy for anti‑Jew sentiment, especially through the concept of Zionism, and how Australian policy attempts to balance support for Muslims with protection of Jews. The interview raises questions about the effectiveness of government action and the difficulty of separating legitimate political critique from hate. It offers a nuanced, expert‑led analysis that is both contextual and cautionary, urging readers to recognise the thin line between criticism and antisemitism and to consider how policy can better safeguard minority communities.",
+    "summary_zh": "文章通过与犹太社区学者的访谈，揭示了澳大利亚反犹主义上升与巴以冲突的关联。受害者多为海滩庆祝节日的犹太人，突显社区高度警觉。访谈指出，批评以色列往往被武器化为对犹太人的攻击，尤其是以犹太复国主义为标志。政府在支持穆斯林与保护犹太人之间的平衡被质疑，行动是否足够也成为讨论焦点。此文以专家视角提供深度分析，提醒读者辨别政治批评与仇恨的细微界限，并呼吁更有效的政策来保护少数族群。",
+    "best_quote_en": "The recognition was probably premature and not necessarily helpful, but I think that was the reason it occurred when it did.",
+    "best_quote_zh": "我认为政府的回应总体上是适当的。"
+  },
+  {
+    "id": 357,
+    "title": "MyTaxReceipt / Digital passport / 2025 photo dump",
+    "title_zh": "MyTaxReceipt / 数字护照 / 2025照片合集",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mytaxreceipt-digital-passport-2025-photo-dump/",
+    "tags": [
+      "guide",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "Across six seemingly unrelated snippets, the author stitches a portrait of contemporary digital life that balances transparency, convenience, and cultural reflection. The first piece, MyTaxReceipt, turns abstract tax figures into a tangible receipt, revealing how federal dollars are allocated and offering a one‑click channel to Congress—an actionable tool that demystifies public spending. Next, the Digital passport walkthrough demonstrates how Apple Wallet’s new ID feature can streamline TSA clearance at 250 U.S. airports, blending biometric verification with everyday travel. The 2025 photo dump juxtaposes TIME’s cultural moments with BBC Science Focus’s cosmic imagery, inviting readers to appreciate both the human and the universal. A lighthearted K‑drama primer guides newcomers through three popular rom‑coms, turning passive curiosity into active binge‑watching. The Gmail purchases trick offers a practical shortcut to consolidate receipts, especially useful during holiday shopping. Finally, a giant roll of kraft paper turns a simple craft supply into a versatile party and art solution. Together, these vignettes showcase how modest tech tools and curated media can enrich personal agency, awareness, and creativity.",
+    "summary_zh": "作者用六段看似零散的内容，勾勒出现代数字生活的全景：MyTaxReceipt 让税收透明化；Apple Wallet 数字护照简化 TSA 检查；2025 照片汇总呈现人类与宇宙；K‑剧指南让新手轻松入门；Gmail 收据搜索提升效率；巨型手工纸让创意无限。每一段都展示了小工具与精选媒体如何提升个人掌控力与创造力。",
+    "best_quote_en": "It’s eye‑opening to see actual dollar amounts.",
+    "best_quote_zh": "您仍需要携带护照出境，但可以在美国250个机场使用数字ID进行TSA安检。"
+  },
+  {
+    "id": 358,
+    "title": "How Nature & Other Physical Environments Impact Your Focus, Cognition & Health | Dr. Marc Berman",
+    "title_zh": "自然与其他物理环境如何影响你的专注力、认知与健康 | Dr. Marc Berman",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-nature-other-physical-environments-impact-your-focus-cognition-health-marc-berman",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-07-14",
+    "summary_en": "Dr. Marc Berman’s interview reveals a compelling convergence between environmental psychology and neurobiology: brief encounters with nature—whether a walk, a picture, or a soundscape—can replenish attentional reserves, dampen mental fatigue, and mitigate rumination and depression. The episode unpacks Attention Restoration Theory, illustrating how the ‘softly fascinating’ patterns of fractals and natural imagery contrast with urban stimuli, thereby offering a measurable, science‑backed antidote to the overstimulation of modern life. Beyond theory, Berman provides pragmatic, low‑cost interventions—pre‑work nature breaks, indoor greenery, and biophilic design—that listeners can implement immediately. The discussion also links ecological exposure to heart‑brain synchrony, sleep quality, and even academic performance, underscoring nature’s role as a public health resource. By weaving empirical evidence with actionable strategies, the conversation invites listeners to reconceptualize their daily environments, turning ordinary spaces into cognitive and emotional boosters. This blend of rigorous research and real‑world applicability makes the content both enlightening and highly usable for professionals and everyday seekers alike.",
+    "summary_zh": "Dr. Marc Berman指出，短暂接触自然——步行、图像或声音——能恢复注意力、减轻精神疲劳并缓解沉思与抑郁。节目阐释注意力恢复理论，说明自然模式与城市刺激的对比，提供可操作的低成本干预，如工作前自然休息、室内绿植和生物亲和设计。更重要的是，研究显示自然接触还能改善心脑同步、睡眠质量及学习表现，凸显自然作为公共健康资源的价值。此番讨论将严谨科研与实用策略相结合，鼓励人们重塑日常环境，将普通空间转化为认知与情绪的加速器。",
+    "best_quote_en": "Even brief periods in nature and exposure to natural images and sounds can restore and improve attentional capacity, reduce mental fatigue and help combat rumination and depression.",
+    "best_quote_zh": "短暂接触自然以及自然图像和声音的暴露可以恢复并提升注意力容量，降低心理疲劳，并帮助对抗反刍与抑郁。"
+  },
+  {
+    "id": 359,
+    "title": "GoDigital Music buys Marc Anthony catalog in eight-figure deal; acquires broader tranche of Latin music rights in separate $115m transaction",
+    "title_zh": "GoDigital Music以八位数交易收购Marc Anthony专辑目录；以1.15亿美元交易收购更广泛的拉丁音乐版权",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/godigital-music-buys-marc-anthony-catalog-in-eight-figure-deal-acquires-broader-tranche-of-latin-music-rights-in-separate-115m-transaction/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "GoDigital Music’s recent acquisition spree, highlighted by an eight‑figure purchase of Marc Anthony’s catalog and a $115 million deal that added 30,000+ assets, signals a strategic pivot toward culturally significant music IP. The company, freshly raised over $1 billion in capital, is positioning itself as a long‑term investor in global rights, with the Marc Anthony catalog alone generating hundreds of millions of streams monthly. By diversifying into Latin, rock, and hip‑hop, GoDigital demonstrates a data‑driven approach: catalog age averages 20 years, and revenue streams are proven. The deal’s complexity—spanning multiple genres and involving major financiers—underscores the need for sophisticated deal‑structuring skills in the modern music industry. For industry observers, the move illustrates how rights‑management firms can leverage capital to acquire legacy content that remains commercially viable, while also building platforms that connect artists and audiences across generations. The strategic emphasis on “the new global soundtrack” reflects a broader trend of Latin music’s ascendancy in the global market, offering a compelling case study for music‑business scholars and investors alike.",
+    "summary_zh": "GoDigital Music通过八位数收购Marc Anthony专辑目录，并以1.15亿美元收购30,000+资产的拉丁音乐版权，凸显其对文化重要IP的投资。该公司新筹资逾10亿美元，正将自己定位为长期全球版权投资者。Marc Anthony目录每月产生数亿流媒体播放，证明其商业价值。通过多元化收购拉丁、摇滚和嘻哈音乐，GoDigital采用数据驱动策略：平均版权寿命20年，收入稳定。复杂的交易结构显示现代音乐行业需要精细的交易技巧。此举展示了版权管理公司如何利用资本获取持续盈利的经典内容，并构建跨世代平台，体现拉丁音乐在全球市场的崛起，成为音乐商业学者和投资者的案例研究。",
+    "best_quote_en": "Latin music isn’t just growing, it’s the new global soundtrack.",
+    "best_quote_zh": "拉丁音乐不只是增长，它是新的全球配乐。"
   }
 ]
