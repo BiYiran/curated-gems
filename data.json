@@ -1,123 +1,5 @@
 [
   {
-    "id": 260,
-    "title": "A Way to Detect Bias",
-    "title_zh": "检测偏见的方法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/bias.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "The article presents a surprisingly simple yet powerful method for detecting bias in selection processes without needing detailed knowledge of the applicant pool. By comparing the post‑selection performance of groups that are theoretically disadvantaged, one can infer whether a process is harder for them to pass. The method hinges on having a random sample of selected applicants, valid performance metrics, and roughly equal ability distributions across groups. A compelling case study illustrates its application in venture capital: First Round Capital’s own portfolio revealed that startups with female founders outperformed those without by 63%, suggesting an unconscious bias in the firm’s selection. The piece highlights the rarity of such analyses, the potential for third‑party oversight, and the increasing availability of relevant data. It invites a future where data‑driven bias detection becomes a standard audit tool, raising questions about transparency, accountability, and the ethical responsibilities of decision‑makers.",
-    "summary_zh": "本文提出一种不需要了解申请者池即可检测选拔偏见的简易方法。通过比较被选中者的后续表现，判断是否存在对某类申请者更苛刻的过程。案例显示，风险投资公司 First Round 的投资组合中女性创始人创办的公司表现优于非女性创始人公司，揭示潜在偏见。作者强调此类分析罕见，第三方监督的可能性日益增加，并预见数据驱动的偏见检测将成为常规审计工具，促使决策者更关注透明度与责任。",
-    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
-    "best_quote_zh": "这不仅仅是检测偏见的启发式方法。它就是偏见的本质。"
-  },
-  {
-    "id": 261,
-    "title": "The Sikh-Separatist Assassination Plot",
-    "title_zh": "锡克分离主义暗杀阴谋",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-sikh-separatist-assassination-plot",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "The article dissects a chilling transnational assassination network that targets Sikh separatists in North America, revealing a sophisticated web of Indian intelligence, narcotics trafficking, and covert operations. By weaving first‑hand interviews, court filings, and diplomatic fallout, the piece illustrates how the Indian government’s hard‑line nationalism under Modi has escalated into extraterritorial repression. It underscores the paradox of Western democracies—Canada’s swift diplomatic break versus the United States’ reluctant confrontation—while exposing the fragile safety of diaspora activists. The narrative invites readers to question the limits of state sovereignty, the ethics of covert violence, and the geopolitical calculus that pits human rights against strategic alliances. Ultimately, it challenges us to rethink how international law, intelligence cooperation, and domestic politics intersect in a world where a single assassination can ripple across continents.",
-    "summary_zh": "文章揭露印度政府对北美锡克分离主义者的跨国暗杀网络，揭示情报、毒品与暗杀的阴谋。它让人思考国家主权、秘密行动与人权的冲突，并反映了西方在外交与安全中的矛盾立场。",
-    "best_quote_en": "\"The world order is taking a new shape,\" he announced.",
-    "best_quote_zh": "\"我准备面对子弹\""
-  },
-  {
-    "id": 262,
-    "title": "My 2025 Holiday Gift Guide: 11 Gifts to Make Your Holidays Extra Fun, Relaxing, and Delicious",
-    "title_zh": "2025年假日礼物指南：11件让假日更有趣、放松、丰盛的礼物",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/21/2025-holiday-gift-guide/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "Tim Ferriss’ 2025 holiday gift guide blends personal experience with actionable recommendations, offering readers a curated list of 11 items that span books, fitness tools, kitchen gadgets, sleep tech, and wellness supplements. The post excels in its practical focus—each gift is accompanied by a brief rationale, usage context, and, where applicable, a special discount code, making the article a one-stop resource for gift shoppers. Ferriss’ narrative voice invites readers into his daily routines, turning the guide into a case study of how thoughtful, functional gifts can enhance well‑being. The guide’s value lies in its blend of expert insight and real‑world applicability, providing a template for readers to assess their own gift‑giving needs and to discover products that genuinely improve quality of life. It’s a timely reminder that the best gifts are those that combine utility, enjoyment, and a touch of personal touch.",
-    "summary_zh": "Tim Ferriss用亲身经验与可操作建议，精心挑选11件礼物，涵盖书籍、健身工具、厨房小电器、睡眠科技与保健补充品。每件礼物都附有使用理由、场景以及折扣码，成为礼物购物的实用指南。文章以案例研究的方式呈现，展示礼物如何提升生活质量。",
-    "best_quote_en": "Momentous Creatine Chews make it as close to effortless as possible.",
-    "best_quote_zh": "Momentous Creatine Chews 让服用变得几乎毫不费力。"
-  },
-  {
-    "id": 263,
-    "title": "Austin Daboh OBE, EVP of Warner’s Atlantic Records UK, exits",
-    "title_zh": "奥斯汀·达博 OBE，华纳阿特兰大唱片英国执行副总裁离职",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/austin-daboh-obe-evp-of-warners-atlantic-records-uk-exits/",
-    "tags": [
-      "update",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "Austin Daboh’s exit from Warner Music’s Atlantic Records UK marks a pivotal moment for the UK’s music industry, underscoring a broader realignment toward tighter U.S. integration. Daboh’s career trajectory—from BBC radio to Spotify’s editorial helm, Apple Music’s cultural strategy, and finally as EVP and President of Black Music—illustrates a rare blend of curatorial insight and executive acumen. His departure signals a shift in leadership philosophy: UK labels now report to U.S. headquarters, hinting at a consolidation that may streamline decision‑making but could also dilute local autonomy. For industry observers, Daboh’s move invites reflection on how talent development, playlist curation, and cross‑cultural collaboration are evolving under corporate hierarchies. The narrative also highlights the importance of strategic partnerships and the need for leaders who can navigate both creative and business imperatives in an increasingly globalized market.",
-    "summary_zh": "奥斯汀·达博离职标志英国音乐行业重组，显示出对美国总部的更紧密依赖。他从BBC到Spotify、Apple Music再到Atlantic的跨平台经验，凸显创意与管理的双重才华。此次变动促使人们重新审视人才培养与内容策划在全球化背景下的演变，以及领导者在保持创意自由与商业目标之间的平衡。",
-    "best_quote_en": "Turning the page after five and a half incredible years at Atlantic Records / Warner Music,",
-    "best_quote_zh": "在Atlantic Records / Warner Music度过了五年半的精彩时光后翻开新的一页"
-  },
-  {
-    "id": 264,
-    "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
-    "title_zh": "孤独修复：我在30多岁时想找新朋友，结果比我想象的更容易",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/the-loneliness-fix-i-wanted-to-find-new-friends-in-my-30s-and-it-was-easier-than-i-imagined",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "Emily Bratt’s candid narrative demystifies the myth that friendship becomes a distant dream after thirty. By blending data on the social‑time costs of adult life with her own experiments—Bumble BFF, Timeleft, SpareRoom, and spontaneous meet‑ups—she illustrates a pragmatic, multi‑channel strategy for rekindling social bonds. The article’s core insight is that loneliness is less a fixed life stage and more a self‑fulfilling belief; the perceived difficulty is amplified by societal narratives that equate age with social decline. Bratt’s case study demonstrates that intentional, varied approaches—online matchmaking, shared interests, and community spaces—can yield meaningful connections within months. Her reflection on the feedback loop of happiness and openness invites readers to reframe friendship as an active, reciprocal practice rather than a passive expectation. The piece balances anecdote with research, offering actionable steps while critiquing the cultural scripts that discourage mid‑life social expansion.",
-    "summary_zh": "布拉特用亲身经历拆解了三十岁后交友变难的迷思，展示多渠道、主动出击的社交策略；她的案例证明，孤独更多是自我设限而非不可逾越的年龄障碍，鼓励人们以开放、积极的心态重塑人际网络。",
-    "best_quote_en": "Age doesn’t stop you from making friends – fear, anxiety and sadness do.",
-    "best_quote_zh": "我认为一旦你投入时间去处理情绪，你会发现有一片广阔的人群等待成为你的伙伴。"
-  },
-  {
     "id": 265,
     "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
     "title_zh": "必备：控制多巴胺以提升动机、专注与满足感",
@@ -2350,5 +2232,125 @@
     "summary_zh": "GoDigital Music通过八位数收购Marc Anthony专辑目录，并以1.15亿美元收购30,000+资产的拉丁音乐版权，凸显其对文化重要IP的投资。该公司新筹资逾10亿美元，正将自己定位为长期全球版权投资者。Marc Anthony目录每月产生数亿流媒体播放，证明其商业价值。通过多元化收购拉丁、摇滚和嘻哈音乐，GoDigital采用数据驱动策略：平均版权寿命20年，收入稳定。复杂的交易结构显示现代音乐行业需要精细的交易技巧。此举展示了版权管理公司如何利用资本获取持续盈利的经典内容，并构建跨世代平台，体现拉丁音乐在全球市场的崛起，成为音乐商业学者和投资者的案例研究。",
     "best_quote_en": "Latin music isn’t just growing, it’s the new global soundtrack.",
     "best_quote_zh": "拉丁音乐不只是增长，它是新的全球配乐。"
+  },
+  {
+    "id": 360,
+    "title": "Exposed: the business linked to baby deaths across the world – The Latest",
+    "title_zh": "曝光：全球婴儿死亡背后的商业链——最新报道",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/12/exposed-the-business-linked-to-baby-deaths-across-the-world-the-latest",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This investigative piece dissects how a fringe movement—Free Birth Society—has co-opted the rise of do‑it‑yourself birth narratives through viral podcasts, turning hopeful stories into a deadly reality. The report unravels a year‑long inquiry that connects the Society’s marketing to a spike in infant mortality, spotlighting the perils of misinformation when unqualified caregivers replace medical professionals. It exposes the financial incentives behind the content, revealing a covert business model that profits from sensationalism and the emotional vulnerability of expectant mothers. The analysis underscores the urgent need for regulatory oversight and public education, while also critiquing the media’s role in amplifying unverified claims. By juxtaposing personal tragedy with systemic failure, the article invites readers to question the ethics of wellness culture and the power of digital persuasion. The piece is a call to action: safeguard vulnerable populations, demand transparency from health influencers, and reinforce evidence‑based maternity care.\n",
+    "summary_zh": "这篇调查揭示了自由分娩协会如何利用播客中的鼓舞人心故事，诱导母亲在无助产士或医生的情况下分娩，导致婴儿死亡。报道一年来追踪了该组织的商业模式，暴露出其通过情感营销获利的阴暗面，提醒公众关注医疗信息的真实性与监管缺失。文章批判了健康文化的商业化与数字传播的危险，呼吁加强监管、提升公众教育，重视循证产科护理的重要性。\n",
+    "best_quote_en": "A year-long investigation into the Free Birth Society reveals how mothers lost children after being radicalised by uplifting podcast tales of births without midwives or doctors.",
+    "best_quote_zh": "一项为期一年的调查揭示了自由分娩协会如何通过鼓舞人心的播客故事，激发母亲在没有助产士或医生的情况下分娩，导致婴儿死亡。"
+  },
+  {
+    "id": 361,
+    "title": "How You Know",
+    "title_zh": "如何知道",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/know.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "The essay turns a quiet reflection on memory into a broader meditation on learning and the architecture of knowledge. It begins with a personal anecdote—how a single page of the Fourth Crusade chronicle seems to eclipse the entire volume—then pivots to Hilbert’s wisdom that a well‑framed problem is half solved. From there the author extrapolates a model of the mind as a compiled program: the source (the experience) is lost, yet the compiled output (the mental model) persists and shapes future understanding. This reframing turns the act of rereading into a deliberate, almost surgical exercise in re‑compilation, suggesting that revisiting texts (and eventually lived experiences) at different life stages can deepen insight. The piece also hints at future technologies that will let us replay and edit our memories, raising philosophical questions about what it means to “know.” The core takeaway is that learning is not about memorizing facts but about reshaping internal models, a lesson that resonates with educators, lifelong learners, and anyone curious about the mechanics of thought.",
+    "summary_zh": "文章把对记忆的沉思升华为学习与知识构建的宏观反思。作者以阅读克里斯托弗的史诗为例，指出事实记忆易忘，却能在大脑中编译成持久的模型。通过希尔伯特的名言——问题的精准表述是答案的一半——作者提出，阅读与经验是一次次的“编译”，每一次都在不同人生阶段产生新的语义。文章进一步预见，未来技术将让我们重放甚至编辑记忆，从而重新“编译”自我。核心结论是：学习不是记住细节，而是重塑内部模型。",
+    "best_quote_en": "Your mind is like a compiled program you've lost the source of. It works, but you don't know why.",
+    "best_quote_zh": "你的大脑就像一段已编译的程序，你失去了源代码。它运作，却不知原因。"
+  },
+  {
+    "id": 362,
+    "title": "A Rationalist Christmas",
+    "title_zh": "理性主义的圣诞节",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/zey4A6mQ9kr9kr4mm/a-rationalist-christmas",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "The piece is a reflective, practical manifesto that re‑frames Christmas as a mindful family ritual rather than a consumer frenzy. The author dismantles the myth of “gift‑rich” holiday by advocating a minimalist, intentional gifting system: a curated catalogue of durable toys, books, and meaningful household items, and a single, thoughtful stocking. He also confronts the Santa narrative, choosing transparency over folklore to protect children’s trust. The narrative is rich with concrete, actionable steps—like turning a houseplant into a living tree, or swapping sugary treats for fermented soybeans—that illustrate how joy can be found in simplicity. By foregrounding togetherness, gratitude, and environmental stewardship, the author offers a case study that invites parents to re‑design holiday rituals in a way that nurtures both children’s imagination and family bonds. It’s a call to re‑evaluate tradition through a rational lens, balancing sentiment with practicality.",
+    "summary_zh": "文章以理性视角重塑圣诞节，将其从消费狂欢转变为家庭温馨的仪式。作者提出简约礼物清单、透明圣诞老人观念，以及用家居植物装饰树木、用纳豆代替糖果等具体做法，强调共同、感恩与环保。通过案例式叙述，他邀请家长重新设计节日传统，让欢乐与责任并存，既满足孩子想象，也维护亲情与信任。",
+    "best_quote_en": "We frame him as a metaphor for everyone who gives something to someone else on Christmas Day.",
+    "best_quote_zh": "我们把圣诞老人当成一个隐喻，象征每个人在圣诞节给别人东西的人。"
+  },
+  {
+    "id": 363,
+    "title": "Want to Talk to Zohran Mamdani? Get in Line",
+    "title_zh": "想与佐尔汉·马姆达尼对话？请排队",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/want-to-talk-to-zohran-mamdani-get-in-line",
+    "tags": [
+      "analyze",
+      "politics",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "In a theatrical twist, New York’s mayor‑elect Zohran Mamdani staged a 12‑hour “The Mayor Is Listening” event at the Museum of the Moving Image, echoing Marina Abramović’s silent performance. By offering 3‑minute one‑on‑one slots to a curated crowd of 142 New Yorkers, Mamdani sought to turn the often‑impersonal mayoral office into a public forum. The event highlighted the paradox of modern politics: the need for personal connection versus the constraints of a busy agenda. Participants ranged from rent‑stabilized residents to biotech investors, each voicing concrete policy concerns—affordable housing, construction schedules, digital privacy—yet the time limit forced many to truncate their messages. The mayor’s own admission of fatigue underscores the logistical strain of such performative outreach. The piece probes whether this spectacle can translate into substantive policy, or merely becomes a marketing stunt that reinforces a performative identity. It invites readers to question the efficacy of symbolic gestures in governance and the real‑world impact of “meeting the public” in a controlled, staged setting.",
+    "summary_zh": "纽约市新任市长佐尔汉·马姆达尼在移动影像博物馆举办了12小时的“市长在倾听”活动，借鉴阿布拉莫维奇的沉默表演。通过短短三分钟的一对一会面，他试图把本应冷漠的行政角色转变为公众论坛。参会者多样，议题涵盖住房、施工、数字隐私，但时间限制让许多人无法完整表达。市长坦言疲惫，凸显此类表演性举措的操作难度。文章从象征与实质的角度，质疑这种“面对面”是否能真正推动政策，还是仅仅成为营销噱头。它提醒读者思考公共参与的真实性与治理效果。",
+    "best_quote_en": "I’ve been in that room for fifteen hours! He said.",
+    "best_quote_zh": "我在那间房间呆了十五个小时！"
+  },
+  {
+    "id": 364,
+    "title": "Anatomy",
+    "title_zh": "解剖",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/anatomy/",
+    "tags": [
+      "guide",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The article is a curated tour through the world of anatomical reference, from Frank Netter’s iconic Atlas to Tom Myers’ revolutionary Anatomy Trains. It balances the awe of high‑resolution illustration with the intellectual curiosity of whole‑systems thinking, showing how anatomy can inform movement, design, and even everyday understanding of the body’s mechanics. Readers learn not only about classic atlases but also about the emerging concept of myofascial meridians—long, tension‑bearing lines that weave through the body’s musculature. The piece underscores the value of tangible models, from life‑size skeletons to 3‑D replicas, and highlights the pedagogical power of hands‑on exploration. It invites educators, clinicians, and curious amateurs alike to re‑imagine anatomy as a dynamic, interconnected system rather than a static set of parts. The article’s critical lens on terminology and accessibility reminds us that even groundbreaking ideas must be communicated clearly to reach wider audiences.",
+    "summary_zh": "文章从弗兰克·内特的经典Atlas到汤姆·迈尔斯的《Anatomy Trains》，引领读者探索解剖学的奇观与系统思维。它展示了肌肉筋膜经线的概念，强调解剖学是动态互联的整体，而非孤立部件。通过对手工模型、3D复制品的评述，强调实践学习的力量。文章提醒我们，创新想法需易懂，才能触及更广泛受众。",
+    "best_quote_en": "Anatomy Trains is a map of our musculoskeletal anatomy. It’s intended for hands‑on and movement bodyworkers but is a great read for anyone interested in structure, whole‑systems thinking, and brilliant design.",
+    "best_quote_zh": "《Anatomy Trains》是我们肌肉骨骼解剖的地图。它旨在服务于实践性和运动身体工作者，但对于任何对结构、整体系统思维和卓越设计感兴趣的人都是极好的阅读材料。"
   }
 ]
