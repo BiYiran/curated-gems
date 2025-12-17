@@ -1,125 +1,5 @@
 [
   {
-    "id": 265,
-    "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
-    "title_zh": "必备：控制多巴胺以提升动机、专注与满足感",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-controlling-your-dopamine-for-motivation-focus-satisfaction",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-08-14",
-    "summary_en": "Huberman’s Essentials episode demystifies dopamine’s role in motivation, turning a complex neurochemical narrative into a practical playbook. He dissects how dopamine’s highs, lows, and baseline shape our drive, linking evolutionary insights to everyday productivity. The host then delivers concrete, science‑backed tools—cold exposure, caffeine, intermittent rewards, growth mindset, and targeted supplements—to boost dopamine safely and sustainably. By framing dopamine as a lever rather than a mystery, the episode empowers listeners to fine‑tune their motivation for school, work, or daily life. The content blends rigorous neuroscience with actionable strategies, offering a roadmap that is both evidence‑based and immediately usable. For anyone seeking to harness the brain’s reward system without falling into addiction or burnout, this episode provides a clear, data‑driven guide that balances theory with practice.",
-    "summary_zh": "Huberman 通过解码多巴胺在动机中的作用，把复杂的神经化学转化为可操作的手册。他阐述多巴胺高低与基线如何塑造驱动力，并结合进化视角与日常生产力。随后提供科学验证的工具——冷暴露、咖啡因、间歇奖励、成长心态与定向补剂，帮助安全提升多巴胺。内容将多巴胺视为杠杆，赋予听众调控动机的能力，兼顾理论与实践，为想要利用奖励系统而不陷入成瘾或倦怠的人提供了数据驱动的清晰路径。",
-    "best_quote_en": "I explain how dopamine regulates motivation and provide science‑based tools to help improve focus, discipline and overall drive.",
-    "best_quote_zh": "我解释了多巴胺如何调节动机，并提供基于科学的工具来帮助提升专注力、纪律性和整体驱动力。"
-  },
-  {
-    "id": 266,
-    "title": "From Suno’s $2.45bn valuation to Live Nation’s DOJ fight… it’s MBW’s weekly round-up",
-    "title_zh": "从Suno的24.5亿美元估值到Live Nation的司法部诉讼……MBW每周综述",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/from-sunos-2-45bn-valuation-to-live-nations-doj-fight-its-mbws-weekly-round-up/",
-    "tags": [
-      "update",
-      "legal",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "法律法规",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "This week’s Music Business Worldwide roundup spotlights the rapid convergence of AI and traditional music business models. Suno’s $250 million Series C, valuing the platform at $2.45 billion and already generating $200 million in annual revenue, underscores the commercial viability of AI‑generated music. At the same time, KLAY Vision’s licensing agreements with Universal, Sony, and Warner demonstrate an industry‑wide shift toward AI‑powered platforms that respect copyright. Warner Music Group’s Q3 revenue surge, driven by artist services and merchandise, illustrates how legacy labels are leveraging new revenue streams while navigating legal battles—evidenced by its settlement with Udio and partnership with Stability AI. Meanwhile, Live Nation’s motion to dismiss a DOJ antitrust suit highlights the regulatory scrutiny facing ticketing giants. Together, these stories reveal a music ecosystem in flux, where AI innovation, licensing frameworks, and legal strategy intersect, offering both opportunities and challenges for stakeholders across the value chain.",
-    "summary_zh": "本周MBW综述聚焦AI与传统音乐模式的融合：Suno融资并已实现年营收2亿美元，KLAY与环球、索尼、华纳签署AI授权，表明行业正向AI平台转型。华纳音乐第三季收入增长，靠艺人服务与周边，亦与Udio和Stability AI合作，解决版权争议。Live Nation则向司法部提交驳回诉讼动议，显示票务巨头面临监管压力。整体来看，音乐生态正处于变革期，AI创新、授权框架与法律策略交织，为行业各方带来机遇与挑战。",
-    "best_quote_en": "\"KLAY will help further evolve music experiences for fans, leveraging the potential of AI, while fully respecting the rights of artists, songwriters, and rightsholders.\"",
-    "best_quote_zh": "\"KLAY 将帮助进一步发展音乐体验，为粉丝利用 AI 的潜力，同时充分尊重艺术家、词曲作者和权利持有人的权利。\""
-  },
-  {
-    "id": 267,
-    "title": "S27:E7 - Tech and Art (Chris Immel)",
-    "title_zh": "S27:E7 - 科技与艺术（Chris Immel）",
-    "source": "CodeNewbie Podcast",
-    "link": "https://www.codenewbie.org/podcast/tech-and-art",
-    "tags": [
-      "update",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2024-05-15",
-    "summary_en": "In this episode, Chris Immel—an AI engineer and digital artist—explores the fusion of software development and creative expression. He argues that AI’s rapid ascent is not a threat but a catalyst for human evolution, urging developers to harness its power responsibly. Chris’s background in architecture and startup ecosystems gives him a unique lens: he sees AI as a tool that can amplify artistic vision and streamline complex systems. The discussion highlights practical ways to embed AI into creative workflows, from generative art pipelines to intelligent UI design. He also reflects on the ethical dimensions, emphasizing transparency, bias mitigation, and the importance of human oversight. The episode offers a balanced mix of technical insight, artistic inspiration, and a forward‑looking perspective that encourages listeners to view AI as an ally rather than an adversary.",
-    "summary_zh": "Chris Immel 在本期节目中探讨了软件开发与艺术创作的交汇点，认为 AI 是推动人类进步的催化剂而非威胁。他强调透明度与伦理，鼓励开发者将 AI 视为合作伙伴，以实现更具创造力与效率的未来。",
-    "best_quote_en": "He believes deeply in the inevitability of the transformative effect of AI on human society, and wants to be part of making that a transformation for the better.",
-    "best_quote_zh": "他深信 AI 对人类社会的变革性影响是不可避免的，并希望成为让这种变革更好的力量的一部分。"
-  },
-  {
-    "id": 268,
-    "title": "Can Trump’s Peace Initiative Stop the Congo’s Thirty-Year War?",
-    "title_zh": "特朗普的和平倡议能否终止刚果的三十年战争？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/12/01/can-trumps-peace-initiative-stop-the-congos-thirty-year-war",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "The piece unspools the tangled reality behind Trump’s proclaimed ‘peace’ in eastern Congo, juxtaposing glossy diplomatic milestones with the brutal persistence of tribal militias, foreign mercenaries, and mineral greed. It foregrounds the king of Bukumu’s fragile sovereignty, the M23’s opportunistic hold on Goma, and Rwanda’s strategic stake in coltan and gold. The UN’s costly, mandate‑weak peacekeeping forces and Qatar’s lukewarm mediation highlight the limits of external intervention. The narrative critiques Trump’s symbolic triumph as a veneer over a conflict that thrives on resource exploitation, ethnic enmity, and a cycle of violence that has outlived colonial borders. The article invites readers to interrogate the rhetoric of peace, the economics of conflict, and the moral cost of geopolitical ambition, urging a deeper, data‑driven reckoning rather than a superficial headline victory.",
-    "summary_zh": "文章揭示特朗普在刚果东部宣称的‘和平’背后，现实是部族武装、外来雇佣兵和资源贪婪交织的混乱。它聚焦布库穆国王的脆弱主权、M23对戈马的占领以及卢旺达在钛铌、黄金的战略利益。联合国昂贵却缺乏执行力的维和行动和卡塔尔的温和斡旋，凸显外部干预的局限。文中批判特朗普的象征性胜利掩盖了超越殖民边界、以资源掠夺和族群仇恨为燃料的长期冲突。它促使读者深入质问和平话语、冲突经济和地缘政治野心的道德代价，呼吁用数据驱动的深度审视，而非肤浅的标题胜利。",
-    "best_quote_en": "The only way to survive in this minefield is to stay neutral.",
-    "best_quote_zh": "在这片战场上，唯一的生存之道就是保持中立。"
-  },
-  {
-    "id": 269,
-    "title": "One of Suno’s latest investors will be of particular interest to the music industry…",
-    "title_zh": "Suno最新投资者之一将引起音乐产业的特别关注…",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/one-of-sunos-latest-investors-will-be-of-particular-interest-to-the-music-industry/",
-    "tags": [
-      "update",
-      "startup-funding",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业融资",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "Suno’s latest Series C round, valued at $2.45 billion, brings together a high‑profile VC, Menlo Ventures, and a surprising player from the music world: Hallwood Media. Hallwood’s board, staffed by UMG alumni and TikTok’s former music chief, signals a growing conviction that AI‑generated music can be a mainstream commodity. The company’s signing of Imoliver and the breakout success of Xania Monet—both AI‑born “artists” that have cracked Billboard charts—illustrates the tension between novelty and legitimacy. While critics like Kehlani decry the loss of human authenticity, Hallwood’s multi‑million‑dollar deals and UMG’s licensing settlements with platforms like Udio hint at a future where AI and traditional music rights co‑exist under regulated frameworks. The article’s core insight is that the music industry is at a crossroads: either it embraces AI as an expansion of creative possibilities or it resists, risking marginalization of emerging digital talent. This piece is a timely case study on the legal, cultural, and economic implications of AI‑generated art, offering both cautionary tales and strategic opportunities for stakeholders.\n",
-    "summary_zh": "Suno最新融资引入音乐巨头Hallwood Media，标志着AI音乐正从实验走向主流。Hallwood董事会聚集UMG与TikTok高管，签约AI创作的Imoliver和Xania Monet，已登上Billboard榜单，凸显技术与版权的碰撞。音乐人对AI的担忧与行业对合法化的需求形成张力，UMG与Udio的版权和解显示了可持续路径。文章提醒我们，AI音乐既是创新机遇，也是法律与文化的试金石，行业必须在拥抱与规范之间找到平衡。",
-    "best_quote_en": "\"Imoliver represents the future of our medium,\" Jacobson declared.",
-    "best_quote_zh": "\"这不是关于取代艺术家，而是关于扩展可能性。\""
-  },
-  {
     "id": 270,
     "title": "I Retired 5 Years Ago With $500,000. Now I Have $1,000,000",
     "title_zh": "五年前我以50万美元退休，现在我拥有100万美元",
@@ -2352,5 +2232,121 @@
     "summary_zh": "文章从弗兰克·内特的经典Atlas到汤姆·迈尔斯的《Anatomy Trains》，引领读者探索解剖学的奇观与系统思维。它展示了肌肉筋膜经线的概念，强调解剖学是动态互联的整体，而非孤立部件。通过对手工模型、3D复制品的评述，强调实践学习的力量。文章提醒我们，创新想法需易懂，才能触及更广泛受众。",
     "best_quote_en": "Anatomy Trains is a map of our musculoskeletal anatomy. It’s intended for hands‑on and movement bodyworkers but is a great read for anyone interested in structure, whole‑systems thinking, and brilliant design.",
     "best_quote_zh": "《Anatomy Trains》是我们肌肉骨骼解剖的地图。它旨在服务于实践性和运动身体工作者，但对于任何对结构、整体系统思维和卓越设计感兴趣的人都是极好的阅读材料。"
+  },
+  {
+    "id": 365,
+    "title": "Best of 2025: Don’t call it morning sickness: ‘At times in my pregnancy I wondered if this was death coming for me’ – podcast",
+    "title_zh": "2025最佳播客：别叫它晨吐——‘有时我怀孕时会想这是否是死亡来临’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/17/best-of-2025-dont-call-it-morning-sickness-at-times-in-my-pregnancy-i-wondered-if-this-was-death-coming-for-me-podcast",
+    "tags": [
+      "learn",
+      "medicine",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "In a candid audio long‑read for The Guardian, Abi Stephenson narrates a harrowing yet hopeful journey through hyperemesis gravidarum—an extreme form of morning sickness that can threaten life. The piece blends personal testimony with medical history, tracing how Victorian doctors once labelled the condition “pernicious vomiting of pregnancy” and how contemporary medicine struggled to find relief until recent breakthroughs in treatment and awareness. Stephenson’s story is not merely a chronicle of suffering; it is a call to re‑examine how we frame and treat pregnancy‑related illness. By juxtaposing intimate recollections with expert insights, the podcast invites listeners to reconsider the cultural silence around severe nausea and to recognize the systemic gaps that still exist in obstetric care. The narrative challenges listeners to ask: what does it mean to label a life‑threatening condition as “just morning sickness,” and how can policy, practice, and public perception shift to ensure safer, more compassionate care for all expectant mothers?",
+    "summary_zh": "在《卫报》音频长读中，Abi Stephenson 以亲身经历揭示妊娠剧吐的严峻与希望。她将个人痛苦与医学史交织，追溯维多利亚时代的“恶性呕吐”到现代突破，呼吁重新审视孕期疾病的框架与治疗。通过亲情与专家视角，节目促使听众思考：为何把危及生命的症状称作“晨吐”，以及如何通过政策与实践为孕妇提供更安全、更温情的护理。",
+    "best_quote_en": "From July: the Victorians called it ‘pernicious vomiting of pregnancy’, but modern medicine has offered no end to the torture of hyperemesis gravidarum – until now",
+    "best_quote_zh": "从七月开始：维多利亚时代称其为‘妊娠恶性呕吐’，但现代医学尚未终结妊娠剧吐的折磨——直到现在"
+  },
+  {
+    "id": 366,
+    "title": "The Fatal Pinch",
+    "title_zh": "致命的夹点",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pinch.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The article exposes the \"fatal pinch\"—a perilous stage where a startup, though still cash‑rich, is hemorrhaging money, stagnating revenue, and facing investor fatigue. It uncovers a self‑reinforcing loop: founders overestimate new funding prospects, slack on profitability, and consequently diminish future capital access. The piece offers a stark diagnostic: if you’re already in the pinch, the probability of raising additional funds is effectively zero. It then maps a pragmatic triad of options—shut down, cut costs (often by firing or salary reductions), or boost revenue—emphasizing ruthless prioritization of people and revenue streams. The author encourages founders to re‑frame sales conversations, explore consulting‑ish work, and pivot to high‑margin services while preserving intellectual property. By blending hard truths with actionable strategies, the piece serves as both a cautionary tale and a tactical playbook for startups teetering on the brink of failure.",
+    "summary_zh": "文章揭示了“致命夹点”，即即使资金充足却持续亏损、收入停滞且投资人失去耐心的危机。作者指出，创始人过度乐观融资前景导致盈利拖延，进而进一步削弱融资机会。面对此情形，融资几乎为零，必须三选其一：停业、削减成本（裁员或降薪）或提升收入。文章强调重新聚焦销售、尝试咨询式服务、保持 IP 并快速收款，提供了务实的生存与转型方案。整体兼具警示与行动指南，帮助处境危机的创业公司寻找逆转之路。",
+    "best_quote_en": "The probability is zero.",
+    "best_quote_zh": "概率为零。"
+  },
+  {
+    "id": 367,
+    "title": "Dancing in a World of Horseradish",
+    "title_zh": "在辣根世界中起舞",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7zkFzDAjGGLzab4LH/dancing-in-a-world-of-horseradish",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The piece weaves a sharp critique of modern luxury and the social erosion wrought by technological progress. It opens with Etihad’s extravagant “Residence” and argues that such opulence is a marketing façade—its cost sits on the same breakpoint as private jets, yet it offers little beyond status. The author extends the analysis to everyday consumables, labeling fake wasabi as “faux luxury” and contrasting it with real wasabi’s high production cost. A broader thesis emerges: as societies grow wealthier, certain luxury goods become mass‑produced, while others disappear—maids replaced by washing machines, live music supplanted by recorded tracks. The article culminates in a nostalgic call for revived social institutions like dance halls that once served as live‑music‑driven matchmaking venues. The underlying implication is that technology can both elevate and erode communal bonds, and that true luxury should be measured by substantive value, not mere price tags. The narrative invites readers to reassess what they deem “premium” and to consider how modern conveniences may be eroding our shared cultural touchstones.",
+    "summary_zh": "作者以Etihad的豪华“Residence”为起点，批判现代奢侈品的“假豪华”，随后将这一思路扩展到日常消费品——将假味噌称作“假奢侈”。文章进一步指出，随着社会财富增长，一些奢侈品被大众化，另一些则消失，例如女仆被洗衣机取代，现场音乐被录音取代。作者以舞厅为例，呼吁恢复过去的社交机构，强调技术进步既能提升便利，也可能削弱人际连接，提醒读者重新评估何谓真正的价值。",
+    "best_quote_en": "The Residence shouldn't exist. If Etihad wasn't a state enterprise, then The Residence probably wouldn't exist.",
+    "best_quote_zh": "The Residence 不应该存在。如果 Etihad 不是国有企业，The Residence 可能也不会存在。"
+  },
+  {
+    "id": 368,
+    "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+    "title_zh": "",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/improve-energy-longevity-by-optimizing-mitochondria-martin-picard",
+    "tags": [
+      "learn",
+      "health-wellness",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "健康养生",
+      "心理学"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "summary_en",
+    "summary_zh": "summary_zh",
+    "best_quote_en": "best_quote_en",
+    "best_quote_zh": "best_quote_zh"
+  },
+  {
+    "id": 369,
+    "title": "Beggars Group has acquired majority ownership of XL Recordings, documents show",
+    "title_zh": "百佳集团收购XL唱片多数股权，文件显示",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/beggars-group-acquired-majority-ownership-of-xl-recordings-documents-show/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "Beggar Group's 51% takeover of XL Recordings signals a strategic consolidation in the indie music sector, reshaping ownership webs and revenue streams. The deal, finalized with a £2.6 million payment to co‑founder Richard Russell, moves XL from a joint venture into a full subsidiary, tightening control over iconic catalogs such as Adele, The Prodigy, and Fontaines D.C. The transaction underscores the growing importance of catalog ownership for indie houses, especially after high‑profile licensing shifts—Adele’s early albums reverting to XL in 2021 spurred a 29.7 % revenue jump. Beggar’s 2024 results—£109.9 million turnover and a 48.6 % profit rise—highlight the financial upside of vertical integration. The intricate web of inter‑ownership with Young Recordings, Beggar Catalogues, and Music Limited illustrates how indie labels increasingly bundle publishing, distribution, and label assets to capture more value. For industry observers, the move exemplifies a broader trend toward consolidation and control over long‑term revenue streams in a market where streaming royalties and catalog rights are becoming the new gold.",
+    "summary_zh": "百佳集团以51%收购XL唱片，标志着独立音乐行业的再整合。此举巩固了对阿黛尔、The Prodigy等标志性专辑的版权控制，提升了长期收益。2024年，百佳集团营业额1.099亿英镑，净利润增长48.6%，显示垂直整合的财务优势。通过收购与Young、Beggars Catalogues等公司互持股，形成了多元化的音乐资产链，凸显行业对版权和流媒体收入的高度重视。",
+    "best_quote_en": "Beggars Group’s ownership share of XL Recordings rose to 51%.",
+    "best_quote_zh": "百佳集团的XL Recordings持股比例上升至51%。"
   }
 ]
