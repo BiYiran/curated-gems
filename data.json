@@ -1,99 +1,5 @@
 [
   {
-    "id": 270,
-    "title": "I Retired 5 Years Ago With $500,000. Now I Have $1,000,000",
-    "title_zh": "五年前我以50万美元退休，现在我拥有100万美元",
-    "source": "Making Sense of Cents",
-    "link": "https://www.makingsenseofcents.com/2025/11/i-retired-5-years-ago-with-500000-now-i-have-1000000.html",
-    "tags": [
-      "analyze",
-      "personal-finance",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "个人理财",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "This interview with a self‑made early retiree illustrates that financial independence can be achieved without a high‑income business or lottery luck. The subject, known as “Purple,” reached $500,000 in a five‑year span by rigorously tracking spending, strategically job‑hopping to boost income, geo‑arbitraging living costs, and investing the surplus in low‑cost index funds. The narrative evolves as she now reports a $1 million net worth, entirely from market gains, while living off a modest withdrawal rate anchored in the 4% rule. She candidly discusses health insurance, accidental income streams, and the psychological shift from corporate stress to intentional living. Her story offers concrete, data‑driven tactics—spending audits, flexible withdrawal strategies, and maintaining a cash cushion—making it a valuable case study for anyone pursuing early retirement. The piece blends personal reflection with actionable finance advice, underscoring that disciplined, informed decisions can translate aspiration into tangible wealth.",
-    "summary_zh": "这篇访谈展示了通过严格消费审计、职业跳槽、地理套利和低成本指数基金投资，五年内从零积累至50万美元退休，并在不再投入新资金的情况下，凭借市场收益翻倍至100万美元。作者分享了健康保险、意外收入、灵活取款策略以及现金缓冲等实战经验，强调自我诚实与目标一致的重要性。",
-    "best_quote_en": "I’m the happiest I’ve ever been. And that’s happier than I ever thought I would be because of my clinical depression.",
-    "best_quote_zh": "我最好的建议是诚实对待自己。思考什么让你快乐并朝着那条路努力——无论那是什么。"
-  },
-  {
-    "id": 271,
-    "title": "The sights and sounds of Bhutan",
-    "title_zh": "不丹的风景与声音",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
-    "tags": [
-      "update",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The article is a reflective travelogue that doubles as a socio‑cultural case study of Bhutan, a nation that has successfully resisted the homogenizing forces of globalization. It opens with the author’s personal travel pledge, then moves into a vivid portrait of Bhutan’s geography, history, and most strikingly, its governance model—where the king’s personal philanthropy and the country’s Gross National Happiness metric replace GDP as a development yardstick. Readers learn how the monarchy’s direct cash‑transfer during COVID saved tourism livelihoods, how strict bans on TV and internet preserved cultural identity, and how Bhutan’s carbon‑negative forests exemplify a living environmental policy. The piece also warns of demographic drift and the ambitious yet long‑term Gelephu Mindfulness City plan. By weaving anecdote, policy analysis, and environmental data, the post invites readers to think critically about alternative prosperity models and the trade‑offs of cultural preservation in a rapidly changing world.",
-    "summary_zh": "作者用亲身旅行的视角，深入剖析不丹这座“最后的佛国”，展示其独特的治理模式——国王亲自发放现金救济、以国民幸福总值取代GDP。文章还强调不丹的碳负森林、严格的电视禁令与人口外流危机，提醒读者思考文化保守与发展之间的平衡。",
-    "best_quote_en": "Bhutan is the world’s one carbon‑negative country—their vast forests absorb more CO₂ than their populace emits.",
-    "best_quote_zh": "不丹是世界上唯一的碳负国家——他们广阔的森林吸收的二氧化碳多于其人口排放的量。"
-  },
-  {
-    "id": 272,
-    "title": "Warner Music Group strikes ‘landmark’ deal with Suno; settles copyright lawsuit against AI music generator",
-    "title_zh": "华纳音乐集团与Suno签订‘里程碑’协议；与AI音乐生成器和解版权诉讼",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "business-model",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "商业模式",
-      "未来预测"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The Warner Music Group‑Suno partnership marks a pivotal shift in AI‑generated music, blending cutting‑edge technology with a robust licensing framework that protects artists while expanding creative possibilities. By granting creators full control over the use of their names, likenesses, voices, and compositions, the deal addresses longstanding copyright concerns that have plagued the industry. The agreement also introduces a tiered model—free tier for streaming, paid tier with download limits—creating a sustainable revenue stream that incentivizes both users and artists. Suno’s acquisition of Songkick further deepens fan engagement, hinting at a future where AI‑driven platforms serve as holistic ecosystems for discovery, collaboration, and monetization. This collaboration signals a broader industry pivot toward responsible AI, as other major labels and tech firms announce similar deals. Ultimately, the partnership showcases how AI can become a pro‑artist tool when anchored in transparent, artist‑centric principles, potentially reshaping the economics and culture of music creation.",
-    "summary_zh": "华纳音乐与Suno的‘里程碑’协议，将AI创作与版权保护结合，开启付费与授权模式，既为创作者保驾护航，也为用户提供更丰富体验。此举凸显AI音乐正从侵权阴影走向合规创新，标志着行业对合法授权与艺术家权益的重新重视。",
-    "best_quote_en": "AI becomes pro-artist when it adheres to our principles: committing to licensed models, reflecting the value of music on and off platform, and providing artists and songwriters with an opt-in for the use of their name, image, likeness, voice and compositions in new AI songs.",
-    "best_quote_zh": "当AI遵循我们的原则时，它就成为了支持艺术家的工具：承诺使用许可模型，体现音乐在平台内外的价值，并为艺术家和作词人提供可选择是否将其姓名、形象、声音和作品用于新的AI歌曲的选项。"
-  },
-  {
-    "id": 273,
-    "title": "I got an epidural for all three of my births – none of them worked as expected",
-    "title_zh": "我在三次分娩中都做了硬膜外麻醉——却都没有达到预期效果",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2025/nov/25/what-to-know-about-epidural",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The article offers a candid, data‑driven narrative that demystifies epidural analgesia for expectant parents. It blends personal testimony with expert commentary, revealing that failure rates of 8‑23 % are not rare medical mishaps but inherent variability in anatomy, drug metabolism, and procedural timing. The piece underscores that myths—such as waiting until a specific cervical dilation or fearing medication depletion—can jeopardize pain control and even fetal safety. Importantly, it highlights actionable strategies: early communication with anesthesiology, tailored formulations for known sensitivities (e.g., red‑haired patients), and flexible dosing protocols. By juxtaposing anecdotal frustration with rigorous evidence, the author invites readers to view epidurals as complex, patient‑specific interventions rather than black‑box solutions. The article’s critical tone and nuanced insights empower informed decision‑making and set realistic expectations for labor analgesia, bridging the gap between patient experience and clinical practice.",
-    "summary_zh": "文章以个人经历为切入点，结合专家数据，揭示硬膜外麻醉失败率在8‑23%并非医疗失误，而是解剖、代谢与时机差异所致。它驳斥常见误区，强调早沟通、个体化配方和灵活剂量的必要性，帮助孕产妇理性预期并做出知情选择。",
-    "best_quote_en": "\"Epidurals are complex; it’s not like when you order something from a vending machine, it falls down and that’s what you get,\" says Dr John W Patton III.",
-    "best_quote_zh": "“硬膜外麻醉很复杂；不像在自动售货机点东西，直接下来的那样。”——约翰·W·帕顿博士"
-  },
-  {
     "id": 274,
     "title": "Write Like You Talk",
     "title_zh": "像你说话一样写",
@@ -2348,5 +2254,99 @@
     "summary_zh": "百佳集团以51%收购XL唱片，标志着独立音乐行业的再整合。此举巩固了对阿黛尔、The Prodigy等标志性专辑的版权控制，提升了长期收益。2024年，百佳集团营业额1.099亿英镑，净利润增长48.6%，显示垂直整合的财务优势。通过收购与Young、Beggars Catalogues等公司互持股，形成了多元化的音乐资产链，凸显行业对版权和流媒体收入的高度重视。",
     "best_quote_en": "Beggars Group’s ownership share of XL Recordings rose to 51%.",
     "best_quote_zh": "百佳集团的XL Recordings持股比例上升至51%。"
+  },
+  {
+    "id": 370,
+    "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
+    "title_zh": "《可爱小鸟与愚蠢奶牛》：性别歧视法案背后的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This article revisits the pivotal figures and tactics of the UK women’s movement in the 1960s‑70s, revealing the political bargaining and societal shifts that birthed the Sex Discrimination Act. It details how female journalists, trade unions, and politicians used lobbying, petitions, and public demonstrations to break gender barriers in the workplace. The piece critiques the caricature of second‑wave feminism as ‘male‑hate’ and underscores the necessity of cross‑class collaboration. Through case‑study analysis of key events, readers gain a deep understanding of the forces behind legal reform and the enduring struggle, inspiring reflection and action on contemporary gender issues.",
+    "summary_zh": "这篇文章回顾了1960–70年代英国女性运动的关键人物与策略，揭示了《性别歧视法案》背后的政治博弈与社会变革。作者细致描绘了女性记者、工会与政治人物如何通过游说、请愿与公开示威，突破职场性别壁垒。文章还批判了二十世纪六七十年代女权运动被简化为“男性仇恨者”的刻板印象，并强调了多元阶层与跨界合作的必要性。通过对关键事件的案例分析，读者可深刻理解法律变革背后的社会力量与持续斗争，激发对当代性别议题的反思与行动。",
+    "best_quote_en": "We were dealing with an enormous social injustice and an extremely resistant patriarchy or power structure that didn’t want to change. We really did set out to change our society and to make life better for our daughters but it’s a fight you have to keep winning.",
+    "best_quote_zh": "我们正面对一场巨大的社会不公和极度抵抗的父权或权力结构，它们不愿改变。我们确实决定改变社会，让女儿们的生活更好，但这是一场必须持续赢得的斗争。"
+  },
+  {
+    "id": 371,
+    "title": "The Party Politics of Sovereign House",
+    "title_zh": "主权之屋的党派政治",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/our-local-correspondents/the-party-politics-of-sovereign-house",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "In the wake of Donald Trump’s 2024 re‑election, a new generation of right‑wing Gen‑Zers turned to a physical hub—Sovereign House—to forge identity, community, and political momentum.  The New Yorker profile traces the evolution of this space, from a loft‑style gathering spot in Dimes Square to the more ambitious Reign club that seeks sustainability through a membership model.  Allen, the fintech co‑founder, curates a mix of speakers that blurs ideological lines, inviting everything from a pro‑fascist commentator to a left‑wing academic.  The narrative reveals how social venues can become incubators for future political actors, turning casual meet‑ups into career pipelines that feed the Trump administration and beyond.  The piece also interrogates the tension between “culture” and “politics,” questioning whether these clubs are merely echo chambers or genuine incubators for new political movements.  By blending anecdote, data on youth voting trends, and a close‑up of club rituals, the article offers a nuanced case study of how the right‑wing’s cultural infrastructure is re‑imagining itself in a post‑Trump era.",
+    "summary_zh": "在特朗普2024年连任后，右派Z世代在Dimes Square的主权之屋寻找身份与政治动能。文章追踪从聚会空间到会员制Reign的演变，揭示社交俱乐部如何孵化未来政客，并探讨文化与政治的边界。",
+    "best_quote_en": "We build bonds early, we grow up together. And then that’s it.",
+    "best_quote_zh": "我们从小就建立联系，一起成长，然后就这样。"
+  },
+  {
+    "id": 372,
+    "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
+    "title_zh": "Essentials：压力、睾酮、攻击性与动机的科学 | 罗伯特·萨波尔斯基博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-of-stress-testosterone-aggression-motivation-robert-sapolsky",
+    "tags": [
+      "learn",
+      "psychology",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-07-10",
+    "summary_en": "In this Huberman Lab episode, Dr. Robert Sapolsky unpacks the nuanced biology of stress, hormones, and motivation, offering a dual lens on how context shapes our perception of stress as either a threat or a catalyst for growth. He distinguishes between positive and negative stress, highlighting the amygdala’s role in excitement versus fear, and explains how testosterone amplifies pre‑existing behavioral tendencies while estrogen supports neural health. Sapolsky’s insights weave together neuroendocrine mechanisms with real‑world applications, presenting daily cognitive practices that mitigate stress in a media‑saturated, hierarchical society. The episode balances advanced science with actionable takeaways—mindful breathing, structured challenge, and consistent practice—making it both a deep dive for scholars and a practical guide for anyone seeking resilience. By situating stress within social context, Sapolsky invites listeners to reframe their relationship with pressure, turning a universal challenge into a source of motivation and confidence.",
+    "summary_zh": "本期Huberman实验室节目，罗伯特·萨波尔斯基博士阐释压力与激素的生物学机制，区分正负压力及其对情绪与行为的影响。通过阐述睾酮放大既有倾向、雌激素维护脑健康，他将复杂神经内分泌过程与日常可操作的减压技巧结合，提供从科学到实践的完整路径。节目强调情境与认知如何重塑压力体验，帮助听众将压力转化为成长动力，兼具学术深度与实用价值。",
+    "best_quote_en": "Stress is not inherently bad; its impact depends on context and perception.",
+    "best_quote_zh": "压力不是天生的坏事；它的影响取决于情境和认知。"
+  },
+  {
+    "id": 373,
+    "title": "The Tim Ferriss Show Transcripts: Bill Gurley (#840)",
+    "title_zh": "Bill Gurley（#840）访谈文字稿",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream-transcript/",
+    "tags": [
+      "inspire",
+      "economics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "经济金融",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "Bill Gurley, the legendary venture capitalist and partner at Benchmark, opens up in this extended interview about the current AI landscape, the speculative frenzy that surrounds it, and how the industry should navigate the so‑called “bubble.”  He draws on Carlota Perez’s framework of technological revolutions to explain why every wave of rapid wealth creation inevitably attracts carpet‑baggers and why the line between a genuine industrial breakthrough and a speculative frenzy is often blurred.  Gurley also shares candid insights on angel investing in the age of AI, the importance of domain expertise that can’t be easily replicated by big tech, and the pitfalls of SPVs for retail investors.  Beyond the market mechanics, he offers a compelling personal narrative about how a simple book on stand‑up comedy gave him permission to pursue a non‑traditional career, tying into his book “Running Down a Dream.”  The episode blends hard data, policy critique, and motivational storytelling, making it a rich resource for founders, investors, and anyone curious about how to thrive in a rapidly changing tech ecosystem.",
+    "summary_zh": "比尔·古尔利在这期访谈中剖析AI时代的泡沫与机会，借鉴卡洛塔·佩雷斯的技术革命理论解释财富快速创造与投机者的关系，并讨论SPV对散户的风险。他强调在AI浪潮中，真正的竞争在于能结合深度行业知识并拥有独特数据的创业者，而非大厂可复制的技术。除此之外，他分享了个人从喜剧书籍获得职业许可的故事，呼应他的新书《追梦》。这段对话兼具数据分析、政策批评与激励性叙事，适合创投人、创业者与技术爱好者。",
+    "best_quote_en": "I think the protection that the drug guys get is so much…",
+    "best_quote_zh": "我认为制药公司得到的保护是如此之多…"
   }
 ]
