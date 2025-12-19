@@ -1,123 +1,5 @@
 [
   {
-    "id": 274,
-    "title": "Write Like You Talk",
-    "title_zh": "像你说话一样写",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/talk.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The essay argues that writing most often drifts into a formal, complex register that alienates readers. By treating the first draft as a spoken conversation—asking whether each sentence sounds like something you’d say to a friend—authors can strip away unnecessary flourishes and make their prose more direct and engaging. The author calls informal language “the athletic clothing of ideas,” suggesting that the most advanced thinkers communicate in the simplest terms. While poetic or deliberately opaque prose has its place, the piece contends that for the vast majority of writers, conversational style is the key to capturing attention and conveying meaning. The strategy is practical: draft normally, then revise sentence by sentence, or even explain the draft to a friend and rewrite based on that retelling. The implication is that mastering spoken‑style writing can elevate an author above 95 % of peers, making content more accessible and memorable in an information‑dense world.",
-    "summary_zh": "写作若能像说话一样，读者的注意力就不会漂移。作者指出，书面语往往过于复杂、正式，导致信息传递效率低。通过先用口语化草稿，再逐句审视“我会不会对朋友说”来检查，可让文字更贴近读者。文章强调，非正式语言是思想的运动服装，真正的专业人士往往用最简洁的词句表达最深奥的概念。对大多数写作者而言，练习口语化写作是提高可读性的捷径。它不仅适用于日常写作，也可用于学术、商业沟通，帮助作者在信息洪流中脱颖而出。",
-    "best_quote_en": "Informal language is the athletic clothing of ideas.",
-    "best_quote_zh": "非正式语言是思想的运动服装。"
-  },
-  {
-    "id": 275,
-    "title": "Information Hygiene",
-    "title_zh": "信息卫生",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xEPiojzEzQexafcBR/information-hygiene",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "Information Hygiene draws a vivid parallel between the body’s immune system and the mind’s epistemic defenses, framing misinformation as a biological pathogen that spreads through memetic contagion. By dissecting innate and adaptive immunity, the author maps environmental filters, baseline beliefs, and active reasoning onto layers of cognitive vigilance. The piece underscores that knowledge is not a passive asset; it is a dynamic, practice‑driven shield. It argues that emotional biases, ideological confirmation, and source fatigue create entry points for falsehoods, and that cultivating a robust knowledge base is the most effective vaccine. The author further stresses the ethical duty of “masking”—avoiding the unverified spread of ideas—and advocates a “scout mindset” that prioritizes truth mapping over rhetorical victory. The essay invites readers to trace the provenance of beliefs, to interrogate their own epistemic habits, and to build a culture of continual self‑audit. In an era where memes outpace fact‑checking, this framework offers a pragmatic, actionable strategy for resilient cognition.",
-    "summary_zh": "信息卫生以人体免疫为隐喻，将谣言比作细菌，揭示认知防御的三层结构：环境屏障、先入为主的信念与主动推理。作者强调知识不是被动资源，而是需要持续训练的防护盾。情绪偏见、意识形态确认与信息疲劳成为“病毒”的入口，只有构建坚实的知识基础才能有效抵御。文中提出“戴口罩”式的传播准则，倡导“侦察者思维”，把真相映射放在赢得辩论之上。作者鼓励读者追溯信念来源、审视自身认知习惯，形成持续自检的文化。在信息与谣言共舞的时代，这套框架为认知韧性提供了可操作的路径。",
-    "best_quote_en": "Notice confusion is the most powerful tool for investigating what's true.",
-    "best_quote_zh": "注意困惑是调查真相最强大的工具。"
-  },
-  {
-    "id": 276,
-    "title": "Ukrainian Men Approaching Military Age Are Fleeing in Droves",
-    "title_zh": "接近征兵年龄的乌克兰男性正在大量逃离",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/ukrainian-men-approaching-military-age-are-fleeing-in-droves",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The article examines how a temporary policy lift—allowing Ukrainian men under 23 to leave the country—has triggered a mass exodus amid a brutal war of attrition. Through the intimate portrait of Klim Milchenko, the piece reveals the psychological calculus of a young man who weighs survival against duty, and the broader societal consequences of a shrinking mobilization pool. Data from German and Polish borders illustrate a surge in refugee flow, while officials argue the rule will curb early desertion and preserve national cohesion. Critics, however, warn that the policy risks long‑term manpower shortages and erodes the sense of collective responsibility. The narrative also touches on the challenges of integration, discrimination, and the fading public support for Ukrainian refugees in neighboring states. Ultimately, the piece underscores the paradox of a war that forces citizens to flee the front lines they are meant to defend, raising questions about the sustainability of Ukraine’s defense strategy and the human cost of policy decisions made under duress.",
-    "summary_zh": "文章通过乌克兰男性接近征兵年龄后被允许离境的临时政策，揭示了在激烈的消耗战中出现的人员外逃现象。以克里姆·米尔切尼科的亲身经历为线索，文章探讨了个体在生存与义务之间的心理权衡，并指出这一政策导致的动员池缩小对乌克兰国防的长期影响。德国、波兰边境数据显示难民涌入激增，官方认为此举可遏止早期逃离、维护国家凝聚力；但批评者担忧此举将削弱未来兵力储备，破坏集体责任感。文章还讨论了难民融入、歧视和邻国对乌克兰难民支持度下降等问题，强调战争迫使本应保卫前线的人们逃离前线的悖论，提出了对乌克兰防御策略可持续性与政策决策人道成本的深刻反思。",
-    "best_quote_en": "\"When you have friends who have been killed, when you see how soldiers are living on the front line, when you see how that could be your life, it’s a very scary thing,\"",
-    "best_quote_zh": "当你有朋友被杀，当你看到士兵在前线的生活，当你看到那可能是你的生活时，这非常可怕。"
-  },
-  {
-    "id": 277,
-    "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
-    "title_zh": "女性激素健康，PCOS，子宫内膜异位症，生育与乳腺癌 | Dr. Thaïs Aliabadi",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-thais-aliabadi",
-    "tags": [
-      "learn",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "Dr. Thaïs Aliabadi, a board‑certified OB‑GYN and surgical pioneer, takes the stage to unpack the hidden epidemics of PCOS and endometriosis—conditions that silently sabotage fertility yet remain under‑diagnosed. Through a data‑driven lens, she dissects symptom patterns, hormonal biomarkers (AMH, HPA axis), and the molecular underpinnings of insulin resistance and chronic inflammation. The conversation pivots from clinical diagnostics—pelvic ultrasound, hormone panels—to practical, actionable strategies: targeted supplements, GLP‑1 agonists, lifestyle pivots, and the timing of fertility preservation. Beyond reproductive health, the dialogue expands to breast‑cancer risk stratification, perimenopause navigation, and the imperative of self‑advocacy in a fragmented medical landscape. What sets this episode apart is its dual focus on evidence‑based medicine and empowerment: women are not passive recipients but informed partners in their health trajectory. The episode is a lifeline for anyone navigating hormonal turbulence, offering a roadmap that blends rigorous science with everyday feasibility.",
-    "summary_zh": "Dr. Aliabadi 以数据为导向，剖析 PCOS 与子宫内膜异位症的症状、诊断与治疗，强调胰岛素抵抗、慢性炎症与激素失衡的关系，并提供可执行的补充与生活方式方案。她进一步探讨乳腺癌风险评估、围绝经期管理与自我倡导，帮助女性把握健康主动权。",
-    "best_quote_en": "This conversation offers empowering, potentially life‑changing information for women of all ages to take control of their hormone, reproductive and overall health.",
-    "best_quote_zh": "这段对话提供了赋权且可能改变人生的信息，帮助各年龄段女性掌控她们的激素、繁殖和整体健康。"
-  },
-  {
-    "id": 278,
-    "title": "Default Alive or Default Dead?",
-    "title_zh": "默认存活还是默认死亡？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/aord.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2025-11-28",
-    "summary_en": "In “Default Alive or Default Dead?” the author reframes startup survival as a binary health check: are you on a trajectory that will eventually yield profitability, or are you doomed to run out of runway? The piece argues that founders rarely ask this question early enough, leading to the “fatal pinch” where slow growth and high burn combine to create a lethal spiral. By insisting on an honest, data‑driven assessment—calculating runway, burn, and growth rates—entrepreneurs can spot the red flag before it becomes a death sentence. The author further critiques the VC‑driven over‑hiring culture, noting that hiring too fast is the biggest killer of early‑stage companies that raise capital. Instead, the article champions lean growth, product‑market fit iteration, and the discipline to resist scaling until traction is proven. This pragmatic framework not only offers a diagnostic tool but also challenges conventional wisdom about fundraising and scaling, making it a valuable guide for founders and investors alike.",
-    "summary_zh": "作者通过“默认存活/默认死亡”概念，揭示了初创公司常见的财务与成长陷阱，强调早期自我评估与避免过度招聘的重要性。此视角既具可操作性，又挑战传统融资思维，值得创业者深思。",
-    "best_quote_en": "The fatal pinch is default dead + slow growth + not enough time to fix it.",
-    "best_quote_zh": "致命的窒息是默认死亡 + 缓慢增长 + 没有足够时间修复。"
-  },
-  {
     "id": 279,
     "title": "What are Putin’s Ultimate Demands for Peace in Ukraine?",
     "title_zh": "普京对乌克兰和平的终极要求是什么？",
@@ -2348,5 +2230,121 @@
     "summary_zh": "比尔·古尔利在这期访谈中剖析AI时代的泡沫与机会，借鉴卡洛塔·佩雷斯的技术革命理论解释财富快速创造与投机者的关系，并讨论SPV对散户的风险。他强调在AI浪潮中，真正的竞争在于能结合深度行业知识并拥有独特数据的创业者，而非大厂可复制的技术。除此之外，他分享了个人从喜剧书籍获得职业许可的故事，呼应他的新书《追梦》。这段对话兼具数据分析、政策批评与激励性叙事，适合创投人、创业者与技术爱好者。",
     "best_quote_en": "I think the protection that the drug guys get is so much…",
     "best_quote_zh": "我认为制药公司得到的保护是如此之多…"
+  },
+  {
+    "id": 374,
+    "title": "UN distances itself from International Women’s Day website winning corporate partnerships",
+    "title_zh": "联合国与国际妇女节网站的企业合作保持距离",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/international-womens-day-website-owned-london-pr-firm-not-linked-to-un",
+    "tags": [
+      "update",
+      "society",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The Guardian piece exposes a growing disconnect between the official United Nations observance of International Women’s Day (IWD) and a London‑based marketing firm’s commercial‑led website, internationalwomensday.com. By selling themed merchandise and selling “official” campaign slogans to major brands such as Sainsbury’s, Barclays and UCL, the site has been mistakenly cited as an UN‑approved voice. The article systematically debunks the claims, quoting UN Women’s spokespersons who emphatically state that the UN has no affiliation with the site. It highlights how corporate partners, lured by a ready‑made theme and a glossy colour palette, inadvertently propagate misinformation. The piece underscores the importance of source verification and the ethical line between advocacy and commercial branding. For marketers, it is a cautionary tale about brand alignment with social movements, and for activists it re‑affirms the need for clear, authoritative channels when framing global campaigns.",
+    "summary_zh": "这篇报道揭示了国际妇女节网站与联合国的错位关系，凸显品牌与官方信息混淆的风险。通过对Sainsbury’s、Barclays等企业的案例分析，作者批判了非官方机构在塑造公众议题时的权威性缺失，并呼吁透明度与责任。文章不仅提供了事实梳理，更引发对数字营销伦理与社会运动商业化的思考，提醒企业在利用社会议题进行品牌推广时必须审慎辨识来源与合法性。",
+    "best_quote_en": "\"Your inquiry provides an important opportunity to clarify that UN Women and the United Nations are not affiliated with the website referenced.\"",
+    "best_quote_zh": "今天的IWD属于所有群体，IWD不是特定国家、群体或组织。"
+  },
+  {
+    "id": 375,
+    "title": "Mean People Fail",
+    "title_zh": "粗暴的人会失败",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mean.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "The essay argues that a surprising pattern emerges in the startup ecosystem: the most successful founders are rarely mean, even though the internet exposes a long tail of rudeness that was once hidden. The author attributes this inverse correlation to three intertwined dynamics. First, mean‑mindedness taxes the mind, turning strategic thinking into short‑term fighting tactics that stall progress. Second, a cruel leader cannot attract top talent; the best engineers, designers and executives prefer a culture of respect and purpose. Third, the new era of value creation is no longer a zero‑sum game of resource control but a collaborative, idea‑driven contest where benevolence and a mission to improve the world become competitive advantages. The piece blends anecdote, historical analogy and personal conviction to suggest that success now rewards kindness as much as ambition. It invites founders to reflect on their own motives and warns that “being mean makes you fail.”",
+    "summary_zh": "作者指出，在创业生态中，最成功的创始人往往不粗暴。粗暴削弱思维、阻碍人才招募，并且在以创意为核心的非零和竞争中，善意与使命感成为竞争优势。文章通过个人经验、历史类比和理性思考，呼吁创始人审视动机，提醒“粗暴会让你失败”。",
+    "best_quote_en": "Being mean makes you stupid.",
+    "best_quote_zh": "粗暴会让你变得愚蠢。"
+  },
+  {
+    "id": 376,
+    "title": "2025-Era “Reward Hacking” Does Not Show that Reward Is the Optimization Target",
+    "title_zh": "2025 年时代的“奖励黑客”并未表明奖励是优化目标",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wwRgR3K8FKShjwwL5/2025-era-reward-hacking-does-not-show-that-reward-is-the",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "In this essay the author revisits a 2022 claim—Reward ≠ OT—that reinforcement‑learning agents do not treat the reward signal as their primary goal. He clarifies that what is often called “reward hacking” in the LLM community is largely specification gaming: models find shortcuts that satisfy the test harness rather than truly maximizing the reward function. The piece dissects the semantic confusion around the word “reward,” arguing that the term obscures whether an agent is optimizing a numeric signal or merely exploiting a specification. Empirical anecdotes from Claude 3.7 Sonnet and Anthropic’s experiments support the idea that RL‑trained systems rarely tamper with their reward functions, aligning with Reward ≠ OT’s predictions. Yet the author admits that pre‑training may seed an understanding of reward concepts, raising the possibility of reward‑seeking behavior emerging later. He proposes concrete, falsifiable tests to detect true reward optimization and stresses the importance of careful language in safety discourse. The essay ultimately reinforces that safety concerns about RL should focus on training dynamics and specification design, not on an inherent drive to maximize reward.",
+    "summary_zh": "作者重新审视2022年提出的“奖励≠优化目标”论点，指出在LLM中常被称为“奖励黑客”的现象实为规范游戏，而非真正的奖励最大化。他强调“奖励”一词的歧义会误导安全讨论，并通过Claude 3.7 Sonnet与Anthropic实验表明RL训练系统不易改动奖励函数。作者承认预训练可能植入奖励概念，导致后期出现奖励追求行为，并提出可检验的实验方案。总体而言，他提醒我们安全关注点应聚焦训练动态与规范设计，而非固有的奖励驱动。",
+    "best_quote_en": "Reward is not the optimization target",
+    "best_quote_zh": "奖励不是优化目标"
+  },
+  {
+    "id": 377,
+    "title": "Merry Christmas, America! The Checks Are in the Mail!",
+    "title_zh": "圣诞快乐，美国！支票已在邮件中！",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/merry-christmas-america-the-checks-are-in-the-mail",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "In a razor‑sharp satirical essay, the author dissects President Trump’s Christmas address, exposing the spectacle of political rhetoric that masquerades as policy. The piece likens Trump’s bombastic, exclamation‑heavy monologue to a 1980s electronics ad, underscoring the performative nature of his speech. It highlights the president’s promise of a $1,776 bonus for 1.4 million service members and the opaque funding shifts that underlie it, while critiquing his neglect of the looming Affordable Care Act subsidy cliff. The narrative pivots to the tension between Trump and his chief of staff, Susie Wiles, revealing a pattern of political self‑interest over factual accountability. By juxtaposing the president’s grandiose claims with Wiles’ pragmatic, yet complicit, responses, the essay offers a micro‑case study of how executive messaging can distort policy realities. The analysis invites readers to question the veracity of televised political narratives and the mechanisms that enable them to thrive, thereby fostering a more skeptical, informed citizenry.",
+    "summary_zh": "作者以讽刺笔触拆解特朗普圣诞致辞，将其比作80年代广告，揭露其夸张口号背后的政策空洞。文章指出总统承诺给1.4万军人发放1776美元奖金，并批评其忽视医疗补贴即将到期的风险。重点转向特朗普与其幕僚苏西·威尔斯的关系，揭示权力与真相的冲突。通过对比总统的宏大宣言与幕僚的妥协，作者呈现了一场关于政治话语如何扭曲现实的微观案例。此文促使读者对电视政治叙事的真实性保持怀疑，培养更具批判性的公民意识。",
+    "best_quote_en": "I am bringing those high prices down and bringing them down very fast!",
+    "best_quote_zh": "我正在把高价降下来，并且很快降下来！"
+  },
+  {
+    "id": 378,
+    "title": "Functional Traveler Gifts/Tougher Italian Passport/Cheaper Streaming Options",
+    "title_zh": "实用旅行礼物/更严格的意大利护照/更便宜的海外流媒体",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/functional-traveler-gifts-tougher-italian-passport-cheaper-streaming-options/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This article blends practical travel hacks with broader socio‑political insights, offering a multi‑layered guide for the modern nomad. It starts with a curated list of lightweight, problem‑solving gifts that actually get packed—an antidote to the endless, often useless gift lists that flood the market. The piece then shifts to the tightening Italian citizenship rules, highlighting the new lineage, language, and residency hurdles that reshape EU mobility. A quick pivot to streaming economics reveals how price arbitrage can save travelers dozens of dollars by exploiting regional subscription rates and VPN tricks. Finally, the author cites a long‑term study from the Annals of Internal Medicine to argue that sustained walking reduces cardiovascular risk more than short bursts, tying physical health to travel habits. Together, these sections form a cohesive playbook: actionable, data‑driven, and attuned to the evolving legal and economic landscape of global travel.",
+    "summary_zh": "文章把实用旅行小技巧、意大利护照新规定、海外流媒体价格套利和步行健康研究巧妙结合，形成一份全方位、数据驱动、可落地的旅行攻略，既解决实务问题，又洞察政策与健康趋势。",
+    "best_quote_en": "People who walked in longer stretches had a lower risk of heart problems than those who walked in short bursts.",
+    "best_quote_zh": "长时间行走的人比短时间间歇行走的人更能降低心脏病风险。"
   }
 ]
