@@ -1,97 +1,5 @@
 [
   {
-    "id": 279,
-    "title": "What are Putin’s Ultimate Demands for Peace in Ukraine?",
-    "title_zh": "普京对乌克兰和平的终极要求是什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-are-putins-ultimate-demands-for-peace-in-ukraine",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The article dissects the stalemate that has defined the Russia‑Ukraine conflict for nearly four years, spotlighting the starkly divergent demands of Moscow and Kyiv. It chronicles the emergence of two competing peace frameworks—Trump‑backed Witkoff’s 28‑point plan and Rubio‑led 19‑point proposal—each tailored to the interests of one side. By weaving in insider reports, leaked recordings, and expert commentary, the piece illuminates why Putin insists on a permanent denial of Ukrainian sovereignty and NATO accession, while Kyiv seeks West‑backed security guarantees. It also contextualizes Russia’s economic pressures, declining oil revenue, and recruitment woes, revealing a calculus that may compel Moscow to negotiate. The article underscores the fragility of any ceasefire absent a binding, multigenerational settlement and questions the durability of a NATO‑banned Ukraine. Ultimately, it offers a nuanced, data‑driven analysis of the geopolitical chess game that could shape Europe’s future stability.",
-    "summary_zh": "文章剖析俄乌冲突四年未变的僵局，聚焦普京与基辅的对立需求。通过两套和平方案的对比，揭示普京坚持否认乌克兰主权与北约加入的根源，并说明乌方对西方安全保障的渴求。结合内部消息与专家观点，阐述俄方经济压力与人力短缺可能促使其谈判的可能性。文章强调，除非达成具有法律约束力的多代方案，否则停火难以持久。",
-    "best_quote_en": "Russia will not be satisfied with anything less than an iron‑clad, generations‑long resolution to what the source called the “Ukrainian question.”",
-    "best_quote_zh": "俄罗斯不会满足于任何不如铁定、世代持续的解决方案，正如来源所称的“乌克兰问题”。"
-  },
-  {
-    "id": 280,
-    "title": "Apps for China Travel/Airline Stopovers/Unlimited Budget Flights",
-    "title_zh": "中国旅行必备应用、航班中转与无限预算机票",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/apps-for-china-travel-airline-stopovers-unlimited-budget-flights/",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The article stitches together practical travel hacks for China with a broader lens on cost‑saving strategies abroad, all wrapped in a light‑hearted, advisory tone. It starts by cataloguing the indispensable tech stack—VPNs, Airalo eSIMs, and other tools—to bypass China’s digital firewall, citing Kevin Kelly’s firsthand experience. It then pivots to a clever airline stopover trick: flying through a hub like Panama or Emirates to snag a free night in a foreign city, effectively turning a layover into a mini‑vacation. The piece takes a detour into eco‑responsible hospitality, urging travelers to choose resorts that cultivate native pollinators, thereby linking leisure with biodiversity preservation. Finally, it spotlights Frontier’s GoWild All‑You‑Can‑Fly Pass, framing it as a high‑risk, high‑reward investment for spontaneous flyers. The core insight is that savvy travelers can layer tech, logistics, and environmental consciousness to craft richer, more affordable journeys. The article’s mix of actionable advice and contextual nuance makes it a valuable resource for budget‑savvy, socially conscious globetrotters.",
-    "summary_zh": "文章以实用攻略为核心，先列出中国必备的VPN、eSIM等工具，随后提出通过中转城市免费停留的机票技巧，再引入生态友好型酒店与蜂群保护，最后评估Frontier航空的无限飞行通行证。整体呈现技术、成本与环保的多维旅行策略，适合预算有限且关注可持续的旅者。",
-    "best_quote_en": "It’s a crazy good deal that would be worth taking a gamble on because you can start using it this year and keep using it through Spring of 2027.",
-    "best_quote_zh": "Airalo eSIM 可能消除额外步骤的需求，因为它已内置。"
-  },
-  {
-    "id": 281,
-    "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
-    "title_zh": "如何重塑大脑并加速学习 | 迈克尔·基尔加德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-rewire-your-brain-and-learn-faster-dr-michael-kilgard",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-08-11",
-    "summary_en": "In this episode, neuroscientist Dr. Michael Kilgard demystifies the mechanics of neuroplasticity, revealing how alertness, focused effort, post‑learning reflection, and sleep collectively forge lasting neural rewiring. He dissects the roles of key neuromodulators—dopamine, acetylcholine, serotonin, norepinephrine—in learning, and translates these biochemical insights into concrete behavioral steps. The discussion extends beyond cognition to therapeutic interventions such as vagal nerve stimulation (VNS) for tinnitus, stroke, PTSD, and paralysis, underscoring the clinical relevance of plasticity science. Kilgard’s narrative blends rigorous research with practical guidance, offering a roadmap for individuals aiming to accelerate skill acquisition, enhance memory, or rehabilitate motor function. The episode balances depth with accessibility, making complex neurobiological concepts actionable for learners, clinicians, and anyone curious about the brain’s adaptive capacity. It invites listeners to view learning not as a static endpoint but as a dynamic, modifiable process shaped by deliberate practice and optimal rest.",
-    "summary_zh": "本期节目由神经科学家基尔加德博士阐释神经可塑性的机制，强调警觉、专注、反思与睡眠如何共同塑造大脑重构。他解析多巴胺、胆碱能、血清素与去甲肾上腺素在学习中的作用，并将理论转化为可操作的行为步骤。节目还探讨迷走神经刺激（VNS）在治疗耳鸣、卒中、创伤后应激障碍和瘫痪等方面的临床应用，展示可塑性科学的实际价值。内容兼具深度与易懂性，为希望加速学习、提升记忆或康复运动功能的听众提供可落地的策略。",
-    "best_quote_en": "Neuroplasticity requires alertness, effortful focus, post‑learning reflection and sleep.",
-    "best_quote_zh": "神经可塑性需要警觉、努力专注、学习后的反思和睡眠。"
-  },
-  {
-    "id": 282,
-    "title": "The 15 US gifts to give the women in your life",
-    "title_zh": "送给生活中女性的15件美国礼物",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The Guardian’s curated gift guide for women blends practicality with sentiment, offering 15 items ranging from a luxurious silk sleep mask to a cutting‑edge smart speaker. Each recommendation is anchored in real user testimonials, giving the list credibility and a personal touch. The guide’s strength lies in its balanced approach—combining high‑tech gadgets like the Oura Ring and Google Nest Audio with everyday indulgences such as scented candles and bath soaks. By spotlighting both functional and experiential gifts, it addresses the dual desire for usefulness and emotional resonance that shoppers often seek. The article’s tone is conversational yet informative, making it accessible to a broad audience while maintaining a sense of expert curation. For gift‑givers, the guide serves as a practical reference that reduces decision fatigue and encourages thoughtful, tailored presents. Its broader implication is a reminder that thoughtful gifting can enhance relationships and self‑care, reinforcing the cultural importance of meaningful material exchanges during the holiday season.",
-    "summary_zh": "本篇指南兼顾实用与情感，精选15件美国礼物，从丝绸睡眠面罩到智能音箱，皆配有真实使用者评价，增强可信度。它平衡高科技与日常享受，满足人们对功能与情感共鸣的双重需求。文风亲切且专业，适合广泛读者，帮助礼物选手减轻决策疲劳，提供贴心、量身定制的建议。此举强调礼物不仅是物质交换，更是情感纽带与自我关怀的体现，凸显节日礼物文化的深层价值。",
-    "best_quote_en": "The Oura ring has been amazing for me,” says Hoffman.",
-    "best_quote_zh": "我爱它因为它把我的头发真的快速干了"
-  },
-  {
     "id": 283,
     "title": "Why It's Safe for Founders to Be Nice",
     "title_zh": "为什么创始人可以善良",
@@ -2346,5 +2254,101 @@
     "summary_zh": "文章把实用旅行小技巧、意大利护照新规定、海外流媒体价格套利和步行健康研究巧妙结合，形成一份全方位、数据驱动、可落地的旅行攻略，既解决实务问题，又洞察政策与健康趋势。",
     "best_quote_en": "People who walked in longer stretches had a lower risk of heart problems than those who walked in short bursts.",
     "best_quote_zh": "长时间行走的人比短时间间歇行走的人更能降低心脏病风险。"
+  },
+  {
+    "id": 379,
+    "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
+    "title_zh": "被囚禁、孤单、恐惧：女性被迫在监狱分娩的残酷现实",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/dec/18/shackled-alone-pregnant-women-forced-birth-prison",
+    "tags": [
+      "analyze",
+      "society",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "In a stark exposé, the Guardian uncovers the harrowing reality faced by pregnant women behind bars across the globe. From El Salvador’s overcrowded cells to the UK’s ignored pleas, the piece weaves personal testimony with stark statistics—women’s prison populations have surged by 57 % since 2000, outpacing men’s growth. The article spotlights the systematic violation of the Bangkok Rules, which demand non‑custodial sentences for pregnant offenders and prohibit restraints during childbirth. Yet prisons remain designed for men, leaving women to endure shackling, solitary confinement, and obstetric violence. The narrative also charts grassroots responses: activists like Pamela Winn and Nora Calandra have translated suffering into legislation, while international NGOs push for data transparency. This piece not only informs but galvanises readers to question the criminal‑justice system’s gender blind spots and to demand humane, rights‑based reforms.",
+    "summary_zh": "全球监狱中孕妇的痛苦被揭露：人口激增、设施不适、法令被忽视，激发人们反思刑事司法的性别盲点，呼吁人权与改革。",
+    "best_quote_en": "\"Prison is not a good environment for women, let alone someone who is pregnant,\" says Sabrina Mahtani.",
+    "best_quote_zh": "“监狱不是一个对女性友好的环境，更何况是孕妇，”萨布丽娜·马塔尼说。"
+  },
+  {
+    "id": 380,
+    "title": "What’s in my NOW? — Kevin Kortum",
+    "title_zh": "我的现在里有什么？——Kevin Kortum",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-kevin-kortum/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "Kevin Kortum, a freelance strategy consultant and founder of Foofaraw, shares the tangible and intangible items that anchor his daily workflow. He starts with a Pilot Vanishing Point fountain pen and a set of espresso machines—physical tools that ground him against digital distraction. On the digital side, he champions Kinopio for its playful, mind‑mapping flexibility and YNAB for its rigorous budgeting discipline. Beyond gear, Kortum’s invisible mantra, “Be kind, stay sane,” underscores a broader ethic of empathy and mental resilience. The article functions as a lightweight guide for creators and entrepreneurs seeking a cohesive system that balances productivity with well‑being. While the tools listed are not groundbreaking, the thoughtful curation and the emphasis on “kindness” provide a fresh lens on work‑life integration. Readers can extract actionable steps—adopting a single physical note‑taking device, implementing a zero‑based budgeting app, or embedding a daily kindness reminder—to reduce overwhelm and enhance focus.",
+    "summary_zh": "Kevin Kortum 以自由策略顾问和 Foofaraw 创始人的身份，分享了让他每日工作有序的实物与无形物品。先是 Pilot Vanishing Point 奶油黑钢笔与多台咖啡机，帮助他抵御数字分心；再到 Kinopio 的可爱思维导图与 YNAB 的严格预算，构成他高效与自律的数字工具链。最重要的是，他用一句“善待他人，保持理智”作为无形守则，提醒读者在忙碌中保持同理与冷静。文章既是为创作者和创业者提供可落地的系统建议，也通过强调善良与理智，为工作与生活的融合注入新的思考。读者可据此挑选一件实物笔记工具、实施零基预算或每日提醒善意，减少焦虑、提升专注。",
+    "best_quote_en": "Be kind, stay sane.",
+    "best_quote_zh": "善待他人，保持理智。"
+  },
+  {
+    "id": 381,
+    "title": "Essentials: How to Set & Achieve Goals",
+    "title_zh": "Essentials：如何设定并实现目标",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-set-and-achieve-goals",
+    "tags": [
+      "solve",
+      "psychology",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "Huberman Lab’s “Essentials” episode dissects the science of goal pursuit, blending neuroscience with practical tools. He explains how dopamine signaling and visual attention orchestrate motivation, and contrasts the efficacy of visualizing success versus failure. The episode introduces a “space‑time bridging” protocol that trains long‑range, goal‑directed behavior, and offers a step‑by‑step framework for selecting goal difficulty, setting action steps, and conducting weekly progress assessments. By grounding each technique in neurobiological principles, the host turns abstract concepts into actionable habits. The content is valuable for anyone looking to increase persistence, reduce procrastination, or fine‑tune their reward circuitry. It bridges academic research and everyday practice, providing clear, evidence‑based steps that can be integrated into daily routines. The episode’s emphasis on measurable metrics and adaptive feedback loops highlights how data‑driven self‑tracking can amplify motivation and sustain momentum toward long‑term objectives.",
+    "summary_zh": "Huberman Lab 通过神经科学解析目标实现过程，阐述多巴胺与视觉注意如何驱动动力。节目提出“时空桥接”协议，帮助训练长期目标行为，并给出设定难度、行动步骤与每周评估的实用框架。内容将学术原理转化为可操作习惯，适合想提升坚持力、减少拖延的人群。强调可量化指标与自适应反馈，展示数据驱动自我追踪如何增强动力与持续性。",
+    "best_quote_en": "The neuroscience of goal pursuit shows dopamine and visual attention shape motivation and effort.",
+    "best_quote_zh": "目标追求的神经科学表明，多巴胺和视觉注意塑造了动机与努力。"
+  },
+  {
+    "id": 382,
+    "title": "From YouTube pulling its data from Billboard’s charts to HYBE’s new partnership with Tyla’s managers… it’s MBW’s weekly round-up",
+    "title_zh": "从 YouTube 把数据拉到 Billboard 的榜单，到 HYBE 与 Tyla 经理的新合作……MBW 的每周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-youtube-pulling-its-data-from-billboards-charts-to-hybes-new-partnership-with-tylas-managers-its-mbws-weekly-round-up/",
+    "tags": [
+      "analyze",
+      "science",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "Music Business Worldwide’s latest roundup captures a week of seismic shifts across the global music economy. A Pivotal Economics report lifts the 2024 global music‑copyright valuation to a record $47.2 billion, underscoring the industry’s resilience post‑pandemic while hinting at a plateau in growth. Meanwhile, YouTube’s decision to cease feeding data to Billboard’s U.S. charts signals a strategic recalibration of streaming metrics, potentially reshaping chart legitimacy. HYBE’s expansion into Africa through a partnership with Tyla’s managers illustrates a deliberate push into untapped talent pools, while The Weeknd’s $1 billion catalog deal with Lyric Capital demonstrates a new model of artist‑centric financing that preserves creative control. Finally, Universal Music Group’s proposed divestiture of Curve ahead of its Downtown acquisition highlights regulatory pressures on consolidation. Together, these stories paint a picture of an industry negotiating data sovereignty, valuation, and global reach—each move offering actionable insights for stakeholders navigating an increasingly complex ecosystem.",
+    "summary_zh": "本周综述揭示音乐产业的多重变革：全球版权价值突破472亿美元，YouTube停止向Billboard提供数据，HYBE进军非洲，The Weeknd与Lyric Capital签下10亿美元目录交易，UMG拟售Curve以获欧盟批准。每一则新闻都反映出数据主权、估值与全球扩张的交织，给行业参与者提供了深刻的行动指引。",
+    "best_quote_en": "The global value of music copyright reached an all‑time high of $47.2 billion in 2024.",
+    "best_quote_zh": "2024 年，全球音乐版权价值创下 472 亿美元的新高。"
   }
 ]
