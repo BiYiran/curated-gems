@@ -1,73 +1,5 @@
 [
   {
-    "id": 283,
-    "title": "Why It's Safe for Founders to Be Nice",
-    "title_zh": "为什么创始人可以善良",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/safe.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-29",
-    "summary_en": "The article argues that startup founders need not adopt a ruthless persona; instead, focusing on accelerating growth rates can achieve scale. Using a simple mathematical model, the author shows that while a more aggressive extraction of revenue can boost short‑term income, the compounded effect of a higher growth rate ultimately delivers superior long‑term results. By comparing scenarios of different pricing and growth rates, the piece demonstrates that kindness and high‑efficiency growth can coexist. This perspective challenges conventional startup lore that equates success with ruthlessness, emphasizing product excellence and word‑of‑mouth as the primary levers. It offers founders both psychological reassurance and a concrete action plan: be kind, but relentlessly pursue growth.",
-    "summary_zh": "文章揭示创始人不必变得冷酷无情，只要专注提升增长率即可实现规模化。作者用数学模型说明，虽然贪婪可以加速收入，但增长曲线的复利效应更为关键。通过对比不同提价与增长率的情景，作者展示了‘善良’与‘高效增长’的可共存。此论点挑战传统创业观，强调产品质量与口碑为核心驱动力，给创业者以心理安慰与行动指南。",
-    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn’t.",
-    "best_quote_zh": "创业者可以安全地善良，因为创造伟大事物是复利的，而贪婪并不是。"
-  },
-  {
-    "id": 284,
-    "title": "Epistemology of Romance, Part 1",
-    "title_zh": "浪漫的认识论，第一部分",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Ye35Abgqp7cqtcTEj/epistemology-of-romance-part-1",
-    "tags": [
-      "analyze",
-      "society",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-29",
-    "summary_en": "The essay dissects the entrenched myths that shape our understanding of romance, arguing that the primary informants—Hollywood films, family lore, religious norms, and peer chatter—are systematically biased and rarely optimized for truth. By deconstructing the infamous “The Notebook” opening scene, the author illustrates how media fetishizes coercive grand gestures, while simultaneously glossing over the subtleties of consent and healthy communication. The piece then expands to examine each source: media’s dramatized persistence, family’s protective but vague advice, religion’s moral scaffolding, and friends’ performative validation. Each is critiqued for its incentives, blind spots, and distortions, underscoring the need for a more epistemically sound foundation. The author proposes turning to evidence‑based resources such as the Gottman Institute, Aella’s surveys, and peer‑reviewed literature, and stresses the importance of honest, vulnerable conversations. Ultimately, the essay calls readers to audit their romantic beliefs, question their origins, and seek knowledge that is both empirically grounded and personally relevant.",
-    "summary_zh": "文章剖析我们对浪漫的认知来源——媒体、家庭、宗教与朋友——如何扭曲真相，并呼吁读者检视自身信念。通过案例和研究，作者指出媒体的娱乐化倾向、家庭的隐性教育、宗教的道德框架以及朋友圈的自我验证机制，揭示了情感认知的多重偏差。最终，他倡议读者主动寻找可靠的心理学与关系研究资源，以构建更健康、基于证据的浪漫观。",
-    "best_quote_en": "The sources we learn about romance from are not optimized for teaching us true things about romance.",
-    "best_quote_zh": "我们学习浪漫的来源并没有针对教我们真实的浪漫知识进行优化。"
-  },
-  {
-    "id": 285,
-    "title": "Jeffrey Epstein, Marjorie Taylor Greene, and the Future of American Politics",
-    "title_zh": "杰弗里·爱泼斯坦、玛乔丽·泰勒-格林与美国政治的未来",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/jeffrey-epstein-marjorie-taylor-greene-and-the-future-of-american-politics",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "Jeffrey Epstein’s shadow has become a cultural shorthand for a cabal of power‑hungry elites, and the article traces how that myth has seeped into the American political psyche. The author argues that the pandemic, the George Floyd protests, and a flurry of high‑profile scandals have collectively eroded trust in institutions, creating a fertile ground for conspiratorial narratives. He points to the recent Congressional push for full disclosure of Epstein files and the surprising resignation of Representative Marjorie Taylor‑Greene as signs that the “Planet Epstein” worldview is gaining political traction. The piece is not merely a critique of a fringe conspiracy; it warns that the next wave of populism may hinge on a new ideological horseshoe—combining isolationist foreign policy with economic populism—rather than the old left‑right binary. The author’s tone is skeptical yet analytical, urging readers to question whether the emerging narrative is a symptom of deeper systemic malaise or a deliberate political strategy. His insights illuminate the fragile interplay between media, public sentiment, and legislative action in a post‑Trump era, offering a nuanced lens on how conspiracy can shape policy and electoral prospects.",
-    "summary_zh": "作者认为，疫情与社会运动削弱了对传统机构的信任，使“爱泼斯坦星球”式的阴谋论在美国政治中获得土壤。特朗普时代的失衡与马格丽特·泰勒‑格林的辞职，标志着新型民粹主义的出现，结合孤立主义与经济民粹的“马蹄形”意识形态，可能重塑选举与政策。",
-    "best_quote_en": "We are in the middle of a quietly revolutionary moment in this country.",
-    "best_quote_zh": "我们正处于美国的静默革命之中。"
-  },
-  {
     "id": 286,
     "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
     "title_zh": "必备：通过冷却方案提升力量与耐力 | 克雷格·赫勒博士",
@@ -2350,5 +2282,77 @@
     "summary_zh": "本周综述揭示音乐产业的多重变革：全球版权价值突破472亿美元，YouTube停止向Billboard提供数据，HYBE进军非洲，The Weeknd与Lyric Capital签下10亿美元目录交易，UMG拟售Curve以获欧盟批准。每一则新闻都反映出数据主权、估值与全球扩张的交织，给行业参与者提供了深刻的行动指引。",
     "best_quote_en": "The global value of music copyright reached an all‑time high of $47.2 billion in 2024.",
     "best_quote_zh": "2024 年，全球音乐版权价值创下 472 亿美元的新高。"
+  },
+  {
+    "id": 383,
+    "title": "Jess Cartner-Morley on fashion: my top tips for gifting clothes this Christmas",
+    "title_zh": "Jess Cartner-Morley谈时尚：我今年圣诞送衣物的最佳建议",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/17/jess-cartner-morley-top-tips-gifting-clothes-christmas",
+    "tags": [
+      "learn",
+      "ai-research",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "Jess Cartner‑Morley’s piece demystifies the perennial holiday dilemma of gifting clothing, turning a risky endeavour into a strategic exercise. She argues that the key to success lies in prioritising items that require minimal fitting—think socks, ties, and versatile knitwear—thereby reducing decision fatigue. Her advice is grounded in a nuanced understanding of the distinction between a person’s style and taste; by selecting pieces that echo what they already wear, the gift feels personal without being presumptuous. She cautions against frivolous, themed gifts that lose relevance after the season and stresses that the act of gifting should centre on the recipient’s preferences, not the giver’s wit. The article balances practicality with a gentle reminder that thoughtful presentation—like a monogrammed robe or a discreet receipt—can elevate even modest gifts. For readers, it offers a clear, actionable framework that transforms a stressful shopping spree into a confidence‑boosting ritual, reinforcing the broader cultural shift toward mindful consumerism and emotional intelligence in gift‑giving.",
+    "summary_zh": "Jess Cartner‑Morley在文章中将送衣物的圣诞礼物难题拆解为一系列可执行的策略。她强调优先挑选不需试穿的单品，如袜子、领带和多功能针织衫，减少决策疲劳。作者区分“风格”与“品味”，建议挑选与受礼者已有穿搭相呼应的物品，既贴心又不过度冒昧。她警告避免季节性、过于滑稽的礼物，强调送礼应以受礼者为中心，而非送礼者的幽默。文章兼具实用性与情感洞察，为读者提供一套清晰、可操作的框架，让繁忙的购物变成自信的仪式，体现了当代消费文化的细腻与情商提升。",
+    "best_quote_en": "Gift giving should always be about the recipient, not the giver.",
+    "best_quote_zh": "送礼应该始终以受礼者为中心，而非送礼者。"
+  },
+  {
+    "id": 384,
+    "title": "Before the Startup",
+    "title_zh": "创业之前",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/before.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Sam Altman’s lecture‑style essay, distilled for college students, reframes startup wisdom as a set of counterintuitive truths. He argues that instinct is a liability: founders routinely ignore YC’s warnings because they conflict with gut feeling. The core lesson is to focus on users, not startup mechanics, and to let curiosity guide idea generation rather than forced brainstorming. Altman also warns of the all‑consuming nature of early‑stage ventures and cautions against launching in college, advocating a breadth‑first life before a depth‑first startup sprint. His narrative is both a practical guide and a philosophical critique of educational and entrepreneurial myths. The piece invites founders to treat entrepreneurship as an extension of intellectual curiosity, not a shortcut to fame. It challenges readers to balance ambition with life design, offering actionable insights grounded in real‑world YC experience.",
+    "summary_zh": "阿尔特曼的演讲式随笔以反直觉的真理重塑创业思维：直觉往往是陷阱，真正的成功在于理解用户而非创业技巧；好点子源于好奇心，而非刻意构思；创业是全身心投入，最好在大学之外开始。文章既是实用指南，也是对教育与创业神话的哲学批判，鼓励创业者把创业视为好奇心的延伸，兼顾野心与生活设计，提供基于YC经验的可操作洞见。",
+    "best_quote_en": "If you have a taste for genuinely interesting problems, indulging it energetically is the best way to prepare yourself for a startup.",
+    "best_quote_zh": "如果你对真正有趣的问题有热情，充满热情地投入其中是为创业做准备的最佳方式。"
+  },
+  {
+    "id": 385,
+    "title": "How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon",
+    "title_zh": "如何通过营养减脂增肌 | Alan Aragon",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-lose-fat-gain-muscle-with-nutrition-alan-aragon",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-07-07",
+    "summary_en": "Alan Aragon, a leading nutrition scientist, demystifies the science behind fat loss and muscle gain with a focus on evidence‑based protocols. He explains that while the popular “30‑gram rule” for post‑exercise protein is oversimplified, the real driver of muscle synthesis is total daily protein intake, with strategic timing around workouts offering marginal gains. Aragon challenges myths about seed oils, artificial sweeteners, and fasted training, presenting data that shows moderate benefits of plant‑based proteins and the limited role of the anabolic window. He also covers controversial topics—collagen supplements, ketogenic diets, and alcohol’s impact on recovery—emphasizing that individual variability and consistent calorie control trump hype. The episode equips listeners with actionable, time‑saving strategies, such as clustering sets and super‑sets, and encourages a data‑driven mindset for long‑term body‑composition success. The conversation underscores that informed nutrition, coupled with smart training, is the most reliable path to sustainable fat loss and muscle gain.",
+    "summary_zh": "阿兰·阿拉贡用循证方法拆解减脂增肌之道，指出30克蛋白规则是误区，真正关键是每日总蛋白与运动前后时机；他挑战种子油、人工甜味剂、空腹训练等争议，强调个体差异与热量控制，提供可操作、节省时间的训练与营养策略，帮助人们以数据驱动实现可持续的体型转变。",
+    "best_quote_en": "The 30‑gram rule is a myth; what matters is total daily protein and timing around workouts.",
+    "best_quote_zh": "30克规则是个迷思；真正重要的是每日总蛋白质摄入和运动前后的时机。"
   }
 ]
