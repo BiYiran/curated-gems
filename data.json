@@ -1,123 +1,5 @@
 [
   {
-    "id": 286,
-    "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
-    "title_zh": "必备：通过冷却方案提升力量与耐力 | 克雷格·赫勒博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-increase-strength-endurance-with-cooling-protocols-dr-craig-heller",
-    "tags": [
-      "update",
-      "science",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-08-07",
-    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Craig Heller—Stanford’s leading authority on thermoregulation—demonstrates that conventional ice‑pack tactics are largely ineffective for dropping core temperature. Instead, he reveals that targeted cooling of glabrous skin—specifically the palms, soles, and upper face—acts as a rapid heat‑siphon, enhancing both anaerobic bursts and aerobic endurance. The discussion blends physiological mechanisms (boundary‑layer cooling, vasoconstriction) with practical tools (CoolMitt, ice‑towel grips) and even touches on neurological benefits such as concussion mitigation. For athletes and fitness enthusiasts, the takeaway is clear: a brief, focused cooling protocol can trigger measurable performance gains without the discomfort of full‑body immersion. The episode also frames these techniques within a broader context of heat‑stroke prevention and adaptive training, offering a data‑driven roadmap for integrating temperature management into routine regimens.",
-    "summary_zh": "在Huberman实验室的这集节目中，斯坦福大学热调控专家克雷格·赫勒博士揭示，传统冰袋冷却法对核心体温的降温效果有限。相反，针对无毛皮肤（手掌、脚掌、上脸）进行冷却，可迅速散热，显著提升无氧爆发力与有氧耐力。节目将生理机制与实用工具相结合，并讨论神经保护效应，提供基于数据的热管理训练路径，帮助运动员在不牺牲舒适度的前提下获得性能提升。",
-    "best_quote_en": "Cooling glabrous skin areas—the palms, soles and upper face—efficiently releases body heat and can significantly enhance physical performance and endurance.",
-    "best_quote_zh": "冷却无毛皮肤区域——手掌、脚掌和上脸部——能高效释放体热，并显著提升身体性能和耐力。"
-  },
-  {
-    "id": 287,
-    "title": "Don’t filter your dates by age and hobbies, ask them how they shop | Polly Hudson",
-    "title_zh": "不要按年龄和爱好筛选约会对象，问问他们的购物方式 | Polly Hudson",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/nov/30/dates-age-hobbies-deal-breakers",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "Polly Hudson’s piece turns the dating playbook on its head by arguing that the little, everyday habits—shopping style, flight punctuality, food expiry attitudes—are the true litmus tests for long‑term compatibility. She contends that the conventional filters of age and hobbies miss the nuanced rituals that shape daily life and, consequently, relationship dynamics. The article weaves anecdotal evidence with a playful tone, suggesting that a partner’s approach to grocery aisles or their tolerance for a bad movie can reveal deeper value misalignments. By framing these quirks as ‘dealbreakers’, Hudson invites readers to re‑prioritize their pre‑date conversations, moving from surface level chatter to concrete, actionable insights. The piece offers a fresh, almost humorous lens on relationship chemistry, urging us to ask the questions that matter most before the honeymoon phase fades. It sparks curiosity about how seemingly trivial habits can foreshadow major friction points, challenging the status quo of dating etiquette.",
-    "summary_zh": "Polly Hudson以购物方式、航班准时度、食品保质期等日常细节为核心，重新定义约会筛选标准。她认为传统的年龄与爱好筛选忽略了塑造关系的细微习惯。文章以轻松诙谐的方式，将这些琐碎细节视为“决裂点”，鼓励读者在约会前就深入探讨对方的生活方式，从而预见潜在冲突。此文提醒我们，细节决定成败，关系的长期稳定往往源于对方日常行为的共识与互补。",
-    "best_quote_en": "\"What’s your Sainsbury’s style?\"",
-    "best_quote_zh": "“你在Sainsbury's的购物风格是什么？”"
-  },
-  {
-    "id": 288,
-    "title": "Change Your Name",
-    "title_zh": "更改你的名字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/name.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "\"Change Your Name\" examines a seemingly trivial yet strategically critical startup decision: owning the .com that matches your brand name. The author argues that a mismatched domain signals weakness and erodes perceived credibility, even in an era when app discoverability has shifted away from search. By dissecting founders’ identity attachment and creative block, he reveals naming as a distinct skill that most founders underestimate. Practical advice follows: step back, imagine alternative names, and enlist external help or a systematic brainstorming process. He cites Stripe and YC cohorts, noting that 100 % of the top 20 YC companies own their .com, while only two‑thirds of the current batch do. The piece blends anecdotal evidence with data, encouraging disciplined action. It serves as a concise guide for early‑stage founders to audit their domain strategy, highlighting that correcting this small oversight can be achieved in days and may unlock greater market perception and investor confidence.",
-    "summary_zh": "《更改你的名字》指出，拥有与品牌同名的 .com 域名不只是搜索便利，更是实力与可信度的象征。作者拆解创始人对名字的情感绑定与命名盲点，强调命名是独立技能。文章结合 Stripe 与 YC 数据，揭示顶尖公司几乎百分百持有 .com，而当前批次仅 66%。通过具体操作建议，提醒早期创业者及时修正域名策略，提升市场认知与投资信任。",
-    "best_quote_en": "Naming is a completely separate skill from those you need to be a good founder.",
-    "best_quote_zh": "命名是一项与成为优秀创始人所需的技能完全独立的能力。"
-  },
-  {
-    "id": 289,
-    "title": "Disappeared to a Foreign Prison",
-    "title_zh": "消失在国外监狱",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/12/01/disappeared-to-a-foreign-prison",
-    "tags": [
-      "update",
-      "society",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "The article exposes the Trump administration’s clandestine third‑country deportation program, where asylum seekers and criminal‑record detainees are sent to nations with no ties to them—often hostile or unstable—without due process. Through first‑hand interviews, legal filings, and investigative flight‑tracking, the piece illustrates how ICE bypassed the non‑refoulement principle, stripped detainees of counsel, and relied on secret agreements with countries such as Eswatini, South Sudan, and Ghana. The narrative highlights the chilling human cost: families torn apart, detainees shackled, and the erosion of the U.S. asylum system’s moral authority. It also underscores the resilience of advocacy networks—lawyers, NGOs, and flight‑tracking volunteers—who expose these abuses and push for judicial redress. The story raises urgent questions about executive power, international accountability, and the future of refugee protection in a shifting geopolitical landscape.",
-    "summary_zh": "文章揭露特朗普政府秘密的第三国遣返计划，非法将无关国家的庇护寻求者和有刑事记录的被拘留者送往不安全或敌对国家，违反非遣返原则。通过采访、法庭文件和航班追踪，展示ICE如何绕过法律程序，剥夺法律援助，并与埃斯瓦蒂尼、南苏丹、加纳等国签订秘密协议。故事突显人道危机、家庭破碎、囚禁等后果，并赞扬律师、NGO和航班追踪者的抗争。",
-    "best_quote_en": "In matters of life and death, it is best to proceed with caution.",
-    "best_quote_zh": "在生死攸关的事上，最好谨慎行事。"
-  },
-  {
-    "id": 290,
-    "title": "How to Control Your Cortisol & Overcome Burnout",
-    "title_zh": "如何控制皮质醇并克服倦怠",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-control-your-cortisol-overcome-burnout",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2025-08-04",
-    "summary_en": "In this episode, Huberman demystifies cortisol—often vilified as a “bad” hormone—and shows how its daily rhythm, rather than its absolute level, governs energy, focus, mood, and sleep. By mapping the hypothalamic‑pituitary‑adrenal axis to concrete behavioral, nutritional, and supplement protocols, he offers a science‑backed toolkit that can be applied in a few minutes each day. The discussion moves beyond generic “reduce stress” advice to a nuanced, time‑of‑day approach: morning light, delayed caffeine, strategic exercise, and targeted nutrients such as grapefruit or magnesium. He also delineates two burnout patterns—early‑phase and late‑phase—providing distinct interventions for each. The episode’s strength lies in its actionable depth: clear timing cues, specific dosage suggestions, and an emphasis on aligning circadian cues with hormonal peaks. For anyone grappling with chronic fatigue or hormonal imbalance, this content is a practical, evidence‑based roadmap that turns a complex endocrine system into a daily performance lever.",
-    "summary_zh": "Huberman用科学拆解皮质醇，指出其节律而非绝对水平决定能量、注意力、情绪与睡眠。他提供从晨光、延迟咖啡、运动到葡萄柚、镁等营养补剂的时间化方案，区分早期与晚期倦怠并给出对应对策。内容实用、可操作，帮助人们把复杂激素系统化为日常提升工具。",
-    "best_quote_en": "Most people mistakenly think cortisol is bad, and many assume their levels are too high, when in fact many health and performance challenges simply stem from a disrupted cortisol rhythm.",
-    "best_quote_zh": "大多数人误认为皮质醇是坏的，很多人以为自己的水平过高，实际上许多健康和表现问题仅仅源于皮质醇节律失调。"
-  },
-  {
     "id": 291,
     "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
     "title_zh": "《Tim Ferriss Show》访谈：2026年简化生活的新技巧——德里克·西弗斯、塞思·戈丁和玛莎·贝克的启示（第837集）",
@@ -2354,5 +2236,125 @@
     "summary_zh": "阿兰·阿拉贡用循证方法拆解减脂增肌之道，指出30克蛋白规则是误区，真正关键是每日总蛋白与运动前后时机；他挑战种子油、人工甜味剂、空腹训练等争议，强调个体差异与热量控制，提供可操作、节省时间的训练与营养策略，帮助人们以数据驱动实现可持续的体型转变。",
     "best_quote_en": "The 30‑gram rule is a myth; what matters is total daily protein and timing around workouts.",
     "best_quote_zh": "30克规则是个迷思；真正重要的是每日总蛋白质摄入和运动前后的时机。"
+  },
+  {
+    "id": 386,
+    "title": "Flavoured condoms, 120 turkeys and a Free Marlon Dingle poster: the weird and wonderful work making the film industry green",
+    "title_zh": "风味避孕套、120只火鸡与免费马龙·丁格海报：让电影产业变绿色的奇特与精彩工作",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/dec/12/film-industry-sustainability-women",
+    "tags": [
+      "analyze",
+      "science",
+      "environment",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "环境科学",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This article spotlights the inventive, women‑led sustainability initiatives reshaping Hollywood and the UK film industry. From Every Day Action’s food‑waste redistribution—now delivering 80,000 meals annually—to EcoSet’s recycling protocols and PropUp’s prop‑recycling marketplace, the narrative showcases how grassroots activism can dovetail with major studios like Warner Bros and Disney. Data‑rich examples—such as a Snow White set’s 3,153‑tonne CO₂ footprint—underscore the urgency of carbon‑reducing measures, while the Bill Emerson Good Samaritan Act’s legal protection demonstrates that altruistic logistics can be both compliant and scalable. The piece blends anecdote with actionable case studies, offering readers concrete models for reducing emissions, waste, and fuel use. It also celebrates women’s leadership in sustainability, noting that 58 % of chief sustainability officer roles are held by women. Overall, the article invites industry professionals to adopt practical, data‑driven practices that simultaneously elevate social impact and operational efficiency.",
+    "summary_zh": "文章聚焦女性主导的电影行业可持续创新，从食物废弃物再分配到回收道具，展示基层行动与大型工作室的协同。数据与案例并存，鼓励行业采用可操作、数据驱动的环保措施。",
+    "best_quote_en": "We’re not sustainability experts, we’re just two women who saw a problem and wanted to do something about it.",
+    "best_quote_zh": "我们不是可持续性专家，我们只是看到问题并想做点什么的两个女性。"
+  },
+  {
+    "id": 387,
+    "title": "How to Raise Money",
+    "title_zh": "如何筹集资金",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fr.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Y Combinator’s “How to Raise Money” distills decades of experience into a pragmatic playbook for founders at the pivotal second‑round stage. The essay reframes fundraising as a structured puzzle, not a mysterious art: investors are driven by fear, and founders must impose hard rules to survive the tug‑of‑war. Key take‑aways include treating fundraising as a parallel, breadth‑first search weighted by expected value, accepting offers greedily, and never letting the pursuit of a high valuation eclipse the primary goal of building the company. The author warns against over‑ambitious fundraising plans, the temptation to chase early valuations, and the risk of “addiction” to the fundraising cycle. He also stresses the importance of clear communication—asking for concrete next steps, treating “no” as a no, and maintaining a single founder for fundraising to avoid distraction. The piece balances prescriptive tactics with a candid appraisal of the psychological traps founders face, making it a valuable, action‑oriented guide.",
+    "summary_zh": "YC的《如何筹集资金》把二轮融资拆解成可执行的步骤，强调把筹资视为有规则的搜索，而非神秘艺术。作者提醒创业者：并非追高估值，而是先把钱拿到手、完成产品。建议并行、多方接触、按预期价值优先，接受可行的报价；同时要避免过度筹资、陷入“筹资成瘾”。文中还强调单人负责筹资、清晰沟通、把“否”当作否定，避免被“好似要投”误导。整体兼具实战技巧与心理警示，是创业者不可多得的实操指南。",
+    "best_quote_en": "Fundraising is not what will make you successful. It’s just a means to an end.",
+    "best_quote_zh": "筹资并不会让你成功，它只是实现目标的手段。"
+  },
+  {
+    "id": 388,
+    "title": "Entrepreneurship is mostly zero-sum",
+    "title_zh": "创业大多是零和游戏",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/fkKcftthj2fhSGDje/entrepreneurship-is-mostly-zero-sum",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Entrepreneurship is mostly zero-sum\" argues that many startups simply shift profits from one entrepreneur to another instead of creating new value. The piece begins with Fred’s car‑repair shop, illustrating how a first mover can generate real surplus, but then shows how Tom’s close‑by competitor siphons that surplus without adding commensurate value. The author extends this logic to venture capitalists, sushi restaurants, payroll software firms, and even high‑profile tech giants, distinguishing rent‑seeking behavior from genuine innovation. He points out that companies like Google, Airbnb, and Nvidia do create new markets, whereas many others merely extract from existing ones. The article invites readers to rethink the default assumption that competition automatically benefits society and to recognize when entrepreneurial activity is truly productive versus merely “rent‑seeking.” It blends economic theory with concrete examples, making a persuasive case for a more nuanced view of entrepreneurship’s impact on welfare.",
+    "summary_zh": "文章指出，创业往往是零和游戏，许多新企业通过抢夺已有利润而非创造新价值。以弗雷德的汽车修理店为例，先行者能带来社会盈余，但随后竞争者汤姆的靠近仅凭距离抢走利润，未增值。作者把这种“租金寻求”扩展到风险投资、寿司连锁、薪资软件等行业，并与谷歌、Airbnb、英伟达等真正创造新市场的企业作对比。文章提醒读者，竞争并不总能提升社会福利，需要辨别创业是创新还是纯粹的利润转移。",
+    "best_quote_en": "Most new businesses tend to be extractive in this sense.",
+    "best_quote_zh": "大多数新企业往往是提取性的。"
+  },
+  {
+    "id": 389,
+    "title": "52 Surprising Things / Watchable American history / See yourself as a verb",
+    "title_zh": "52个惊人之事 / 可观看的美国历史 / 将自己视为动词",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/52-surprising-things-watchable-american-history-see-yourself-as-a-verb/",
+    "tags": [
+      "inspire",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Tom Whitwell’s annual “52 Surprising Things” list offers a kaleidoscopic snapshot of the year’s most intriguing insights—from Marchetti’s commuting paradox to the rising authenticity of Casio watch fakes, and a startling reversal in childhood peanut allergy trends. The post then pivots to cultural consumption, urging every American to watch Ken Burns’ new Civil War and American Revolution series as a corrective to sanitized textbook narratives. A philosophical detour follows, framing the self as an ever‑shifting verb rather than a static noun, a perspective that reframes mortality as a quieting of processes. Practical wisdom surfaces in the knife‑sharpener anecdote, turning an overlooked Airbnb nuisance into a traveler’s hack, and the Freak Pages link invites rabbit‑hole exploration of obscure Wikipedia entries. Finally, a curated set of quotable maxims—ranging from Deming’s data mantra to Shane Parrish’s opportunity reframing—serves as mental fuel. Together, the pieces weave a tapestry that balances learning, inspiration, and actionable life hacks, reflecting a thoughtful curation of knowledge for the curious.",
+    "summary_zh": "作者通过列举52条惊人发现、推荐美国历史纪录片、探讨自我视角转变以及实用旅行小技巧，呈现一场跨学科的知识盛宴。每段内容都兼具启发与可操作性，既让人对历史与心理有更深认识，也提供日常生活的实用建议，体现作者对知识碎片化时代的精准捕捉与整合。",
+    "best_quote_en": "Without data, you’re just another person with an opinion.",
+    "best_quote_zh": "将自己视为动词而非名词"
+  },
+  {
+    "id": 390,
+    "title": "Essentials: Understanding & Conquering Depression",
+    "title_zh": "Essentials: Understanding & Conquering Depression",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-understanding-conquering-depression",
+    "tags": [
+      "learn",
+      "psychology",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-07-03",
+    "summary_en": "In this Huberman Lab Essentials episode, the host dissects major depression through a rigorous, biology‑centric lens, mapping neurotransmitters, hormones, genetics, and inflammation to symptomatology. He then stitches together a multi‑modal treatment tapestry—traditional SSRIs, cutting‑edge ketamine and psilocybin, and lifestyle levers such as cold exposure, exercise, omega‑3s, and creatine. The episode’s strength lies in its actionable framework: each therapeutic avenue is paired with concrete, evidence‑based dosage or practice guidelines, empowering listeners to experiment safely. The dialogue also foregrounds the importance of personalized medicine, acknowledging that hormonal cycles and genetic predispositions shape response profiles. For scholars and clinicians alike, the episode offers a concise, data‑driven primer that bridges basic science and real‑world application, while for everyday listeners it provides a clear, hopeful roadmap to reclaim mood and agency.",
+    "summary_zh": "本集深入剖析重性抑郁的生物学根源，并将药物、前沿疗法与生活方式干预结合，形成可操作的全方位方案。它兼顾科研严谨与实用性，为听众提供可落地的抑郁管理路径。",
+    "best_quote_en": "Science‑based approaches to alleviate symptoms and improve mood.",
+    "best_quote_zh": "基于科学的方法可以缓解症状并改善情绪。"
   }
 ]
