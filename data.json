@@ -1,119 +1,5 @@
 [
   {
-    "id": 296,
-    "title": "A ‘feminised workplace’ doesn’t mean what you think it means | Letter",
-    "title_zh": "‘女性化工作场所’并非你想象的那样 | 信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/01/a-feminised-workplace-doesnt-mean-what-you-think-it-means",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "The letter by Hogg, Fabricius, and Dolmer offers a sharp, feminist critique of the term “feminised workplace.” Rather than treating it as a pejorative shorthand for a women‑dominated environment, the authors reconceptualise it as a lens that exposes how gendered notions of femininity and masculinity shape pay, hours, and conditions under contemporary capitalism. By foregrounding the entanglement of economic exploitation and gendered expectations, they dismantle the simplistic narrative that a feminised workforce automatically weakens the market. Their analysis foregrounds the need to describe and measure gendered labour conditions accurately before reforms can be meaningfully enacted. The piece is rich with expert insight, drawing on sociological theory and recent labour trends, and it invites readers to re‑evaluate assumptions about gender and work. The article’s critical stance is both provocative and constructive, offering a roadmap for scholars, policymakers, and practitioners to address systemic inequities that arise when gender is treated as a static variable rather than a dynamic force within the labour market.",
-    "summary_zh": "这篇文章以批判视角重新定义“女性化工作场所”，指出工资、工时与性别观念密切相连。作者揭示资本主义如何利用性别刻板印象，挑战传统男性身份危机，并呼吁精准描述性别工作条件以实现公平。其深度见解对学术研究与实践者均具启示意义，促使我们反思工作场所的性别化逻辑与制度性不平等。",
-    "best_quote_en": "pay, working hours and working conditions are inseparably connected with the ways we define femininity and masculinity.",
-    "best_quote_zh": "工资、工作时间和工作条件与我们对女性化和男性化的定义密不可分。"
-  },
-  {
-    "id": 297,
-    "title": "What Microsoft Is this the Altair Basic of?",
-    "title_zh": "这家公司是微软的 Altair Basic 吗？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/altair.html",
-    "tags": [
-      "learn",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略"
-    ],
-    "date": "2025-12-02",
-    "summary_en": "The article invites readers to reframe how we judge nascent ventures, urging us to see beyond the initial “lame” façade and ask: what Microsoft might this become? It blends a reflective narrative with a practical diagnostic framework, framing the evaluation of a startup as a puzzle where the answer is not obvious but often emerges through instinctual insight and historical analogy. By invoking Altair Basic—a humble, overlooked programming tool that later underpinned Microsoft’s rise—the author illustrates that today’s niche or oddball idea can evolve into a dominant industry force if nurtured. The piece underscores that founders’ intuition, coupled with a willingness to pursue the most exciting path, can propel a venture from a swampy beginning to a “beautiful swan.” It challenges the reader to adopt a long‑term, growth‑oriented mindset, turning skepticism into curiosity and speculation into actionable strategy. This intellectual exercise is both a guide for aspiring entrepreneurs and a reminder that the most transformative innovations often start in the most unglamorous places.",
-    "summary_zh": "文章用Altair Basic与微软的类比，引导我们重新评估初创公司，从“废物”到潜在巨头的转变。它提醒创始人要信任直觉，追随最激动人心的路径，才能把不起眼的点子变成行业巨兽。",
-    "best_quote_en": "What Microsoft is this the Altair Basic of?",
-    "best_quote_zh": "这家公司是微软的 Altair Basic 吗？"
-  },
-  {
-    "id": 298,
-    "title": "Halfhaven Digest 6 + Retrospective",
-    "title_zh": "Halfhaven Digest 6 + 回顾",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/HdHneBqRzpWQbpEe3/halfhaven-digest-6-retrospective",
-    "tags": [
-      "solve",
-      "education",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-12-02",
-    "summary_en": "Halfhaven Digest 6 + Retrospective chronicles the author’s growth and reflections during a two‑month writing challenge. The piece dissects the daily habits, community support, and psychological mechanisms that sustain regular creative output. It candidly addresses the struggle of writing while balancing full‑time work and personal life, and it uses peer experiences to illuminate how willpower can be protected and leveraged. As a personal growth log and a case study in disciplined writing, it offers actionable insights for anyone wishing to increase both the frequency and quality of their prose. The article serves as a guide to habit formation, community building, and self‑reflection, making it a valuable resource for writers seeking to turn practice into proficiency.",
-    "summary_zh": "Halfhaven Digest 6 + Retrospective 记录了作者在两个月写作挑战中的成长与反思。文中不乏对写作习惯、社区支持与自我提升的深度剖析。作者坦诚写作难度与时间管理的痛点，并借助同伴经验探讨持续创作的心理机制。文章既是个人成长日志，也是写作实践的案例研究，为想要提升写作频率与质量的创作者提供可行的思路与启发。",
-    "best_quote_en": "Writing every day is hard. Especially if you still have to live your life and work full time and so on.",
-    "best_quote_zh": "每天写作很难，尤其当你还要过日常生活并全职工作时。"
-  },
-  {
-    "id": 299,
-    "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
-    "title_zh": "利用红光提升新陈代谢与LED灯的危害 | Dr. Glen Jeffery",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/red-light-to-improve-metabolism-and-harmful-effects-of-led-glen-jeffery",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "Dr. Glen Jeffery’s discussion unpacks the biophotonic mechanics behind light’s influence on human health, positioning red and near‑infrared wavelengths as metabolic enhancers while exposing the hidden mitochondrial damage from ubiquitous LED lighting. He traces the science from cellular respiration to systemic outcomes—glucose regulation, ocular aging, and mood modulation—illustrating how even clothing and indoor architecture modulate photon penetration. The talk balances rigorous evidence with actionable guidance: natural sunlight, red‑LED devices, and plant‑based light strategies can be integrated into daily routines to boost mitochondrial resilience. Yet Jeffery warns that the “sun‑like” marketing of LED products often masks their detrimental blue‑rich spectra, urging a shift toward full‑spectrum, balanced illumination. For health‑savvy audiences, this episode is a call to re‑evaluate the invisible light environment that shapes aging and disease.",
-    "summary_zh": "Dr.杰弗里阐释红光与近红外如何通过线粒体提升新陈代谢，并揭示LED光对线粒体的潜在危害。他将科学与实用指南结合，鼓励公众通过自然光和红光设备改善健康。",
-    "best_quote_en": "Long‑wavelength light can enter the body and brain to enhance mitochondrial function and thereby improve metabolism, eyesight, blood glucose regulation, mood, hormones and more.",
-    "best_quote_zh": "长波长光可以进入身体和大脑，增强线粒体功能，从而改善代谢、视力、血糖调节、情绪、激素等。"
-  },
-  {
-    "id": 300,
-    "title": "Robert Kyncl signs new deal as Warner Music Group’s CEO",
-    "title_zh": "罗伯特·金克签署新合同，成为华纳音乐集团首席执行官",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/robert-kyncl-signs-deal-as-warner-music-groups-ceo/",
-    "tags": [
-      "update",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "The announcement of Robert Kyncl’s new contract at Warner Music Group offers a rare window into how top executives align incentives with company performance. By tying a $10 million stock‑option tranche to sustained shareholder‑return thresholds and adding a $5 million annual performance‑stock‑unit (PSU) grant, Warner signals a shift toward a metrics‑driven culture. The package’s structure—exercisable only after 20 consecutive trading days above 8‑, 10‑, and 12‑percent total shareholder return—underscores a long‑term horizon, while the revised severance terms provide a safety net that balances risk and reward. Kyncl’s own commentary—highlighting a 0.6‑point U.S. market‑share gain and a 6‑point global Spotify Top‑200 lift—illustrates the company’s dual focus on organic growth and strategic partnerships, such as its first AI deals. For investors and business leaders, the deal offers actionable insights into executive compensation design, corporate governance, and the evolving music‑industry economics, especially as streaming revenue continues to dominate the sector’s growth engine.",
-    "summary_zh": "罗伯特·金克在华纳音乐新合同揭示了高管激励与公司业绩的深度绑定。通过将1000万美元期权与连续20个交易日的8%、10%、12%股东回报挂钩，并增设500万美元年度绩效股票单位，标志着华纳向长期、指标驱动文化转型。此举为投资者和行业领袖提供了关于高管薪酬设计、公司治理与音乐行业经济演进的可操作洞见，尤其在流媒体收入主导增长的背景下更具启示性。",
-    "best_quote_en": "These results prove that our strategy is working.",
-    "best_quote_zh": "我们在全球的 Spotify Top 200 份额比 2024 年提升了约 6 个百分点。"
-  },
-  {
     "id": 301,
     "title": "Women behind the lens: ‘They waited in a kind of deranged inactivity for the possibility of a visit’",
     "title_zh": "镜头背后的女性：‘她们在一种疯狂的无动静中等待访客的可能’",
@@ -2356,5 +2242,125 @@
     "summary_zh": "在本期节目中，比尔·古尔利分享了他在 AI 时代的投资视角、十天中国之旅以及从鲍勃·迪伦、杰瑞·赛因菲尔德、MrBeast 等人物中汲取的生活启示。他强调，无论行业如何，主动拥抱 AI、提升自身技术素养是抵御职业风险的关键。通过对中国高铁、Xiaomi 工厂的实地考察，他剖析了中美技术竞争与政策差异，提出美国在人才与创新生态方面的应对路径。结合职业热情与自我学习的检验方法，古尔利鼓励听众追求真正热爱的事业，并以“运气是准备遇到机会”作为行动指南。",
     "best_quote_en": "I don’t care what field you’re in, you should be playing with this stuff. It has the potential to impact your role in your career, and the best way to protect against any risk of your career being obfuscated or eliminated from AI is to be the most AI‑enabled version of yourself you can possibly be.",
     "best_quote_zh": "我不在乎你从事哪个领域，你应该玩弄这些东西。它有可能影响你在职业中的角色，而防止你的职业被 AI 混淆或消失的最佳方式是成为你能成为的最具 AI 能力的自己。"
+  },
+  {
+    "id": 396,
+    "title": "Investor Herd Dynamics",
+    "title_zh": "投资者羊群动态",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/herd.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "争议观点"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "This essay unpacks the often‑misunderstood \"herd effect\" that governs early startup fundraising. It shows that a single investor’s interest can snowball into a cascade, raising a company’s perceived value, lowering its risk profile, and boosting founder confidence—factors that together convince other investors to jump in. The author warns against chasing a stampede for its own sake, noting that many hype‑driven deals implode, while modestly popular firms can thrive. Practical take‑aways include honest communication, avoiding over‑exaggeration, and respecting other investors’ confidentiality. By blending psychological insight with concrete tactics, the piece offers founders a nuanced map of how reputational dynamics shape capital flow and how to navigate them without manipulation.",
+    "summary_zh": "这篇文章揭示了投资者间相互影响的“羊群效应”，指出成功融资并非仅靠单一投资者，而是通过连锁效应形成市场共识。作者强调，早期融资能降低风险、提升公司价值，并增强创始人自信，进而吸引更多投资者。文章批判盲目追求“stampede”而忽视质量，提醒创始人注意真诚沟通与议价技巧。它既提供了心理学视角，也给出实务建议，是创业者理解融资生态、避免被误导的必读材料。",
+    "best_quote_en": "When one investor wants to invest in you, that makes other investors want to, which makes others want to, and so on.",
+    "best_quote_zh": "当一位投资者想投资你时，其他投资者也会想投资，接着又会引发更多投资者的兴趣，形成连锁反应。"
+  },
+  {
+    "id": 397,
+    "title": "Alignment Fellowship",
+    "title_zh": "对齐奖学金",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kCnwovXFHoqu5DvN2/alignment-fellowship",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "The piece opens with a blunt critique of the grant‑seeking grind, framing it as a systemic drain on creativity and productivity—especially for the kind of high‑risk, high‑reward work that fuels AI alignment. By proposing a crowd‑sourced, unconditional fellowship, the author flips the traditional funding model on its head: instead of gatekeepers, the community itself votes on who receives a two‑year, $200k stipend. This idea sits at the intersection of startup‑funder mechanics, AI research priorities, and community governance. The author’s questions probe feasibility—what should the grant size be, who gets to vote, and how to avoid bias—while hinting at a broader shift toward merit‑based, low‑friction support for existential risk work. The proposal is provocative, actionable, and invites a dialogue about democratizing research funding, making it a fertile ground for policy experimentation and community‑driven innovation.",
+    "summary_zh": "作者尖锐批评传统奖学金申请流程，指出其对创造力和生产力的抑制，尤其是对AI对齐等高风险工作。提议通过社区投票、无条件拨款的方式颠覆传统模式，邀请读者思考资助规模、投票主体及公平性等关键问题，激发关于去中心化研究资助的讨论。",
+    "best_quote_en": "The process of applying for grants, raising money, and justifying your existence sucks.",
+    "best_quote_zh": "如果你必须定期经历这个过程，并被迫不断担心让你的工作易懂以及别人如何评判它，这将极大地损害你的真正生产力。"
+  },
+  {
+    "id": 398,
+    "title": "Trump, Epstein, and the Women",
+    "title_zh": "特朗普、爱泼斯坦与女性",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/trump-epstein-and-the-women",
+    "tags": [
+      "learn",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "Trump’s public persona, once a charismatic real‑estate mogul, has been irrevocably reframed by a cascade of documents and testimonies that expose a pattern of misogyny and sexual misconduct. In this piece, the author weaves together the infamous Access Hollywood tape, the 2023 civil judgment against Trump, and the newly released Epstein files to paint a portrait of a man who has consistently treated women as objects. The analysis highlights the strategic use of denial, the role of media framing, and the persistence of a culture that excuses or dismisses such behavior. By drawing on investigative reporting from The Times and firsthand accounts, the article offers a nuanced understanding of how power, privilege, and misogyny intersect in contemporary politics. It also underscores the broader societal implications: the erosion of trust in public institutions, the ongoing struggle for women’s safety, and the necessity of holding leaders accountable. Readers gain both factual depth and a critical lens for assessing political rhetoric and accountability in the age of digital evidence.",
+    "summary_zh": "特朗普的公众形象因一系列文件与证词被彻底重塑，展现出对女性的持续物化与性侵行为。文章结合《Access Hollywood》录音、2023民事判决及新公布的爱泼斯坦档案，描绘其权力与特权如何让女性沦为工具。通过《泰晤士报》调查与亲历者证词，作者剖析否认策略、媒体框架与社会文化对这种行为的纵容。文章不仅提供事实深度，更以批判视角审视政治话语与问责机制，提醒公众关注女性安全与制度信任的崩塌。",
+    "best_quote_en": "I have great respect for women. Nobody has more respect for women than I do.",
+    "best_quote_zh": "女性身体是货币"
+  },
+  {
+    "id": 399,
+    "title": "Arthur Brooks — Finding The Meaning of Your Life, The Poet’s Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred (#841)",
+    "title_zh": "Arthur Brooks — 寻找你的人生意义，诗人的协议，神圣的半小时，以及你痛苦的神圣性（#841）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/23/arthur-brooks-meaning/",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "Arthur Brooks, a Harvard Kennedy School professor renowned for blending leadership with happiness, takes listeners on a journey through the search for meaning in a world of emptiness. In this episode, he draws on psychological research, philosophical insights, and his own bestselling books—such as \"Build the Life You Want\" and the forthcoming \"The Meaning of Your Life\"—to craft a practical framework for turning suffering into purpose. Brooks’ conversational style demystifies complex concepts, offering actionable steps like gratitude rituals, reflective journaling, and intentional community building. The episode’s value lies in its balance of academic rigor and everyday relevance, empowering listeners to move from existential doubt to purposeful living. It’s a compelling reminder that meaning is not a static destination but an evolving practice, especially pertinent for those navigating midlife transitions or post‑pandemic disquiet.",
+    "summary_zh": "Arthur Brooks 作为哈佛教授，以领导力与幸福为核心，探讨人生意义与痛苦的价值。他在播客中结合心理学、哲学与实践案例，提供可落地的行动框架，让听众在空虚时代寻找目标与满足。通过对《The Meaning of Your Life》等著作的阐释，他呈现出一种既学术又亲和的自我成长路径，既鼓舞人心，又具可操作性。",
+    "best_quote_en": "Finding Purpose in an Age of Emptiness",
+    "best_quote_zh": "在空虚时代寻找意义"
+  },
+  {
+    "id": 400,
+    "title": "Bandcamp Fridays hit $154m in payouts since 2020, with $19m paid in 2025 alone",
+    "title_zh": "自2020年以来，Bandcamp Fridays累计支付1.54亿美元，2025年单年支付1900万美元",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/bandcamp-fridays-hit-154m-in-payouts-since-2020-with-19m-paid-in-2025-alone/",
+    "tags": [
+      "analyze",
+      "business-model",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "商业模式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Bandcamp’s Friday‑only payouts illustrate the power of direct‑to‑fan commerce. Since its launch in March 2020, the platform has disbursed $154 million, with $19 million in 2025 alone—an 82 % artist‑first model that outpaces traditional label splits. The data reveal a steady growth trajectory: a $31 million jump from the previous year, and a record $3.8 million in a single 24‑hour burst. Bandcamp’s new “Clubs” subscription and planned 2026 expansion signal a strategic pivot toward curated, community‑driven discovery. The article’s key insight is that fan‑generated revenue can sustain niche artists without algorithmic gatekeeping, yet the model’s scalability hinges on platform fees and subscription uptake. Critics might question whether the 15 % fee on regular sales erodes the long‑term value for indie labels, but the overall payout trend suggests a viable alternative ecosystem. For entrepreneurs, the case underscores the importance of flexible revenue sharing and community building in a fragmented music market.",
+    "summary_zh": "Bandcamp Fridays的支付数据显示，直接对粉丝的商业模式能为独立艺术家带来可观收入。自2020年起累计支付1.54亿美元，2025年单年1900万美元，显示出稳定增长。平台通过“Clubs”订阅与2026年八场活动，试图在社区驱动与算法相对抗的环境中寻找可持续路径。对创业者而言，这一案例强调灵活分成与社区建设在碎片化音乐市场中的价值。",
+    "best_quote_en": "\"Five years on, Bandcamp Fridays continue to show just how powerful direct fan support can be.\"",
+    "best_quote_zh": "\"2025年又是艺术家和标签的又一个辉煌年，凭借我们年度最强的周五，我们对2026年的社区机会充满兴奋。\""
   }
 ]
