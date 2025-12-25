@@ -1,99 +1,5 @@
 [
   {
-    "id": 301,
-    "title": "Women behind the lens: ‘They waited in a kind of deranged inactivity for the possibility of a visit’",
-    "title_zh": "镜头背后的女性：‘她们在一种疯狂的无动静中等待访客的可能’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/dec/03/women-venezuela-prison-photography-drugs-family",
-    "tags": [
-      "analyze",
-      "society",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Ana María Arévalo Gosen’s haunting photographs of women in Venezuela’s Poli‑Valencia detention centre illuminate a forgotten crisis: the invisible suffering of incarcerated women whose identities are systematically erased. By turning an abandoned office into a living memory wall—filled with names, slogans, and even a Maluma poster—she exposes how these women reclaim agency through art and communal resilience. The essay juxtaposes stark imagery of cramped beds and intertwined bodies with intimate narratives of addiction, illness, and eventual recovery, underscoring the paradox of ‘deranged inactivity’ that becomes a silent protest. Gosen’s work challenges viewers to confront the human cost of political repression, urging a re‑evaluation of prison reform and gendered justice. It serves not only as a visual record but as a call to action, reminding us that stories matter even when systems refuse to acknowledge them.",
-    "summary_zh": "阿纳玛丽亚·阿雷瓦洛·戈森的照片揭示了委内瑞拉监狱中被忽视的女性困境：身份被抹去、身体被压抑。她将废弃办公室改造成记忆墙，点燃女性自我认同与抗争的火焰。作品既记录痛苦，也激发对司法改革与性别正义的深思，提醒我们在无声的等待中仍有声音。",
-    "best_quote_en": "\"I don’t expect anyone to believe in me because I don’t believe in anyone.\"",
-    "best_quote_zh": "\"我不期待任何人相信我，因为我不相信任何人。\""
-  },
-  {
-    "id": 302,
-    "title": "GiveCalc: Open-source tool to calculate the true cost of charitable giving",
-    "title_zh": "GiveCalc：开源工具计算慈善捐赠的真实成本",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/AEECwALP2jKXQmCAS/givecalc-open-source-tool-to-calculate-the-true-cost-of",
-    "tags": [
-      "update",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "GiveCalc emerges as a sophisticated, fully open‑source calculator that demystifies the complex interplay between charitable donations and tax liabilities in the United States and the United Kingdom. By leveraging PolicyEngine’s microsimulation engine, the tool runs exhaustive tax simulations that account for itemization, bracket shifts, state‑level nuances, and UK Gift Aid mechanics, producing a non‑linear “marginal giving discount” curve. This output is far richer than the simplistic marginal‑rate approach, allowing donors to identify optimal bunching thresholds and timing for maximum tax relief. The platform’s transparency—source code is public, calculations are browser‑side, and validation against NBER’s TAXSIM—fosters trust and invites community contributions. From a policy perspective, GiveCalc illustrates how micro‑level tax rules shape individual giving behavior, offering a sandbox for exploring the distributional effects of legislative changes such as the 2026 AGI floor or the restoration of the standard deduction. For researchers, practitioners, and informed taxpayers alike, the tool represents a bridge between policy research and everyday financial decision‑making, underscoring the value of open data and rigorous simulation in public economics.",
-    "summary_zh": "GiveCalc 是一款开源税务模拟器，精准计算美国和英国捐赠的税收优惠。它用 PolicyEngine 引擎跑全套税务模型，揭示捐赠与扣除、抵免的复杂交互，帮助捐赠者把握最佳捐赠时机与金额。代码公开、验证可靠，既是科研工具，也是个人财务决策的实用助手，展示了数据透明和微观模拟在公共经济学中的巨大价值。",
-    "best_quote_en": "The key output is your marginal giving discount: how much tax you save on your next dollar/pound of giving at any donation level.",
-    "best_quote_zh": "GiveCalc 通过完整的税务模拟，考虑捐赠、扣除和抵免之间的相互作用。"
-  },
-  {
-    "id": 303,
-    "title": "Jorja Smith’s label FAMM seeks share of royalties from viral track ‘I Run’ amid AI allegations, calls for industry ‘guardrails’ to protect artists",
-    "title_zh": "Jorja Smith 的唱片公司 FAMM 要求从 AI 争议的热门单曲《I Run》获得版税，并呼吁行业制定“护栏”保护艺术家",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/jorja-smiths-label-famm-seeks-share-of-royalties-from-viral-track-i-run-amid-ai-allegations-calls-for-industry-guardrails-to-protect-artists/",
-    "tags": [
-      "analyze",
-      "science",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-12-02",
-    "summary_en": "The dispute over Jorja Smith’s viral track “I Run” exposes the blind spots of today’s music‑industry ecosystem, where artificial‑intelligence tools blur the line between inspiration and appropriation. FAMM’s public claim that producer Harrison Walker’s AI‑generated vocals were engineered to mimic Smith’s voice without consent raises two intertwined dilemmas: (1) the legal question of who owns a sound that is algorithmically derived from an artist’s data, and (2) the ethical imperative to protect creators from invisible, automated exploitation. By demanding a share of royalties and calling for mandatory AI‑labelling, FAMM frames the case as a watershed moment, urging regulators to move beyond reactive takedowns toward proactive guardrails. The situation also highlights the strategic power of social media virality; a TikTok‑fueled hit can reach chart‑ready status before the law catches up. This narrative offers musicians, lawyers, and technologists a concrete case study of how emerging tech can outpace existing frameworks, underscoring the urgency of policy innovation that balances creative freedom with fair compensation.",
-    "summary_zh": "Jorja Smith 争议单曲《I Run》让人重新审视 AI 与版税的边界。FAMM 公开指控制作者用 AI 模仿其声音，既提出了所有权难题，也提醒行业必须设立“护栏”。这场风波展示了社交媒体热度能在法律落后前就冲上榜单，凸显监管滞后的风险。对音乐人、律师和技术工作者而言，它是一个鲜活的案例，提醒我们在追求创意自由的同时，必须保障公平报酬。",
-    "best_quote_en": "\"We are in uncharted territory. AI is all around us and already impacting the way we consume music. We need to talk about what that means for creatives.\"",
-    "best_quote_zh": "\"AI技术正在以创作者的劳动和创造力为训练对象，却没有任何应有的信用或补偿。\""
-  },
-  {
-    "id": 304,
-    "title": "Jess Cartner-Morley on fashion: ’tis the season to party. Time to recap Christmas dressing rules",
-    "title_zh": "Jess Cartner‑Morley谈时尚：'是派对季节'，回顾圣诞穿衣规则",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/dec/03/jess-cartner-morley-on-fashion-tis-the-season-to-party-time-to-recap-christmas-dressing-rules",
-    "tags": [
-      "guide",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "In a breezy, witty column, Cartner‑Morley reminds us that Christmas party attire should not stay understated but sparkle to match the festive mood. She argues that “wearing something upbeat puts you in a more party‑appropriate headspace,” and frames this as a psychological cue that invites conversation and fun. The piece then bridges old etiquette with contemporary sustainability, encouraging vintage finds and wardrobe recycling over new purchases. Her practical mantra—raise your usual outfit by a generous 30%—provides a simple, actionable rule that keeps style festive without feeling forced. The article is simultaneously a gentle critique of over‑conservative holiday dressing and a celebration of personal expression, blending humor, expert insight, and a subtle call for greener fashion choices. It offers readers a fresh, inclusive guide that feels both timely and timeless.",
-    "summary_zh": "在这篇时尚专栏里，Cartner‑Morley以轻松诙谐的笔触提醒读者，圣诞派对的服装不应只追求低调，而是要用亮点点燃氛围。她强调“穿得活泼就能进入更合适的心境”，并将传统礼仪与当下可持续时尚结合，提倡复古与再利用。文章通过“先打好基础再升级30%”的规则，让人们在节日中既能保持个性，又不失礼仪。她的建议既实用又富有人情味，既是对传统的温柔改写，也是对当代消费观的批判。",
-    "best_quote_en": "If you wear something upbeat, you put yourself in a more party‑appropriate headspace.",
-    "best_quote_zh": "如果你穿得活泼，你就会进入更符合派对氛围的心境。"
-  },
-  {
     "id": 305,
     "title": "The Ronco Principle",
     "title_zh": "Ronco原则",
@@ -2362,5 +2268,99 @@
     "summary_zh": "Bandcamp Fridays的支付数据显示，直接对粉丝的商业模式能为独立艺术家带来可观收入。自2020年起累计支付1.54亿美元，2025年单年1900万美元，显示出稳定增长。平台通过“Clubs”订阅与2026年八场活动，试图在社区驱动与算法相对抗的环境中寻找可持续路径。对创业者而言，这一案例强调灵活分成与社区建设在碎片化音乐市场中的价值。",
     "best_quote_en": "\"Five years on, Bandcamp Fridays continue to show just how powerful direct fan support can be.\"",
     "best_quote_zh": "\"2025年又是艺术家和标签的又一个辉煌年，凭借我们年度最强的周五，我们对2026年的社区机会充满兴奋。\""
+  },
+  {
+    "id": 401,
+    "title": "Jess Cartner-Morley on fashion: when it comes to lace, it’s all about the trimmings",
+    "title_zh": "Jess Cartner‑Morley谈时尚：关于蕾丝，一切都在于细节",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/24/jess-cartner-morley-on-fashion-lace-trimmings",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "Jess Cartner‑Morley’s latest piece is a masterclass in sartorial restraint, arguing that lace’s allure lies in subtlety rather than abundance. She deconstructs the cultural symbolism of lace—marriage, mourning, romance—highlighting how colour shifts its narrative from chaste to raunchy. The article offers a pragmatic playbook: lace‑trimmed skirts, under‑blazer camisoles, and lace‑sleeve overlays, each chosen for their psychological impact and versatility across seasons. Cartner‑Morley backs her advice with real‑world examples, citing River Island, The White Company, and John Lewis pieces, and even a black lace bodysuit that doubles as a winter layering staple. Her tone blends fashion journalism with psychological insight, suggesting lace can be a form of sartorial flirtation that invites curiosity without overexposure. Readers gain actionable strategies to elevate everyday outfits, learning how to balance elegance and edginess while avoiding the pitfalls of over‑lace. The piece invites both novices and seasoned stylists to rethink lace as a discreet, powerful accent rather than a statement garment.",
+    "summary_zh": "Jess Cartner‑Morley在这篇文章中主张蕾丝的魅力在于细节而非堆砌。她拆解蕾丝的文化象征——婚礼、哀悼、浪漫——并阐述颜色如何改变其叙事，从纯洁到挑逗。文章提供实用指南：蕾丝边裙、衬衫内搭、蕾丝袖子等，强调心理影响与季节适用性。她引用River Island、The White Company、John Lewis等品牌的具体单品，甚至提到一件可作冬季层叠的黑色蕾丝连体衣。语气兼具时尚评论与心理洞察，提出蕾丝可成为低调的“时装调情”，既吸引好奇又不失礼貌。读者可获得可操作的策略，学习如何平衡优雅与大胆，避免过度蕾丝的陷阱。",
+    "best_quote_en": "Lace looks hot when it peeks out from underneath something else, and it doesn’t take a genius to figure out the psychology of this.",
+    "best_quote_zh": "蕾丝在从其他服装下方露出时最为性感，理解这一点不需要天才。"
+  },
+  {
+    "id": 402,
+    "title": "The Worrier’s Guide to Life / Lost Envoy",
+    "title_zh": "焦虑者的生活指南 / 丢失的使者",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-worriers-guide-to-life-lost-envoy/",
+    "tags": [
+      "guide",
+      "design",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "Gemma Correll’s *The Worrier’s Guide to Life* turns everyday anxieties into a comic‑styled manual, offering readers a quick, visual antidote for social jitters and self‑imposed pressure. The book’s humor—snappy lists like “Urban Birthstones” and “Pasta Shapes for the Depressed”—acts as both a mirror and a coping tool, letting readers laugh at the absurdities of modern life while subtly normalizing worry. In contrast, Jonathan Allen’s *Lost Envoy* resurrects the forgotten tarot deck of Victorian mystic Austin Osman Spare. The volume not only reproduces the cards with scholarly precision but also gathers essays that illuminate Spare’s unique blend of sigil magic, stage‑magic aesthetics, and occult symbolism. Together, the two works showcase how visual culture can translate intangible emotions and obscure history into tangible, shareable artifacts—providing comfort for the anxious and insight for the curious. The juxtaposition invites readers to consider how art can be both therapeutic and investigative, turning personal unease and forgotten lore into accessible, engaging narratives.",
+    "summary_zh": "《焦虑者的生活指南》用诙谐插画把日常焦虑拆解成可视化的“速食”，让读者在尴尬场合能自嘲自救；《丢失的使者》则把失传的奥斯曼·斯佩尔塔罗牌搬上纸面，配以多位学者的深度解读，既是对古典神秘学的再发现，也是对现代艺术与占卜交叉的探索。两本书共同呈现的是：把抽象情绪或历史遗产转化为可触摸、可分享的形式，既满足好奇心，又提供情感与知识的双重慰藉。",
+    "best_quote_en": "What people didn’t know is that Spare had created his own deck of tarot cards.",
+    "best_quote_zh": "人们不知道的是，斯佩尔曾创作过自己的塔罗牌套组。"
+  },
+  {
+    "id": 403,
+    "title": "The Chemistry of Food & Taste | Dr. Harold McGee",
+    "title_zh": "食物与味觉的化学 | 哈罗德·麦基博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-chemistry-of-food-taste-dr-harold-mcgee",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-06-30",
+    "summary_en": "Dr. Harold McGee, a luminary in food chemistry, demystifies the science behind cooking, illustrating how heat, cookware, and ingredient interactions forge flavor and nutrient profiles. He explains the Maillard reaction, caramelization, and the role of copper in traditional techniques, showing how modern tools can replicate or enhance these processes. McGee delves into taste perception, highlighting genetic, cultural, and biological factors that shape individual preferences, and offers actionable strategies—such as precise temperature control, salt timing, and bean soaking—to maximize flavor and health benefits. He also discusses the chemistry of umami, spices, fermentation, and the gut microbiome’s influence on taste tolerance. The episode blends rigorous science with practical kitchen wisdom, equipping listeners with evidence‑based techniques to elevate everyday meals while deepening appreciation for the complex dialogue between food and biology. The insights invite cooks, nutritionists, and curious food lovers to experiment consciously, turning cooking into an intentional, informed art form.",
+    "summary_zh": "哈罗德·麦基博士把烹饪拆解成化学实验，阐明热度、锅具与配料如何共同塑造味道与营养。通过马里亚德反应、焦糖化和铜的传统作用，他让现代厨具也能复制或提升这些过程。麦基进一步探讨味觉感知，揭示遗传、文化与生物因素如何影响个人偏好，并提供可操作的技巧——精准温度、盐时机、浸泡豆类——以最大化风味与健康。节目将严谨科学与实用厨房智慧结合，赋予听众基于证据的技术，提升日常餐饮并加深对食物与生物复杂对话的欣赏。",
+    "best_quote_en": "Taste is a dialogue between food and biology.",
+    "best_quote_zh": "味觉是食物与生物之间的对话。"
+  },
+  {
+    "id": 404,
+    "title": "The Tim Ferriss Show Transcripts: Arthur Brooks — Finding The Meaning of Your Life, The Poet’s Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred (#841)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Arthur Brooks — Finding The Meaning of Your Life, The Poet’s Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred (#841)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/24/arthur-brooks-meaning-transcript/",
+    "tags": [
+      "guide",
+      "psychology",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "In this episode Arthur C. Brooks—Harvard professor of leadership and happiness—unpacks a highly structured morning routine that blends ancient Vedic wisdom, rigorous exercise, mindful prayer, and precise nutrition. He explains how waking before dawn (the Brahma Muhurta) unlocks creativity and mood, how a heavy resistance‑zone‑2 workout sets the tone for a day of focused output, and how a “holy half‑hour” of reflection or mass can recalibrate the brain’s reward circuitry. Brooks emphasizes that the protocol itself is not the secret to happiness; rather, it is the scaffold that enables sustained well‑being. He also shares personal anecdotes about love, marriage, and the neurobiology of oxytocin, concluding that “happiness is love.” The conversation is dense with actionable, science‑backed insights that invite listeners to experiment with their own routines and reframe the pursuit of meaning as an ongoing laboratory of habit and mindset.",
+    "summary_zh": "亚瑟·布鲁克教授分享以古印度智慧为蓝本、结合锻炼、冥想与精准营养的晨间仪式，强调起床前的Brahma Muhurta可提升创意与情绪；重训后静修可调节大脑奖赏回路；“神圣半小时”则是心灵重置。布鲁克指出，协议不是幸福的秘密，而是实现幸福的支架；结尾重申“幸福就是爱”。内容兼具可操作与科研依据，鼓励实验与自我改造。",
+    "best_quote_en": "Happiness is love.",
+    "best_quote_zh": "幸福就是爱。"
   }
 ]
