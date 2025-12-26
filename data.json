@@ -1,121 +1,5 @@
 [
   {
-    "id": 305,
-    "title": "The Ronco Principle",
-    "title_zh": "Ronco原则",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ronco.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "The article explores how benevolence, not luck, underpins the remarkable success of venture investor Ron Conway.  By consistently acting with integrity—being genuinely kind, transparent, and fair—Conway earned a reputation that turns referrals into high‑value opportunities.  The piece argues that in a world where information is instantly shared and future leaders emerge from unlikely places, the cost of pretending to be good far outweighs the cost of truly being good.  Conway’s accidental discovery of this “future‑proof” strategy shows that the most profitable investors are often the most upstanding.  For founders and investors alike, the key insight is that authenticity breeds trust, which in turn unlocks more deals.  The narrative blends anecdote with data‑driven observation, suggesting that benevolence and returns are positively correlated.  It invites readers to rethink how character shapes success in the startup ecosystem and beyond.",
-    "summary_zh": "文中指出，罗恩·康威的成功源于真诚善良，而非偶然。透明与不可预测的创业环境使得假装好人成本高昂，真正善良才赢得信任与机会。文章通过案例与数据，强调善行与回报正相关，启示创投者与创始人：品格决定成功。",
-    "best_quote_en": "In almost every domain there are advantages to seeming good. It makes people trust you.",
-    "best_quote_zh": "在几乎所有领域，表现得善良都有优势。它让人们信任你。"
-  },
-  {
-    "id": 306,
-    "title": "What is the most impressive game an LLM can implement from scratch?",
-    "title_zh": "LLM 从零实现的最令人印象深刻的游戏是什么？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GbjnPZWmY6TeqMHzJ/what-is-the-most-impressive-game-an-llm-can-implement-from",
-    "tags": [
-      "guide",
-      "ai-research",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "The article probes whether large language models (LLMs) can autonomously generate polished, playable games from a simple prompt, using the recent GPT‑5.1 demo as a benchmark. It argues that conventional coding metrics—LeetCode‑style challenges or static web‑page templates—fail to expose a model’s true engineering depth because they rely on boilerplate libraries or pre‑written patterns. Game programming, by contrast, demands novel mechanics, sound design, user‑centric interaction loops, and edge‑case robustness—all in one shot. The author proposes that “game‑as‑a‑metric” could become the gold standard for assessing LLM coding competence, mirroring how reinforcement‑learning agents were evaluated through gameplay. He shares personal trials, noting the scarcity of high‑quality LLM‑generated games beyond simple clones of Snake or Asteroids, and invites readers to experiment with prompts. The piece ends with a call for systematic, reproducible studies to map the frontier of LLM creativity and practical impact on the software economy.",
-    "summary_zh": "文章探讨LLM能否在一次性提示下从零开始生成完整、可玩游戏，批评传统编码评测过度依赖模板和库，提出游戏编程可作为评估LLM工程深度的金标准，呼吁系统实验。",
-    "best_quote_en": "\"Game programming, in contrast, is all about pushing technical limits, and, unlike most other domains of programming, there are sharply diminishing returns on coloring‑by‑numbers.\"",
-    "best_quote_zh": "\"游戏编程相反，完全是关于推动技术极限，并且与其他编程领域不同，颜色填充的收益急剧递减。\""
-  },
-  {
-    "id": 307,
-    "title": "What America Can Learn from Its Largest Wildfire of the Year",
-    "title_zh": "美国从今年最大的野火中能学到什么",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-america-can-learn-from-its-largest-wildfire-of-the-year",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "The Dragon Bravo blaze, ignited in Grand Canyon’s North Rim, forces a reevaluation of America’s long‑standing fire policy. Once a symbol of suppression, the fire was allowed to burn as a managed experiment, only to spiral into a fast, uncontrollable inferno that consumed 145,000 acres. The narrative exposes a clash between ecological science—advocating for prescribed burns to reduce fuel loads—and political pressure for rapid suppression. Field observations, modeling failures, and divergent agency statements illustrate the precarious balance between safety, ecosystem health, and public perception. Yet, even as the fire devastated infrastructure, early ecological data suggest limited soil damage and potential long‑term resilience gains. The incident underscores the need for adaptive, data‑driven fire management, transparent communication, and a policy framework that protects both people and the very ecosystems that fire shapes. It invites policymakers, scientists, and fire‑fighters to rethink fire as a multifaceted tool rather than a threat to be extinguished.",
-    "summary_zh": "龙·布拉多大火让美国重新审视火灾政策。从灭火到管理再到失控，揭示生态学与政治的冲突。模型失效、信息不透明、机构立场分歧，使公众对“管理火灾”产生疑虑。尽管破坏严重，初步生态数据表明土壤损伤有限，可能提升长期韧性。此事件凸显需要数据驱动、透明沟通与平衡安全与生态的政策框架，重新将火视为多功能工具。",
-    "best_quote_en": "Once you create an agency that’s only focussed on fire, life and safety become the main focus, and any notion of fire as a multipurpose ecological tool loses its value.",
-    "best_quote_zh": "它只是森林的循环。"
-  },
-  {
-    "id": 308,
-    "title": "Sun-powered Africa/Vietnam Trains/Travel Laptop Mic",
-    "title_zh": "太阳能驱动的非洲/越南火车/随身笔记本麦克风",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/sun-powered-africa-vietnam-trains-travel-laptop-mic/",
-    "tags": [
-      "guide",
-      "politics",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Solar power’s meteoric rise in Africa, as highlighted by a staggering 99.5 % drop in panel costs over 45 years, underscores a quiet revolution that bypasses the fossil‑fuel grid. The article juxtaposes this green boom with practical travel wisdom—an exhaustive rail guide for Vietnam that empowers itinerant explorers to navigate the country’s network with confidence, and a Thai policy shift that lifts alcohol sales restrictions to boost tourism, revealing how legislation can be leveraged for economic stimulus. A tiny, USB‑powered microphone demonstrates how modest tech can elevate content creation on the road, while the surrounding newsletter context frames these snippets as bite‑size insights for nomads. Together, the piece invites readers to contemplate how technological affordability, infrastructural ingenuity, and regulatory flexibility converge to reshape livelihoods, and it encourages a proactive mindset toward seizing emerging opportunities.",
-    "summary_zh": "太阳能在非洲的爆发式增长提醒我们能源转型的可能；越南火车指南为背包客提供实用路径；泰国酒法放宽揭示旅游与政策的微妙平衡；便携麦克风则展示技术小物的巨大价值。每一篇都让人对未来充满好奇与期待。",
-    "best_quote_en": "\"Solar panels dropped 99.5% in 45 years. What if we’re only halfway through?\"",
-    "best_quote_zh": "\"太阳能板在45年内降价99.5%。如果我们只走到一半会怎样？\""
-  },
-  {
-    "id": 309,
-    "title": "War Is Peace, the Dozing Don Edition",
-    "title_zh": "战争是和平，打盹的唐纳德版",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/war-is-peace-the-dozing-don-edition",
-    "tags": [
-      "update",
-      "politics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "深度分析"
-    ],
-    "date": "2025-12-05",
-    "summary_en": "The piece satirically exposes a paradoxical Trump presidency that brands itself a peacemaker while simultaneously launching unprovoked military strikes. By staging a ceremonial signing of a fictitious peace accord with African leaders at a renamed think‑tank, the former president masks a pattern of unilateral force, as highlighted by the Caribbean drug‑boat bombings and the looming threat to Venezuela. The narrative underlines a recurring theme: political rhetoric that frames violence as “miraculous” or “necessary” while ignoring legal and ethical constraints. It also critiques the complicit media and political allies who applaud the president’s self‑proclaimed diplomatic successes without scrutiny. The article urges readers to question the legitimacy of such “peace” gestures, exposing the hollowness of rhetoric when juxtaposed with real‑world conflict. In doing so, it invites a broader reflection on how leadership narratives can be weaponized to justify aggression, and how citizens must remain vigilant against the seductive simplicity of grandiose slogans.\n",
-    "summary_zh": "文章讽刺性揭露特朗普总统自诩为“和平缔造者”，却在加勒比海发动无端军事打击，既掩盖其单边武力，又利用媒体与盟友的赞誉，形成了“和平”与暴力的荒诞对照。它提醒人们，政治言辞的光鲜外表往往掩盖了法律与道德的缺失，公众需保持警惕，防止夸张口号被用来为侵略正当化。",
-    "best_quote_en": "It’s going to be a great miracle.",
-    "best_quote_zh": "战争是和平"
-  },
-  {
     "id": 310,
     "title": "Free Ski Passes/Free Japan Flights/Posture-fixing Shirt",
     "title_zh": "免费滑雪通行证/日本免费航班/矫正姿势衬衫",
@@ -2362,5 +2246,121 @@
     "summary_zh": "亚瑟·布鲁克教授分享以古印度智慧为蓝本、结合锻炼、冥想与精准营养的晨间仪式，强调起床前的Brahma Muhurta可提升创意与情绪；重训后静修可调节大脑奖赏回路；“神圣半小时”则是心灵重置。布鲁克指出，协议不是幸福的秘密，而是实现幸福的支架；结尾重申“幸福就是爱”。内容兼具可操作与科研依据，鼓励实验与自我改造。",
     "best_quote_en": "Happiness is love.",
     "best_quote_zh": "幸福就是爱。"
+  },
+  {
+    "id": 405,
+    "title": "What happened next: The We Do Not Care Club – how a funny, furious feminist movement began",
+    "title_zh": "接下来发生了什么：我们不在乎俱乐部——一个有趣而愤怒的女权主义运动的诞生",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/what-happened-next-the-we-do-not-care-club-how-a-funny-furious-feminist-movement-began",
+    "tags": [
+      "guide",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "The We Do Not Care Club (WDNC) is more than a viral Instagram meme; it is a grassroots sisterhood that turned menopause—a period often shrouded in silence and medical neglect—into a shared, unapologetic narrative. Melani Sanders, a 45‑year‑old content creator, recorded a candid “hot‑mess” video after a night of insomnia and hormonal chaos. The result was a flood of comments from women who felt seen, and a community that grew to 2.2 million on Instagram and 1.5 million on TikTok in a matter of weeks. The movement’s power lies in its blend of humor, raw honesty, and collective empowerment: it normalizes the awkwardness of perimenopause, challenges medical gatekeeping, and offers a safe space for women to laugh at their own discomfort. By framing menopause as a shared experience, WDNC transforms an isolating biological transition into a catalyst for solidarity and self‑care. The project’s forthcoming handbook further institutionalises this cultural shift, turning a meme into a resource for women worldwide.",
+    "summary_zh": "我们不在乎俱乐部把更年期从沉默与被忽视转变为共享的、无所畏惧的叙事。Melani Sanders 记录的“混乱”视频引发数百万女性共鸣，形成了一个以幽默与真诚为核心的姐妹团体。它打破医学门槛，赋予女性自我关怀与团结的力量，将生理过渡变为自我肯定与互助的契机。",
+    "best_quote_en": "\"I feel seen now. You’re saying the things we want to say.\"",
+    "best_quote_zh": "\"我现在感觉被看见了。你说的正是我们想说的。\""
+  },
+  {
+    "id": 406,
+    "title": "How to Convince Investors",
+    "title_zh": "如何说服投资者",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convince.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "The article distills the art of convincing venture capitalists into a simple, psychologically grounded process: first convince yourself, then articulate the conviction. It argues that investors, who view startups as high‑variance bets, are primarily looking for three things—formidable founders, a plausible path to a big market, and early evidence of traction. Rather than relying on flashy pitches, the author stresses the importance of truth, domain expertise, and concise communication. By framing a startup as a “good bet” rather than a guaranteed success, founders can navigate the power‑law distribution of exits and the initial judgment that investors make within minutes. The piece also tackles common pitfalls such as over‑confidence, misreading investor signals, and the temptation to lie about other investors’ interest. Practical take‑aways include pausing to internalize the company’s value, using data to support market size claims, and presenting a clear, test‑able roadmap. It ends with a recipe: make something worth investing in, understand why it is worth investing in, and explain that clearly to investors.",
+    "summary_zh": "作者把说服投资者的艺术归结为先说服自己，再清晰阐述。强调投资者关注三点：强势创始人、可行的大市场路径和早期证据。倡导以“好赌注”而非“必胜”来定位创业，强调真诚、专业知识和简洁沟通。文章还提醒不要夸大、误读投资者信号或撒谎。实用建议包括先内化公司价值、用数据证明市场规模、制定可检验路线图。最终给出三步配方：做值得投资的事、明白其价值、清晰说明。",
+    "best_quote_en": "Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you.",
+    "best_quote_zh": "先说服自己你的创业值得投资，然后向投资者解释时他们会相信你。"
+  },
+  {
+    "id": 407,
+    "title": "Unknown Knowns: Five Ideas You Can't Unsee",
+    "title_zh": "未知已知：五个你无法忘记的想法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/uqnpbDxnhi9aeQ8Hx/unknown-knowns-five-ideas-you-can-t-unsee",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "The post catalogues five seemingly obvious yet often invisible concepts—Intermediate Value Theorem, Net Present Value, local linearity of differentiable functions, Grice’s maxims, and Theory of Mind—labeling them “unknown knowns.” By illustrating how people routinely misjudge real‑world decisions when these ideas are absent, the author invites readers to acquire these mental tools. The analysis is rooted in everyday examples—grocery store ordering, donation thresholds, voting power, tax brackets, and interpersonal misreadings—making abstract mathematics and philosophy accessible. The piece underscores that ideas shape civilization, urging a deliberate, curiosity‑driven practice of learning and applying such concepts to improve reasoning, policy, and personal decision‑making. It blends critical insight with a call to action, offering a roadmap for integrating hidden knowledge into everyday cognition.",
+    "summary_zh": "作者通过列举中学数学、财务评估、微积分、格里奇准则与心智理论等“未知已知”，揭示了人们常因缺乏基本概念而误判现实的盲点。文章鼓励读者主动学习这些隐形工具，提升思维精确度，进而更好地解决问题、评估决策。",
+    "best_quote_en": "Ideas matter, and if we try harder and work smarter, if we approach every problem with simultaneous dedication and curiosity, together we can learn more ideas, integrate them into our worldviews, and use those ideas to improve our lives, and the world.",
+    "best_quote_zh": "想法很重要，如果我们更努力、更聪明地工作，并以专注和好奇心同时面对每一个问题，我们就能一起学到更多想法，将它们融入我们的世界观，并用这些想法来改善我们的生活和世界。"
+  },
+  {
+    "id": 408,
+    "title": "The Right Wing Rises in Latin America",
+    "title_zh": "拉丁美洲右翼崛起",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-right-wing-rises-in-latin-america",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The article dissects the seismic shift in Latin American politics marked by José Antonio Kast’s ascension in Chile, framing it as a broader right‑wing resurgence that echoes the authoritarian currents of Pinochet, Orbán, and Trump. By weaving historical lineage—Kast’s Nazi‑connected father, Pinochet’s legacy, and the recent surge of hard‑right leaders—it exposes a pattern of nostalgia for autocracy masked as populist reform. The piece critically interrogates the implications for democratic institutions, human rights, and regional stability, noting the looming threat of legal amnesty for former repressors and the erosion of historical memory. It also situates Chile’s election within a continental trend of political polarization, suggesting that the new leadership may accelerate the dismantling of civil‑societal safeguards. The article invites readers to grapple with the paradox of “strength of change” as a slogan that may conceal a regression toward centralized power, urging vigilance in preserving democratic norms amid rising populist fervor.",
+    "summary_zh": "文章剖析了以卡斯特当选为核心的拉丁美洲右翼崛起，揭示其与皮诺切特、奥尔班和特朗普等极右势力的历史共振。通过探讨卡斯特家族与纳粹、皮诺切特遗产的关联，文章警示民主制度与人权的脆弱性，并指出未来可能出现的前任专制分子宽恕与历史记忆的淡化。它将智利选举置于地区政治极化的宏观框架中，提醒读者在“变革力量”口号背后警惕权力集中的潜在风险，强调在日益激进的民粹浪潮中维护民主规范的重要性。",
+    "best_quote_en": "Kast has never criticized Pinochet’s dictatorship, and in that sense he represents one of his most faithful heirs.",
+    "best_quote_zh": "卡斯从未批评过皮诺切特的独裁统治，从这个意义上说，他代表了皮诺切特最忠实的继承人之一。"
+  },
+  {
+    "id": 409,
+    "title": "How To Create a Realistic Financial Plan (That You’ll Actually Stick To)",
+    "title_zh": "如何制定一份你会坚持的现实财务计划",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2025/12/how-to-create-a-realistic-financial-plan.html",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "未来预测"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The article demystifies financial planning, framing it as a practical map rather than an abstract spreadsheet. It starts with a candid assessment of where you stand—checking balances, debts, and spending patterns—then moves to setting SMART, life‑aligned goals. The author advocates for a flexible budgeting framework, offering zero‑based, 50/30/20, and pay‑first methods, and stresses the power of automation to lock in savings and debt payments. A recurring theme is the importance of an emergency fund, debt payoff strategies, and trimming unnecessary subscriptions. The piece also encourages side hustles and investment habits, concluding with a call to monitor progress monthly. Overall, the tone is empowering, grounded in actionable steps, and emphasizes that a plan only matters if it’s realistic and adaptable to your daily life.",
+    "summary_zh": "文章把财务规划拆解为可操作的步骤，先盘点现状、设定可衡量目标，再用多种预算模型与自动化工具打造可持续习惯。它强调紧急基金、债务还款、削减无效开支和副业收入，最后提醒定期复盘。整体语气鼓舞人心，强调计划只有在贴合生活并能坚持时才有价值。",
+    "best_quote_en": "A budget isn’t about restrictions. It’s about telling your money where to go.",
+    "best_quote_zh": "预算不是限制，而是让你的钱去往你想去的地方。"
   }
 ]
