@@ -1,121 +1,5 @@
 [
   {
-    "id": 315,
-    "title": "What Doesn't Seem Like Work?",
-    "title_zh": "看似不工作？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/work.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-06",
-    "summary_en": "The piece reframes the notion of “work” through a personal narrative that blends anecdote with psychological insight. By recounting his mathematician father’s early obsession with problem‑solving, the author illustrates how passion can masquerade as work for the individual but feel like play to outsiders. This reframing invites readers to interrogate their own “work‑like” tasks: if a task feels effortless and enjoyable to you, yet burdensome to others, it may signal a natural fit. The article operates as a gentle guide, offering a heuristic—use others’ perceptions of effort as a diagnostic tool for self‑discovery. It blends actionable advice with a case‑study style, encouraging introspection while grounding the idea in concrete experience. The narrative’s charm lies in its simplicity and universal relevance: it challenges conventional career wisdom that equates hard work with success, suggesting instead that true success emerges when the work feels like play. This insight resonates across disciplines, from entrepreneurship to personal development, and invites readers to rethink what they label as “work.”",
-    "summary_zh": "作者以父亲的数学热情为例，重新定义“工作”，指出对他而言的练习像游戏，对他人却是辛苦。文章以可操作的启示为线索，建议读者用他人对任务的感受来识别自身的兴趣。它兼具案例与行动指南，强调真正的成功来自让工作变得轻松愉快，而非单纯的劳累。",
-    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
-    "best_quote_zh": "如果别人觉得像工作，而你却不觉得像工作，那就是你适合的事。"
-  },
-  {
-    "id": 316,
-    "title": "LW Transcendence",
-    "title_zh": "LW 超越",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GzHgKKpc7zKmKJf9k/lw-transcendence",
-    "tags": [
-      "learn",
-      "ai-research",
-      "data-science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "数据科学",
-      "深度分析"
-    ],
-    "date": "2025-12-06",
-    "summary_en": "The piece reads like a living meditation journal, intertwining rigorous philosophical reading with visceral daily rituals. Over seven days the narrator oscillates between the abstract realms of Russell, Gödel, and Deleuze and the tactile experience of a rock, rain, and a mother’s call. This juxtaposition illustrates a core insight: meaning is not only discovered through abstract thought but also cultivated through embodied attention to the mundane. The author’s repeated return to themes of compassion, acceptance, and love‑kindness signals a transformation from intellectual curiosity to lived practice, suggesting that the path to transcendence is as much about emotional alignment as it is about logical rigor. The narrative invites readers to question their own focus—convergence versus divergence, faith versus suspicion—and offers a blueprint of self‑reflection that is both deeply personal and universally resonant. It challenges the reader to integrate philosophy into daily life, turning contemplation into compassionate action.",
-    "summary_zh": "这篇日记式散文把抽象哲学与日常感官体验交织，展示了意义既可在思辨中发现，也可在石头、雨滴、母亲电话中孕育。作者在七天里不断回到“同情、接纳、慈爱”主题，表明超越不只是逻辑追问，更是情感契合的实践。文本邀请读者思考聚焦点——趋同与分歧、信念与怀疑——并提供将哲学融入日常的自省蓝图，既个人化又普适。",
-    "best_quote_en": "What would it look like if I focused on convergence rather than divergence?",
-    "best_quote_zh": "感受痛苦。感受同情：对人类精神"
-  },
-  {
-    "id": 317,
-    "title": "Building a State of Fear in “Extremist”",
-    "title_zh": "在《极端分子》中构建恐惧状态",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/screening-room/building-a-state-of-fear-in-extremist",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2025-12-05",
-    "summary_en": "Alexander Molochnikov’s short film “Extremist” reimagines the real‑life saga of Sasha Skochilenko, a Russian artist whose anti‑war price‑tag stunt led to a seven‑year sentence. By staging the courtroom “last word” as a surreal tableau, the film turns a legal drama into a meditation on state fear and personal agency. The director, now in New York, juxtaposes the protagonist’s solitary confinement with the everyday familiarity of her elderly neighbor, Galina Baranova, to underscore how ordinary lives can collide with authoritarian impulses. Molochnikov’s choice to frame the story as a “case study” of heroism—Scha's refusal to recant—reveals a deeper critique of the Russian regime’s paranoia. The film’s recurring confetti motif, a burst of absurdity, serves as a counterpoint to the grim reality of surveillance and punishment. “Extremist” invites viewers to question the legitimacy of fear‑based governance and celebrates the quiet defiance that persists even behind bars. It is a powerful reminder that courage can thrive in the most oppressive environments.",
-    "summary_zh": "影片《极端分子》以叙事手法重塑俄国反战艺术家沙莎·斯科奇列尼科的囚禁经历，探讨权力与个人自由的碰撞。导演亚历山大·莫洛尼奇科将真实事件与邻里亲密关系交织，揭示在战争阴影下，偶然的善意与政治敌意如何迅速转化为灾难。影片通过对“最后发言”的戏剧化呈现，质疑国家恐惧机器的合理性，并以反讽与碎片化的“彩纸”象征，呼唤勇敢坚持信念的价值。",
-    "best_quote_en": "Even though I am behind bars, I am freer than you.",
-    "best_quote_zh": "我被关在牢里，我比你自由多了。"
-  },
-  {
-    "id": 318,
-    "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
-    "title_zh": "男性与女性大脑差异及其如何由基因与激素产生 | Dr. Nirao Shah",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah",
-    "tags": [
-      "inspire",
-      "science",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-07-28",
-    "summary_en": "In this episode, Dr. Nirao Shah—a Stanford psychiatrist and neurobiologist—unpacks the biological choreography that sculpts male and female brains from the womb to old age. He explains how the SRY gene and downstream androgen production initiate a cascade of neural differentiation, while estrogen and progesterone fine‑tune synaptic connectivity throughout puberty, the menstrual cycle, menopause, and beyond. The discussion bridges molecular genetics, endocrinology, and behavioral neuroscience, revealing that hormone fluctuations are not merely peripheral signals but architects of neural circuits governing cognition, mood, and social bonding. Dr. Shah also tackles the nuanced interface between biology and gender identity, illustrating how hormone replacement therapy can remodel brain networks linked to mating and parenting. The episode is data‑driven, citing animal models and human neuroimaging, yet it remains accessible, offering actionable insights for clinicians, researchers, and curious listeners alike. The conversation invites critical reflection on the limits of biological determinism, underscoring the dynamic interplay of genes, hormones, and experience that shapes gendered behavior.",
-    "summary_zh": "博士阐释基因与激素如何在胎儿期至老年共同塑造男女大脑，揭示性激素对神经回路的深层影响，并探讨激素治疗对性别认同与社交行为的重塑。",
-    "best_quote_en": "Hormones, Nature vs Nurture",
-    "best_quote_zh": "激素：天性与后天"
-  },
-  {
-    "id": 319,
-    "title": "Mikie Sherrill Intends to Move Fast",
-    "title_zh": "米基·谢里尔计划快速行动",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/mikie-sherrill-intends-to-move-fast",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "New Jersey’s newly elected governor, Mikie Sherrill, has positioned herself as a political insurgent who will move at a pace rivaling that of former President Donald Trump. The Reuters profile chronicles her meteoric rise from a four‑term congresswoman to a statewide victory that flipped key counties and reversed Trump’s gains among Latino voters. Sherrill’s strategy hinges on a “take‑no‑prisoners” stance, a focus on utility‑rate freezes, drug‑price reform, and restoring the Gateway rail project—policies that promise tangible relief while framing the GOP as obstructive. The piece also probes the structural challenges she faces: a divided state legislature, entrenched power brokers, and an advisory team largely drawn from outside New Jersey politics. By juxtaposing her rapid, pragmatic approach with the sluggishness of Washington’s procedural culture, the article invites readers to question whether speed alone can translate into effective governance. The narrative ultimately serves as a case study in how a candidate can harness a national crisis to galvanize a divided electorate, offering both inspiration and a cautionary tale about the limits of political momentum.",
-    "summary_zh": "米基·谢里尔以“快行动”姿态登上新泽西州长宝座，企图用速决的政策与特朗普式节奏对抗党内慢板。她的竞选聚焦削减公用事业费、药价改革和恢复大桥项目，既回应选民痛点，又将共和党描绘为阻碍者。报道同时揭示她将面临的州议会分裂、老牌权力人物与外来顾问团队的挑战。通过与华盛顿拖沓的程序文化对照，文稿促使读者思考速度是否能转化为治理效能，既是启示，也是对政治动量边界的警示。",
-    "best_quote_en": "If we’re not willing to move fast, if we’re not willing to take on tough structural issues, we’re going to get played.",
-    "best_quote_zh": "如果我们不愿意快速行动，不愿意承担艰巨的结构性问题，我们就会被玩弄。"
-  },
-  {
     "id": 320,
     "title": "What’s in my NOW? — Bob Oken",
     "title_zh": "我的现在里有什么？——鲍勃·欧肯",
@@ -2362,5 +2246,123 @@
     "summary_zh": "苹果健身+进军印度，依赖强大的音乐授权体系。PRS for Music 与 IPRS 的合作，借助云端处理和本地许可，消除货币转换，缩短支付周期，为创作者提供更快、更公平的报酬路径。此举成为数字平台跨境授权的蓝图，展示本地专业与全球基础设施相结合的高效模式。它不仅体现苹果对公平补偿的承诺，也凸显数据驱动、端到端解决方案在全球音乐授权中的重要性，或将催生更多类似合作。",
     "best_quote_en": "\"This is a blueprint for how cross-border licensing can work at scale. By combining local expertise with global PRS’s global processing capability, we’re creating a faster, fairer route for royalties to reach creators wherever their music is used.\"",
     "best_quote_zh": "我们很高兴与PRS for Music合作，支持Apple Fitness+在印度的推出。此次合作突显了我们共同致力于促进数字服务授权，并确保作曲家和作词人得到公平代表和报酬。"
+  },
+  {
+    "id": 415,
+    "title": "The best slippers for men and women, from cosy sheepskin mules to chic ballet shoes",
+    "title_zh": "男女最佳拖鞋：从舒适羊毛拖鞋到时尚芭蕾鞋",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2024/dec/28/best-slippers-men-women",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "In a playful yet insightful guide, Ellie Bramley turns the humble slipper into a lens for self‑care and home‑style. The article surveys a spectrum of footwear—from warm, ethically‑sourced sheepskin mules to sleek, “elegant” ballet‑shaped slippers—highlighting how each pair reflects personal values, climate needs, and social signals. Readers gain practical, actionable advice on material, fit, and sustainability, plus tips for pairing slippers with seasonal outfits or work‑from‑home routines. The piece blends expert taste with a light‑hearted tone, inviting readers to treat their feet as a small luxury that can boost comfort, productivity, and mood. It underscores that choosing the right slipper is more than comfort; it’s a subtle statement of identity and well‑being, making the article both a shopping guide and a gentle reminder of self‑nurture.\n",
+    "summary_zh": "作者用轻松的笔触，把拖鞋变成自我关怀的窗口。文章评测从羊毛舒适拖鞋到优雅芭蕾鞋，强调材质、环保与场合搭配。读者能获得实用建议，既能提升居家舒适度，又能在工作与社交中体现个人品味。",
+    "best_quote_en": "The right slipper can truly make time at home feel 110% more cosy, productive, sociable or fun; whatever you need it to be on any given day.",
+    "best_quote_zh": "最好的拖鞋能让你在家里的时间提升110%更舒适、更高效、更社交或更有趣；无论你今天需要它怎样。"
+  },
+  {
+    "id": 416,
+    "title": "Startup Investing Trends",
+    "title_zh": "创业投资趋势",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/invtrend.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "Y Combinator’s latest cohort illustrates a broader shift in the startup ecosystem: the number of founders willing to launch a company is rising, while the cost of doing so is falling.  The talk blends hard data—over 500 YC‑backed firms, $11.7 billion in valuations, and a growing pool of “good founders”—with prescriptive insight about how VCs can adapt.  The author argues that founders will retain more equity and control, which in turn forces investors to pursue a higher‑quality, lower‑dilution deal structure.  He pinpoints Series A as the sweet spot for disruption, suggesting that the first VC to let founders dictate the amount raised will capture the best opportunities.  The piece is both analytical and forward‑looking, offering a clear framework for investors: listen to founders’ pain points, act fast, and let the market decide the equity split.  It challenges conventional VC models and invites readers to rethink the value proposition of early‑stage capital.",
+    "summary_zh": "YC最新一批企业展示了创业生态的转变：创始人数上升、成本下降。作者结合数据与洞察，指出创始人将保留更多股权，迫使投资者追求更优质、稀释更低的交易结构。他认为Series A是颠覆的最佳时机，首个让创始人决定融资额的VC将抢占最佳机会。文章兼具分析与前瞻，提醒投资者关注创始人痛点、快速行动，让市场决定股权比例，挑战传统VC模式，促使读者重新思考早期资本价值。",
+    "best_quote_en": "Founders are your customers, and the things they complain about are unsatisfied demand.",
+    "best_quote_zh": "创始人是你的客户，他们抱怨的问题就是未被满足的需求。"
+  },
+  {
+    "id": 417,
+    "title": "Americans Won’t Ban Kids from Social Media. What Can We Do Instead?",
+    "title_zh": "美国不会禁止孩子使用社交媒体。我们还能做什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/americans-wont-ban-kids-from-social-media-what-can-we-do-instead",
+    "tags": [
+      "inspire",
+      "legal",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "法律法规",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The piece interrogates the paradox of protecting youth from social media’s harms while upholding First‑Amendment rights. By juxtaposing Utah’s failed age‑verification bill with Australia’s stringent ban, the author illustrates how legal measures alone falter when technology outpaces enforcement. The analysis extends beyond policy to societal norms, noting that Australia’s legislation, though unenforced, may shift parental attitudes and reduce teen usage. The author draws parallels with tobacco regulation, suggesting a blend of legal, tax, and cultural strategies is needed. Ultimately, the argument pivots to a broader vision: re‑engineering digital habits in schools, workplaces, and homes to counter the “atomized, scheduled” lifestyle that social media perpetuates. The piece is data‑driven, reflective, and forward‑looking, offering a nuanced critique of free‑speech absolutism in the digital age.",
+    "summary_zh": "文章探讨在保护青少年免受社交媒体负面影响的同时，如何维护第一修正案权利。通过对犹他州与澳大利亚两国立法的对比，作者指出单靠法律难以遏制技术滞后。文章强调，尽管澳洲法案执行有限，但其社会规范效应可能改变家长态度，减少青少年使用。作者借鉴烟草管制经验，提出法律、税收与文化并举的综合策略，并展望在学校、职场和家庭重塑数字习惯，抵制社交媒体所带来的碎片化、时间化生活方式。文本以数据为支撑，批判性且具前瞻性，深入剖析数字时代言论自由与公共安全的张力。",
+    "best_quote_en": "\"I believe that teen‑agers should have the right to post their opinions on social media, but I don’t think they need to do that in the middle of geometry class.\"",
+    "best_quote_zh": "\"我认为青少年应该有权在社交媒体上发表意见，但我不认为他们需要在几何课中间这么做。\""
+  },
+  {
+    "id": 418,
+    "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
+    "title_zh": "控制迷走神经以提升情绪、警觉性与神经可塑性",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity",
+    "tags": [
+      "update",
+      "health-wellness",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "健康养生",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-06-23",
+    "summary_en": "The episode dissects the vagus nerve as a bi-directional conduit between brain and body, revealing its central role in mood, digestion, alertness, and even cravings. By mapping afferent and efferent pathways, the speaker explains how targeted vagal activation can raise heart‑rate variability (HRV)—a biomarker of resilience and longevity—while simultaneously boosting acetylcholine‑mediated neuroplasticity for learning and focus. The discussion moves from physiology to practice, offering low‑cost protocols such as humming, extended exhales, and neck‑peri‑arterial stretches, and linking them to measurable outcomes like improved HRV, serotonin balance in gut and brain, and reduced IBS symptoms. The content blends rigorous science with actionable tools, making complex neurobiology accessible to anyone seeking to enhance mental health and performance through simple, evidence‑based interventions.",
+    "summary_zh": "本集深入探讨迷走神经的双向传递作用，阐明其在情绪、消化、警觉性与食欲中的核心地位，并通过精准激活提升心率变异性（HRV）与神经可塑性。内容兼具严谨科学与可操作性，提供低成本的呼吸、颈部拉伸等方法，帮助听众改善情绪、提升专注与学习效率。",
+    "best_quote_en": "Your vagus nerve controls levels of serotonin in both your gut and brain, impacting your mood and emotional resilience.",
+    "best_quote_zh": "你的迷走神经控制肠道和大脑中血清素的水平，影响情绪和情感韧性。"
+  },
+  {
+    "id": 419,
+    "title": "Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead (#559)",
+    "title_zh": "忘记新年决议，改用‘过去一年回顾’（#559）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/26/past-year-review/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "Tim Ferriss argues that the conventional New Year’s resolutions are blunt, forward‑looking tools that rarely translate into real change.  Instead he proposes a concise, data‑driven “Past Year Review” (PYR) that takes 30–60 minutes to audit the previous year’s calendar, separating positive and negative triggers into two columns.  By applying the 80/20 rule to both lists, the method identifies the 20 % of people and activities that generated the strongest emotional peaks and the 20 % that produced the most consistent misery.  The actionable next steps are simple: schedule the positive leaders now and block the negative ones from the calendar, turning insights into concrete commitments.  The PYR is a practical, beginner‑friendly framework that turns reflection into a calendar‑based habit, making it easy to maintain momentum without the vague optimism of generic resolutions.",
+    "summary_zh": "Ferriss提出，新年决议往往过于宽泛，难以落地。他推荐的“过去一年回顾”只需30–60分钟，先把过去一年的日程按正负情绪划分，再用80/20法则找出最能激发高峰与最让人沮丧的20 %因素。随后立即把正面因素安排进日历，避免被琐事淹没；把负面因素列入“勿做清单”，防止无谓投入。此方法把自省转化为可执行的日历行动，既易学又能持续产生实际效果。",
+    "best_quote_en": "Get the positive things on the calendar ASAP, lest they get crowded out by the bullshit and noise that will otherwise fill your days.",
+    "best_quote_zh": "尽快将积极的事物安排进日历，否则它们会被无谓的噪音填满而被淹没。"
   }
 ]
