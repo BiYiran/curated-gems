@@ -1,101 +1,5 @@
 [
   {
-    "id": 320,
-    "title": "What’s in my NOW? — Bob Oken",
-    "title_zh": "我的现在里有什么？——鲍勃·欧肯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-bob-oken/",
-    "tags": [
-      "update",
-      "writing-content",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Bob Oken, a media‑data field rep, shares a curated “now” list that blends physical, digital, and invisible tools into a personal manifesto of curiosity and practicality. The physical section showcases daily mindfulness via Pema Chodron’s “Comfortable with Uncertainty,” a low‑cost binocular habit for nature observation, and the Bowflex 552 adjustable dumbbells that reflect a commitment to sustained fitness. Digitally, Oken points to the Internet Archive as a free cultural library and the Perplexity Comet Browser, an AI‑augmented web experience that can book trips and fetch recipes. The invisible layer anchors the piece in Shane Parrish’s quote about the allure of crowds versus independent thought, underscoring the importance of critical thinking amid digital noise. Together, these items form a practical guide for anyone seeking actionable, beginner‑friendly tools that foster learning, physical well‑being, and intellectual autonomy. The piece invites readers to adopt a holistic “now” mindset that balances tech, habit, and reflection.",
-    "summary_zh": "鲍勃·欧肯在《我的现在里有什么？》中，以物理、数字与无形三类工具构成个人好奇与实用的宣言。物理部分包括每日冥想书籍《Comfortable with Uncertainty》、便携双筒望远镜与可调节哑铃；数字部分推荐免费文化库Internet Archive与具AI助手功能的Perplexity Comet Browser；无形层引用Shane Parrish关于群体舒适与独立思考的名言，强调批判性思维的重要性。整体呈现一套可操作、适合初学者的工具组合，鼓励读者在技术、习惯与反思之间建立全方位的“现在”心态。",
-    "best_quote_en": "A lot of people prefer the comfort of a crowd to the responsibility of independent thought.",
-    "best_quote_zh": "许多人更喜欢群体的舒适，而不是独立思考的责任。"
-  },
-  {
-    "id": 321,
-    "title": "The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
-    "title_zh": "The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2/",
-    "tags": [
-      "inspire",
-      "medicine",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "医学健康",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "In this eclectic episode, Tim Ferriss and Kevin Rose weave together a tapestry of cutting‑edge science, practical life hacks, and philosophical musings. They dissect the rapid obsolescence of AI knowledge, spotlight DORA sleep‑medication’s promise for Alzheimer’s, and unpack bioelectric therapies that could rewrite brain‑health paradigms. The conversation also navigates the emotional minefield of modern dating, introduces the 2–2–2 sobriety rule, and draws wisdom from Anthony de Mello’s contemplative teachings. Ferriss offers a clear, actionable framework for integrating AI tools—TPUs, Gemini 3, and personal stacks—into daily productivity, while cautioning on the shifting venture‑capital landscape. Listeners leave with concrete, data‑driven strategies for health, relationships, and career, framed by a future‑focused lens that urges continual learning and adaptation.",
-    "summary_zh": "在这期节目中，Ferriss 与 Kevin Rose 将人工智能的快速演进、DORA 睡眠药对阿尔茨海默的潜力、以及生物电疗法等前沿科技与日常生活技巧交织，揭示现代约会的情感陷阱与 2–2–2 戒酒法则。节目提供可操作的 AI 工具整合方案、投资趋势洞察，并以 Anthony de Mello 的智慧为灵感，鼓励持续学习与适应未来。",
-    "best_quote_en": "The rapid pace of AI development: Why your opinion from three months ago is already obsolete.",
-    "best_quote_zh": "AI发展之迅速：三个月前的观点已过时。"
-  },
-  {
-    "id": 322,
-    "title": "Katy Waldman on Mary McCarthy’s “One Touch of Nature”",
-    "title_zh": "Katy Waldman 评 Mary McCarthy 的《One Touch of Nature》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/katy-waldman-on-mary-mccarthys-one-touch-of-nature",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-12-07",
-    "summary_en": "The essay revisits Mary McCarthy’s 1970 New Yorker masterpiece “One Touch of Nature,” a sprawling riff that interrogates the disappearance of natural imagery from contemporary fiction. Waldman, through a layered historical sweep—from Dickensian fogs to modernist landscapes—highlights McCarthy’s sharp diagnostic of a literary shift: the novel’s move from sensory description to an increasingly social, technocentric gaze. The piece not only catalogues a lineage of authors who either embraced or abandoned nature, but also posits that technology has supplanted nature as the primary antagonist of human society. Waldman’s analysis invites readers to reconsider the role of the natural world in narrative and its broader cultural resonance, especially in an era of digital immersion and AI‑driven ecological concerns. By juxtaposing vivid visual metaphors with incisive criticism, the article offers a nuanced, historically grounded critique that feels both timeless and urgently relevant.",
-    "summary_zh": "本文以Katy Waldman的视角，重访Mary McCarthy 1970年《One Touch of Nature》——一篇跨越三百年西方文学的自由即兴论述。作者指出，现代小说已从对自然景象的细腻描绘转向以技术为核心的社会视角，并认为技术已成为人类社会的首要对手。文章通过列举从狄更斯到现代主义者的例子，探讨自然在文学中的消逝及其对当代数字化与人工智能时代的启示，既具有历史深度，又与现实紧迫感相呼应。",
-    "best_quote_en": "Nature, she writes, 'is no longer the human home'—thanks to technology, which has become 'the No. 1 opponent of human society.'",
-    "best_quote_zh": "麦卡锡写道，‘自然不再是人类的家园’——得益于技术，它已成为‘人类社会的第一敌人’。"
-  },
-  {
-    "id": 323,
-    "title": "More Gifts",
-    "title_zh": "更多礼物",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/more-gifts/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-12-07",
-    "summary_en": "The piece curates a diverse set of thoughtful gifts that blend practicality with personal flair, from laser‑engraved rolling pins that bring artisanal baking into the home, to the surprisingly powerful free‑access library card that unlocks museums, parks, and streaming services. Each entry is accompanied by a brief anecdote, lending credibility and a personal touch that invites readers to imagine how these items could fit into their own lives. The inclusion of a quiet rock tumbler and a hand‑powered laundry bag underscores a theme of convenience and quiet enjoyment, while the FOREO LUNA 4 facial brush highlights the growing trend of portable, tech‑savvy self‑care. The article balances inspiration and instruction, offering actionable suggestions for gifting that appeal to a wide audience—from DIY enthusiasts to travelers looking for space‑saving solutions. It subtly encourages readers to rethink what makes a gift memorable, emphasizing utility, customization, and experiential value.",
-    "summary_zh": "文章精选多种实用又有创意的礼物，从激光刻字的擀面杖到能免费通行博物馆的图书卡，既满足实用需求又增添体验感。每个礼物都附有亲身故事，提升可信度与情感共鸣。它鼓励读者从DIY、旅行、日常生活等角度重新审视礼物的意义，强调定制化、便携与科技化。",
-    "best_quote_en": "Here’s a free gift to give yourself and your friends: a library card. Beyond books, it can give you free access to museums, zoos, gardens, events, streaming services, and more.",
-    "best_quote_zh": "这里有一份免费礼物送给你和朋友：图书卡。除了书籍，它还能让你免费进入博物馆、动物园、花园、活动、流媒体服务等更多地方。"
-  },
-  {
     "id": 324,
     "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
     "title_zh": "必备知识：治疗精神疾病的迷幻药 | 约翰逊博士",
@@ -2364,5 +2268,97 @@
     "summary_zh": "Ferriss提出，新年决议往往过于宽泛，难以落地。他推荐的“过去一年回顾”只需30–60分钟，先把过去一年的日程按正负情绪划分，再用80/20法则找出最能激发高峰与最让人沮丧的20 %因素。随后立即把正面因素安排进日历，避免被琐事淹没；把负面因素列入“勿做清单”，防止无谓投入。此方法把自省转化为可执行的日历行动，既易学又能持续产生实际效果。",
     "best_quote_en": "Get the positive things on the calendar ASAP, lest they get crowded out by the bullshit and noise that will otherwise fill your days.",
     "best_quote_zh": "尽快将积极的事物安排进日历，否则它们会被无谓的噪音填满而被淹没。"
+  },
+  {
+    "id": 420,
+    "title": "How to Get Startup Ideas",
+    "title_zh": "如何获得创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startupideas.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-04-05",
+    "summary_en": "The essay dissects the anatomy of a startup idea, arguing that the most fertile concepts arise from personal pain points, genuine user needs, and a forward‑looking mindset. Drawing on Y Combinator anecdotes, it introduces the “deep‑well” model—small, highly demanded niches that can scale—contrasting it with shallow, broad ideas that rarely succeed. The author warns against the “sitcom” filter that turns imagined problems into market myths, and urges founders to drop the unsexy and schlep filters to uncover overlooked gaps. Practical advice follows: observe what annoys you, build side projects that feel like toys, and validate with real users. The piece blends theory with actionable steps, making it a valuable guide for anyone seeking a systematic way to spot and test startup opportunities.",
+    "summary_zh": "文章深入剖析创业点子来源，强调从自身痛点出发、关注真实需求、保持“未来感”。作者以YC经验为例，揭示“有深度的窄井”模型，指出真正可行的创意往往是对细分市场的深度洞察。文章还提醒创业者放下“无聊”“繁琐”过滤器，主动寻找缺口，并通过实践与用户验证来验证想法。整体思路既具理论深度，又兼具可操作性，适合想要系统化思考创业机会的读者。",
+    "best_quote_en": "Live in the future, then build what's missing.",
+    "best_quote_zh": "你要知道如何画一幅完美的画？很简单。让自己变得完美，然后自然地去画。"
+  },
+  {
+    "id": 421,
+    "title": "How much faster is speaking, compared to typing on laptop vs phone vs writing?",
+    "title_zh": "说话速度相比键盘输入有多快？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ZpG6AdeXuZy4JbWrH/how-much-faster-is-speaking-compared-to-typing-on-laptop-vs",
+    "tags": [
+      "guide",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-04-05",
+    "summary_en": "This article turns a simple curiosity—how fast can we speak versus type—into a data‑driven exploration of communication modalities. By benchmarking words‑per‑minute across hand‑written, phone‑typing, laptop‑typing, and spoken speech, the author reveals striking gaps: a single‑hand phone or laptop averages 40‑45 wpm, two‑hand phone typing pushes to 60‑70 wpm, and a laptop reaches 80‑90 wpm. Normal spoken speech leaps to 180‑200 wpm, while rushed speech can reach 260‑340 wpm, more than three times faster than typing. The analysis highlights that{—}speech is the most efficient input channel, especially when combined with modern Speech‑to‑Text technology, which can further close the speed gap. The piece is action‑oriented, encouraging readers to invest in STT, and it contextualizes the findings within broader tech trends, such as mobile communication and voice‑first interfaces. The author’s candid tone and practical measurements make the content highly relatable for developers, product managers, and everyday users grappling with productivity bottlenecks.",
+    "summary_zh": "本文用实测数据揭示了说话与打字速度的巨大差距，正负面向读者提出提升语音输入的实用建议，凸显语音在现代移动沟通中的高效优势与潜在价值。",
+    "best_quote_en": "Speaking at a rushed pace (~260‑340 wpm) is about 1.5× faster than normal speaking.",
+    "best_quote_zh": "说话速度在匆忙状态下（约260‑340 wpm）比正常说话快约1.5倍。"
+  },
+  {
+    "id": 422,
+    "title": "Book Freak #204: Living for Pleasure",
+    "title_zh": "书虫 #204：为了快乐而活",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-204-living-for-pleasure/",
+    "tags": [
+      "learn",
+      "society",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-04-03",
+    "summary_en": "Emily Austin’s recent book reclaims Epicurus from the myth of reckless hedonism, revealing a philosophy that prizes the absence of anxiety—ataraxia—over sensory excess. Austin distills Epicurean wisdom into a modern guide for the overworked, the comparison‑driven, and the anxiety‑ridden. The core insight is that true pleasure is not accumulation but *satisfying* what you need and eliminating what disturbs. She categorises desires into natural, extravagant, and corrosive, urging readers to evaluate each pursuit’s impact on mental peace. Friendship emerges as the linchpin: a network of trustworthy allies erodes anxiety more than any material gain. Moreover, Austin insists that pleasure cannot be divorced from virtue; ethical living is the bedrock of tranquility. The book offers concrete exercises—self‑audit of desires, anxiety‑mapping, and envisioning a state of “enough”—that transform abstract theory into actionable habits. Readers are invited to reframe their goals, recognize the true cost of unchecked ambition, and cultivate relationships that sustain calm. The result is a pragmatic, psychologically grounded roadmap that challenges the conventional pursuit of happiness, making it a vital read for anyone seeking sustainable contentment in a frenetic world.",
+    "summary_zh": "艾米丽·奥斯汀借古希腊哲学家伊壁鸠鲁之名，重新诠释快乐的真义：不是狂欢，而是无忧的宁静。她把欲望分为天然、奢侈与腐蚀三类，教人识别并筛选。书中强调真友谊是消除焦虑的最佳药方，并坚称快乐与德行不可分割。作者提供一系列实操练习——评估欲望、识别焦虑、想象“足够”状态，帮助读者把理论变成日常习惯。该书以心理学为基石，提供可落地的生活指南，适合在快节奏社会中寻找持久宁静的人们。",
+    "best_quote_en": "\"Nothing diminishes our anxiety more than a community of trustworthy and supportive friends.\"",
+    "best_quote_zh": "\"没有什么比拥有可信赖、支持我们的朋友社区更能消除我们的焦虑。\""
+  },
+  {
+    "id": 423,
+    "title": "Yale Law School scholars back UMG in Drake’s ‘Not Like Us’ defamation fight, arguing rapper ‘consented’ to Kendrick Lamar’s lyrics",
+    "title_zh": "耶鲁法学院学者支持UMG，反驳Drake的《Not Like Us》诽谤案，主张说唱歌手已同意肯德里克·拉马尔的歌词",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/yale-law-school-scholars-back-umg-in-drakes-not-like-us-defamation-fight-arguing-rapper-consented-to-kendrick-lamars-lyrics/",
+    "tags": [
+      "analyze",
+      "science",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2026-04-04",
+    "summary_en": "The Yale Law School amicus briefs inject a fresh legal perspective into Drake’s defamation appeal, arguing that consent—explicit or implicit—acts as an absolute defense under New York law. By framing the diss track as a call‑and‑response engagement, the briefs shift the focus from individual lyricists to the record label’s role in publicizing alleged falsehoods. This stance dovetails with a broader scholarly critique that rap lyrics, especially diss tracks, are performative hyperbole rather than factual assertions, a view that, if adopted, could safeguard First Amendment freedoms and mitigate racial bias in litigation. The analysis underscores the tension between artistic expression and legal accountability, illustrating how contemporary cultural practices test the limits of defamation law. Such arguments carry significant implications for the music industry, suggesting that labels may need to reassess promotional strategies when handling contentious content. Moreover, the case exemplifies how legal scholarship can leverage precedent and empirical research to influence high‑stakes litigation, reminding practitioners that the law is as much about interpretation as it is about text.\n",
+    "summary_zh": "耶鲁法学院的专家意见书通过“同意”这一绝对防御，重新审视了Drake的诽谤诉讼，指出说唱对决本质上是艺术化夸张，而非事实陈述，呼吁法庭考虑这类文化表达的第一修正案保护，提醒音乐产业在推广争议内容时需谨慎。",
+    "best_quote_en": "Suppose a self‑assured boxer challenges the world champion to a prize fight, is knocked out on live television, and, with bruised ego and body, files a lawsuit for battery. That lawsuit would fail at the outset for a simple but important reason: the challenger consented to the fight, and consent is a classic defense to an intentional tort.",
+    "best_quote_zh": "假设一名自信的拳击手挑战世界冠军进行一场拳击赛，随后在电视上被击倒，伤痕累累地提起殴打诉讼。该诉讼在一开始就会失败，因为最简单却重要的原因：拳手已同意这场比赛，而同意是故意侵权的经典防御。"
   }
 ]
