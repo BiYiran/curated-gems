@@ -1,123 +1,5 @@
 [
   {
-    "id": 329,
-    "title": "Master the Creative Process | Twyla Tharp",
-    "title_zh": "掌握创意过程 | Twyla Tharp",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/master-the-creative-process-twyla-tharp",
-    "tags": [
-      "guide",
-      "ai-research",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-12-08",
-    "summary_en": "Twyla Tharp’s conversation with the Huberman Lab distills the paradox of artistic brilliance: it is born not from spontaneous inspiration alone but from a disciplined, almost ritualistic routine that becomes the “spine” of creative work. She argues that a clear central message, audience‑centric thinking, and relentless daily practice elevate standards and transform vision into reality. Tharp’s anecdotes—from early ballet training to the evolution of her choreography—illustrate how hard work, competition, and even the names we choose shape our self‑efficacy. The episode offers actionable frameworks: a “box” of habits, a “scratching” technique for idea refinement, and the importance of physical conditioning for sustained creativity. For practitioners and aspiring creators alike, it underscores that mastery is a cumulative process of habit, reflection, and disciplined execution, not a flash of genius. This pragmatic, expert‑insight‑rich dialogue invites listeners to re‑engineer their creative rituals and harness their inner vision with measurable consistency.",
-    "summary_zh": "Twyla Tharp 以纪律为脊梁，揭示创作成功的秘诀：清晰主题、以观众为中心、日常练习。她用舞蹈与生活故事说明自我效能的塑造，强调习惯与身体训练对创意的持续影响。",
-    "best_quote_en": "The spine of creative work is a disciplined routine.",
-    "best_quote_zh": "创作的脊梁是有纪律的日常。"
-  },
-  {
-    "id": 330,
-    "title": "The 23 biggest music business deals of 2025: From Taylor Swift to Tencent Music, Live Nation, and Chord.",
-    "title_zh": "2025年最大音乐商业交易23大：从泰勒·斯威夫特到腾讯音乐、Live Nation 与 Chord",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/the-23-biggest-music-business-deals-of-2025-from-taylor-swift-to-tencent-music-live-nation-and-chord/",
-    "tags": [
-      "update",
-      "startup-funding",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业融资",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-12-08",
-    "summary_en": "2025’s music‑industry headline deals reveal a seismic shift away from blockbuster artist‑catalog buyouts toward a finance‑centric ecosystem. The absence of new mega‑catalog acquisitions—after last year’s Queen, Pink Floyd, and Michael Jackson deals—highlights a pivot to asset‑backed securitization (ABS), debt‑leveraged fundraising, and joint‑venture “war‑chest” building. Tencent Music’s $2.4 billion purchase of Ximalaya underscores the rise of non‑Western powerhouses and the blurring of streaming, podcasting, and live‑event borders. Meanwhile, Chord Music Partners’ multi‑billion‑dollar raise and Concord’s record‑breaking $1.76 billion ABS illustrate how rights are increasingly treated as liquid capital. The wave extends to AI: Suno’s $250 million Series C, coupled with its recent settlement with Warner, signals a new frontier where algorithm‑generated music and major‑label collaboration converge. Collectively, these transactions point to a future where music rights are fungible assets, financing innovation and reshaping the cultural economy.",
-    "summary_zh": "2025 年音乐交易的顶尖案例显示，行业正从明星专辑大买卖转向金融化生态。腾讯音乐收购喜马拉雅、Chord 音乐融资、Concord 资产证券化，以及 Suno 的 AI 版图，均表明版权正被视作可流通资本，推动技术创新与文化经济重塑。",
-    "best_quote_en": "Asset-backed securitization (ABS) of music catalogs has truly taken off.",
-    "best_quote_zh": "音乐目录的资产支持证券化（ABS）真正起飞了。"
-  },
-  {
-    "id": 331,
-    "title": "Warning system to spot poor care at NHS England maternity wards",
-    "title_zh": "英国 NHS 产科护理警报系统",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/dec/08/warning-system-to-spot-poor-care-at-nhs-england-maternity-wards",
-    "tags": [
-      "update",
-      "medicine",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-12-08",
-    "summary_en": "The NHS England’s Maternity Outcomes Signal System (MOSS) marks a watershed in obstetric safety, turning raw outcome data into a real‑time early warning mechanism. By setting 95 % and 99 % confidence thresholds for deaths or serious neonatal injury, the system forces prompt, board‑approved reviews within days of a signal. This data‑driven approach, born from the 2022 East Kent investigation, will cover every maternity unit nationwide, ensuring that no cluster of adverse events slips past oversight. The initiative is not only a procedural upgrade; it signals a cultural shift toward transparency and accountability, empowering frontline managers with evidence‑based triggers. For clinicians, policymakers, and patients, the system offers a concrete tool to pre‑empt harm and benchmark performance. Yet, its success hinges on rigorous data collection, swift governance, and sustained investment. MOSS exemplifies how statistical vigilance can transform health policy into actionable safety nets, setting a precedent for other high‑risk care domains.",
-    "summary_zh": "MOSS系统将产科不良事件实时转化为预警信号，以95%和99%的置信度触发管理层迅速评估。它源自东肯特调查，覆盖全英产科，推动透明与问责。此举既是技术升级，也是文化转变，为临床、决策者与患者提供可操作的安全工具，若能持续投入与治理，将成为高危医疗领域的标杆。",
-    "best_quote_en": "For too long, maternity warning signs have been missed. Now, this is a key step we are taking to improve maternity care.",
-    "best_quote_zh": "这是一项真正积极的发展，直接源自对东肯特产科服务调查的结果。"
-  },
-  {
-    "id": 332,
-    "title": "Let the Other 95% of Great Programmers In",
-    "title_zh": "让其他95%的优秀程序员进来",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/95.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-10",
-    "summary_en": "This essay argues that America’s tech dominance hinges on attracting the world’s top programmers, not merely training more domestic talent. The author contends that exceptional programmers possess innate aptitude and curiosity that cannot be fully cultivated through education alone, and that the U.S., with less than 5 % of the global population, cannot rely on domestic supply to meet demand. Drawing on anecdotal evidence from Silicon Valley startups, he demonstrates that firms are willing to navigate complex immigration processes to secure elite talent, and that the cost of doing so is offset by the transformative impact of these individuals. The piece frames immigration policy as a strategic lever for maintaining technological leadership, warning that failure to capitalize on this opportunity could erode U.S. influence in the next half‑century. It blends data‑driven reasoning with a persuasive call to action, urging policymakers to streamline pathways for high‑skill talent while guarding against exploitation by low‑skill visa programs. The article’s blend of economic logic, policy critique, and future‑focused vision makes it a compelling read for anyone interested in tech strategy and immigration reform.",
-    "summary_zh": "文章认为美国科技霸主地位取决于吸引全球顶尖程序员，而非单纯培养本土人才。作者指出，卓越程序员拥有天赋与好奇心，教育无法完全塑造；美国仅占全球人口5%，无法满足需求。通过硅谷初创企业案例，展示企业愿意克服移民程序获取精英人才，成本被其价值抵消。作者将移民政策视为维持技术领先的战略杠杆，警示若不抓住机会，未来半世纪美国影响力可能被削弱。文章结合数据与行动号召，倡议简化高技能人才通道，同时防止低技能签证滥用。",
-    "best_quote_en": "Exceptional programmers have an aptitude for and interest in programming that is not merely the product of training.",
-    "best_quote_zh": "如果我们想保持这个选项开放，最好的办法是利用它：世界上越多的优秀程序员在这里，越有可能让其他人来这里。"
-  },
-  {
-    "id": 333,
-    "title": "If You Quit Social Media, Will You Read More Books?",
-    "title_zh": "如果你戒掉社交媒体，你会读更多书吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books",
-    "tags": [
-      "inspire",
-      "society",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-09",
-    "summary_en": "Jay Caspian Kang’s column chronicles a personal experiment: quitting social media to see if the freed bandwidth would translate into more book reading. The narrative is both anecdotal and data‑driven, citing literacy surveys that reveal a steep decline in daily reading among youth and adults. Kang’s observation that the absence of platforms like X, Instagram, and TikTok did not magically boost his own reading habits forces a deeper interrogation of the assumed link between digital distraction and literary engagement. He juxtaposes the idea of “smart” reading—discovering titles via Reddit, BookTok, or Substack—with the risk of echo‑chambers that filter out dissenting voices. The piece challenges the simplistic narrative that social media inherently erodes culture, suggesting instead a nuanced interplay where the internet can both streamline access and constrain breadth. In a broader sense, the article calls for a balanced media diet that preserves depth, community, and the slow deliberation that long‑form texts uniquely afford.",
-    "summary_zh": "作者用亲身戒社交媒体的实验，揭示数字沉迷与阅读习惯的微妙关联。他质疑‘少读多精’的论调，提醒我们在信息洪流中仍需守护多元视角与深度思考。",
-    "best_quote_en": "Social media does create a powerful consensus—on the internet, everything tends to grow quickly toward one source of light— and an argument can be made that a slower, more fractured network of in‑person, localized arguments might ultimately offer up more intellectual variety.",
-    "best_quote_zh": "社交媒体确实创造了强大的共识——在互联网上，一切往往迅速趋向一个光源——而可以说，慢速、更碎片化的面对面、本地化的争论网络最终可能提供更多的知识多样性。"
-  },
-  {
     "id": 334,
     "title": "Chihuly on Fire / Cursed Pirate Girl",
     "title_zh": "火焰中的奇胡利 / 被诅咒的海盗女孩",
@@ -2358,5 +2240,125 @@
     "summary_zh": "Retro Recomendo 通过每六周回顾九年精选内容，提供DIY、全球美食、夸张漫画、科研速递与奇趣影像等多元主题，既实用又富娱乐性。它让读者在快速消费时代，重新发现永恒价值，提升生活品质与文化视野。",
     "best_quote_en": "“The best of these are still valid and useful, so we’re trying out something new — Retro Recomendo.”",
     "best_quote_zh": "“这些最佳推荐仍然有效且有用，所以我们正在尝试新的东西——Retro Recomendo。”"
+  },
+  {
+    "id": 429,
+    "title": "Startup = Growth",
+    "title_zh": "Startup = Growth",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/growth.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-04-07",
+    "summary_en": "The essay reframes the startup myth by stripping away the romantic veneer of technology‑centric hype and returning to a single, quantifiable compass: growth. It argues that a company is a startup only when it is designed to scale rapidly, regardless of tech, funding, or exit prospects. The author systematically dismantles common misconceptions—such as equating newness or venture funding with startup status—and introduces the idea that growth is both the defining trait and the decision‑making engine. By treating growth as a weekly target, the piece transforms the chaotic act of founding into an optimization problem, comparable to code performance tuning. It further explains how growth drives investment, valuation, and acquisition dynamics, and why VCs focus on high‑growth companies rather than steady, profitable ones. The analysis is grounded in data (e.g., 5‑7% weekly growth during Y Combinator) and uses real‑world examples (Google, Apple, PayPal) to illustrate how early, implicit ideas evolve into market‑shattering products. The essay invites founders to view growth not just as a metric but as a strategic constraint that shapes product, market, and funding decisions, echoing a scientific mindset of hypothesis testing and iterative refinement.",
+    "summary_zh": "文章以“成长”为核心，重新定义创业者的身份与目标。它指出，创业公司不必依赖技术、资金或退出，而是必须具备快速扩张的设计。通过把成长目标设为每周百分比，作者把创办过程变成可优化的实验，像代码调优一样精细。文章用 Google、Apple、PayPal 等案例说明，成长是吸引 VC、提升估值、赢得收购的关键。它提醒创始人把成长视为战略约束，而非单纯的指标，从而在产品、市场和融资决策上保持一致。",
+    "best_quote_en": "\"If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.\"",
+    "best_quote_zh": "\"如果你能做到每周10%的增长，你正在做得非常好；如果只能做到1%，说明你还没有搞清楚自己在做什么。\""
+  },
+  {
+    "id": 430,
+    "title": "We're actually running out of benchmarks to upper bound AI capabilities",
+    "title_zh": "我们实际上正在用尽上限AI能力的基准",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-07",
+    "summary_en": "The article traces the rapid saturation of traditional AI benchmarks—once the gold standard for bounding model capabilities—and the mounting difficulty of keeping them relevant as frontier systems like Anthropic’s Claude Opus 4.6 and OpenAI’s GPT‑5.3 approach or surpass them. It critically evaluates alternative approaches—time‑horizon tests, uplift studies, expert forecasts, and third‑party audits—highlighting their logistical, financial, and epistemic limitations. The core insight is that the very tools used to assure safety are becoming obsolete, forcing a paradigm shift from static benchmarks to dynamic, multi‑modal assessment frameworks. The author urges the community to move beyond hypothetical safety claims and confront the reality of faster AI progress than our measurement capabilities can keep pace with. This piece is a call to action for researchers, policymakers, and industry to rethink safety metrics, invest in scalable evaluation infrastructure, and foster transparent, independent oversight, lest we underestimate the disruptive potential of future models.",
+    "summary_zh": "文章揭示传统 AI 基准已被前沿模型超越，测评方法面临成本与时效双重瓶颈。作者评估时间跨度测试、提升研究、专家预测和第三方审计等替代方案，指出其局限性与挑战。核心在于：现有安全上限工具失效，迫切需要多模态、可扩展评估框架，并呼吁行业与政策层面重新思考安全指标，以防低估未来模型的颠覆力。",
+    "best_quote_en": "\"We are actually running out of benchmarks to upper bound AI capabilities.\"",
+    "best_quote_zh": "“我们实际上正在用尽上限AI能力的基准。”"
+  },
+  {
+    "id": 431,
+    "title": "What Will the Artemis II Moon Mission Teach Us?",
+    "title_zh": "阿尔忒弥斯二号月球任务将教会我们什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-will-the-artemis-ii-moon-mission-teach-us",
+    "tags": [
+      "guide",
+      "science",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2026-04-06",
+    "summary_en": "The article examines the historic Artemis II mission as both a technical rehearsal and a cultural milestone, highlighting how NASA’s return to the Moon signals a broader shift toward commercial‑led deep‑space exploration. It frames the mission as a pivotal learning laboratory: the crew’s first experience of Earth’s full scale from orbit, the management of unexpected cabin leaks, and the nuanced interplay between legacy NASA infrastructure and new private partnerships. Beyond operational details, the piece critiques the politicization of space funding and the emerging competition with China’s Chang’e program, suggesting that Artemis’s success hinges on sustained bipartisan support and a clear public narrative. The author underscores the human element—crew camaraderie, the intimacy of spaceflight, and the emotional resonance of seeing Earth shrink to a golf ball—yet also warns that the commercialization of lunar logistics may concentrate resources in a few states, potentially eroding the inclusive ethos that once defined NASA. Overall, the story invites readers to consider Artemis not merely as a technical feat but as a turning point in how society values, finances, and participates in outer‑space endeavors.",
+    "summary_zh": "文章透视阿尔忒弥斯二号任务，既是技术排练，也是文化里程碑，提醒我们太空探索正从国家主导转向商业合作。通过对机舱泄漏、宇航员首次全景观测地球等细节的剖析，作者评估了政治支持与公众认知对任务成功的决定性作用，并对中美月球竞争与资源集中化提出警惕。最终，文章把任务定位为重塑太空价值观与参与方式的关键节点。",
+    "best_quote_en": "“Artemis is a survivor program,” Emily A. Margolis said. “The Orion crew capsule was part of the Constellation program. Three of the rocket’s four engines flew on Space Shuttle missions.”",
+    "best_quote_zh": "“阿尔忒弥斯是个幸存者项目，”玛格利斯说。 “奥赛里恩宇航员舱是星际计划的一部分。火箭四台发动机中有三台曾在航天飞机上使用。”"
+  },
+  {
+    "id": 432,
+    "title": "Folding Bikes",
+    "title_zh": "折叠自行车",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/folding-bikes/",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-04-06",
+    "summary_en": "This article weaves a personal narrative with a comprehensive review of folding bicycles, treating them as both practical tools and lifestyle statements. The author’s firsthand experience with the Brompton T6, Bike Friday, and Strida models highlights key trade‑offs—compactness, ride quality, maintenance, and cost—and frames the folding bike as an urban mobility solution that can replace car commutes, reduce storage headaches, and even become a fashion accessory. The piece offers actionable guidance: how to choose a model based on commuting distance, folding mechanism, and whether you’ll travel by air or public transit. It also broaches the broader cultural shift toward sustainable, portable transport, and the creative potential of bike hacking. The reader is left with a clear mental map of the folding bike ecosystem, practical criteria for decision‑making, and a sense that this compact mode of transport can reshape daily routines and urban living.",
+    "summary_zh": "文章通过亲身体验与折叠自行车的评测，展示了它们如何成为城市通勤的实用与时尚双重选择。作者比较了Brompton、Bike Friday和Strida等品牌，指出折叠便携、骑行舒适、维护成本等关键因素，并给出针对不同通勤距离与交通工具的选购建议。更进一步，文中提及自行车改装的创意潜力，暗示折叠自行车不仅是交通工具，更是可持续生活方式的一部分。",
+    "best_quote_en": "\"I bought mine six months ago and it has completely transformed my day to day existence. It’s a true lifestyle changer.\"",
+    "best_quote_zh": "\"我买了它已经六个月，它彻底改变了我的日常生活。它是真正的生活方式改变者。\""
+  },
+  {
+    "id": 433,
+    "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+    "title_zh": "在日常生活中培育敬畏与情感联结 | Dr. Dacher Keltner",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/cultivating-awe-and-emotional-connection-dr-dacher-keltner",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-04-06",
+    "summary_en": "Dr. Dacher Keltner’s conversation delves into the science of awe, unpacking what triggers this powerful emotion and how it reshapes our personal and collective narratives. He links physiological markers—facial expressions, motor patterns, and brain synchronization—to the subjective experience of awe, offering concrete tools such as the \"Awe Walk\" and space‑time bridging meditation. The discussion also intersects humor, humor’s role in social bonding, and the paradoxical inhibitors of awe like self‑focus and narcissism. By weaving neurobiological evidence with real‑world examples—from concerts to city design—Keltner presents a holistic framework for cultivating awe as a catalyst for community, mental health, and resilience. The episode is a blend of rigorous research, actionable practices, and forward‑looking speculation on psychedelics and urban planning, making it a rich resource for anyone seeking to understand or harness awe in daily life.",
+    "summary_zh": "Keltner博士将敬畏的神经科学与日常实践相结合，揭示情感如何重塑自我与群体认知，并提供可操作的工具。",
+    "best_quote_en": "\"Awe is not just a feeling; it is a rewiring of how we perceive ourselves in the vast tapestry of life.\"",
+    "best_quote_zh": "“敬畏不仅是一种情感，它是我们在广阔生命织锦中重新塑造自我的一种重组。”"
   }
 ]
