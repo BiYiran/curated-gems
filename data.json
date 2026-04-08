@@ -1,99 +1,5 @@
 [
   {
-    "id": 334,
-    "title": "Chihuly on Fire / Cursed Pirate Girl",
-    "title_zh": "火焰中的奇胡利 / 被诅咒的海盗女孩",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/chihuly-on-fire-cursed-pirate-girl/",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2025-12-09",
-    "summary_en": "The article juxtaposes two distinct artistic realms—Dale Chihuly’s groundbreaking glass sculptures and Jeremy Bastian’s intricate black‑and‑white graphic novel—highlighting how color and technique can redefine perceived boundaries. Chihuly’s narrative traces a pivotal shift in the 1980s when he introduced the Macchia series, infusing solid hues and “jimmies” of crushed glass into sculptural forms, thereby challenging the conservative expectations of the craft‑arts scene. The review underscores how his fearless use of color and fire‑based production processes elevate the medium from decorative to provocative, positioning Chihuly as a provocateur who insists that beauty itself is a political act. In contrast, the graphic novel discussion spotlights meticulous line work and mechanical pencil precision, celebrating the artist’s mastery of detail to create an immersive, swashbuckling narrative. Together, the pieces illuminate the power of visual storytelling, whether through molten glass or inked panels, and invite readers to reconsider the limits of artistic expression and the role of technical daring in contemporary art.",
-    "summary_zh": "文章将奇胡利的玻璃雕塑与海盗女孩的黑白漫画并置，探讨色彩与技巧如何打破传统界限。奇胡利在80年代通过Macchia系列大胆运色与火焰工艺，将玻璃艺术从装饰提升为政治性美学；而漫画则以机械铅笔与细腻线条呈现冒险叙事，展示细节的力量。两者共同揭示视觉叙事的潜能，鼓励读者重新审视技术勇气与艺术表达的边界。",
-    "best_quote_en": "Chihuly takes the greater aesthetic risk by being brash enough to demand that his creations are also, well, beautiful.",
-    "best_quote_zh": "即使在他的早期，奇胡利的雄心似乎比全国的玻璃艺术画廊网络更大。"
-  },
-  {
-    "id": 335,
-    "title": "Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
-    "title_zh": "Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/09/dr-fei-fei-li-the-godmother-of-ai/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-09",
-    "summary_en": "In this episode, Tim Ferriss sits down with Dr. Fei‑Fei Li, a pioneer of computer vision and a vocal advocate for human‑centered AI. Li’s journey—from a physics degree at Princeton to leading Stanford’s AI Lab and co‑founding World Labs—illustrates how curiosity and interdisciplinary thinking can steer the next wave of AI innovation. She explains how spatial intelligence, a branch of AI that maps the world into meaningful, navigable representations, could reshape everything from autonomous vehicles to global logistics. The conversation also tackles the ethical and societal dimensions of AI, urging listeners to ask audacious questions and align technology with humanity’s long‑term interests. Li’s candid reflections on failure, mentorship, and the “North Star” mindset provide actionable guidance for researchers, founders, and policy makers alike, making this episode a must‑listen for anyone wanting to navigate the complex future of AI.",
-    "summary_zh": "在本期节目中，铁粉与AI先驱李飞飞博士对话，探讨人本AI、空间智能与技术伦理。李博士从普林斯顿物理学到斯坦福AI实验室，再到创立World Labs，展示好奇与跨学科思维如何引领AI未来。她强调空间智能如何改变自动驾驶与物流，并呼吁以“北极星”思维提问、对齐技术与人类长远利益。对研究者、创业者和政策制定者均具可操作性，是理解AI未来的必听之作。",
-    "best_quote_en": "“inaugural Sequoia Professor in the Computer Science Department at Stanford University”",
-    "best_quote_zh": "“斯坦福大学计算机科学系的首任Sequoia教授”"
-  },
-  {
-    "id": 336,
-    "title": "How to Be an Expert in a Changing World",
-    "title_zh": "如何在变化的世界里成为专家",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ecw.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-12-11",
-    "summary_en": "In a world that never stands still, the author argues that expertise is a moving target—what works today may be obsolete tomorrow. Drawing on a decade of early‑stage startup investing, he teaches how to guard against the seductive trap of overconfidence in static beliefs. The key is to adopt an explicit belief in change, stay aggressively open‑minded, and treat hypotheses as living experiments rather than immutable truths. He introduces a counterintuitive strategy: bet on people, not ideas. By surrounding yourself with earnest, energetic, independent‑minded founders, you increase the odds of spotting the next breakthrough before others do. The piece blends personal anecdotes, behavioral insights, and actionable frameworks—making it a practical guide for investors, entrepreneurs, and anyone who wants to stay ahead of the curve. It invites readers to question their assumptions, embrace uncertainty, and view failure as a stepping‑stone to future success.",
-    "summary_zh": "在永不停息的世界里，作者指出专业知识是一种不断变化的目标——今天有效的事物明天可能已过时。他用十年早期创业投资经验，教人如何防止过度自信陷阱。核心是明确相信变化、保持极度开放的心态，把假设视为活实验，而非不变真理。作者提出反直觉策略：下注人而非想法。围绕真诚、充满活力、独立思考的创始人，可在他人之前捕捉下一次突破。文章融合个人轶事、行为洞察与可操作框架，成为投资人、创业者以及想保持领先的人的实用指南，鼓励读者质疑假设，拥抱不确定，视失败为通向未来成功的垫脚石。",
-    "best_quote_en": "The best strategy is simply to be aggressively open‑minded.",
-    "best_quote_zh": "让自己始终保持开放的心态是最好的策略。"
-  },
-  {
-    "id": 337,
-    "title": "Brain-inspired LLM alignment",
-    "title_zh": "基于脑启发的LLM对齐",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/PL4f6mnA2BuLr2m3s/brain-inspired-llm-alignment",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-12-11",
-    "summary_en": "The article proposes a novel hybrid architecture that blends large‑language‑model (LLM) autoregression with brain‑like cognitive scaffolding. By introducing a thought‑generator backbone, parallel reward‑assessor heads, and a steering subsystem that aggregates valence scores, the author envisions an early‑alignment pipeline that trains these heads during pre‑training rather than relying on post‑hoc fine‑tuning. This design addresses key alignment pitfalls: the opaque agency of RLHF, the vulnerability of LLM personalities to jailbreaks, and the lack of interpretable reward signals. The proposal also leverages synthetic data and curriculum‑driven RL to shape the model’s world‑model from the outset, mirroring how biological systems learn through active experience. The discussion bridges neuroscience concepts—learning systems, steering subsystems, and reward prediction—with practical LLM engineering, offering a roadmap for future research into “brain‑like” alignment. Its implications resonate beyond AI safety, hinting at a new class of models that are both more interpretable and more resilient to manipulation.",
-    "summary_zh": "文章将大语言模型与脑类认知架构融合，提出思维生成器、奖励评估头与调度子系统的混合框架，强调在预训练阶段就训练评估头以实现早期对齐。它指出RLHF的不可解释性、人格易被越狱以及缺乏可解释奖励信号等问题，并通过合成数据与课程化强化学习模拟生物学习过程，提升模型的可解释性与抗操纵性。该思路跨越神经科学与LLM工程，提供未来“脑启发”对齐的研究路线，对AI安全与模型可解释性具有深远意义。",
-    "best_quote_en": "LLMs are pre‑trained offline on an enormous amount of natural text, whereas the brain‑like approach relies heavily on reinforcement learning throughout the whole training process.",
-    "best_quote_zh": "LLMs 预训练离线的大量自然文本，而脑类方法则在整个训练过程中大量依赖强化学习。"
-  },
-  {
     "id": 338,
     "title": "Is the Supreme Court Unsure About Birthright Citizenship?",
     "title_zh": "最高法院对出生公民身份是否存在不确定性？",
@@ -2360,5 +2266,101 @@
     "summary_zh": "Keltner博士将敬畏的神经科学与日常实践相结合，揭示情感如何重塑自我与群体认知，并提供可操作的工具。",
     "best_quote_en": "\"Awe is not just a feeling; it is a rewiring of how we perceive ourselves in the vast tapestry of life.\"",
     "best_quote_zh": "“敬畏不仅是一种情感，它是我们在广阔生命织锦中重新塑造自我的一种重组。”"
+  },
+  {
+    "id": 434,
+    "title": "Black Swan Farming",
+    "title_zh": "黑天鹅耕作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/swan.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-04-08",
+    "summary_en": "This essay dissects the paradoxical logic behind Y Combinator’s investment philosophy, revealing that the most lucrative exits arise from ideas that initially appear disastrous. The author distills two core truths: returns are heavily skewed toward a handful of hyper‑growth winners, and the probability of hitting such a winner is not a simple function of baseline success. Consequently, traditional metrics like demo‑day fundraising are misleading, while the true indicator is the potential to scale 1000×. The narrative balances practical guidance—how to tilt risk tolerance, ignore conventional success signals, and maintain a broad portfolio—with a philosophical reflection on the counterintuitive nature of breakthrough ventures. It offers a compelling argument for treating venture funding as a probabilistic art, not a linear science, and encourages founders to pursue high‑impact ideas even when they seem “bad.” The piece is both a strategic playbook for investors and an inspiration for founders who dare to dream beyond conventional wisdom.",
+    "summary_zh": "作者揭示VC成功的两大真相：回报高度集中于少数大赢家，且选中超大赢家的概率与普通成功率并不成正比。传统的Demo Day融资率已失效，真正的指标是潜在的千倍增长。文章既给出风险偏好与组合扩张的实战建议，又提醒创业者敢追看似“糟糕”的创意，强调突破往往隐藏在逆向思维之中。",
+    "best_quote_en": "The best startup ideas seem at first like bad ideas.",
+    "best_quote_zh": "最成功的创业想法起初看起来像糟糕的想法。"
+  },
+  {
+    "id": 435,
+    "title": "The Science Book / Encyclopedia of Sensors",
+    "title_zh": "科学书 / 传感器百科",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-science-book-encyclopedia-of-sensors/",
+    "tags": [
+      "guide",
+      "design",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-04-07",
+    "summary_en": "The article juxtaposes two distinct yet complementary science guides, offering readers a panoramic view of knowledge from foundational principles to practical hardware. The first book, *The Science Book*, condenses centuries of scientific milestones into a visually engaging format, making complex topics like relativity and genetics accessible through clear diagrams and layman’s language. Its strength lies in bridging curiosity and comprehension, encouraging both novices and seasoned science lovers to explore topics at their own pace. The second volume, *Encyclopedia of Electronic Components – Sensors*, serves as a hands‑on companion for makers and hobbyists, detailing sensor types, functionalities, and troubleshooting with vivid photos and diagrams. Written by Charles Platt and Fredrik Jansson, it maintains an approachable tone while providing rigorous technical insights, reflecting the ethos of the broader Make: Electronics series. Together, these works illustrate a holistic learning pathway—from theoretical concepts to tangible engineering applications—demonstrating how well‑crafted, visually rich resources can ignite sustained interest in science and technology. They underscore the importance of design, clarity, and narrative in science communication, and they invite readers to bridge the gap between abstract theory and real‑world experimentation.",
+    "summary_zh": "文中对比两本科学书籍，一本以可视化方式梳理人类科学史，另一部聚焦传感器硬件细节。两者相辅相成，既让读者在理论与实践之间自由穿梭，也展示优秀科普书籍需兼具美学与深度。",
+    "best_quote_en": "One of the things that I think has made the Make: Electronics series such a great success is that Charles Platt is a smart, endlessly curious, and details‑oriented electronics enthusiast.",
+    "best_quote_zh": "我认为让 Make: Electronics 系列如此成功的原因之一是 Charles Platt 是一位聪明、永不满足、注重细节的电子爱好者。"
+  },
+  {
+    "id": 436,
+    "title": "The Tim Ferriss Show Transcripts: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life (#860)",
+    "title_zh": "",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/04/08/michelle-khare-challenge-accepted-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-04-08",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 437,
+    "title": "Bill Ackman confident he’ll win over UMG shareholders to $64 billion bid, says Bolloré response was ‘music to my ears’",
+    "title_zh": "比尔·艾克曼自信能赢得UMG股东支持$640亿美元收购提议，波洛雷回应称为“音乐”，令其欣喜",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/bill-ackman-confident-hell-win-over-umg-shareholders-to-64-billion-bid-says-bollore-response-was-music-to-my-ears/",
+    "tags": [
+      "inspire",
+      "leadership",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2026-04-07",
+    "summary_en": "Bill Ackman’s $64 billion Universal Music Group bid illustrates how a high‑profile investor can leverage strategic stakeholder outreach to shape a mega‑acquisition narrative. By first courting UMG’s largest shareholder, the Bolloré Group, and then engaging the company’s CEO, Ackman demonstrates that securing a single pivotal shareholder can dramatically reduce regulatory friction and signal confidence to minority investors. The pitch hinges on a win‑win value proposition: UMG shareholders gain a liquidity event, employees unlock deep‑water options, and artists receive a sizeable payout from Spotify’s stake. Ackman also highlights governance reforms—appointing a new board with industry veterans and simplifying executive contracts—to assuage concerns about control changes. This case underscores the importance of transparent investor communication, disciplined capital allocation, and leveraging analogies (e.g., comparing UMG to Hilton) to build a compelling narrative. For investors, it offers a blueprint on how to structure an all‑share offer, align with key stakeholders, and manage post‑deal governance. For executives, it shows how a clear value narrative can mitigate opposition from a fragmented shareholder base. Overall, the article serves as a practical guide to orchestrating a large‑scale takeover with minimal resistance, blending strategic outreach, financial engineering, and governance restructuring.",
+    "summary_zh": "比尔·艾克曼的640亿美元收购提案展示了高知名度投资者如何通过精准的关键股东外联，降低监管摩擦，赢得股东支持。通过先与最大股东波洛雷沟通，再与CEO对话，他将交易包装为股东获利、员工期权兑现、艺术家收益等多赢局面，并强调治理改革以缓解控制变更风险。此案例强调透明沟通、资本配置与治理结构的协同作用，为大型并购提供可操作的蓝图。",
+    "best_quote_en": "\"Without Bolloré, we don’t have a transaction.\"",
+    "best_quote_zh": "\"没有波洛雷，我们就没有交易。\""
   }
 ]
