@@ -1,125 +1,5 @@
 [
   {
-    "id": 347,
-    "title": "Gar’s Tips & Tools – Issue #207",
-    "title_zh": "Gar 的提示与工具 – 第207期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-207/",
-    "tags": [
-      "guide",
-      "design",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2025-12-12",
-    "summary_en": "Gar’s Issue #207 is a rich tapestry of maker wisdom, blending practical tool recommendations, hands‑on tutorials, and reflective organization hacks. The article opens with a curated list of 2025 gift‑worthy tools—from the compact Olight iMini flashlight to the versatile DeWalt oscillating tool—each chosen for real‑world utility and personal resonance. A standout segment is David Riddle’s JB Weld guide, where meticulous preparation and texture‑focused bonding unlock the epoxy’s full potential; his methodical approach turns a simple adhesive into a reliable, repeatable process. The 3‑D‑printed tool showcase demonstrates how thoughtful design can solve everyday frustrations—hex‑key handles that eliminate torque loss, a one‑handed broom hook, and a magnet dispenser—illustrating the power of user‑centric prototyping. The history of the Allen hex key adds depth, reminding readers that even the most ordinary tools carry stories of safety and standardization. Finally, the author’s candid reflection on reorganizing a workshop cart turns a personal anecdote into a universal call to re‑evaluate workflow systems. Together, these insights encourage makers to blend knowledge, creativity, and deliberate organization to elevate both craft and efficiency.",
-    "summary_zh": "Gar 207期融合工具推荐、实用教程与工作坊整理技巧，既有Olight iMini闪光灯等精选礼物，也有JB Weld 的细致配合方法与3D打印实用工具。作者通过回顾艾伦六角扳手的历史，提醒我们即使最普通的工具也承载安全与标准化的故事。最后的整理经验分享，鼓励创作者用系统化思维提升工作效率与创作质量。",
-    "best_quote_en": "Preparation is everything.",
-    "best_quote_zh": "准备就是一切。"
-  },
-  {
-    "id": 348,
-    "title": "Essentials: How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
-    "title_zh": "《必备：如何构建、维护与修复肠道健康》| 朱斯汀·索恩伯格博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-build-maintain-repair-gut-health-justin-sonnenburg",
-    "tags": [
-      "learn",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-12-11",
-    "summary_en": "The episode dissects the gut microbiome as a dynamic, bidirectional interface between diet, environment, and the immune system, framing it as a central axis for mental and physical wellness. By mapping how antibiotics, Western diets, and industrial sanitation erode microbial diversity, the discussion shifts from abstract biology to actionable nutrition—fiber, fermented foods, pre‑ and probiotics—backed by peer‑reviewed evidence. The host’s framing is both instructive and persuasive, urging listeners to view gut health as a modifiable lifestyle lever rather than a fixed trait. The analysis also highlights the broader socio‑environmental narrative: how our modern “clean” habits paradoxically foster disease. The episode’s value lies in its evidence‑driven, practical roadmap for non‑experts, while its critical lens invites deeper inquiry into the microbiome’s role in systemic disease and the ethical implications of microbiome‑targeted therapeutics.",
-    "summary_zh": "这期节目把肠道菌群视为饮食、环境与免疫系统的双向桥梁，阐明其在身心健康中的核心地位。通过剖析抗生素、欧美高脂低纤维饮食与工业化卫生如何削弱微生物多样性，主持人将理论转化为可操作的营养策略——高纤维、发酵食品、益生元与益生菌，并以同行评议为依据。节目强调肠道健康是可调节的生活方式杠杆，而非固定属性，提醒听众关注现代“干净”习惯背后的疾病风险。其价值在于提供实用、循证的指南，并激发对微生物在系统性疾病及其伦理问题中的更深探讨。",
-    "best_quote_en": "Lifestyle factors such as antibiotics and Western‑style diets can damage gut diversity, and prebiotics or probiotics may help.",
-    "best_quote_zh": "生活方式因素，如抗生素和西式饮食，可能损害肠道多样性，益生元或益生菌可能有所帮助。"
-  },
-  {
-    "id": 349,
-    "title": "From UMG’s ‘robust remedy’ to address Downtown deal concern, to GoDigital Music’s Marc Anthony catalog buy… it’s MBW’s weekly round-up",
-    "title_zh": "从UMG的‘强力补救方案’解决Downtown交易关切，到GoDigital Music收购Marc Anthony目录…这就是MBW的每周综述",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/from-umgs-robust-remedy-to-address-downtown-deal-concern-to-godigital-musics-marc-anthony-catalog-buy-its-mbws-weekly-round-up/",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-12-12",
-    "summary_en": "This week’s MBW roundup spotlights pivotal moves reshaping the music business. Universal Music Group (UMG) filed a “robust remedy” with the European Commission to clear the final hurdle on its $775 million acquisition of Downtown Music Holdings, positioning the deal as a win for independent artists and fans alike. Meanwhile, GoDigital Music closed a $115 million purchase of several Latin‑music catalogs, including Marc Anthony’s publishing rights, adding 30,000+ new assets to its library. Spotify rolled out music‑video beta for Premium users in the U.S. and Canada, expanding its content offering beyond audio. Rostrum Pacific secured $150 million in credit to accelerate catalog acquisitions, underscoring the continued appetite for physical and digital rights. These headlines reveal a sector balancing regulatory scrutiny, strategic consolidation, and technological experimentation, urging stakeholders to stay agile at the intersection of law, creativity, and commerce.",
-    "summary_zh": "本周MBW综述聚焦音乐产业的关键动态：UMG为欧盟监管提交“强力补救方案”，GoDigital以1.15亿美元收购多份拉丁音乐目录并入Marc Anthony作品，Spotify在北美启动音乐视频功能，Rostrum Pacific获得1.5亿美元融资加速目录扩张。通过这些交易，行业巨头与新兴平台共同推动内容生态多元化与创新，提醒从业者关注监管、版权与技术交叉点。",
-    "best_quote_en": "Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.",
-    "best_quote_zh": "我们提交了一个强有力的补救方案，全面解决了欧盟委员会唯一剩余的关切。"
-  },
-  {
-    "id": 350,
-    "title": "The Axiom of Choice is Not Controversial",
-    "title_zh": "选择公理并非有争议",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/t2wq3znQuPP66DpMT/the-axiom-of-choice-is-not-controversial",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-14",
-    "summary_en": "The article demystifies the Axiom of Choice (AC) by dismantling the most common objections—Banach‑Tarski and Vitali paradoxes—showing that AC merely supplies the language to formalise already‑existing non‑constructive phenomena. It argues that the real power of AC lies in enabling deep structural results: Tychonoff’s theorem, the existence of bases for all vector spaces, algebraic closures, and the compactness theorem in logic. By contrasting AC with weaker variants, the author stresses that rejecting AC would create far greater pathologies and hinder progress in modern mathematics. The piece is a persuasive, accessible guide that reframes AC from a controversial principle to a practical, indispensable tool, urging readers to abandon unfounded fears and embrace its constructive utility. It invites mathematicians to see AC not as a source of paradox but as a bridge to elegant, far‑reaching theorems.",
-    "summary_zh": "文章以清晰的逻辑拆解了选择公理的两大争议——Banach‑Tarski与Vitali悖论，指出AC只是让我们能够把已存在的非构造性现象形式化。它强调AC在证明Tychonoff定理、向量空间基、代数闭包以及逻辑紧致性定理等关键结果中的不可替代作用。作者对比更弱的选择变体，警示若否决AC会导致更严重的数学病态，阻碍现代数学的发展。整篇文章既是说服性的辩护，也是易懂的指南，呼吁读者摒弃无端的恐惧，拥抱AC的实用价值，将其视为通往优雅、深远定理的桥梁。",
-    "best_quote_en": "The axiom of choice simply says that given any indexed collection of (non-empty) sets, you can make one arbitrary choice from each set.",
-    "best_quote_zh": "选择公理只是让你把自由群的悖论行为应用到球面上。"
-  },
-  {
-    "id": 351,
-    "title": "Caught in the “Ceasefire”",
-    "title_zh": "被困在《停火》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/caught-in-the-c-span-ceasefire",
-    "tags": [
-      "solve",
-      "politics",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-12-13",
-    "summary_en": "The piece dissects C‑SPAN’s new “Ceasefire” show—an earnest attempt to model bipartisan civility amid America’s fractured media climate—against the backdrop of its predecessor, CNN’s “Crossfire.” By weaving anecdotes from high‑profile debates, the author argues that civility, while appealing, risks conflating friendliness with productive disagreement. He points out that true debate thrives on passion, theatricality, and rigorous testing of ideas, not merely on calm consensus. The article also surveys the rise of online “debate‑me” formats and their potential to both illuminate radical positions and amplify toxic rhetoric. Through a mix of historical context, contemporary examples, and critical reflection, the piece invites readers to question whether the current “Ceasefire” model truly serves democratic discourse or merely offers a sanitized façade. It ultimately calls for a more nuanced, evidence‑driven approach that preserves the adversarial spirit necessary to challenge entrenched narratives.",
-    "summary_zh": "文章通过对C‑SPAN新秀《停火》与CNN旧秀《交叉火》对比，探讨了在分裂媒体环境下，真诚的两党合作是否能真正服务民主。作者认为，单纯的礼貌可能掩盖了激烈辩论的必要性，呼吁在保持对立精神的同时，注重证据与批判。",
-    "best_quote_en": "Debate itself has always had a capacity for coarseness, and to elevate contentious interlocutors.",
-    "best_quote_zh": "辩论本身一直具有粗俗的能力，并能提升有争议的对话者。"
-  },
-  {
     "id": 352,
     "title": "Unexplained & Unusual",
     "title_zh": "未解之谜与奇异",
@@ -2368,5 +2248,121 @@
     "summary_zh": "本期Tim Ferriss Q&A聚焦即将到来的AI浪潮，强调离线优势与人际关系的不可替代性，并提出勇气是一种可学习的技能，需通过实践培养。通过案例与实际工具，他为受众提供了在AI主导时代保持竞争力的实用策略，兼具启发性与可操作性。",
     "best_quote_en": "Courage is learned, not innate; it is built through practice, not theory.",
     "best_quote_zh": "勇气是可学习的，而非天赋；它是通过实践而非理论构建的。"
+  },
+  {
+    "id": 447,
+    "title": "The Top of My Todo List",
+    "title_zh": "我的待办清单之首",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/todo.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式"
+    ],
+    "date": "2026-04-11",
+    "summary_en": "The article distills Bronnie Ware’s poignant list of the dying’s biggest regrets into a concise, practical guide for living a fuller life. By reframing each regret as a proactive command—“Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy”—the author turns passive caution into actionable daily intent. The insight that most regrets stem from omissions rather than commissions challenges the reader to examine default behaviors and design intentional habits. This piece is both a reflective exercise and a motivational prompt, urging readers to prioritize meaning over routine. It resonates across cultures, offering a universal roadmap to reduce regret by consciously choosing to live authentically. The simplicity of embedding the commands in a daily to‑do list transforms abstract wisdom into an enduring routine, making the advice both memorable and executable.",
+    "summary_zh": "作者把布朗妮·华尔关于临终者十大遗憾的深刻洞见，转化为五条日常行动指令：不忽视梦想、不熬夜工作、不压抑真情、培养友谊、保持快乐。强调遗憾往往源于默认的忽略，提醒人们主动设定生活默认值。将指令列入每日待办清单，使高尚理念落地实践，兼具反思与激励，适合任何渴望更加充实生活的读者。",
+    "best_quote_en": "Don’t be a cog.",
+    "best_quote_zh": "不要做齿轮。"
+  },
+  {
+    "id": 448,
+    "title": "Announcing ILIAD 2026",
+    "title_zh": "宣布 ILIAD 2026",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/tTP49RgCiHGSCpYA6/announcing-iliad-2026-1",
+    "tags": [
+      "update",
+      "design",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究"
+    ],
+    "date": "2026-04-11",
+    "summary_en": "The article announces the third iteration of ILIAD, a free, participant‑driven conference focused on the mathematical foundations of AI alignment. Scheduled for August 3‑7, 2026 in Berkeley, it will bring together a select group of researchers—such as Richard Ngo, Abram Demski, and Adam Goldstein—to propose and lead sessions on cutting‑edge topics like Singular Learning Theory, Agent Foundations, and Scalable Oversight. The unconference format promises an organic, collaborative atmosphere that could spark novel dialogues and interdisciplinary breakthroughs. By offering travel subsidies on a needs basis, ILIAD signals an inclusive ethos, aiming to lower barriers for emerging scholars. The piece invites early applications and underscores the conference’s role as a premier gathering for theoretical alignment work. This announcement not only informs but also inspires the community to engage, innovate, and shape the future of safe AI.",
+    "summary_zh": "这篇文章宣布了第3届 ILIAD AI 对齐研讨会，强调其免费、参与式的会议模式，邀请知名研究者讨论尖端理论，并提供必要的旅行资助，体现了对学术包容性的重视，激励学者共同推进安全 AI 的未来。",
+    "best_quote_en": "‘We believe that this is the best way to release the latent creative energies in everyone attending.’",
+    "best_quote_zh": "‘我们相信这是释放每位参与者潜在创造力的最佳方式。’"
+  },
+  {
+    "id": 449,
+    "title": "Happiest Countries/Monthly Flight Pass/Favorite US Airports",
+    "title_zh": "幸福之国/每月航班通行证/美国最爱机场",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/happiest-countries-monthly-flight-pass-favorite-us-airports/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-02",
+    "summary_en": "The article weaves together three seemingly disparate topics—global happiness rankings, practical travel logistics, and airport preferences—into a concise weekly digest that appeals to a broad, curious audience. The opening section highlights Finland’s continued reign as the world’s happiest nation, attributing the trend to high taxes and winter darkness while critiquing the role of social media, especially image‑heavy platforms like Instagram and TikTok. This juxtaposition invites readers to reflect on the paradox of contentment amid austerity and digital distraction, offering a subtle call to examine personal habits. The next two parts shift to tangible travel hacks: a quick guide to locating a rental car’s fuel filler, and a review of Wizz Air’s monthly subscription plan, which presents a cost‑effective model for frequent flyers. Finally, the piece showcases a list of U.S. airports that score high on traveler satisfaction, encouraging a strategic choice of smaller hubs to avoid congestion. The overall tone is pragmatic yet thought‑provoking, blending data‑driven insights with actionable travel tips. It serves as a micro‑case study of how lifestyle, technology, and infrastructure intersect to shape daily experiences, prompting readers to consider both the macro‑level happiness metrics and the micro‑level choices that influence their own well‑being.",
+    "summary_zh": "文章以芬兰持续领跑幸福指数为引子，探讨税收与冬季黑暗与社交媒体的奇妙关系，随后给出租车加油、Wizz Air 月费订阅与美国小型机场的实用攻略，既有宏观洞察，又兼具日常操作，提醒读者从大局与细节并重。",
+    "best_quote_en": "“Paying high taxes and spending half the year in cold darkness is a recipe for happiness.”",
+    "best_quote_zh": "“缴纳高税并且在寒冷黑暗中度过半年是幸福的秘诀。”"
+  },
+  {
+    "id": 450,
+    "title": "-",
+    "title_zh": "我对AI未来的思考",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/2279512",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-04-10",
+    "summary_en": "In this candid reflection, an early OpenAI executive shares personal experiences, moral convictions, and a sober assessment of AI’s societal impact. He frames AI as a democratizable, transformative force that must be paired with robust safety, inclusive governance, and economic transition policies. His narrative is both a defensive response to incendiary criticism and a proactive roadmap: resist monopolistic control, champion individual empowerment, and embed AI within democratic processes. He acknowledges past mistakes—conflict avoidance and board missteps—yet celebrates the company’s evolution from a scrappy startup to a responsible platform. The piece invites readers to consider how personal agency, corporate responsibility, and public policy intersect in the age of rapid technological change. It balances optimism about AI’s potential with realistic warnings about fear, power concentration, and the need for collective resilience. For practitioners, policymakers, and curious observers, the article is a call to action: shape a future where AI expands human capability while safeguarding shared values.\n\n",
+    "summary_zh": "这位前OpenAI高管在亲身经历与社会舆论中，深刻阐述了AI的巨大潜力与治理挑战。他强调AI必须去中心化、民主化，呼吁将技术置于公共治理之下，并坦诚承认过去的冲突与失败。文章兼具警醒与激励，提醒我们在技术飞速发展的时代，个人责任与制度建设同等重要。对于研究者、企业家及政策制定者而言，它是一份既具洞察力又富有行动号召的指南，提醒我们共同绘制安全、包容的AI未来。",
+    "best_quote_en": "‘Once you see AGI you can’t unsee it.’",
+    "best_quote_zh": "‘一旦看到AGI，你就无法再忘记它。’"
+  },
+  {
+    "id": 451,
+    "title": "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove",
+    "title_zh": "激素如何塑造性取向与行为 | 马克·布雷德洛夫博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-hormones-shape-sexual-orientation-and-behavior-marc-breedlove",
+    "tags": [
+      "update",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-03-30",
+    "summary_en": "Dr. Marc Breedlove’s interview delves into the biological underpinnings of sexual orientation, spotlighting prenatal testosterone’s role in brain wiring and the subtle fingerprints—literally—of hormone exposure. By linking 2D:4D finger ratios, older brother counts, and congenital hormone disorders to orientation patterns, he bridges molecular endocrinology with real‑world behavior. The discussion challenges the simplistic nature‑vs‑nurture debate, illustrating how genetic, hormonal, and environmental threads weave together to shape attraction and partner choice. It also examines how these insights can inform clinical understanding of intersex conditions and societal narratives around LGBTQ identities. The conversation invites listeners to reconsider assumptions about fixed identities, underscores the plasticity of the adult brain, and highlights the importance of empirical data in debunking myths. Ultimately, it offers a nuanced, evidence‑based framework that can guide researchers, clinicians, and curious individuals alike toward a more compassionate, scientifically grounded view of human sexuality.",
+    "summary_zh": "布雷德洛夫博士用生物学视角拆解性取向的奥秘，探讨胎儿激素与大脑发育、指节比例与兄弟数量等指标如何共同塑造人类情感。对传统的“天生”与“后天”争论提出平衡视角，并通过临床案例说明激素失衡如何影响性别认同。此访谈既具学术深度，又不失普及性，促使公众以更客观、同情的态度理解 LGBTQ 群体。",
+    "best_quote_en": "“Sexual orientation is not a choice; it is the result of genes, hormones, and life experiences interacting in a complex, dynamic system.”",
+    "best_quote_zh": "“性取向不是选择，而是基因、激素与生活经历在复杂动态系统中相互作用的结果。”"
   }
 ]
