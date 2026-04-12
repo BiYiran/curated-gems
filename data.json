@@ -1,125 +1,5 @@
 [
   {
-    "id": 352,
-    "title": "Unexplained & Unusual",
-    "title_zh": "未解之谜与奇异",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/unexplained-unusual/",
-    "tags": [
-      "learn",
-      "science",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "The article blends two complementary worlds—curated science‑tourism hotspots and a vast, unfiltered catalogue of anomalies.  It invites readers to physically experience complex engineering marvels like the Solucar PS10 solar receiver or Taipei 101’s tuned‑mass pendulum, while simultaneously confronting the epistemic humility that underpins science: every “unexplained” observation is a potential doorway to new theory.  By presenting anomalies without interpretation, the piece champions an open‑ended, data‑driven mindset, echoing William James’s exhortation that “exceptional observations” renew science.  The juxtaposition of tangible sites and abstract anomalies encourages a broader appreciation of the unknown, urging scientists, educators, and curious travelers alike to seek out the edges of knowledge.  The narrative’s strength lies in its dual framing—actionable travel recommendations paired with a reminder that the greatest discoveries often begin with a question, not a definitive answer.",
-    "summary_zh": "文章将科学旅游热点与无序异常目录并置，既提供实地体验的可操作性，又提醒科学的谦逊与未知的价值。它通过实景展示与未解现象的开放记录，鼓励读者以数据驱动、探索未知的心态，重新审视科学的边界。",
-    "best_quote_en": "“Round about the accredited and orderly facts of every science there ever floats a sort of dust‑cloud of exceptional observations… Anyone who will steadily look after the irregular phenomena will renovate his science.”",
-    "best_quote_zh": "“在每门科学的公认秩序事实周围，总会漂浮着一片异常观测的尘埃云……任何持续关注不规则现象的人都会改造自己的科学。”"
-  },
-  {
-    "id": 353,
-    "title": "Essentials: Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging",
-    "title_zh": "基础要点：健康饮食与饮食障碍——厌食症、贪食症与暴食症",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-healthy-eating-and-eating-disorders-anorexia-bulimia-binging",
-    "tags": [
-      "learn",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-07-17",
-    "summary_en": "In the latest Huberman Lab Essentials episode, Andrew Huberman demystifies the neurobiology of appetite and the clinical realities of eating disorders. He dissects how leptin, dopamine, and reward circuitry orchestrate hunger signals, then pivots to the devastating cascade that turns normal eating into anorexia, bulimia, or binge‑eating disorder. The talk balances rigorous science with compassionate case studies, underscoring that disrupted circadian rhythms, hormonal imbalances, and maladaptive habits can precipitate full‑blown pathology. Huberman also surveys evidence‑based interventions—family‑based therapy, CBT, pharmacotherapy—and stresses the importance of early, multidisciplinary care. For listeners, the episode offers a dual benefit: actionable tools to fine‑tune personal nutrition and a sobering, data‑driven framework for recognizing and treating eating disorders. The content is especially relevant for clinicians, nutritionists, and anyone seeking to bridge the gap between brain science and real‑world recovery.",
-    "summary_zh": "Huberman 在最新的 Essentials 访谈中，用神经科学阐释食欲调控，剖析厌食、贪食与暴食的生理根源。结合激素、奖励回路与习惯循环，他揭示饮食失调的形成机制，并评估 CBT、家庭疗法及药物治疗的临床证据。此节目兼具科学严谨与人文关怀，为临床医师、营养师及公众提供可操作的营养调控方法与早期干预思路，搭建大脑科学与康复实践的桥梁。",
-    "best_quote_en": "I explain how brain circuits, hormones such as leptin and reward systems interact to regulate appetite, satiety and overall eating behaviors.",
-    "best_quote_zh": "我解释大脑回路、激素（如瘦素）以及奖励系统如何相互作用，调节食欲、饱腹感和整体饮食行为。"
-  },
-  {
-    "id": 354,
-    "title": "UMG submits ‘robust remedy’ to EU regulator to address ‘only remaining concern’ about $775m Downtown deal",
-    "title_zh": "UMG提交“强有力补救措施”回应欧盟监管机构对775亿美元Downtown收购的“唯一剩余关切”",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/umg-submits-robust-remedy-to-eu-regulator-to-address-only-remaining-concern-about-775m-downtown-deal/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-12-12",
-    "summary_en": "Universal Music Group’s latest filing with the European Commission marks a pivotal moment in the EU’s scrutiny of its $775 million takeover of Downtown Music Holdings. By presenting a “robust remedy,” UMG signals its willingness to address the single regulatory hurdle—access to proprietary data housed in Downtown’s Curve royalty‑accounting platform that could tilt competition in wholesale distribution and A&L services. The remedy, touted as comprehensive, underscores the industry’s high‑stakes battle over data dominance and the protection of independent labels. For practitioners, the case illustrates how antitrust authorities evaluate data‑centric competitive advantages and the kinds of concessions that can satisfy them. It also offers a real‑world blueprint for large music conglomerates navigating EU merger reviews, highlighting the need for transparent, data‑driven justifications and the importance of stakeholder engagement. Ultimately, the outcome will reverberate across the global music economy, shaping the future of artist services and distribution ecosystems.",
-    "summary_zh": "UMG向欧盟委员会提交“强有力补救措施”，回应其对775亿美元收购Downtown的唯一关切。此举凸显数据垄断与竞争审查的交锋，为音乐行业提供合规与数据治理的实战案例。",
-    "best_quote_en": "\"Following constructive conversations with the European Commission, we have submitted a robust remedy that comprehensively addresses the Commission’s only remaining concern.\"",
-    "best_quote_zh": "\"在与欧盟委员会进行建设性对话后，我们已提交了一项强有力的补救措施，全面解决了委员会仅剩的关注点。\""
-  },
-  {
-    "id": 355,
-    "title": "When bits of optimization imply bits of modeling: the Touchette-Lloyd theorem",
-    "title_zh": "当优化的比特暗示建模的比特：Touchette‑Lloyd 定理",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/6aqPCfp3wCk6CKW5J/when-bits-of-optimization-imply-bits-of-modeling-the",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-15",
-    "summary_en": "The Touchette‑Lloyd theorem formalises a deep link between optimisation and information: any policy that achieves more entropy reduction than a purely blind controller must acquire a proportional amount of mutual information with the environment. By distinguishing blind (information‑free) and sighted (information‑bearing) policies, the result provides a quantitative selection theorem—\"optimisation implies modelling\"—and offers a concrete bound: ΔH≤ΔH_max‑blind+I(X;A). The article unpacks this inequality with pedagogical examples, such as a five‑bit string guessing game, illustrating how each extra bit of state knowledge translates into a predictable gain in entropy reduction. It situates the theorem within the broader agent‑structure problem, linking entropy minimisation to world‑model construction, and contrasts the result with the Good Regulator Theorem and the internal‑model principle. The discussion highlights practical implications for control design, the limits of mutual‑information‑only strategies, and opens avenues for future work on non‑deterministic dynamics and generalised reward‑maximisation frameworks.",
-    "summary_zh": "Touchette‑Lloyd 定理揭示了优化与信息之间的定量关系：任何比盲目控制器更能降低熵的策略，必须从环境中获取相应的互信息。作者通过五位二进制猜谜游戏等实例，展示了每多一比特状态知识可带来多大熵降低，并将该结果放在代理结构问题与世界模型构建的框架内。该定理与良好调节器定理、内部模型原理等理论相呼应，为控制系统设计提供了新的信息‑理论视角。",
-    "best_quote_en": "For each bit of entropy reduction (beyond what the environment does on its own) the policy must use an additional bit of information from the state X.",
-    "best_quote_zh": "对于每一比特的熵降低（超出环境自身所能做到的），策略必须从状态 X 中使用额外的一比特信息。"
-  },
-  {
-    "id": 356,
-    "title": "In the Wake of Australia’s Hanukkah Beach Massacre",
-    "title_zh": "澳大利亚哈努卡海滩大屠杀之后",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/in-the-wake-of-australias-hanukkah-beach-massacre",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-15",
-    "summary_en": "The article is a Q&A with Michael Visontay that unpacks how a recent gun‑men attack on Bondi Beach has crystallised a long‑standing rise in antisemitism in Australia. Visontay, himself a Holocaust‑survivor descendant, frames the country’s Jewish community as a highly vigilant, survivor‑driven collective that has historically responded forcefully to even low‑level hate. He links the surge in incidents to the October 2023 Hamas attacks and the subsequent politicisation of Israel‑Palestine debate. The piece exposes how criticism of Israel is weaponised as a proxy for anti‑Jew sentiment, especially through the concept of Zionism, and how Australian policy attempts to balance support for Muslims with protection of Jews. The interview raises questions about the effectiveness of government action and the difficulty of separating legitimate political critique from hate. It offers a nuanced, expert‑led analysis that is both contextual and cautionary, urging readers to recognise the thin line between criticism and antisemitism and to consider how policy can better safeguard minority communities.",
-    "summary_zh": "文章通过与犹太社区学者的访谈，揭示了澳大利亚反犹主义上升与巴以冲突的关联。受害者多为海滩庆祝节日的犹太人，突显社区高度警觉。访谈指出，批评以色列往往被武器化为对犹太人的攻击，尤其是以犹太复国主义为标志。政府在支持穆斯林与保护犹太人之间的平衡被质疑，行动是否足够也成为讨论焦点。此文以专家视角提供深度分析，提醒读者辨别政治批评与仇恨的细微界限，并呼吁更有效的政策来保护少数族群。",
-    "best_quote_en": "The recognition was probably premature and not necessarily helpful, but I think that was the reason it occurred when it did.",
-    "best_quote_zh": "我认为政府的回应总体上是适当的。"
-  },
-  {
     "id": 357,
     "title": "MyTaxReceipt / Digital passport / 2025 photo dump",
     "title_zh": "MyTaxReceipt / 数字护照 / 2025照片合集",
@@ -2364,5 +2244,123 @@
     "summary_zh": "布雷德洛夫博士用生物学视角拆解性取向的奥秘，探讨胎儿激素与大脑发育、指节比例与兄弟数量等指标如何共同塑造人类情感。对传统的“天生”与“后天”争论提出平衡视角，并通过临床案例说明激素失衡如何影响性别认同。此访谈既具学术深度，又不失普及性，促使公众以更客观、同情的态度理解 LGBTQ 群体。",
     "best_quote_en": "“Sexual orientation is not a choice; it is the result of genes, hormones, and life experiences interacting in a complex, dynamic system.”",
     "best_quote_zh": "“性取向不是选择，而是基因、激素与生活经历在复杂动态系统中相互作用的结果。”"
+  },
+  {
+    "id": 452,
+    "title": "From fat transplants to LED mittens: how the fear of ‘old lady hands’ mobilised the beauty industry",
+    "title_zh": "从脂肪移植到LED手套：‘老手”恐惧如何驱动美容业",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/apr/09/from-fat-transplants-to-led-mittens-how-the-fear-of-old-lady-hands-mobilised-the-beauty-industry",
+    "tags": [
+      "solve",
+      "medicine",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-04-09",
+    "summary_en": "The Guardian piece traces how a cultural fixation on the ‘old lady hand’ has propelled a burgeoning hand‑care sector, mirroring the long‑established focus on faces. It juxtaposes the modesty of hand‑care’s origins—simple moisturisers and sanitiser—with the recent influx of high‑tech, high‑price interventions: LED mitts, microcurrent gloves, laser pigment removal, and even fat‑transfer surgery. The article argues that the pandemic’s hand‑washing craze amplified awareness of hand‑dryness, creating a niche for premium ingredients typically reserved for facial products. It highlights the industry’s strategic positioning of hands as a status symbol, noting sales growth of $724 m globally in 2022. The piece also interrogates whether the surge reflects genuine scientific progress or a profit‑driven fashion wave, underscoring the need for holistic ‘harmony’ across face, neck, chest and hands. Readers gain insight into market drivers, consumer psychology, and emerging trends, while questioning the sustainability of a beauty model that commodifies every exposed body part.",
+    "summary_zh": "文章揭示‘老手恐惧’如何催生手部护肤热潮，既是科技进步，也是营销手段。",
+    "best_quote_en": "\"You don’t have pigmentation. You’re not covered in sunspots. But the veins and tendons testify to a loss of volume.\"",
+    "best_quote_zh": "“你的手没有色素沉着，也没有晒斑，但静脉和腱子证明了体积丢失。”"
+  },
+  {
+    "id": 453,
+    "title": "Writing and Speaking",
+    "title_zh": "写作与演讲",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/speak.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-12",
+    "summary_en": "In this reflective essay, the author contrasts the cognitive demands of speaking and writing, arguing that while writing is a fertile ground for developing ideas, speaking often forces speakers to prioritize engagement over depth. The narrative traces his personal evolution—starting from awkward conference talks to observing charismatic speakers—and reveals a paradox: the very practice of delivering speeches can erode the time available for idea refinement. He critiques the common practice of rehearsing prewritten scripts, noting the trade‑off between smooth delivery and creative spontaneity, and highlights how audience size modulates the quality of interaction. Ultimately, the piece posits that talks, though less conducive to generating ideas, serve powerful motivational and conversational purposes, especially when audiences are small. The essay is a thoughtful, anecdote‑rich exploration that invites readers to reconsider the value of spoken communication versus written expression.",
+    "summary_zh": "作者在文章中反思演讲与写作的差异，指出写作更利于深思熟虑，演讲则强调即时互动与情感共鸣。他揭示练习稿本会削弱思维空间，并讨论听众规模如何影响演讲效果。最终，演讲虽不易孕育新意，却能激发动力与近乎对话的体验。",
+    "best_quote_en": "\"Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction.\"",
+    "best_quote_zh": "“成为一个真正好的演讲者并不只是与拥有好主意正交，而在许多方面会把你推向相反的方向。”"
+  },
+  {
+    "id": 454,
+    "title": "You can’t trust violence",
+    "title_zh": "你无法信任暴力",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Sih2sFHEgusDEuxtZ/you-can-t-trust-violence",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-04-12",
+    "summary_en": "The article interrogates the paradoxical allure of violence within AI‑safety activism, weaving empirical evidence from nonviolent resistance studies with contemporary incidents involving AI firms. It argues that violence—whether directed at people or property—rarely advances policy goals and often backfires, providing justification for repression and eroding public trust. The author cautions against conflating isolated violent acts with the broader movement, urging continued advocacy of nonviolence and constructive engagement. This nuanced critique invites readers to reassess assumptions about radical action, highlighting the strategic superiority of peaceful dissent and the sociopolitical conditions that precipitate violence. By framing AI safety as a shared societal risk rather than an existential threat, the piece offers a compelling case for policy dialogue over extremism, underscoring the need for transparent, inclusive governance.",
+    "summary_zh": "作者通过案例和研究，揭示暴力在AI安全运动中的局限，强调非暴力更能实现政策目标。文章呼吁以透明与包容的治理方式对抗AI风险，提醒公众勿将少数暴力事件误读为运动主流。",
+    "best_quote_en": "Violence is not a realistic way to stop AI. Terrorism against AI supporters would backfire in many ways.",
+    "best_quote_zh": "暴力并非阻止AI的现实手段。针对AI支持者的恐怖主义只会产生多重负面效应。"
+  },
+  {
+    "id": 455,
+    "title": "Sam Altman’s Trust Issues at OpenAI",
+    "title_zh": "Sam Altman的信任问题",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/sam-altmans-trust-issues-at-openai",
+    "tags": [
+      "solve",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2026-04-10",
+    "summary_en": "The New Yorker’s deep dive into Sam Altman’s recent pivot—from publicly opposing Pentagon use of AI to swiftly negotiating a deal that could enable autonomous weaponry—highlights a stark tension between the promise of safe AGI and the realities of corporate politics. By weaving interviews with over a hundred insiders, the piece exposes a pattern of contradictory stances that underscores the fragility of trust in AI leadership. The narrative raises critical questions about accountability, the influence of government contracts on tech companies, and the ethical boundaries that should govern AI deployment. It serves as a cautionary case study for policymakers, investors, and technologists, reminding us that visionary rhetoric must be matched by transparent, consistent action if AI is to be a force for good. The article’s investigative rigor and comparative framing—against the backdrop of Oppenheimer—add depth, urging readers to scrutinize the moral calculus behind tech giants’ decisions.",
+    "summary_zh": "新《纽约客》深入剖析Sam Altman先后反对再支持美军使用AI，揭示了AI安全与企业政治的激烈冲突。通过一百多位受访者的访谈，文章呈现出其矛盾立场背后的信任危机，提醒政策制定者与投资者警惕技术领袖的道德边界。",
+    "best_quote_en": "\"Sam Altman’s rise to power and his founding of OpenAI were predicated on placing safety above other concerns in developing artificial general intelligence.\"",
+    "best_quote_zh": "\"Sam Altman的崛起和OpenAI的创立是以安全为首要考虑而非其他利益为前提的。\""
+  },
+  {
+    "id": 456,
+    "title": "What’s in my NOW? — Elisa Michelet",
+    "title_zh": "我的现在里有什么？ — Elisa Michelet",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-elisa-michelet/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-04-01",
+    "summary_en": "Elisa Michelet’s “What’s in my NOW?” is a curator’s diary that blends personal practice with a practical toolkit. By exposing the physical objects that shape her creative workflow—ranging from a weighty A5 notebook to a vintage Olympus AF-1 camera—she invites readers to examine the tactile and psychological rituals that enable productivity. The piece also bridges the physical to the digital, spotlighting niche online resources like Only 8’s street‑name database and the Never Too Small YouTube channel for micro‑architecture. The article’s tone is reflective yet instructional, offering a roadmap for artists, designers, and curious creatives who wish to align tools with intention. It underscores how mindful selection of everyday objects can foster focused practice, creativity, and sustainability, while the recurring motif of “coming back” hints at a cyclical creative process. The piece is a subtle manifesto that the right tools are not just functional—they are inspirational anchors that guide practice, learning, and personal growth.",
+    "summary_zh": "Elisa Michelet 通过日记式的工具清单，展示了创作与生活的交汇点。她将手帐、老相机、无品牌袋子与 Only 8、Never Too Small 等数字资源结合，鼓励读者用有意识的选择来激发创意与可持续生活。她的叙事提醒我们：工具不仅是工具，更是心灵的锚点，赋予创作以节奏与归属。",
+    "best_quote_en": "\"Coming back — so many pathways through the spring grass.\"",
+    "best_quote_zh": "“回归——春草中的无数路径。”"
   }
 ]
