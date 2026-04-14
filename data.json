@@ -1,101 +1,5 @@
 [
   {
-    "id": 362,
-    "title": "A Rationalist Christmas",
-    "title_zh": "理性主义的圣诞节",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/zey4A6mQ9kr9kr4mm/a-rationalist-christmas",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-12-16",
-    "summary_en": "The piece is a reflective, practical manifesto that re‑frames Christmas as a mindful family ritual rather than a consumer frenzy. The author dismantles the myth of “gift‑rich” holiday by advocating a minimalist, intentional gifting system: a curated catalogue of durable toys, books, and meaningful household items, and a single, thoughtful stocking. He also confronts the Santa narrative, choosing transparency over folklore to protect children’s trust. The narrative is rich with concrete, actionable steps—like turning a houseplant into a living tree, or swapping sugary treats for fermented soybeans—that illustrate how joy can be found in simplicity. By foregrounding togetherness, gratitude, and environmental stewardship, the author offers a case study that invites parents to re‑design holiday rituals in a way that nurtures both children’s imagination and family bonds. It’s a call to re‑evaluate tradition through a rational lens, balancing sentiment with practicality.",
-    "summary_zh": "文章以理性视角重塑圣诞节，将其从消费狂欢转变为家庭温馨的仪式。作者提出简约礼物清单、透明圣诞老人观念，以及用家居植物装饰树木、用纳豆代替糖果等具体做法，强调共同、感恩与环保。通过案例式叙述，他邀请家长重新设计节日传统，让欢乐与责任并存，既满足孩子想象，也维护亲情与信任。",
-    "best_quote_en": "We frame him as a metaphor for everyone who gives something to someone else on Christmas Day.",
-    "best_quote_zh": "我们把圣诞老人当成一个隐喻，象征每个人在圣诞节给别人东西的人。"
-  },
-  {
-    "id": 363,
-    "title": "Want to Talk to Zohran Mamdani? Get in Line",
-    "title_zh": "想与佐尔汉·马姆达尼对话？请排队",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/want-to-talk-to-zohran-mamdani-get-in-line",
-    "tags": [
-      "analyze",
-      "politics",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2025-12-15",
-    "summary_en": "In a theatrical twist, New York’s mayor‑elect Zohran Mamdani staged a 12‑hour “The Mayor Is Listening” event at the Museum of the Moving Image, echoing Marina Abramović’s silent performance. By offering 3‑minute one‑on‑one slots to a curated crowd of 142 New Yorkers, Mamdani sought to turn the often‑impersonal mayoral office into a public forum. The event highlighted the paradox of modern politics: the need for personal connection versus the constraints of a busy agenda. Participants ranged from rent‑stabilized residents to biotech investors, each voicing concrete policy concerns—affordable housing, construction schedules, digital privacy—yet the time limit forced many to truncate their messages. The mayor’s own admission of fatigue underscores the logistical strain of such performative outreach. The piece probes whether this spectacle can translate into substantive policy, or merely becomes a marketing stunt that reinforces a performative identity. It invites readers to question the efficacy of symbolic gestures in governance and the real‑world impact of “meeting the public” in a controlled, staged setting.",
-    "summary_zh": "纽约市新任市长佐尔汉·马姆达尼在移动影像博物馆举办了12小时的“市长在倾听”活动，借鉴阿布拉莫维奇的沉默表演。通过短短三分钟的一对一会面，他试图把本应冷漠的行政角色转变为公众论坛。参会者多样，议题涵盖住房、施工、数字隐私，但时间限制让许多人无法完整表达。市长坦言疲惫，凸显此类表演性举措的操作难度。文章从象征与实质的角度，质疑这种“面对面”是否能真正推动政策，还是仅仅成为营销噱头。它提醒读者思考公共参与的真实性与治理效果。",
-    "best_quote_en": "I’ve been in that room for fifteen hours! He said.",
-    "best_quote_zh": "我在那间房间呆了十五个小时！"
-  },
-  {
-    "id": 364,
-    "title": "Anatomy",
-    "title_zh": "解剖",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/anatomy/",
-    "tags": [
-      "guide",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-15",
-    "summary_en": "The article is a curated tour through the world of anatomical reference, from Frank Netter’s iconic Atlas to Tom Myers’ revolutionary Anatomy Trains. It balances the awe of high‑resolution illustration with the intellectual curiosity of whole‑systems thinking, showing how anatomy can inform movement, design, and even everyday understanding of the body’s mechanics. Readers learn not only about classic atlases but also about the emerging concept of myofascial meridians—long, tension‑bearing lines that weave through the body’s musculature. The piece underscores the value of tangible models, from life‑size skeletons to 3‑D replicas, and highlights the pedagogical power of hands‑on exploration. It invites educators, clinicians, and curious amateurs alike to re‑imagine anatomy as a dynamic, interconnected system rather than a static set of parts. The article’s critical lens on terminology and accessibility reminds us that even groundbreaking ideas must be communicated clearly to reach wider audiences.",
-    "summary_zh": "文章从弗兰克·内特的经典Atlas到汤姆·迈尔斯的《Anatomy Trains》，引领读者探索解剖学的奇观与系统思维。它展示了肌肉筋膜经线的概念，强调解剖学是动态互联的整体，而非孤立部件。通过对手工模型、3D复制品的评述，强调实践学习的力量。文章提醒我们，创新想法需易懂，才能触及更广泛受众。",
-    "best_quote_en": "Anatomy Trains is a map of our musculoskeletal anatomy. It’s intended for hands‑on and movement bodyworkers but is a great read for anyone interested in structure, whole‑systems thinking, and brilliant design.",
-    "best_quote_zh": "《Anatomy Trains》是我们肌肉骨骼解剖的地图。它旨在服务于实践性和运动身体工作者，但对于任何对结构、整体系统思维和卓越设计感兴趣的人都是极好的阅读材料。"
-  },
-  {
-    "id": 365,
-    "title": "Best of 2025: Don’t call it morning sickness: ‘At times in my pregnancy I wondered if this was death coming for me’ – podcast",
-    "title_zh": "2025最佳播客：别叫它晨吐——‘有时我怀孕时会想这是否是死亡来临’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/news/audio/2025/dec/17/best-of-2025-dont-call-it-morning-sickness-at-times-in-my-pregnancy-i-wondered-if-this-was-death-coming-for-me-podcast",
-    "tags": [
-      "learn",
-      "medicine",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-12-17",
-    "summary_en": "In a candid audio long‑read for The Guardian, Abi Stephenson narrates a harrowing yet hopeful journey through hyperemesis gravidarum—an extreme form of morning sickness that can threaten life. The piece blends personal testimony with medical history, tracing how Victorian doctors once labelled the condition “pernicious vomiting of pregnancy” and how contemporary medicine struggled to find relief until recent breakthroughs in treatment and awareness. Stephenson’s story is not merely a chronicle of suffering; it is a call to re‑examine how we frame and treat pregnancy‑related illness. By juxtaposing intimate recollections with expert insights, the podcast invites listeners to reconsider the cultural silence around severe nausea and to recognize the systemic gaps that still exist in obstetric care. The narrative challenges listeners to ask: what does it mean to label a life‑threatening condition as “just morning sickness,” and how can policy, practice, and public perception shift to ensure safer, more compassionate care for all expectant mothers?",
-    "summary_zh": "在《卫报》音频长读中，Abi Stephenson 以亲身经历揭示妊娠剧吐的严峻与希望。她将个人痛苦与医学史交织，追溯维多利亚时代的“恶性呕吐”到现代突破，呼吁重新审视孕期疾病的框架与治疗。通过亲情与专家视角，节目促使听众思考：为何把危及生命的症状称作“晨吐”，以及如何通过政策与实践为孕妇提供更安全、更温情的护理。",
-    "best_quote_en": "From July: the Victorians called it ‘pernicious vomiting of pregnancy’, but modern medicine has offered no end to the torture of hyperemesis gravidarum – until now",
-    "best_quote_zh": "从七月开始：维多利亚时代称其为‘妊娠恶性呕吐’，但现代医学尚未终结妊娠剧吐的折磨——直到现在"
-  },
-  {
     "id": 366,
     "title": "The Fatal Pinch",
     "title_zh": "致命的夹点",
@@ -2360,5 +2264,99 @@
     "summary_zh": "纳塔莉博士以循证视角，揭示生育指标与整体健康的关联，提供激素疗法、卵子冷冻、IVF等医疗方案与抗炎饮食、补充剂、环境毒素管理等生活方式的综合干预，帮助女性实现从生育到长寿的全方位健康转化。",
     "best_quote_en": "“Fertility is not just a path to pregnancy; it’s a window into your overall health, vitality, and longevity.”",
     "best_quote_zh": "“生育力不仅是怀孕的路径，更是洞察整体健康、活力与长寿的窗口。”"
+  },
+  {
+    "id": 462,
+    "title": "Tuesday briefing: What is driving the record rise in stalking offences?",
+    "title_zh": "周二简报：记录性跟踪案件激增背后的驱动因素",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/apr/07/tuesday-briefing-what-is-driving-the-rise-in-stalking-offences-in-england-and-wales",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-07",
+    "summary_en": "The Guardian’s briefing dissects a sharp, decade‑long rise in recorded stalking offences across England and Wales, attributing the surge to heightened public and policing awareness, the proliferation of digital surveillance tools, and the growing prevalence of coercive control. The article balances rigorous data—over 135,000 police‑recorded incidents last year against fewer than 3,000 a decade earlier—with qualitative insights from experts and victims, highlighting that the majority of perpetrators are ex‑partners and that women are disproportionately affected. It critically evaluates the criminal justice response, noting improved charging rates but persistent gaps in victim support, communication, and early intervention. The piece underscores an urgent need for technology‑centric safeguards and policy reforms, such as emergency stalking protection notices, to keep pace with evolving threat tactics. By weaving statistics, expert commentary, and human stories, the briefing not only informs readers about the scope of the problem but also calls for actionable systemic change, making it a key resource for policymakers, advocacy groups, and anyone concerned with gender‑based violence and digital safety.",
+    "summary_zh": "这份简报聚焦英国和威尔士十年来跟踪案件激增的背后原因，结合官方数据与专家访谈，揭示技术手段与社会认知提升共同推动了案件上升。文章指出，受害者多为女性，且大多数加害者为前伴侣，且案件往往伴随强制控制与暴力升级。虽然司法系统在起诉率和意识形态上有所进步，但在案件处理、受害者沟通与预防措施上仍存短板，呼吁更快速的干预和技术防护。对政策制定者、倡导组织及关心数字安全的人士而言，此文既是信息来源，也是一份行动指南。",
+    "best_quote_en": "\"The number of stalking offences recorded by police has surged over the past decade, with sharp rises in every region… It is overwhelmingly women and girls who are affected, and men who are the perpetrators.\"",
+    "best_quote_zh": "“受害者多为女性，而加害者多为男性。”"
+  },
+  {
+    "id": 463,
+    "title": "Defining Property",
+    "title_zh": "定义财产",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/property.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2026-04-14",
+    "summary_en": "The essay uses a fantastical tale of a Japanese judge to illuminate the fluidity of property as a social construct, especially in the digital age. By likening music and movies to “smells” that once could be bought on a moon base, the author exposes the absurdity of treating intangible digital content as a fixed, monetizable commodity. The piece argues that property definitions evolve with technology, and that the current legal battles over copyright are driven more by short‑term greed than by equitable innovation. It urges readers to adopt a pragmatic, governance‑friendly view: charge for content only when it serves society without distorting the market. The essay is rich in philosophical nuance, historical context, and a call for democratic checks on powerful industry actors. It challenges us to rethink “ownership” in a world where data moves like air and property norms lag behind technological progress.",
+    "summary_zh": "作者借用日本名判官的故事，戏谑将音乐电影比作可售的“气味”，揭示数字时代物权定义的流动性与法律争端的短期贪婪。文章论证当技术进步推动物权演变时，只有在不扭曲社会与市场的前提下，才应为内容收费。它批判版权行业的“法律武器化”，强调民主与多元国家制度在维护公平物权定义中的作用。整篇文字哲理深刻，兼具历史与现实的批判视角，鼓励读者重新审视数字内容所有权与价值传递。",
+    "best_quote_en": "\"The record labels and movie studios used to distribute what they made like air shipped through tubes on a moon base. But with the arrival of networks, it's as if we've moved to a planet with a breathable atmosphere.\"",
+    "best_quote_zh": "“录音和电影公司以前像在月球基地通过管道运输空气一样分发他们的作品。但随着网络的出现，我们就像迁移到一个可呼吸的大气层。”"
+  },
+  {
+    "id": 464,
+    "title": "A Retrospective of Richard Ngo's 2022 List of Conceptual Alignment Projects",
+    "title_zh": "Richard Ngo 2022 概念对齐项目回顾",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/M3qB2BGgMNuG5oRTB/a-retrospective-of-richard-ngo-s-2022-list-of-conceptual",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-14",
+    "summary_en": "This reflective piece revisits Richard Ngo’s 2022 catalogue of 26 conceptual alignment research projects, assessing progress over the intervening years. The author systematically maps each proposal to existing literature, noting which ideas have already been explored—such as deceptive alignment, sleeper agents, and implicit planning frameworks—and which remain ripe for investigation. The analysis highlights a bifurcation between empirical and conceptual work: most experimental studies have been largely addressed, while theoretical gaps around gradient‑hacking, instrumental convergence formalization, and situational awareness trajectory persist. The author also considers the broader trajectory of alignment research, noting how safety strategies (the kitchen‑sink approach) and human‑feedback modalities have evolved. Importantly, the article underscores the value of historical tracking in a rapidly shifting field, suggesting that revisiting foundational lists can illuminate both achieved milestones and enduring open problems. It invites practitioners to focus on high‑impact conceptual projects that bridge machine‑learning formalism with alignment theory, and to critically evaluate how new empirical findings reshape prior assumptions.",
+    "summary_zh": "本文回顾了2022年Richard Ngo提出的26个概念对齐项目，评估了四年间的进展。作者逐个对照已有文献，指出哪些已被实现（如欺骗式对齐、潜伏代理、隐式规划等），哪些仍具研究价值。经验性工作大多已完成，理论空白仍在梯度攻击、工具性收敛与情境意识等方面。文章强调在快速变化的对齐领域，追踪历史列表有助于识别里程碑与未解难题，并鼓励聚焦高影响力的概念项目，以机器学习与对齐理论相结合。",
+    "best_quote_en": "\"Most of the empirical projects have been done, while the conceptual ones are still mostly open or unresolved.\"",
+    "best_quote_zh": "“大多数经验性项目已完成，而概念性项目仍大多未解决。”"
+  },
+  {
+    "id": 465,
+    "title": "HYBE moves to crack down on bootleg BTS merch ahead of US tour dates",
+    "title_zh": "HYBE 針對BTS巡迴演唱會前的仿冒商品採取法律行動",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/bts-world-tour-arirang-hybe-moves-to-crack-down-on-bootleg-merch-ahead-of-us-dates/",
+    "tags": [
+      "update",
+      "legal",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2026-04-13",
+    "summary_en": "HYBE’s recent lawsuit against unnamed bootleggers ahead of BTS’s U.S. tour illustrates a broader shift in the music industry toward aggressive anti‑counterfeiting enforcement. By targeting both physical street sellers and online platforms, the company seeks to preserve brand integrity, protect revenue streams, and signal to artists that merchandise can be monetized as a strategic asset. The legal approach—temporary restraining and seizure orders—offers a rapid, enforceable tool that can be applied across venues and jurisdictions, setting a precedent for other acts such as Springsteen and Dua Lipa. For consumers, the move underscores the economic and reputational risks of counterfeit goods, while for artists it highlights the importance of controlling quality and distribution to maintain fan trust. The case also reflects the growing financial clout of merch, with UMG’s $912 million 2025 revenue projecting a billion‑dollar target for 2026. As global e‑commerce platforms lower entry barriers for knock‑offs, the industry’s legal and operational strategies will shape the future of ancillary income and intellectual‑property protection in live music.",
+    "summary_zh": "HYBE 針對BTS 演唱會前的仿冒商品訴訟，凸顯音樂產業加強打擊假貨、保護品牌與收入的趨勢。此舉不僅保障藝人形象，也提醒消費者假貨對質量與信任的危害。隨著線上平台降低進入門檻，未來演唱會周邊的合法營運將越發重要。",
+    "best_quote_en": "‘The Bootleg Merchandise is generally of inferior quality. The sale of such merchandise is likely to injure the reputation of BTS and Plaintiffs…’",
+    "best_quote_zh": "‘Bootleg Merchandise generally of inferior quality; its sale likely injures BTS’s reputation.’"
   }
 ]
