@@ -1,119 +1,5 @@
 [
   {
-    "id": 366,
-    "title": "The Fatal Pinch",
-    "title_zh": "致命的夹点",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pinch.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-12-17",
-    "summary_en": "The article exposes the \"fatal pinch\"—a perilous stage where a startup, though still cash‑rich, is hemorrhaging money, stagnating revenue, and facing investor fatigue. It uncovers a self‑reinforcing loop: founders overestimate new funding prospects, slack on profitability, and consequently diminish future capital access. The piece offers a stark diagnostic: if you’re already in the pinch, the probability of raising additional funds is effectively zero. It then maps a pragmatic triad of options—shut down, cut costs (often by firing or salary reductions), or boost revenue—emphasizing ruthless prioritization of people and revenue streams. The author encourages founders to re‑frame sales conversations, explore consulting‑ish work, and pivot to high‑margin services while preserving intellectual property. By blending hard truths with actionable strategies, the piece serves as both a cautionary tale and a tactical playbook for startups teetering on the brink of failure.",
-    "summary_zh": "文章揭示了“致命夹点”，即即使资金充足却持续亏损、收入停滞且投资人失去耐心的危机。作者指出，创始人过度乐观融资前景导致盈利拖延，进而进一步削弱融资机会。面对此情形，融资几乎为零，必须三选其一：停业、削减成本（裁员或降薪）或提升收入。文章强调重新聚焦销售、尝试咨询式服务、保持 IP 并快速收款，提供了务实的生存与转型方案。整体兼具警示与行动指南，帮助处境危机的创业公司寻找逆转之路。",
-    "best_quote_en": "The probability is zero.",
-    "best_quote_zh": "概率为零。"
-  },
-  {
-    "id": 367,
-    "title": "Dancing in a World of Horseradish",
-    "title_zh": "在辣根世界中起舞",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7zkFzDAjGGLzab4LH/dancing-in-a-world-of-horseradish",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-12-17",
-    "summary_en": "The piece weaves a sharp critique of modern luxury and the social erosion wrought by technological progress. It opens with Etihad’s extravagant “Residence” and argues that such opulence is a marketing façade—its cost sits on the same breakpoint as private jets, yet it offers little beyond status. The author extends the analysis to everyday consumables, labeling fake wasabi as “faux luxury” and contrasting it with real wasabi’s high production cost. A broader thesis emerges: as societies grow wealthier, certain luxury goods become mass‑produced, while others disappear—maids replaced by washing machines, live music supplanted by recorded tracks. The article culminates in a nostalgic call for revived social institutions like dance halls that once served as live‑music‑driven matchmaking venues. The underlying implication is that technology can both elevate and erode communal bonds, and that true luxury should be measured by substantive value, not mere price tags. The narrative invites readers to reassess what they deem “premium” and to consider how modern conveniences may be eroding our shared cultural touchstones.",
-    "summary_zh": "作者以Etihad的豪华“Residence”为起点，批判现代奢侈品的“假豪华”，随后将这一思路扩展到日常消费品——将假味噌称作“假奢侈”。文章进一步指出，随着社会财富增长，一些奢侈品被大众化，另一些则消失，例如女仆被洗衣机取代，现场音乐被录音取代。作者以舞厅为例，呼吁恢复过去的社交机构，强调技术进步既能提升便利，也可能削弱人际连接，提醒读者重新评估何谓真正的价值。",
-    "best_quote_en": "The Residence shouldn't exist. If Etihad wasn't a state enterprise, then The Residence probably wouldn't exist.",
-    "best_quote_zh": "The Residence 不应该存在。如果 Etihad 不是国有企业，The Residence 可能也不会存在。"
-  },
-  {
-    "id": 368,
-    "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
-    "title_zh": "",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/improve-energy-longevity-by-optimizing-mitochondria-martin-picard",
-    "tags": [
-      "learn",
-      "health-wellness",
-      "psychology"
-    ],
-    "tags_zh": [
-      "学习",
-      "健康养生",
-      "心理学"
-    ],
-    "date": "2025-12-15",
-    "summary_en": "summary_en",
-    "summary_zh": "summary_zh",
-    "best_quote_en": "best_quote_en",
-    "best_quote_zh": "best_quote_zh"
-  },
-  {
-    "id": 369,
-    "title": "Beggars Group has acquired majority ownership of XL Recordings, documents show",
-    "title_zh": "百佳集团收购XL唱片多数股权，文件显示",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/beggars-group-acquired-majority-ownership-of-xl-recordings-documents-show/",
-    "tags": [
-      "update",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-16",
-    "summary_en": "Beggar Group's 51% takeover of XL Recordings signals a strategic consolidation in the indie music sector, reshaping ownership webs and revenue streams. The deal, finalized with a £2.6 million payment to co‑founder Richard Russell, moves XL from a joint venture into a full subsidiary, tightening control over iconic catalogs such as Adele, The Prodigy, and Fontaines D.C. The transaction underscores the growing importance of catalog ownership for indie houses, especially after high‑profile licensing shifts—Adele’s early albums reverting to XL in 2021 spurred a 29.7 % revenue jump. Beggar’s 2024 results—£109.9 million turnover and a 48.6 % profit rise—highlight the financial upside of vertical integration. The intricate web of inter‑ownership with Young Recordings, Beggar Catalogues, and Music Limited illustrates how indie labels increasingly bundle publishing, distribution, and label assets to capture more value. For industry observers, the move exemplifies a broader trend toward consolidation and control over long‑term revenue streams in a market where streaming royalties and catalog rights are becoming the new gold.",
-    "summary_zh": "百佳集团以51%收购XL唱片，标志着独立音乐行业的再整合。此举巩固了对阿黛尔、The Prodigy等标志性专辑的版权控制，提升了长期收益。2024年，百佳集团营业额1.099亿英镑，净利润增长48.6%，显示垂直整合的财务优势。通过收购与Young、Beggars Catalogues等公司互持股，形成了多元化的音乐资产链，凸显行业对版权和流媒体收入的高度重视。",
-    "best_quote_en": "Beggars Group’s ownership share of XL Recordings rose to 51%.",
-    "best_quote_zh": "百佳集团的XL Recordings持股比例上升至51%。"
-  },
-  {
-    "id": 370,
-    "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
-    "title_zh": "《可爱小鸟与愚蠢奶牛》：性别歧视法案背后的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act",
-    "tags": [
-      "solve",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This article revisits the pivotal figures and tactics of the UK women’s movement in the 1960s‑70s, revealing the political bargaining and societal shifts that birthed the Sex Discrimination Act. It details how female journalists, trade unions, and politicians used lobbying, petitions, and public demonstrations to break gender barriers in the workplace. The piece critiques the caricature of second‑wave feminism as ‘male‑hate’ and underscores the necessity of cross‑class collaboration. Through case‑study analysis of key events, readers gain a deep understanding of the forces behind legal reform and the enduring struggle, inspiring reflection and action on contemporary gender issues.",
-    "summary_zh": "这篇文章回顾了1960–70年代英国女性运动的关键人物与策略，揭示了《性别歧视法案》背后的政治博弈与社会变革。作者细致描绘了女性记者、工会与政治人物如何通过游说、请愿与公开示威，突破职场性别壁垒。文章还批判了二十世纪六七十年代女权运动被简化为“男性仇恨者”的刻板印象，并强调了多元阶层与跨界合作的必要性。通过对关键事件的案例分析，读者可深刻理解法律变革背后的社会力量与持续斗争，激发对当代性别议题的反思与行动。",
-    "best_quote_en": "We were dealing with an enormous social injustice and an extremely resistant patriarchy or power structure that didn’t want to change. We really did set out to change our society and to make life better for our daughters but it’s a fight you have to keep winning.",
-    "best_quote_zh": "我们正面对一场巨大的社会不公和极度抵抗的父权或权力结构，它们不愿改变。我们确实决定改变社会，让女儿们的生活更好，但这是一场必须持续赢得的斗争。"
-  },
-  {
     "id": 371,
     "title": "The Party Politics of Sovereign House",
     "title_zh": "主权之屋的党派政治",
@@ -2358,5 +2244,119 @@
     "summary_zh": "HYBE 針對BTS 演唱會前的仿冒商品訴訟，凸顯音樂產業加強打擊假貨、保護品牌與收入的趨勢。此舉不僅保障藝人形象，也提醒消費者假貨對質量與信任的危害。隨著線上平台降低進入門檻，未來演唱會周邊的合法營運將越發重要。",
     "best_quote_en": "‘The Bootleg Merchandise is generally of inferior quality. The sale of such merchandise is likely to injure the reputation of BTS and Plaintiffs…’",
     "best_quote_zh": "‘Bootleg Merchandise generally of inferior quality; its sale likely injures BTS’s reputation.’"
+  },
+  {
+    "id": 466,
+    "title": "My month in the tradwife world: ‘I can’t pretend I’m not enjoying myself at all ...’",
+    "title_zh": "我的一個月在傳統妻子世界：『我根本不敢假裝我完全不享受……』",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "The Guardian piece invites readers into the seductive yet contradictory sphere of ‘tradwife’ influencers, juxtaposing glossy domesticity with underlying power dynamics. By immersing herself in the content—novels, recipes, and social‑media feeds—the author exposes the genre’s dual nature: a carefully curated blend of homestead aesthetics, entrepreneurial savvy, and patriarchal complicity. The narrative uncovers a paradox: the very figures who market themselves as embodiments of traditional femininity are simultaneously building multimillion‑dollar brands, thereby reinforcing capitalist structures rather than rejecting them. The article probes the psychological appeal of the tradwife myth—offering an illusion of leisure, stability, and identity—against the backdrop of contemporary pressures on Gen Z women. It also critiques the movement’s origins in misogynistic online subcultures and warns of the danger in normalizing restrictive gender norms. Ultimately, the piece urges a nuanced conversation about alternative feminist narratives that honor autonomy without sacrificing economic independence or personal agency.",
+    "summary_zh": "文章透過作者親身體驗傳統妻子文化，揭示其表面溫馨與背後的資本主義與父權結構。作者指出，雖然傳統妻子形象提供了休閒與穩定的幻想，但實際上卻是商業化、依賴男性權力的產物，並警示若無批判性思考，易將性別歧視的舊規範帶回社會。呼籲建立能兼顧自主與經濟獨立的女性新選擇。",
+    "best_quote_en": "‘They’re all pushing this arcadian fantasy of homemaking and living off the land, the anti‑girlbosses, when they’re all building capitalist empires.’",
+    "best_quote_zh": "‘他們都在推廣一種田園詩般的家庭生活與遠離女強人的幻想，卻同時在打造資本主義帝國。’"
+  },
+  {
+    "id": 467,
+    "title": "Frighteningly Ambitious Startup Ideas",
+    "title_zh": "惊悚的雄心勃勃的创业创意",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ambitious.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "The essay dissects why the most transformative startup concepts—those that could create billion-dollar businesses—are simultaneously the most intimidating. By cataloguing examples such as a new search engine tailored for elite hackers, a todo‑list‑first email protocol, radical university replacement models, internet‑driven drama platforms, a hardware‑visionary startup, a next‑generation compiler, and continuous medical diagnostics, the author demonstrates a pattern: the biggest ideas destabilise our identities and existing ecosystems, making them invisible to most founders. His key insight is that ambition should be channeled through deceptively modest, problem‑solving pivots—build a niche product first, then scale outward. The piece offers a pragmatic, psychologically grounded playbook for aspiring entrepreneurs: start small, accept uncertainty, and let the vision evolve organically. It challenges conventional startup mythos by arguing that the most successful ventures emerge not from crystal‑clear blueprints but from iterative, humility‑driven experimentation. For readers, the essay is both a cautionary tale and a roadmap, urging them to confront the fear that fuels creative paralysis and to reframe ambition as a series of incremental, high‑impact steps.",
+    "summary_zh": "文章揭示最具变革性的创业想法为何最令人畏惧，并以搜索引擎、邮件替代、大学革新、网络戏剧、硬件创业、智能编译器和持续诊断等例子说明：大想法会动摇身份与生态，让人望而却步。作者主张以微小、可落地的产品先行，逐步迭代放大，突破恐惧，拥抱不确定，最终实现远大愿景。",
+    "best_quote_en": "\"The biggest startup ideas are terrifying. And not just because they'd be a lot of work. The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.\"",
+    "best_quote_zh": "“最大的创业想法令人畏惧。不仅因为工作量大，更因为它们威胁你的身份：你会怀疑自己是否有足够的雄心去坚持。”"
+  },
+  {
+    "id": 468,
+    "title": "For with what judgment we shall be judged",
+    "title_zh": "以何种判断来评判我们",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rLzx65jQami9bK5CC/for-with-what-judgment-we-shall-be-judged",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "The article is a contemplative meditation on the trajectory of AI safety and the personal role of the author within it. It juxtaposes the rapid commodification of advanced AI capabilities—once considered future marvels—against the slow, empirical interrogation of alignment and value misalignment that now underpins the field. The author reflects on the paradox of self‑judgment versus external judgment, citing Longfellow and biblical parables to underscore how we often measure our worth by unrealized potential while society judges us by concrete achievements. He frames his decade‑long career as a series of supporting roles in AI safety research, from interpretability to ARC evaluations, acknowledging a lingering sense of unfulfilled ambition. The piece invites readers to consider how future generations will judge our actions: will they be judged by what we could have done or by what we actually did? It ends with a sober reminder that the narrative is unfinished, urging continued action and reflection. The core insight is that the value of our contributions is not yet fixed; it will be shaped by both our intentions and our tangible outcomes, and that humility and persistence are key to navigating this uncertain legacy.",
+    "summary_zh": "作者在反思AI安全发展的同时，审视个人在其中的角色与价值。文章将曾经的技术里程碑与当下的实证研究相对照，强调自我评判与外部评判的差异。通过引用长夫与圣经寓言，指出我们常把潜能视为衡量标准，而社会更关注已完成的成果。作者坦言自己在AI安全领域的支持性工作与未实现的抱负，并思考未来人们将如何评判我们的行动。文章的核心在于：我们的贡献尚未成形，取决于意图与实际成就，谦逊与坚持是应对不确定遗产的关键。",
+    "best_quote_en": "\"We judge ourselves by what we feel capable of doing, while others judge us by what we have already done.\"",
+    "best_quote_zh": "“我们以自己能做什么来评判自己，而他人则以我们已经做过什么来评判我们。”"
+  },
+  {
+    "id": 469,
+    "title": "How Much Has the War in Iran Depleted the U.S. Missile Supply?",
+    "title_zh": "伊朗战争对美国产弹供应的影响有多大？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-much-has-the-war-in-iran-depleted-the-us-missile-supply",
+    "tags": [
+      "update",
+      "politics",
+      "economics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "经济金融",
+      "案例研究"
+    ],
+    "date": "2026-04-14",
+    "summary_en": "The article dissects how the U.S. war in Iran has drained critical missile and air‑defense stockpiles, exposing a systemic weakness in American munitions production and strategic planning. By juxtaposing the rapid depletion of Tomahawks, THAAD interceptors, and JASSMs against the backdrop of China‑centric defense priorities, it uncovers a paradox: a nation spending billions on defense is still running out of essential platforms in a protracted conflict. The piece highlights the Pentagon’s attempts to accelerate production through the Munitions Acceleration Council and the acquisition transformation strategy, yet it questions whether these reforms can keep pace with the urgency of great‑power competition. The narrative urges policymakers to rethink industrial base resilience, procurement cadence, and strategic budgeting—removing the illusion that sheer spending guarantees readiness. The implications are profound: if the U.S. cannot sustain its munitions supply, it risks emboldening rivals and eroding deterrence, especially in the Indo‑Pacific. The article invites readers to critically assess the alignment between defense spending, industrial capacity, and national security strategy, and to consider whether a shift toward more agile, responsive production models is overdue.",
+    "summary_zh": "文章剖析伊朗战事如何消耗美国弹药库存，暴露军工体系脆弱，并探讨若无及时改革，将削弱对华威慑力。",
+    "best_quote_en": "\"We adjust our industrial base to the kinds of wars that we are fighting… We got out of the mindset where we were ever going to fight a very munitions‑heavy war again.\"",
+    "best_quote_zh": "\"我们已经把工业基础调整到我们正在打的战争类型……我们已经退出了曾经认为我们会打一场非常依赖弹药的战争的心态。\""
+  },
+  {
+    "id": 470,
+    "title": "Beautiful Birds / The Botanical Treasury",
+    "title_zh": "美丽的鸟儿 / 植物宝库",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/beautiful-birds-the-botanical-treasury/",
+    "tags": [
+      "update",
+      "design",
+      "education"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "教育学习"
+    ],
+    "date": "2026-04-14",
+    "summary_en": "The article juxtaposes two visually striking reference books that celebrate the wonder of natural world through alphabetic and historical lenses. \"Beautiful Birds\" takes a playful, rhyming approach to avian diversity, turning each species into a mini‑story that invites children to read aloud and explore scientific facts within a colorful narrative. Its illustrations echo mid‑century graphic design, creating a tactile, almost tactile experience that elevates the learning environment. The second title, \"The Botanical Treasury,\" adopts a scholarly yet celebratory tone, compiling 40 plants that span ecological, medicinal, and economic significance. Each chapter is richly illustrated with historical documents, giving readers a sense of the human stories intertwined with botanical discovery. Together, the pieces highlight how design, narrative, and historical context can transform passive information into engaging, lifelong learning moments. They remind educators and parents that curiosity thrives when facts are wrapped in story, color, and context, and that even the most technical subjects can be made accessible and memorable when presented with creativity and depth.",
+    "summary_zh": "两本书以图文并茂的方式，将自然界的奇观转化为可亲近的学习体验。",
+    "best_quote_en": "\"Children are game for anything… They love words that give them a hard time, provided they are in a context that absorbs their attention.\"",
+    "best_quote_zh": "“孩子们喜欢任何让他们费劲的文字，只要情境能吸引他们。”"
   }
 ]
