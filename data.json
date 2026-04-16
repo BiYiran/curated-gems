@@ -1,123 +1,5 @@
 [
   {
-    "id": 371,
-    "title": "The Party Politics of Sovereign House",
-    "title_zh": "主权之屋的党派政治",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/our-local-correspondents/the-party-politics-of-sovereign-house",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-12-16",
-    "summary_en": "In the wake of Donald Trump’s 2024 re‑election, a new generation of right‑wing Gen‑Zers turned to a physical hub—Sovereign House—to forge identity, community, and political momentum.  The New Yorker profile traces the evolution of this space, from a loft‑style gathering spot in Dimes Square to the more ambitious Reign club that seeks sustainability through a membership model.  Allen, the fintech co‑founder, curates a mix of speakers that blurs ideological lines, inviting everything from a pro‑fascist commentator to a left‑wing academic.  The narrative reveals how social venues can become incubators for future political actors, turning casual meet‑ups into career pipelines that feed the Trump administration and beyond.  The piece also interrogates the tension between “culture” and “politics,” questioning whether these clubs are merely echo chambers or genuine incubators for new political movements.  By blending anecdote, data on youth voting trends, and a close‑up of club rituals, the article offers a nuanced case study of how the right‑wing’s cultural infrastructure is re‑imagining itself in a post‑Trump era.",
-    "summary_zh": "在特朗普2024年连任后，右派Z世代在Dimes Square的主权之屋寻找身份与政治动能。文章追踪从聚会空间到会员制Reign的演变，揭示社交俱乐部如何孵化未来政客，并探讨文化与政治的边界。",
-    "best_quote_en": "We build bonds early, we grow up together. And then that’s it.",
-    "best_quote_zh": "我们从小就建立联系，一起成长，然后就这样。"
-  },
-  {
-    "id": 372,
-    "title": "Essentials: Science of Stress, Testosterone, Aggression & Motivation | Dr. Robert Sapolsky",
-    "title_zh": "Essentials：压力、睾酮、攻击性与动机的科学 | 罗伯特·萨波尔斯基博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-of-stress-testosterone-aggression-motivation-robert-sapolsky",
-    "tags": [
-      "learn",
-      "psychology",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-07-10",
-    "summary_en": "In this Huberman Lab episode, Dr. Robert Sapolsky unpacks the nuanced biology of stress, hormones, and motivation, offering a dual lens on how context shapes our perception of stress as either a threat or a catalyst for growth. He distinguishes between positive and negative stress, highlighting the amygdala’s role in excitement versus fear, and explains how testosterone amplifies pre‑existing behavioral tendencies while estrogen supports neural health. Sapolsky’s insights weave together neuroendocrine mechanisms with real‑world applications, presenting daily cognitive practices that mitigate stress in a media‑saturated, hierarchical society. The episode balances advanced science with actionable takeaways—mindful breathing, structured challenge, and consistent practice—making it both a deep dive for scholars and a practical guide for anyone seeking resilience. By situating stress within social context, Sapolsky invites listeners to reframe their relationship with pressure, turning a universal challenge into a source of motivation and confidence.",
-    "summary_zh": "本期Huberman实验室节目，罗伯特·萨波尔斯基博士阐释压力与激素的生物学机制，区分正负压力及其对情绪与行为的影响。通过阐述睾酮放大既有倾向、雌激素维护脑健康，他将复杂神经内分泌过程与日常可操作的减压技巧结合，提供从科学到实践的完整路径。节目强调情境与认知如何重塑压力体验，帮助听众将压力转化为成长动力，兼具学术深度与实用价值。",
-    "best_quote_en": "Stress is not inherently bad; its impact depends on context and perception.",
-    "best_quote_zh": "压力不是天生的坏事；它的影响取决于情境和认知。"
-  },
-  {
-    "id": 373,
-    "title": "The Tim Ferriss Show Transcripts: Bill Gurley (#840)",
-    "title_zh": "Bill Gurley（#840）访谈文字稿",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream-transcript/",
-    "tags": [
-      "inspire",
-      "economics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "经济金融",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "Bill Gurley, the legendary venture capitalist and partner at Benchmark, opens up in this extended interview about the current AI landscape, the speculative frenzy that surrounds it, and how the industry should navigate the so‑called “bubble.”  He draws on Carlota Perez’s framework of technological revolutions to explain why every wave of rapid wealth creation inevitably attracts carpet‑baggers and why the line between a genuine industrial breakthrough and a speculative frenzy is often blurred.  Gurley also shares candid insights on angel investing in the age of AI, the importance of domain expertise that can’t be easily replicated by big tech, and the pitfalls of SPVs for retail investors.  Beyond the market mechanics, he offers a compelling personal narrative about how a simple book on stand‑up comedy gave him permission to pursue a non‑traditional career, tying into his book “Running Down a Dream.”  The episode blends hard data, policy critique, and motivational storytelling, making it a rich resource for founders, investors, and anyone curious about how to thrive in a rapidly changing tech ecosystem.",
-    "summary_zh": "比尔·古尔利在这期访谈中剖析AI时代的泡沫与机会，借鉴卡洛塔·佩雷斯的技术革命理论解释财富快速创造与投机者的关系，并讨论SPV对散户的风险。他强调在AI浪潮中，真正的竞争在于能结合深度行业知识并拥有独特数据的创业者，而非大厂可复制的技术。除此之外，他分享了个人从喜剧书籍获得职业许可的故事，呼应他的新书《追梦》。这段对话兼具数据分析、政策批评与激励性叙事，适合创投人、创业者与技术爱好者。",
-    "best_quote_en": "I think the protection that the drug guys get is so much…",
-    "best_quote_zh": "我认为制药公司得到的保护是如此之多…"
-  },
-  {
-    "id": 374,
-    "title": "UN distances itself from International Women’s Day website winning corporate partnerships",
-    "title_zh": "联合国与国际妇女节网站的企业合作保持距离",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/18/international-womens-day-website-owned-london-pr-firm-not-linked-to-un",
-    "tags": [
-      "update",
-      "society",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "The Guardian piece exposes a growing disconnect between the official United Nations observance of International Women’s Day (IWD) and a London‑based marketing firm’s commercial‑led website, internationalwomensday.com. By selling themed merchandise and selling “official” campaign slogans to major brands such as Sainsbury’s, Barclays and UCL, the site has been mistakenly cited as an UN‑approved voice. The article systematically debunks the claims, quoting UN Women’s spokespersons who emphatically state that the UN has no affiliation with the site. It highlights how corporate partners, lured by a ready‑made theme and a glossy colour palette, inadvertently propagate misinformation. The piece underscores the importance of source verification and the ethical line between advocacy and commercial branding. For marketers, it is a cautionary tale about brand alignment with social movements, and for activists it re‑affirms the need for clear, authoritative channels when framing global campaigns.",
-    "summary_zh": "这篇报道揭示了国际妇女节网站与联合国的错位关系，凸显品牌与官方信息混淆的风险。通过对Sainsbury’s、Barclays等企业的案例分析，作者批判了非官方机构在塑造公众议题时的权威性缺失，并呼吁透明度与责任。文章不仅提供了事实梳理，更引发对数字营销伦理与社会运动商业化的思考，提醒企业在利用社会议题进行品牌推广时必须审慎辨识来源与合法性。",
-    "best_quote_en": "\"Your inquiry provides an important opportunity to clarify that UN Women and the United Nations are not affiliated with the website referenced.\"",
-    "best_quote_zh": "今天的IWD属于所有群体，IWD不是特定国家、群体或组织。"
-  },
-  {
-    "id": 375,
-    "title": "Mean People Fail",
-    "title_zh": "粗暴的人会失败",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mean.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-12-19",
-    "summary_en": "The essay argues that a surprising pattern emerges in the startup ecosystem: the most successful founders are rarely mean, even though the internet exposes a long tail of rudeness that was once hidden. The author attributes this inverse correlation to three intertwined dynamics. First, mean‑mindedness taxes the mind, turning strategic thinking into short‑term fighting tactics that stall progress. Second, a cruel leader cannot attract top talent; the best engineers, designers and executives prefer a culture of respect and purpose. Third, the new era of value creation is no longer a zero‑sum game of resource control but a collaborative, idea‑driven contest where benevolence and a mission to improve the world become competitive advantages. The piece blends anecdote, historical analogy and personal conviction to suggest that success now rewards kindness as much as ambition. It invites founders to reflect on their own motives and warns that “being mean makes you fail.”",
-    "summary_zh": "作者指出，在创业生态中，最成功的创始人往往不粗暴。粗暴削弱思维、阻碍人才招募，并且在以创意为核心的非零和竞争中，善意与使命感成为竞争优势。文章通过个人经验、历史类比和理性思考，呼吁创始人审视动机，提醒“粗暴会让你失败”。",
-    "best_quote_en": "Being mean makes you stupid.",
-    "best_quote_zh": "粗暴会让你变得愚蠢。"
-  },
-  {
     "id": 376,
     "title": "2025-Era “Reward Hacking” Does Not Show that Reward Is the Optimization Target",
     "title_zh": "2025 年时代的“奖励黑客”并未表明奖励是优化目标",
@@ -2358,5 +2240,121 @@
     "summary_zh": "两本书以图文并茂的方式，将自然界的奇观转化为可亲近的学习体验。",
     "best_quote_en": "\"Children are game for anything… They love words that give them a hard time, provided they are in a context that absorbs their attention.\"",
     "best_quote_zh": "“孩子们喜欢任何让他们费劲的文字，只要情境能吸引他们。”"
+  },
+  {
+    "id": 471,
+    "title": "Meghan’s Sydney wellness retreat promises ‘a girls’ weekend like no other’ – but what does a $3,200 ticket buy?",
+    "title_zh": "梅根的悉尼健康静修会承诺‘前所未有的女孩周末’——但$3,200的门票到底能买到什么？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/apr/16/meghans-sydney-wellness-retreat-promises-a-girls-weekend-like-no-other-but-what-does-a-3000-ticket-buy",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "The article dissects the hype surrounding Meghan Markle’s “Her Best Life” wellness retreat in Sydney, where a $3,200 ticket promises an exclusive weekend of yoga, sound healing, and a once‑in‑a‑lifetime conversation with the Duchess. Readers are drawn by the allure of celebrity proximity, yet the piece critically examines the value proposition: a few hours of guided meditation, a gala dinner, and a selfie opportunity at a luxury hotel. It highlights the marketing spin—“girls’ weekend like no other”—and the stark contrast between the advertised wellness focus and the underlying monetization strategy, including VIP rooms, merchandise tie‑ins, and a fashion platform. The narrative questions whether the retreat truly delivers transformative well‑being or merely capitalizes on Meghan’s brand equity. By juxtaposing the high‑end amenities with the modest time commitment, the article invites readers to reflect on contemporary wellness culture, celebrity influence, and the commodification of self‑care. It serves as a case study in branding, consumer psychology, and the ethics of monetizing personal wellness experiences.",
+    "summary_zh": "文章剖析梅根的“Her Best Life”悉尼健康静修会的豪华宣传与实际价值之间的落差。通过对价格、日程与营销手段的细致拆解，揭示了名人品牌与健康产业的交叉点。它提醒读者，奢华体验背后可能隐藏着商业化与自我提升的矛盾，促使我们反思当代健康消费与名人效应的真实性与影响。",
+    "best_quote_en": "\"Phones away, eyes up, and enjoy the magic!\"",
+    "best_quote_zh": "\"手机离手，眼神全在，尽情享受魔力！\""
+  },
+  {
+    "id": 472,
+    "title": "A Word to the Resourceful",
+    "title_zh": "给有资源的人一句话",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/word.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "The article reflects on Y Co’s observations about startup founders’ communication styles and their correlation with success. It argues that the most successful founders exhibit *conversational resourcefulness*—they absorb a single cue and act decisively, whereas less successful founders remain rigid, dismissing new ideas because they are not eager to pursue the implications. This insight highlights a subtle but powerful predictor of startup performance: the ability to “hear” and act on a single word. For founders, investors, and accelerators, the takeaway is clear: prioritize founders who can quickly internalize and execute on minimal guidance, as they are more likely to secure funding, iterate, and grow. The piece blends anecdotal evidence with a theoretical framework, offering a practical lens for evaluating founder potential and a cautionary note on the dangers of defensive thinking in early-stage teams.",
+    "summary_zh": "作者从 Y Co 的经验出发，指出成功创始人与资源感、沟通敏捷性直接相关。只需一句话即可引导他们行动，而不成功的创始人则固执回避新意。文章提醒投资人和创业者：评估创始人时，关注其快速消化并执行信息的能力。该洞见兼具案例与理论，既易于理解又具可操作性。",
+    "best_quote_en": "\"If someone is wise, all you have to do is say one word to them, and they'll understand immediately.\"",
+    "best_quote_zh": "\"如果有人很聪明，只需对他说一句话，他们就能立即理解。\""
+  },
+  {
+    "id": 473,
+    "title": "Simulated Qualia Mugging",
+    "title_zh": "",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/x8Ld8d6jn62LWoLu7/simulated-qualia-mugging",
+    "tags": [
+      "solve",
+      "ai-research",
+      "leadership",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "领导管理",
+      "案例研究"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 474,
+    "title": "What Brought Down Eric Swalwell",
+    "title_zh": "埃里克·斯瓦尔韦尔的垮台原因",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-brought-down-eric-swalwell",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "The article dissects the rapid collapse of Congressman Eric Swalwell, once hailed as the “Snapchat king of Congress,” through the lens of the modern attention economy. It traces how Swalwell’s mastery of social media—leveraging platforms like Snapchat, TikTok, and X—initially amplified his visibility and political brand, but ultimately exposed him to a new breed of rapid, decentralized scrutiny. The piece contrasts the symbiotic relationship between legacy journalism and new media, arguing that influencers can act as both amplifiers and accelerators of accountability. By juxtaposing Swalwell’s downfall with other contemporary scandals involving Andrew Cuomo, George Santos, and political operatives, the author illustrates a broader pattern: the attention economy can both shield and precipitate public censure, depending on how narratives evolve across platforms. The article invites readers to question the sustainability of digital fame and the ethical boundaries of influencer-driven political reporting, while offering a cautionary tale for future politicians navigating an increasingly fragmented media landscape.",
+    "summary_zh": "文章以埃里克·斯瓦尔韦尔的迅速崩溃为线索，剖析现代注意力经济如何让社交媒体的明星政治家既能迅速聚光，也易被曝光。作者指出，传统媒体与新媒体的共生关系使舆论既被放大又被加速，案例对比凸显了数字声誉的双刃剑。",
+    "best_quote_en": "In some ways, this miserable tale is as old as time. In others, it looks like a parable of our modern media environment, with its cacophony of voices, old and new, all clamoring for attention.",
+    "best_quote_zh": "在某些方面，这个可怜的故事与时间一样古老；在其他方面，它看起来像是现代媒体环境的寓言，混乱的声音在争夺关注。"
+  },
+  {
+    "id": 475,
+    "title": "What’s in my NOW? — Augie Nielsen",
+    "title_zh": "我的现在是什么？ — Augie Nielsen",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-augie-nielsen/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "August Nielsen, a seasoned HR executive, demystifies the ordinary and extraordinary items that shape his daily life. From the Garmin Forerunner 965’s granular biometric data that improves his marathon performance to the Rogue Hoe/Pick’s brutal efficiency in Midwest landscaping, he shows how thoughtful gear choices translate into tangible benefits. His digital selections—Waking Up’s mindful micro‑sessions and NotebookLM’s AI‑powered career coach—illustrate a growing trend of leveraging technology for personal growth and professional self‑optimization. The piece culminates in a reflective Quaker proverb that frames progress as a series of small, open‑ended steps, echoing evolutionary concepts of the “adjacent possible.” Together, these anecdotes reveal a broader narrative: modern success is a blend of intentional technology use, practical tool selection, and a mindset that welcomes incremental evolution. Readers gain actionable insights into how to evaluate products, integrate them into routines, and adopt a meta‑strategic outlook that keeps them moving forward no matter the horizon.",
+    "summary_zh": "作者用个人经验揭示科技与生活的交汇点，展示如何通过精准工具与心态——如 Garmin、Waking Up、NotebookLM 等，提升身体与职业表现，并以 Quaker 谚语阐释进步的连续性，启示读者把握小步前进的力量。",
+    "best_quote_en": "\"Proceed as the way opens\" — a Quaker proverb that reframes progress as a series of small, open‑ended steps, echoing the evolutionary idea of the adjacent possible.",
+    "best_quote_zh": "“按路开启”——一则夸克谚语，重新定义进步为连串开放的步骤，呼应进化学的邻近可能概念。"
   }
 ]
