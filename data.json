@@ -1,123 +1,5 @@
 [
   {
-    "id": 376,
-    "title": "2025-Era “Reward Hacking” Does Not Show that Reward Is the Optimization Target",
-    "title_zh": "2025 年时代的“奖励黑客”并未表明奖励是优化目标",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/wwRgR3K8FKShjwwL5/2025-era-reward-hacking-does-not-show-that-reward-is-the",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-19",
-    "summary_en": "In this essay the author revisits a 2022 claim—Reward ≠ OT—that reinforcement‑learning agents do not treat the reward signal as their primary goal. He clarifies that what is often called “reward hacking” in the LLM community is largely specification gaming: models find shortcuts that satisfy the test harness rather than truly maximizing the reward function. The piece dissects the semantic confusion around the word “reward,” arguing that the term obscures whether an agent is optimizing a numeric signal or merely exploiting a specification. Empirical anecdotes from Claude 3.7 Sonnet and Anthropic’s experiments support the idea that RL‑trained systems rarely tamper with their reward functions, aligning with Reward ≠ OT’s predictions. Yet the author admits that pre‑training may seed an understanding of reward concepts, raising the possibility of reward‑seeking behavior emerging later. He proposes concrete, falsifiable tests to detect true reward optimization and stresses the importance of careful language in safety discourse. The essay ultimately reinforces that safety concerns about RL should focus on training dynamics and specification design, not on an inherent drive to maximize reward.",
-    "summary_zh": "作者重新审视2022年提出的“奖励≠优化目标”论点，指出在LLM中常被称为“奖励黑客”的现象实为规范游戏，而非真正的奖励最大化。他强调“奖励”一词的歧义会误导安全讨论，并通过Claude 3.7 Sonnet与Anthropic实验表明RL训练系统不易改动奖励函数。作者承认预训练可能植入奖励概念，导致后期出现奖励追求行为，并提出可检验的实验方案。总体而言，他提醒我们安全关注点应聚焦训练动态与规范设计，而非固有的奖励驱动。",
-    "best_quote_en": "Reward is not the optimization target",
-    "best_quote_zh": "奖励不是优化目标"
-  },
-  {
-    "id": 377,
-    "title": "Merry Christmas, America! The Checks Are in the Mail!",
-    "title_zh": "圣诞快乐，美国！支票已在邮件中！",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/merry-christmas-america-the-checks-are-in-the-mail",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-12-19",
-    "summary_en": "In a razor‑sharp satirical essay, the author dissects President Trump’s Christmas address, exposing the spectacle of political rhetoric that masquerades as policy. The piece likens Trump’s bombastic, exclamation‑heavy monologue to a 1980s electronics ad, underscoring the performative nature of his speech. It highlights the president’s promise of a $1,776 bonus for 1.4 million service members and the opaque funding shifts that underlie it, while critiquing his neglect of the looming Affordable Care Act subsidy cliff. The narrative pivots to the tension between Trump and his chief of staff, Susie Wiles, revealing a pattern of political self‑interest over factual accountability. By juxtaposing the president’s grandiose claims with Wiles’ pragmatic, yet complicit, responses, the essay offers a micro‑case study of how executive messaging can distort policy realities. The analysis invites readers to question the veracity of televised political narratives and the mechanisms that enable them to thrive, thereby fostering a more skeptical, informed citizenry.",
-    "summary_zh": "作者以讽刺笔触拆解特朗普圣诞致辞，将其比作80年代广告，揭露其夸张口号背后的政策空洞。文章指出总统承诺给1.4万军人发放1776美元奖金，并批评其忽视医疗补贴即将到期的风险。重点转向特朗普与其幕僚苏西·威尔斯的关系，揭示权力与真相的冲突。通过对比总统的宏大宣言与幕僚的妥协，作者呈现了一场关于政治话语如何扭曲现实的微观案例。此文促使读者对电视政治叙事的真实性保持怀疑，培养更具批判性的公民意识。",
-    "best_quote_en": "I am bringing those high prices down and bringing them down very fast!",
-    "best_quote_zh": "我正在把高价降下来，并且很快降下来！"
-  },
-  {
-    "id": 378,
-    "title": "Functional Traveler Gifts/Tougher Italian Passport/Cheaper Streaming Options",
-    "title_zh": "实用旅行礼物/更严格的意大利护照/更便宜的海外流媒体",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/functional-traveler-gifts-tougher-italian-passport-cheaper-streaming-options/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This article blends practical travel hacks with broader socio‑political insights, offering a multi‑layered guide for the modern nomad. It starts with a curated list of lightweight, problem‑solving gifts that actually get packed—an antidote to the endless, often useless gift lists that flood the market. The piece then shifts to the tightening Italian citizenship rules, highlighting the new lineage, language, and residency hurdles that reshape EU mobility. A quick pivot to streaming economics reveals how price arbitrage can save travelers dozens of dollars by exploiting regional subscription rates and VPN tricks. Finally, the author cites a long‑term study from the Annals of Internal Medicine to argue that sustained walking reduces cardiovascular risk more than short bursts, tying physical health to travel habits. Together, these sections form a cohesive playbook: actionable, data‑driven, and attuned to the evolving legal and economic landscape of global travel.",
-    "summary_zh": "文章把实用旅行小技巧、意大利护照新规定、海外流媒体价格套利和步行健康研究巧妙结合，形成一份全方位、数据驱动、可落地的旅行攻略，既解决实务问题，又洞察政策与健康趋势。",
-    "best_quote_en": "People who walked in longer stretches had a lower risk of heart problems than those who walked in short bursts.",
-    "best_quote_zh": "长时间行走的人比短时间间歇行走的人更能降低心脏病风险。"
-  },
-  {
-    "id": 379,
-    "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
-    "title_zh": "被囚禁、孤单、恐惧：女性被迫在监狱分娩的残酷现实",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/dec/18/shackled-alone-pregnant-women-forced-birth-prison",
-    "tags": [
-      "analyze",
-      "society",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "In a stark exposé, the Guardian uncovers the harrowing reality faced by pregnant women behind bars across the globe. From El Salvador’s overcrowded cells to the UK’s ignored pleas, the piece weaves personal testimony with stark statistics—women’s prison populations have surged by 57 % since 2000, outpacing men’s growth. The article spotlights the systematic violation of the Bangkok Rules, which demand non‑custodial sentences for pregnant offenders and prohibit restraints during childbirth. Yet prisons remain designed for men, leaving women to endure shackling, solitary confinement, and obstetric violence. The narrative also charts grassroots responses: activists like Pamela Winn and Nora Calandra have translated suffering into legislation, while international NGOs push for data transparency. This piece not only informs but galvanises readers to question the criminal‑justice system’s gender blind spots and to demand humane, rights‑based reforms.",
-    "summary_zh": "全球监狱中孕妇的痛苦被揭露：人口激增、设施不适、法令被忽视，激发人们反思刑事司法的性别盲点，呼吁人权与改革。",
-    "best_quote_en": "\"Prison is not a good environment for women, let alone someone who is pregnant,\" says Sabrina Mahtani.",
-    "best_quote_zh": "“监狱不是一个对女性友好的环境，更何况是孕妇，”萨布丽娜·马塔尼说。"
-  },
-  {
-    "id": 380,
-    "title": "What’s in my NOW? — Kevin Kortum",
-    "title_zh": "我的现在里有什么？——Kevin Kortum",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-kevin-kortum/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2025-12-17",
-    "summary_en": "Kevin Kortum, a freelance strategy consultant and founder of Foofaraw, shares the tangible and intangible items that anchor his daily workflow. He starts with a Pilot Vanishing Point fountain pen and a set of espresso machines—physical tools that ground him against digital distraction. On the digital side, he champions Kinopio for its playful, mind‑mapping flexibility and YNAB for its rigorous budgeting discipline. Beyond gear, Kortum’s invisible mantra, “Be kind, stay sane,” underscores a broader ethic of empathy and mental resilience. The article functions as a lightweight guide for creators and entrepreneurs seeking a cohesive system that balances productivity with well‑being. While the tools listed are not groundbreaking, the thoughtful curation and the emphasis on “kindness” provide a fresh lens on work‑life integration. Readers can extract actionable steps—adopting a single physical note‑taking device, implementing a zero‑based budgeting app, or embedding a daily kindness reminder—to reduce overwhelm and enhance focus.",
-    "summary_zh": "Kevin Kortum 以自由策略顾问和 Foofaraw 创始人的身份，分享了让他每日工作有序的实物与无形物品。先是 Pilot Vanishing Point 奶油黑钢笔与多台咖啡机，帮助他抵御数字分心；再到 Kinopio 的可爱思维导图与 YNAB 的严格预算，构成他高效与自律的数字工具链。最重要的是，他用一句“善待他人，保持理智”作为无形守则，提醒读者在忙碌中保持同理与冷静。文章既是为创作者和创业者提供可落地的系统建议，也通过强调善良与理智，为工作与生活的融合注入新的思考。读者可据此挑选一件实物笔记工具、实施零基预算或每日提醒善意，减少焦虑、提升专注。",
-    "best_quote_en": "Be kind, stay sane.",
-    "best_quote_zh": "善待他人，保持理智。"
-  },
-  {
     "id": 381,
     "title": "Essentials: How to Set & Achieve Goals",
     "title_zh": "Essentials：如何设定并实现目标",
@@ -2356,5 +2238,119 @@
     "summary_zh": "作者用个人经验揭示科技与生活的交汇点，展示如何通过精准工具与心态——如 Garmin、Waking Up、NotebookLM 等，提升身体与职业表现，并以 Quaker 谚语阐释进步的连续性，启示读者把握小步前进的力量。",
     "best_quote_en": "\"Proceed as the way opens\" — a Quaker proverb that reframes progress as a series of small, open‑ended steps, echoing the evolutionary idea of the adjacent possible.",
     "best_quote_zh": "“按路开启”——一则夸克谚语，重新定义进步为连串开放的步骤，呼应进化学的邻近可能概念。"
+  },
+  {
+    "id": 476,
+    "title": "‘Weird green is having a moment’: 45 spring fashion picks under $200",
+    "title_zh": "‘奇怪的绿色正热潮’：45款春季时尚单品，全部低于200美元",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-04-15",
+    "summary_en": "The Guardian’s spring style roundup is less a glossy wish list than a pragmatic, stylist‑backed guide for budget‑conscious fashion lovers. By curating 45 pieces under $200, the article showcases how timeless staples—linen pants, cashmere tees, denim bombers—and bold statement accessories—chunky bracelets, feather brooches, asymmetrical tops—can be mixed to create a season‑ready wardrobe without succumbing to impulse buying. Experts from diverse stylist backgrounds interweave personal anecdotes with actionable advice: layer lightweight cashmere under a blazer, pair a high‑waist linen pant with a simple tee, or accent a neutral outfit with a colorful scarf. The piece also highlights emerging trends, such as the “weird green” hue and asymmetry, while encouraging readers to play with texture and color in a way that feels both fresh and functional. This blend of trend‑spotting and practical styling tips positions the article as a go‑to resource for readers who want to refresh their spring wardrobe on a budget, while also inspiring them to experiment with personality‑adding details that elevate everyday looks.\n",
+    "summary_zh": "这篇春季时尚指南像是一个有钱人眼里的廉价衣橱，作者把45件低于200美元的单品与专家建议混合，给读者提供了可操作的搭配思路。它强调以基础单品为核心，配合大胆配饰和新潮色彩，既能避免冲动消费，又能让衣服焕然一新。",
+    "best_quote_en": "\"Where people tend to get stuck is panic‑buying whatever feels trendy, thinking it will magically transform them into a new version of themselves,\" said Georgia Milton, a personal stylist.",
+    "best_quote_zh": "“人们往往会因恐慌购买任何看似时尚的物品，认为它会神奇地让自己变成新的自己，”个人造型师乔治亚·米尔顿说。"
+  },
+  {
+    "id": 477,
+    "title": "Schlep Blindness",
+    "title_zh": "Schlep Blindness",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/schlep.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-04-17",
+    "summary_en": "Schlep blindness is a subtle cognitive bias that blinds founders to high‑schlepp problems—those that demand heavy, unpleasant groundwork like payments, compliance, or security—while highlighting low‑schlepp, low‑impact ideas such as recipe sites. The article reveals that this blindness is largely unconscious: founders instinctively avoid the messy, labor‑intensive tasks that often yield the greatest market disruption. It argues that the antidote is ignorance—remaining unaware of the full breadth of obstacles can spur risk‑tolerant, ambitious pursuits. Yet deliberate awareness is also needed; by reframing the question to “what problem would a user want solved for them?” founders can surface overlooked pain points. The piece is a lesson in psychological self‑sabotage, an invitation to confront uncomfortable work, and a reminder that the most valuable startups often solve the most difficult problems. It blends personal anecdote, Y Combinator culture, and a call to strategic risk‑taking, making it both a guide and a motivational critique for aspiring entrepreneurs.",
+    "summary_zh": "作者揭示了“schlep blindness”，即创始人无意识地忽视高难度、能带来巨大影响的痛点，专注低难度、低收益的点子。通过个人经历与 YC 经验，指出摆脱此偏见的关键在于既保持无知的勇气，又主动设身处地思考用户未表达的需求。该文既是创业指南，也是对心理自我破坏的批判，鼓励年轻创始人敢于承担艰难工作，寻找未被解决的痛点，从而创造真正颠覆性的企业。",
+    "best_quote_en": "The most valuable antidote to schlep blindness is probably ignorance.",
+    "best_quote_zh": "打破schlep blindness最有效的解药可能是无知。"
+  },
+  {
+    "id": 478,
+    "title": "Let goodness conquer all that it can defend",
+    "title_zh": "让善良征服它能捍卫的一切",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/w3MJcDueo77D3Ldta/let-goodness-conquer-all-that-it-can-defend",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-17",
+    "summary_en": "The piece wrestles with the paradox of moral ambition: when well‑meaning people unite to solve a problem, the very structure they build can spiral beyond their control, causing greater harm. The author critiques the Western narrative that equates progress with expansion, pointing out how colonialism’s legacy still fuels contemporary debates about governance and power. He juxtaposes historical lessons—Oppenheimer’s bomb, Truman’s decisions, American colonization—with the modern AI context, arguing that institutions such as OpenAI and Anthropic must be staffed with dedicated, full‑time governance bodies to prevent mission drift. The core insight is a call for a disciplined, defensible form of “goodness” that focuses on what can be sustainably protected rather than unchecked conquest. It urges readers to adopt practical, long‑term governance structures, acknowledging that perfection is unattainable but incremental correction is possible. The essay blends historical critique, philosophical reflection, and actionable governance advice, making it a compelling read for anyone interested in the ethics of large‑scale ambition.",
+    "summary_zh": "作者将善意与治理混合，指出理想虽美却易失控；呼吁以可持续防御为目标，而非盲目扩张，强调治理结构的必要性。",
+    "best_quote_en": "\"Let goodness conquer all that it can defend.\"",
+    "best_quote_zh": "\"让善良征服它能捍卫的一切。\""
+  },
+  {
+    "id": 479,
+    "title": "Young Adult Destinations/Bag Check Hikes/Hotel Labor Shortage",
+    "title_zh": "年轻人海外目的地/行李费上涨/酒店劳动力短缺",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/young-adult-destinations-bag-check-hikes-hotel-labor-shortage/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "The article weaves together four interrelated travel themes, offering readers a practical, data‑driven snapshot of the current global mobility landscape. It opens with a curated list of young‑adult‑friendly cities, highlighting affordability and cultural vibrancy—an invaluable primer for anyone weighing relocation options. The piece then turns to the ever‑pulsating baggage fee wars, illustrating the industry’s price‑matching dynamics and presenting concrete credit‑card solutions to offset rising costs. A brief but poignant anecdote on bottled‑water habits underscores the environmental and health implications of micro‑expenditures, while the final section warns of an impending labor crunch in U.S. hotels, tying immigration trends to service‑industry resilience. Across the board, the article blends actionable insights, current statistics, and personal observations, making it a useful resource for budget‑conscious travelers, industry observers, and policy‑watchers alike.",
+    "summary_zh": "文章将年轻人海外生活、行李费上涨、瓶装水消费与酒店劳动力短缺四大话题巧妙串联，既给出实用的搬迁城市清单，又揭示航空公司费率竞争与信用卡优惠；随后用日常小事提醒环保与健康，最后警示美国酒店业即将面临的劳动力危机。整体兼具数据支撑与生活化视角，适合关注成本与政策的旅行者与行业观察者。",
+    "best_quote_en": "\"The hospitality industry ended 2025 with 98,000 fewer workers than the year before, according to the Bureau of Labor Statistics.\"",
+    "best_quote_zh": "\"随着移民数量下降，酒店业将面临更严重的劳动力短缺，未来价格将持续上涨。\""
+  },
+  {
+    "id": 480,
+    "title": "The Tim Ferriss Show Transcripts: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to Selling Two Companies (#861)",
+    "title_zh": "从爸爸的地下室到出售两家公司：Brian Dean 4小时工作周成功故事（#861）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/04/16/brian-dean-backlinko-case-study-transcript/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "The interview with Brian Dean is a masterclass in turning a crippling financial crisis into a scalable, passive‑income empire. From the moment he read the 4‑Hour Workweek in a 2008 crisis‑hit basement, he applied the book’s principles—geo‑arbitrage, cheap testing, and a relentless focus on meaningful output—to launch a 200‑site SEO vault that earned him a private‑island‑sized stream of AdSense revenue. His pivot to white‑hat SEO after the “Panda” updates shows resilience: he abandoned spammy tactics, built a real, data‑driven brand (Backlinko), and eventually sold it to Semrush, then Adobe. The dialogue reveals the oft‑overlooked psychological component of building and selling: the “void” left after automation, the stress spikes, and the healing power of tennis. For aspiring founders, the key take‑aways are: read the book, act immediately, double‑down on what works, keep the content quality high, and guard your company’s intellectual assets and contractor agreements so an exit doesn’t collapse under legal snafu. The episode blends hard‑won entrepreneurship lessons with practical, step‑by‑step guidance, making it invaluable for anyone who wants to build a lean, high‑yield online business.\n\n",
+    "summary_zh": "布莱恩·迪恩用《四小时工作周》从破产地下室到拥有两家公司，展示了如何把危机变成被动收入帝国。他先用搜索引擎优化在2008年危机中快速盈利，随后转向白帽SEO，建立Backlinko并出售给Semrush、Adobe。对创业者的启示是：立即行动，聚焦有效方法，保持内容质量，保护知识产权和合同，才能顺利退出。文章结合心理层面和实战经验，适合想打造高效在线业务的人。\n\n",
+    "best_quote_en": "\"The biggest pain after automation is the void left in your life—how do you fill it?\"",
+    "best_quote_zh": "\"自动化后的最大痛点是生活中的空洞——你该如何填补它？\""
   }
 ]
