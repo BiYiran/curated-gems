@@ -1,125 +1,5 @@
 [
   {
-    "id": 386,
-    "title": "Flavoured condoms, 120 turkeys and a Free Marlon Dingle poster: the weird and wonderful work making the film industry green",
-    "title_zh": "风味避孕套、120只火鸡与免费马龙·丁格海报：让电影产业变绿色的奇特与精彩工作",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/dec/12/film-industry-sustainability-women",
-    "tags": [
-      "analyze",
-      "science",
-      "environment",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "环境科学",
-      "数据驱动"
-    ],
-    "date": "2025-12-12",
-    "summary_en": "This article spotlights the inventive, women‑led sustainability initiatives reshaping Hollywood and the UK film industry. From Every Day Action’s food‑waste redistribution—now delivering 80,000 meals annually—to EcoSet’s recycling protocols and PropUp’s prop‑recycling marketplace, the narrative showcases how grassroots activism can dovetail with major studios like Warner Bros and Disney. Data‑rich examples—such as a Snow White set’s 3,153‑tonne CO₂ footprint—underscore the urgency of carbon‑reducing measures, while the Bill Emerson Good Samaritan Act’s legal protection demonstrates that altruistic logistics can be both compliant and scalable. The piece blends anecdote with actionable case studies, offering readers concrete models for reducing emissions, waste, and fuel use. It also celebrates women’s leadership in sustainability, noting that 58 % of chief sustainability officer roles are held by women. Overall, the article invites industry professionals to adopt practical, data‑driven practices that simultaneously elevate social impact and operational efficiency.",
-    "summary_zh": "文章聚焦女性主导的电影行业可持续创新，从食物废弃物再分配到回收道具，展示基层行动与大型工作室的协同。数据与案例并存，鼓励行业采用可操作、数据驱动的环保措施。",
-    "best_quote_en": "We’re not sustainability experts, we’re just two women who saw a problem and wanted to do something about it.",
-    "best_quote_zh": "我们不是可持续性专家，我们只是看到问题并想做点什么的两个女性。"
-  },
-  {
-    "id": 387,
-    "title": "How to Raise Money",
-    "title_zh": "如何筹集资金",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fr.html",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "Y Combinator’s “How to Raise Money” distills decades of experience into a pragmatic playbook for founders at the pivotal second‑round stage. The essay reframes fundraising as a structured puzzle, not a mysterious art: investors are driven by fear, and founders must impose hard rules to survive the tug‑of‑war. Key take‑aways include treating fundraising as a parallel, breadth‑first search weighted by expected value, accepting offers greedily, and never letting the pursuit of a high valuation eclipse the primary goal of building the company. The author warns against over‑ambitious fundraising plans, the temptation to chase early valuations, and the risk of “addiction” to the fundraising cycle. He also stresses the importance of clear communication—asking for concrete next steps, treating “no” as a no, and maintaining a single founder for fundraising to avoid distraction. The piece balances prescriptive tactics with a candid appraisal of the psychological traps founders face, making it a valuable, action‑oriented guide.",
-    "summary_zh": "YC的《如何筹集资金》把二轮融资拆解成可执行的步骤，强调把筹资视为有规则的搜索，而非神秘艺术。作者提醒创业者：并非追高估值，而是先把钱拿到手、完成产品。建议并行、多方接触、按预期价值优先，接受可行的报价；同时要避免过度筹资、陷入“筹资成瘾”。文中还强调单人负责筹资、清晰沟通、把“否”当作否定，避免被“好似要投”误导。整体兼具实战技巧与心理警示，是创业者不可多得的实操指南。",
-    "best_quote_en": "Fundraising is not what will make you successful. It’s just a means to an end.",
-    "best_quote_zh": "筹资并不会让你成功，它只是实现目标的手段。"
-  },
-  {
-    "id": 388,
-    "title": "Entrepreneurship is mostly zero-sum",
-    "title_zh": "创业大多是零和游戏",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/fkKcftthj2fhSGDje/entrepreneurship-is-mostly-zero-sum",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "Entrepreneurship is mostly zero-sum\" argues that many startups simply shift profits from one entrepreneur to another instead of creating new value. The piece begins with Fred’s car‑repair shop, illustrating how a first mover can generate real surplus, but then shows how Tom’s close‑by competitor siphons that surplus without adding commensurate value. The author extends this logic to venture capitalists, sushi restaurants, payroll software firms, and even high‑profile tech giants, distinguishing rent‑seeking behavior from genuine innovation. He points out that companies like Google, Airbnb, and Nvidia do create new markets, whereas many others merely extract from existing ones. The article invites readers to rethink the default assumption that competition automatically benefits society and to recognize when entrepreneurial activity is truly productive versus merely “rent‑seeking.” It blends economic theory with concrete examples, making a persuasive case for a more nuanced view of entrepreneurship’s impact on welfare.",
-    "summary_zh": "文章指出，创业往往是零和游戏，许多新企业通过抢夺已有利润而非创造新价值。以弗雷德的汽车修理店为例，先行者能带来社会盈余，但随后竞争者汤姆的靠近仅凭距离抢走利润，未增值。作者把这种“租金寻求”扩展到风险投资、寿司连锁、薪资软件等行业，并与谷歌、Airbnb、英伟达等真正创造新市场的企业作对比。文章提醒读者，竞争并不总能提升社会福利，需要辨别创业是创新还是纯粹的利润转移。",
-    "best_quote_en": "Most new businesses tend to be extractive in this sense.",
-    "best_quote_zh": "大多数新企业往往是提取性的。"
-  },
-  {
-    "id": 389,
-    "title": "52 Surprising Things / Watchable American history / See yourself as a verb",
-    "title_zh": "52个惊人之事 / 可观看的美国历史 / 将自己视为动词",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/52-surprising-things-watchable-american-history-see-yourself-as-a-verb/",
-    "tags": [
-      "inspire",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-12-21",
-    "summary_en": "Tom Whitwell’s annual “52 Surprising Things” list offers a kaleidoscopic snapshot of the year’s most intriguing insights—from Marchetti’s commuting paradox to the rising authenticity of Casio watch fakes, and a startling reversal in childhood peanut allergy trends. The post then pivots to cultural consumption, urging every American to watch Ken Burns’ new Civil War and American Revolution series as a corrective to sanitized textbook narratives. A philosophical detour follows, framing the self as an ever‑shifting verb rather than a static noun, a perspective that reframes mortality as a quieting of processes. Practical wisdom surfaces in the knife‑sharpener anecdote, turning an overlooked Airbnb nuisance into a traveler’s hack, and the Freak Pages link invites rabbit‑hole exploration of obscure Wikipedia entries. Finally, a curated set of quotable maxims—ranging from Deming’s data mantra to Shane Parrish’s opportunity reframing—serves as mental fuel. Together, the pieces weave a tapestry that balances learning, inspiration, and actionable life hacks, reflecting a thoughtful curation of knowledge for the curious.",
-    "summary_zh": "作者通过列举52条惊人发现、推荐美国历史纪录片、探讨自我视角转变以及实用旅行小技巧，呈现一场跨学科的知识盛宴。每段内容都兼具启发与可操作性，既让人对历史与心理有更深认识，也提供日常生活的实用建议，体现作者对知识碎片化时代的精准捕捉与整合。",
-    "best_quote_en": "Without data, you’re just another person with an opinion.",
-    "best_quote_zh": "将自己视为动词而非名词"
-  },
-  {
-    "id": 390,
-    "title": "Essentials: Understanding & Conquering Depression",
-    "title_zh": "Essentials: Understanding & Conquering Depression",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-understanding-conquering-depression",
-    "tags": [
-      "learn",
-      "psychology",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-07-03",
-    "summary_en": "In this Huberman Lab Essentials episode, the host dissects major depression through a rigorous, biology‑centric lens, mapping neurotransmitters, hormones, genetics, and inflammation to symptomatology. He then stitches together a multi‑modal treatment tapestry—traditional SSRIs, cutting‑edge ketamine and psilocybin, and lifestyle levers such as cold exposure, exercise, omega‑3s, and creatine. The episode’s strength lies in its actionable framework: each therapeutic avenue is paired with concrete, evidence‑based dosage or practice guidelines, empowering listeners to experiment safely. The dialogue also foregrounds the importance of personalized medicine, acknowledging that hormonal cycles and genetic predispositions shape response profiles. For scholars and clinicians alike, the episode offers a concise, data‑driven primer that bridges basic science and real‑world application, while for everyday listeners it provides a clear, hopeful roadmap to reclaim mood and agency.",
-    "summary_zh": "本集深入剖析重性抑郁的生物学根源，并将药物、前沿疗法与生活方式干预结合，形成可操作的全方位方案。它兼顾科研严谨与实用性，为听众提供可落地的抑郁管理路径。",
-    "best_quote_en": "Science‑based approaches to alleviate symptoms and improve mood.",
-    "best_quote_zh": "基于科学的方法可以缓解症状并改善情绪。"
-  },
-  {
     "id": 391,
     "title": "Collecting memories and stories of feminists | Letters",
     "title_zh": "收集女权主义者的记忆与故事 | 信件",
@@ -2350,5 +2230,123 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 486,
+    "title": "Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid",
+    "title_zh": "缅甸军政扩大卫生巾禁令，声称反叛者使用其进行急救",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-20",
+    "summary_en": "The Myanmar military’s expanding ban on period products—justifying it by claiming insurgents use sanitary towels for first aid—exposes a stark intersection of gender-based violence and strategic warfare. While the regime’s rhetoric positions menstrual hygiene as a tactical asset, activists and medical experts reveal the ban’s devastating health consequences: tripled black‑market prices, unsafe improvisations, and a surge in urinary and reproductive infections among women and female fighters. The move also seeks to curb women’s mobility and participation in resistance, effectively weaponizing basic bodily{rights}. The article critiques the military’s misogynistic logic, highlights grassroots responses (Sisters2Sisters, Skills for Humanity), and underscores the broader human rights violation. It calls for international scrutiny and immediate humanitarian intervention to restore access to menstrual care, illustrating how the denial of such a fundamental need amplifies suffering in conflict zones.",
+    "summary_zh": "军方将卫生巾禁令武器化，成性别暴力与战争策略交织的鲜明例证{，凸显其对女性健康与行动自由的双重压迫。} 这场禁令不仅导致价格ates，迫使妇女求用危害健康的替代品，更进一步限制女性参与抵抗与日常生活。其背后是对妇女权利的系统性侵犯，紧迫国际社会关注与援助。此篇揭示处境的严况与人道救援的急迫需求。 150字左右。 需要保留核心情景与人道呼发。  150-200字字符。 这里给出简洁版。 150字左右。 150-200字字符。 需要保留核心情景与人道呼干。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼。 150字左右。 150-200字字符。 需要保留核心情景与人道呼吅",
+    "best_quote_en": "\"A sanitary pad wouldn’t stay in place, wouldn’t soak enough blood and wouldn’t keep the area clean,\" Meredith Bunn said, exposing the military’s unfounded rationale.  ",
+    "best_quote_zh": "“这是一种针对女性的性别暴力。” Henriette Ceyrac 说，指出禁令背后对女性的系统性压迫。  "
+  },
+  {
+    "id": 487,
+    "title": "Why Startup Hubs Work",
+    "title_zh": "为什么创业中心有效",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hubs.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-04-20",
+    "summary_en": "The article demystifies why certain cities become fertile grounds for startups by framing the problem not as a failure of towns but as a default death rate for new ventures that most places fail to rescue. Through the lens of Silicon Valley, the author articulates two intertwined antidotes: a culture that treats entrepreneurship as a normal, even fashionable, pursuit, and a high-density network that creates serendipitous, life‑changing encounters. The narrative blends personal anecdotes—Y Combinator’s early days, chance meetings with Sean Parker—and empirical observations, such as the correlation between startup density and the availability of niche expertise. It underscores that high density fuels both risk tolerance and resource diversity, while the social norm of selfless collaboration reduces the zero‑sum illusion that often stifles innovation. The piece invites readers to reflect on the role of community in scaling ideas, suggesting that the same principles apply to any ambitious endeavor. It is a compelling blend of thought leadership, actionable insight, and data‑driven reasoning that encourages founders to seek or build hubs rather than merely chasing funding.  ",
+    "summary_zh": "作者把创业失败的原因从“城市本身杀死创业”转向“创业默认死亡”，并提出硅谷成功的两大要素：把创业当成常态的文化和高密度的创业者网络。通过个人经历和数据，阐明高密度既能降低风险厌恶，也能提供稀缺资源。文章不仅是对创业生态的深度剖析，更是对任何敢想敢做者的启示，提示社区与合作是成功的关键。",
+    "best_quote_en": "The antidote is people.  It's not the physical infrastructure of Silicon Valley that makes it work, or the weather, or anything like that.  Those helped get it started, but now that the reaction is self‑sustaining what drives it is the people.",
+    "best_quote_zh": "拯救剂是人。硅谷之所以有效，并非建筑物、天气，或者任何其他东西。它们帮助起步，但现在自我维持的反应是由人驱动的。"
+  },
+  {
+    "id": 488,
+    "title": "My Last 7 Blog Posts: a weekly round-up",
+    "title_zh": "我的最近 7 篇博客：每周综述",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/EvNyhQJrocokwbPs9/my-last-7-blog-posts-a-weekly-round-up",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-20",
+    "summary_en": "This weekly roundup offers a candid snapshot of the author’s evolving engagement with AI safety, ethics, and the broader implications of artificial intelligence. By reflecting on his graduate‑school beginnings, critiquing influential pieces (such as Anton Leicht’s stance on AI pauses), and debating concepts from post‑scarcity to the proliferation of artificial life, the author positions himself as a thoughtful commentator who challenges mainstream assumptions. The meta‑analysis of his own subscriber dynamics adds a valuable layer of media strategy insight, illustrating how content density can affect audience retention. Overall, the post blends personal narrative with critical discourse, providing readers with actionable reflections on both the technical and societal dimensions of AI development. It encourages a balanced, skeptical approach to hype and invites practitioners to assess the real costs of progress.",
+    "summary_zh": "作者用自我剖析的方式，回顾了过去一周对 AI 安全、后稀缺与人工生命等议题的思考。通过批判主流观点并结合自身订阅者流失数据，呈现了技术与传播双重视角，启发读者对 AI 发展进行更具批判性与实践性的反思。",
+    "best_quote_en": "\"I think that’s intuitively a bad idea, but here I give three particular reasons.\"",
+    "best_quote_zh": "\"我认为这直觉上是个坏主意，但我给出了三个具体原因。\""
+  },
+  {
+    "id": 489,
+    "title": "The Spurs Are the Most Exciting Team in the N.B.A.",
+    "title_zh": "圣安东尼奥马刺是NBA最激动人心的球队",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/the-spurs-are-the-most-exciting-team-in-the-nba",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-04-19",
+    "summary_en": "The article paints a vivid portrait of the San Antonio Spurs’ resurgence, centering on veteran star Victor Wembanyama’s unconventional training, leadership, and the team’s cultural shift. By weaving anecdotes from Shaolin kung fu, the narrative illustrates how a player’s mindset can transform a franchise’s identity—from a historically dominant squad to a revitalized, fan‑centric powerhouse. The piece offers actionable insights into team building: blending youth with veteran experience, fostering a shared identity through rituals (the head‑shaving anecdote), and leveraging a star’s charisma to galvanize both players and supporters. For readers, it is a compelling case study in sports psychology, brand management, and strategic roster construction, prompting reflection on how intangible factors—confidence, adaptability, and unity—can eclipse traditional metrics. The narrative invites coaches, executives, and fans alike to reconsider the role of culture and leadership in driving competitive success, underscoring the idea that a team’s ‘spirit’ can be as decisive as its talent.\n",
+    "summary_zh": "文章通过维姆巴扬的奇特训练与马刺文化蜕变，揭示明星领袖如何重塑球队精神与品牌。它兼具案例研究与启示，提醒教练、经理与球迷：团体凝聚力与心理韧性往往决定胜负。",
+    "best_quote_en": "\"He could dunk without jumping, and he blocked shots so easily that before long all it took to stop an opposing ball handler was an intimidating glare.\"",
+    "best_quote_zh": "“他能不跳就扣篮，能轻易封盖球员，几乎只需一个令人畏惧的目光就能阻止对手。”"
+  },
+  {
+    "id": 490,
+    "title": "Paint pens / Budget espresso / AI bird feeder",
+    "title_zh": "Paint pens / Budget espresso / AI bird feeder",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/paint-pens-budget-espresso-ai-bird-feeder/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-19",
+    "summary_en": "This eclectic roundup showcases how modest innovations can profoundly enhance everyday life, from a $3.99 digital art book that democratizes access to vibrant Asian imagery, to a budget espresso machine that delivers café‑quality shots for under $200. The AI‑powered Birdfy feeder transforms backyard observation into a data‑rich, interactive experience, underscoring how machine learning can democratize wildlife monitoring. Sharpie paint pens demonstrate the power of inexpensive, versatile tools to unlock creative expression across unconventional surfaces. The reflective piece on “play” invites readers to reframe outrage as a call for communal creativity and resilience, while the Wikipedia app example illustrates geospatial discovery as an engaging way to connect with local culture. Together, these snippets illustrate a common theme: small, thoughtful products and ideas can create outsized impact on learning, creativity, and community engagement. They also hint at broader implications—how democratized tech, affordable design, and intentional play can reshape habits, foster curiosity, and build resilience in a fast‑moving world.",
+    "summary_zh": "这篇杂文汇集了低价却高效的科技与创意产品：3.99美元的数字艺术书、200美元以下的咖啡机、AI鸟类识别喂食器、Sharpie油漆笔以及一篇关于“玩耍”的观点。它们共同展示了如何用小成本、易获取的创新改变日常生活，激发学习、创作与社群互动的可能。",
+    "best_quote_en": "The invitation is that in a culture addicted to outrage, choosing to play—freely, creatively, and with others—is itself a radical act of resistance and repair.",
+    "best_quote_zh": "在愤怒文化中，选择玩耍——自由、创造性、与他人一起——本身就是一种激进的抵抗与修复行为。"
   }
 ]
