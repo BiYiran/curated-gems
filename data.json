@@ -1,125 +1,5 @@
 [
   {
-    "id": 396,
-    "title": "Investor Herd Dynamics",
-    "title_zh": "投资者羊群动态",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/herd.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "startup-funding",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "创业融资",
-      "争议观点"
-    ],
-    "date": "2025-12-24",
-    "summary_en": "This essay unpacks the often‑misunderstood \"herd effect\" that governs early startup fundraising. It shows that a single investor’s interest can snowball into a cascade, raising a company’s perceived value, lowering its risk profile, and boosting founder confidence—factors that together convince other investors to jump in. The author warns against chasing a stampede for its own sake, noting that many hype‑driven deals implode, while modestly popular firms can thrive. Practical take‑aways include honest communication, avoiding over‑exaggeration, and respecting other investors’ confidentiality. By blending psychological insight with concrete tactics, the piece offers founders a nuanced map of how reputational dynamics shape capital flow and how to navigate them without manipulation.",
-    "summary_zh": "这篇文章揭示了投资者间相互影响的“羊群效应”，指出成功融资并非仅靠单一投资者，而是通过连锁效应形成市场共识。作者强调，早期融资能降低风险、提升公司价值，并增强创始人自信，进而吸引更多投资者。文章批判盲目追求“stampede”而忽视质量，提醒创始人注意真诚沟通与议价技巧。它既提供了心理学视角，也给出实务建议，是创业者理解融资生态、避免被误导的必读材料。",
-    "best_quote_en": "When one investor wants to invest in you, that makes other investors want to, which makes others want to, and so on.",
-    "best_quote_zh": "当一位投资者想投资你时，其他投资者也会想投资，接着又会引发更多投资者的兴趣，形成连锁反应。"
-  },
-  {
-    "id": 397,
-    "title": "Alignment Fellowship",
-    "title_zh": "对齐奖学金",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/kCnwovXFHoqu5DvN2/alignment-fellowship",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-24",
-    "summary_en": "The piece opens with a blunt critique of the grant‑seeking grind, framing it as a systemic drain on creativity and productivity—especially for the kind of high‑risk, high‑reward work that fuels AI alignment. By proposing a crowd‑sourced, unconditional fellowship, the author flips the traditional funding model on its head: instead of gatekeepers, the community itself votes on who receives a two‑year, $200k stipend. This idea sits at the intersection of startup‑funder mechanics, AI research priorities, and community governance. The author’s questions probe feasibility—what should the grant size be, who gets to vote, and how to avoid bias—while hinting at a broader shift toward merit‑based, low‑friction support for existential risk work. The proposal is provocative, actionable, and invites a dialogue about democratizing research funding, making it a fertile ground for policy experimentation and community‑driven innovation.",
-    "summary_zh": "作者尖锐批评传统奖学金申请流程，指出其对创造力和生产力的抑制，尤其是对AI对齐等高风险工作。提议通过社区投票、无条件拨款的方式颠覆传统模式，邀请读者思考资助规模、投票主体及公平性等关键问题，激发关于去中心化研究资助的讨论。",
-    "best_quote_en": "The process of applying for grants, raising money, and justifying your existence sucks.",
-    "best_quote_zh": "如果你必须定期经历这个过程，并被迫不断担心让你的工作易懂以及别人如何评判它，这将极大地损害你的真正生产力。"
-  },
-  {
-    "id": 398,
-    "title": "Trump, Epstein, and the Women",
-    "title_zh": "特朗普、爱泼斯坦与女性",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/trump-epstein-and-the-women",
-    "tags": [
-      "learn",
-      "politics",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "Trump’s public persona, once a charismatic real‑estate mogul, has been irrevocably reframed by a cascade of documents and testimonies that expose a pattern of misogyny and sexual misconduct. In this piece, the author weaves together the infamous Access Hollywood tape, the 2023 civil judgment against Trump, and the newly released Epstein files to paint a portrait of a man who has consistently treated women as objects. The analysis highlights the strategic use of denial, the role of media framing, and the persistence of a culture that excuses or dismisses such behavior. By drawing on investigative reporting from The Times and firsthand accounts, the article offers a nuanced understanding of how power, privilege, and misogyny intersect in contemporary politics. It also underscores the broader societal implications: the erosion of trust in public institutions, the ongoing struggle for women’s safety, and the necessity of holding leaders accountable. Readers gain both factual depth and a critical lens for assessing political rhetoric and accountability in the age of digital evidence.",
-    "summary_zh": "特朗普的公众形象因一系列文件与证词被彻底重塑，展现出对女性的持续物化与性侵行为。文章结合《Access Hollywood》录音、2023民事判决及新公布的爱泼斯坦档案，描绘其权力与特权如何让女性沦为工具。通过《泰晤士报》调查与亲历者证词，作者剖析否认策略、媒体框架与社会文化对这种行为的纵容。文章不仅提供事实深度，更以批判视角审视政治话语与问责机制，提醒公众关注女性安全与制度信任的崩塌。",
-    "best_quote_en": "I have great respect for women. Nobody has more respect for women than I do.",
-    "best_quote_zh": "女性身体是货币"
-  },
-  {
-    "id": 399,
-    "title": "Arthur Brooks — Finding The Meaning of Your Life, The Poet’s Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred (#841)",
-    "title_zh": "Arthur Brooks — 寻找你的人生意义，诗人的协议，神圣的半小时，以及你痛苦的神圣性（#841）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/23/arthur-brooks-meaning/",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "Arthur Brooks, a Harvard Kennedy School professor renowned for blending leadership with happiness, takes listeners on a journey through the search for meaning in a world of emptiness. In this episode, he draws on psychological research, philosophical insights, and his own bestselling books—such as \"Build the Life You Want\" and the forthcoming \"The Meaning of Your Life\"—to craft a practical framework for turning suffering into purpose. Brooks’ conversational style demystifies complex concepts, offering actionable steps like gratitude rituals, reflective journaling, and intentional community building. The episode’s value lies in its balance of academic rigor and everyday relevance, empowering listeners to move from existential doubt to purposeful living. It’s a compelling reminder that meaning is not a static destination but an evolving practice, especially pertinent for those navigating midlife transitions or post‑pandemic disquiet.",
-    "summary_zh": "Arthur Brooks 作为哈佛教授，以领导力与幸福为核心，探讨人生意义与痛苦的价值。他在播客中结合心理学、哲学与实践案例，提供可落地的行动框架，让听众在空虚时代寻找目标与满足。通过对《The Meaning of Your Life》等著作的阐释，他呈现出一种既学术又亲和的自我成长路径，既鼓舞人心，又具可操作性。",
-    "best_quote_en": "Finding Purpose in an Age of Emptiness",
-    "best_quote_zh": "在空虚时代寻找意义"
-  },
-  {
-    "id": 400,
-    "title": "Bandcamp Fridays hit $154m in payouts since 2020, with $19m paid in 2025 alone",
-    "title_zh": "自2020年以来，Bandcamp Fridays累计支付1.54亿美元，2025年单年支付1900万美元",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/bandcamp-fridays-hit-154m-in-payouts-since-2020-with-19m-paid-in-2025-alone/",
-    "tags": [
-      "analyze",
-      "business-model",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "商业模式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "Bandcamp’s Friday‑only payouts illustrate the power of direct‑to‑fan commerce. Since its launch in March 2020, the platform has disbursed $154 million, with $19 million in 2025 alone—an 82 % artist‑first model that outpaces traditional label splits. The data reveal a steady growth trajectory: a $31 million jump from the previous year, and a record $3.8 million in a single 24‑hour burst. Bandcamp’s new “Clubs” subscription and planned 2026 expansion signal a strategic pivot toward curated, community‑driven discovery. The article’s key insight is that fan‑generated revenue can sustain niche artists without algorithmic gatekeeping, yet the model’s scalability hinges on platform fees and subscription uptake. Critics might question whether the 15 % fee on regular sales erodes the long‑term value for indie labels, but the overall payout trend suggests a viable alternative ecosystem. For entrepreneurs, the case underscores the importance of flexible revenue sharing and community building in a fragmented music market.",
-    "summary_zh": "Bandcamp Fridays的支付数据显示，直接对粉丝的商业模式能为独立艺术家带来可观收入。自2020年起累计支付1.54亿美元，2025年单年1900万美元，显示出稳定增长。平台通过“Clubs”订阅与2026年八场活动，试图在社区驱动与算法相对抗的环境中寻找可持续路径。对创业者而言，这一案例强调灵活分成与社区建设在碎片化音乐市场中的价值。",
-    "best_quote_en": "\"Five years on, Bandcamp Fridays continue to show just how powerful direct fan support can be.\"",
-    "best_quote_zh": "\"2025年又是艺术家和标签的又一个辉煌年，凭借我们年度最强的周五，我们对2026年的社区机会充满兴奋。\""
-  },
-  {
     "id": 401,
     "title": "Jess Cartner-Morley on fashion: when it comes to lace, it’s all about the trimmings",
     "title_zh": "Jess Cartner‑Morley谈时尚：关于蕾丝，一切都在于细节",
@@ -2344,5 +2224,121 @@
     "summary_zh": "文章以右脑感知训练为核心，阐述绘画是可学的技能，提供逆向复制、阴影空间练习等实用方法，并强调左脑的抵制与克服策略。配合精准的铅笔修整器与擦除工具，展示工具与思维的契合。它让我们看到，绘画不只是天赋，而是可培养的感知习惯。",
     "best_quote_en": "Drawing is a curious process, so intertwined with seeing the that the two can hardly be separated.",
     "best_quote_zh": "绘画是一种好奇的过程，它与观察紧密相连，几乎无法分离。"
+  },
+  {
+    "id": 496,
+    "title": "Feeling flush with Izal mementoes | Brief letters",
+    "title_zh": "Feeling flush with Izal mementoes | Brief letters",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/apr/21/feeling-flush-with-izal-mementoes",
+    "tags": [
+      "inspire",
+      "education",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-04-21",
+    "summary_en": "The piece weaves a humorous yet historically grounded narrative around Izal antiseptic toilet roll, spotlighting its wartime service and the absurd anecdote that soldiers once wiped themselves on a picture of Hitler. By juxtaposing wartime anecdotes with contemporary consumer culture—sustainable jeans from charity shops, the Proms’ musical notes, and bread‑baking nostalgia—the author invites readers to reflect on how mundane objects anchor collective memory. The letter format, a staple of the Guardian’s commentary, lends authenticity and invites communal dialogue about hygiene, gendered experiences of incontinence, and the commodification of nostalgia. While the tone is light, the underlying critique of how history is commercialized and the role of women in maintaining public hygiene surfaces. The article thus serves both as an entertaining historical vignette and a subtle commentary on consumerism, memory, and the persistence of wartime narratives in modern society.",
+    "summary_zh": "文章以幽默方式回顾Izal消毒卫生纸在两次世界大战中的使用，特别是士兵用希特勒照片擦拭自己的荒唐细节。作者将此历史逸事与当代可持续牛仔裤、普罗姆音乐与烘面包等日常话题相连，提示读者思考日常物品如何承载集体记忆，并从消费主义视角审视历史的商业化。文章以信件形式呈现，既贴近读者，又引发关于女性尿失禁与公共卫生的讨论，体现了历史与当代记忆的交织。",
+    "best_quote_en": "During the second world world war, ‘you could wipe yourself on a picture of Hitler’.",
+    "best_quote_zh": "在第二次世界大战期间，你可以用希特勒的照片擦拭自己。"
+  },
+  {
+    "id": 497,
+    "title": "Subject: Airbnb",
+    "title_zh": "Airbnb",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnb.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-04-22",
+    "summary_en": "This article offers a rare behind‑the‑scenes look at early-stage venture capital dynamics through an email thread between Paul Graham and Fred Wilson about Airbnb. It reveals how VCs wrestle with skepticism, debate internally, and ultimately decide to invest once they witness founders’ market validation. The narrative underscores the importance of founder‑investor chemistry, iterative learning, and the power of early user engagement in validating a disruptive business model. The piece also highlights the broader ecosystem where investors must persuade each other, a nuanced process often hidden from public view. For entrepreneurs, it serves as a reminder that persistence, clear communication, and evidence of traction can shift even the most doubtful partners. For VCs, it illustrates that disciplined skepticism balanced with openness can uncover game‑changing opportunities. Overall, the thread provides actionable insight into the decision‐making process and the human element behind early tech investments.",
+    "summary_zh": "这段邮件记录让我们窥见早期风投决策的幕后：从怀疑到验证，从内部辩论到最终投资。它提醒创投人需要耐心、沟通与实地验证，而创始人则需展示真实用户需求。",
+    "best_quote_en": "\"Ideas can morph. Practically every really big startup could say, five years later, 'believe it or not, we started out doing ___.'\"",
+    "best_quote_zh": "\"想法可以演变。几乎每个大公司都能说，五年后，‘不管你信不信，我们最初是做___的。’\""
+  },
+  {
+    "id": 498,
+    "title": "Posts I don't have time to write",
+    "title_zh": "我没时间写的帖子",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MqgwHJ93pJpaeHXs6/posts-i-don-t-have-time-to-write",
+    "tags": [
+      "analyze",
+      "society",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-22",
+    "summary_en": "This post is a meta‑reflection on the act of writing itself, narrated as a series of ten brief essays that oscillate between personal anecdote, philosophical musing, and social critique. It functions as a study of the paradoxical nature of online discourse: the desire to share, the fear of being ignored, and the tendency to over‑explain. The author exposes the irony that the most compelling posts are often those that feel like the author is pleading for attention, and that the most honest content can be drowned in self‑parody. The piece is valuable for anyone who wants to understand the mechanics of attention, the limits of self‑presentation on social media, and the cultural pressures that shape our digital self‑expression. It also invites readers to question their own motivations for posting, offering a subtle critique of the performative aspects of online communities. Ultimately, the article is an invitation to think critically about the act of communication and the hidden cost of trying to be heard.",
+    "summary_zh": "这篇短文通过十段自我反思与社会批判，剖析写作与在线表达的矛盾与成本，提醒读者审视自己的发帖动机与信息传递的真实价值。",
+    "best_quote_en": "“I am a busy man and will die knowing I have not said all I wanted to say.”",
+    "best_quote_zh": "“我很忙，终有一天会死去，却没有说完我想说的一切。”"
+  },
+  {
+    "id": 499,
+    "title": "What Nicolás Maduro’s Life Is Like in a Notorious Brooklyn Jail",
+    "title_zh": "尼古拉斯·马杜罗在臭名昭著的布鲁克林监狱里的生活",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-nicolas-maduros-life-is-like-in-a-notorious-brooklyn-jail",
+    "tags": [
+      "update",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-04-21",
+    "summary_en": "The piece weaves a surreal narrative of a Venezuelan president held in a U.S. federal detention center with rappers, tech moguls, and other high‑profile inmates. It exposes the peculiar human side of imprisonment—Maduro’s solitary confinement, his interactions with 6ix9ine, and the logistical challenges of detaining a head of state. The article also probes the geopolitical ripple effects: Trump’s ambiguous support, Venezuela’s leadership vacuum, and the international optics of detaining a sovereign leader. Readers gain a rare glimpse into the intersection of politics, law enforcement, and media spectacle, underscoring how incarceration can become a stage for power struggles and propaganda. The narrative invites critical reflection on the ethics of high‑profile detentions, the security protocols behind them, and the broader implications for international diplomacy and domestic politics.",
+    "summary_zh": "文章以尼古拉斯·马杜罗在布鲁克林监狱的囚禁生活为线索，交织政治、司法与媒体的戏剧性张力。通过与6ix9ine等高知名度囚犯的互动，揭示了监禁对国家元首的独特挑战与国际政治的连锁反应。",
+    "best_quote_en": "They will never encounter inmates from any other part of the facility, and officials will not put any dangerous inmates in there, which could be a problem.",
+    "best_quote_zh": "他只读圣经。他读每一本圣经。"
+  },
+  {
+    "id": 500,
+    "title": "Groundbreaking Food Gardens / World of Warcraft Chronicle",
+    "title_zh": "突破性的食物花园 / 魔兽世界年鉴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/groundbreaking-food-gardens-world-of-warcraft-chronicle/",
+    "tags": [
+      "update",
+      "design",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-04-21",
+    "summary_en": "The article juxtaposes two seemingly disparate books—Niki Jabbour’s visual‑rich design catalog *Groundbreaking Food Gardens* and Blizzard’s lore‑dense *World of Warcraft Chronicle*—to explore how form and content can both inspire and educate. In the gardening tome, the author praises the modular, themed plots that blend practical horticultural advice with historical anecdotes, demonstrating how a well‑structured layout transforms a dense subject into accessible, actionable inspiration. Conversely, the Warcraft chronicle is lauded for its chronological narrative, vivid maps, and high‑quality illustrations that distill the franchise’s sprawling lore into a coherent, tactile companion. Together, the pieces underscore a broader trend: curated, aesthetically driven design can empower hobbyists and fans alike, turning complexity into curiosity. Readers gain not only practical tips for their own gardens but also a template for engaging with intricate fictional worlds. The article invites us to consider how visual storytelling and thoughtful organization elevate both learning and leisure, revealing that the boundary between play and practice is often porous and mutually reinforcing.",
+    "summary_zh": "文章将两本看似迥异的精装书——Niki Jabbour 的《突破性的食物花园》和《魔兽世界年鉴》——并列，以探讨形式与内容如何共同激发与传授。园艺书以模块化主题与实用技巧相结合，呈现易懂的视觉设计；年鉴则以时间线、地图与精美插画，将庞大叙事压缩成易读伙伴。两者共同揭示：精心策划的视觉体验能让爱好者在实践与游戏间自由切换，学习与娱乐相互渗透。",
+    "best_quote_en": "\"Even the most bibliophilic gardener has to admit, it’s hard to find a good gardening book that says or does something new.\"",
+    "best_quote_zh": "\"即使是最热爱书籍的园丁也不得不承认，找到一本真正有新意的园艺书也很难。\""
   }
 ]
