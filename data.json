@@ -1,121 +1,5 @@
 [
   {
-    "id": 406,
-    "title": "How to Convince Investors",
-    "title_zh": "如何说服投资者",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/convince.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "The article distills the art of convincing venture capitalists into a simple, psychologically grounded process: first convince yourself, then articulate the conviction. It argues that investors, who view startups as high‑variance bets, are primarily looking for three things—formidable founders, a plausible path to a big market, and early evidence of traction. Rather than relying on flashy pitches, the author stresses the importance of truth, domain expertise, and concise communication. By framing a startup as a “good bet” rather than a guaranteed success, founders can navigate the power‑law distribution of exits and the initial judgment that investors make within minutes. The piece also tackles common pitfalls such as over‑confidence, misreading investor signals, and the temptation to lie about other investors’ interest. Practical take‑aways include pausing to internalize the company’s value, using data to support market size claims, and presenting a clear, test‑able roadmap. It ends with a recipe: make something worth investing in, understand why it is worth investing in, and explain that clearly to investors.",
-    "summary_zh": "作者把说服投资者的艺术归结为先说服自己，再清晰阐述。强调投资者关注三点：强势创始人、可行的大市场路径和早期证据。倡导以“好赌注”而非“必胜”来定位创业，强调真诚、专业知识和简洁沟通。文章还提醒不要夸大、误读投资者信号或撒谎。实用建议包括先内化公司价值、用数据证明市场规模、制定可检验路线图。最终给出三步配方：做值得投资的事、明白其价值、清晰说明。",
-    "best_quote_en": "Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you.",
-    "best_quote_zh": "先说服自己你的创业值得投资，然后向投资者解释时他们会相信你。"
-  },
-  {
-    "id": 407,
-    "title": "Unknown Knowns: Five Ideas You Can't Unsee",
-    "title_zh": "未知已知：五个你无法忘记的想法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/uqnpbDxnhi9aeQ8Hx/unknown-knowns-five-ideas-you-can-t-unsee",
-    "tags": [
-      "solve",
-      "personal-finance",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "个人理财",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-12-25",
-    "summary_en": "The post catalogues five seemingly obvious yet often invisible concepts—Intermediate Value Theorem, Net Present Value, local linearity of differentiable functions, Grice’s maxims, and Theory of Mind—labeling them “unknown knowns.” By illustrating how people routinely misjudge real‑world decisions when these ideas are absent, the author invites readers to acquire these mental tools. The analysis is rooted in everyday examples—grocery store ordering, donation thresholds, voting power, tax brackets, and interpersonal misreadings—making abstract mathematics and philosophy accessible. The piece underscores that ideas shape civilization, urging a deliberate, curiosity‑driven practice of learning and applying such concepts to improve reasoning, policy, and personal decision‑making. It blends critical insight with a call to action, offering a roadmap for integrating hidden knowledge into everyday cognition.",
-    "summary_zh": "作者通过列举中学数学、财务评估、微积分、格里奇准则与心智理论等“未知已知”，揭示了人们常因缺乏基本概念而误判现实的盲点。文章鼓励读者主动学习这些隐形工具，提升思维精确度，进而更好地解决问题、评估决策。",
-    "best_quote_en": "Ideas matter, and if we try harder and work smarter, if we approach every problem with simultaneous dedication and curiosity, together we can learn more ideas, integrate them into our worldviews, and use those ideas to improve our lives, and the world.",
-    "best_quote_zh": "想法很重要，如果我们更努力、更聪明地工作，并以专注和好奇心同时面对每一个问题，我们就能一起学到更多想法，将它们融入我们的世界观，并用这些想法来改善我们的生活和世界。"
-  },
-  {
-    "id": 408,
-    "title": "The Right Wing Rises in Latin America",
-    "title_zh": "拉丁美洲右翼崛起",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-right-wing-rises-in-latin-america",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "The article dissects the seismic shift in Latin American politics marked by José Antonio Kast’s ascension in Chile, framing it as a broader right‑wing resurgence that echoes the authoritarian currents of Pinochet, Orbán, and Trump. By weaving historical lineage—Kast’s Nazi‑connected father, Pinochet’s legacy, and the recent surge of hard‑right leaders—it exposes a pattern of nostalgia for autocracy masked as populist reform. The piece critically interrogates the implications for democratic institutions, human rights, and regional stability, noting the looming threat of legal amnesty for former repressors and the erosion of historical memory. It also situates Chile’s election within a continental trend of political polarization, suggesting that the new leadership may accelerate the dismantling of civil‑societal safeguards. The article invites readers to grapple with the paradox of “strength of change” as a slogan that may conceal a regression toward centralized power, urging vigilance in preserving democratic norms amid rising populist fervor.",
-    "summary_zh": "文章剖析了以卡斯特当选为核心的拉丁美洲右翼崛起，揭示其与皮诺切特、奥尔班和特朗普等极右势力的历史共振。通过探讨卡斯特家族与纳粹、皮诺切特遗产的关联，文章警示民主制度与人权的脆弱性，并指出未来可能出现的前任专制分子宽恕与历史记忆的淡化。它将智利选举置于地区政治极化的宏观框架中，提醒读者在“变革力量”口号背后警惕权力集中的潜在风险，强调在日益激进的民粹浪潮中维护民主规范的重要性。",
-    "best_quote_en": "Kast has never criticized Pinochet’s dictatorship, and in that sense he represents one of his most faithful heirs.",
-    "best_quote_zh": "卡斯从未批评过皮诺切特的独裁统治，从这个意义上说，他代表了皮诺切特最忠实的继承人之一。"
-  },
-  {
-    "id": 409,
-    "title": "How To Create a Realistic Financial Plan (That You’ll Actually Stick To)",
-    "title_zh": "如何制定一份你会坚持的现实财务计划",
-    "source": "Making Sense of Cents",
-    "link": "https://www.makingsenseofcents.com/2025/12/how-to-create-a-realistic-financial-plan.html",
-    "tags": [
-      "solve",
-      "personal-finance",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "个人理财",
-      "未来预测"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "The article demystifies financial planning, framing it as a practical map rather than an abstract spreadsheet. It starts with a candid assessment of where you stand—checking balances, debts, and spending patterns—then moves to setting SMART, life‑aligned goals. The author advocates for a flexible budgeting framework, offering zero‑based, 50/30/20, and pay‑first methods, and stresses the power of automation to lock in savings and debt payments. A recurring theme is the importance of an emergency fund, debt payoff strategies, and trimming unnecessary subscriptions. The piece also encourages side hustles and investment habits, concluding with a call to monitor progress monthly. Overall, the tone is empowering, grounded in actionable steps, and emphasizes that a plan only matters if it’s realistic and adaptable to your daily life.",
-    "summary_zh": "文章把财务规划拆解为可操作的步骤，先盘点现状、设定可衡量目标，再用多种预算模型与自动化工具打造可持续习惯。它强调紧急基金、债务还款、削减无效开支和副业收入，最后提醒定期复盘。整体语气鼓舞人心，强调计划只有在贴合生活并能坚持时才有价值。",
-    "best_quote_en": "A budget isn’t about restrictions. It’s about telling your money where to go.",
-    "best_quote_zh": "预算不是限制，而是让你的钱去往你想去的地方。"
-  },
-  {
-    "id": 410,
-    "title": "Fat, fearless and over 50. Thanks to my TikTok outfit posts, I feel powerful and seen | Jen Walshaw",
-    "title_zh": "肥胖、无畏且50岁以上：感谢我的TikTok穿搭视频，我感到强大且被看到 | Jen Walshaw",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/dec/26/tiktok-outfit-posts-fat-fearless-over-50-jen-walshaw-mum-in-the-madhouse",
-    "tags": [
-      "update",
-      "society",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "After a life‑shattering illness, Jen Walshaw turned TikTok’s “fit‑of‑the‑day” trend into a therapeutic ritual that restored her agency. By declaring herself “fat, flat, over 50” in every bio, she reclaimed a word that had once been a stigma and used it as a badge of unapologetic presence. The article traces how a simple dressing‑up routine evolved into a vibrant community of 4,500 followers who celebrate her style, her body, and her resilience. Beyond the personal narrative, the piece spotlights a broader cultural blind spot: older, plus‑size women are invisible in fashion and media, yet they command 27 % of consumer spending. Jen’s story is a call to re‑imagine inclusivity, proving that authenticity and community can turn a personal healing practice into a social movement.",
-    "summary_zh": "在经历了住院与喂食管的沉重打击后，Jen用TikTok的穿搭视频重拾自我。她以“肥胖、无畏、50+”的自我标签，打破年龄与体型的刻板印象，激发同龄女性的自信与时尚意识。文章不仅记录个人康复旅程，更揭示老年女性在消费与文化中的潜在力量，呼吁时尚与社交媒体更包容。她的故事是对自我接纳与社群支持的生动证明，提醒我们在数字时代，表达与被看见的意义可跨越身体与年龄的界限。",
-    "best_quote_en": "I call myself fat because that’s what I am – it’s a descriptor, not an insult. Taking ownership of the word removes its sting, and it’s my way of taking up space unapologetically.",
-    "best_quote_zh": "我把自己称作肥胖，因为那就是我——它是一个描述词，而不是侮辱。拥有这个词的所有权消除了它的刺痛，这是我无所畏惧地占据空间的方式。"
-  },
-  {
     "id": 411,
     "title": "Do Things that Don't Scale",
     "title_zh": "做那些无法扩展的事",
@@ -2338,5 +2222,121 @@
     "summary_zh": "Jarvis博士揭示语言与音乐的神经根源，指出歌声先于语言，运动与语言共享神经线路，强调儿童期学习窗口与基因作用，并提出运动与音乐可延缓认知衰退。",
     "best_quote_en": "“The ability to learn and produce vocalizations is extraordinarily rare in the animal kingdom, and that rarity is what makes human language so remarkable.”",
     "best_quote_zh": "“学习和产生声响的能力在动物王国中极为罕见，这种罕见正是人类语言如此非凡的关键。”"
+  },
+  {
+    "id": 506,
+    "title": "Breast reductions in UK overtake enlargements for first time, data shows",
+    "title_zh": "英国乳房缩小手术首次超过隆胸手术，数据显示",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/apr/23/breast-reductions-in-uk-overtake-enlargements-for-first-time-data-shows",
+    "tags": [
+      "update",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-04-23",
+    "summary_en": "The latest British Association of Aesthetic Plastic Surgeons audit reveals a landmark shift: breast reductions and implant removals now outpace breast enlargements for the first time. In 2025, 4,673 reduction procedures and 847 removals eclipsed 4,761 augmentations, signaling a cultural pivot toward comfort, active living, and athleisure fashion. Surgeons attribute the trend to a desire for natural silhouettes and functional ease, with similar patterns emerging in men’s facial procedures and a surge in brow lifts and labiaplasties. The data underscores how lifestyle evolution—more exercise, form‑fitting apparel—alters aesthetic priorities. For clinicians, the findings suggest a need to adjust pre‑op counseling, marketing strategies, and resource allocation toward non‑augmentative services. For patients, it highlights an emerging narrative that aesthetic choices are increasingly lifestyle‑driven rather than purely vanity‑based. This transformation invites further research into the psychosocial drivers behind cosmetic decision‑making and the long‑term outcomes of a more “natural” aesthetic paradigm.",
+    "summary_zh": "英国最新审计显示，乳房缩小手术与移除植入物首次超过隆胸，反映人们更追求舒适、活跃生活方式，重塑审美观。",
+    "best_quote_en": "For the first time, we are seeing the number of patients undergoing breast reduction and implant removal surpass those opting for augmentation.",
+    "best_quote_zh": "首次见到乳房缩小和植入物移除的患者数量超过选择隆胸的人数。"
+  },
+  {
+    "id": 507,
+    "title": "Tablets",
+    "title_zh": "平板电脑",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/tablets.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-04-25",
+    "summary_en": "The article envisions the transformative power of tablet devices, arguing that they will systematically replace specialized hardware through software‑centric ‘ephemeralization’. It highlights how the iPhone and iPad have already blurred device categories, turning phones into tablets and enabling apps to supplant GPSes, music players, cameras, and even reading glasses. The author urges entrepreneurs to scout for everyday tools that can be eliminated by a tablet app, positioning this as a launchpad for new startups. He warns of Apple’s potential dominance but suggests that platforms with broad hardware and software APIs will foster innovation and competition. The piece blends historical insight—referencing Buckminster Fuller’s concept of ephemerization—with a practical roadmap, urging developers and hardware makers to embrace versatility and openness. It serves as both a visionary forecast and a strategic guide for innovators seeking to capitalize on the tablet wave.",
+    "summary_zh": "作者以平板电脑为核心，阐释其如何通过软件化取代专用硬件，提出企业应寻找可被平板应用替代的日常工具，并警示苹果可能的垄断，强调开放平台的重要性，既是未来预判，也是创业指南。",
+    "best_quote_en": "The only reason we even consider calling them \"mobile devices\" is that the iPhone preceded the iPad.  If the iPad had come first, we wouldn't think of the iPhone as a phone; we'd think of it as a tablet small enough to hold up to your ear.",
+    "best_quote_zh": "我们之所以把它们称作“移动设备”，唯一的原因是iPhone先于iPad出现。如果iPad先出现，我们不会把iPhone看作电话，而会把它视为足够小到可以放在耳边的平板。"
+  },
+  {
+    "id": 508,
+    "title": "Quick Paper Review: \"There Will Be a Scientific Theory of Deep Learning\"",
+    "title_zh": "快速论文点评：《深度学习会有科学理论》",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2WkeiYFT5p3ph8Pkf/quick-paper-review-there-will-be-a-scientific-theory-of-deep",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-25",
+    "summary_en": "The piece is a nuanced, critical examination of Simon et al.’s manifesto that proposes “learning mechanics” as the next scientific theory of deep learning. Rather than merely summarizing the paper, the author interrogates the historical pessimism that has shaped the field, the novelty of framing dynamics as a physics‑like theory, and the practical relevance of the proposed research agenda. The review highlights five lines of evidence—analytic toy models, infinite‑width limits, empirical regularities, hyperparameter scaling, and universality of inductive biases—while weighing them against the fact that most current results are largely theoretical or offer limited engineering payoff. The author explicitly discusses the manifesto’s stance relative to classical learning theory, information theory, neuroscience, and mechanistic interpretability, and evaluates the paper’s claims on utility for AI safety, governance, and practical LLM training. The overall tone is intellectually curious yet skeptical: the author acknowledges the manifesto’s clarity and inspirational potential for novices, yet questions whether learning mechanics will truly deliver actionable guidance for practitioners or satisfy the rigorous demands of a scientific theory. This critical lens invites readers to reflect on the current state of deep‑learning theory, the balance between ambition and evidence, and the future pathways that might bridge the gap between physics‑like abstractions and real‑world AI systems.",
+    "summary_zh": "作者以批判性视角剖析Simon等人的宣言，探讨“学习力学”是否能成为深度学习的科学理论。文章既指出该理论在解释动力学、提供工程指导和AI治理方面的潜力，又警示其目前缺乏可操作性和实证支持。批评中既肯定宣言的启发性，也提醒读者在高远目标与现实证据之间保持平衡，思考如何让理论真正服务于实践。",
+    "best_quote_en": "\"Learning mechanics is a theory that concerns itself with the dynamics of the training process, studies them using coarse aggregate statistics of learning, and has the goal to generate accurate average‑case predictions.\"",
+    "best_quote_zh": "“学习力学是一种关注训练过程动力学的理论，利用学习的粗粒化统计进行研究，目标是生成准确的平均情况预测。”"
+  },
+  {
+    "id": 509,
+    "title": "How Big a Threat Are Iranian-Backed Cyberattacks?",
+    "title_zh": "伊朗支持的网络攻击威胁有多大？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyberattacks",
+    "tags": [
+      "inspire",
+      "cybersecurity",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "网络安全",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-04-24",
+    "summary_en": "The article dissects the escalating cyber threat posed by Iranian‑affiliated actors, framing it as a persistent geopolitical weapon that extends beyond traditional warfare into the fabric of everyday infrastructure. It traces a timeline from early PLC intrusions in U.S. water systems to high‑profile wiper attacks on medical technology firms, underscoring the strategic logic of “field trips” into vulnerable municipal networks. The piece critically evaluates the U.S. response—CISA advisories, budget cuts, and institutional shakeups—highlighting how policy missteps can inadvertently empower adversaries. By juxtaposing cyber and kinetic campaigns, the author invites readers to grapple with the dual‑nature of modern conflict: the slow, invisible bleed of digital sabotage versus sudden, visible missile strikes. This analysis forces a reevaluation of national security priorities, urging a shift from reactive patching to proactive, intelligence‑driven defense, and it warns that ceasefires may merely pause the tempo, not the threat. The narrative’s blend of technical detail, policy critique, and geopolitical insight makes it a compelling case study for security strategists, policymakers, and technologists alike.",
+    "summary_zh": "文章揭示伊朗支持的网络攻击正逐步渗透美国关键基础设施，揭示了数字时代战争的无形边界。作者通过对PLC入侵、勒索软件与分布式拒绝服务攻击的追踪，指出小型市政网络的脆弱性被视为“实地考察”，为更大规模破坏铺路。文章批判美国在CISA预算削减与内部动荡中的失误，警示政策决策若缺乏前瞻性，可能为敌方提供可乘之机。作者最后强调，停火或仅是节奏的变化，网络战争仍将持续，亟需从被动补丁转向主动情报驱动的防御。",
+    "best_quote_en": "\"The ceasefire does not end the cyber conflict; it changes its rhythm.\"",
+    "best_quote_zh": "\"停火并未终结网络冲突，它改变了节奏。\""
+  },
+  {
+    "id": 510,
+    "title": "Why doubling down on your position never works — and what does",
+    "title_zh": "为什么全力坚持自己的立场永远行不通——以及该怎么办",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/why-doubling-down-on-your-position-never-works-and-what-does/",
+    "tags": [
+      "guide",
+      "ai-research",
+      "marketing"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "市场营销"
+    ],
+    "date": "2026-04-24",
+    "summary_en": "The article deconstructs the common misconception that conviction alone wins influence, revealing a science-backed framework for persuasive communication. It argues that humans process emotion before logic, so effective persuaders lead with emotional resonance, then back it up with evidence. The core principles—theme‑first mindset, emotional primacy, storytelling, and subconscious cues—shift the goal from proving a point to creating shared action. By framing messages around the audience’s priorities, using stories that place the listener as hero, and fine‑tuning non‑verbal signals, the author demonstrates how to transform meetings, negotiations, and everyday interactions into collaborative outcomes. The practical exercises and concrete tips make the theory immediately actionable, while the emphasis on the brain’s natural processing pathways adds a layer of expert insight that elevates the piece from generic advice to a thoughtful, research‑grounded guide. Readers gain a toolkit to re‑engineer their communication style, ultimately achieving higher buy‑in and stronger relationships.",
+    "summary_zh": "文章揭示全力坚持立场为何无效，提出以受众为中心的说服框架。强调情感先行、故事叙述、非语言暗示，帮助读者把话语转化为共同行动。",
+    "best_quote_en": "\"Persuasion is shared action. Shared, because it’s something we voluntarily do together with others. And it’s action, because it’s about getting things done, not about speaking pretty words.\"",
+    "best_quote_zh": "“说服是共同行动，因为它是我们自愿一起完成的事；它是行动，因为关注的是实现结果，而非华丽言辞。”"
   }
 ]
