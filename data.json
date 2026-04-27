@@ -1,123 +1,5 @@
 [
   {
-    "id": 416,
-    "title": "Startup Investing Trends",
-    "title_zh": "创业投资趋势",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/invtrend.html",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-28",
-    "summary_en": "Y Combinator’s latest cohort illustrates a broader shift in the startup ecosystem: the number of founders willing to launch a company is rising, while the cost of doing so is falling.  The talk blends hard data—over 500 YC‑backed firms, $11.7 billion in valuations, and a growing pool of “good founders”—with prescriptive insight about how VCs can adapt.  The author argues that founders will retain more equity and control, which in turn forces investors to pursue a higher‑quality, lower‑dilution deal structure.  He pinpoints Series A as the sweet spot for disruption, suggesting that the first VC to let founders dictate the amount raised will capture the best opportunities.  The piece is both analytical and forward‑looking, offering a clear framework for investors: listen to founders’ pain points, act fast, and let the market decide the equity split.  It challenges conventional VC models and invites readers to rethink the value proposition of early‑stage capital.",
-    "summary_zh": "YC最新一批企业展示了创业生态的转变：创始人数上升、成本下降。作者结合数据与洞察，指出创始人将保留更多股权，迫使投资者追求更优质、稀释更低的交易结构。他认为Series A是颠覆的最佳时机，首个让创始人决定融资额的VC将抢占最佳机会。文章兼具分析与前瞻，提醒投资者关注创始人痛点、快速行动，让市场决定股权比例，挑战传统VC模式，促使读者重新思考早期资本价值。",
-    "best_quote_en": "Founders are your customers, and the things they complain about are unsatisfied demand.",
-    "best_quote_zh": "创始人是你的客户，他们抱怨的问题就是未被满足的需求。"
-  },
-  {
-    "id": 417,
-    "title": "Americans Won’t Ban Kids from Social Media. What Can We Do Instead?",
-    "title_zh": "美国不会禁止孩子使用社交媒体。我们还能做什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/americans-wont-ban-kids-from-social-media-what-can-we-do-instead",
-    "tags": [
-      "inspire",
-      "legal",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "法律法规",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "The piece interrogates the paradox of protecting youth from social media’s harms while upholding First‑Amendment rights. By juxtaposing Utah’s failed age‑verification bill with Australia’s stringent ban, the author illustrates how legal measures alone falter when technology outpaces enforcement. The analysis extends beyond policy to societal norms, noting that Australia’s legislation, though unenforced, may shift parental attitudes and reduce teen usage. The author draws parallels with tobacco regulation, suggesting a blend of legal, tax, and cultural strategies is needed. Ultimately, the argument pivots to a broader vision: re‑engineering digital habits in schools, workplaces, and homes to counter the “atomized, scheduled” lifestyle that social media perpetuates. The piece is data‑driven, reflective, and forward‑looking, offering a nuanced critique of free‑speech absolutism in the digital age.",
-    "summary_zh": "文章探讨在保护青少年免受社交媒体负面影响的同时，如何维护第一修正案权利。通过对犹他州与澳大利亚两国立法的对比，作者指出单靠法律难以遏制技术滞后。文章强调，尽管澳洲法案执行有限，但其社会规范效应可能改变家长态度，减少青少年使用。作者借鉴烟草管制经验，提出法律、税收与文化并举的综合策略，并展望在学校、职场和家庭重塑数字习惯，抵制社交媒体所带来的碎片化、时间化生活方式。文本以数据为支撑，批判性且具前瞻性，深入剖析数字时代言论自由与公共安全的张力。",
-    "best_quote_en": "\"I believe that teen‑agers should have the right to post their opinions on social media, but I don’t think they need to do that in the middle of geometry class.\"",
-    "best_quote_zh": "\"我认为青少年应该有权在社交媒体上发表意见，但我不认为他们需要在几何课中间这么做。\""
-  },
-  {
-    "id": 418,
-    "title": "Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity",
-    "title_zh": "控制迷走神经以提升情绪、警觉性与神经可塑性",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity",
-    "tags": [
-      "update",
-      "health-wellness",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "健康养生",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-06-23",
-    "summary_en": "The episode dissects the vagus nerve as a bi-directional conduit between brain and body, revealing its central role in mood, digestion, alertness, and even cravings. By mapping afferent and efferent pathways, the speaker explains how targeted vagal activation can raise heart‑rate variability (HRV)—a biomarker of resilience and longevity—while simultaneously boosting acetylcholine‑mediated neuroplasticity for learning and focus. The discussion moves from physiology to practice, offering low‑cost protocols such as humming, extended exhales, and neck‑peri‑arterial stretches, and linking them to measurable outcomes like improved HRV, serotonin balance in gut and brain, and reduced IBS symptoms. The content blends rigorous science with actionable tools, making complex neurobiology accessible to anyone seeking to enhance mental health and performance through simple, evidence‑based interventions.",
-    "summary_zh": "本集深入探讨迷走神经的双向传递作用，阐明其在情绪、消化、警觉性与食欲中的核心地位，并通过精准激活提升心率变异性（HRV）与神经可塑性。内容兼具严谨科学与可操作性，提供低成本的呼吸、颈部拉伸等方法，帮助听众改善情绪、提升专注与学习效率。",
-    "best_quote_en": "Your vagus nerve controls levels of serotonin in both your gut and brain, impacting your mood and emotional resilience.",
-    "best_quote_zh": "你的迷走神经控制肠道和大脑中血清素的水平，影响情绪和情感韧性。"
-  },
-  {
-    "id": 419,
-    "title": "Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead (#559)",
-    "title_zh": "忘记新年决议，改用‘过去一年回顾’（#559）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/26/past-year-review/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "Tim Ferriss argues that the conventional New Year’s resolutions are blunt, forward‑looking tools that rarely translate into real change.  Instead he proposes a concise, data‑driven “Past Year Review” (PYR) that takes 30–60 minutes to audit the previous year’s calendar, separating positive and negative triggers into two columns.  By applying the 80/20 rule to both lists, the method identifies the 20 % of people and activities that generated the strongest emotional peaks and the 20 % that produced the most consistent misery.  The actionable next steps are simple: schedule the positive leaders now and block the negative ones from the calendar, turning insights into concrete commitments.  The PYR is a practical, beginner‑friendly framework that turns reflection into a calendar‑based habit, making it easy to maintain momentum without the vague optimism of generic resolutions.",
-    "summary_zh": "Ferriss提出，新年决议往往过于宽泛，难以落地。他推荐的“过去一年回顾”只需30–60分钟，先把过去一年的日程按正负情绪划分，再用80/20法则找出最能激发高峰与最让人沮丧的20 %因素。随后立即把正面因素安排进日历，避免被琐事淹没；把负面因素列入“勿做清单”，防止无谓投入。此方法把自省转化为可执行的日历行动，既易学又能持续产生实际效果。",
-    "best_quote_en": "Get the positive things on the calendar ASAP, lest they get crowded out by the bullshit and noise that will otherwise fill your days.",
-    "best_quote_zh": "尽快将积极的事物安排进日历，否则它们会被无谓的噪音填满而被淹没。"
-  },
-  {
-    "id": 420,
-    "title": "How to Get Startup Ideas",
-    "title_zh": "如何获得创业点子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/startupideas.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-04-05",
-    "summary_en": "The essay dissects the anatomy of a startup idea, arguing that the most fertile concepts arise from personal pain points, genuine user needs, and a forward‑looking mindset. Drawing on Y Combinator anecdotes, it introduces the “deep‑well” model—small, highly demanded niches that can scale—contrasting it with shallow, broad ideas that rarely succeed. The author warns against the “sitcom” filter that turns imagined problems into market myths, and urges founders to drop the unsexy and schlep filters to uncover overlooked gaps. Practical advice follows: observe what annoys you, build side projects that feel like toys, and validate with real users. The piece blends theory with actionable steps, making it a valuable guide for anyone seeking a systematic way to spot and test startup opportunities.",
-    "summary_zh": "文章深入剖析创业点子来源，强调从自身痛点出发、关注真实需求、保持“未来感”。作者以YC经验为例，揭示“有深度的窄井”模型，指出真正可行的创意往往是对细分市场的深度洞察。文章还提醒创业者放下“无聊”“繁琐”过滤器，主动寻找缺口，并通过实践与用户验证来验证想法。整体思路既具理论深度，又兼具可操作性，适合想要系统化思考创业机会的读者。",
-    "best_quote_en": "Live in the future, then build what's missing.",
-    "best_quote_zh": "你要知道如何画一幅完美的画？很简单。让自己变得完美，然后自然地去画。"
-  },
-  {
     "id": 421,
     "title": "How much faster is speaking, compared to typing on laptop vs phone vs writing?",
     "title_zh": "说话速度相比键盘输入有多快？",
@@ -2336,5 +2218,125 @@
     "summary_zh": "文章为预算旅行者提供实用指南：首段拆解四类随身行李，帮助读者规避超重费用；随后评测低成本航空Breeze Airways，指出其宽敞座椅与多条航线；再介绍文化地图网站，提醒旅客提前了解当地习俗；最后以《环游世界80天》为例讨论译本质量。内容兼具操作性与洞察力，既适合初学者，也能为经验丰富的旅行者提供新视角。",
     "best_quote_en": "\"I took my first two flights with this no‑frills U.S. carrier last month and it was good enough that I’m doing it again in June.\"",
     "best_quote_zh": "“我在上个月乘坐这家无附加费的美国航空公司第一次航班，它表现得足够好，我计划六月再次乘坐。”"
+  },
+  {
+    "id": 516,
+    "title": "Kindness of strangers: I was so pregnant I couldn’t see my feet when a woman offered to tie my shoelace",
+    "title_zh": "陌生人的善意：我怀孕得太重，脚看不见，女子主动帮我系鞋带",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/27/kindness-strangers-pregnant-woman-shoelace",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2026-04-26",
+    "summary_en": "The article unfolds as a gentle, human‑interest narrative that captures the quiet generosity of strangers during a profoundly vulnerable moment of pregnancy. The author, grappling with hyperemesis gravidarum and the physical limitations that come with late‑stage gestation, finds herself unable to see her own feet. An unexpected{intervention} from a passerby—offering to tie her shoelace—serves as a micro‑story of communal care and mutual respect. Beyond the surface act, the piece poignantly explores how pregnancy strips away social guards, transforming private discomfort into a public plea for help. It invites readers to reflect on the unseen support networks that exist in everyday spaces and underscores the importance of simple, non‑judgmental gestures in fostering a sense of belonging. The narrative invites empathy, prompting readers to consider their own willingness to offer assistance and to recognize the collective humanity that sustains us during life’s most intimate moments. Its impact lies not in dramatic revelation but in its quiet reminder that kindness can be found in the most ordinary interactions.",
+    "summary_zh": "这篇短文记录了孕期女性在极度脆弱时得到陌生人温柔帮助的瞬间。作者因为孕期恶心症导致行动受限，无法看到自己的脚，正当她走在人行道上时，一位陌生女子主动上前帮她系鞋带。作者通过这件小事，揭示了孕期如何让人失去社交防御，变得更加需要他人支持，并强调了日常生活中常见的无声善意。短文并未展示戏剧性转折，而是以温暖的叙事提醒我们：在最平凡的交往中，善意与互助往往潜藏在不经意的举动里。",
+    "best_quote_en": "“When you’re pregnant, the guards you usually have up around strangers get stripped away.”",
+    "best_quote_zh": "“当你怀孕时，平时对陌生人保持的警惕会被剥夺。”"
+  },
+  {
+    "id": 517,
+    "title": "The New Funding Landscape",
+    "title_zh": "新的融资格局",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/superangels.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-04-27",
+    "summary_en": "The article dissects the seismic shift in startup fundraising, spotlighting the rise of \"super-angels\"—individuals who blend angel flexibility with VC scale. It explains how this new investor type erodes the historical clear divide between angels and VCs, offering founders a middle ground: sizable capital without the heavy board seat burdens or deep dilution of traditional Series A rounds. The piece critically examines the strategic tug‑of‑war: VCs expanding into angel rounds to protect their pipeline, and super-angels tightening valuation scrutiny to target quick exits. It projects an evolving ecosystem where both forces converge, becoming more alike, yet still offering founders fresher terms, faster closing, and higher valuations in the medium term. The analysis is data‑driven, drawn from YC’s empirical observations, and forward‑looking, highlighting the inevitable market price on the “value-added” promises of VCs. For founders, the key insight is that competition now favors smarter, more flexible funding structures, but success still hinges on demonstrating growth signals that attract both super-angels and VCs alike.",
+    "summary_zh": "文中剖析了创业融资的剧变，聚焦“超级天使”——兼具天使灵活与风投规模的投资人。作者指出，这一新型投资者模糊了传统天使与风投的界限，为创始人提供了既能获得大额资本又不需过多股权与董事会负担的中间路径。文中批判性分析了风投进军天使轮、超级天使严格估值的双向竞争，并预测两者将趋同但仍保持差异。作者基于 YC 数据，强调竞争将驱动更快、更高估值的融资节奏。核心启示是：竞争加剧带来更灵活的融资结构，但创始人仍需以增长数据吸引双方。\n",
+    "best_quote_en": "The high valuations startups are presently getting may not last forever.",
+    "best_quote_zh": "现在创业公司获得的高估值可能并不会持续下去。"
+  },
+  {
+    "id": 518,
+    "title": "Why Forecasting Fails Decision Makers",
+    "title_zh": "为何预测让决策者失效",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/KrN8er2mALEJa83vw/why-forecasting-fails-decision-makers",
+    "tags": [
+      "solve",
+      "ai-research",
+      "business-model",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "商业模式",
+      "深度分析"
+    ],
+    "date": "2026-04-27",
+    "summary_en": "James Newport’s post is a sharp critique of the forecasting community’s misplaced priorities. He argues that forecasters obsess over linguistic precision and statistical accuracy while ignoring the real questions that decision‑makers face—identifying which risks matter, crafting actionable policy memos, and fostering transparency. Newport points out that politicians and bureaucrats rarely understand raw probabilities, and that the true value of forecasting lies in exposing divergent views, not in incremental Brier‑score gains. He laments the wasteful allocation of funds toward elegant platforms and research reports that never reach the desks of ministers, while practical implementation workshops languish. The article invites leaders, policymakers, and practitioners to re‑orient forecasting from a status symbol to a pragmatic, integrated tool that reveals hidden risks and improves decision quality. The insight is a call for a shift from academic elegance to institutional relevance, urging the community to focus on problem‑identification, communication, and real‑world impact.",
+    "summary_zh": "新波特批评预测学把重心放在语言精度和统计准确上，却忽视决策者真正关心的问题——识别关键风险、透明沟通与政策制定。他指出，预测真正价值在于揭示不同观点，而非微小准确度提升，并呼吁将预测工具转变为实用决策助手，关注问题识别与结果落地。",
+    "best_quote_en": "The real value of forecasting is in the moment you realise two people in the same room have forecasts 40% apart.",
+    "best_quote_zh": "预测的真正价值在于你意识到同一房间里两个人的预测相差40%时。"
+  },
+  {
+    "id": 519,
+    "title": "Donald Trump’s Spring Cleaning",
+    "title_zh": "唐纳德·特朗普的春季大扫除",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2026-04-26",
+    "summary_en": "The article dissects a wave of high‑profile resignations and firings within the Trump administration amid the Iran‑war, framing them as manifestations of a broader crisis of loyalty versus expertise. By cataloguing the departures of three cabinet women, the FBI director, the intelligence director, and the commerce secretary, the piece demonstrates how Trump’s insistence on ideological conformity has eroded institutional competence. It contextualizes these exits in the political calculus of the 2026 midterms, noting that public disapproval is now at 67 % and that the administration has largely swapped seasoned officials for hard‑line MAGA loyalists. The narrative critiques the juxtaposition of grandiose promises—such as Musk’s $2 trillion savings plan and Trump’s 15‑20 million deportation pledge—against the stark realities of bureaucratic inertia, fiscal mismanagement, and scandal. The author concludes that the pursuit of loyalty over expertise has left the White House a shell of a functioning government, a paradox that threatens both policy effectiveness and democratic legitimacy.\n\nThe piece offers a nuanced case study of how political expediency can undermine governance, making it a valuable resource for scholars of American politics, policymakers, and journalists. It exposes the tension between populist rhetoric and administrative reality, providing concrete examples of misaligned incentives, resource misuse, and the erosion of bureaucratic norms. The article’s critical tone, reliance on reputable sources, and detailed chronicle of personnel changes render it both informative and actionable for readers seeking to understand the internal dynamics of a controversial presidency.",
+    "summary_zh": "文中通过特朗普政府内部高层离职与停职事件，揭示了忠诚与专业之间的矛盾。作者指出，特朗普在伊朗战争与中期选举前倾向硬派盟友，而非经验丰富的官员，导致治理效率下降。文中引用具体案例，批判了大规模预算削减与移民政策的夸张承诺。文章兼具学术深度与政策启示，适合政治学者与媒体人参考。",
+    "best_quote_en": "“The whole government is now being run by a very small group of people.”",
+    "best_quote_zh": "“现在整个政府都被极少数人操纵。”"
+  },
+  {
+    "id": 520,
+    "title": "Key fobs / US Park finder / Movie theatre deal",
+    "title_zh": "钥匙扣/美国国家公园查找器/电影院优惠",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/key-fobs-us-park-finder-movie-theatre-deal/",
+    "tags": [
+      "guide",
+      "education",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-04-26",
+    "summary_en": "This eclectic roundup showcases a blend of practical hacks and curated tools that cater to modern convenience seekers. From the painstaking yet rewarding process of programming a cheap spare key fob for a 2008 Prius, to leveraging an AI-powered national park finder that aggregates Reddit reviews and travel tips, each story underscores a recurring theme: value-driven problem solving. The inclusion of a budget-friendly sound machine and a flight-matching app highlights how everyday pain points—sleep disturbance and travel planning—can be addressed through thoughtful, data-backed solutions. The final piece on AMC’s A‑List membership ties the narrative together, offering a tangible financial benefit to frequent moviegoers. Collectively, these anecdotes not only furnish actionable steps but also provoke reflection on how technology, community knowledge, and strategic subscriptions converge to streamline daily life. Readers are left with a roadmap to identify, evaluate, and adopt tools that turn routine hassles into opportunities for cost savings and enriched experiences.",
+    "summary_zh": "本篇汇集实用技巧与精选工具，涵盖从低价钥匙扣编程、AI公园查询、睡眠声机、航班匹配到影院会员优惠，突出技术与社区知识如何解决日常痛点，促使读者识别并采纳节省成本、提升体验的方案。",
+    "best_quote_en": "The programming steps are ridiculously complex; I thought it was a joke, but after many tries I successfully programmed the new fob to work, so now I have a spare.",
+    "best_quote_zh": "编程步骤极其复杂，我以为这是一场玩笑，但经过多次尝试，我成功编程新的钥匙扣，现在我有了备用钥匙。"
   }
 ]
