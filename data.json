@@ -1,121 +1,5 @@
 [
   {
-    "id": 421,
-    "title": "How much faster is speaking, compared to typing on laptop vs phone vs writing?",
-    "title_zh": "说话速度相比键盘输入有多快？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ZpG6AdeXuZy4JbWrH/how-much-faster-is-speaking-compared-to-typing-on-laptop-vs",
-    "tags": [
-      "guide",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-04-05",
-    "summary_en": "This article turns a simple curiosity—how fast can we speak versus type—into a data‑driven exploration of communication modalities. By benchmarking words‑per‑minute across hand‑written, phone‑typing, laptop‑typing, and spoken speech, the author reveals striking gaps: a single‑hand phone or laptop averages 40‑45 wpm, two‑hand phone typing pushes to 60‑70 wpm, and a laptop reaches 80‑90 wpm. Normal spoken speech leaps to 180‑200 wpm, while rushed speech can reach 260‑340 wpm, more than three times faster than typing. The analysis highlights that{—}speech is the most efficient input channel, especially when combined with modern Speech‑to‑Text technology, which can further close the speed gap. The piece is action‑oriented, encouraging readers to invest in STT, and it contextualizes the findings within broader tech trends, such as mobile communication and voice‑first interfaces. The author’s candid tone and practical measurements make the content highly relatable for developers, product managers, and everyday users grappling with productivity bottlenecks.",
-    "summary_zh": "本文用实测数据揭示了说话与打字速度的巨大差距，正负面向读者提出提升语音输入的实用建议，凸显语音在现代移动沟通中的高效优势与潜在价值。",
-    "best_quote_en": "Speaking at a rushed pace (~260‑340 wpm) is about 1.5× faster than normal speaking.",
-    "best_quote_zh": "说话速度在匆忙状态下（约260‑340 wpm）比正常说话快约1.5倍。"
-  },
-  {
-    "id": 422,
-    "title": "Book Freak #204: Living for Pleasure",
-    "title_zh": "书虫 #204：为了快乐而活",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-204-living-for-pleasure/",
-    "tags": [
-      "learn",
-      "society",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-04-03",
-    "summary_en": "Emily Austin’s recent book reclaims Epicurus from the myth of reckless hedonism, revealing a philosophy that prizes the absence of anxiety—ataraxia—over sensory excess. Austin distills Epicurean wisdom into a modern guide for the overworked, the comparison‑driven, and the anxiety‑ridden. The core insight is that true pleasure is not accumulation but *satisfying* what you need and eliminating what disturbs. She categorises desires into natural, extravagant, and corrosive, urging readers to evaluate each pursuit’s impact on mental peace. Friendship emerges as the linchpin: a network of trustworthy allies erodes anxiety more than any material gain. Moreover, Austin insists that pleasure cannot be divorced from virtue; ethical living is the bedrock of tranquility. The book offers concrete exercises—self‑audit of desires, anxiety‑mapping, and envisioning a state of “enough”—that transform abstract theory into actionable habits. Readers are invited to reframe their goals, recognize the true cost of unchecked ambition, and cultivate relationships that sustain calm. The result is a pragmatic, psychologically grounded roadmap that challenges the conventional pursuit of happiness, making it a vital read for anyone seeking sustainable contentment in a frenetic world.",
-    "summary_zh": "艾米丽·奥斯汀借古希腊哲学家伊壁鸠鲁之名，重新诠释快乐的真义：不是狂欢，而是无忧的宁静。她把欲望分为天然、奢侈与腐蚀三类，教人识别并筛选。书中强调真友谊是消除焦虑的最佳药方，并坚称快乐与德行不可分割。作者提供一系列实操练习——评估欲望、识别焦虑、想象“足够”状态，帮助读者把理论变成日常习惯。该书以心理学为基石，提供可落地的生活指南，适合在快节奏社会中寻找持久宁静的人们。",
-    "best_quote_en": "\"Nothing diminishes our anxiety more than a community of trustworthy and supportive friends.\"",
-    "best_quote_zh": "\"没有什么比拥有可信赖、支持我们的朋友社区更能消除我们的焦虑。\""
-  },
-  {
-    "id": 423,
-    "title": "Yale Law School scholars back UMG in Drake’s ‘Not Like Us’ defamation fight, arguing rapper ‘consented’ to Kendrick Lamar’s lyrics",
-    "title_zh": "耶鲁法学院学者支持UMG，反驳Drake的《Not Like Us》诽谤案，主张说唱歌手已同意肯德里克·拉马尔的歌词",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/yale-law-school-scholars-back-umg-in-drakes-not-like-us-defamation-fight-arguing-rapper-consented-to-kendrick-lamars-lyrics/",
-    "tags": [
-      "analyze",
-      "science",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-04-04",
-    "summary_en": "The Yale Law School amicus briefs inject a fresh legal perspective into Drake’s defamation appeal, arguing that consent—explicit or implicit—acts as an absolute defense under New York law. By framing the diss track as a call‑and‑response engagement, the briefs shift the focus from individual lyricists to the record label’s role in publicizing alleged falsehoods. This stance dovetails with a broader scholarly critique that rap lyrics, especially diss tracks, are performative hyperbole rather than factual assertions, a view that, if adopted, could safeguard First Amendment freedoms and mitigate racial bias in litigation. The analysis underscores the tension between artistic expression and legal accountability, illustrating how contemporary cultural practices test the limits of defamation law. Such arguments carry significant implications for the music industry, suggesting that labels may need to reassess promotional strategies when handling contentious content. Moreover, the case exemplifies how legal scholarship can leverage precedent and empirical research to influence high‑stakes litigation, reminding practitioners that the law is as much about interpretation as it is about text.\n",
-    "summary_zh": "耶鲁法学院的专家意见书通过“同意”这一绝对防御，重新审视了Drake的诽谤诉讼，指出说唱对决本质上是艺术化夸张，而非事实陈述，呼吁法庭考虑这类文化表达的第一修正案保护，提醒音乐产业在推广争议内容时需谨慎。",
-    "best_quote_en": "Suppose a self‑assured boxer challenges the world champion to a prize fight, is knocked out on live television, and, with bruised ego and body, files a lawsuit for battery. That lawsuit would fail at the outset for a simple but important reason: the challenger consented to the fight, and consent is a classic defense to an intentional tort.",
-    "best_quote_zh": "假设一名自信的拳击手挑战世界冠军进行一场拳击赛，随后在电视上被击倒，伤痕累累地提起殴打诉讼。该诉讼在一开始就会失败，因为最简单却重要的原因：拳手已同意这场比赛，而同意是故意侵权的经典防御。"
-  },
-  {
-    "id": 424,
-    "title": "Female athletes’ fertility is still a blind spot | Letter",
-    "title_zh": "女性运动员的生育问题仍是盲点 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/apr/05/female-athletes-fertility-is-still-a-blind-spot",
-    "tags": [
-      "analyze",
-      "medicine",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-04-05",
-    "summary_en": "The letter by Dr. Mireia Galian spotlights a glaring omission in the evolving discourse on women’s sports health: fertility. While recent reforms—spurred by the Carney review—have expanded insurance coverage for contraception, pregnancy, and menopause, the same momentum has not reached fertility preservation. Dr. Galian argues that elite athletes, whose training regimes often suppress menstruation and disrupt hormonal balance, face a double jeopardy: the natural decline of fertility with age and the practical barriers to conception during peak competitive years. She cites the WTA’s pioneering policy protecting rankings for players who freeze eggs or embryos as a model that should be replicated across all women’s sports. The letter calls for paid, protected time off for fertility assessment and treatment, framing it as a necessary extension of holistic athlete care. By framing fertility as a career‑sustaining right rather than a personal choice, the piece urges policymakers, sponsors, and governing bodies to institutionalize support systems that enable female athletes to pursue parenthood without sacrificing professional aspirations. The argument is both a critique of current inequities and a roadmap for actionable change, underscoring the need for systemic policy shifts that recognize the unique physiological demands of women’s elite sport.",
-    "summary_zh": "在女性运动员健康议题中，生育问题仍被忽视。作者呼吁为女性运动员提供带薪、受保护的生育评估与治疗时间，借鉴WTA的榜样，推动制度化支持，让运动员在不牺牲职业的前提下实现母亲身份。",
-    "best_quote_en": "Paid, protected time off for fertility assessment and treatment should be standard across women’s sports.",
-    "best_quote_zh": "为女性运动员提供带薪、受保护的生育评估与治疗时间应成为所有女子运动的标准。"
-  },
-  {
-    "id": 425,
-    "title": "The Hardware Renaissance",
-    "title_zh": "硬件复兴",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hw.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-04-06",
-    "summary_en": "The article argues that hardware startups are experiencing a renaissance, driven by lower prototyping costs, improved connectivity, and a shift in investor perception. It highlights Y Co’s early focus on hardware as a signal of emerging trends and notes that hardware’s historical dominance in consumer appeal is now being matched by software’s scalability. The piece blends data—7 of 84 Y Co companies were hardware—with anecdotal evidence of easier manufacturing via 3D printing, CNC, and Arduino. It challenges the myth that hardware is inherently riskier, urging founders to pursue hardware ideas despite investor bias. The author’s tone is optimistic, positioning hardware as a viable, potentially disruptive sector that could rival software’s current dominance. The article invites entrepreneurs to rethink the hardware-software dichotomy and to apply to Y Co, framing hardware as a future‑focused, data‑driven opportunity for rapid growth.",
-    "summary_zh": "文章指出硬件创业正迎来复兴，低成本原型、无线连接和制造便利让硬件与软件竞争力趋同。作者鼓励创业者突破投资者偏见，抓住硬件的未来机遇。",
-    "best_quote_en": "Hardware has always been cool, but it hasn't been a great way to start a rapidly growing business as software has—until now.",
-    "best_quote_zh": "硬件一直很酷，但它并不像软件那样成为快速增长业务的好方式——直到现在。"
-  },
-  {
     "id": 426,
     "title": "Contra The Usual Interpretation Of “The Whispering Earring”",
     "title_zh": "对《耳语耳环》常规解读的反驳",
@@ -2338,5 +2222,119 @@
     "summary_zh": "本篇汇集实用技巧与精选工具，涵盖从低价钥匙扣编程、AI公园查询、睡眠声机、航班匹配到影院会员优惠，突出技术与社区知识如何解决日常痛点，促使读者识别并采纳节省成本、提升体验的方案。",
     "best_quote_en": "The programming steps are ridiculously complex; I thought it was a joke, but after many tries I successfully programmed the new fob to work, so now I have a spare.",
     "best_quote_zh": "编程步骤极其复杂，我以为这是一场玩笑，但经过多次尝试，我成功编程新的钥匙扣，现在我有了备用钥匙。"
+  },
+  {
+    "id": 521,
+    "title": "I yearned to be a mother. Why did I feel nothing when my daughter was finally born?",
+    "title_zh": "我渴望成为母亲。当女儿出生时我却感到无动于衷？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/i-yearned-to-be-a-mother-why-did-i-feel-nothing-when-my-daughter-was-finally-born",
+    "tags": [
+      "analyze",
+      "psychology",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-04-26",
+    "summary_en": "Amanda Craig’s raw memoir exposes the stark gap between the cultural myth of instant maternal love and the harsh reality many new parents face: numbness, post‑delivery trauma, and the silent struggle with mental health. The narrative traces her upbringing in Italy, the painful birth, the medical system’s shortcomings, and the long, painful journey toward bonding. It highlights how systemic factors—understaffed maternity wards, male‑dominated obstetrics, and societal taboos around post‑natal depression—compound personal grief. Craig’s story is both a cautionary tale and a call for more empathetic care, open dialogue, and comprehensive support for mothers. Her eventual breakthrough, sparked by her daughter’s first smile, underscores the resilience that can emerge when emotional barriers are finally breached. The account serves as a powerful case study for clinicians, policymakers, and parents alike, urging a shift from mere procedural care to genuine emotional and psychological support.",
+    "summary_zh": "安娜·克雷格的亲身回忆揭示了社会对“母性即刻爱”的浪漫期望与现实之间的巨大落差——出生后的麻木、产后创伤与精神健康的默默挣扎。她描绘了意大利的成长背景、痛苦的分娩、医疗体系的缺失，以及与孩子建立情感纽带的漫长过程。文章批判了人手不足的产科、男性主导的产科医生以及对产后抑郁的社会禁忌，指出这些因素如何加重母亲的痛苦。最终，女儿的微笑成为突破情感屏障的转折点，提醒我们在医疗服务中加入情感与心理支持至关重要。",
+    "best_quote_en": "The guilt and misery were overwhelming.",
+    "best_quote_zh": "那份罪疚与痛苦无以言表。"
+  },
+  {
+    "id": 522,
+    "title": "Where to See Silicon Valley",
+    "title_zh": "在哪里看硅谷",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/seesv.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-04-28",
+    "summary_en": "The piece is a lyrical guide to the physical and cultural landscape of Silicon Valley, written with a founder’s insider perspective. It maps the valley’s hidden hubs—from Stanford’s sprawling campus and the bustling University Ave cafés where founders pitch, to Google’s first office at 165 University Ave, the uniform V‑C buildings on Sand Hill Road, and the scenic Skyline Drive that frames the region’s natural beauty. The author emphasizes how place shapes startup culture: proximity to diverse cafés fuels collaboration, while the uniformity of VC offices reflects the business’s pragmatic nature. The narrative offers practical takeaways—where to spot the pulse of innovation and how the valley’s geography, climate, and real‑estate dynamics influence startup trajectories. It also touches on the tension between historic campus towns and modern suburban sprawl, hinting at the future of entrepreneurship in an evolving landscape. The article invites readers to move beyond the myth of a bustling tech center to a nuanced understanding of how environment, community, and opportunity intertwine in the valley’s ecosystem.",
+    "summary_zh": "文章以创始人视角描绘硅谷的地理与文化脉络，映射从斯坦福广阔校园到大学大道咖啡馆、谷歌早期办公室、沙丘路VC大楼，再到风景秀丽的天际线公路。作者强调地点决定创新文化，亲密的咖啡氛围促进合作，VC办公楼的单一性折射出行业务务实。文章提醒读者超越硅谷喧嚣的刻板印象，洞察环境、社区与机会如何交织，展望创业生态的未来。",
+    "best_quote_en": "If you can’t tell, the founders are the ones leaning forward eagerly, and the investors are the ones sitting back with slightly pained expressions.",
+    "best_quote_zh": "如果你看不出来，创始人正前倾热情，而投资人则坐着略显痛苦的表情。"
+  },
+  {
+    "id": 523,
+    "title": "Latent reasoning models might be a good thing?",
+    "title_zh": "潜在推理模型或许是一件好事？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JAYYFKYMwoq6zd4S3/latent-reasoning-models-might-be-a-good-thing",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-04-28",
+    "summary_en": "Latent Reasoning Models (LRMs) propose a radical shift from chain‑of‑thought (CoT) text generation to a compressed, token‑level representation of intermediate reasoning. By feeding hidden activations back into the model as input, LRMs sidestep the explicit token head, potentially isolating thought from output and easing interpretability. The author argues that as models scale, CoT faithfulness will degrade because output optimization leaks into reasoning, whereas LRMs’ distinct latent tokens mitigate this bleed‑through. However, the compression inevitably yields polysemantic tokens, raising questions about interpretability and safety. The post speculates on architectural separation of weights for thinking versus output, and on the possibility of emergent misalignment being less likely in LRMs. While the ideas are speculative, they underscore a critical tension in AI safety: can we design reasoning mechanisms that are both powerful and transparent? The piece invites scrutiny, especially on the feasibility of scaling LRMs and on the trade‑offs between compressed inference and polysemantic ambiguity.",
+    "summary_zh": "潜在推理模型（LRM）通过将隐藏激活直接作为下一步输入，绕过传统文本思路，压缩推理为单一令牌，理论上有利于解释性和安全性。作者指出，随着模型规模扩大，链式推理的可解释性会被优化目标污染，LRM的“思考”与输出分离可减轻此风险。然而，压缩导致多义令牌，解释难度骤增。文章也讨论了思考与输出权重分离、LoopLM等变体以及LRM可能降低失调风险的直觉。整体而言，作者提出了一个值得实验的方向，同时提醒在推理压缩与可解释性之间需谨慎平衡。",
+    "best_quote_en": "‘Latent reasoning models will be better for safety as we scale up to larger models.’",
+    "best_quote_zh": "‘随着模型规模扩大，潜在推理模型将更有利于安全。’"
+  },
+  {
+    "id": 524,
+    "title": "Donald Trump’s Lose-Lose Negotiations with Iran",
+    "title_zh": "唐纳德·特朗普与伊朗的输赢谈判",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/donald-trumps-lose-lose-negotiations-with-iran",
+    "tags": [
+      "solve",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-27",
+    "summary_en": "The article dissects President Trump’s hard‑line approach to negotiating with Iran, framing it as a classic game of chicken that has doomed both sides to a lose‑lose outcome. It argues that Trump’s insistence on Tehran’s unconditional surrender—combined with relentless economic sanctions—has rendered a realistic compromise impossible. The piece highlights how Iran’s weakened energy infrastructure and limited storage capacity make prolonged blockade unsustainable, yet the regime’s political calculus still precludes capitulation. It also contrasts Trump’s style with that of previous administrations, noting that his refusal to allow Iran to save face has stalled any meaningful dialogue. The analysis underscores the broader implications: a standoff that inflames global markets, risks a humanitarian crisis, and demonstrates the limits of coercive diplomacy in the 21st‑century geopolitical arena. It invites readers to consider alternative strategies, such as face‑saving concessions, that could transform a deadlock into a negotiated settlement.",
+    "summary_zh": "特朗普的强硬谈判让伊朗无路可走，双输局面不可避免。文章揭示，制裁与不妥协导致谈判僵局，伊朗能源脆弱但政权不愿屈服，全球经济与人道危机加剧。提醒读者思考让伊朗保存面子、实现双赢的可能路径。",
+    "best_quote_en": "‘The only way to get a deal is to give the Iranians a way to save face; without that, a deal is impossible.’",
+    "best_quote_zh": "‘如果没有给伊朗留面子，达成协议是不可能的。’"
+  },
+  {
+    "id": 525,
+    "title": "Pants",
+    "title_zh": "Pants",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/pants/",
+    "tags": [
+      "analyze",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-04-27",
+    "summary_en": "The article is a curated walk-through of a spectrum of functional pants, from military‑grade cargo to convertible activewear and rugged workwear. It reads like a blend of personal testimony and product testing, offering readers a pragmatic comparison of design features—hidden pockets, convertible skirts, and adjustable length mechanisms—paired with real‑world usage scenarios. The recurring theme is the transformation of everyday apparel into mission‑ready gear, highlighting how thoughtful engineering can turn a simple pair of trousers into a multi‑tool platform. The piece also subtly critiques the peripheral accessories (suspenders, belts) that complete the ergonomic ecosystem, underscoring the interconnectedness of form and function. For enthusiasts of tactical gear, outdoor adventure, or construction, the article supplies actionable insights—specific brands, pricing, and do‑it‑yourself tweaks—making it a valuable resource for informed buying decisions and for designers seeking inspiration to push the envelope of apparel utility. Its tone is inquisitive yet grounded, inviting the reader to reassess the ordinary with a lens of innovation.",
+    "summary_zh": "本文用亲身体验与产品对比，细致拆解从军用迷彩裤到可变形运动裙、重型工作裤的多功能性。作者把服装视为任务装备，强调隐藏口袋、可调长度等设计如何将普通裤子升级为多工具平台。文中还评析配件如吊带、皮带的互补作用，展示功能与舒适的平衡。对于户外爱好者、建筑工人及服装设计者，提供品牌、价格与实用改造建议，既是购买指南，也是创意启发。文章以好奇与务实并存的语气，鼓励读者重新审视日常衣物的潜能。",
+    "best_quote_en": "These pants keep the weight spread out too, so the perception of the weight is reduced.",
+    "best_quote_zh": "这些裤子将重量分散，使负重感降低。"
   }
 ]
