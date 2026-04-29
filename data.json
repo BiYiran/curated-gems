@@ -1,121 +1,5 @@
 [
   {
-    "id": 426,
-    "title": "Contra The Usual Interpretation Of “The Whispering Earring”",
-    "title_zh": "对《耳语耳环》常规解读的反驳",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/t5psGMdgReuRucEkr/contra-the-usual-interpretation-of-the-whispering-earring",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-04-06",
-    "summary_en": "This essay reexamines the widely accepted moral of the short story “The Whispering Earring,” arguing that the device’s purported malevolence is a product of unexamined assumptions about identity, agency, and the nature of continuity. By invoking simulation theory, Parfit’s psychological continuity, and Greg Egan’s mind‑upload narratives, the author demonstrates that a high‑fidelity functional model can preserve selfhood even when the biological substrate is altered or discarded. The piece challenges the default horror of agency loss, suggesting instead that the earring may represent a sophisticated, ethically transparent prosthesis that offers informed consent and enhances human flourishing. The analysis is grounded in philosophical rigor, neuroscientific plausibility, and a nuanced reading of the story’s text, ultimately urging readers to scrutinize the premises that shape their intuitions about AI‑mediated self‑transformation. The essay invites a shift from blanket caution to a more discerning evaluation of future cognitive augmentation technologies.",
-    "summary_zh": "作者重新审视《耳语耳环》常见的恐怖解读，指出其背后隐藏的关于身份、代理与连续性的假设。通过模拟理论、帕夫特的心理连续性以及伊根的心智上传故事，作者展示了即使生物基质被替换或消失，高保真功能模型仍能保留自我。文章质疑对代理失去的默认恐惧，提出耳环可能是透明、伦理的认知假体，提供知情同意并提升人类福祉。以哲学严谨、神经科学可行性和文本细读为支撑，呼吁读者审视塑造对AI自我转化直觉的前提，推动从盲目警惕到更细致评估未来认知增强技术的转变。",
-    "best_quote_en": "\"If a superintelligent entity can reproduce my behaviors, memories, goals and values, then it must have a very high‑fidelity model of me inside, somewhere.\"",
-    "best_quote_zh": "“如果一个超级智能实体能够复制我的行为、记忆、目标和价值观，那么它一定在某处拥有我高度逼真的模型。”"
-  },
-  {
-    "id": 427,
-    "title": "The N.B.A.’s Race to the Bottom",
-    "title_zh": "NBA的下沉竞赛",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/the-nbas-race-to-the-bottom",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "争议观点"
-    ],
-    "date": "2026-04-05",
-    "summary_en": "The article dissects the NBA’s persistent tanking problem, using the Wizards’ recent antics as a case study. It traces the league’s evolving draft lottery mechanics, showing how each tweak has unintentionally amplified incentives to lose. The piece critiques the current punitive measures—fines, win‑floor proposals, and double lotteries—arguing they fail to address the root cause: teams are still rewarded for poor performance. The author proposes radical structural changes, from abolishing the draft to free‑agency entry, and even a cultural shift that encourages fan backlash as a deterrent. The analysis is data‑driven, citing specific draft odds and team strategies, while offering expert insight into labor economics and competitive balance. It invites readers to rethink the ethics of entertainment sports and the balance between profit, parity, and integrity. The piece is provocative, blending critical evaluation with a call for systemic reform, and it challenges conventional wisdom about how to preserve the NBA’s competitive spirit.",
-    "summary_zh": "文章以华盛顿奇才的闹剧为例，剖析NBA持续的“蓄意输球”问题。作者追溯了联盟抽签机制的演变，指出每一次改革都无意中放大了输球动机，并批评罚款、保底胜率等措施未触及根本。提出彻底废除选秀、自由球员制等大胆方案，并呼吁通过球迷抵制来遏制输球文化。文章数据扎实、见解深刻，激发读者重新思考体育娱乐的伦理与竞争平衡。",
-    "best_quote_en": "The real appeal is that those stars are cheap; a player’s first two contracts are capped by the so‑called Rookie Scale, which lets teams employ great players before they have to pay them what they’re worth.",
-    "best_quote_zh": "真正的吸引力在于这些明星是便宜的；球员的前两份合同受所谓的“新秀工资表”限制，让球队在支付他们应得的薪水之前就能雇佣优秀球员。"
-  },
-  {
-    "id": 428,
-    "title": "Retro Recomendo: Followable",
-    "title_zh": "Retro Recomendo: Followable",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-followable/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式"
-    ],
-    "date": "2026-04-05",
-    "summary_en": "Retro Recomendo is a thoughtfully curated newsletter that revisits the most enduring recommendations from a nine‑year archive, delivering them every six weeks. By spotlighting themes—ranging from practical DIY tutorials to global culinary oddities, caricature art, rapid research digest videos, and quirky visual collections—the series offers readers a blend of actionable knowledge, cultural curiosity, and mood‑lifting entertainment. The editorial choice to re‑package evergreen content underscores the value of timeless resources in a fast‑moving digital landscape, while the diverse selection demonstrates how niche interests can coexist within a single feed. For subscribers, the newsletter becomes a reliable source of inspiration and learning, sparking new projects, expanding culinary horizons, and providing quick, digestible insights into cutting‑edge research. The format also invites reflection on how we consume media: rather than chasing the newest trend, we can revisit proven gems that continue to resonate. This approach not only saves time but also cultivates a deeper appreciation for the breadth of human creativity and practical wisdom.",
-    "summary_zh": "Retro Recomendo 通过每六周回顾九年精选内容，提供DIY、全球美食、夸张漫画、科研速递与奇趣影像等多元主题，既实用又富娱乐性。它让读者在快速消费时代，重新发现永恒价值，提升生活品质与文化视野。",
-    "best_quote_en": "“The best of these are still valid and useful, so we’re trying out something new — Retro Recomendo.”",
-    "best_quote_zh": "“这些最佳推荐仍然有效且有用，所以我们正在尝试新的东西——Retro Recomendo。”"
-  },
-  {
-    "id": 429,
-    "title": "Startup = Growth",
-    "title_zh": "Startup = Growth",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/growth.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "The essay reframes the startup myth by stripping away the romantic veneer of technology‑centric hype and returning to a single, quantifiable compass: growth. It argues that a company is a startup only when it is designed to scale rapidly, regardless of tech, funding, or exit prospects. The author systematically dismantles common misconceptions—such as equating newness or venture funding with startup status—and introduces the idea that growth is both the defining trait and the decision‑making engine. By treating growth as a weekly target, the piece transforms the chaotic act of founding into an optimization problem, comparable to code performance tuning. It further explains how growth drives investment, valuation, and acquisition dynamics, and why VCs focus on high‑growth companies rather than steady, profitable ones. The analysis is grounded in data (e.g., 5‑7% weekly growth during Y Combinator) and uses real‑world examples (Google, Apple, PayPal) to illustrate how early, implicit ideas evolve into market‑shattering products. The essay invites founders to view growth not just as a metric but as a strategic constraint that shapes product, market, and funding decisions, echoing a scientific mindset of hypothesis testing and iterative refinement.",
-    "summary_zh": "文章以“成长”为核心，重新定义创业者的身份与目标。它指出，创业公司不必依赖技术、资金或退出，而是必须具备快速扩张的设计。通过把成长目标设为每周百分比，作者把创办过程变成可优化的实验，像代码调优一样精细。文章用 Google、Apple、PayPal 等案例说明，成长是吸引 VC、提升估值、赢得收购的关键。它提醒创始人把成长视为战略约束，而非单纯的指标，从而在产品、市场和融资决策上保持一致。",
-    "best_quote_en": "\"If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.\"",
-    "best_quote_zh": "\"如果你能做到每周10%的增长，你正在做得非常好；如果只能做到1%，说明你还没有搞清楚自己在做什么。\""
-  },
-  {
-    "id": 430,
-    "title": "We're actually running out of benchmarks to upper bound AI capabilities",
-    "title_zh": "我们实际上正在用尽上限AI能力的基准",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "The article traces the rapid saturation of traditional AI benchmarks—once the gold standard for bounding model capabilities—and the mounting difficulty of keeping them relevant as frontier systems like Anthropic’s Claude Opus 4.6 and OpenAI’s GPT‑5.3 approach or surpass them. It critically evaluates alternative approaches—time‑horizon tests, uplift studies, expert forecasts, and third‑party audits—highlighting their logistical, financial, and epistemic limitations. The core insight is that the very tools used to assure safety are becoming obsolete, forcing a paradigm shift from static benchmarks to dynamic, multi‑modal assessment frameworks. The author urges the community to move beyond hypothetical safety claims and confront the reality of faster AI progress than our measurement capabilities can keep pace with. This piece is a call to action for researchers, policymakers, and industry to rethink safety metrics, invest in scalable evaluation infrastructure, and foster transparent, independent oversight, lest we underestimate the disruptive potential of future models.",
-    "summary_zh": "文章揭示传统 AI 基准已被前沿模型超越，测评方法面临成本与时效双重瓶颈。作者评估时间跨度测试、提升研究、专家预测和第三方审计等替代方案，指出其局限性与挑战。核心在于：现有安全上限工具失效，迫切需要多模态、可扩展评估框架，并呼吁行业与政策层面重新思考安全指标，以防低估未来模型的颠覆力。",
-    "best_quote_en": "\"We are actually running out of benchmarks to upper bound AI capabilities.\"",
-    "best_quote_zh": "“我们实际上正在用尽上限AI能力的基准。”"
-  },
-  {
     "id": 431,
     "title": "What Will the Artemis II Moon Mission Teach Us?",
     "title_zh": "阿尔忒弥斯二号月球任务将教会我们什么？",
@@ -2336,5 +2220,125 @@
     "summary_zh": "本文用亲身体验与产品对比，细致拆解从军用迷彩裤到可变形运动裙、重型工作裤的多功能性。作者把服装视为任务装备，强调隐藏口袋、可调长度等设计如何将普通裤子升级为多工具平台。文中还评析配件如吊带、皮带的互补作用，展示功能与舒适的平衡。对于户外爱好者、建筑工人及服装设计者，提供品牌、价格与实用改造建议，既是购买指南，也是创意启发。文章以好奇与务实并存的语气，鼓励读者重新审视日常衣物的潜能。",
     "best_quote_en": "These pants keep the weight spread out too, so the perception of the weight is reduced.",
     "best_quote_zh": "这些裤子将重量分散，使负重感降低。"
+  },
+  {
+    "id": 526,
+    "title": "Tradwives, sugar babies and OnlyFans: Euphoria’s misogyny feels like the manosphere’s wet dream",
+    "title_zh": "",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/29/euphoria-season-3",
+    "tags": [
+      "solve",
+      "economics",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 527,
+    "title": "High Resolution Fundraising",
+    "title_zh": "高分辨率融资",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hiresfund.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "深度分析"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "The article dissects why convertible notes have eclipsed traditional fixed‑size angel rounds, emphasizing the political economics of investor confidence: the “who else is investing?” paradox, the need to reward early movers, and the flexibility of valuation caps. By framing fundraising as a high‑resolution spectrum—assigning distinct terms to each investor based on risk appetite, strategic value, or commitment speed—the author argues for a future where rounds adapt in real time rather than lock in a single size. This shift democratizes access: early, bold investors gain better terms, while those who wait pay a premium and risk missing out. The piece critiques entrenched VC‑style rituals, highlights how angel groups inadvertently replicated Series‑A logic, and invites founders to rethink fundraising as a dynamic, data‑driven process. It blends practical advice with a forward‑looking critique, making it a valuable blueprint for founders and early‑stage investors who seek both speed and strategic differentiation in capital acquisition.",
+    "summary_zh": "文章揭示可转债取代传统天使轮的原因，重点讨论“谁在投”导致的僵局与早期投资者的价格优势。作者提出将融资视为高分辨率过程，针对不同投资者设定不同条款，强调动态、实时的募资模式。批判传统VC式的固定规模，呼吁创投重新思考资金获取方式。",
+    "best_quote_en": "‘By making it easier for startups to give different prices to different investors, they help them break the sort of deadlock that happens when investors all wait to see who else is going to invest.’",
+    "best_quote_zh": "‘通过让初创企业更容易为不同投资者提供不同价格，他们帮助打破投资者都在等谁先投的僵局。’"
+  },
+  {
+    "id": 528,
+    "title": "SecureMaxx: A Lightweight  Sequence Screening Tool for Agents",
+    "title_zh": "SecureMaxx：轻量级序列筛选工具",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/jaBQM5pyPaicF3pfA/securemaxx-a-lightweight-sequence-screening-tool-for-agents-1",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "SecureMaxx emerges as a pragmatic convergence of existing bio‑security screening engines—BLAST, SecureDNA, and SeqScreen—wrapped into a lightweight, agent‑native skill that can be invoked on demand. The authors demonstrate that, in a series of controlled Inspect‑AI experiments, the tool raises refusal rates for hazardous sequences from near zero to 70‑100 % while adding under two seconds of latency and less than a 1 % safety tax on a benchmark task. The design philosophy is deliberately loose: rather than hard‑coding trigger conditions, the framework exposes a high‑level guidance signal so that future, more capable agents can autonomously decide when screening is warranted. This reflects an acute awareness of the evolving threat landscape, where AI‑augmented bioterrorists might exploit open‑weight LLMs to design or synthesize harmful nucleic acids. SecureMaxx also articulates dual‑use dilemmas, noting that the same annotations that flag threats can be weaponized by adversaries and that policy mandates are required for widespread adoption. The paper is a valuable case study in rapid, hackathon‑style prototyping that balances technical rigor, usability, and ethical foresight, offering both a concrete tool and a framework for future hardening efforts.",
+    "summary_zh": "SecureMaxx 通过整合 BLAST、SecureDNA 与 SeqScreen，提供轻量、可调用的序列筛选接口。实验表明，工具能显著提升危险序列的拒绝率，并在保持极低延迟和安全税的前提下，为 AI 代理提供早期干预点。作者强调该工具的设计保持灵活性，鼓励代理自主判断何时调用，体现对生物恐怖主义与 AI 交叉风险的深刻洞见。",
+    "best_quote_en": "\"When SecureMaxx is invoked, refusal rates rise from a 0–30% baseline to 70–100% depending on scenario complexity, with under 2 seconds of added latency per query and less than 1% safety tax.\"",
+    "best_quote_zh": "\"当 SecureMaxx 被调用时，拒绝率从 0–30% 基线跃升至 70–100%，每条查询的额外延迟不到 2 秒，安全税不到 1%。\""
+  },
+  {
+    "id": 529,
+    "title": "How Putin and Zelensky View the War in Iran",
+    "title_zh": "普京与泽连斯基对伊朗战争的看法",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-putin-and-zelensky-view-the-war-in-iran",
+    "tags": [
+      "solve",
+      "economics",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-04-28",
+    "summary_en": "The article weaves a complex narrative that positions the Iran war as a multi‑layered catalyst—fueling geopolitical realignment, economic disruption, and technological counter‑offensives—while simultaneously magnifying the strategic dilemma faced by Ukraine. By foregrounding Zelensky’s concerns about Patriot shortages and the diversion of U.S. defense aid, the piece underscores how a distant conflict can siphon resources from a frontline war. It highlights the Kremlin’s dual strategy of supporting Iran to undermine U.S. influence and to buffer its own war economy, and it shows how Gulf states are recalibrating alliances amid perceived U.S. impotence. The author frames the Iran war as a “greatest threat to global energy security,” a claim that is data‑driven and corroborated by IEA and UNDP figures, yet it also acknowledges the policy vacillations that have left a vacuum for Russian and Iranian coordination. The article invites readers to interrogate the paradox of a war that simultaneously cripples one nation’s defense capacity while providing another with a strategic advantage, thereby complicating the calculus of international aid, regional security, and global economic stability. This multifaceted analysis offers a nuanced lens that challenges simplistic narratives of cause and effect, urging policymakers to consider the broader, intertwined consequences of regional conflicts.",
+    "summary_zh": "文章将伊朗战争视为多维催化剂，扰乱全球能源安全与地区同盟，且削弱乌克兰防御资源。它揭示普京支持伊朗以削弱美方影响力，同时让俄方经济受益，并论述海湾国家在美国被动中的自我防卫转型。作者以数据为支撑，批判单一因果论，促使读者重新审视地区冲突的深层连锁反应。",
+    "best_quote_en": "War is development in reverse.",
+    "best_quote_zh": "战争是发展的逆转。"
+  },
+  {
+    "id": 530,
+    "title": "Injection / Enormous Smallness",
+    "title_zh": "注射 / 巨大小小",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/injection-enormous-smallness/",
+    "tags": [
+      "solve",
+      "design",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2026-04-28",
+    "summary_en": "The article juxtaposes two literary works, offering a layered critique of genre blending and artistic ambition. It frames the debut volume of \"Injection\" as a fairy‑tale reimagined through contemporary science, probing the intersection of folklore and artificial consciousness. This narrative lens invites readers to question the assumed separation between myth and technology, while the vivid, color‑shifting artwork underscores the story’s duality of dark science and luminous magic. In contrast, \"Enormous Smallness\" celebrates the formative journey of E.E. Cummings, celebrating the persistence required to become an artist. By highlighting Cummings’ willingness to say \"yes\" to the world and the disciplined work behind his success, the book offers a realistic, inspirational roadmap for young creatives. Together, the piece underscores how storytelling, whether speculative or biographical, can illuminate larger truths about innovation, imagination, and the human drive to shape meaning.",
+    "summary_zh": "文章将两部作品并置，一边是将童话与科技交织的《注射》，一边是记录E.E.克明斯成长的《巨大小小》。前者以奇幻与人工意识为线索，探讨神话与技术的界限；后者则以克明斯的坚持与毅力为核心，给年轻艺术家以现实的启示。两者共同呈现创意与努力的交响，提醒读者创新往往源于对世界的好奇与不懈追求。",
+    "best_quote_en": "\"The creation begins mimicking folklore, and the solution to defeating it seems to lie just as much in magic as it does in science.\"",
+    "best_quote_zh": "“创造开始模仿民间传说，击败它的解决方案似乎同样依赖魔法和科学。”"
   }
 ]
