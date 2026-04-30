@@ -1,125 +1,5 @@
 [
   {
-    "id": 431,
-    "title": "What Will the Artemis II Moon Mission Teach Us?",
-    "title_zh": "阿尔忒弥斯二号月球任务将教会我们什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-will-the-artemis-ii-moon-mission-teach-us",
-    "tags": [
-      "guide",
-      "science",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2026-04-06",
-    "summary_en": "The article examines the historic Artemis II mission as both a technical rehearsal and a cultural milestone, highlighting how NASA’s return to the Moon signals a broader shift toward commercial‑led deep‑space exploration. It frames the mission as a pivotal learning laboratory: the crew’s first experience of Earth’s full scale from orbit, the management of unexpected cabin leaks, and the nuanced interplay between legacy NASA infrastructure and new private partnerships. Beyond operational details, the piece critiques the politicization of space funding and the emerging competition with China’s Chang’e program, suggesting that Artemis’s success hinges on sustained bipartisan support and a clear public narrative. The author underscores the human element—crew camaraderie, the intimacy of spaceflight, and the emotional resonance of seeing Earth shrink to a golf ball—yet also warns that the commercialization of lunar logistics may concentrate resources in a few states, potentially eroding the inclusive ethos that once defined NASA. Overall, the story invites readers to consider Artemis not merely as a technical feat but as a turning point in how society values, finances, and participates in outer‑space endeavors.",
-    "summary_zh": "文章透视阿尔忒弥斯二号任务，既是技术排练，也是文化里程碑，提醒我们太空探索正从国家主导转向商业合作。通过对机舱泄漏、宇航员首次全景观测地球等细节的剖析，作者评估了政治支持与公众认知对任务成功的决定性作用，并对中美月球竞争与资源集中化提出警惕。最终，文章把任务定位为重塑太空价值观与参与方式的关键节点。",
-    "best_quote_en": "“Artemis is a survivor program,” Emily A. Margolis said. “The Orion crew capsule was part of the Constellation program. Three of the rocket’s four engines flew on Space Shuttle missions.”",
-    "best_quote_zh": "“阿尔忒弥斯是个幸存者项目，”玛格利斯说。 “奥赛里恩宇航员舱是星际计划的一部分。火箭四台发动机中有三台曾在航天飞机上使用。”"
-  },
-  {
-    "id": 432,
-    "title": "Folding Bikes",
-    "title_zh": "折叠自行车",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/folding-bikes/",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-04-06",
-    "summary_en": "This article weaves a personal narrative with a comprehensive review of folding bicycles, treating them as both practical tools and lifestyle statements. The author’s firsthand experience with the Brompton T6, Bike Friday, and Strida models highlights key trade‑offs—compactness, ride quality, maintenance, and cost—and frames the folding bike as an urban mobility solution that can replace car commutes, reduce storage headaches, and even become a fashion accessory. The piece offers actionable guidance: how to choose a model based on commuting distance, folding mechanism, and whether you’ll travel by air or public transit. It also broaches the broader cultural shift toward sustainable, portable transport, and the creative potential of bike hacking. The reader is left with a clear mental map of the folding bike ecosystem, practical criteria for decision‑making, and a sense that this compact mode of transport can reshape daily routines and urban living.",
-    "summary_zh": "文章通过亲身体验与折叠自行车的评测，展示了它们如何成为城市通勤的实用与时尚双重选择。作者比较了Brompton、Bike Friday和Strida等品牌，指出折叠便携、骑行舒适、维护成本等关键因素，并给出针对不同通勤距离与交通工具的选购建议。更进一步，文中提及自行车改装的创意潜力，暗示折叠自行车不仅是交通工具，更是可持续生活方式的一部分。",
-    "best_quote_en": "\"I bought mine six months ago and it has completely transformed my day to day existence. It’s a true lifestyle changer.\"",
-    "best_quote_zh": "\"我买了它已经六个月，它彻底改变了我的日常生活。它是真正的生活方式改变者。\""
-  },
-  {
-    "id": 433,
-    "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
-    "title_zh": "在日常生活中培育敬畏与情感联结 | Dr. Dacher Keltner",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/cultivating-awe-and-emotional-connection-dr-dacher-keltner",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-04-06",
-    "summary_en": "Dr. Dacher Keltner’s conversation delves into the science of awe, unpacking what triggers this powerful emotion and how it reshapes our personal and collective narratives. He links physiological markers—facial expressions, motor patterns, and brain synchronization—to the subjective experience of awe, offering concrete tools such as the \"Awe Walk\" and space‑time bridging meditation. The discussion also intersects humor, humor’s role in social bonding, and the paradoxical inhibitors of awe like self‑focus and narcissism. By weaving neurobiological evidence with real‑world examples—from concerts to city design—Keltner presents a holistic framework for cultivating awe as a catalyst for community, mental health, and resilience. The episode is a blend of rigorous research, actionable practices, and forward‑looking speculation on psychedelics and urban planning, making it a rich resource for anyone seeking to understand or harness awe in daily life.",
-    "summary_zh": "Keltner博士将敬畏的神经科学与日常实践相结合，揭示情感如何重塑自我与群体认知，并提供可操作的工具。",
-    "best_quote_en": "\"Awe is not just a feeling; it is a rewiring of how we perceive ourselves in the vast tapestry of life.\"",
-    "best_quote_zh": "“敬畏不仅是一种情感，它是我们在广阔生命织锦中重新塑造自我的一种重组。”"
-  },
-  {
-    "id": 434,
-    "title": "Black Swan Farming",
-    "title_zh": "黑天鹅耕作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/swan.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-04-08",
-    "summary_en": "This essay dissects the paradoxical logic behind Y Combinator’s investment philosophy, revealing that the most lucrative exits arise from ideas that initially appear disastrous. The author distills two core truths: returns are heavily skewed toward a handful of hyper‑growth winners, and the probability of hitting such a winner is not a simple function of baseline success. Consequently, traditional metrics like demo‑day fundraising are misleading, while the true indicator is the potential to scale 1000×. The narrative balances practical guidance—how to tilt risk tolerance, ignore conventional success signals, and maintain a broad portfolio—with a philosophical reflection on the counterintuitive nature of breakthrough ventures. It offers a compelling argument for treating venture funding as a probabilistic art, not a linear science, and encourages founders to pursue high‑impact ideas even when they seem “bad.” The piece is both a strategic playbook for investors and an inspiration for founders who dare to dream beyond conventional wisdom.",
-    "summary_zh": "作者揭示VC成功的两大真相：回报高度集中于少数大赢家，且选中超大赢家的概率与普通成功率并不成正比。传统的Demo Day融资率已失效，真正的指标是潜在的千倍增长。文章既给出风险偏好与组合扩张的实战建议，又提醒创业者敢追看似“糟糕”的创意，强调突破往往隐藏在逆向思维之中。",
-    "best_quote_en": "The best startup ideas seem at first like bad ideas.",
-    "best_quote_zh": "最成功的创业想法起初看起来像糟糕的想法。"
-  },
-  {
-    "id": 435,
-    "title": "The Science Book / Encyclopedia of Sensors",
-    "title_zh": "科学书 / 传感器百科",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-science-book-encyclopedia-of-sensors/",
-    "tags": [
-      "guide",
-      "design",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "The article juxtaposes two distinct yet complementary science guides, offering readers a panoramic view of knowledge from foundational principles to practical hardware. The first book, *The Science Book*, condenses centuries of scientific milestones into a visually engaging format, making complex topics like relativity and genetics accessible through clear diagrams and layman’s language. Its strength lies in bridging curiosity and comprehension, encouraging both novices and seasoned science lovers to explore topics at their own pace. The second volume, *Encyclopedia of Electronic Components – Sensors*, serves as a hands‑on companion for makers and hobbyists, detailing sensor types, functionalities, and troubleshooting with vivid photos and diagrams. Written by Charles Platt and Fredrik Jansson, it maintains an approachable tone while providing rigorous technical insights, reflecting the ethos of the broader Make: Electronics series. Together, these works illustrate a holistic learning pathway—from theoretical concepts to tangible engineering applications—demonstrating how well‑crafted, visually rich resources can ignite sustained interest in science and technology. They underscore the importance of design, clarity, and narrative in science communication, and they invite readers to bridge the gap between abstract theory and real‑world experimentation.",
-    "summary_zh": "文中对比两本科学书籍，一本以可视化方式梳理人类科学史，另一部聚焦传感器硬件细节。两者相辅相成，既让读者在理论与实践之间自由穿梭，也展示优秀科普书籍需兼具美学与深度。",
-    "best_quote_en": "One of the things that I think has made the Make: Electronics series such a great success is that Charles Platt is a smart, endlessly curious, and details‑oriented electronics enthusiast.",
-    "best_quote_zh": "我认为让 Make: Electronics 系列如此成功的原因之一是 Charles Platt 是一位聪明、永不满足、注重细节的电子爱好者。"
-  },
-  {
     "id": 436,
     "title": "The Tim Ferriss Show Transcripts: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life (#860)",
     "title_zh": "",
@@ -2340,5 +2220,119 @@
     "summary_zh": "文章将两部作品并置，一边是将童话与科技交织的《注射》，一边是记录E.E.克明斯成长的《巨大小小》。前者以奇幻与人工意识为线索，探讨神话与技术的界限；后者则以克明斯的坚持与毅力为核心，给年轻艺术家以现实的启示。两者共同呈现创意与努力的交响，提醒读者创新往往源于对世界的好奇与不懈追求。",
     "best_quote_en": "\"The creation begins mimicking folklore, and the solution to defeating it seems to lie just as much in magic as it does in science.\"",
     "best_quote_zh": "“创造开始模仿民间传说，击败它的解决方案似乎同样依赖魔法和科学。”"
+  },
+  {
+    "id": 531,
+    "title": "Thursday briefing: What new evidence tells us about the reality of racial discrimination in maternity care",
+    "title_zh": "星期四简报：新证据揭示产科种族歧视的现实",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/apr/30/thursday-briefing-what-new-evidence-tells-us-about-the-reality-of-racial-discrimination-in-maternity-care",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "The Guardian’s Thursday briefing dissects a pioneering study linking cumulative stress from racism and socioeconomic deprivation to adverse pregnancy outcomes among Black women in the UK. By moving beyond descriptive disparities to probing physiological mechanisms, the research underscores how systemic inequality manifests as tangible health risks, challenging the simplistic bias narrative that has dominated previous discourse. The article situates the findings within a broader policy context—highlighting advocacy groups, professional bodies, and recent investigations that are beginning to demand better training and data collection. For readers, the piece offers a nuanced, evidence‑driven lens that not only illuminates why disparities persist but also frames actionable pathways for mitigation. It invites health professionals, policymakers, and the public to confront the hidden, physiological toll of racism, reinforcing the imperative for systemic reform. This analysis is intellectually engaging because it connects granular data to macro‑level social change, urging a shift from passive awareness to proactive intervention.",
+    "summary_zh": "这篇Guardian的星期四简报聚焦一项将种族歧视与孕产期健康结果联系起来的研究，揭示长期压力如何导致黑人女性产科死亡率升高。作者不止停留在描述差距，而是探讨其生理根源，提醒我们种族不平等的影响并非单纯偏见所致。文章把研究置于政策与社会运动的背景，讨论专业协会与公众团体正在推动的改进措施。读者在阅读时可从数据到行动层面获得启示，促使医疗界和政府思考如何从根源上消除不平等。",
+    "best_quote_en": "This feels like part of that next step – researchers are starting to dig into why disparities exist, not just describing them.",
+    "best_quote_zh": "这感觉像是下一步的一部分——研究人员开始探究差距存在的原因，而不仅仅是描述它们。"
+  },
+  {
+    "id": 532,
+    "title": "What Happened to Yahoo",
+    "title_zh": "Yahoo的命运",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/yahoo.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "The article is a candid, reflective account of the author’s experience at Yahoo during the late 1990s, framed as a cautionary study for modern startups.  It exposes a triad of systemic failures that doomed Yahoo: reliance on volatile banner‑ad revenue, a corporate identity split between media and technology, and a shallow engineering talent pipeline.  By juxtaposing Yahoo’s “media‑company” posture with the hacker‑centric culture of Google, the narrative illustrates how strategic misalignments—prioritizing sales over product quality, mistaking advertising volume for value—can trap even a tech giant in a self‑reinforcing spiral of mediocrity.  The piece is a rich, data‑driven case study that blends historical anecdotes (e.g., Revenue Loop, Anil Singh’s sales tactics) with broader lessons about revenue diversification, identity clarity, and talent acquisition.  It invites readers to interrogate their own companies’ revenue models, cultural priorities, and hiring practices, urging a shift from short‑term banner ad gains to long‑term, technology‑driven product excellence.  The narrative’s personal voice and concrete examples make the insights immediately actionable for founders, product leaders, and engineering managers alike.",
+    "summary_zh": "作者在 1998 年加入 Yahoo 的亲身经历，揭示了三大致命缺陷：过度依赖横幅广告、企业身份混乱以及技术人才薄弱。通过对比 Google 的“黑客文化”，文章阐明了商业模式和文化失衡如何导致技术与产品质量滑坡。它既是对当代创业者的警醒，也是对如何在快速变化的互联网环境中保持技术核心的深刻思考。",
+    "best_quote_en": "\"A hacker‑centric culture is the lifeblood of any company that needs to produce good software; without it, even a million‑dollar revenue stream can’t save a product from mediocrity.\"",
+    "best_quote_zh": "“如果一家公司的核心是软件，那么拥有黑客文化就是其生存的必需品；没有它，即使拥有百万美元的收入也无法拯救产品的质量问题。”"
+  },
+  {
+    "id": 533,
+    "title": "Maybe I was too harsh on deep learning theory (three days ago)",
+    "title_zh": "也许我对深度学习理论评判过于苛刻",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6SRq7mZ97Dwuavwb6/maybe-i-was-too-harsh-on-deep-learning-theory-three-days-ago",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "The article traces the author’s evolving perspective on deep learning theory, moving from skepticism to appreciation as he revisits seminal works in neural tangent kernels, mean‑field theory, and Greg Yang’s tensor program. It highlights the nuanced differences between infinite‑width limits—NTK’s fixed‑kernel linear regression versus mean‑field’s feature‑learning dynamics—and the historical lineage linking early signal‑propagation studies to modern unifying frameworks. By dissecting landmark papers (Zhang 2016, Nagarajan 2019, Lee 2017, Yang 2022), the piece underscores the importance of coherent intellectual traditions for advancing theory that predicts practical generalization. The author’s candid admission of initial bias, coupled with a call to recommend mean‑field and tensor‑program studies to newcomers, offers a reflective lens on how theoretical rigor can be both inspiring and intimidating. Ultimately, the post serves as a meta‑analysis of theory’s role in demystifying deep learning, encouraging a balanced view that values cumulative progress over singular breakthroughs.",
+    "summary_zh": "作者从怀疑到认可，细述深度学习理论的演进，比较NTK与平均场理论的无限宽极限，并梳理了从早期信号传播到张量程序的历史脉络。文章提醒人们在评估理论价值时应兼顾实用性与可验证性，倡导向新人推荐平均场与张量程序的学习路径。",
+    "best_quote_en": "In my memory, I chalked this up as Greg Yang being a genius. In my recollection of the work, I remembered only μP and the toy shallow neural network model that Yang created that allows one to rederive it.",
+    "best_quote_zh": "在我的记忆里，我把这归功于Greg Yang的天才。根据我的回忆，我只记得μP和Yang创建的那个可以重新推导的玩具浅层神经网络模型。"
+  },
+  {
+    "id": 534,
+    "title": "King Charles and Queen Camilla Come to Washington",
+    "title_zh": "查尔斯国王与卡米拉王后抵达华盛顿",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/dc-gets-a-king-it-actually-wants",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "The article offers a satirical, yet incisive, examination of King Charles and Queen Camilla’s Washington visit, framed by the peculiar backdrop of President Donald Trump’s idiosyncratic hospitality. By weaving together fact and absurdity—flag mishaps, bee‑laden White House tours, and Trump’s flamboyant monarchical cosplay—the piece probes the fragile state of the Anglo‑American “special relationship.” It exposes how political scandals (the Epstein‑linked ambassador recalls, Starmer’s resignation rumour) and Trump’s nationalist rhetoric intersect, turning a diplomatic event into a platform for partisan posturing. The narrative underscores how symbolism (the beehives, the tree gifted by Elizabeth II) is co‑opted to reinforce contested narratives of heritage versus policy. Ultimately, the article invites readers to question the performative nature of diplomacy, the manipulation of tradition for political gain, and how such spectacles reflect deeper anxieties about identity, governance, and the future of transatlantic ties.",
+    "summary_zh": "文章以讽刺方式审视查尔斯国王与卡米拉王后华盛顿之行，揭示特朗普总统的怪诞风格与英美关系的脆弱。通过旗帜失误、蜂巢观光、特朗普皇室戏装等荒诞细节，文章探讨了政治丑闻与民粹主义如何将外交仪式变成党派炫耀，勾勒出身份、治理与跨大西洋未来的深层焦虑。",
+    "best_quote_en": "\"For nearly two centuries before the Revolution, this land was settled and forged by men, women, who bore in their souls the blood and noble spirit of the British,\" Trump said.",
+    "best_quote_zh": "“那是一棵年轻美丽的树，现在看它，它已长成三倍之大。”"
+  },
+  {
+    "id": 535,
+    "title": "What’s in my NOW? — Jolyon Patten",
+    "title_zh": "我的现在里有什么？ — Jolyon Patten",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-jolyon-patten/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "Jolyon Patten, a retired London litigator turned Greek mountain hermit, spins an intimate portrait of the objects and ideas that shape his daily life. From a feather‑light Spyderco knife that serves as an everyday tool to a Collings OM2H‑T guitar that embodies his lifelong passion for music, he reveals how objects can be both functional and deeply personal. His curated list of books—particularly Chuang Tzu’s Inner Chapters—underscores a lifelong quest for philosophical grounding, while his venture into AI‑powered publishing via Claude Code demonstrates a commitment to blending tradition with cutting‑edge technology. The piece invites readers to reflect on their own “NOW” and consider how seemingly ordinary items can anchor identity, creativity, and purpose. It blends anecdote with practical insight, offering a blueprint for intentional living that is both inspirational and actionable. The recurring theme of wanting to be what one is, quoted from Erasmus, ties the narrative together, suggesting that the truest value lies in authenticity rather than external accolades.",
+    "summary_zh": "退休律师Jolyon Patten在希腊山间的生活与对日常物品的敏锐洞察，呈现了功能与情感的完美融合。他用斜刀、吉他、书籍等呈现自我成长与创作的动力，并通过AI出版实验探索传统与科技的交汇。整篇文字鼓励读者审视自己的“现在”，思考如何让日常物品成为自我实现的桥梁，传递了关于真实性与内在价值的深刻思考。",
+    "best_quote_en": "The chief element of happiness is this: to want to be what you are.",
+    "best_quote_zh": "幸福的核心要素是：想成为真实的自己。"
   }
 ]
