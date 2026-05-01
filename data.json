@@ -1,125 +1,5 @@
 [
   {
-    "id": 436,
-    "title": "The Tim Ferriss Show Transcripts: Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life (#860)",
-    "title_zh": "",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/04/08/michelle-khare-challenge-accepted-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-04-08",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 437,
-    "title": "Bill Ackman confident he’ll win over UMG shareholders to $64 billion bid, says Bolloré response was ‘music to my ears’",
-    "title_zh": "比尔·艾克曼自信能赢得UMG股东支持$640亿美元收购提议，波洛雷回应称为“音乐”，令其欣喜",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/bill-ackman-confident-hell-win-over-umg-shareholders-to-64-billion-bid-says-bollore-response-was-music-to-my-ears/",
-    "tags": [
-      "inspire",
-      "leadership",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "Bill Ackman’s $64 billion Universal Music Group bid illustrates how a high‑profile investor can leverage strategic stakeholder outreach to shape a mega‑acquisition narrative. By first courting UMG’s largest shareholder, the Bolloré Group, and then engaging the company’s CEO, Ackman demonstrates that securing a single pivotal shareholder can dramatically reduce regulatory friction and signal confidence to minority investors. The pitch hinges on a win‑win value proposition: UMG shareholders gain a liquidity event, employees unlock deep‑water options, and artists receive a sizeable payout from Spotify’s stake. Ackman also highlights governance reforms—appointing a new board with industry veterans and simplifying executive contracts—to assuage concerns about control changes. This case underscores the importance of transparent investor communication, disciplined capital allocation, and leveraging analogies (e.g., comparing UMG to Hilton) to build a compelling narrative. For investors, it offers a blueprint on how to structure an all‑share offer, align with key stakeholders, and manage post‑deal governance. For executives, it shows how a clear value narrative can mitigate opposition from a fragmented shareholder base. Overall, the article serves as a practical guide to orchestrating a large‑scale takeover with minimal resistance, blending strategic outreach, financial engineering, and governance restructuring.",
-    "summary_zh": "比尔·艾克曼的640亿美元收购提案展示了高知名度投资者如何通过精准的关键股东外联，降低监管摩擦，赢得股东支持。通过先与最大股东波洛雷沟通，再与CEO对话，他将交易包装为股东获利、员工期权兑现、艺术家收益等多赢局面，并强调治理改革以缓解控制变更风险。此案例强调透明沟通、资本配置与治理结构的协同作用，为大型并购提供可操作的蓝图。",
-    "best_quote_en": "\"Without Bolloré, we don’t have a transaction.\"",
-    "best_quote_zh": "\"没有波洛雷，我们就没有交易。\""
-  },
-  {
-    "id": 438,
-    "title": "#MeToo movement brings wave of harassment claims across Colombia",
-    "title_zh": "#MeToo运动在哥伦比亚掀起骚扰指控浪潮",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "The article chronicles how the global #MeToo movement catalyzed a surge of sexual harassment allegations across Colombia’s media, public institutions, and even politics. Beginning with journalist Juanita Gómez’s personal testimony, the piece traces a ripple effect that led to high‑profile resignations, policy changes from the Attorney General, and a new legal framework allowing investigations based on social‑media reports. It highlights the structural nature of harassment, with 60% of female journalists reporting workplace abuse, and underscores the broader societal shift toward accountability and solidarity. The narrative balances investigative detail with human stories, illustrating how collective action can reshape cultural norms and legal responses. The piece invites readers to consider the intersection of gender, power, and media ethics, while prompting reflection on the ongoing need for systemic protection and support for victims.",
-    "summary_zh": "文章记录了全球#MeToo运动如何在哥伦比亚掀起媒体与政府层面的骚扰指控浪潮，从记者胡安娜·戈麦斯的亲身经历到高层辞职与司法改革，展现了结构性骚扰与集体行动如何推动制度改变。它通过数据与人文叙事，提醒我们性别与权力交织的伦理议题，并呼吁持续的制度保障与支持。",
-    "best_quote_en": "\"I sincerely hope that silence is no longer an option for anyone, for any young journalist who enters a media outlet with so many dreams in her head and heart. I hope no one ever again steals that dream from any woman,\" said Catalina Botero.",
-    "best_quote_zh": "“我真诚地希望沉默不再是任何人、任何年轻记者进入媒体机构时的选择，我希望没有人再夺走任何女性的梦想。”"
-  },
-  {
-    "id": 439,
-    "title": "Have we already lost? Part 1: The Plan in 2024",
-    "title_zh": "我们已经失去了吗？第一部分：2024年的计划",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/tjZWbmuCE9tjYQsrf/have-we-already-lost-part-1-the-plan-in-2024",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-04-09",
-    "summary_en": "LawrenceC’s reflective piece interrogates the state of AI safety in early 2026, weighing the optimism of past strategies against the harsh realities of policy failure, accelerated timelines, and corporate dominance. He revisits the 2024 \"plan\"—a mix of voluntary conditional commitments, aggressive AI development, and leveraging AI labor—to highlight why the community’s trajectory feels precarious yet not doomed. By contrasting the \"wing‑it\" optimism with tangible setbacks, the author underscores the paradox of progress: more powerful models increase risk while simultaneously offering tools for alignment. He ends on a pragmatic note, inviting continued engagement and suggesting that individual agency can still steer outcomes. The essay is a candid, data‑driven critique that blends expert insight with future‑focused caution, prompting readers to reassess assumptions about control, governance, and the pace of AI evolution.",
-    "summary_zh": "作者回顾2024年AI安全计划，批判其在治理、技术与政治层面的失败，并指出虽然看似失去控制，但仍有改进空间。文章用数据与案例，对比“临时应对”与“主动治理”，强调个人与社区仍可影响未来。",
-    "best_quote_en": "\"The situation on wing‑it–style empirical alignment is a fair bit better than expected, and it seems more likely that Anthropic will be able to achieve and maintain a lead.\"",
-    "best_quote_zh": "\"我们已经失去了吗？这并非是我所说的那种失去，而是我们在技术与治理上失去了一部分控制。\""
-  },
-  {
-    "id": 440,
-    "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
-    "title_zh": "Essentials：攻击、交配与唤起的生物学 | David Anderson 博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-biology-of-aggression-mating-and-arousal-david-anderson",
-    "tags": [
-      "guide",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-09",
-    "summary_en": "In a deep dive into the neural substrates of emotion, Dr. David Anderson elucidates how circuits in the brain give rise to fear, aggression, and pain, and how hormones modulate these states. The episode unpacks the evolutionary logic behind offensive versus defensive aggression, contrasts male and female patterns, and links pain pathways to social isolation and aggression through the periaqueductal gray and tachykinin systems. Anderson’s discussion bridges basic neurobiology with clinical implications, arguing that a granular grasp of these hidden processes can transform mental‑health interventions. The conversation is rich with data‑driven insights, practical take‑aways for researchers and clinicians, and a forward‑looking perspective on how hormonal fluctuations intersect with behavior. For anyone eager to move beyond surface explanations of emotion, this episode offers a compelling, actionable map of the brain’s emotional machinery and its relevance to future therapies.",
-    "summary_zh": "David Anderson 博士在本期节目中阐述了大脑如何通过特定神经回路产生恐惧、攻击与疼痛，并探讨激素如何塑造这些情绪状态。节目从进化视角区分攻击的进攻性与防御性，并对男女差异及其背后的神经机制进行对比。通过对periaqueductal gray、tachykinin 等关键节点的解析，作者揭示疼痛与社会隔离如何共同驱动攻击行为。内容兼具数据驱动与临床前瞻性，为心理健康治疗提供了可操作的神经科学基础，适合科研与临床双重受众。",
-    "best_quote_en": "Understanding these hidden internal processes is essential for improving future mental health treatments.",
-    "best_quote_zh": "理解这些隐藏的内部过程对于改善未来的心理健康治疗至关重要。"
-  },
-  {
     "id": 441,
     "title": "Daredevil Michelle Khare — How to Become a YouTube Superstar, Open Impossible Doors (FBI, Secret Service, etc.), Craft Jedi-Level Cold Emails, and Use Fear-Setting to Change Your Life (#860)",
     "title_zh": "Daredevil Michelle Khare — 如何成为YouTube超级明星，打开不可能的大门（FBI、特勤局等），打造绝世冷邮件，运用恐惧设定改变人生（#860）",
@@ -2334,5 +2214,123 @@
     "summary_zh": "退休律师Jolyon Patten在希腊山间的生活与对日常物品的敏锐洞察，呈现了功能与情感的完美融合。他用斜刀、吉他、书籍等呈现自我成长与创作的动力，并通过AI出版实验探索传统与科技的交汇。整篇文字鼓励读者审视自己的“现在”，思考如何让日常物品成为自我实现的桥梁，传递了关于真实性与内在价值的深刻思考。",
     "best_quote_en": "The chief element of happiness is this: to want to be what you are.",
     "best_quote_zh": "幸福的核心要素是：想成为真实的自己。"
+  },
+  {
+    "id": 536,
+    "title": "The devil wears Primark: is the romcom reporter about to get the sack?",
+    "title_zh": "魔鬼穿Primark：浪漫喜剧记者即将被解雇？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-01",
+    "summary_en": "The Guardian piece dissects the cultural and economic fallout surrounding the imagined sequel to The Devil Wears Prada, framing it as a mirror of contemporary journalism’s precarious landscape. It juxtaposes the film’s glamorous dreamscape with the brutal reality of newsroom downsizing, AI-driven content, and widening class disparity. The article highlights the protagonist Andy’s struggle to balance career ambition, personal autonomy, and fertility choices—an issue resonant with modern working women. By tracing the lineage of female journalists in cinema—from Hildy in 1940 to Bridget Jones and beyond—it underscores a persistent narrative of women negotiating power, identity, and societal expectations. The critique invites readers to question whether the film’s success can coexist with an industry in decline, probing the limits of aspirational storytelling in a world where opportunities are scarce. Its layered analysis offers a nuanced lens on gender, labor, and media, urging viewers to confront the dissonance between cinematic fantasy and lived reality. The piece is both a cultural commentary and a call to recognize the structural forces shaping women’s professional journeys.",
+    "summary_zh": "这篇Guardian评论把《魔鬼穿Primark》想象中的续集当作当代媒体危机的缩影，既讽刺了时尚与媒体的浮华，也揭露了新闻行业裁员、AI代替与阶层不平等的现实。文章聚焦女主角安迪的职业与生育抉择，映照现代职场女性面临的多重压力。通过回顾从1940年的海尔迪到布里奇特·琼斯的银幕女性记者，作者强调女性在权力与自我认同之间的持续斗争。读者被邀请思考，电影的商业成功是否能与行业衰退共存，挑战理想与现实的裂痕。此文既是文化批评，也是对结构性力量的警醒，提醒我们关注女性职业道路的真实境遇。",
+    "best_quote_en": "\"It has nothing to do with Andy’s single status: lessons have been learned since the previous film’s disaster boyfriends, pathetic Nate and super‑rat Christian.\"",
+    "best_quote_zh": "“这与安迪的单身状态无关：自前作的灾难男友、可耻的奈特和超级老鼠克里斯蒂安以来，已经学到了教训。”"
+  },
+  {
+    "id": 537,
+    "title": "The Future of Startup Funding",
+    "title_zh": "创业融资的未来",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/future.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-05-01",
+    "summary_en": "The essay explores a paradigm shift in early-stage startup financing, arguing that the traditional VC‑led Series A model is being eroded by smaller, more flexible angel‑style rounds and a new class of “super‑angel” investors who operate like venture funds but with less board control. It highlights how founders are gaining power as investors adapt—through fewer board seats, faster closing times, standardized terms, and a move toward rolling closes and convertible notes. The author warns that VC funds that cling to legacy practices will see their influence and returns erode, while those that adopt leaner deal structures can increase volume without sacrificing quality. Key implications include a potential reduction in dilution for founders, a shift toward more data‑driven, risk‑adjusted investment decisions, and a broader democratization of investment that may ultimately benefit both founders and the venture ecosystem. The piece is both a call to action for investors to modernize and a roadmap for founders to navigate the evolving landscape.",
+    "summary_zh": "作者从创业融资的角度出发，阐释了传统 VC 投资模式正被更灵活的天使轮和超级天使所取代。通过减少董事会席位、缩短融资周期、标准化条款和滚动融资等手段，创始人逐渐获得更多话语权。作者警示传统 VC 若固守旧模式，将失去影响力与收益；而拥抱新模式的基金则可在保持质量的前提下提升交易数量。文章对创始人与投资人关系的未来进行了深刻洞察，强调以数据驱动、风险平衡为核心的投资决策将成为主流。",
+    "best_quote_en": "\"Founders understand their companies better than investors, and it has to be better if the people with more knowledge have more power.\"",
+    "best_quote_zh": "“创始人对自己的公司了解得比投资人更深，如果更有知识的人拥有更多权力，那就一定更好。”"
+  },
+  {
+    "id": 538,
+    "title": "A King (or Two), a President, and a Troll",
+    "title_zh": "王（或两位）、总统与巨魔",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/in-trumps-america-it-takes-a-king-to-praise-democracy",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "This piece unpacks the sharp contrast between King Charles III’s dignified endorsement of American democratic institutions and Donald Trump’s apparent erosion of those very principles. By juxtaposing the King’s reverence for Magna Carta and the rule of law with Trump’s questionable executive overreach—indictments, media scrutiny, and a pivot away from NATO and Ukraine—the author exposes a deeper crisis of American governance. The analysis is rich in historical context, drawing on the Revolutionary War, the founding charter, and contemporary geopolitical shifts. It invites readers to question whether the United States can still claim to be a beacon of liberty when its leader acts like a self‑proclaimed tsar. The article urges critical reflection on the balance of power, the role of the judiciary, and the necessity of international alliances. Its blend of historical insight, legal reasoning, and geopolitical critique makes it a compelling{,} educative    150-200 word,   },",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 539,
+    "title": "More Bad Flight News/Little-known Search Hacks/City Bike Tours",
+    "title_zh": "更多糟糕的航班新闻/鲜为人知的搜索技巧/城市自行车之旅",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/more-bad-flight-news-little-known-search-hacks-city-bike-tours/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "This compact newsletter delivers a blend of timely travel cautions, practical health reminders, and productivity‑boosting search shortcuts, all wrapped in a personal tone. The opening segment warns of looming jet‑fuel shortages and rising fares, offering concrete booking tactics—reserve early, use credit cards for recourse, and secure travel insurance—highlighting a proactive mindset for budget travelers. The compression‑sock advisory tackles the often‑dismissed health risk of deep‑vein thrombosis on long flights, grounding the recommendation in evidence and providing a curated purchasing guide. The Google search hacks segment transforms an ordinary searcher into a power user, showcasing hidden commands that streamline everyday tasks, from speed tests to exact phrase matching. Finally, the bike‑tour reflection balances foot‑based exploration with efficient mobility, encouraging readers to adopt cycling for broader cultural immersion. Together, the pieces underscore the value of informed preparation, evidence‑based health practices, and tech savviness—all essential for savvy, cost‑conscious globetrotters navigating a complex aviation landscape. Personally, I’m struck by how these seemingly disparate tips converge on a single theme: empowering readers to anticipate challenges, mitigate risks, and seize opportunities with confidence.",
+    "summary_zh": "这期简讯以航空危机警报、健康预防、搜索技巧和城市自行车游四大块，为旅行者提供实用应对方案。第一段提醒燃油短缺与机票涨价，配合预订与保险建议，凸显主动预算管理；第二段以压缩袜防深静脉血栓为例，既有证据又有采购渠道；第三段揭示 Google 隐藏命令，提升日常效率；最后以自行车游为例，鼓励在城市中更高效探索。整体呈现“预见风险、主动应对、技术赋能”的思路，激励读者以更自信的姿态拥抱未知。",
+    "best_quote_en": "\"Don’t even think of heading to an airport without having good travel insurance in place that covers delays and cancellations.\"",
+    "best_quote_zh": "\"在前往机场前，别忘了购买涵盖延误和取消的优质旅行保险。\""
+  },
+  {
+    "id": 540,
+    "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+    "title_zh": "Essentials：用科学工具控制糖渴与新陈代谢",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-control-sugar-cravings-and-metabolism-with-science-based-tools",
+    "tags": [
+      "learn",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-04-30",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Andrew Huberman dissects the physiological circuitry that governs sugar appetite, mapping the gut-brain axis, dopaminergic reward pathways, and hormonal feedback loops. He distinguishes fructose from glucose and explains how each fuels distinct metabolic pathways, influencing hunger and satiety signals. The discussion shifts from theory to practice, offering a suite of science‑based interventions: timed fiber intake, micronutrient supplementation (glutamine, berberine), strategic use of cinnamon and lemon juice to blunt post‑prandial spikes, and sleep hygiene as a modulator of glucose sensitivity. Huberman contextualizes each tool with evidence from human and animal studies, providing concrete dosing, timing, and behavioral cues. The episode is a practical guide for anyone seeking to reduce compulsive sugar cravings, stabilize blood glucose, and enhance metabolic health through evidence‑driven habits. It blends neurobiology, endocrinology, and nutrition science into a clear, actionable roadmap, inviting listeners to experiment with measurable changes and observe tangible metabolic outcomes.",
+    "summary_zh": "在本期Huberman Lab Essentials中，Huberman博士通过阐释肠脑轴、奖励回路和激素反馈，剖析糖渴的生理机制，并区分果糖与葡萄糖的代谢差异。随后，他提供一系列基于证据的实操工具：纤维与时机、谷氨酰胺、肉桂、柠檬汁以及睡眠质量的调节，帮助控制血糖和抑制甜食欲望。每项工具都配备实验支持、剂量与时机建议，让听众能在日常生活中落地实施，获得可测量的代谢改善。",
+    "best_quote_en": "‘The brain’s dopamine response to sweet taste is the driver of craving, but the gut’s glucose sensors provide the counterbalance that can be tipped with simple, evidence‑based tools.’",
+    "best_quote_zh": "‘甜味对大脑多巴胺的刺激是渴求的驱动力，但肠道对葡萄糖的感知提供了反向调节，可通过简单、基于证据的工具来平衡。’"
   }
 ]
