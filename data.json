@@ -1,121 +1,5 @@
 [
   {
-    "id": 446,
-    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More (#859)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Q&A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Book Recommendations, Spotting Psychedelic Red Flags, Courage as a Learnable Skill, and More (#859)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/03/26/qa-with-tim-ai-tsunami-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-03-26",
-    "summary_en": "Tim Ferriss’ latest Q&A episode is an eclectic deep dive into the imminent AI wave, the value of offline and relational advantages, and the tangible skills—courage, curiosity, and learning—that can future-proof careers. He demystifies what it means for AI to ‘take over’ white‑collar jobs, urging listeners to focus on human habits that machines can’t replicate: relationships, tactile interaction, and deep, offline expertise. Ferriss stresses that courage is not a static trait but a learnable muscle, cultivated through deliberate discomfort and practice. He offers actionable tools—from leveraging niche AI assistants like OpenClaw to building a mentor network via Tryapt—to help people pivot, upskill, and maintain relevance in a hyper‑automated world. The episode blends thought leadership, practical case studies, and personal anecdotes, making it a guide for anyone navigating the convergence of technology, personal growth, and career strategy.",
-    "summary_zh": "本期Tim Ferriss Q&A聚焦即将到来的AI浪潮，强调离线优势与人际关系的不可替代性，并提出勇气是一种可学习的技能，需通过实践培养。通过案例与实际工具，他为受众提供了在AI主导时代保持竞争力的实用策略，兼具启发性与可操作性。",
-    "best_quote_en": "Courage is learned, not innate; it is built through practice, not theory.",
-    "best_quote_zh": "勇气是可学习的，而非天赋；它是通过实践而非理论构建的。"
-  },
-  {
-    "id": 447,
-    "title": "The Top of My Todo List",
-    "title_zh": "我的待办清单之首",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/todo.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式"
-    ],
-    "date": "2026-04-11",
-    "summary_en": "The article distills Bronnie Ware’s poignant list of the dying’s biggest regrets into a concise, practical guide for living a fuller life. By reframing each regret as a proactive command—“Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy”—the author turns passive caution into actionable daily intent. The insight that most regrets stem from omissions rather than commissions challenges the reader to examine default behaviors and design intentional habits. This piece is both a reflective exercise and a motivational prompt, urging readers to prioritize meaning over routine. It resonates across cultures, offering a universal roadmap to reduce regret by consciously choosing to live authentically. The simplicity of embedding the commands in a daily to‑do list transforms abstract wisdom into an enduring routine, making the advice both memorable and executable.",
-    "summary_zh": "作者把布朗妮·华尔关于临终者十大遗憾的深刻洞见，转化为五条日常行动指令：不忽视梦想、不熬夜工作、不压抑真情、培养友谊、保持快乐。强调遗憾往往源于默认的忽略，提醒人们主动设定生活默认值。将指令列入每日待办清单，使高尚理念落地实践，兼具反思与激励，适合任何渴望更加充实生活的读者。",
-    "best_quote_en": "Don’t be a cog.",
-    "best_quote_zh": "不要做齿轮。"
-  },
-  {
-    "id": 448,
-    "title": "Announcing ILIAD 2026",
-    "title_zh": "宣布 ILIAD 2026",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/tTP49RgCiHGSCpYA6/announcing-iliad-2026-1",
-    "tags": [
-      "update",
-      "design",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究"
-    ],
-    "date": "2026-04-11",
-    "summary_en": "The article announces the third iteration of ILIAD, a free, participant‑driven conference focused on the mathematical foundations of AI alignment. Scheduled for August 3‑7, 2026 in Berkeley, it will bring together a select group of researchers—such as Richard Ngo, Abram Demski, and Adam Goldstein—to propose and lead sessions on cutting‑edge topics like Singular Learning Theory, Agent Foundations, and Scalable Oversight. The unconference format promises an organic, collaborative atmosphere that could spark novel dialogues and interdisciplinary breakthroughs. By offering travel subsidies on a needs basis, ILIAD signals an inclusive ethos, aiming to lower barriers for emerging scholars. The piece invites early applications and underscores the conference’s role as a premier gathering for theoretical alignment work. This announcement not only informs but also inspires the community to engage, innovate, and shape the future of safe AI.",
-    "summary_zh": "这篇文章宣布了第3届 ILIAD AI 对齐研讨会，强调其免费、参与式的会议模式，邀请知名研究者讨论尖端理论，并提供必要的旅行资助，体现了对学术包容性的重视，激励学者共同推进安全 AI 的未来。",
-    "best_quote_en": "‘We believe that this is the best way to release the latent creative energies in everyone attending.’",
-    "best_quote_zh": "‘我们相信这是释放每位参与者潜在创造力的最佳方式。’"
-  },
-  {
-    "id": 449,
-    "title": "Happiest Countries/Monthly Flight Pass/Favorite US Airports",
-    "title_zh": "幸福之国/每月航班通行证/美国最爱机场",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/happiest-countries-monthly-flight-pass-favorite-us-airports/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-02",
-    "summary_en": "The article weaves together three seemingly disparate topics—global happiness rankings, practical travel logistics, and airport preferences—into a concise weekly digest that appeals to a broad, curious audience. The opening section highlights Finland’s continued reign as the world’s happiest nation, attributing the trend to high taxes and winter darkness while critiquing the role of social media, especially image‑heavy platforms like Instagram and TikTok. This juxtaposition invites readers to reflect on the paradox of contentment amid austerity and digital distraction, offering a subtle call to examine personal habits. The next two parts shift to tangible travel hacks: a quick guide to locating a rental car’s fuel filler, and a review of Wizz Air’s monthly subscription plan, which presents a cost‑effective model for frequent flyers. Finally, the piece showcases a list of U.S. airports that score high on traveler satisfaction, encouraging a strategic choice of smaller hubs to avoid congestion. The overall tone is pragmatic yet thought‑provoking, blending data‑driven insights with actionable travel tips. It serves as a micro‑case study of how lifestyle, technology, and infrastructure intersect to shape daily experiences, prompting readers to consider both the macro‑level happiness metrics and the micro‑level choices that influence their own well‑being.",
-    "summary_zh": "文章以芬兰持续领跑幸福指数为引子，探讨税收与冬季黑暗与社交媒体的奇妙关系，随后给出租车加油、Wizz Air 月费订阅与美国小型机场的实用攻略，既有宏观洞察，又兼具日常操作，提醒读者从大局与细节并重。",
-    "best_quote_en": "“Paying high taxes and spending half the year in cold darkness is a recipe for happiness.”",
-    "best_quote_zh": "“缴纳高税并且在寒冷黑暗中度过半年是幸福的秘诀。”"
-  },
-  {
-    "id": 450,
-    "title": "-",
-    "title_zh": "我对AI未来的思考",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/2279512",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-04-10",
-    "summary_en": "In this candid reflection, an early OpenAI executive shares personal experiences, moral convictions, and a sober assessment of AI’s societal impact. He frames AI as a democratizable, transformative force that must be paired with robust safety, inclusive governance, and economic transition policies. His narrative is both a defensive response to incendiary criticism and a proactive roadmap: resist monopolistic control, champion individual empowerment, and embed AI within democratic processes. He acknowledges past mistakes—conflict avoidance and board missteps—yet celebrates the company’s evolution from a scrappy startup to a responsible platform. The piece invites readers to consider how personal agency, corporate responsibility, and public policy intersect in the age of rapid technological change. It balances optimism about AI’s potential with realistic warnings about fear, power concentration, and the need for collective resilience. For practitioners, policymakers, and curious observers, the article is a call to action: shape a future where AI expands human capability while safeguarding shared values.\n\n",
-    "summary_zh": "这位前OpenAI高管在亲身经历与社会舆论中，深刻阐述了AI的巨大潜力与治理挑战。他强调AI必须去中心化、民主化，呼吁将技术置于公共治理之下，并坦诚承认过去的冲突与失败。文章兼具警醒与激励，提醒我们在技术飞速发展的时代，个人责任与制度建设同等重要。对于研究者、企业家及政策制定者而言，它是一份既具洞察力又富有行动号召的指南，提醒我们共同绘制安全、包容的AI未来。",
-    "best_quote_en": "‘Once you see AGI you can’t unsee it.’",
-    "best_quote_zh": "‘一旦看到AGI，你就无法再忘记它。’"
-  },
-  {
     "id": 451,
     "title": "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove",
     "title_zh": "激素如何塑造性取向与行为 | 马克·布雷德洛夫博士",
@@ -2328,5 +2212,123 @@
     "summary_zh": "Elad Gil在与Tim Ferriss的访谈中深入讨论了AI行业的融资、人才竞争与未来趋势。他阐述了AI研究人员像“个人IPO”般的高额股权、供应链瓶颈对模型规模的限制以及顶尖实验室在两年内可能出现的突破。Gil坚持“先看市场、再看团队”的投资原则，并指出大多数创业公司在12‑18个月内有价值最大化窗口。对产品建设，他强调深度整合、专有数据与变革管理的重要性，并分享了运用AI评估创始人的方法。访谈以科技周期的幂律规律和持续自我反思为结尾，给创业者、投资者及AI从业者提供可操作的洞见。",
     "best_quote_en": "\"The only time in history I can think of where I’ve seen it happen before is in crypto where a bunch of the really early crypto holders or founders suddenly as a class all went effectively public in ’20, I guess ’17-ish, and then again, more recently.\"",
     "best_quote_zh": "“我能想到的唯一一次类似的情况是加密货币，当时一群早期加密持有者或创始人突然作为一个整体在‘20年左右，可能是‘17年左右，随后又在最近几年实现了类似的公开。”"
+  },
+  {
+    "id": 546,
+    "title": "Wellness culture is trying to sell you products your vagina doesn’t need",
+    "title_zh": "Wellness文化试图卖给你你阴道不需要的产品",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global/2026/apr/29/vaginal-microbiome-probiotics-marketing",
+    "tags": [
+      "guide",
+      "medicine",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-04-29",
+    "summary_en": "The Guardian piece scrutinises the burgeoning “feminine probiotic” market, exposing a gap between consumer hype and scientific evidence. Drawing on experts from Harvard and Massachusetts General Hospital, it explains that the vaginal microbiome is a specialised, largely Lactobacillus‑dominated ecosystem whose health is tightly linked to pH and hormonal changes, not to the indiscriminate use of supplements. The article highlights the paucity of proven treatments for conditions such as bacterial vaginosis and urinary tract infections, the regulatory blind spots that allow unsubstantiated claims, and the clinical uncertainty that leads some doctors to prescribe probiotics without robust data. It underscores the need for rigorous research, patient education, and clearer FDA guidance, while noting nascent clinical trials that hint at future biotherapeutic options. Readers learn why most over‑the‑counter products are unlikely to shift the microbiome, how to recognise genuine research versus marketing, and what steps can be taken—such as seeking a vaginal culture before treatment—to protect vaginal health. The piece serves as a cautionary guide, blending medical insight with consumer advocacy, and calls for more investment in women’s health research.",
+    "summary_zh": "文章揭示女性益生菌市场的空洞与真相，阐明阴道微生态复杂、缺乏有效治疗，批评监管疏漏，提醒消费者需谨慎购买，呼吁更多科研与政策支持。",
+    "best_quote_en": "There’s not been a lot of progress for patients in this field.",
+    "best_quote_zh": "人们在这领域的进展不大。"
+  },
+  {
+    "id": 547,
+    "title": "The Top Idea in Your Mind",
+    "title_zh": "你脑中最重要的想法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/top.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-05-03",
+    "summary_en": "This essay blends personal narrative with psychological insight, arguing that the most salient thought in one’s mind—often the one that occupies subconscious “shower time”—directly shapes focus and progress. The author uses his own startup experience and historical anecdotes (Newton, Y Combinator) to illustrate how fundraising or disputes can hijack this mental space, turning productive time into an attention sink. The key takeaway is that entrepreneurs must indirectly steer their top idea by structuring their environment and schedules, avoiding situations that elevate money or conflict to the forefront. By recognizing and controlling the dominant mental theme, founders can preserve bandwidth for innovation and execution. The piece offers a practical, reflective framework that applies beyond startups to any high‑stakes problem‑solving context, encouraging readers to audit their own mental priorities and to design daily habits that favor long‑term objectives.",
+    "summary_zh": "作者通过自述与历史案例阐释：脑中最重要的想法决定专注度。融资与争执往往夺走注意力，导致创业进度停滞。通过控制环境与习惯，让“浴室思考”聚焦真正的目标，从而提升执行力。此思路适用于任何需要深度思考的领域。",
+    "best_quote_en": "‘You can only control the top idea in your mind indirectly, by controlling the situations you let yourself get into.’",
+    "best_quote_zh": "‘你只能通过控制自己进入的情境来间接控制脑中最重要的想法。’"
+  },
+  {
+    "id": 548,
+    "title": "Pursuing the target",
+    "title_zh": "Pursuing the target",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FwFwHkp4EtEj7Cop9/pursuing-the-target",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-03",
+    "summary_en": "This short allegory unpacks the multifaceted nature of goal‑setting and collective progress. Each character embodies a distinct strategic approach—whether it’s chasing the wrong target, possessing raw power but lacking direction, or hoarding individual expertise—highlighting common pitfalls in solo and group pursuits. The narrative culminates with the lesson that true advancement often lies in learning from failed attempts, assembling complementary teams, and carefully designing incentive structures to harness diverse contributions. The story offers a nuanced critique of conventional wisdom about focus, collaboration, and the perils of over‑ambitious technology, making it a valuable case study for entrepreneurs, managers, and anyone navigating complex objectives. It invites readers to reflect on how alignment, shared vision, and disciplined execution transform aspirations into results, underscoring the importance of iterative learning and adaptive teamwork in high‑stakes environments.",
+    "summary_zh": "这篇寓言揭示了目标追求的多维面貌。人物各具策略，分别体现了盲目追求、实力过剩却缺乏方向、团队协作与激励设计等常见陷阱与机遇。作者通过对失败与成功的反思，强调了对齐、共同愿景与执行纪律在实现高目标中的关键作用。它既是创业者的案例，也是管理者的思考，提示人们在复杂环境中要善于学习、迭代与协同。",
+    "best_quote_en": "The journey is not about how far you go alone, but how far you go together with the right map and the right people.",
+    "best_quote_zh": "真正的进步不是你走得多远，而是你与合适的人和合适的地图一起能走多远。"
+  },
+  {
+    "id": 549,
+    "title": "How the Supreme Court Demolished the Voting Rights Act",
+    "title_zh": "最高法院拆解投票权法案",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-the-supreme-court-demolished-the-voting-rights-act",
+    "tags": [
+      "guide",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2026-05-02",
+    "summary_en": "The article dissects the Supreme Court’s landmark decision in Louisiana v. Callais, which substantially narrows the scope of Section 2 of the Voting Rights Act (VRA). By re‑reading the VRA through the prism of the Fifteenth Amendment’s intent‑based restrictions, the Court effectively re‑establishes the pre‑1982 standard that only intentional discrimination violates the law. This shift dismantles the modern mechanism that requires states to create majority‑minority districts, thereby opening a floodgate for partisan gerrymandering that erodes Black voting power. The piece blends historical context, statutory analysis, and the political stakes of the ruling, highlighting the tension between judicial interpretation and congressional intent. It underscores the practical implications for future litigation, the strategic guidance the Court offers to Republican‑led legislatures, and the profound threat to democratic representation. The author’s critical lens invites readers to contemplate the fragility of civil‑rights protections when judicial philosophy overtakes legislative intent, and to consider the broader erosion of minority electoral influence in a polarized polity.",
+    "summary_zh": "最高院在《路易斯安那州诉卡莱斯》案中把投票权法案的第二条重新解读为只针对有意歧视，彻底削弱了现代的多数少数族裔区划权。此举使得种族平等的投票机会受限，党派划区自由度大增，黑人选民投票权被压制。作者以历史、法律和政治三维度剖析，提醒人们司法解读若超越立法意图，民权保障将随之摇摇欲坠。",
+    "best_quote_en": "\"The Court’s job is to interpret the law—not to rewrite a statute that Justices do not like.\"",
+    "best_quote_zh": "\"最高法院的职责是解释法律，而不是改写法官不喜欢的法案。\""
+  },
+  {
+    "id": 550,
+    "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
+    "title_zh": "Essentials: 理解与提升记忆的科学工具",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-understand-and-mprove-memory-using-science-based-tools",
+    "tags": [
+      "learn",
+      "science",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-04-16",
+    "summary_en": "Brandon Huberman’s episode dissects the neurobiology of memory, revealing how adrenaline, sensory cues, and timing can be harnessed to boost encoding and recall. He blends foundational science—neurochemical pathways, sleep architecture, and exercise‑induced neurogenesis—with practical, evidence‑based protocols: spaced repetition, targeted napping, caffeine timing, and even brief meditation. The discussion extends to the cognitive benefits of cardiovascular activity and the intriguing phenomenon of déjà vu, illustrating how context and emotional arousal shape memory consolidation. This content is valuable for learners seeking actionable tactics to reduce rehearsal load, for educators designing study schedules, and for anyone intrigued by the intersection of neuroscience and daily habits. It underscores that memory is not a fixed capacity but a malleable system responsive to lifestyle choices, offering a roadmap for rapid skill acquisition and long‑term retention.",
+    "summary_zh": "本集节目深入探讨记忆形成的神经机制，并提供科学验证的实用策略——通过肾上腺素、感官刺激、睡眠与运动等手段提升记忆效率。它将理论与可操作的技巧结合，帮助学习者在减少重复次数的同时提高学习效果，体现记忆是可塑且受生活方式影响的系统。",
+    "best_quote_en": "“Your brain’s memory system isn’t a fixed vault; it’s a dynamic landscape that you can shape with the right cues, timing, and stress signals.”",
+    "best_quote_zh": "“记忆系统不是固定的保险库，而是可以通过正确的提示、时间安排和压力信号来塑造的动态景观。”"
   }
 ]
