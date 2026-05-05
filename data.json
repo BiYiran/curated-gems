@@ -1,123 +1,5 @@
 [
   {
-    "id": 456,
-    "title": "What’s in my NOW? — Elisa Michelet",
-    "title_zh": "我的现在里有什么？ — Elisa Michelet",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-elisa-michelet/",
-    "tags": [
-      "analyze",
-      "design",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2026-04-01",
-    "summary_en": "Elisa Michelet’s “What’s in my NOW?” is a curator’s diary that blends personal practice with a practical toolkit. By exposing the physical objects that shape her creative workflow—ranging from a weighty A5 notebook to a vintage Olympus AF-1 camera—she invites readers to examine the tactile and psychological rituals that enable productivity. The piece also bridges the physical to the digital, spotlighting niche online resources like Only 8’s street‑name database and the Never Too Small YouTube channel for micro‑architecture. The article’s tone is reflective yet instructional, offering a roadmap for artists, designers, and curious creatives who wish to align tools with intention. It underscores how mindful selection of everyday objects can foster focused practice, creativity, and sustainability, while the recurring motif of “coming back” hints at a cyclical creative process. The piece is a subtle manifesto that the right tools are not just functional—they are inspirational anchors that guide practice, learning, and personal growth.",
-    "summary_zh": "Elisa Michelet 通过日记式的工具清单，展示了创作与生活的交汇点。她将手帐、老相机、无品牌袋子与 Only 8、Never Too Small 等数字资源结合，鼓励读者用有意识的选择来激发创意与可持续生活。她的叙事提醒我们：工具不仅是工具，更是心灵的锚点，赋予创作以节奏与归属。",
-    "best_quote_en": "\"Coming back — so many pathways through the spring grass.\"",
-    "best_quote_zh": "“回归——春草中的无数路径。”"
-  },
-  {
-    "id": 457,
-    "title": "Online abuse is a daily reality for women in public life | Letters",
-    "title_zh": "女性公共生活中的日常网络辱骂 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/apr/12/online-abuse-is-a-daily-reality-for-women-in-public-life",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-04-12",
-    "summary_en": "The article exposes how online abuse against women in public life—especially politicians—follows a predictable seven‑element pattern: defamation, emotional harm, harassment, threat, belittlement, silencing, and appearance‑based criticism. Drawing from Dr. Susan Watson’s decade‑long research, the piece illustrates how these tactics not only attack competence but also brand women as traitors, eroding public trust. The author’s own experience with Stella Creasy, who endured violent threats and appearance attacks after a simple selfie, exemplifies the cruelty of such rhetoric. The broader implication is stark: the relentless barrage forces many aspiring women to withdraw from public roles, depriving society of diverse leadership. Watson’s work urges policymakers and civil society to recognize online misogyny as a public‑safety issue demanding robust legal and cultural interventions. Beyond a personal testament, the article serves as a call to action, demanding institutional safeguards, media accountability, and a cultural shift that rejects gendered harassment as a weapon of political silence.",
-    "summary_zh": "文章揭示针对公共领域女性的网络辱骂遵循七要素模式，攻击不仅是美貌与能力，还把女性描绘为叛徒，削弱公众信任。通过斯特拉·克里西的亲身经历，作者展示了这种辱骂如何迫使年轻女性退出公共舞台，导致社会多元领导力缺失。此文呼吁制度化防护与文化转变，视网络仇恨为公共安全危机。",
-    "best_quote_en": "\"Attacks on her appearance and competence sit alongside multiple violent threats.\"",
-    "best_quote_zh": "\"对她的外貌和能力的攻击伴随着多起暴力威胁。\""
-  },
-  {
-    "id": 458,
-    "title": "How Y Combinator Started",
-    "title_zh": "How Y Combinator Started",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ycstart.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "新手友好"
-    ],
-    "date": "2026-04-13",
-    "summary_en": "Y Combinator’s origin story, as told by co‑founder Paul Graham, is a masterclass in entrepreneurial pragmatism and systemic disruption. The narrative reveals how a simple idea—small, standardized seed investments delivered synchronously—evolved from a casual conversation in Harvard Square into a global venture model that reshaped early‑stage funding. Graham highlights three key innovations: 1) treating angel investing as a disciplined, repeatable process; 2) launching a summer cohort that leveraged low opportunity cost for students; and 3) synchronizing funding cycles to create momentum and attract attention. The account underscores the importance of timing, location, and cultural fit—illustrated by the shift to Silicon Valley—and shows how a modest $200k seed capital, coupled with clear terms and a bold vision, can generate outsized influence. For readers, the story offers actionable insights into scaling a venture fund, building a brand, and creating a sustainable ecosystem that nurtures founders while maintaining rigorous standards. It invites reflection on how seemingly incremental changes—such as standardizing deal terms—can catalyze industry‑wide transformation.",
-    "summary_zh": "格雷厄姆的叙述揭示了YC如何从一次哈佛广场的偶遇，演变成改变创业融资生态的范式。核心在于：①标准化小额同步投资；②利用暑期低成本培养团队；③同步融资周期塑造品牌。故事传递可操作的创业、融资与品牌建设经验，提醒人们：细节创新往往能引发行业大变革。",
-    "best_quote_en": "\"We decided very early that the first thing we'd do would be to fund a bunch of startups over the coming summer.\"",
-    "best_quote_zh": "\"我们很快决定，第一件事就是在接下来的一年夏天资助一批初创企业。\""
-  },
-  {
-    "id": 459,
-    "title": "How Jomboy Is Changing the Way Baseball Is Watched",
-    "title_zh": "Jomboy如何改变棒球观看方式",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/how-jomboy-is-changing-the-way-baseball-is-watched",
-    "tags": [
-      "analyze",
-      "science",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-04-12",
-    "summary_en": "Jomboy Media, founded by Jimmy O’Brien, showcases a compelling case study of how niche, narrative‑driven content can revitalize a traditional sport’s fanbase. From viral “breakdown” videos of hot‑mike moments to a strategic partnership with MLB, the company leverages authenticity, humor, and data‑driven storytelling to attract younger audiences. The article examines the company’s rapid scaling, its cautious editorial policy that balances provocation with respect, and the broader industry shift toward influencer‑led media. It offers actionable insights for media entrepreneurs, sports marketers, and content creators on monetization, audience growth, and brand alignment. The piece highlights MLB’s investment in Jomboy as a strategic move to modernize its image, underscoring the symbiotic relationship between sports leagues and digital platforms. This narrative invites readers to rethink how storytelling, community engagement, and cross‑platform synergies can drive cultural relevance and revenue in a saturated entertainment landscape.",
-    "summary_zh": "Jomboy Media通过细腻叙事与数据驱动的内容，重新点燃了年轻人对棒球的兴趣；其与MLB的合作、精准定位与道德准则，为体育媒体与创业者提供了可复制的商业模式，值得深思。",
-    "best_quote_en": "\"It’s very easy to get hate views and to get rage views, but no one buys hate merch. No one goes to a show if they hate you.\"",
-    "best_quote_zh": "“人们很容易产生仇恨或愤怒的观点，但没人会买仇恨周边。没人会因为恨你而去观看。”"
-  },
-  {
-    "id": 460,
-    "title": "Tacopedia / Rude Cakes",
-    "title_zh": "Tacopedia / Rude Cakes",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/tacopedia-rude-cakes/",
-    "tags": [
-      "guide",
-      "education",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2026-03-31",
-    "summary_en": "Tacopedia, a richly illustrated culinary chronicle, traces the taco’s evolution from ancient nixtamal to contemporary street‑food icon, weaving regional lore, recipe science, and restaurant lore into a recipe‑ready guide. The book’s blend of historical narrative and actionable recipes empowers readers to recreate authentic tacos, while its playful infographics and proverbs invite a deeper cultural appreciation. Rude Cakes, a succinct picture book, turns an irritable two‑layer cake into a mirror for social etiquette, using visual puns and a cyclops mentor to teach young readers empathy and self‑reflection. Its minimal text, evocative illustration, and no‑preaching tone make it a perfect read‑aloud tool that simultaneously entertains and educates. Together, these works showcase how food and storytelling can serve both as cultural documentation and as practical, engaging learning experiences, encouraging readers to savor history, taste authenticity, and cultivate empathy.\n\nThese books exemplify the power of narrative design: Tacopedia turns gastronomy into a scholarly yet accessible adventure, while Rude Cakes demonstrates how humor and visual storytelling can transform everyday objects into teachable moments. Their authors blend research, illustration, and experience into formats that feel both scholarly and playful, proving that even the most mundane subjects—corn dough or a sour cake—can spark curiosity and impart lasting lessons.\n\nThe implications are clear: educators and food writers alike can adopt similar hybrid approaches—combining rigorous history with recipe pragmatism, or pairing lighthearted fiction with practical social skills—to deepen engagement and broaden learning across age groups.\n\n",
-    "summary_zh": "Tacopedia 以丰富插图记录玉米面饼的古老起源与现代街头美食的演变，兼具历史叙事与可操作食谱；Rude Cakes 则以讽刺的两层蛋糕为载体，传授社交礼仪，配合幽默插图与简洁文字，让读者在笑声中反思自我。两作均展示了叙事与视觉如何将日常元素升华为教育工具，体现厨艺与故事叙述的跨界潜能，激发读者对文化与自我成长的持续好奇。\n\n",
-    "best_quote_en": "‘The book offers a sumptuous history of the taco, beginning circa 1000‑500 BC when a legendary hero first created “nixtamal”…’",
-    "best_quote_zh": "‘书中提供了从公元前1000‑500年开始的玉米面饼的丰盛历史…’"
-  },
-  {
     "id": 461,
     "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
     "title_zh": "如何提升女性生育力与激素健康 | 纳塔莉·克劳福德博士",
@@ -2332,5 +2214,123 @@
     "summary_zh": "文章将古籍数字化、手机图像搜索、电视音箱、开源图书馆、公司假日剧和 USB 转换等碎片拼接，呈现技术如何无缝融入日常，解锁知识与体验新维度。",
     "best_quote_en": "Enable Google’s Circle to Search on your phone. You can then use your finger to circle any image, part of an image, product in an image, word, phrase, text – anything on the screen and it will search what you circle.",
     "best_quote_zh": "我没能触摸任何书{}但我闻到了一本有数百年历史的书香，那是多么壮观！"
+  },
+  {
+    "id": 556,
+    "title": "Menopause is tough. But it’s fantastic being a woman in her 60s",
+    "title_zh": "绝经期很艰难，但60多岁是女性的精彩时光",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/may/05/menopause-is-tough-but-fantastic-being-a-woman-in-her-60s",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "The Guardian piece by Kathy Lette turns the often bleak narrative of menopause into a celebration of autonomy, sexuality, and self‑rediscovery. Through candid anecdotes—her own romance in her late sixties, the scientific backing that post‑menopausal women can enjoy stronger orgasms, and expert commentary on the psychological liberation of this life stage—it redefines menopause from a loss to a renaissance. The article blends humor with research, offering a roadmap for women to embrace freedom from domestic expectations, financial independence, and renewed purpose. It invites readers to view aging as a second act of adventure rather than decline, urging them to seize opportunities, cultivate relationships, and prioritize their own desires. Lette’s blend of personal narrative and evidence‑based insights makes this piece both motivational and practical, a call to live fully in the post‑menopausal years.",
+    "summary_zh": "凯西·莱特用幽默与科学阐释绝经期不再是失落，而是重获自由与自我发现的机遇。她的亲身经历、专家见解与数据相结合，鼓励女性把绝经视为人生第二幕的冒险，重拾性欲、独立与自我价值。此文既励志又实用，提醒读者把握人生后期的无限可能。",
+    "best_quote_en": "'Women don’t give up sex when we get old – we get old when we give up sex.'",
+    "best_quote_zh": "‘女人不因年龄而放弃性，而是因为放弃性而变老。’"
+  },
+  {
+    "id": 557,
+    "title": "Organic Startup Ideas",
+    "title_zh": "有机创业想法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/organic.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "The article argues that the most successful startups spring from founders’ lived experiences—what they wish existed in their own lives—rather than from speculative market analysis. By contrasting Apple’s self‑made, passion‑driven product with Viaweb’s market‑driven solution, the author shows that organic ideas are inherently more aligned with genuine user pain points. The piece offers a pragmatic framework: identify what feels broken, test it as a toy, and let curiosity lead to a scalable business. It also cautions against the “made‑up” mentality that often plagues young founders who assume they can predict others’ needs. The tone is both instructional and motivational, urging entrepreneurs to lean into their own frustrations and the latest technology to uncover untapped opportunities. The article’s implications resonate beyond tech startups, suggesting that any venture benefits from rooting its value proposition in real, observable gaps rather than abstract forecasts.",
+    "summary_zh": "文章强调创业要先解决自己生活中存在的痛点，而非凭空猜测市场需求。以苹果与Viaweb为例，作者指出真正的“有机想法”更能贴合用户真实需求，提供了一套发现并验证痛点的思路。它既是指导也是激励，提醒年轻创始人先做自己想用的产品，再考虑是否能成公司。",
+    "best_quote_en": "\"The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?\"",
+    "best_quote_zh": "“寻找创业点子最好的方法是问自己：你希望有人为你做什么？”"
+  },
+  {
+    "id": 558,
+    "title": "Training Model to Predict Its Own Generalization: A Preliminary Study",
+    "title_zh": "训练模型预测其自身泛化：初步研究",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/BLHBhpJcusmsNjGio/training-model-to-predict-its-own-generalization-a",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "This paper probes an ambitious meta‑learning framework that teaches large language models (LLMs) to forecast how they will generalize after fine‑tuning on any given dataset. By treating a collection of supervised training sets as meta‑training data and pairing them with out‑of‑distribution query domains, the authors train a meta‑SFT model to predict the output distribution a fine‑tuned model would produce. The core novelty lies in the idea that an LLM can introspect its own learning dynamics, turning abstract prompts into actionable predictions about emergent misalignment, trivia preferences, and other subtle generalization phenomena. Empirical results on 100 advice‑seeking domains (career, finance, etc.) show that the meta‑SFT model outperforms naive in‑context learning and, on a 4B‑parameter Qwen, achieves near‑ground‑truth performance in predicting emergent misalignment scores. However, the approach struggles with truly unpredictable generalization cases and with smaller model sizes, suggesting that the signal may be fragile or that larger capacity is required. The paper also sketches extensions—unstructured prediction, efficient domain‑pair sampling, and broader applicability to any natural‑language description of training data. For researchers and practitioners, the work offers a compelling proof‑of‑concept for automated generalization diagnostics, while highlighting the need for richer benchmarks and larger models to fully capture the complex landscape of LLM behavior.",
+    "summary_zh": "本文提出元学习框架，训练LLM预测在任意数据集上微调后的泛化表现，尤其是随时间出现的意外偏差。作者通过将训练集对组成元训练数据，配合 OOD 查询域，训练 Meta‑SFT 模型。实验显示在 100 个职业/财务等领域中，Meta‑SFT 在预测 emergent misalignment 上优于普通 ICL，且 4B Qwen 接近真实结果。该方法对真正不可预测的泛化仍表现欠佳，且对小模型的鲁棒性有限。作者进一步讨论了向无结构预测的扩展、采样效率提升等方向。此工作为自动化泛化诊断提供思路，但也揭示了模型规模与数据多样性对成功的关键性。",
+    "best_quote_en": "\"Meta‑SFT gives the model a propensity to predict its own fine‑tuning outcomes, turning introspection into a predictive tool rather than a passive observation.\"",
+    "best_quote_zh": "\"Meta‑SFT 让模型拥有预测自身微调结果的倾向，把内省转化为一种预测工具，而非被动观察。\""
+  },
+  {
+    "id": 559,
+    "title": "The Life and Times of an American Tween",
+    "title_zh": "美国青少年的一生与时代",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/05/11/the-life-and-times-of-an-american-tween",
+    "tags": [
+      "solve",
+      "education",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-05-04",
+    "summary_en": "The New Yorker profile paints a richly detailed, almost cinematic portrait of a twelve‑year‑old San Francisco girl navigating the intersecting worlds of school, family, technology, and pop culture.  Beyond the surface, it exposes the fraught terrain of modern adolescence: the relentless pressure to curate identity through fashion and social media, the tension between parental oversight and budding autonomy, and the giggling yet earnest attempts to carve a future in a hyper‑connected economy.  The narrative invites readers to consider how the socio‑economic structures—high‑tech jobs, gig‑economy, and the commodification of youth—shape the developmental trajectory of tweens.  By weaving anecdote with sociological insight, the piece offers both a micro‑case study of one child’s experience and a broader commentary on the cultural logic that defines contemporary childhood.",
+    "summary_zh": "文章通过对米拉成长经历的细腻描绘，呈现当代青少年在科技、消费与家庭价值冲突中的身份探索与成长痛点。它不仅是一次个人故事的记录，更是对现代社会童年被商品化、数字化背后社会结构的深刻反思。",
+    "best_quote_en": "\"The literature on adolescence marks middle school as a turning point, a time when kids begin to pull away from their parents, discard childish pursuits, and pursue, full thrust, the exhausting project of individuation.\"",
+    "best_quote_zh": "“中学阶段是个转折点，孩子们开始与父母疏远，抛弃幼稚的追求，全力投入自我身份的艰难塑造。”"
+  },
+  {
+    "id": 560,
+    "title": "Frequent Fliers",
+    "title_zh": "频繁飞行者",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/frequent-fliers/",
+    "tags": [
+      "guide",
+      "ai-research",
+      "tech-trends",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "技术趋势",
+      "新手友好"
+    ],
+    "date": "2026-05-04",
+    "summary_en": "The article stitches together a practical playbook for the modern nomad, blending low‑cost airline hacks, grassroots travel forums, loyalty‑program mastery, and digital itinerary management. It begins with a candid tour of Europe’s budget carriers—highlighting the price‑versus‑tax trade‑off and airport logistics—setting a clear, actionable framework for cost‑conscious travelers. The discussion then pivots to Thorn Tree, positioning community‑driven knowledge as a superior alternative to glossy guidebooks for off‑beat destinations. It follows with Boarding Area’s deep dive into credit‑card sign‑ups and the volatile nature of mileage programs, underscoring the importance of goal‑oriented, diversified point accumulation. Finally, TripIt is showcased as a low‑friction solution to the perennial “paper trail” problem, illustrating how automation can transform chaotic itineraries into streamlined, mobile‑friendly schedules. Together, these segments form a cohesive ecosystem: the user learns how to find cheap flights, validates destinations in real time, leverages loyalty points, and keeps everything organized—an end‑to‑end strategy that turns travel into an efficient, cost‑effective, and data‑driven pursuit.",
+    "summary_zh": "文章把低价机票、旅行论坛、里程黑客和行程管理工具串成一套完整攻略，既教你如何省钱，又给出实时验证目的地的社区渠道，教你如何最大化里程，最后用TripIt把行程自动化，让旅行更高效。",
+    "best_quote_en": "“Programs that let you earn with a redemption goal in mind and then change the earning rules after you’ve invested time and money in their program are like Lucy, Charlie Brown and the football—keeping the goal forever just out of reach.”",
+    "best_quote_zh": "“一旦投入时间和金钱，程序却在不知情的情况下更改赚取规则，使目标永远无法达成。”"
   }
 ]
