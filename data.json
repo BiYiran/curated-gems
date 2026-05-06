@@ -1,123 +1,5 @@
 [
   {
-    "id": 461,
-    "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
-    "title_zh": "如何提升女性生育力与激素健康 | 纳塔莉·克劳福德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-women-can-improve-their-fertility-and-hormone-health-natalie-crawford",
-    "tags": [
-      "learn",
-      "medicine",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2026-04-13",
-    "summary_en": "Dr. Natalie Crawford’s conversation offers a comprehensive, evidence‑based roadmap for women seeking to optimize fertility and hormonal well‑being at any stage of life. By framing fertility markers such as AMH not merely as pregnancy gauges but as windows into overall vitality, the discussion elevates reproductive health to a broader paradigm of longevity and disease prevention. The dialogue weaves together clinical insights—hormone replacement therapy, egg freezing, IVF—with practical lifestyle prescriptions: anti‑inflammatory diets, targeted supplements (curcumin, CoQ10, NAD/NR), and environmental toxin mitigation (microplastics, fragrances). Dr. Crawford also demystifies the psychosocial aspects of fertility, addressing the emotional toll of infertility, the impact of prior pregnancies, and the nuances of paternal age. The episode’s blend of rigorous science, actionable toolkits, and empathetic patient education equips listeners with both the knowledge and the agency to make informed choices, thereby transforming fertility from a clinical hurdle into a proactive health strategy. This episode exemplifies how deep, interdisciplinary understanding can empower individuals to take charge of their reproductive future while simultaneously improving overall health.",
-    "summary_zh": "纳塔莉博士以循证视角，揭示生育指标与整体健康的关联，提供激素疗法、卵子冷冻、IVF等医疗方案与抗炎饮食、补充剂、环境毒素管理等生活方式的综合干预，帮助女性实现从生育到长寿的全方位健康转化。",
-    "best_quote_en": "“Fertility is not just a path to pregnancy; it’s a window into your overall health, vitality, and longevity.”",
-    "best_quote_zh": "“生育力不仅是怀孕的路径，更是洞察整体健康、活力与长寿的窗口。”"
-  },
-  {
-    "id": 462,
-    "title": "Tuesday briefing: What is driving the record rise in stalking offences?",
-    "title_zh": "周二简报：记录性跟踪案件激增背后的驱动因素",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/apr/07/tuesday-briefing-what-is-driving-the-rise-in-stalking-offences-in-england-and-wales",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-07",
-    "summary_en": "The Guardian’s briefing dissects a sharp, decade‑long rise in recorded stalking offences across England and Wales, attributing the surge to heightened public and policing awareness, the proliferation of digital surveillance tools, and the growing prevalence of coercive control. The article balances rigorous data—over 135,000 police‑recorded incidents last year against fewer than 3,000 a decade earlier—with qualitative insights from experts and victims, highlighting that the majority of perpetrators are ex‑partners and that women are disproportionately affected. It critically evaluates the criminal justice response, noting improved charging rates but persistent gaps in victim support, communication, and early intervention. The piece underscores an urgent need for technology‑centric safeguards and policy reforms, such as emergency stalking protection notices, to keep pace with evolving threat tactics. By weaving statistics, expert commentary, and human stories, the briefing not only informs readers about the scope of the problem but also calls for actionable systemic change, making it a key resource for policymakers, advocacy groups, and anyone concerned with gender‑based violence and digital safety.",
-    "summary_zh": "这份简报聚焦英国和威尔士十年来跟踪案件激增的背后原因，结合官方数据与专家访谈，揭示技术手段与社会认知提升共同推动了案件上升。文章指出，受害者多为女性，且大多数加害者为前伴侣，且案件往往伴随强制控制与暴力升级。虽然司法系统在起诉率和意识形态上有所进步，但在案件处理、受害者沟通与预防措施上仍存短板，呼吁更快速的干预和技术防护。对政策制定者、倡导组织及关心数字安全的人士而言，此文既是信息来源，也是一份行动指南。",
-    "best_quote_en": "\"The number of stalking offences recorded by police has surged over the past decade, with sharp rises in every region… It is overwhelmingly women and girls who are affected, and men who are the perpetrators.\"",
-    "best_quote_zh": "“受害者多为女性，而加害者多为男性。”"
-  },
-  {
-    "id": 463,
-    "title": "Defining Property",
-    "title_zh": "定义财产",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/property.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2026-04-14",
-    "summary_en": "The essay uses a fantastical tale of a Japanese judge to illuminate the fluidity of property as a social construct, especially in the digital age. By likening music and movies to “smells” that once could be bought on a moon base, the author exposes the absurdity of treating intangible digital content as a fixed, monetizable commodity. The piece argues that property definitions evolve with technology, and that the current legal battles over copyright are driven more by short‑term greed than by equitable innovation. It urges readers to adopt a pragmatic, governance‑friendly view: charge for content only when it serves society without distorting the market. The essay is rich in philosophical nuance, historical context, and a call for democratic checks on powerful industry actors. It challenges us to rethink “ownership” in a world where data moves like air and property norms lag behind technological progress.",
-    "summary_zh": "作者借用日本名判官的故事，戏谑将音乐电影比作可售的“气味”，揭示数字时代物权定义的流动性与法律争端的短期贪婪。文章论证当技术进步推动物权演变时，只有在不扭曲社会与市场的前提下，才应为内容收费。它批判版权行业的“法律武器化”，强调民主与多元国家制度在维护公平物权定义中的作用。整篇文字哲理深刻，兼具历史与现实的批判视角，鼓励读者重新审视数字内容所有权与价值传递。",
-    "best_quote_en": "\"The record labels and movie studios used to distribute what they made like air shipped through tubes on a moon base. But with the arrival of networks, it's as if we've moved to a planet with a breathable atmosphere.\"",
-    "best_quote_zh": "“录音和电影公司以前像在月球基地通过管道运输空气一样分发他们的作品。但随着网络的出现，我们就像迁移到一个可呼吸的大气层。”"
-  },
-  {
-    "id": 464,
-    "title": "A Retrospective of Richard Ngo's 2022 List of Conceptual Alignment Projects",
-    "title_zh": "Richard Ngo 2022 概念对齐项目回顾",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/M3qB2BGgMNuG5oRTB/a-retrospective-of-richard-ngo-s-2022-list-of-conceptual",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-14",
-    "summary_en": "This reflective piece revisits Richard Ngo’s 2022 catalogue of 26 conceptual alignment research projects, assessing progress over the intervening years. The author systematically maps each proposal to existing literature, noting which ideas have already been explored—such as deceptive alignment, sleeper agents, and implicit planning frameworks—and which remain ripe for investigation. The analysis highlights a bifurcation between empirical and conceptual work: most experimental studies have been largely addressed, while theoretical gaps around gradient‑hacking, instrumental convergence formalization, and situational awareness trajectory persist. The author also considers the broader trajectory of alignment research, noting how safety strategies (the kitchen‑sink approach) and human‑feedback modalities have evolved. Importantly, the article underscores the value of historical tracking in a rapidly shifting field, suggesting that revisiting foundational lists can illuminate both achieved milestones and enduring open problems. It invites practitioners to focus on high‑impact conceptual projects that bridge machine‑learning formalism with alignment theory, and to critically evaluate how new empirical findings reshape prior assumptions.",
-    "summary_zh": "本文回顾了2022年Richard Ngo提出的26个概念对齐项目，评估了四年间的进展。作者逐个对照已有文献，指出哪些已被实现（如欺骗式对齐、潜伏代理、隐式规划等），哪些仍具研究价值。经验性工作大多已完成，理论空白仍在梯度攻击、工具性收敛与情境意识等方面。文章强调在快速变化的对齐领域，追踪历史列表有助于识别里程碑与未解难题，并鼓励聚焦高影响力的概念项目，以机器学习与对齐理论相结合。",
-    "best_quote_en": "\"Most of the empirical projects have been done, while the conceptual ones are still mostly open or unresolved.\"",
-    "best_quote_zh": "“大多数经验性项目已完成，而概念性项目仍大多未解决。”"
-  },
-  {
-    "id": 465,
-    "title": "HYBE moves to crack down on bootleg BTS merch ahead of US tour dates",
-    "title_zh": "HYBE 針對BTS巡迴演唱會前的仿冒商品採取法律行動",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/bts-world-tour-arirang-hybe-moves-to-crack-down-on-bootleg-merch-ahead-of-us-dates/",
-    "tags": [
-      "update",
-      "legal",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "法律法规",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2026-04-13",
-    "summary_en": "HYBE’s recent lawsuit against unnamed bootleggers ahead of BTS’s U.S. tour illustrates a broader shift in the music industry toward aggressive anti‑counterfeiting enforcement. By targeting both physical street sellers and online platforms, the company seeks to preserve brand integrity, protect revenue streams, and signal to artists that merchandise can be monetized as a strategic asset. The legal approach—temporary restraining and seizure orders—offers a rapid, enforceable tool that can be applied across venues and jurisdictions, setting a precedent for other acts such as Springsteen and Dua Lipa. For consumers, the move underscores the economic and reputational risks of counterfeit goods, while for artists it highlights the importance of controlling quality and distribution to maintain fan trust. The case also reflects the growing financial clout of merch, with UMG’s $912 million 2025 revenue projecting a billion‑dollar target for 2026. As global e‑commerce platforms lower entry barriers for knock‑offs, the industry’s legal and operational strategies will shape the future of ancillary income and intellectual‑property protection in live music.",
-    "summary_zh": "HYBE 針對BTS 演唱會前的仿冒商品訴訟，凸顯音樂產業加強打擊假貨、保護品牌與收入的趨勢。此舉不僅保障藝人形象，也提醒消費者假貨對質量與信任的危害。隨著線上平台降低進入門檻，未來演唱會周邊的合法營運將越發重要。",
-    "best_quote_en": "‘The Bootleg Merchandise is generally of inferior quality. The sale of such merchandise is likely to injure the reputation of BTS and Plaintiffs…’",
-    "best_quote_zh": "‘Bootleg Merchandise generally of inferior quality; its sale likely injures BTS’s reputation.’"
-  },
-  {
     "id": 466,
     "title": "My month in the tradwife world: ‘I can’t pretend I’m not enjoying myself at all ...’",
     "title_zh": "我的一個月在傳統妻子世界：『我根本不敢假裝我完全不享受……』",
@@ -2332,5 +2214,121 @@
     "summary_zh": "文章把低价机票、旅行论坛、里程黑客和行程管理工具串成一套完整攻略，既教你如何省钱，又给出实时验证目的地的社区渠道，教你如何最大化里程，最后用TripIt把行程自动化，让旅行更高效。",
     "best_quote_en": "“Programs that let you earn with a redemption goal in mind and then change the earning rules after you’ve invested time and money in their program are like Lucy, Charlie Brown and the football—keeping the goal forever just out of reach.”",
     "best_quote_zh": "“一旦投入时间和金钱，程序却在不知情的情况下更改赚取规则，使目标永远无法达成。”"
+  },
+  {
+    "id": 561,
+    "title": "Sali Hughes on beauty: the best tinted sunscreens deliver SPF, moisture and a spring glow all in one",
+    "title_zh": "Sali Hughes谈美妆：最佳遮瑕防晒霜一次性提供SPF、保湿与春日光泽",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/may/06/sali-hughes-on-beauty-the-best-tinted-sunscreens-deliver-spf-moisture-and-a-spring-glow-all-in-one",
+    "tags": [
+      "guide",
+      "design",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "Sali Hughes’ article is a pragmatic beauty guide that demystifies the modern trend of tinted sunscreens. By dissecting product ingredients, shade ranges, and application techniques, she turns a potentially confusing category into a clear, actionable framework. The piece balances expert insight with everyday relevance: it compares budget-friendly options like Garnier Ambre Solaire with premium Korean and mineral formulations, highlighting key variables such as glycerin content, shade inclusivity, and finish translucency. Hughes’ emphasis on layered application—pumping a second or third layer to achieve optimal SPF without caking—provides readers with a repeatable routine that can be integrated into any makeup workflow. The article’s value lies in its synthesis of cosmetic science, consumer economics, and practical beauty rituals, enabling readers to make informed, personalized choices. The tone is conversational yet informative, reflecting a genuine curiosity about how products can seamlessly blend skincare and makeup, and it invites readers to experiment with shades and textures to achieve that coveted spring glow.\n",
+    "summary_zh": "Sali Hughes用轻松却专业的笔触，拆解了遮瑕防晒霜的复杂性。她不仅对护肤成分、色号覆盖及成分做了细致比较，还给出了分层涂抹的实用技巧，让读者能在日常妆容中轻松实现SPF、保湿与自然光泽三位一体。文章兼顾预算与高端产品，凸显可持续美妆的可行路径。",
+    "best_quote_en": "\"Apply too little and your SPF dose is insufficient, apply too much and you’re caked in what looks like heavy makeup.\"",
+    "best_quote_zh": "“涂得太少，防晒剂不足；涂得太多，像重妆一样厚重。”"
+  },
+  {
+    "id": 562,
+    "title": "Apple's Mistake",
+    "title_zh": "苹果的失误",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/apple.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "The essay offers a sharp, historically grounded critique of Apple’s App Store approval process, arguing that the company’s hardware‑centric mindset has misfired in the software realm. By citing early software publishing lessons and current developer sentiment, the author shows how long review cycles stifle iterative development, degrade app quality, and erode the company’s goodwill among programmers. Drawing parallels to Microsoft’s past struggles and Google’s “Don’t be evil” culture, the piece warns that a locked‑down ecosystem threatens innovation and talent attraction. The analysis blends anecdotal evidence with broader industry trends, urging Apple to rethink its gatekeeping model and to prioritize developer empowerment as a strategic imperative for sustained platform dominance.",
+    "summary_zh": "文章以历史视角批评苹果App Store审批流程，指出硬件思维误入软件领域导致创新受阻、质量受损，并损害了开发者信任。作者结合微软与谷歌案例，警示生态闭塞将削弱人才吸引力，呼吁苹果重塑开发者友好政策，维护平台长青。",
+    "best_quote_en": "Apple’s attitude is that developers should be more careful when they submit a new version to the App Store, but powerful as they are, they’re not powerful enough to turn back the evolution of technology.",
+    "best_quote_zh": "苹果的态度是开发者在提交新版本到App Store时应该更谨慎，但他们虽强大，却不足以阻止技术的演进。"
+  },
+  {
+    "id": 563,
+    "title": "There is no evidence you should reapply sunscreen every 2 hours.",
+    "title_zh": "没有证据表明每两小时重新涂抹防晒霜是必要的",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/daTGKn3pXzs75nSB7/there-is-no-evidence-you-should-reapply-sunscreen-every-2",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "The article dissects the long‑standing “every two hours” sunscreen rule, tracing its regulatory lineage from the FDA’s 1978 guidance to the 2011 final monograph. It exposes that the rule rests on a handful of weak, self‑reported studies and public‑health pamphlets rather than robust peer‑reviewed evidence. Contemporary randomized trials demonstrate that properly applied modern sunscreens retain the vast majority of their protective effect for six hours or longer, even under vigorous exercise or water exposure. The piece argues that the real public‑health imperative lies in ensuring adequate initial coverage (≈2 mg cm⁻²) rather than arbitrary reapplication intervals. It critiques the feedback loop among regulatory bodies, professional associations, and industry that perpetuates a pseudoscientific guideline, and calls for evidence‑based policy reform. The analysis invites readers to question entrenched health directives, reflect on the influence of corporate incentives, and prioritize data‑driven recommendations for consumer safety.",
+    "summary_zh": "本文批判性剖析防晒霜“每两小时重新涂抹”规则的历史根源与证据基础。作者指出，该规则源自FDA 1978年起草的模糊指南，后在2011年最终规则中被固定下来，却仅依赖几项缺乏严谨性的自报研究和宣传册。与此形成鲜明对比的是近年随机对照试验显示，若一次性涂抹足量现代防晒霜，6小时内仍能保持90%以上防护。作者强调，真正的公共卫生关切应聚焦在确保足量初次涂抹，而非无依据的频繁补涂。通过揭露监管、专业协会与产业之间的循环逻辑，他呼吁以实证为基础重塑政策，提醒读者质疑长期主流健康宣言背后的商业与政治动因。",
+    "best_quote_en": "The 2‑hour rule is a plain‑as‑day case of blatant, lazy pseudoscience that has somehow become convention.",
+    "best_quote_zh": "“2‑小时规则是明显的、懒散的伪科学，它已经被普遍接受并成为常规。”"
+  },
+  {
+    "id": 564,
+    "title": "Will A.I. Make College Obsolete?",
+    "title_zh": "人工智能会让大学消失吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/will-ai-make-college-obsolete",
+    "tags": [
+      "analyze",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "Jay Caspian Kang’s column interrogates the myth that AI will obliterate higher education. He argues that universities have survived pandemics, wars, and the rise of MOOCs, and that their core function remains credentialing and signaling. Drawing on surveys, economic theory, and voices from academia—Caplan, Cowen, Altman, and Khan—he shows a consensus that while AI will reshape pedagogy, the institutional value of a degree persists. Yet, the author warns that rising distrust, soaring costs, and AI‑enabled skill acquisition may accelerate a long‑term decline in perceived value, especially outside elite circles. The piece balances optimism about AI’s democratizing potential with realism about the entrenched social function of universities, and concludes that the future of college hinges on whether institutions can re‑sell the idea of a campus experience to a generation already fluent in algorithmic learning. The article invites parents, policymakers, and students to question whether the “best four years” are still worth the price tag in an AI‑driven world.",
+    "summary_zh": "作者质疑AI会否彻底摧毁大学，认为大学凭借认证与社会信号仍具价值。",
+    "best_quote_en": "“The main function of education is not to teach useful skills (or even useless skills), but to certify students’ employability.”",
+    "best_quote_zh": "“教育的主要功能不是教授有用或无用的技能，而是为学生的就业能力做认证。”"
+  },
+  {
+    "id": 565,
+    "title": "Mick Rock: The Rise of David Bowie / Horrorstör",
+    "title_zh": "Mick Rock：David Bowie 的崛起 / Horrorstör",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mick-rock-the-rise-of-david-bowie-horrorstor/",
+    "tags": [
+      "inspire",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "The article juxtaposes two strikingly different book experiences: Mick Rock’s lavish visual chronicle of David Bowie’s early 1970s ascent, and Grady Hendrix’s satirical horror set in a faux‑IKEA megastore. Through vivid description, the writer conveys how Rock’s photography captures the volatile intimacy between artist and muse, turning paper into a tactile, almost intoxicating artifact. In contrast, Hendrix’s narrative uses catalog‑style prose to lampoon consumer culture and workplace alienation, while still delivering a spine‑tingling thriller. Both works demonstrate how design, typography, and narrative framing can transform ordinary subject matter into immersive storytelling, offering readers a multi‑sensory encounter that transcends conventional book formats. The piece invites readers to consider the power of visual and textual synergy, inspiring collectors, designers, and literary enthusiasts to explore the intersection of art, commerce, and narrative in contemporary publishing.",
+    "summary_zh": "文章对比了两本书的独特体验：Mick Rock 的视觉盛宴与 Grady Hendrix 的消费文化恐怖小说。作者通过细腻描写，展现摄影与文字如何共同塑造沉浸式叙事，激发读者对设计与叙事交融的反思。",
+    "best_quote_en": "\"You really do get the feeling that you are seeing a very rare and intimate relationship between an artist and his muse, chronicled by perhaps the one person who could see actually see and understand that relationship as it was unfolding.\"",
+    "best_quote_zh": "“你真的会感受到你正在看到艺术家与其灵感之间非常罕见且亲密的关系，这种关系被可能是唯一真正理解并记录这一过程的人记录下来。”"
   }
 ]
