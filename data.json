@@ -1,119 +1,5 @@
 [
   {
-    "id": 466,
-    "title": "My month in the tradwife world: ‘I can’t pretend I’m not enjoying myself at all ...’",
-    "title_zh": "我的一個月在傳統妻子世界：『我根本不敢假裝我完全不享受……』",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-04-15",
-    "summary_en": "The Guardian piece invites readers into the seductive yet contradictory sphere of ‘tradwife’ influencers, juxtaposing glossy domesticity with underlying power dynamics. By immersing herself in the content—novels, recipes, and social‑media feeds—the author exposes the genre’s dual nature: a carefully curated blend of homestead aesthetics, entrepreneurial savvy, and patriarchal complicity. The narrative uncovers a paradox: the very figures who market themselves as embodiments of traditional femininity are simultaneously building multimillion‑dollar brands, thereby reinforcing capitalist structures rather than rejecting them. The article probes the psychological appeal of the tradwife myth—offering an illusion of leisure, stability, and identity—against the backdrop of contemporary pressures on Gen Z women. It also critiques the movement’s origins in misogynistic online subcultures and warns of the danger in normalizing restrictive gender norms. Ultimately, the piece urges a nuanced conversation about alternative feminist narratives that honor autonomy without sacrificing economic independence or personal agency.",
-    "summary_zh": "文章透過作者親身體驗傳統妻子文化，揭示其表面溫馨與背後的資本主義與父權結構。作者指出，雖然傳統妻子形象提供了休閒與穩定的幻想，但實際上卻是商業化、依賴男性權力的產物，並警示若無批判性思考，易將性別歧視的舊規範帶回社會。呼籲建立能兼顧自主與經濟獨立的女性新選擇。",
-    "best_quote_en": "‘They’re all pushing this arcadian fantasy of homemaking and living off the land, the anti‑girlbosses, when they’re all building capitalist empires.’",
-    "best_quote_zh": "‘他們都在推廣一種田園詩般的家庭生活與遠離女強人的幻想，卻同時在打造資本主義帝國。’"
-  },
-  {
-    "id": 467,
-    "title": "Frighteningly Ambitious Startup Ideas",
-    "title_zh": "惊悚的雄心勃勃的创业创意",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ambitious.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-04-15",
-    "summary_en": "The essay dissects why the most transformative startup concepts—those that could create billion-dollar businesses—are simultaneously the most intimidating. By cataloguing examples such as a new search engine tailored for elite hackers, a todo‑list‑first email protocol, radical university replacement models, internet‑driven drama platforms, a hardware‑visionary startup, a next‑generation compiler, and continuous medical diagnostics, the author demonstrates a pattern: the biggest ideas destabilise our identities and existing ecosystems, making them invisible to most founders. His key insight is that ambition should be channeled through deceptively modest, problem‑solving pivots—build a niche product first, then scale outward. The piece offers a pragmatic, psychologically grounded playbook for aspiring entrepreneurs: start small, accept uncertainty, and let the vision evolve organically. It challenges conventional startup mythos by arguing that the most successful ventures emerge not from crystal‑clear blueprints but from iterative, humility‑driven experimentation. For readers, the essay is both a cautionary tale and a roadmap, urging them to confront the fear that fuels creative paralysis and to reframe ambition as a series of incremental, high‑impact steps.",
-    "summary_zh": "文章揭示最具变革性的创业想法为何最令人畏惧，并以搜索引擎、邮件替代、大学革新、网络戏剧、硬件创业、智能编译器和持续诊断等例子说明：大想法会动摇身份与生态，让人望而却步。作者主张以微小、可落地的产品先行，逐步迭代放大，突破恐惧，拥抱不确定，最终实现远大愿景。",
-    "best_quote_en": "\"The biggest startup ideas are terrifying. And not just because they'd be a lot of work. The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.\"",
-    "best_quote_zh": "“最大的创业想法令人畏惧。不仅因为工作量大，更因为它们威胁你的身份：你会怀疑自己是否有足够的雄心去坚持。”"
-  },
-  {
-    "id": 468,
-    "title": "For with what judgment we shall be judged",
-    "title_zh": "以何种判断来评判我们",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rLzx65jQami9bK5CC/for-with-what-judgment-we-shall-be-judged",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-04-15",
-    "summary_en": "The article is a contemplative meditation on the trajectory of AI safety and the personal role of the author within it. It juxtaposes the rapid commodification of advanced AI capabilities—once considered future marvels—against the slow, empirical interrogation of alignment and value misalignment that now underpins the field. The author reflects on the paradox of self‑judgment versus external judgment, citing Longfellow and biblical parables to underscore how we often measure our worth by unrealized potential while society judges us by concrete achievements. He frames his decade‑long career as a series of supporting roles in AI safety research, from interpretability to ARC evaluations, acknowledging a lingering sense of unfulfilled ambition. The piece invites readers to consider how future generations will judge our actions: will they be judged by what we could have done or by what we actually did? It ends with a sober reminder that the narrative is unfinished, urging continued action and reflection. The core insight is that the value of our contributions is not yet fixed; it will be shaped by both our intentions and our tangible outcomes, and that humility and persistence are key to navigating this uncertain legacy.",
-    "summary_zh": "作者在反思AI安全发展的同时，审视个人在其中的角色与价值。文章将曾经的技术里程碑与当下的实证研究相对照，强调自我评判与外部评判的差异。通过引用长夫与圣经寓言，指出我们常把潜能视为衡量标准，而社会更关注已完成的成果。作者坦言自己在AI安全领域的支持性工作与未实现的抱负，并思考未来人们将如何评判我们的行动。文章的核心在于：我们的贡献尚未成形，取决于意图与实际成就，谦逊与坚持是应对不确定遗产的关键。",
-    "best_quote_en": "\"We judge ourselves by what we feel capable of doing, while others judge us by what we have already done.\"",
-    "best_quote_zh": "“我们以自己能做什么来评判自己，而他人则以我们已经做过什么来评判我们。”"
-  },
-  {
-    "id": 469,
-    "title": "How Much Has the War in Iran Depleted the U.S. Missile Supply?",
-    "title_zh": "伊朗战争对美国产弹供应的影响有多大？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-much-has-the-war-in-iran-depleted-the-us-missile-supply",
-    "tags": [
-      "update",
-      "politics",
-      "economics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "经济金融",
-      "案例研究"
-    ],
-    "date": "2026-04-14",
-    "summary_en": "The article dissects how the U.S. war in Iran has drained critical missile and air‑defense stockpiles, exposing a systemic weakness in American munitions production and strategic planning. By juxtaposing the rapid depletion of Tomahawks, THAAD interceptors, and JASSMs against the backdrop of China‑centric defense priorities, it uncovers a paradox: a nation spending billions on defense is still running out of essential platforms in a protracted conflict. The piece highlights the Pentagon’s attempts to accelerate production through the Munitions Acceleration Council and the acquisition transformation strategy, yet it questions whether these reforms can keep pace with the urgency of great‑power competition. The narrative urges policymakers to rethink industrial base resilience, procurement cadence, and strategic budgeting—removing the illusion that sheer spending guarantees readiness. The implications are profound: if the U.S. cannot sustain its munitions supply, it risks emboldening rivals and eroding deterrence, especially in the Indo‑Pacific. The article invites readers to critically assess the alignment between defense spending, industrial capacity, and national security strategy, and to consider whether a shift toward more agile, responsive production models is overdue.",
-    "summary_zh": "文章剖析伊朗战事如何消耗美国弹药库存，暴露军工体系脆弱，并探讨若无及时改革，将削弱对华威慑力。",
-    "best_quote_en": "\"We adjust our industrial base to the kinds of wars that we are fighting… We got out of the mindset where we were ever going to fight a very munitions‑heavy war again.\"",
-    "best_quote_zh": "\"我们已经把工业基础调整到我们正在打的战争类型……我们已经退出了曾经认为我们会打一场非常依赖弹药的战争的心态。\""
-  },
-  {
-    "id": 470,
-    "title": "Beautiful Birds / The Botanical Treasury",
-    "title_zh": "美丽的鸟儿 / 植物宝库",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/beautiful-birds-the-botanical-treasury/",
-    "tags": [
-      "update",
-      "design",
-      "education"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "教育学习"
-    ],
-    "date": "2026-04-14",
-    "summary_en": "The article juxtaposes two visually striking reference books that celebrate the wonder of natural world through alphabetic and historical lenses. \"Beautiful Birds\" takes a playful, rhyming approach to avian diversity, turning each species into a mini‑story that invites children to read aloud and explore scientific facts within a colorful narrative. Its illustrations echo mid‑century graphic design, creating a tactile, almost tactile experience that elevates the learning environment. The second title, \"The Botanical Treasury,\" adopts a scholarly yet celebratory tone, compiling 40 plants that span ecological, medicinal, and economic significance. Each chapter is richly illustrated with historical documents, giving readers a sense of the human stories intertwined with botanical discovery. Together, the pieces highlight how design, narrative, and historical context can transform passive information into engaging, lifelong learning moments. They remind educators and parents that curiosity thrives when facts are wrapped in story, color, and context, and that even the most technical subjects can be made accessible and memorable when presented with creativity and depth.",
-    "summary_zh": "两本书以图文并茂的方式，将自然界的奇观转化为可亲近的学习体验。",
-    "best_quote_en": "\"Children are game for anything… They love words that give them a hard time, provided they are in a context that absorbs their attention.\"",
-    "best_quote_zh": "“孩子们喜欢任何让他们费劲的文字，只要情境能吸引他们。”"
-  },
-  {
     "id": 471,
     "title": "Meghan’s Sydney wellness retreat promises ‘a girls’ weekend like no other’ – but what does a $3,200 ticket buy?",
     "title_zh": "梅根的悉尼健康静修会承诺‘前所未有的女孩周末’——但$3,200的门票到底能买到什么？",
@@ -2330,5 +2216,123 @@
     "summary_zh": "文章对比了两本书的独特体验：Mick Rock 的视觉盛宴与 Grady Hendrix 的消费文化恐怖小说。作者通过细腻描写，展现摄影与文字如何共同塑造沉浸式叙事，激发读者对设计与叙事交融的反思。",
     "best_quote_en": "\"You really do get the feeling that you are seeing a very rare and intimate relationship between an artist and his muse, chronicled by perhaps the one person who could see actually see and understand that relationship as it was unfolding.\"",
     "best_quote_zh": "“你真的会感受到你正在看到艺术家与其灵感之间非常罕见且亲密的关系，这种关系被可能是唯一真正理解并记录这一过程的人记录下来。”"
+  },
+  {
+    "id": 566,
+    "title": "Do women need to exercise differently from men – and ease up on cardio after 40?",
+    "title_zh": "女性是否需要与男性不同的锻炼方式——40岁后是否应减少有氧运动？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/do-women-need-to-exercise-differently-from-men-and-ease-up-on-cardio-after-40",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-05-07",
+    "summary_en": "The Guardian piece interrogates the surge of gender‑specific fitness rhetoric, spotlighting Dr Stacy Sims’ claim that women over 40 should pivot from steady‑state cardio to heavy lifting or polarized training. It frames the discussion against a backdrop of systematic research gaps: only 6‑9 % of sports‑science studies focus exclusively on women, and the majority of evidence is extrapolated from male data. The article juxtaposes Sims’ evidence‑driven yet polarizing stance with the cautions of other experts who warn against over‑simplifying women’s training and inadvertently scaring them away from cardio. Practical guidance emerges: adhere to standard WHO guidelines—150 min of moderate activity plus strength sessions—while embracing progressive overload and autoregulation. The piece invites readers to reflect on how cultural narratives shape exercise habits and to question whether a one‑size‑fits‑all model can truly serve women’s diverse needs. It underscores the urgency of inclusive research and the responsibility of fitness professionals to balance scientific rigor with empathy.",
+    "summary_zh": "文中批判了女性专属健身话语的泛滥，探讨斯密斯博士主张40岁后女性应转向高强度训练的说法，并指出研究空白与男性数据外推的风险。文章强调循证指导、渐进超负荷与自我调节的重要性，提醒健身从业者兼顾科学与同理心，呼吁更多女性中心研究。",
+    "best_quote_en": "\"Cardio and weights are appropriate for women across their lifespan. But the benefits of strength training are a new message to us, which is why it’s been emphasised so much to this age group.\"",
+    "best_quote_zh": "“有氧和力量训练都适合女性的整个生命阶段，但力量训练的好处是新的信息，这就是为什么它在这一年龄段被如此强调。”"
+  },
+  {
+    "id": 567,
+    "title": "What Startups Are Really Like",
+    "title_zh": "创业者真实体验",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/really.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-05-07",
+    "summary_en": "This essay, distilled from Y Combinator founder Eric Ries’s 2009 Startup School talk, is a data‑driven, almost anthropological exploration of the unexpected realities founders face. Through 70 founder interviews, Ries identifies 19 recurring “surprises,” ranging from the fragile nature of co‑founder relationships to the relentless time commitment and emotional roller‑coaster of startup life. A key insight is that founders’ expectations are largely shaped by the conventional job model; the startup experience diverges sharply in intensity, pace, and emotional stakes. Ries also underscores practical, actionable lessons: prioritize character over skill when choosing partners, launch minimal viable products early, engage users as an experiment, and cultivate resilience and persistence. The piece invites readers to interrogate their own assumptions, offering a candid, experiential roadmap that balances optimism with realism. It is invaluable for aspiring founders, early‑stage teams, and investors seeking a realistic lens on the startup ecosystem while challenging the myth of effortless innovation.",
+    "summary_zh": "这篇文章基于Y Combinator创始人Eric Ries 2009年的Startup School演讲，通过70位创始人的访谈，系统揭示了创业者常见的19大意外。核心发现是，创业与传统工作模式大相径庭，时间投入、情绪波动与关系管理都更剧烈。Ries强调实用建议：选择合伙人时重视品格、快速发布最简产品、以实验方式与用户互动、保持韧性和持久性。文章批判创业光环，提供真实、可操作的路线图，既适合想创业的人，也适合投资者。",
+    "best_quote_en": "\"The biggest surprise was how much everything was actually fairly predictable!\"",
+    "best_quote_zh": "\"最让人惊讶的是，所有事情其实相当可预测！\""
+  },
+  {
+    "id": 568,
+    "title": "Sculpted Interaction: a Design-First Approach to AI Alignment",
+    "title_zh": "雕塑式交互：AI 对齐的设计优先方法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rMzb2dFwfAx6QH8ZH/sculpted-interaction-a-design-first-approach-to-ai-alignment",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "The article critiques the prevailing chatbot‑centric paradigm of AI interaction and proposes a structured, design‑first workflow that places human intent and verification at the forefront. By decomposing inputs into a dependency graph of propositions, converting them into semi‑formal proofs, and finally into machine‑verified Lean4 code, the author creates a continuous chain of trust that is explicitly visible to the user. The approach extends beyond mathematics to empirical claims, integrating a transparent OpenAlex‑based evidence search that scores studies and presents editable hypotheses. This design eliminates anthropomorphic framing, reduces sycophancy, and keeps users in control of the AI’s outputs. The work is grounded in HCI principles, offers actionable tools for practitioners, and highlights open challenges such as UX polish and cost tracking. It invites the safety community to rethink interface architecture as a core component of alignment, not merely a thin wrapper around models.\n\nImplications are profound: if AI assistants were built around task‑oriented, verification‑driven interfaces, the risk of misaligned incentives and overtrust could diminish. The article serves as both a technical blueprint and a philosophical stance that alignment must be engineered at the interaction level. It encourages researchers and developers to adopt a design‑first mindset, considering how the shape of an interface affects human judgment and agency.",
+    "summary_zh": "文章质疑现行基于聊天机器人的AI交互模式，提出以设计为先的结构化工作流，把人类意图和验证置于核心。通过将输入拆解为命题图谱、转化为半形式证明，再生成可验证的 Lean4 代码，形成可视化的信任链。此方法同样适用于经验性主张，结合 OpenAlex 搜索并给出可编辑的假设与评分。设计去除拟人化框架，降低 sycophancy，让用户始终掌控 AI 输出。作者呼吁安全社区将界面架构视为对齐的关键，推动从模型层面到交互层面的整体思考。",
+    "best_quote_en": "‘If we want to have interactions between humans and future superintelligences that preserve human values and agency, we need interactions with present‑day LLMs that do the same.’",
+    "best_quote_zh": "‘如果我们想让人与未来的超级智能进行交互，同时保持人类价值与代理权，我们需要与当前的 LLM 进行同样的互动。’"
+  },
+  {
+    "id": 569,
+    "title": "How the Iran War Is Shifting Power Toward China",
+    "title_zh": "伊朗战争如何将权力转移至中国",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-the-iran-war-is-shifting-power-toward-china",
+    "tags": [
+      "analyze",
+      "politics",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "The piece offers a deep dive into how the Iran conflict and the tumultuous Trump era have reshaped global power dynamics, particularly boosting China’s diplomatic leverage. It traces the U.S. credibility erosion, the strategic patience China has exercised, and how the war has accelerated the transition from fossil fuels to renewables—an opportunity China dominates. The author weaves expert commentary from academics and policy analysts, underlining China’s dual strategy of capitalizing on U.S. distraction while quietly amassing influence in the Middle East and beyond. The narrative critiques American unilateralism and highlights the growing perception that U.S. leadership is in decline. Importantly, it frames China’s rise as a pragmatic, data‑driven response to a shifting geopolitical field, offering policymakers a nuanced understanding of how regional conflicts can ripple into global power realignments. The piece invites readers to question long‑held assumptions about U.S. primacy and to consider the strategic calculus that has enabled China to step into the void left by a distracted West.",
+    "summary_zh": "伊朗战争与特朗普混乱，让美国失势，中国抓住机遇，提升外交杠杆。文章借学者与官员视角，揭示中国如何利用美国分心，推动能源转型与地缘政治重塑。它让人重新审视美国霸权的衰落与中国成长的现实。",
+    "best_quote_en": "\"For China, the war in Iran brings no economic upside, but it creates diplomatic space. It allows China to step out of a previously isolating alignment and reposition itself more broadly, not just in the Middle East but globally.\"",
+    "best_quote_zh": "“对中国而言，伊朗战争既没有经济上的好处，但却创造了外交空间。它让中国摆脱先前孤立的立场，重新定位自己，不仅在中东，也在全球层面。”"
+  },
+  {
+    "id": 570,
+    "title": "What’s in my NOW? — Erik Schneider",
+    "title_zh": "我的当下是什么？——埃里克·施奈德",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-erik-schneider/",
+    "tags": [
+      "solve",
+      "programming",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-05-06",
+    "summary_en": "Erik Schneider’s eclectic showcase of gadgets, software, and a philosophical quote offers a tangible, hands‑on guide to enhancing both physical and digital workflows. By spotlighting items such as the Mac Mini travel case, Comma 4 driver‑assist, Sony WH‑1000XM4 headphones, and emerging AI tools like Caveman and Repoprompt, he bridges the gap between tech enthusiasm and everyday practicality. Readers gain actionable insights—how to optimize portability, automate driving, or reduce AI token consumption—while also receiving a gentle reminder that productivity thrives when paired with reflective self‑care, as echoed in John Leonard’s evocative quotation. This piece invites a curious, tech‑savvy audience to experiment, iterate, and keep a mindful record of their bold moves, underscoring the synergy of tangible tools and mental resilience.\n",
+    "summary_zh": "埃里克·施奈德用一系列实用设备与AI工具，展示了提升工作与生活效率的可操作方法，并配以哲学引语，提醒我们在技术进步中也需保持自省与勇气。",
+    "best_quote_en": "\"In the cellars of the night, when the mind starts moving around old trunks of bad times, the pain of this and the shame of that, the memory of a small boldness is a hand to hold.\"",
+    "best_quote_zh": "“在夜的酒窖里，当思绪在旧时光的箱子里转动，痛苦与羞愧交织，却记得一份小小的勇气能握住你的手。”"
   }
 ]
