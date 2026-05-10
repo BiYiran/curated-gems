@@ -1,123 +1,5 @@
 [
   {
-    "id": 481,
-    "title": "Jess Cartner-Morley on fashion: how to make sandwich dressing your style bread and butter",
-    "title_zh": "Jess Cartner-Morley关于时尚：如何让三明治装饰成为你的风格面包与黄油",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/apr/15/jess-cartner-morley-on-fashion-how-to-make-sandwich-dressing-your-style-bread-and-butter",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-04-15",
-    "summary_en": "Jess Cartner‑Morley offers a surprisingly pragmatic yet playful framework for everyday dressing, coined the “sandwich rule.”  By treating an outfit like a sandwich—two outer layers (top and bottom) framing a contrasting middle—she provides a quick visual‑balance hack that eliminates the common “death by black shoe” pitfall.  The article balances humor with a data‑driven observation that human perception favors repetition and resolution, turning a fashion tip into a psychological strategy.  Readers learn not only how to pair colors and textures but also how to harness the rule’s versatility: it works for high‑fashion runway looks and for last‑minute work‑day outfits.  The piece encourages confidence through simplicity, framing style as infrastructure rather than trend, and leaves a practical, actionable takeaway that can be tested in minutes.  Its appeal lies in its accessibility, the vivid examples, and the subtle nod to fashion lore (Vreeland, Vogue), making it both educational and inspirational for style novices and seasoned fashionistas alike.",
-    "summary_zh": "作者用“三明治规则”把穿衣变成一门快速、平衡的科学：两层外衣包裹中间对比，既避免了‘黑鞋死亡’，又能在忙碌中保持时尚。这一技巧兼具可操作性与心理学洞见，既适合高端时装，又能在短时间内完成职场造型，既是实用指南也是自信宣言。",
-    "best_quote_en": "The sandwich rule works because the human eye loves repetition and resolution.",
-    "best_quote_zh": "三明治规则之所以奏效，是因为人眼喜爱重复与对比的平衡。"
-  },
-  {
-    "id": 482,
-    "title": "Snapshot: Viaweb, June 1998",
-    "title_zh": "Snapshot: Viaweb, 1998 年 6 月的  记录",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vw.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-04-19",
-    "summary_en": "The passage is a nostalgic, first‑person chronicle of the early days of  Viaweb,  the e‑tr  .  It offers a micro‑historical snapshot that  reveals the constraints and  creative workarounds of  a pre‑  cloud era:  1) tiny screen real estate,  2)  image‑based fonts, 3) the need  for paid PR  to get  ,   and 4) a fragile infrastructure of office‑  based servers.  The author’s eye on design  (the red  circle logo j  0 ) and the anecdote about a flat fee for  high‑traffic merchants provide concrete, actionable lessons for  modern founders.  It also illustrates  5) the importance of user‑testing  before  6)   .  The narrative is a valuable  case  study  blending technical detail  0   human stories,  0   offering insights  0   strategy, marketing, and operations when  the  internet  was  still  0   frontier.",
-    "summary_zh": "这段 记录  记述  Viaweb   早期  发展  经验  ，  通过  小尺寸  屏幕  、  文字  图片  、  媒体  支付  与  服务器  运营  等  细节  揭示  互联网  初期  生态  。  其中  以  设计  与  价格  方案  为  重点  ，  为  现代  创业者  探讨  可行  的  经验  。   ",
-    "best_quote_en": "The best version number is a number that shows you, as a company, are serious about shipping software.",
-    "best_quote_zh": "最好的版本号是一个数字，表明您作为一家公司，认真地交付软件。"
-  },
-  {
-    "id": 483,
-    "title": "Summarizing and Reviewing my earliest ML research paper, 7 years later",
-    "title_zh": "回顾我早期机器学习论文的总结与评估",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/s23gcSGmWh3YwDBdW/summarizing-and-reviewing-my-earliest-ml-research-paper-7",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-19",
-    "summary_en": "This reflective post offers a deep dive into the author’s inaugural machine‑learning paper, the \"Assistive Multi‑Armed Bandit.\" By re‑examining the paper’s motivation—modeling human preference learning under uncertainty—the author illuminates the subtle tension between assuming rational agents and acknowledging that people discover their own preferences through experience. The analysis traces the progression from trivial propositions to the pivotal insight that ignoring human learning can paradoxically worsen outcomes. The author candidly critiques the paper’s limited scope, the lack of real‑world data, and the reliance on black‑box reinforcement learning, while celebrating its theoretical elegance and clean exposition. For readers, the essay serves as both a case study in early‑career research self‑reflection and a cautionary tale about balancing ambition with practicality. It invites scholars to rethink how preference‑learning models should incorporate human learning dynamics, urging a more empirical, data‑driven approach in future work.",
-    "summary_zh": "本文回顾作者早期的“助力多臂老虎机”论文，聚焦人类在学习偏好过程中的非理性。作者从最初的假设到关键结论，剖析了忽视学习过程可能导致反效果的理论洞见，并对论文局限性进行自我批评。此文既是学术自省的案例，也是提醒研究者在偏好学习模型中融入人类学习动态、走向更经验化的呼声。",
-    "best_quote_en": "\"Not doing so leads to bad outcomes even in the limit, because the robot that doesn’t respect the human’s learning process may prevent the human from learning about their preferences.\"",
-    "best_quote_zh": "\"如果不考虑人类的学习过程，即使在极限情况下，机器人也可能阻碍人类对自身偏好的学习，导致不良结果。\""
-  },
-  {
-    "id": 484,
-    "title": "J. D. Vance’s Bumpy Ride",
-    "title_zh": "",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/j-d-vances-bumpy-ride",
-    "tags": [
-      "solve",
-      "politics",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-04-18",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 485,
-    "title": "Music Production",
-    "title_zh": "",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/music-production/",
-    "tags": [
-      "guide",
-      "programming",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "编程开发",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-04-13",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 486,
     "title": "Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid",
     "title_zh": "缅甸军政扩大卫生巾禁令，声称反叛者使用其进行急救",
@@ -2340,5 +2222,125 @@
     "summary_zh": "《Zen Mind》以初心为核心，教人以好奇与专注重温日常。四大原则——保持初心、全情投入、认同自我、观念无执——配合易行练习，帮助人们在繁忙中获得觉察与宁静。它既是哲学启示，也是实用指南，适合想要用简单方式提升生活品质的读者。",
     "best_quote_en": "\"In the beginner’s mind there are many possibilities, but in the expert’s there are few.\"",
     "best_quote_zh": "\"在初学者的心中有许多可能性，而在专家的心中只有很少。\""
+  },
+  {
+    "id": 581,
+    "title": "‘A husband expects a yes’: how wife schools are shaping submissive Christian women",
+    "title_zh": "‘丈夫期待说‘是’’：妻子学校如何塑造顺从的基督徒女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/28/wife-school-christian-women-submissive",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-04-28",
+    "summary_en": "The Guardian exposé uncovers a niche industry of Christian women‑run online courses that promise marital bliss by teaching submission to husbands. Drawing on biblical passages, personal anecdotes, and the rhetoric of conservative movements, these “wife schools” market themselves as practical guides while simultaneously reinforcing patriarchal norms. The piece critically examines the psychological manipulation at play—capitalising on insecurities, normalising submissiveness, and marginalising women’s agency. It juxtaposes the commercial appeal of such courses with empirical research that reveals the harrowing reality of domestic abuse and the paradoxical support for misogynistic attitudes among some participants. The article highlights how the movement dovetails with broader Christian nationalist agendas that seek to embed gendered power structures into American society. It challenges readers to consider the ethical implications of profit‑driven faith‑based self‑help and the subtle ways it may perpetuate systemic inequality. The narrative ends on an unsettling note: while some women report a sense of peace, the cost may be a quiet surrender to oppressive roles.",
+    "summary_zh": "这篇《卫报》深度报道揭露了基督教女性主导的线上课程产业，宣称通过顺从丈夫实现婚姻幸福，却在潜移默化中强化父权结构。作者批判其商业化与宗教操纵的交织，引用研究显示部分受众可能正处于暴力关系中。文章提醒读者关注宗教自助背后的伦理与社会影响，警示这种看似“温柔”的顺从可能是对女性权力的隐性压制。",
+    "best_quote_en": "‘They’re selling wife skills, sure, but what they’re really selling is stability.’",
+    "best_quote_zh": "‘她们出售的是妻子技巧，当然，但她们真正出售的是稳定。’"
+  },
+  {
+    "id": 582,
+    "title": "The List of N Things",
+    "title_zh": "N件事清单",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nthings.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-05-10",
+    "summary_en": "In a deceptively simple form, the article dissects the ubiquitous \"list of N things\" trope that saturates pop culture, journalism, and academia. It argues that such lists are not mere gimmicks but a pragmatic, fault‑tolerant structure that serves both writers and readers. By constraining content to independent, equally weighted points, readers can navigate content at will, skip dissonant items, and avoid the cognitive load of linear narrative. For writers, the format offers a scaffold that prevents writer’s block, enables rapid iteration, and guarantees a coherent product even under tight deadlines. Yet the piece also warns against deceptive exhaustiveness and the stifling of innovation, noting that the format limits the emergence of new ideas during the writing process. The author calls for explicit teaching of this structure, advocating that beginners start with lists, then move beyond the \"cheeseburger\" of conventional essays. Ultimately, the piece is a reflective critique that blends literary theory, cognitive ergonomics, and practical advice, making it a valuable resource for educators, writers, and media scholars.\n",
+    "summary_zh": "文章深度剖析了流行的“列举N件事”写作模式，指出它既是读者的导航工具，也是作者的写作支架。通过并行、可跳跃的结构，读者可自由选择；作者则借此避免写作堵塞，快速完成稿件。作者亦警示滥用该格式可能导致信息不完整与创意受限，并建议教育者先让初学者练习列举式写作，再逐步过渡到更具连贯性的论述。此文兼具理论与实操，适合写作者、编辑及教学研究者阅读。\n",
+    "best_quote_en": "\"A list of n things is easier for writers as well as readers. When you're writing a real essay, there's always a chance you'll hit a dead end.\"",
+    "best_quote_zh": "\"列举N件事既方便作者也方便读者。当你写真正的文章时，总有可能遇到死胡同。\""
+  },
+  {
+    "id": 583,
+    "title": "Sawtooth Problems",
+    "title_zh": "Sawtooth Problems",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/iyLirpAeQotmZK4QC/sawtooth-problems",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-10",
+    "summary_en": "Alexander Slugworth’s essay delves into the Button Dilemma—a seemingly simple binary coordination game—and expands it into a new class of problems he calls “sawtooth problems.” By formalizing the dilemma with a threshold parameter (τ) and introducing two additional dimensions—solidarity (σ) and intolerance (I)—he maps a rich landscape of coordination dynamics that capture real‑world phenomena such as the tragedy of the commons, regulation, and sacrificial dilemmas. The piece is a blend of mathematical modeling, graphical intuition, and philosophical reflection, challenging readers to rethink how we frame coordination puzzles, the role of priors, and the hidden “threshold” that can turn cooperation into conflict. Slugworth’s work is both a technical contribution to game theory and a provocative meditation on collective decision‑making under risk, offering a framework that could guide future research on public goods, social norms, and AI alignment.",
+    "summary_zh": "作者在文章中以一个极简的按钮决策游戏为起点，构造了“锯齿问题”这一新的协调问题范畴。通过阈值、团结度和容忍度三维参数，他揭示了协调空间中隐藏的临界点与多种现实情境的对应关系，既有公共物品的典型悖论，也有监管与牺牲的极端案例。文章兼具严谨的数学建模与深刻的哲学反思，促使读者重新审视协作与冲突的根源，并为未来的公共事务与人工智能治理提供新的视角与工具。",
+    "best_quote_en": "The threshold itself acts as a kind of anti‑Nash equilibrium – in a multi‑turn sawtooth problem, if you find yourself with a group of survivors inside the threshold, every possible action you can take is an improvement, and the incentive to act is as strong as it can be.",
+    "best_quote_zh": "阈值本身就像一种反纳什均衡——在多轮锯齿问题中，如果你发现自己与一群幸存者处于阈值内，每一个可能的行动都是改进，行动的动机是最强的。"
+  },
+  {
+    "id": 584,
+    "title": "Is Los Angeles Finally Ready to Take the Subway?",
+    "title_zh": "洛杉矶终于准备好地铁了吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-los-angeles-finally-ready-to-take-the-subway",
+    "tags": [
+      "solve",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-09",
+    "summary_en": "The article chronicles Los Angeles’ long‑term struggle with transit, from Henry Wilshire’s 1895 boulevard donation that forbade rail, through the 20th‑century streetcar heyday, the post‑war car‑centric boom, and the recent revival of the Metro D Line. It blends historical narrative, political maneuvering, and current safety concerns to paint a nuanced picture of a city still skeptical of public transport. The piece’s strength lies in its contextual depth: it explains how policy, identity, and investment have shaped ridership, and it foregrounds the D Line’s potential to shift a traffic‑dependent metropolis toward a transit‑first ethos. For readers, it offers a critical lens on how infrastructure can both reflect and influence cultural attitudes, and it raises questions about safety, equity, and the future of urban mobility. The article encourages thoughtful engagement with the challenges of building sustainable transit in a sprawling, car‑obsessed environment, while also highlighting the tangible benefits that new rail can bring to daily commuters and the wider economy.",
+    "summary_zh": "文章以历史与现实交织的视角，阐释洛杉矶为何长期排斥地铁以及为何如今终于迎来D线延伸。它不仅重现了城市名字与道路背后的政治博弈，还细致描绘了安全、身份认同以及投资对乘客使用态度的影响。透过对过去街车、油气危机和社会恐慌的回顾，作者让读者深思基础设施与文化认知的双向影响，激发对未来公共交通转型的思考。",
+    "best_quote_en": "“The fearmongering failed. Digging for the new D Line project began in 2018; six years later, boring machines finished their dig after reaching the line’s new terminus at the Veterans Affairs campus in Brentwood.”",
+    "best_quote_zh": "“恐吓论未能成功。2018年开始挖掘新的D线项目，六年后，掘进机完成挖掘，抵达布伦特伍德退伍军人事务院的新终点。”"
+  },
+  {
+    "id": 585,
+    "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+    "title_zh": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
+    "tags": [
+      "update",
+      "medicine",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-05-07",
+    "summary_en": "The episode delves into neuromodulation—particularly deep brain stimulation (DBS)—as a frontier treatment for compulsive disorders such as OCD, binge‑eating disorder, and depression. Dr. Casey Halpern, a neurosurgery professor at UPenn, explains the neurocircuitry underpinning compulsions, cravings, and impulsivity, detailing how DBS can precisely target the nucleus accumbens and other limbic structures to modulate pathological behavior. He also surveys emerging non‑invasive modalities like transcranial magnetic stimulation and highlights the role of artificial intelligence in predicting harmful impulses. The discussion balances clinical evidence with mechanistic insight, offering clinicians a roadmap for integrating neuromodulation into personalized care while cautioning against over‑enthusiastic application. For researchers, the episode underscores the need for longitudinal, data‑driven studies to refine stimulation parameters and ethical frameworks for brain‑based interventions. The content is highly actionable for neurologists, psychiatrists, and tech‑savvy clinicians seeking cutting‑edge, evidence‑based strategies to curb compulsive behavior and improve patient outcomes.",
+    "summary_zh": "Dr. Casey Halpern 详细阐述了深脑刺激（DBS）在治疗强迫症、暴食症和抑郁等冲动障碍中的最新进展，揭示了奖赏回路与冲动控制的神经机制，并探讨了非侵入性技术与人工智能预测的前景。对神经外科、精神科及科研人员具有高度实用与前瞻价值。",
+    "best_quote_en": "\"Deep brain stimulation allows us to intervene directly in the neural circuits that drive compulsive behavior, giving patients a new lease on life that pharmacotherapy alone cannot provide.\"",
+    "best_quote_zh": "\"深脑刺激让我们可以直接干预驱动强迫行为的神经回路，为患者提供药物治疗无法实现的新生机会。\""
   }
 ]
