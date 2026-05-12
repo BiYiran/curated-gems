@@ -1,123 +1,5 @@
 [
   {
-    "id": 487,
-    "title": "Why Startup Hubs Work",
-    "title_zh": "为什么创业中心有效",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hubs.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "The article demystifies why certain cities become fertile grounds for startups by framing the problem not as a failure of towns but as a default death rate for new ventures that most places fail to rescue. Through the lens of Silicon Valley, the author articulates two intertwined antidotes: a culture that treats entrepreneurship as a normal, even fashionable, pursuit, and a high-density network that creates serendipitous, life‑changing encounters. The narrative blends personal anecdotes—Y Combinator’s early days, chance meetings with Sean Parker—and empirical observations, such as the correlation between startup density and the availability of niche expertise. It underscores that high density fuels both risk tolerance and resource diversity, while the social norm of selfless collaboration reduces the zero‑sum illusion that often stifles innovation. The piece invites readers to reflect on the role of community in scaling ideas, suggesting that the same principles apply to any ambitious endeavor. It is a compelling blend of thought leadership, actionable insight, and data‑driven reasoning that encourages founders to seek or build hubs rather than merely chasing funding.  ",
-    "summary_zh": "作者把创业失败的原因从“城市本身杀死创业”转向“创业默认死亡”，并提出硅谷成功的两大要素：把创业当成常态的文化和高密度的创业者网络。通过个人经历和数据，阐明高密度既能降低风险厌恶，也能提供稀缺资源。文章不仅是对创业生态的深度剖析，更是对任何敢想敢做者的启示，提示社区与合作是成功的关键。",
-    "best_quote_en": "The antidote is people.  It's not the physical infrastructure of Silicon Valley that makes it work, or the weather, or anything like that.  Those helped get it started, but now that the reaction is self‑sustaining what drives it is the people.",
-    "best_quote_zh": "拯救剂是人。硅谷之所以有效，并非建筑物、天气，或者任何其他东西。它们帮助起步，但现在自我维持的反应是由人驱动的。"
-  },
-  {
-    "id": 488,
-    "title": "My Last 7 Blog Posts: a weekly round-up",
-    "title_zh": "我的最近 7 篇博客：每周综述",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/EvNyhQJrocokwbPs9/my-last-7-blog-posts-a-weekly-round-up",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "This weekly roundup offers a candid snapshot of the author’s evolving engagement with AI safety, ethics, and the broader implications of artificial intelligence. By reflecting on his graduate‑school beginnings, critiquing influential pieces (such as Anton Leicht’s stance on AI pauses), and debating concepts from post‑scarcity to the proliferation of artificial life, the author positions himself as a thoughtful commentator who challenges mainstream assumptions. The meta‑analysis of his own subscriber dynamics adds a valuable layer of media strategy insight, illustrating how content density can affect audience retention. Overall, the post blends personal narrative with critical discourse, providing readers with actionable reflections on both the technical and societal dimensions of AI development. It encourages a balanced, skeptical approach to hype and invites practitioners to assess the real costs of progress.",
-    "summary_zh": "作者用自我剖析的方式，回顾了过去一周对 AI 安全、后稀缺与人工生命等议题的思考。通过批判主流观点并结合自身订阅者流失数据，呈现了技术与传播双重视角，启发读者对 AI 发展进行更具批判性与实践性的反思。",
-    "best_quote_en": "\"I think that’s intuitively a bad idea, but here I give three particular reasons.\"",
-    "best_quote_zh": "\"我认为这直觉上是个坏主意，但我给出了三个具体原因。\""
-  },
-  {
-    "id": 489,
-    "title": "The Spurs Are the Most Exciting Team in the N.B.A.",
-    "title_zh": "圣安东尼奥马刺是NBA最激动人心的球队",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/the-spurs-are-the-most-exciting-team-in-the-nba",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-04-19",
-    "summary_en": "The article paints a vivid portrait of the San Antonio Spurs’ resurgence, centering on veteran star Victor Wembanyama’s unconventional training, leadership, and the team’s cultural shift. By weaving anecdotes from Shaolin kung fu, the narrative illustrates how a player’s mindset can transform a franchise’s identity—from a historically dominant squad to a revitalized, fan‑centric powerhouse. The piece offers actionable insights into team building: blending youth with veteran experience, fostering a shared identity through rituals (the head‑shaving anecdote), and leveraging a star’s charisma to galvanize both players and supporters. For readers, it is a compelling case study in sports psychology, brand management, and strategic roster construction, prompting reflection on how intangible factors—confidence, adaptability, and unity—can eclipse traditional metrics. The narrative invites coaches, executives, and fans alike to reconsider the role of culture and leadership in driving competitive success, underscoring the idea that a team’s ‘spirit’ can be as decisive as its talent.\n",
-    "summary_zh": "文章通过维姆巴扬的奇特训练与马刺文化蜕变，揭示明星领袖如何重塑球队精神与品牌。它兼具案例研究与启示，提醒教练、经理与球迷：团体凝聚力与心理韧性往往决定胜负。",
-    "best_quote_en": "\"He could dunk without jumping, and he blocked shots so easily that before long all it took to stop an opposing ball handler was an intimidating glare.\"",
-    "best_quote_zh": "“他能不跳就扣篮，能轻易封盖球员，几乎只需一个令人畏惧的目光就能阻止对手。”"
-  },
-  {
-    "id": 490,
-    "title": "Paint pens / Budget espresso / AI bird feeder",
-    "title_zh": "Paint pens / Budget espresso / AI bird feeder",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/paint-pens-budget-espresso-ai-bird-feeder/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-19",
-    "summary_en": "This eclectic roundup showcases how modest innovations can profoundly enhance everyday life, from a $3.99 digital art book that democratizes access to vibrant Asian imagery, to a budget espresso machine that delivers café‑quality shots for under $200. The AI‑powered Birdfy feeder transforms backyard observation into a data‑rich, interactive experience, underscoring how machine learning can democratize wildlife monitoring. Sharpie paint pens demonstrate the power of inexpensive, versatile tools to unlock creative expression across unconventional surfaces. The reflective piece on “play” invites readers to reframe outrage as a call for communal creativity and resilience, while the Wikipedia app example illustrates geospatial discovery as an engaging way to connect with local culture. Together, these snippets illustrate a common theme: small, thoughtful products and ideas can create outsized impact on learning, creativity, and community engagement. They also hint at broader implications—how democratized tech, affordable design, and intentional play can reshape habits, foster curiosity, and build resilience in a fast‑moving world.",
-    "summary_zh": "这篇杂文汇集了低价却高效的科技与创意产品：3.99美元的数字艺术书、200美元以下的咖啡机、AI鸟类识别喂食器、Sharpie油漆笔以及一篇关于“玩耍”的观点。它们共同展示了如何用小成本、易获取的创新改变日常生活，激发学习、创作与社群互动的可能。",
-    "best_quote_en": "The invitation is that in a culture addicted to outrage, choosing to play—freely, creatively, and with others—is itself a radical act of resistance and repair.",
-    "best_quote_zh": "在愤怒文化中，选择玩耍——自由、创造性、与他人一起——本身就是一种激进的抵抗与修复行为。"
-  },
-  {
-    "id": 491,
-    "title": "‘Will they kill us too?’ Murder of leading feminist has chilling effect on Iraq’s activists",
-    "title_zh": "‘他们会杀我们吗？’ 领先女权主义者被谋杀，伊拉克活动家恐慌",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/apr/21/iraq-yanar-mohammed-assassination-women-rights-activists-feminist-yazidi",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "The brutal assassination of Yanar Mohammed—a pioneer of women’s shelters and a vocal critic of extremist violence—has sent shockwaves through Iraq’s fragile civil society. In a country where the law now permits child marriage and gender-based violence remains rampant, Mohammed’s death underscores the paradox of progress: the very institutions and individuals striving for change become targets. The article chronicles her legacy—11 safe houses, empowerment programs, and relentless advocacy—while documenting the chilling silence that follows each subsequent murder of a female activist. It raises critical questions about state accountability, the role of organized civil defense, and the resilience of grassroots movements in hostile environments. For readers, the piece offers a compelling case study of the stakes of feminist activism, the tactics of intimidation, and the urgent need for legal protection for human rights defenders. It invites reflection on how societies can safeguard dissent and preserve the momentum of gender justice in the face of systemic violence.",
-    "summary_zh": "伊拉克女权先驱亚纳尔·穆罕默德被谋杀，揭露了女性活动家在暴力与法律缺失交织下的脆弱与勇气。她的11处安全屋与教育项目成为希望的灯塔，却也让她成为极端势力的目标。文章以案例为线索，探讨国家缺位、执法失职与社会恐惧如何压制言论自由。它提醒我们，真正的进步需要法律与社会双重保障，才能让女性在逆境中继续发声。",
-    "best_quote_en": "\"She didn’t view women as victims, but as survivors capable of saving others.\"",
-    "best_quote_zh": "\"她不把女性视为受害者，而是将她们视为能够拯救他人的幸存者。\""
-  },
-  {
     "id": 492,
     "title": "The Patent Pledge",
     "title_zh": "The Patent Pledge",
@@ -2342,5 +2224,123 @@
     "summary_zh": "文章揭示电影中缺乏‘女自闭’叙事的严重性，批评主流媒体因“仁慈性别歧视”而忽视女性在极端主义中的作用，呼吁深入研究女性极端化背后的数据与社会机制，从而挑战性别刻板印象并推动更全面的社会对话。",
     "best_quote_en": "The lack of representation is all the more glaring amid the rise of tradwife culture and the wellness to ‘alt‑right’ pipeline.",
     "best_quote_zh": "电影的尝试理解女性的黑暗在线倾向往往限于高度美学化的影片，真正探讨女性极端化的作品仍然罕见。"
+  },
+  {
+    "id": 587,
+    "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women",
+    "title_zh": "前所未有的全球努力为多囊卵巢综合征赋予新名称——为数百万女性带来新希望",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/ng-interactive/2026/may/12/polycystic-ovary-syndrome-pcos-new-name-polyendocrine-metabolic-ovarian-syndrome-pmos",
+    "tags": [
+      "guide",
+      "medicine",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "The renaming of polycystic ovary syndrome (PCOS) to polyendocrine metabolic ovarian syndrome (PMOS) marks a watershed moment in women's health, reflecting a decade‑long, patient‑driven coalition that finally corrected a misleading label. By shifting focus from the mythic “cysts” to the broader endocrine and metabolic dimensions of the disorder, the new terminology promises earlier recognition, more holistic care, and a reduction in the stigma that has long plagued sufferers. The story of Maddy Mavrikis and countless others underscores the cost of misdiagnosis and the power of patient advocacy. Clinicians now face the challenge of integrating this new nomenclature into practice, updating guidelines, and educating both medical professionals and the public. The change is more than semantic; it signals a paradigm shift toward a systems‑level understanding of a complex, multi‑organ disease. Future research will need to measure whether the new name translates into improved outcomes, and policy makers must ensure that reimbursement and research funding align with this broader perspective. The renaming exemplifies how collaborative, inclusive dialogue can reshape medical discourse and offer tangible hope to millions of women worldwide.",
+    "summary_zh": "这次从PCOS到PMOS的命名变革，既是医学史上的里程碑，也是女性健康史上的一次觉醒。它纠正了误导性标签，强调了内分泌与代谢的全局视角；同时也提醒我们，患者声音的力量能重塑医学议程。新名称的落地，将推动诊疗指南更新、公众教育与科研投入的转型，真正把多囊卵巢综合征从“只看卵巢”走向“全身代谢”。这不仅是一次词汇的调整，更是对女性健康整体化、系统化的再确认。",
+    "best_quote_en": "They wanted it fixed… They know how much they have suffered because of the name, and they were really passionate.",
+    "best_quote_zh": "他们想要它被修正……他们知道因为这个名字他们受了多少苦，他们真的很有激情。"
+  },
+  {
+    "id": 588,
+    "title": "The Anatomy of Determination",
+    "title_zh": "决心的结构",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/determination.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "The piece dissects the elusive engine behind startup triumph—determination—and unpacks it into three interlocking pillars: willfulness, discipline, and ambition. It argues that talent, while valuable, is often overvalued by narrative and that true success hinges on a balanced, disciplined will that is constantly recalibrated against temptation. Ambition acts as the compass, steering the will-discipline axis toward meaningful goals. The author further contends that love for the work itself can substitute for determination, yet most ventures require a deliberate coupling of ambition and discipline to bridge the gap between desire and deliverable. Practical take‑aways emerge: cultivate self‑discipline, seek ambitious peer groups, and recalibrate ambition through incremental achievements. The essay’s insights resonate beyond venture capital, offering a framework for any high‑stakes endeavor where perseverance, focus, and goal‑setting are paramount. It invites readers to reflect on their own balance of will and discipline, and to actively shape the environments that nurture ambition.\n",
+    "summary_zh": "文章把创业成功的“决定性”拆解为三要素：意志、纪律与雄心。作者指出，智力虽重要，却被夸大；真正决定成败的是平衡的意志与自律，并以雄心为航向。文章强调，热爱工作可弥补决心，但大多数创业需要主动培养雄心、寻找志同道合者，并通过小步成就不断提升自律。它为任何高风险领域提供了可操作的思维框架，促使读者审视自身意志与纪律的平衡，并主动营造鼓励雄心的环境。",
+    "best_quote_en": "\"Determination is the product of will and discipline, and ambition is how you choose the destination.\"",
+    "best_quote_zh": "“决心是意志与纪律的产物，雄心决定了你选择的方向。”"
+  },
+  {
+    "id": 589,
+    "title": "When should an AI incident trigger an international response? Criteria for international escalation and implications for the design of AI incident frameworks",
+    "title_zh": "何时应将AI事件升级为国际响应？国际升级的标准与AI事件框架设计的启示",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6jRpMGEYb2fyY96D9/when-should-an-ai-incident-trigger-an-international-response",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "This article presents a rigorously tested eight‑criterion framework that delineates when an AI incident warrants international escalation. It moves beyond policy rhetoric to operational detail, mapping incident pathways, defining severity scales, and highlighting data and definition gaps that undermine current frameworks like the EU AI Act and SB 53. The authors argue that early, pattern‑based triggers—especially for CBRN threats, model‑weight exfiltration, and large‑scale manipulation—are essential to close the intervention window. By exposing under‑detection patterns, the paper offers a roadmap for regulators and developers to refine thresholds, create interoperable data schemas, and institutionalize cross‑border coordination. The piece is a must‑read for AI governance scholars, policy makers, and industry leaders seeking actionable, data‑driven, and future‑focused safeguards in a rapidly globalizing AI ecosystem.",
+    "summary_zh": "文章提供了八条标准的国际升级框架，揭示了现行法规缺口，强调早期模式化触发的重要性。对监管者与企业的AI治理实践具有实用性与前瞻意义。",
+    "best_quote_en": "‘Thresholds and triggers for international escalation must be designed to isolate incidents requiring cross‑border coordination for containment, mitigation, and shared response.’",
+    "best_quote_zh": "‘国际升级的阈值和触发条件必须被设计为隔离需要跨境协调以实现遏制、缓解和共享响应的事件。’"
+  },
+  {
+    "id": 590,
+    "title": "The Fate of Twenty-one Los Angeles Siblings",
+    "title_zh": "二十一名洛杉矶兄弟姐妹的命运",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-fate-of-twenty-one-los-angeles-siblings",
+    "tags": [
+      "analyze",
+      "legal",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-05-11",
+    "summary_en": "This investigative piece exposes a shocking case of surrogacy‑driven family creation gone horribly wrong, where a wealthy couple amassed twenty‑one children through paid gestational carriers, only to subject them to abuse and neglect. The narrative intertwines police investigations, child‑welfare court rulings, and the broader regulatory vacuum that allows such arrangements. The article not only documents chilling video evidence and court proceedings but also contextualizes the incident within a national debate over the ethics and oversight of commercial surrogacy. It prompts critical questions about the adequacy of current laws, the responsibilities of all parties involved, and the moral cost of treating children as commodities. For readers, the piece serves as a cautionary case study, a call to action for policy reform, and a sobering reminder of how systemic gaps can become lethal when exploited.",
+    "summary_zh": "这篇调查报道揭露了一个通过代孕组建的二十一口之家在洛杉矶的可怕现实：父母以高额报酬雇佣代孕母亲，却让孩子们在家中遭受虐待与忽视。文中融入警方取证、法院裁决与代孕监管空白的讨论，展示了当前美国代孕法律的薄弱与失衡。它既是警示案例，也是对立法改革的呼吁，也是对把孩子当作商品的社会现象的深刻反思。",
+    "best_quote_en": "\"Incredibly permissive laws make it easy to create children through surrogacy with no regard to their well‑being,\" the article quotes policy analyst Emma Waters.",
+    "best_quote_zh": "“在极度宽松的法律环境下，代孕变成了一种不顾孩子福祉的商业活动，”文章引用政策分析师Emma Waters的话。"
+  },
+  {
+    "id": 591,
+    "title": "Telephony",
+    "title_zh": "Telephony",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/telephony/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-05-11",
+    "summary_en": "This article curates a handful of under‑the‑radar telephony tools that blend simplicity, affordability, and a touch of future‑proofing, offering clear, actionable guidance for both solo entrepreneurs and small teams. It opens with UberConference’s free, PIN‑less web‑based conference calls—a practical solution for quick, low‑friction collaboration. Google Voice is praised for its “one‑number‑to‑rule‑them‑all” philosophy, highlighting its carrier‑independence, voicemail customization, and web‑based text integration—an indispensable hub for anyone juggling multiple devices. The piece then pivots to hardware, championing lightweight headsets for ergonomic, hands‑free productivity, and a compact Mini Phone Recorder that has become a journalist’s silent companion. Finally, LucyPhone’s hold‑music bypass illustrates how a simple script can turn a frustrating customer‑service loop into a seamless hand‑off. Across the board, the narrative underscores how thoughtful, low‑cost tools can elevate communication, reduce friction, and free up cognitive bandwidth for more strategic work. It invites readers to re‑imagine their daily telephony habits with a mix of proven legacy gear and modern SaaS conveniences, reinforcing the idea that “good tools” are often overlooked yet profoundly transformative.",
+    "summary_zh": "这篇文章汇总了一系列低成本、易用的电话工具，从UberConference的免费会议到Google Voice的“一号号码”理念，再到轻量化耳机和便携录音机，最后以LucyPhone解锁排队烦恼。作者强调，细节技术能大幅提升沟通效率与健康，提醒读者重新审视日常电话习惯。",
+    "best_quote_en": "\"One number for everything. No more worrying about porting or losing numbers, or having to inform anyone of a change.\"",
+    "best_quote_zh": "“一次号码，万物皆可接。”"
   }
 ]
