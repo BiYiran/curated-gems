@@ -1,121 +1,5 @@
 [
   {
-    "id": 492,
-    "title": "The Patent Pledge",
-    "title_zh": "The Patent Pledge",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/patentpledge.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "In August 2011, the author proposes a grassroots solution to the patent abuse problem that has been traditionally pursued only through slow governmental reform: a public ‘patent pledge’ that tech companies voluntarily adopt, promising not to sue startups with fewer than 25 employees. The pledge’s genius lies in its simplicity and its leverage of reputational pressure—investors, talent, and consumers can quickly identify and ostracize the ‘patent troll’ companies that refuse to join. By framing the pledge as an open‑source, non‑binding code of conduct, the author turns a policy idea into an actionable social contract that can be scaled by any company, big or small. The piece balances optimism—most tech firms already behave responsibly—with realism about the pledge’s limits (it won’t stop trolls or large‑scale litigation). The article ultimately invites the reader to act: ask your employer, sign the pledge, or encourage others to do the same. Its voice is a blend of critical insight, humility, and a call to collective moral responsibility, making it a persuasive, thought‑leading manifesto for anyone who cares about healthy innovation ecosystems.",
-    "summary_zh": "作者提出一项可操作的自愿专利誓约，鼓励技术公司不对员工不足25人的初创企业提起诉讼，借此以声誉压力压制专利滥用。其核心在于简洁、可扩展且非法律约束，既能维护创新，又可被企业自发采纳。文章兼具批判与乐观，既指出誓约局限，又号召读者行动，体现对创新生态的深切关注。",
-    "best_quote_en": "The patent pledge is in effect a narrower but open source \"Don't be evil.\"",
-    "best_quote_zh": "专利誓约实际上是更狭窄但开源的\"别做坏事\"。"
-  },
-  {
-    "id": 493,
-    "title": "Informal Leadership Structures and AI Safety",
-    "title_zh": "非正式领导结构与AI安全",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/G5eiJWtZAmNqaoJMx/informal-leadership-structures-and-ai-safety",
-    "tags": [
-      "solve",
-      "leadership",
-      "startup-funding"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "创业融资"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "In this thought‑provoking piece, LawrenceC interrogates the paradox of a thriving AI safety community that has deliberately eschewed formal leadership while inadvertently allowing informal power hubs to emerge. The author maps the influence of key actors—Open Philanthropy, Anthropic, and the Constellation network—showing how funding, research output, and social proximity conspire to create covert authority. He argues that this covert structure erodes accountability, invites mis‑representation by external media, and risks co‑optation by charismatic but potentially unscrupulous figures. By juxtaposing the ideal of shared responsibility with the reality of entrenched networks, the essay calls for a deliberate, transparent governance model that balances broad participation with clear accountability. The piece is both a cautionary analysis and a roadmap, urging the community to institutionalize leadership roles, expand grant‑making capacity responsibly, and guard against future “star” cooptation. Its insights are invaluable for scholars of AI governance, effective‑altruism activists, and policy makers concerned with aligning incentives in high‑stakes research ecosystems.",
-    "summary_zh": "作者揭示AI安全社群在拒绝正式领导的同时，如何无意中让非正式权力中心占据主导。对Open Philanthropy、Anthropic、Constellation等关键主体的分析，说明资金、研究与社交网络如何形成隐蔽权威，削弱问责并招致外部误读。文章既是警示也是行动指南，呼吁建立公开透明的治理结构，扩充审慎的资助能力，防止明星化风险。对AI治理和有效利他主义者具有重要启示。",
-    "best_quote_en": "\"The problem with informal leadership is two fold: firstly, that it ensures that the leadership structures are covert and unaccountable.\"",
-    "best_quote_zh": "“非正式领导的两大问题：首先，它使领导结构变得隐蔽且缺乏问责。”"
-  },
-  {
-    "id": 494,
-    "title": "How Professional Wrestling Prepared Linda McMahon for Trump’s Cabinet",
-    "title_zh": "How Professional Wrestling Prepared Linda McMahon for Trump’s Cabinet",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/linda-mcmahon-profile",
-    "tags": [
-      "solve",
-      "politics",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "The piece dissects Linda McMahon’s evolution from a wrestling executive to a political operative, using her WWE tenure as a crucible for power‑play, brand management, and crisis navigation. It exposes how the theatrics of wrestling—storyline manipulation, audience engagement, and ruthless business acumen—translated into a Cabinet style marked by blunt pragmatism, aggressive downsizing, and a willingness to dismantle institutions that no longer served partisan goals. The narrative juxtaposes McMahon’s public persona—maternal, approachable, and “kind”—against the backdrop of a highly volatile, often abusive partnership with Vince McMahon, revealing a pattern of compartmentalization between personal values and political expediency. The analysis argues that her wrestling background sharpened her ability to orchestrate public perception, rally support, and control narrative, but also fostered a destructive work ethic that manifested in the wholesale contraction of the Department of Education. The article critiques the ethics of such sweeping cuts and questions the long‑term impact on public education, civil‑rights enforcement, and federal oversight. It invites readers to consider how entertainment‑derived leadership models can both energize and destabilize democratic institutions.",
-    "summary_zh": "文章以琳达·麦考马斯的摔跤生涯为线索，剖析其如何将戏剧化管理、观众操控与高压决策融入教育部长的角色。她的“母亲”形象与暴力合作伙伴的双重身份，映射出对权力的分层运用与道德妥协。文章批评其对教育局的拆解与政策推行，质疑此举对公共教育与民权执法的长期冲击。它提醒读者，娱乐式领导既能激发人心，也可能削弱制度稳定。",
-    "best_quote_en": "The wrestling arena taught her one thing above all: that the audience loves a good spectacle, and that the spectacle can be used to silence dissent and shape reality.",
-    "best_quote_zh": "摔跤场最重要的教训是，观众热爱戏剧，戏剧可以用来压制异议并塑造现实。"
-  },
-  {
-    "id": 495,
-    "title": "Drawing",
-    "title_zh": "绘画",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/drawing/",
-    "tags": [
-      "solve",
-      "education",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "The article blends a pedagogical treatise on visual perception with practical gear reviews, forming a holistic guide for anyone seeking to elevate their drawing craft. It argues that drawing is a teachable skill, rooted in the right‑brain’s perceptual abilities, and that structured exercises—such as upside‑down copying and negative‑space drawing—unlock this potential. The narrative underscores the left hemisphere’s resistance to creative work and offers simple counter‑strategies that can be applied beyond art, positioning perception training as a transferable innovation skill. The gear section, while tangential, reinforces the theme of precision: a dual‑hole sharpener and a lead pointer that maintain a consistently fine point, and a plastic eraser that preserves paper integrity. Together they illustrate how the right tools can mirror the right‑brain focus. The piece invites readers to rethink drawing from a cognitive science framework, blending theory with actionable practice, and subtly argues that artistic fluency is not an innate talent but a disciplined, perceptual habit.",
-    "summary_zh": "文章以右脑感知训练为核心，阐述绘画是可学的技能，提供逆向复制、阴影空间练习等实用方法，并强调左脑的抵制与克服策略。配合精准的铅笔修整器与擦除工具，展示工具与思维的契合。它让我们看到，绘画不只是天赋，而是可培养的感知习惯。",
-    "best_quote_en": "Drawing is a curious process, so intertwined with seeing the that the two can hardly be separated.",
-    "best_quote_zh": "绘画是一种好奇的过程，它与观察紧密相连，几乎无法分离。"
-  },
-  {
-    "id": 496,
-    "title": "Feeling flush with Izal mementoes | Brief letters",
-    "title_zh": "Feeling flush with Izal mementoes | Brief letters",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/apr/21/feeling-flush-with-izal-mementoes",
-    "tags": [
-      "inspire",
-      "education",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "The piece weaves a humorous yet historically grounded narrative around Izal antiseptic toilet roll, spotlighting its wartime service and the absurd anecdote that soldiers once wiped themselves on a picture of Hitler. By juxtaposing wartime anecdotes with contemporary consumer culture—sustainable jeans from charity shops, the Proms’ musical notes, and bread‑baking nostalgia—the author invites readers to reflect on how mundane objects anchor collective memory. The letter format, a staple of the Guardian’s commentary, lends authenticity and invites communal dialogue about hygiene, gendered experiences of incontinence, and the commodification of nostalgia. While the tone is light, the underlying critique of how history is commercialized and the role of women in maintaining public hygiene surfaces. The article thus serves both as an entertaining historical vignette and a subtle commentary on consumerism, memory, and the persistence of wartime narratives in modern society.",
-    "summary_zh": "文章以幽默方式回顾Izal消毒卫生纸在两次世界大战中的使用，特别是士兵用希特勒照片擦拭自己的荒唐细节。作者将此历史逸事与当代可持续牛仔裤、普罗姆音乐与烘面包等日常话题相连，提示读者思考日常物品如何承载集体记忆，并从消费主义视角审视历史的商业化。文章以信件形式呈现，既贴近读者，又引发关于女性尿失禁与公共卫生的讨论，体现了历史与当代记忆的交织。",
-    "best_quote_en": "During the second world world war, ‘you could wipe yourself on a picture of Hitler’.",
-    "best_quote_zh": "在第二次世界大战期间，你可以用希特勒的照片擦拭自己。"
-  },
-  {
     "id": 497,
     "title": "Subject: Airbnb",
     "title_zh": "Airbnb",
@@ -2342,5 +2226,121 @@
     "summary_zh": "这篇文章汇总了一系列低成本、易用的电话工具，从UberConference的免费会议到Google Voice的“一号号码”理念，再到轻量化耳机和便携录音机，最后以LucyPhone解锁排队烦恼。作者强调，细节技术能大幅提升沟通效率与健康，提醒读者重新审视日常电话习惯。",
     "best_quote_en": "\"One number for everything. No more worrying about porting or losing numbers, or having to inform anyone of a change.\"",
     "best_quote_zh": "“一次号码，万物皆可接。”"
+  },
+  {
+    "id": 592,
+    "title": "‘Why do I need to change?’: the brides saying no to costly pre-wedding glow-ups",
+    "title_zh": "‘为什么我需要改变？’：拒绝昂贵的婚前美颜的新人",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/may/12/brides-beauty-standards-wedding-glow-up",
+    "tags": [
+      "analyze",
+      "medicine",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "This Guardian piece interrogates the relentless march of 2026 bridal beauty standards, exposing how social media, influencer culture, and the booming ‘insecurity industry’ coerce brides into costly, often unnecessary cosmetic pursuits. Through intimate interviews with brides who chose authenticity over alteration, the article reveals that the pressure to look perfect is not merely aesthetic but a social contract that equates appearance with worth. It also highlights the psychological toll of constant self‑scrutiny and the financial drain on couples, presenting a counter‑narrative that prioritizes self‑acceptance and present‑moment joy. Readers gain practical insights into how to resist the beauty treadmill, and a broader understanding of how consumer culture commodifies femininity. The piece invites reflection on the ethical dimensions of beauty advertising and encourages a cultural shift toward inclusivity and mental wellness in wedding planning.",
+    "summary_zh": "文章揭示婚礼美颜产业对新娘的心理与经济双重压迫，呼吁自我接纳与当下体验；它透过真实案例，批判包装的‘完美’标准，提醒读者重视内在价值与身心健康。",
+    "best_quote_en": "\"I don’t owe anyone anything except for myself on my wedding day.\"",
+    "best_quote_zh": "\"我只欠自己在婚礼那天的责任。\""
+  },
+  {
+    "id": 593,
+    "title": "What Kate Saw in Silicon Valley",
+    "title_zh": "Kate在硅谷看到的事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kate.html",
+    "tags": [
+      "guide",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略"
+    ],
+    "date": "2026-05-13",
+    "summary_en": "Kate Courteau, the architect behind Y C’s office, shares an insider’s snapshot of startup life in a brief but revealing list. The piece underlines the relentless risk of failure even for celebrated founders, the fluidity of startup ideas—half pivot by Demo Day—and the startlingly low capital barrier, where a tiny renovation costs less than a fledgling venture. It celebrates the scrappy ethos prized in Silicon Valley, contrasting it with the more formal, hierarchical norms of architecture. The narrative highlights how founders thrive on rapid launch, user feedback, and iteration, a principle that has become industry standard yet was once contrarian. It also notes the quiet, solitary work habits demanded by tech startups versus the collaborative nature of traditional professions. Kate’s observations provide a candid, data‑rich guide for entrepreneurs, investors, and observers alike, offering actionable insights into the culture, resilience, and human dynamics that underpin startup success.\n\nThe piece is a valuable primer for those studying startup ecosystems, offering nuanced, anecdotal evidence that complements theoretical models. It underscores the importance of adaptability, community, and a willingness to break from convention—critical lessons for anyone aiming to navigate or influence the tech‑driven economy.\n\nOverall, the article is a compelling, thought‑provoking read that blends personal observation with broader industry patterns, making it both educational and inspirational for aspiring founders and seasoned investors.",
+    "summary_zh": "Kate Courteau 在硅谷的观察让我们看到创业的真实面貌：失败常态、创意不断迭代、起步成本低廉、创业者的顽强与灵活。她指出，快速发布、倾听用户并快速迭代已成为标准，甚至是必要的生存策略。文中还揭示了创业者在孤独工作与社群支持间的拉锯，以及与传统行业的文化差距。对创业者、投资人乃至学术研究者都具有启示意义，强调适应力、社区与敢于突破传统的重要性。",
+    "best_quote_en": "\"By Demo Day about half the startups were doing something significantly different than they started with.\"",
+    "best_quote_zh": "\"最重要的是，创始人要有可以请教的人。没有建议，他们就会迷失。\""
+  },
+  {
+    "id": 594,
+    "title": "Probabilistic, Reformative Justice",
+    "title_zh": "概率性改革性司法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/dqbhcm6g7CMWvhoid/probabilistic-reformative-justice",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-13",
+    "summary_en": "The post reframes criminal adjudication through a dual‑axis taxonomy—punitive/reformative versus binary/probabilistic—proposing that sentencing should hinge on the posterior probability of guilt rather than a hard guilty/innocent verdict. By invoking Fisher’s *Conviction Without Conviction* and Foucault’s critique of binary punishment, the author argues that a probabilistic loss function aligns better with reformative goals of crime reduction and rehabilitation. The analysis acknowledges cultural inertia, public preference for clear verdicts, and the risk of slide into surveillance or injustice, yet posits that incremental shifts already exist in mental‑health interventions. The piece is thought‑provoking, blending legal theory, statistical reasoning, and ethical critique, and invites practitioners to rethink sentencing models beyond the entrenched binary paradigm. Its conceptually rigorous yet accessible exposition makes it valuable for scholars, policymakers, and reform advocates seeking nuanced, evidence‑based justice reforms.",
+    "summary_zh": "作者通过惩罚/改革与二元/概率两轴框架，主张判决应依据嫌疑人罪行概率而非二元判决，呼吁司法系统向更适合犯罪预防与康复的概率性失误函数转变，兼顾文化阻力与风险，提供深刻的法理与统计交叉视角。",
+    "best_quote_en": "\"The sentence and the verdict should be conditionally independent given the probability of having committed the crime.\"",
+    "best_quote_zh": "“判决和定罪应在犯罪可能性条件下相互独立。”"
+  },
+  {
+    "id": 595,
+    "title": "Your Idea Starts Here / Goatman",
+    "title_zh": "你的想法从这里开始 / 山羊人",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/your-idea-starts-here-goatman/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "Both books offer unconventional pathways to creativity and self‑reflection, each framed around a playful narrative that invites readers to step outside routine thinking. Carolyn Eckert’s *Your Idea Starts Here* delivers 77 concrete exercises—ranging from mundane routine tweaks to radical “stop what you’re doing” prompts—that dismantle creative blockages. The book’s strength lies in its blend of actionable prompts and inspirational anecdotes about inventions such as the potato chip and the Slinky, making it a practical toolkit for designers, writers, and entrepreneurs alike. Thomas Thwaites’s *GoatMan* takes a more whimsical, experiential stance: by literally adopting a goat’s perspective, he critiques human anxieties and the social constructs of productivity. The narrative is richly descriptive, peppered with historical footnotes about goats, and culminates in a satirical critique of modern work culture. Together, the pair challenge conventional wisdom—offering readers both structured exercises and a radical thought experiment to re‑frame their relationship with work, leisure, and imagination. These books are valuable for anyone seeking fresh inspiration, practical methods, or a philosophical reset, blending humor, history, and hands‑on creativity into a compelling read.",
+    "summary_zh": "两本书都以出人意料的方式激发创造力。Eckert 的《你的想法从这里开始》提供 77 个可操作练习，配以发明史趣闻，既实用又鼓舞人心；Thwaites 的《山羊人》则以“变身山羊”实验，讽刺现代工作与焦虑，寓教于乐。两者共同提醒我们：突破惯性，敢于想象，才是创新的根本。",
+    "best_quote_en": "\"If you were using blue, use orange. If it’s square, make it round…\"",
+    "best_quote_zh": "“如果你用蓝色，就换成橙色；如果是方形，就做成圆形……”"
+  },
+  {
+    "id": 596,
+    "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+    "title_zh": "掌握自我控制与克服拖延 | Kentaro Fujita 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/master-self-control-overcome-procrastination-kentaro-fujita",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-11",
+    "summary_en": "This episode with Dr. Kentaro Fujita delves into the science of self‑control, unpacking why single‑dimensional willpower is insufficient and how a multi‑tool approach can sustain motivation. Drawing on decades of research— from the classic marshmallow test to contemporary work on intrinsic versus extrinsic drivers— the discussion offers a nuanced framework for building resilient habits. Fujita critiques the over‑reliance on delayed‑gratification experiments, highlighting their limited ecological validity, and instead proposes a toolkit that blends mindset shifts, motivational framing, and practical scaffolds such as failure exploration and third‑person distancing. The conversation is rich with data‑driven insights, actionable strategies, and a forward‑looking view on how to integrate self‑control into everyday life. Listeners gain a clearer understanding of how to move from intention to consistent action, making the content highly valuable for anyone looking to transform procrastination into productive momentum.",
+    "summary_zh": "与 Kentaro Fujita 博士一起，我们深入探讨自我控制的科学，揭示单一意志力不足以维持长期动力。通过对经典棉花糖实验的批判，结合内在与外在动机的研究，提出多工具方法：心态转变、动机框架和失败探索等。内容数据驱动、可操作，帮助听众把握从意图到行动的关键。",
+    "best_quote_en": "\"Self‑control is not a single muscle; it’s a toolbox that must be tailored to the task, the context, and the person’s values.\"",
+    "best_quote_zh": "\"自我控制不是单一的肌肉，而是一套需要根据任务、环境和个人价值定制的工具箱。\""
   }
 ]
