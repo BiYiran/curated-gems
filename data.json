@@ -1,121 +1,5 @@
 [
   {
-    "id": 497,
-    "title": "Subject: Airbnb",
-    "title_zh": "Airbnb",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnb.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-04-22",
-    "summary_en": "This article offers a rare behind‑the‑scenes look at early-stage venture capital dynamics through an email thread between Paul Graham and Fred Wilson about Airbnb. It reveals how VCs wrestle with skepticism, debate internally, and ultimately decide to invest once they witness founders’ market validation. The narrative underscores the importance of founder‑investor chemistry, iterative learning, and the power of early user engagement in validating a disruptive business model. The piece also highlights the broader ecosystem where investors must persuade each other, a nuanced process often hidden from public view. For entrepreneurs, it serves as a reminder that persistence, clear communication, and evidence of traction can shift even the most doubtful partners. For VCs, it illustrates that disciplined skepticism balanced with openness can uncover game‑changing opportunities. Overall, the thread provides actionable insight into the decision‐making process and the human element behind early tech investments.",
-    "summary_zh": "这段邮件记录让我们窥见早期风投决策的幕后：从怀疑到验证，从内部辩论到最终投资。它提醒创投人需要耐心、沟通与实地验证，而创始人则需展示真实用户需求。",
-    "best_quote_en": "\"Ideas can morph. Practically every really big startup could say, five years later, 'believe it or not, we started out doing ___.'\"",
-    "best_quote_zh": "\"想法可以演变。几乎每个大公司都能说，五年后，‘不管你信不信，我们最初是做___的。’\""
-  },
-  {
-    "id": 498,
-    "title": "Posts I don't have time to write",
-    "title_zh": "我没时间写的帖子",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/MqgwHJ93pJpaeHXs6/posts-i-don-t-have-time-to-write",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-22",
-    "summary_en": "This post is a meta‑reflection on the act of writing itself, narrated as a series of ten brief essays that oscillate between personal anecdote, philosophical musing, and social critique. It functions as a study of the paradoxical nature of online discourse: the desire to share, the fear of being ignored, and the tendency to over‑explain. The author exposes the irony that the most compelling posts are often those that feel like the author is pleading for attention, and that the most honest content can be drowned in self‑parody. The piece is valuable for anyone who wants to understand the mechanics of attention, the limits of self‑presentation on social media, and the cultural pressures that shape our digital self‑expression. It also invites readers to question their own motivations for posting, offering a subtle critique of the performative aspects of online communities. Ultimately, the article is an invitation to think critically about the act of communication and the hidden cost of trying to be heard.",
-    "summary_zh": "这篇短文通过十段自我反思与社会批判，剖析写作与在线表达的矛盾与成本，提醒读者审视自己的发帖动机与信息传递的真实价值。",
-    "best_quote_en": "“I am a busy man and will die knowing I have not said all I wanted to say.”",
-    "best_quote_zh": "“我很忙，终有一天会死去，却没有说完我想说的一切。”"
-  },
-  {
-    "id": 499,
-    "title": "What Nicolás Maduro’s Life Is Like in a Notorious Brooklyn Jail",
-    "title_zh": "尼古拉斯·马杜罗在臭名昭著的布鲁克林监狱里的生活",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-nicolas-maduros-life-is-like-in-a-notorious-brooklyn-jail",
-    "tags": [
-      "update",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "The piece weaves a surreal narrative of a Venezuelan president held in a U.S. federal detention center with rappers, tech moguls, and other high‑profile inmates. It exposes the peculiar human side of imprisonment—Maduro’s solitary confinement, his interactions with 6ix9ine, and the logistical challenges of detaining a head of state. The article also probes the geopolitical ripple effects: Trump’s ambiguous support, Venezuela’s leadership vacuum, and the international optics of detaining a sovereign leader. Readers gain a rare glimpse into the intersection of politics, law enforcement, and media spectacle, underscoring how incarceration can become a stage for power struggles and propaganda. The narrative invites critical reflection on the ethics of high‑profile detentions, the security protocols behind them, and the broader implications for international diplomacy and domestic politics.",
-    "summary_zh": "文章以尼古拉斯·马杜罗在布鲁克林监狱的囚禁生活为线索，交织政治、司法与媒体的戏剧性张力。通过与6ix9ine等高知名度囚犯的互动，揭示了监禁对国家元首的独特挑战与国际政治的连锁反应。",
-    "best_quote_en": "They will never encounter inmates from any other part of the facility, and officials will not put any dangerous inmates in there, which could be a problem.",
-    "best_quote_zh": "他只读圣经。他读每一本圣经。"
-  },
-  {
-    "id": 500,
-    "title": "Groundbreaking Food Gardens / World of Warcraft Chronicle",
-    "title_zh": "突破性的食物花园 / 魔兽世界年鉴",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/groundbreaking-food-gardens-world-of-warcraft-chronicle/",
-    "tags": [
-      "update",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "The article juxtaposes two seemingly disparate books—Niki Jabbour’s visual‑rich design catalog *Groundbreaking Food Gardens* and Blizzard’s lore‑dense *World of Warcraft Chronicle*—to explore how form and content can both inspire and educate. In the gardening tome, the author praises the modular, themed plots that blend practical horticultural advice with historical anecdotes, demonstrating how a well‑structured layout transforms a dense subject into accessible, actionable inspiration. Conversely, the Warcraft chronicle is lauded for its chronological narrative, vivid maps, and high‑quality illustrations that distill the franchise’s sprawling lore into a coherent, tactile companion. Together, the pieces underscore a broader trend: curated, aesthetically driven design can empower hobbyists and fans alike, turning complexity into curiosity. Readers gain not only practical tips for their own gardens but also a template for engaging with intricate fictional worlds. The article invites us to consider how visual storytelling and thoughtful organization elevate both learning and leisure, revealing that the boundary between play and practice is often porous and mutually reinforcing.",
-    "summary_zh": "文章将两本看似迥异的精装书——Niki Jabbour 的《突破性的食物花园》和《魔兽世界年鉴》——并列，以探讨形式与内容如何共同激发与传授。园艺书以模块化主题与实用技巧相结合，呈现易懂的视觉设计；年鉴则以时间线、地图与精美插画，将庞大叙事压缩成易读伙伴。两者共同揭示：精心策划的视觉体验能让爱好者在实践与游戏间自由切换，学习与娱乐相互渗透。",
-    "best_quote_en": "\"Even the most bibliophilic gardener has to admit, it’s hard to find a good gardening book that says or does something new.\"",
-    "best_quote_zh": "\"即使是最热爱书籍的园丁也不得不承认，找到一本真正有新意的园艺书也很难。\""
-  },
-  {
-    "id": 501,
-    "title": "How to find a career you love – for gen Z and everyone else: ‘You don’t want your life’s compass to be dread’",
-    "title_zh": "如何找到自己热爱的职业——适合Z世代与所有人的指南：‘你不想让人生的方向被恐惧所驱使’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-04-23",
-    "summary_en": "Jodi Kantor’s new book, born from her own life upheavals and her investigative legacy, offers a pragmatic roadmap for anyone feeling lost in an era of economic uncertainty and AI disruption. Kantor blends personal anecdotes, psychological insights, and actionable exercises—journaling, risk‑analysis, and human‑networking—to help readers uncover intrinsic passions and translate them into sustainable careers. The piece critically examines the societal narrative that equates ambition with mere wealth, urging a shift toward purpose‑driven work. It also contextualizes the broader anxieties of Gen Z—student debt, climate change, and an opaque job market—presenting a counter‑narrative that embraces uncertainty as a catalyst for growth. The author’s narrative is both inspirational and practical, positioning the book as a guide that balances hope with realistic planning, and underscores the importance of agency in career design.",
-    "summary_zh": "作者借自身经历与调查精神，揭示在AI与全球危机下寻找热爱职业的可行路径。文章以案例与实操为主，强调情绪与风险平衡，鼓励年轻人把目的放在首位，摆脱对财富的盲目追求。",
-    "best_quote_en": "\"You’re not a statistic. It’s important to educate yourself in what’s going on, but those news reports aren’t sentences, you’re still the author of your own life.\"",
-    "best_quote_zh": "\"你不是一个统计数字。了解现状很重要，但那些新闻报道不是判决，你仍是自己人生的作者。\""
-  },
-  {
     "id": 502,
     "title": "Founder Control",
     "title_zh": "创始人控制",
@@ -2342,5 +2226,117 @@
     "summary_zh": "与 Kentaro Fujita 博士一起，我们深入探讨自我控制的科学，揭示单一意志力不足以维持长期动力。通过对经典棉花糖实验的批判，结合内在与外在动机的研究，提出多工具方法：心态转变、动机框架和失败探索等。内容数据驱动、可操作，帮助听众把握从意图到行动的关键。",
     "best_quote_en": "\"Self‑control is not a single muscle; it’s a toolbox that must be tailored to the task, the context, and the person’s values.\"",
     "best_quote_zh": "\"自我控制不是单一的肌肉，而是一套需要根据任务、环境和个人价值定制的工具箱。\""
+  },
+  {
+    "id": 597,
+    "title": "Hot divorcee summer: get ready for big hats, hot sex and don’t-care energy",
+    "title_zh": "热情离婚女性的夏日热潮：准备好大帽子、热情性爱和无所谓能量",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/may/12/hot-divorcee-summer",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "The piece examines the cultural shift in how divorce is perceived, framing it not as a tragedy but as a liberation—\"divorcee energy\"—that empowers women to reclaim agency, style, and self‑care. It juxtaposes the carefree, high‑glam aesthetic of the modern post‑divorce woman with the historically stigmatized image of the divorced, presenting a narrative that celebrates autonomy, confidence, and a willingness to embrace life beyond the marital bubble. Critics point out that while the article offers uplifting empowerment, it also glosses over socioeconomic realities and risks romanticizing an idealized version of post‑marriage freedom. The discussion extends beyond fashion to include mental health, legal practice, and interior design, underscoring how the divorce narrative permeates multiple facets of life. The tone is conversational, peppered with pop culture references, and it invites readers to rethink divorce as a catalyst for personal growth rather than a loss. The article’s implications lie in its potential to reshape public discourse on divorce, influence fashion trends, and encourage women to view break‑ups as opportunities for reinvention, while challenging the reader to consider the broader economic and emotional costs that accompany such transitions.",
+    "summary_zh": "文章将离婚视作一种解放而非悲剧，提出“离婚女性能量”概念，强调自我主宰与自我照顾。它把高调时尚与心理健康、法律与室内设计联系起来，试图改变公众对离婚的刻板印象。内容风趣、引用流行文化，却忽略了经济现实和情感代价。作者鼓励读者把分手当作重新塑造自我的机会，但也提醒我们要正视其中的挑战。",
+    "best_quote_en": "\"Divorce doesn’t have to be a disaster. There are different ways of doing it and it can be a joyous moment.\"",
+    "best_quote_zh": "\"离婚不一定是灾难。我们可以以不同方式处理它，它也可以是一个欢乐的时刻。\""
+  },
+  {
+    "id": 598,
+    "title": "The Trouble with the Segway",
+    "title_zh": "",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/segway.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2026-05-14",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 599,
+    "title": "Why Spain Is Standing Up to Donald Trump",
+    "title_zh": "",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-spain-is-standing-up-to-donald-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-05-13",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 600,
+    "title": "Stillgram / Echoes of Genius / Magnified Sand",
+    "title_zh": "Stillgram / Echoes of Genius / Magnified Sand",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/stillgram-echoes-of-genius-magnified-sand/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-10",
+    "summary_en": "The article showcases a mix of tech gadgets and inspirational content, each offering a unique blend of practicality and curiosity. Starting with Stillgram’s AI-powered crowd‑removal feature, it highlights how on‑device intelligence can streamline photography, especially for travelers seeking pristine landmark shots. The solar yard lights section underscores the evolution of sustainable outdoor lighting: motion‑sensing, battery‑powered LED fixtures that balance energy efficiency with illumination. Magnifiedsand.com invites readers into a micro‑cosmic world, turning mundane sand into a portal for geological wonder, while the floor lamp review demonstrates how adjustable, color‑temperature‑controllable lighting can transform interior spaces. The “Start with Nothing” blog post distills a minimalist productivity hack, encouraging readers to begin tasks on a clean slate to foster focus. Finally, the Echoes of Genius collection turns daily life into reflective practice, pairing quotes with calendars to weave wisdom into routine. Across these pieces, the recurring theme is leveraging simple, actionable tools—whether tech or mindset—to enhance everyday experiences, encouraging readers to experiment, reflect, and elevate their surroundings and productivity.",
+    "summary_zh": "文章涵盖技术与灵感，聚焦实用与好奇。仍然gram 的 AI 去人功能让旅行照片更清晰；太阳能灯演示可持续照明；Magnifiedsand.com 将沙子变成微观世界；LED落地灯展示可调光彩；“从零开始”教你先空白再作；Echoes of Genius 让每日格言成仪式。共通点是用简易可行工具提升生活与思维，鼓励读者实验、反思、提升。",
+    "best_quote_en": "“A problem well stated is a problem half‑solved.” – Charles F. Kettering",
+    "best_quote_zh": "“一个问题陈述得好是问题解决一半。” – 查尔斯·费尔南德斯·凯特林"
+  },
+  {
+    "id": 601,
+    "title": "Essentials: Understanding & Controlling Aggression",
+    "title_zh": "Essentials: Understanding & Controlling Aggression",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-understanding-and-controlling-aggression",
+    "tags": [
+      "learn",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-14",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Andrew Huberman decodes the neural circuitry that underlies aggressive states, mapping how hormones, genes, and environmental cues like daylight converge to shape our propensity for aggression. He introduces a “hydraulic pressure” model of aggression, illustrating how the ventromedial hypothalamus, amygdala, and prefrontal cortex interact in real time. Beyond theory, the episode offers concrete, science‑based interventions: strategic sunlight exposure, heat therapy, and targeted supplements such as ashwagandha and acetyl‑L‑carnitine to modulate cortisol, serotonin, and testosterone balances. The discussion bridges basic neuroscience and practical life‑hacking, empowering listeners to monitor and recalibrate their aggression in a measurable, evidence‑driven way. The episode’s depth—combining hormonal biology, seasonal rhythms, and behavioral genetics—provides a holistic framework for anyone seeking to understand and manage aggressive impulses, whether for mental health, athletic performance, or interpersonal harmony.",
+    "summary_zh": "Huberman通过神经回路、激素与环境交互，揭示了攻击性行为的生物学根源，并提供基于阳光、热疗与补剂的实用调控方法，帮助人们科学管理冲动。",
+    "best_quote_en": "Sunlight isn’t just a mood‑booster; it’s a cortisol‑shooter, a serotonin‑stabilizer, and a hormonal reset button for aggression.",
+    "best_quote_zh": "阳光不仅提升情绪；它也是皮质醇的清除剂、血清素的稳定剂，也是攻击性调节的激素重置按钮。"
   }
 ]
