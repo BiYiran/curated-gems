@@ -1,121 +1,5 @@
 [
   {
-    "id": 502,
-    "title": "Founder Control",
-    "title_zh": "创始人控制",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/control.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-04-23",
-    "summary_en": "The article dissects the evolving dynamics of board composition in early-stage startups, spotlighting the shifting norm where founders increasingly retain majority control post‑Series A. Drawing on anecdotal evidence from Y Combinator’s portfolio and illustrative cases like Facebook and Zynga, it challenges the traditional VC narrative that founder dominance is rare. The author argues that as board control becomes a norm, the startup ecosystem’s power balance will tilt toward founders, empowering them to set industry trends and compelling VCs to prioritize trust and long‑term partnership over short‑term leverage. This shift is portrayed as a win‑win: founders maintain strategic influence while VCs secure higher‑quality investments, ultimately accelerating innovation and market leadership. The piece blends data‑driven observations with seasoned investor insight, offering a future‑focused roadmap for founders and VCs navigating board negotiations.",
-    "summary_zh": "文章解析创始人为何在 A 轮后仍能保留董事会多数，揭示这一趋势正逐步成形。通过 Y Combinator 的案例与 Facebook、Zynga 的先行者，文章质疑 VC 传统观念，指出让创始人掌控董事会将有利于创新与行业引领。作者结合数据与行业经验，勾勒出未来创始人与 VC 关系的新格局，凸显信任与长期合作的重要性。",
-    "best_quote_en": "\"If they know they can't fire the founders, they'll have to choose founders they can trust. And that's who they should have been choosing all along.\"",
-    "best_quote_zh": "“若他们知道无法解雇创始人，就必须选择他们能信任的创始人，而这正是他们本该选的。”"
-  },
-  {
-    "id": 503,
-    "title": "Tabula Rasa: Volume Six, by John McPhee",
-    "title_zh": "Tabula Rasa: Volume Six, by John McPhee",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/tabula-rasa-volume-six",
-    "tags": [
-      "inspire",
-      "education",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "John McPhee’s sixth “Tabula Rasa” entry is a lyrical tapestry of memory and place, weaving early Vermont camp life, a Philadelphia zoo encounter, a bureaucratic nightmare, and the intimate histories of family and friends. The piece demonstrates how mundane details—cream on cornflakes, a cobra’s stare, a cobblestone court—become touchstones that map the author’s identity and worldview. In a distinctly autobiographical voice, McPhee balances anecdote with reflective insight, inviting readers to see how sensory experiences can trigger deep recollection and how seemingly trivial events shape lifelong narratives. His narrative technique—non‑linear, richly descriptive, and interlaced with cultural references—offers a valuable case study for writers of memoir, educators exploring personal narrative, and readers fascinated by the intersection of memory, place, and identity. The article underscores the power of storytelling to preserve cultural heritage and to illuminate the quiet continuity between past and present, reminding us that every ordinary moment can be a portal to deeper meaning.",
-    "summary_zh": "麦菲的《Tabula Rasa》第六卷是一段记忆与地方的抒情织锦，回忆童年、城市、官僚与亲情，呈现感官细节如何触发深层记忆。",
-    "best_quote_en": "The milk seemed to be catalytic. It triggers no memory on its own but brings history out of the burrata.",
-    "best_quote_zh": "奶似乎是催化剂。它本身不触发记忆，却把历史从布拉塔奶酪中唤出。"
-  },
-  {
-    "id": 504,
-    "title": "What’s in my NOW? — Camille Newsom",
-    "title_zh": "我的现在是什么？——Camille Newsom",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-camille-newsom/",
-    "tags": [
-      "update",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-04-22",
-    "summary_en": "Camille Newsom’s eclectic showcase blends poetic practice, community facilitation, and mindful self‑care into a living curriculum of creative tools. Her approach—offering “Offers and Needs” markets, writing on a Smith Corona, and curating authenticity‑cards—demonstrates how art can be both performative and practical. The curated physical and digital list of resources—ranging from contemplative readers like Selah to blue‑light glasses—serves as a tangible toolkit for readers to slow, reflect, and connect. The piece invites us to question the pace of modern life, to re‑establish authentic relationships, and to embed mindful rituals into everyday routines. By weaving humor, existential reflection, and actionable recommendations, Newsom turns a personal narrative into a communal invitation, encouraging us to ask: what is truly present in our now?",
-    "summary_zh": "Camille Newsom把诗歌、社区协作与自我关怀融为一体，提供可落地的创作与生活工具。她的“供需市场”、手写诗歌和真实性卡片，既是艺术实践，也是现实行动。精选的实体与数字资源，鼓励我们放慢节奏、反思与连接。通过幽默与存在主义，Newsom把个人故事转化为共情邀请，促使我们思考：此刻真正存在的是什么？",
-    "best_quote_en": "‘When times are urgent, we must slow down.’",
-    "best_quote_zh": "‘当时势紧急时，我们必须放慢节奏。’"
-  },
-  {
-    "id": 505,
-    "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
-    "title_zh": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-neuroscience-of-speech-language-and-music-erich-jarvis",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-23",
-    "summary_en": "Dr. Erich Jarvis, a leading neurogenetics professor, unpacks the remarkable rarity of vocal learning in the animal kingdom and the intricate brain circuits that make human speech possible. He traces the evolutionary lineage of song—preceding language—and explains how gesture, movement, and even dance share deep neural roots with speech, revealing a unified system for communication. The episode highlights critical periods for language acquisition, the genetic underpinnings of speech circuits, and the neurobiology of stuttering, offering a data‑driven framework for understanding why childhood is the optimal window for language learning. Jarvis also connects modern linguistic phenomena—such as texting and pidgin languages—to evolutionary pressures, underscoring how technology reshapes our neural pathways. The discussion concludes with practical insights: incorporating movement and music can help preserve speech and cognitive function across the lifespan. This blend of evolutionary biology, genetics, and actionable lifestyle advice makes the episode a valuable resource for neuroscientists, educators, and anyone curious about the biological foundations of human communication.",
-    "summary_zh": "Jarvis博士揭示语言与音乐的神经根源，指出歌声先于语言，运动与语言共享神经线路，强调儿童期学习窗口与基因作用，并提出运动与音乐可延缓认知衰退。",
-    "best_quote_en": "“The ability to learn and produce vocalizations is extraordinarily rare in the animal kingdom, and that rarity is what makes human language so remarkable.”",
-    "best_quote_zh": "“学习和产生声响的能力在动物王国中极为罕见，这种罕见正是人类语言如此非凡的关键。”"
-  },
-  {
-    "id": 506,
-    "title": "Breast reductions in UK overtake enlargements for first time, data shows",
-    "title_zh": "英国乳房缩小手术首次超过隆胸手术，数据显示",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/apr/23/breast-reductions-in-uk-overtake-enlargements-for-first-time-data-shows",
-    "tags": [
-      "update",
-      "medicine",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2026-04-23",
-    "summary_en": "The latest British Association of Aesthetic Plastic Surgeons audit reveals a landmark shift: breast reductions and implant removals now outpace breast enlargements for the first time. In 2025, 4,673 reduction procedures and 847 removals eclipsed 4,761 augmentations, signaling a cultural pivot toward comfort, active living, and athleisure fashion. Surgeons attribute the trend to a desire for natural silhouettes and functional ease, with similar patterns emerging in men’s facial procedures and a surge in brow lifts and labiaplasties. The data underscores how lifestyle evolution—more exercise, form‑fitting apparel—alters aesthetic priorities. For clinicians, the findings suggest a need to adjust pre‑op counseling, marketing strategies, and resource allocation toward non‑augmentative services. For patients, it highlights an emerging narrative that aesthetic choices are increasingly lifestyle‑driven rather than purely vanity‑based. This transformation invites further research into the psychosocial drivers behind cosmetic decision‑making and the long‑term outcomes of a more “natural” aesthetic paradigm.",
-    "summary_zh": "英国最新审计显示，乳房缩小手术与移除植入物首次超过隆胸，反映人们更追求舒适、活跃生活方式，重塑审美观。",
-    "best_quote_en": "For the first time, we are seeing the number of patients undergoing breast reduction and implant removal surpass those opting for augmentation.",
-    "best_quote_zh": "首次见到乳房缩小和植入物移除的患者数量超过选择隆胸的人数。"
-  },
-  {
     "id": 507,
     "title": "Tablets",
     "title_zh": "平板电脑",
@@ -2338,5 +2222,125 @@
     "summary_zh": "Huberman通过神经回路、激素与环境交互，揭示了攻击性行为的生物学根源，并提供基于阳光、热疗与补剂的实用调控方法，帮助人们科学管理冲动。",
     "best_quote_en": "Sunlight isn’t just a mood‑booster; it’s a cortisol‑shooter, a serotonin‑stabilizer, and a hormonal reset button for aggression.",
     "best_quote_zh": "阳光不仅提升情绪；它也是皮质醇的清除剂、血清素的稳定剂，也是攻击性调节的激素重置按钮。"
+  },
+  {
+    "id": 602,
+    "title": "Ramen Profitable",
+    "title_zh": "拉面盈利",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ramenprofitable.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "The article reframes startup success by introducing \"ramen profitable\"—a model where founders cover only living expenses without external capital. It argues that early self‑sufficiency grants autonomy, better negotiation leverage, and psychological momentum, thereby reducing the distraction of fundraising. The author contrasts this with traditional profitability, noting that the former is attainable for lean software ventures but not for capital‑intensive sectors like biotech. He acknowledges the risk of slipping into a consulting shell but stresses that ramen profitability is a tactical stopgap, not the end goal. The piece also critiques the prevailing venture mindset that often forces founders into unfavorable terms, suggesting a shift back to founder empowerment could increase venture ecosystem size. Overall, the article invites founders to re‑evaluate the necessity of early funding and to consider the strategic advantages of early cash flow, while cautioning against complacency and scalability pitfalls.",
+    "summary_zh": "文章提出“拉面盈利”概念，强调创业初期仅以生活费维持运营、无需外部融资的可行模式。作者认为这种自给自足能让创始人摆脱融资压力，提升谈判力并带来心理激励，从而专注产品而非募资。文章指出，拉面盈利适用于低成本软件创业，而不适合高资本密集型行业。它警示创业者要避免陷入咨询式运营，强调拉面盈利只是通往大规模增长的临时手段。作者还批评现行风险投资对创始人的苛刻做法，认为让创始人掌控更多权力能推动创业生态更健康。整篇文章鼓励创始人重新审视早期融资需求，探索现金流驱动的战略优势，并警示扩张风险。",
+    "best_quote_en": "\"If you’re ramen profitable, you don’t have to raise money right now, and that gives you the freedom to pick a time when you’re not in the middle of something else, and you can probably insist that the round close fast.\"",
+    "best_quote_zh": "如果你拉面盈利，你就不必现在就融资，这让你有自由选择不在忙碌中时去融资，甚至可以要求轮次迅速完成。"
+  },
+  {
+    "id": 603,
+    "title": "Data Quality is Way Underrated, and We Should Start Funding It.",
+    "title_zh": "数据质量被严重低估，我们应该开始资助它",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/n6G553yQvAysStsvw/data-quality-is-way-underrated-and-we-should-start-funding",
+    "tags": [
+      "learn",
+      "programming",
+      "data-science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "编程开发",
+      "数据科学",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "The article argues that data quality—especially in Africa—is systematically flawed, undermining policy decisions and development outcomes. The author highlights how even major institutions (IMF, World Bank, UN) rely on unreliable data, leading to misallocation of aid and ineffective interventions. Practical insights include funding technical assistance, deploying skilled personnel in national statistics bureaus, supporting census rollouts, and establishing fellowships focused on data quality. The piece emphasizes that good data is not a silver bullet but a critical enabler for evidence‑based decision‑making, ultimately lifting people out of poverty. It calls for a shift in donor priorities towards data infrastructure, offering a roadmap that blends policy advocacy with on‑the‑ground implementation. The discussion is grounded in data‑driven reasoning, urging readers to rethink how resources are allocated to data systems, both in Africa and potentially in advanced economies facing similar challenges. The article’s clarity and actionable suggestions make it a valuable resource for development practitioners, policy makers, and donors seeking to improve program effectiveness.",
+    "summary_zh": "文章指出非洲数据质量普遍严重不足，甚至国际机构的数据也常被质疑。作者主张为数据质量投入资金，建议通过技术援助、人才驻扎、普查支持等方式提升统计能力。强调可靠数据是精准决策的前提，虽非万能却能显著提升扶贫效果。文中以数据驱动论证，呼吁捐助者优先资助数据基础设施，为发展与援助提供更坚实依据。",
+    "best_quote_en": "Good data will not resolve every challenge, but it would meaningfully improve the capacity of those trying to respond to pressing questions.",
+    "best_quote_zh": "良好数据并不能解决所有问题，但它会显著提升应对紧迫问题的能力。"
+  },
+  {
+    "id": 604,
+    "title": "While Donald Trump Adventures in China, D.C. Entertains Itself",
+    "title_zh": "",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/while-donald-trump-adventures-in-china-dc-entertains-itself",
+    "tags": [
+      "solve",
+      "politics",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-05-14",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 605,
+    "title": "Monks Smuggling Weed/Language Books/Abandoned Luggage",
+    "title_zh": "僧侣走私大麻/语言书籍/被遗弃的行李",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/monks-smuggling-weed-language-books-abandoned-luggage/",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-05-14",
+    "summary_en": "The piece stitches together four seemingly disparate yet thematically linked vignettes, each offering a lens into contemporary socio‑economic shifts and personal learning strategies. The first segment exposes the paradox of a world where legal weed is ubiquitous, yet illicit trafficking persists—highlighting loopholes in enforcement and the relentless adaptability of smugglers. The second section turns to language acquisition, championing a “read‑through” approach that values contextual immersion over rote vocabulary drills, and showcases specific resources that scaffold intermediate learners toward fluency. The third bit discusses the growing trend of abandoned luggage, a symptom of fee fatigue in the travel industry, and hints at the broader trend of consumers cutting costs by relinquishing convenience. Finally, the author reflects on the demise of Spirit Airlines, using it as a case study to illustrate how market exits can ripple through pricing structures and consumer choice. Together, the articles prompt readers to question assumptions—about legality, learning, cost‑saving, and market dynamics—while offering actionable insights and real‑world examples that encourage critical thinking and strategic adaptation.",
+    "summary_zh": "文章以四个短篇串联，探讨非法走私与合法大麻共存、语言学习的沉浸式方法、因费用疲劳导致的行李被遗弃现象，以及Spirit航空停运对票价的影响。它让人重新思考法律与灰色地带、学习策略与消费行为的关系，既提供可操作建议，也激发对市场与文化趋势的深入思考。",
+    "best_quote_en": "‘The abandoned luggage issue isn’t just about saving a few bucks on a checked bag, it’s a sign of fee fatigue.’",
+    "best_quote_zh": "‘被遗弃的行李问题不仅仅是为了省几块检查行李费，它是费用疲劳的标志。’"
+  },
+  {
+    "id": 606,
+    "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
+    "title_zh": "Essentials：使用盐来优化心理与身体表现",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-salt-to-optimize-mental-and-physical-performance",
+    "tags": [
+      "guide",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-03-26",
+    "summary_en": "Dr. Huberman’s episode dissects the nuanced role of sodium in both mental acuity and physical output, offering a blend of neurophysiology, practical dosing tools, and lifestyle integration. He explains how the brain’s sodium sensors orchestrate thirst, fluid equilibrium, and blood pressure, then translates that biology into individualized salt recommendations. By presenting the Galpin Equation for exercise‑related repletion and referencing the unprocessed food diet for long‑term balance, the discussion moves beyond generic “add salt” advice to a data‑driven, actionable framework. The segment also highlights how stress, low carbohydrate intake, and postural syndromes influence sodium needs, positioning salt as a modifiable lever for performance and well‑being. For readers, the episode delivers a clear methodology for assessing personal sodium requirements, coupled with real‑world tools and cautionary notes about over‑consumption. Overall, it exemplifies how deep scientific insight can be distilled into concrete, evidence‑based lifestyle strategies that empower athletes, busy professionals, and health‑conscious listeners alike.",
+    "summary_zh": "Huberman博士剖析钠在脑功能与体能表现中的关键作用，阐述大脑如何监控钠水平并调节渴求与血压。通过Galpin公式与无加工食物饮食等工具，他把复杂的生理学转化为可操作的个人钠摄入方案，帮助听众在运动、压力与低碳水饮食中精准补钠。该内容既具科学深度，又兼具实用性，是提升表现与健康的“钠剂量学”。",
+    "best_quote_en": "\"Your brain has a built‑in sodium sensor that tells you when to drink and when to eat salt, and that sensor is the key to unlocking optimal performance.\"",
+    "best_quote_zh": "“你的大脑内置钠感受器，它会告诉你何时喝水、何时摄入盐，而这个感受器正是解锁最佳表现的关键。”"
   }
 ]
