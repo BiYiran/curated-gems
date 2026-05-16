@@ -1,121 +1,5 @@
 [
   {
-    "id": 507,
-    "title": "Tablets",
-    "title_zh": "平板电脑",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/tablets.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-04-25",
-    "summary_en": "The article envisions the transformative power of tablet devices, arguing that they will systematically replace specialized hardware through software‑centric ‘ephemeralization’. It highlights how the iPhone and iPad have already blurred device categories, turning phones into tablets and enabling apps to supplant GPSes, music players, cameras, and even reading glasses. The author urges entrepreneurs to scout for everyday tools that can be eliminated by a tablet app, positioning this as a launchpad for new startups. He warns of Apple’s potential dominance but suggests that platforms with broad hardware and software APIs will foster innovation and competition. The piece blends historical insight—referencing Buckminster Fuller’s concept of ephemerization—with a practical roadmap, urging developers and hardware makers to embrace versatility and openness. It serves as both a visionary forecast and a strategic guide for innovators seeking to capitalize on the tablet wave.",
-    "summary_zh": "作者以平板电脑为核心，阐释其如何通过软件化取代专用硬件，提出企业应寻找可被平板应用替代的日常工具，并警示苹果可能的垄断，强调开放平台的重要性，既是未来预判，也是创业指南。",
-    "best_quote_en": "The only reason we even consider calling them \"mobile devices\" is that the iPhone preceded the iPad.  If the iPad had come first, we wouldn't think of the iPhone as a phone; we'd think of it as a tablet small enough to hold up to your ear.",
-    "best_quote_zh": "我们之所以把它们称作“移动设备”，唯一的原因是iPhone先于iPad出现。如果iPad先出现，我们不会把iPhone看作电话，而会把它视为足够小到可以放在耳边的平板。"
-  },
-  {
-    "id": 508,
-    "title": "Quick Paper Review: \"There Will Be a Scientific Theory of Deep Learning\"",
-    "title_zh": "快速论文点评：《深度学习会有科学理论》",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/2WkeiYFT5p3ph8Pkf/quick-paper-review-there-will-be-a-scientific-theory-of-deep",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-25",
-    "summary_en": "The piece is a nuanced, critical examination of Simon et al.’s manifesto that proposes “learning mechanics” as the next scientific theory of deep learning. Rather than merely summarizing the paper, the author interrogates the historical pessimism that has shaped the field, the novelty of framing dynamics as a physics‑like theory, and the practical relevance of the proposed research agenda. The review highlights five lines of evidence—analytic toy models, infinite‑width limits, empirical regularities, hyperparameter scaling, and universality of inductive biases—while weighing them against the fact that most current results are largely theoretical or offer limited engineering payoff. The author explicitly discusses the manifesto’s stance relative to classical learning theory, information theory, neuroscience, and mechanistic interpretability, and evaluates the paper’s claims on utility for AI safety, governance, and practical LLM training. The overall tone is intellectually curious yet skeptical: the author acknowledges the manifesto’s clarity and inspirational potential for novices, yet questions whether learning mechanics will truly deliver actionable guidance for practitioners or satisfy the rigorous demands of a scientific theory. This critical lens invites readers to reflect on the current state of deep‑learning theory, the balance between ambition and evidence, and the future pathways that might bridge the gap between physics‑like abstractions and real‑world AI systems.",
-    "summary_zh": "作者以批判性视角剖析Simon等人的宣言，探讨“学习力学”是否能成为深度学习的科学理论。文章既指出该理论在解释动力学、提供工程指导和AI治理方面的潜力，又警示其目前缺乏可操作性和实证支持。批评中既肯定宣言的启发性，也提醒读者在高远目标与现实证据之间保持平衡，思考如何让理论真正服务于实践。",
-    "best_quote_en": "\"Learning mechanics is a theory that concerns itself with the dynamics of the training process, studies them using coarse aggregate statistics of learning, and has the goal to generate accurate average‑case predictions.\"",
-    "best_quote_zh": "“学习力学是一种关注训练过程动力学的理论，利用学习的粗粒化统计进行研究，目标是生成准确的平均情况预测。”"
-  },
-  {
-    "id": 509,
-    "title": "How Big a Threat Are Iranian-Backed Cyberattacks?",
-    "title_zh": "伊朗支持的网络攻击威胁有多大？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyberattacks",
-    "tags": [
-      "inspire",
-      "cybersecurity",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "网络安全",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-04-24",
-    "summary_en": "The article dissects the escalating cyber threat posed by Iranian‑affiliated actors, framing it as a persistent geopolitical weapon that extends beyond traditional warfare into the fabric of everyday infrastructure. It traces a timeline from early PLC intrusions in U.S. water systems to high‑profile wiper attacks on medical technology firms, underscoring the strategic logic of “field trips” into vulnerable municipal networks. The piece critically evaluates the U.S. response—CISA advisories, budget cuts, and institutional shakeups—highlighting how policy missteps can inadvertently empower adversaries. By juxtaposing cyber and kinetic campaigns, the author invites readers to grapple with the dual‑nature of modern conflict: the slow, invisible bleed of digital sabotage versus sudden, visible missile strikes. This analysis forces a reevaluation of national security priorities, urging a shift from reactive patching to proactive, intelligence‑driven defense, and it warns that ceasefires may merely pause the tempo, not the threat. The narrative’s blend of technical detail, policy critique, and geopolitical insight makes it a compelling case study for security strategists, policymakers, and technologists alike.",
-    "summary_zh": "文章揭示伊朗支持的网络攻击正逐步渗透美国关键基础设施，揭示了数字时代战争的无形边界。作者通过对PLC入侵、勒索软件与分布式拒绝服务攻击的追踪，指出小型市政网络的脆弱性被视为“实地考察”，为更大规模破坏铺路。文章批判美国在CISA预算削减与内部动荡中的失误，警示政策决策若缺乏前瞻性，可能为敌方提供可乘之机。作者最后强调，停火或仅是节奏的变化，网络战争仍将持续，亟需从被动补丁转向主动情报驱动的防御。",
-    "best_quote_en": "\"The ceasefire does not end the cyber conflict; it changes its rhythm.\"",
-    "best_quote_zh": "\"停火并未终结网络冲突，它改变了节奏。\""
-  },
-  {
-    "id": 510,
-    "title": "Why doubling down on your position never works — and what does",
-    "title_zh": "为什么全力坚持自己的立场永远行不通——以及该怎么办",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/why-doubling-down-on-your-position-never-works-and-what-does/",
-    "tags": [
-      "guide",
-      "ai-research",
-      "marketing"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "市场营销"
-    ],
-    "date": "2026-04-24",
-    "summary_en": "The article deconstructs the common misconception that conviction alone wins influence, revealing a science-backed framework for persuasive communication. It argues that humans process emotion before logic, so effective persuaders lead with emotional resonance, then back it up with evidence. The core principles—theme‑first mindset, emotional primacy, storytelling, and subconscious cues—shift the goal from proving a point to creating shared action. By framing messages around the audience’s priorities, using stories that place the listener as hero, and fine‑tuning non‑verbal signals, the author demonstrates how to transform meetings, negotiations, and everyday interactions into collaborative outcomes. The practical exercises and concrete tips make the theory immediately actionable, while the emphasis on the brain’s natural processing pathways adds a layer of expert insight that elevates the piece from generic advice to a thoughtful, research‑grounded guide. Readers gain a toolkit to re‑engineer their communication style, ultimately achieving higher buy‑in and stronger relationships.",
-    "summary_zh": "文章揭示全力坚持立场为何无效，提出以受众为中心的说服框架。强调情感先行、故事叙述、非语言暗示，帮助读者把话语转化为共同行动。",
-    "best_quote_en": "\"Persuasion is shared action. Shared, because it’s something we voluntarily do together with others. And it’s action, because it’s about getting things done, not about speaking pretty words.\"",
-    "best_quote_zh": "“说服是共同行动，因为它是我们自愿一起完成的事；它是行动，因为关注的是实现结果，而非华丽言辞。”"
-  },
-  {
-    "id": 511,
-    "title": "The Hours won awards for Nicole Kidman’s fake nose – and hearts as a queer classic",
-    "title_zh": "《The Hours》获奖因 Nicole Kidman 的假鼻子——以及作为一部酷儿经典的心动",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/apr/22/the-hours-movie-nicole-kidman-nose-queer-classic",
-    "tags": [
-      "update",
-      "writing-content",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2026-04-21",
-    "summary_en": "The Guardian’s feature on the 2002 film *The Hours* blends cinematic critique with queer cultural history, offering readers a layered understanding of how a narrative can simultaneously serve as a landmark in film artistry and a touchstone for LGBTQ+ representation. By foregrounding Nicole Kidman’s prosthetic nose as a symbolic act of self‑deconstruction, the article interrogates the aesthetic politics of award‑oriented performance, framing it as an instance of “de‑glamming.” It then expands to discuss the film’s structural homage to Virginia Woolf and its interweaving of three female protagonists, each negotiating identity, repression, and desire across decades. Through a close reading of character arcs and production choices, the piece highlights how *The Hours* projects queer experience onto a non‑linear canvas that defies heteronormative storytelling conventions. The analysis invites readers to consider the power of narrative form to challenge societal constraints, while also critiquing the film’s melodramatic leanings that some viewers find over‑sentimental. Ultimately, the article positions the movie as a cultural artefact that both cements and complicates the legacy of queer cinema, urging audiences to read beyond surface accolades and examine the deeper social commentary embedded in its storytelling.",
-    "summary_zh": "《The Hours》被视为酷儿经典时，文章从表面奖项到深层叙事结构展开，探讨假鼻子象征的自我拆解、非线性叙事与酷儿身份的交织。它提醒读者，电影不仅是技术与表演的展示，更是对社会压迫与性别期望的批判与反思。",
-    "best_quote_en": "Kidman’s win is often cited as an example of “de‑glamming,” where an actor minimises their physical beauty in pursuit of awards glory.",
-    "best_quote_zh": "Kidman 的获奖常被视为“去华丽化”的典范，演员通过压低自身外表以追求奖项荣耀。"
-  },
-  {
     "id": 512,
     "title": "What We Look for in Founders",
     "title_zh": "我们在创始人身上寻找的品质",
@@ -2342,5 +2226,121 @@
     "summary_zh": "Huberman博士剖析钠在脑功能与体能表现中的关键作用，阐述大脑如何监控钠水平并调节渴求与血压。通过Galpin公式与无加工食物饮食等工具，他把复杂的生理学转化为可操作的个人钠摄入方案，帮助听众在运动、压力与低碳水饮食中精准补钠。该内容既具科学深度，又兼具实用性，是提升表现与健康的“钠剂量学”。",
     "best_quote_en": "\"Your brain has a built‑in sodium sensor that tells you when to drink and when to eat salt, and that sensor is the key to unlocking optimal performance.\"",
     "best_quote_zh": "“你的大脑内置钠感受器，它会告诉你何时喝水、何时摄入盐，而这个感受器正是解锁最佳表现的关键。”"
+  },
+  {
+    "id": 607,
+    "title": "A snapshot of the photographer Raghu Rai | Brief letters",
+    "title_zh": "拉古·莱摄影师的快照 | 简短信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/may/15/a-snapshot-of-the-photographer-raghu-rai",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "The piece is a mosaic of personal anecdotes that converge on the theme of generosity and the power of direct human connection. Gabrielle Palmer’s story—dialing a renowned photographer from the UK to negotiate a fee waiver—illustrates how a simple conversation can dismantle institutional barriers and reinforce the social value of art. The narrative thread extends into broader social commentaries: a critique of male chauvinism in vasectomy discourse, a resignation strategy against bureaucratic red tape, and a humorous call for leadership resolution through arm wrestling. The article’s tone oscillates between earnest advocacy and light‑hearted satire, yet it consistently underscores the importance of personal agency in effecting change. For readers, it functions as a practical playbook: reach out, negotiate, and leverage goodwill. Academically, it offers a case study on how individual actions can challenge normative structures, providing a micro‑example of grassroots activism in a modern, global context. The story invites reflection on how small, seemingly trivial gestures can ripple into broader societal shifts, reinforcing the idea that advocacy is as much about human relationships as it is about policy.",
+    "summary_zh": "文章聚焦善意与直面沟通的力量，展示如何通过个人举动突破制度壁垒。它兼具实用指导与社会讽刺，启示读者用人际关系推动变革。",
+    "best_quote_en": "He immediately said he would waive the entire fee, adding warmly, ‘and good luck with your noble cause.’",
+    "best_quote_zh": "他立刻说会全额免费，热情地补充道：‘祝你在这崇高事业上好运。’"
+  },
+  {
+    "id": 608,
+    "title": "Maker's Schedule, Manager's Schedule",
+    "title_zh": "Maker's Schedule, Manager's Schedule",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/makersschedule.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-05-16",
+    "summary_en": "This essay unpacks the clash between two time‑keeping paradigms— the manager’s fragmented, hourly agenda versus the maker’s long, uninterrupted blocks—and explains how the tension shapes productivity, morale, and relationships in tech and startup culture. By drawing on personal experience as a venture investor and founder, the author illustrates concrete strategies—office hours, night‑time work, and clear communication—to reconcile these divergent schedules without sacrificing either side’s effectiveness. The piece is a practical guide for leaders, founders, and employees who must navigate a world where speculative meetings and tight deadlines collide with the deep‑work needs of creators. It invites readers to re‑evaluate their own scheduling habits, recognize the hidden costs of mismatched expectations, and adopt a more empathetic, structured approach to collaboration. The underlying insight is that time is not merely a resource but a language that different roles must learn to speak together.",
+    "summary_zh": "作者把经理式短时任务与创作者深度工作区块两种时间观念对照，揭示两者冲突对生产力与情绪的影响，并给出办公小时、夜间工作等实操方案。文章既是对创始人、投资人如何兼顾会议与专注的经验分享，也是对所有在技术与创业生态中调配时间的人的启示。它提醒我们，时间不是单纯的资源，而是沟通的语言，只有通过共识与结构化安排，才能让不同角色的工作节奏和谐共存。",
+    "best_quote_en": "\"A single meeting can sometimes affect a whole day. A meeting commonly blows at least half a day, by breaking up a morning or afternoon.\"",
+    "best_quote_zh": "“一次会议有时会影响整整一天。会议往往会至少打破半天的时间，拆分了上午或下午。”"
+  },
+  {
+    "id": 609,
+    "title": "A Year Late, Claude Finally Beats Pokémon",
+    "title_zh": "",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/sehJYg5Yny9fvpbpt/a-year-late-claude-finally-beats-pokemon",
+    "tags": [
+      "solve",
+      "design",
+      "leadership",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "领导管理",
+      "案例研究"
+    ],
+    "date": "2026-05-16",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 610,
+    "title": "What the Gerrymandering Wars Mean for the Midterms—and 2028",
+    "title_zh": "党团划分战役对2026年中期选举及2028年的意义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/what-the-gerrymandering-wars-mean-for-the-midterms-and-2028",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "Nate Cohn’s interview with Isaac Chotiner dissects how the latest Supreme Court ruling on the Voting Rights Act and aggressive Republican redistricting are reshaping congressional maps, tipping the balance toward the GOP. The piece evaluates concrete state-by-state moves—Texas, North Carolina, Florida, South Carolina, Alabama, Louisiana—and the counter‑offensive potential of Democratic states such as California and New York. Cohn argues that while Democrats can theoretically engineer more favorable districts, constitutional hurdles and the risk of over‑aggressive gerrymandering limit their reach. The analysis highlights the strategic calculus both parties face: Republicans may gain seats now but risk backlash if they overreach; Democrats must decide whether to match or resist. The article invites readers to consider the long‑term implications for 2028 and beyond, framing redistricting not just as a legal battle but a structural election‑engineering game that could redefine U.S. representation.",
+    "summary_zh": "本篇通过Nate Cohn与Isaac Chotiner的访谈，剖析最高法院对投票权法的裁决与共和党红区划争议如何改变国会地图，倾斜向共和党。文章评估各州行动、民主党对策与宪法障碍，强调两党在2028年前的战略抉择，提醒读者红区划不仅是法律争议，更是影响选举结构的关键博弈。",
+    "best_quote_en": "The advantage that Republicans might hope to obtain by this November could, hypothetically, grow even more if the Democrats did nothing before 2028.",
+    "best_quote_zh": "共和党如果在2028年前不采取行动，他们在十一月可能获得的优势，甚至有可能进一步扩大。"
+  },
+  {
+    "id": 611,
+    "title": "Book Freak #209: Science and Sanity",
+    "title_zh": "Book Freak #209：科学与理智",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-209-science-and-sanity/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "The essay \"Science and Sanity\" distills a profound critique of human cognition: our language, beliefs, and mental models are mere maps that never fully capture reality. By foregrounding the distinction between the map and the territory, the author exposes how the habitual use of static labels—especially the verb \"is\"—locks us into false certainties. The piece argues that true freedom arises when we recognize the symbolic power that shapes perception and remain open to revising our mental maps. The actionable exercises encourage readers to question habitual phrasing, identify rigid beliefs, and add qualifiers that maintain flexibility. The text is both a philosophical treatise and a practical guide, offering a middle path between blind belief and cynical doubt. Its relevance spans cognitive science, communication, and personal development, urging readers to adopt a reflective, adaptable mindset in a world of ever‑changing truths.",
+    "summary_zh": "文章以“地图不等于领土”为核心，批判人类语言与信念的固化，强调用“是”定义事物会误导认知。它提倡在认知与现实间保持弹性，提供可操作练习，帮助读者识别并修正僵化思维。此文既是哲学论述，也是一份实用指南，适合关注认知科学、沟通与自我提升的读者。",
+    "best_quote_en": "There are two ways to slide easily through life: to believe everything or to doubt everything. Both ways save us from thinking.",
+    "best_quote_zh": "人生轻松滑行的两条路：相信一切或怀疑一切。两者都让我们免于思考。"
   }
 ]
