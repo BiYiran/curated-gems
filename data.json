@@ -1,119 +1,5 @@
 [
   {
-    "id": 512,
-    "title": "What We Look for in Founders",
-    "title_zh": "我们在创始人身上寻找的品质",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/founders.html",
-    "tags": [
-      "guide",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "In this candid note, Y Combinator’s co‑founder dissects the five traits that have steered his selection of founders: relentless determination, adaptive flexibility, imaginative originality, a touch of rule‑bending naughtiness, and genuine friendship. He argues that intelligence is a baseline, but it is the stubborn drive to weather obstacles that truly predicts survival. Flexibility, he likens to a running back’s agility, enabling founders to pivot when the market shifts. Imagination, illustrated by Airbnb’s early “crazy” idea, fuels breakthrough ventures. Naughtiness, framed as a healthy contrarian spirit rather than malice, encourages boundary‑pushing. Finally, interpersonal chemistry among co‑founders determines a startup’s internal resilience. The piece blends anecdote and pragmatic advice, offering a blueprint for investors and founders alike. It underscores that the most successful teams combine grit, adaptability, creativity, audacity, and camaraderie—an enduring lesson for anyone navigating the volatile startup ecosystem.",
-    "summary_zh": "作者从Y Combinator的经验出发，阐释成功创始人必备的五大素质：顽强决心、灵活适应、富有想象力、适度叛逆以及真诚友爱。他强调，智力是起点，而真正决定成败的是不屈不挠的坚持、及时的转型、敢于突破常规的想象与敢于打破规则的正义感，最后是团队内部的默契与亲密。文章兼具案例与实操指导，为创投与创业者提供了一条可操作的参考路径。",
-    "best_quote_en": "‘It’s not so much that you need to be able to solve predefined problems quickly as to be able to come up with surprising new ideas.’",
-    "best_quote_zh": "‘重要的不是能否迅速解决既定问题，而是能否想出令人惊讶的新点子。’"
-  },
-  {
-    "id": 513,
-    "title": "Substrate: Formalism",
-    "title_zh": "Substrate：Formalism",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/mZGhrYnTdXoJuEAWi/substrate-formalism-1",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "The article presents a formal 4‑tuple framework for describing the computational substrate of AI systems—language, semantics map, resource profile, and observable interface—and shows how this abstraction clarifies the distinction between syntactic identity, behavioral identity, and observability. By applying the framework to concrete examples (banking transactions, modular‑addition transformers, sorting algorithms) it demonstrates that seemingly equivalent models can differ dramatically in implementation, resource consumption, and vulnerability exposure. The piece argues that safety research must reason about substrates explicitly, otherwise evaluations conflate interface choices with underlying behavior, potentially masking failures such as jailbreaks or refusal bugs. The formalism also introduces notions of substrate distance and morphisms, offering a metric‑like way to compare expressive power and translation feasibility. Overall, the work pushes AI safety beyond model‑centric metrics toward a richer, system‑level vocabulary that captures the nuances of real‑world deployment.\n\nImplications include a more precise language for safety audits, a path to modular safety tests that isolate resource‑profile effects, and a bridge between interpretability studies and safety engineering. The critical evaluation points to the need for empirical validation of the distance measure and the challenge of mapping complex hardware stacks into the 4‑tuple. Nevertheless, the framework’s clarity and generality make it a valuable conceptual tool for researchers and practitioners aiming to design safer, more transparent AI systems.",
-    "summary_zh": "文章提出了一个四元组框架，分别描述语言、语义映射、资源配置和可观测接口，从而把AI底层实现与行为分离。通过银行转账、模数加法模型和排序算法的案例，作者展示了同一功能在不同底层实现下产生的差异，并指出安全评估往往忽视底层差异导致漏洞隐藏。引入子结构距离与同构概念，为比较实现能力与可迁移性提供了新视角。该框架兼具理论深度与实用性，可为安全测试与可解释性研究提供统一语言。",
-    "best_quote_en": "\"The safety‑relevant gap is between the observable interface and the abstract behavior, not between the model’s abstract behavior and some notion of truth.\"",
-    "best_quote_zh": "“安全相关的差距在于可观测接口与抽象行为之间，而非模型的抽象行为与某种真理之间。”"
-  },
-  {
-    "id": 514,
-    "title": "Inside the White House Correspondents’ Dinner as Gunshots Rang Out",
-    "title_zh": "白宫记者协会晚宴枪声回响内幕",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/dispatch/inside-the-white-house-correspondents-dinner-as-gunshots-rang-out",
-    "tags": [
-      "update",
-      "politics",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "Antonia Hitchens’ dispatch offers a raw, on‑the‑ground chronicle of the 2026 White House Correspondents’ Dinner, where gunfire erupted and the President’s response rattled reporters. Her narrative blends eyewitness detail with a broader commentary on media–government dynamics, security protocols, and the performative nature of presidential leadership. The piece is valuable for students of contemporary politics and journalism, illustrating how crises are framed and managed in the public eye. It also raises questions about safety at high‑profile events, the limits of press freedom, and the rhetoric of threat. Hitchens’ account is not only a factual report but a case study that invites critical reflection on how media narratives are shaped by both the events themselves and the actors involved.",
-    "summary_zh": "安东尼亚·海切斯以第一人称视角写下了2026年白宫记者协会晚宴枪声事件，既是现场新闻，也是对媒体与政府互动的深度思考。她的叙述揭示了安全失控、总统言论与媒体报道如何交织，促使读者重新审视危机管理与舆论塑造的关系。",
-    "best_quote_en": "\"I’ve studied assassinations…the people that do the most, the people that make the biggest impact, they’re the ones that they go after.\"",
-    "best_quote_zh": "“我研究过暗杀……那些对社会产生最大影响的人，往往是被针对的。”"
-  },
-  {
-    "id": 515,
-    "title": "Your Ideal Carry-on Bag/Better Budget Airline/Cultural Atlas",
-    "title_zh": "理想随身行李/更好的低成本航空/文化地图",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/your-ideal-carry-on-bag-better-budget-airline-cultural-atlas/",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-04-23",
-    "summary_en": "This brief yet packed editorial offers a practical roadmap for travelers navigating the tangled maze of airline baggage policies, budget carrier quirks, and cross-cultural etiquette. It begins by dissecting the four primary carry‑on bag categories, demystifying the often confusing weight limits and sizing rules that can trip up even seasoned flyers. The piece then pivots to a surprisingly candid review of Breeze Airways, highlighting its surprisingly spacious layout and expanding route network—a useful benchmark for anyone weighing the merits of a no‑frills carrier. A thoughtful digression into the Cultural Atlas website underscores the importance of pre‑trip cultural literacy, warning readers that a deeper understanding of local norms can spare costly faux pas. Finally, the author reflects on the fidelity of translated literature, using Jules Verne’s work as a case study to illustrate how adaptations can dilute original intent, yet still offer value to modern readers. The article’s strength lies in its blend of actionable guidance, honest product assessment, and cultural awareness—making it a versatile resource for budget‑savvy, culturally curious travelers.\n\nKey takeaways include: 1) Choose the right carry‑on type for your itinerary; 2) Breeze Airways offers a surprisingly comfortable experience for its price; 3) The Cultural Atlas is an indispensable pre‑flight tool; and 4) A faithful translation can deepen your appreciation of classic literature. These insights serve both the novice and the seasoned wanderer, encouraging smarter choices and richer experiences on the road.\n",
-    "summary_zh": "文章为预算旅行者提供实用指南：首段拆解四类随身行李，帮助读者规避超重费用；随后评测低成本航空Breeze Airways，指出其宽敞座椅与多条航线；再介绍文化地图网站，提醒旅客提前了解当地习俗；最后以《环游世界80天》为例讨论译本质量。内容兼具操作性与洞察力，既适合初学者，也能为经验丰富的旅行者提供新视角。",
-    "best_quote_en": "\"I took my first two flights with this no‑frills U.S. carrier last month and it was good enough that I’m doing it again in June.\"",
-    "best_quote_zh": "“我在上个月乘坐这家无附加费的美国航空公司第一次航班，它表现得足够好，我计划六月再次乘坐。”"
-  },
-  {
-    "id": 516,
-    "title": "Kindness of strangers: I was so pregnant I couldn’t see my feet when a woman offered to tie my shoelace",
-    "title_zh": "陌生人的善意：我怀孕得太重，脚看不见，女子主动帮我系鞋带",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/27/kindness-strangers-pregnant-woman-shoelace",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "The article unfolds as a gentle, human‑interest narrative that captures the quiet generosity of strangers during a profoundly vulnerable moment of pregnancy. The author, grappling with hyperemesis gravidarum and the physical limitations that come with late‑stage gestation, finds herself unable to see her own feet. An unexpected{intervention} from a passerby—offering to tie her shoelace—serves as a micro‑story of communal care and mutual respect. Beyond the surface act, the piece poignantly explores how pregnancy strips away social guards, transforming private discomfort into a public plea for help. It invites readers to reflect on the unseen support networks that exist in everyday spaces and underscores the importance of simple, non‑judgmental gestures in fostering a sense of belonging. The narrative invites empathy, prompting readers to consider their own willingness to offer assistance and to recognize the collective humanity that sustains us during life’s most intimate moments. Its impact lies not in dramatic revelation but in its quiet reminder that kindness can be found in the most ordinary interactions.",
-    "summary_zh": "这篇短文记录了孕期女性在极度脆弱时得到陌生人温柔帮助的瞬间。作者因为孕期恶心症导致行动受限，无法看到自己的脚，正当她走在人行道上时，一位陌生女子主动上前帮她系鞋带。作者通过这件小事，揭示了孕期如何让人失去社交防御，变得更加需要他人支持，并强调了日常生活中常见的无声善意。短文并未展示戏剧性转折，而是以温暖的叙事提醒我们：在最平凡的交往中，善意与互助往往潜藏在不经意的举动里。",
-    "best_quote_en": "“When you’re pregnant, the guards you usually have up around strangers get stripped away.”",
-    "best_quote_zh": "“当你怀孕时，平时对陌生人保持的警惕会被剥夺。”"
-  },
-  {
     "id": 517,
     "title": "The New Funding Landscape",
     "title_zh": "新的融资格局",
@@ -2342,5 +2228,121 @@
     "summary_zh": "文章以“地图不等于领土”为核心，批判人类语言与信念的固化，强调用“是”定义事物会误导认知。它提倡在认知与现实间保持弹性，提供可操作练习，帮助读者识别并修正僵化思维。此文既是哲学论述，也是一份实用指南，适合关注认知科学、沟通与自我提升的读者。",
     "best_quote_en": "There are two ways to slide easily through life: to believe everything or to doubt everything. Both ways save us from thinking.",
     "best_quote_zh": "人生轻松滑行的两条路：相信一切或怀疑一切。两者都让我们免于思考。"
+  },
+  {
+    "id": 612,
+    "title": "‘Super-glamorous’: older women in the spotlight at Cannes film festival",
+    "title_zh": "‘Super-glamorous’：80+岁女星在戛纳红毯的光芒",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/may/15/older-women-spotlight-cannes-film-festival-red-carpet-diversity",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "The 2026 Cannes Film Festival signals a subtle yet profound shift in the cultural narrative surrounding age, gender, and visibility. Older women—Joan Collins at 92, Jane Fonda at 88, Catherine Deneuve at 82—steered the spotlight, proving that glamour is not the exclusive domain of youth. The article juxtaposes the glittering fashion statements of these icons with academic commentary on the grey pound’s economic heft and the increasing consumer influence of an ageing demographic. It interrogates the paradox that older women can be celebrated only if they look youthful, and it underscores the persistent lack of racial and body diversity even as age inclusivity grows. The piece blends anecdotal evidence, industry data, and expert insight, inviting readers to reconsider entrenched beauty norms while highlighting the commercial and cultural imperative to broaden representation. Its implications resonate beyond cinema: they touch on marketing, media, and societal attitudes toward ageing, urging a more inclusive, nuanced celebration of maturity.",
+    "summary_zh": "戛纳红毯上80+岁女星的光芒，揭示年龄与时尚的悖论。它让我们重新审视美的标准与消费力，呼唤更包容的文化叙事。",
+    "best_quote_en": "The whole point of the red carpet is ‘I want the spotlight on me. Look at me.’",
+    "best_quote_zh": "红毯的意义在于‘我要成为焦点，看看我’。"
+  },
+  {
+    "id": 613,
+    "title": "A Local Revolution?",
+    "title_zh": "A Local Revolution?",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/revolution.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-05-17",
+    "summary_en": "The essay probes whether the startup wave represents a new industrial epoch and why its diffusion might remain geographically constrained. By juxtaposing the spread of steam engines with that of modern tech ventures, the author argues that startups are both a novel economic phase and a culturally localized phenomenon that thrives only in fertile hubs. He critiques the myth that policy or market forces can replicate Silicon Valley, pointing out the role of chance, founder migration, and institutional ecosystems. The piece blends historical analogy, anecdotal evidence, and speculative modeling to highlight that startup hubs may consolidate rather than disperse, making the contemporary revolution unusually “local.” It invites readers to rethink the narrative of a universal tech boom, emphasizing the need for nuanced, data‑driven insight into how innovation clusters form and persist.",
+    "summary_zh": "作者将创业浪潮与蒸汽时代对比，指出创业是新经济阶段，却易受地理与文化限制，难以像工业革命那样广泛扩散。通过探讨硅谷形成的偶然性与生态系统，挑战政府与市场能否复制创业中心的假设，提醒我们对技术浪潮的“全球化”预期保持审慎。",
+    "best_quote_en": "The most likely scenario is (1) that no government will successfully establish a startup hub, and (2) that the spread of startup culture will thus be driven by the random factors that have driven it so far, but (3) that these factors will be increasingly outweighed by the pull of existing startup hubs.",
+    "best_quote_zh": "硅谷之所以存在，是因为威廉·肖克利想搬回帕洛阿尔托，随后他招揽的专家们也决定留在此地，形成了自我强化的创新生态。"
+  },
+  {
+    "id": 614,
+    "title": "The Pageantry and Flattery of Donald Trump’s Visit to China",
+    "title_zh": "特朗普访华的盛典与奉承",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-pageantry-and-flattery-of-donald-trumps-visit-to-china",
+    "tags": [
+      "analyze",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-05-16",
+    "summary_en": "The article dissects President Donald Trump’s 2026 visit to China, framing it as a continuation of the Nixon era’s spectacle‑driven diplomacy. While Trump’s entourage emphasizes trade deals—aircraft, chips, soybeans—the narrative reveals a deeper, almost performative exchange of power and image. Trump’s admiration for Xi’s ceremonial grandeur and his recurring emphasis on “respect” mask a series of strategic missteps: a stalled Iran‑strait agenda, minimal engagement on Taiwan, and a glaring lack of concrete commitments from China. The piece juxtaposes the U.S. hawkish posture with China’s calculated flattery, underscoring how both sides utilize pageantry to influence domestic audiences rather than forge substantive policy. The piece invites readers to question the efficacy of spectacle‑based diplomacy and recognize the underlying asymmetries in U.S.–China relations, particularly the U.S.’s failure to leverage Chinese influence on Iran and the continued ambiguity over Taiwan. Through this lens, the article serves as a cautionary case study on how diplomatic theatrics can distract from pressing geopolitical challenges and perpetuate a status quo that benefits neither side fully.",
+    "summary_zh": "特朗普访华像一场光鲜的盛典，实则是一次形象与权力的互惠演绎。文章把这次访问放在尼克松时代的华丽外交传统中，揭示美国在贸易和形象上求得短期收获，却未能在伊朗和台湾问题上取得实质进展。通过对双方表演式互动的剖析，提醒读者：外交的光鲜外衣往往掩盖了深层的战略失衡与空洞的承诺。",
+    "best_quote_en": "\"The two countries’ leaders both have smiles on their faces,\" a scholar noted, a thin veneer over a negotiation where neither side committed to hard policy shifts.",
+    "best_quote_zh": "“两国领导人都面带笑容”，一位学者指出，这句话掩盖了双方在谈判中未作实质性承诺的现实。"
+  },
+  {
+    "id": 615,
+    "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+    "title_zh": "最佳活力与健康方案 | Rhonda Patrick博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-best-vitality-and-health-protocols-rhonda-patrick",
+    "tags": [
+      "guide",
+      "health-wellness",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "健康养生",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-03-23",
+    "summary_en": "Dr. Rhonda Patrick’s interview offers a meticulously researched, integrative blueprint for optimizing health through evidence‑based exercise, nutrition, supplementation, and lifestyle tactics. She dissects the science behind cardiovascular and resistance training, the metabolic advantages of intermittent fasting, and the cellular benefits of creatine and omega‑3s, weaving in emerging insights on gut permeability, neuroinflammation, and micronutrient balance. The discussion is both deep and practical: it translates complex biochemistry—such as LPS signaling and oxidative stress markers—into actionable protocols like low‑rep strength workouts, logic‑based habit loops, and targeted supplement stacks (NAC, L‑glutamine, Urolithin A). For the curious, the dialogue demystifies why certain nutrients (e.g., magnesium threonate) outperform others, and how to evaluate supplement safety amid a crowded market. The content’s breadth—from menopause‑related visceral fat to cognitive resilience in sleep‑deprived athletes—makes it a valuable, one‑stop reference for health professionals, fitness coaches, and informed self‑care seekers looking to elevate both longevity and performance.",
+    "summary_zh": "Dr. Rhonda Patrick在访谈中提供了一套经过严谨研究的整体健康方案，涵盖运动、营养、补剂与生活方式。她将复杂的生物化学概念转化为可操作的实践步骤，如低次数力量训练、逻辑习惯循环与个性化补剂组合，帮助读者提升寿命与表现。",
+    "best_quote_en": "\"You can’t overemphasize how important the gut is for everything from inflammation to brain health. The gut is the gatekeeper, and its integrity is the foundation of everything else.\"",
+    "best_quote_zh": "“你无法过分强调肠道对炎症到脑部健康的所有重要性。肠道是门卫，完整性是其他一切的基础。”"
+  },
+  {
+    "id": 616,
+    "title": "The Tim Ferriss Show Transcripts: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)",
+    "title_zh": "The Tim Ferriss Show Transcripts: The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy-transcript/",
+    "tags": [
+      "learn",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-15",
+    "summary_en": "This episode chronicles an extraordinary journey of a 25‑year‑old man with cerebral palsy and autism, guided by world‑champion weightlifter Jerzy Gregorek, who applied micro‑progressions, cognitive training, and a philosophy of hard choices to unlock unprecedented physical, cognitive, and emotional gains. The dialogue reveals how incremental strength gains—bench pressing from 15 to 170 pounds—paralleled cognitive breakthroughs, such as mastering basic arithmetic, engaging in meaningful conversations, and eventually enrolling in community college. The discussion critiques conventional therapy that treats CP as a static limitation and instead promotes a growth mindset where the brain, like a muscle, can rebuild pathways through consistent, purposeful practice. It highlights the power of interdisciplinary coaching—combining strength training, math tutoring, poetry, and philosophy—to foster holistic transformation. The episode ends with a call to action for researchers and therapists to formalize this method into a replicable protocol, emphasizing that such progress is possible for anyone who starts at the right small, measurable step. The story invites listeners to rethink disability, resilience, and the potential of personalized, data‑driven coaching.",
+    "summary_zh": "一段關於腦性麻痺與自閉症共病者的驚人逆襲。教練以微進度為核心，將力量訓練、數學、詩歌、哲學串連，讓身體與大腦同時重塑。",
+    "best_quote_en": "‘If the brain is a muscle, then you can train it the same way you train a body.’",
+    "best_quote_zh": "‘如果大腦是一塊肌肉，那麼你就可以像訓練身體一樣訓練它。’"
   }
 ]
