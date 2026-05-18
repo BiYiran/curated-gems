@@ -1,125 +1,5 @@
 [
   {
-    "id": 517,
-    "title": "The New Funding Landscape",
-    "title_zh": "新的融资格局",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superangels.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-04-27",
-    "summary_en": "The article dissects the seismic shift in startup fundraising, spotlighting the rise of \"super-angels\"—individuals who blend angel flexibility with VC scale. It explains how this new investor type erodes the historical clear divide between angels and VCs, offering founders a middle ground: sizable capital without the heavy board seat burdens or deep dilution of traditional Series A rounds. The piece critically examines the strategic tug‑of‑war: VCs expanding into angel rounds to protect their pipeline, and super-angels tightening valuation scrutiny to target quick exits. It projects an evolving ecosystem where both forces converge, becoming more alike, yet still offering founders fresher terms, faster closing, and higher valuations in the medium term. The analysis is data‑driven, drawn from YC’s empirical observations, and forward‑looking, highlighting the inevitable market price on the “value-added” promises of VCs. For founders, the key insight is that competition now favors smarter, more flexible funding structures, but success still hinges on demonstrating growth signals that attract both super-angels and VCs alike.",
-    "summary_zh": "文中剖析了创业融资的剧变，聚焦“超级天使”——兼具天使灵活与风投规模的投资人。作者指出，这一新型投资者模糊了传统天使与风投的界限，为创始人提供了既能获得大额资本又不需过多股权与董事会负担的中间路径。文中批判性分析了风投进军天使轮、超级天使严格估值的双向竞争，并预测两者将趋同但仍保持差异。作者基于 YC 数据，强调竞争将驱动更快、更高估值的融资节奏。核心启示是：竞争加剧带来更灵活的融资结构，但创始人仍需以增长数据吸引双方。\n",
-    "best_quote_en": "The high valuations startups are presently getting may not last forever.",
-    "best_quote_zh": "现在创业公司获得的高估值可能并不会持续下去。"
-  },
-  {
-    "id": 518,
-    "title": "Why Forecasting Fails Decision Makers",
-    "title_zh": "为何预测让决策者失效",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/KrN8er2mALEJa83vw/why-forecasting-fails-decision-makers",
-    "tags": [
-      "solve",
-      "ai-research",
-      "business-model",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "商业模式",
-      "深度分析"
-    ],
-    "date": "2026-04-27",
-    "summary_en": "James Newport’s post is a sharp critique of the forecasting community’s misplaced priorities. He argues that forecasters obsess over linguistic precision and statistical accuracy while ignoring the real questions that decision‑makers face—identifying which risks matter, crafting actionable policy memos, and fostering transparency. Newport points out that politicians and bureaucrats rarely understand raw probabilities, and that the true value of forecasting lies in exposing divergent views, not in incremental Brier‑score gains. He laments the wasteful allocation of funds toward elegant platforms and research reports that never reach the desks of ministers, while practical implementation workshops languish. The article invites leaders, policymakers, and practitioners to re‑orient forecasting from a status symbol to a pragmatic, integrated tool that reveals hidden risks and improves decision quality. The insight is a call for a shift from academic elegance to institutional relevance, urging the community to focus on problem‑identification, communication, and real‑world impact.",
-    "summary_zh": "新波特批评预测学把重心放在语言精度和统计准确上，却忽视决策者真正关心的问题——识别关键风险、透明沟通与政策制定。他指出，预测真正价值在于揭示不同观点，而非微小准确度提升，并呼吁将预测工具转变为实用决策助手，关注问题识别与结果落地。",
-    "best_quote_en": "The real value of forecasting is in the moment you realise two people in the same room have forecasts 40% apart.",
-    "best_quote_zh": "预测的真正价值在于你意识到同一房间里两个人的预测相差40%时。"
-  },
-  {
-    "id": 519,
-    "title": "Donald Trump’s Spring Cleaning",
-    "title_zh": "唐纳德·特朗普的春季大扫除",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "The article dissects a wave of high‑profile resignations and firings within the Trump administration amid the Iran‑war, framing them as manifestations of a broader crisis of loyalty versus expertise. By cataloguing the departures of three cabinet women, the FBI director, the intelligence director, and the commerce secretary, the piece demonstrates how Trump’s insistence on ideological conformity has eroded institutional competence. It contextualizes these exits in the political calculus of the 2026 midterms, noting that public disapproval is now at 67 % and that the administration has largely swapped seasoned officials for hard‑line MAGA loyalists. The narrative critiques the juxtaposition of grandiose promises—such as Musk’s $2 trillion savings plan and Trump’s 15‑20 million deportation pledge—against the stark realities of bureaucratic inertia, fiscal mismanagement, and scandal. The author concludes that the pursuit of loyalty over expertise has left the White House a shell of a functioning government, a paradox that threatens both policy effectiveness and democratic legitimacy.\n\nThe piece offers a nuanced case study of how political expediency can undermine governance, making it a valuable resource for scholars of American politics, policymakers, and journalists. It exposes the tension between populist rhetoric and administrative reality, providing concrete examples of misaligned incentives, resource misuse, and the erosion of bureaucratic norms. The article’s critical tone, reliance on reputable sources, and detailed chronicle of personnel changes render it both informative and actionable for readers seeking to understand the internal dynamics of a controversial presidency.",
-    "summary_zh": "文中通过特朗普政府内部高层离职与停职事件，揭示了忠诚与专业之间的矛盾。作者指出，特朗普在伊朗战争与中期选举前倾向硬派盟友，而非经验丰富的官员，导致治理效率下降。文中引用具体案例，批判了大规模预算削减与移民政策的夸张承诺。文章兼具学术深度与政策启示，适合政治学者与媒体人参考。",
-    "best_quote_en": "“The whole government is now being run by a very small group of people.”",
-    "best_quote_zh": "“现在整个政府都被极少数人操纵。”"
-  },
-  {
-    "id": 520,
-    "title": "Key fobs / US Park finder / Movie theatre deal",
-    "title_zh": "钥匙扣/美国国家公园查找器/电影院优惠",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/key-fobs-us-park-finder-movie-theatre-deal/",
-    "tags": [
-      "guide",
-      "education",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "This eclectic roundup showcases a blend of practical hacks and curated tools that cater to modern convenience seekers. From the painstaking yet rewarding process of programming a cheap spare key fob for a 2008 Prius, to leveraging an AI-powered national park finder that aggregates Reddit reviews and travel tips, each story underscores a recurring theme: value-driven problem solving. The inclusion of a budget-friendly sound machine and a flight-matching app highlights how everyday pain points—sleep disturbance and travel planning—can be addressed through thoughtful, data-backed solutions. The final piece on AMC’s A‑List membership ties the narrative together, offering a tangible financial benefit to frequent moviegoers. Collectively, these anecdotes not only furnish actionable steps but also provoke reflection on how technology, community knowledge, and strategic subscriptions converge to streamline daily life. Readers are left with a roadmap to identify, evaluate, and adopt tools that turn routine hassles into opportunities for cost savings and enriched experiences.",
-    "summary_zh": "本篇汇集实用技巧与精选工具，涵盖从低价钥匙扣编程、AI公园查询、睡眠声机、航班匹配到影院会员优惠，突出技术与社区知识如何解决日常痛点，促使读者识别并采纳节省成本、提升体验的方案。",
-    "best_quote_en": "The programming steps are ridiculously complex; I thought it was a joke, but after many tries I successfully programmed the new fob to work, so now I have a spare.",
-    "best_quote_zh": "编程步骤极其复杂，我以为这是一场玩笑，但经过多次尝试，我成功编程新的钥匙扣，现在我有了备用钥匙。"
-  },
-  {
-    "id": 521,
-    "title": "I yearned to be a mother. Why did I feel nothing when my daughter was finally born?",
-    "title_zh": "我渴望成为母亲。当女儿出生时我却感到无动于衷？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/26/i-yearned-to-be-a-mother-why-did-i-feel-nothing-when-my-daughter-was-finally-born",
-    "tags": [
-      "analyze",
-      "psychology",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-04-26",
-    "summary_en": "Amanda Craig’s raw memoir exposes the stark gap between the cultural myth of instant maternal love and the harsh reality many new parents face: numbness, post‑delivery trauma, and the silent struggle with mental health. The narrative traces her upbringing in Italy, the painful birth, the medical system’s shortcomings, and the long, painful journey toward bonding. It highlights how systemic factors—understaffed maternity wards, male‑dominated obstetrics, and societal taboos around post‑natal depression—compound personal grief. Craig’s story is both a cautionary tale and a call for more empathetic care, open dialogue, and comprehensive support for mothers. Her eventual breakthrough, sparked by her daughter’s first smile, underscores the resilience that can emerge when emotional barriers are finally breached. The account serves as a powerful case study for clinicians, policymakers, and parents alike, urging a shift from mere procedural care to genuine emotional and psychological support.",
-    "summary_zh": "安娜·克雷格的亲身回忆揭示了社会对“母性即刻爱”的浪漫期望与现实之间的巨大落差——出生后的麻木、产后创伤与精神健康的默默挣扎。她描绘了意大利的成长背景、痛苦的分娩、医疗体系的缺失，以及与孩子建立情感纽带的漫长过程。文章批判了人手不足的产科、男性主导的产科医生以及对产后抑郁的社会禁忌，指出这些因素如何加重母亲的痛苦。最终，女儿的微笑成为突破情感屏障的转折点，提醒我们在医疗服务中加入情感与心理支持至关重要。",
-    "best_quote_en": "The guilt and misery were overwhelming.",
-    "best_quote_zh": "那份罪疚与痛苦无以言表。"
-  },
-  {
     "id": 522,
     "title": "Where to See Silicon Valley",
     "title_zh": "在哪里看硅谷",
@@ -2344,5 +2224,123 @@
     "summary_zh": "一段關於腦性麻痺與自閉症共病者的驚人逆襲。教練以微進度為核心，將力量訓練、數學、詩歌、哲學串連，讓身體與大腦同時重塑。",
     "best_quote_en": "‘If the brain is a muscle, then you can train it the same way you train a body.’",
     "best_quote_zh": "‘如果大腦是一塊肌肉，那麼你就可以像訓練身體一樣訓練它。’"
+  },
+  {
+    "id": 617,
+    "title": "The UAE must be held responsible for its part in Sudan’s crisis | Letters",
+    "title_zh": "阿联酋必须对苏丹危机承担责任 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/may/17/the-uae-must-be-held-responsible-for-its-part-in-sudans-crisis",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-05-17",
+    "summary_en": "The letter offers a sharp, data‑driven critique of the UAE’s alleged complicity in Sudan’s civil war, arguing that a formal international inquiry is essential to hold state and individual actors accountable. By highlighting the failure of the UN and African bodies to scrutinize external sponsors, it stresses that accountability could recalibrate the geopolitical calculus, potentially reducing external support for warring factions and opening pathways for reparations and reconstruction. The authors’ call for a cohesive global response serves as a powerful reminder that international law must be enforced not only against internal actors but also against foreign patrons whose material and mercenary support fuels atrocities. This piece is particularly relevant to policymakers, human rights advocates, and scholars of international law, offering concrete steps toward achievable justice and peace in a region long ignored by global institutions.",
+    "summary_zh": "这篇信件以严谨的数据为依托，猛烈抨击阿联酋在苏丹内战中的角色，主张国际社会需对外部资助者展开正式调查。作者认为，唯有落实责任，才能改变外部势力对冲突各方的支持，促进和解与重建。此文提醒人们，国际法应同样约束海外资助者，而非仅关注内部冲突方。",
+    "best_quote_en": "‘Having an official report documenting violations by external actors might spur states and others into adopting overdue measures in response.’",
+    "best_quote_zh": "‘如果能正式记录外部行为者的违规，将促使各国采取迟来的行动。’"
+  },
+  {
+    "id": 618,
+    "title": "Can Hakeem Jeffries Lead a Democratic Takeover of the House?",
+    "title_zh": "哈基姆·杰弗里斯能否主导民主党夺取众议院？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/05/25/can-hakeem-jeffries-lead-a-democratic-takeover-of-the-house",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-05-18",
+    "summary_en": "The piece dissects Hakeem Jeffries’ rise as House Minority Leader and the strategic, emotional, and ideological battles that shape his quest for the Speakership.  It reveals how Jeffries’ pragmatism—mixing fundraising, coalition‑building, and disciplined messaging—has kept him a steady hand amid a fractured caucus, yet also exposed him to criticism from both progressive insurgents and establishment hawks.  The narrative frames Trump‑era gerrymandering as a chess match, with Jeffries orchestrating counter‑moves in blue states that mirror Republican gains in the South, while simultaneously navigating the fragile balance between fiscal leverage (the shutdown and ACA credits) and message discipline.  The article underscores Jeffries’ dual identity: a “wartime consigliere” who keeps the caucus intact, and a potential Speaker whose leadership would reshape the Democratic agenda.  It invites readers to consider whether his emphasis on operational control and bipartisan negotiation can translate into the visionary authority required to steer a majority House, or whether his cautious style will stall progress in a polarized era.  The piece is rich in detail yet analytical, offering a nuanced view of the interplay between personal ambition, party politics, and institutional power.",
+    "summary_zh": "文中深度剖析哈基姆·杰弗里斯在众议院中的崛起与挑战，探讨他在党内分裂、选区划分与党派议题中的权衡与行动。作者以特朗普时代的“棋局”为框架，描绘他如何在红州对抗共和党地图重绘，同时在蓝州发动自己的“反制”行动。文章聚焦其以实务操作、筹款与信息传递取胜的风格，并揭示他在党内进取与保守之间的摩擦。通过对预算危机、医疗保健、调查工作等议题的探讨，作者进一步呈现杰弗里斯如何在复杂的多元利益中保持团结，并为可能的议长候选人铺路。整体逻辑严谨、论点清晰，兼具对政治人性的洞察与对制度变迁的预判。",
+    "best_quote_en": "\"I wanted to do a direct‑to‑camera on this… I decided, you know, I’m not gonna hold back.\"",
+    "best_quote_zh": "\"我想直接对着镜头说这件事…我决定，我不想再压抑自己。\""
+  },
+  {
+    "id": 619,
+    "title": "Money wisdom / Learn AI / Find a bra that fits",
+    "title_zh": "金钱智慧 / 学习 AI / 找到合适的文胸",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/money-wisdom-learn-ai-find-a-bra-that-fits/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-17",
+    "summary_en": "This eclectic column blends practical life hacks with educational resources, offering readers a roadmap to wiser spending, demystifying AI, and solving everyday fit problems. The spending‑wisdom segment highlights Dan Pink’s concise, evidence‑based advice, reminding us that prudent consumption can be as transformative as earning. The AI tutorial, “Learn AI Layer by Layer,” bridges theory and practice, empowering middle‑school math‑savvy readers to grasp LLM internals through interactive playgrounds—a rare blend of rigor and accessibility. The bra‑fitting guide showcases a data‑driven, user‑centric approach to a common pain point, turning a tedious DIY process into a simple, repeatable measurement routine. Complementary tech snippets—from virtual canal lock doorbells to open‑source printer drivers—illustrate how curiosity can turn simple curiosities into functional tools. Collectively, the piece underscores that actionable knowledge, whether financial, technical, or personal, thrives when it is distilled, interactive, and directly applicable. It invites readers to experiment, measure, and iterate, turning abstract advice into tangible outcomes.",
+    "summary_zh": "这篇杂糅文章把金钱明智、AI学习和生活小技巧巧妙结合，提醒我们明智消费同赚钱一样重要，提供可操作的测量指南与互动式AI教程，鼓励读者用数据驱动、实验主义的方式把抽象知识落地。",
+    "best_quote_en": "The science‑based, no‑fluff distilled wisdom is well worth your 8 minutes.",
+    "best_quote_zh": "这份基于科学、毫无废话的精炼智慧值得你花八分钟。"
+  },
+  {
+    "id": 620,
+    "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+    "title_zh": "如何克服社交焦虑 | 尼克·艾普利博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-overcome-social-anxiety-nick-epley",
+    "tags": [
+      "solve",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-18",
+    "summary_en": "Dr. Nick Epley, a behavioral science professor, reveals that everyday micro‑interactions with strangers can dramatically boost mental and physical well‑being. He demystifies social anxiety by presenting evidence‑based, low‑effort tools—such as brief eye contact, small talk, and habit‑tracking—to rewire negative assumptions. The episode blends rigorous research with relatable anecdotes, offering a step‑by‑step framework: identify and challenge false beliefs, practice intentional connection moments, and use a 100‑day rejection experiment to build resilience. Readers gain actionable strategies supported by data on social cues, gaze, and the neural basis of judgment. The discussion also touches on broader themes—social isolation, empathy, and the role of children—highlighting the pervasive impact of connection. Ultimately, the content equips listeners with a practical, science‑backed playbook to reduce anxiety, improve confidence, and foster healthier relationships.",
+    "summary_zh": "尼克博士用实验数据阐释微小社交举动如何提升健康，提供可操作的“100天拒绝实验”等工具，帮助读者挑战负面假设、减少焦虑、提升自信。",
+    "best_quote_en": "\"The most powerful antidote to social anxiety is not avoidance, but the deliberate, small moments of connection that rewire our brain’s expectation of judgment.\"",
+    "best_quote_zh": "“消除社交焦虑的最强药方不是回避，而是有意识地进行微小的连接时刻，重塑我们大脑对评判的预期。”"
+  },
+  {
+    "id": 621,
+    "title": "The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)",
+    "title_zh": "我见过的最不可思议的转变——Jerzy Gregorek关于自闭症、脑性瘫痪、教练和微进步的力量（#865）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/",
+    "tags": [
+      "learn",
+      "leadership",
+      "medicine",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "领导管理",
+      "医学健康",
+      "新手友好"
+    ],
+    "date": "2026-05-14",
+    "summary_en": "Jerzy Gregorek’s story is a masterclass in the power of micro‑progression and purpose‑driven coaching. A 4‑time world weightlifting champion, Gregorek applies the same incremental mindset he used to conquer the Olympic bench to help individuals with cerebral palsy, autism, and chronic fatigue achieve tangible, life‑changing results. The interview dissects the psychological and neurological underpinnings of small wins—how a 2‑pound lift can rewire a brain, how consistent, mission‑aligned movement can unlock latent potential, and how framing progress as a series of micro‑challenges shifts motivation from external approval to internal ownership. Gregorek’s narrative is not just inspirational; it is an actionable blueprint that blends exercise science, behavioral coaching, and neuroplasticity research. By highlighting case studies, timestamps, and linked resources, the episode invites listeners to replicate the method in diverse contexts, from physical therapy to academic performance. The conversation is a reminder that the most profound transformations often begin with a single, deliberate step, and that coaching should facilitate self‑creation rather than impose a fixed outcome.",
+    "summary_zh": "Jerzy Gregorek 用微进步和目标驱动的教练方式，展示了自闭症、脑性瘫痪等人群如何通过小步走大改变。",
+    "best_quote_en": "\"With cerebral palsy, they have different conditions, different beginnings. The most important [thing] is to find where is the beginning. Where to start is one of the major things because usually I think that we want too much. It’s not going to happen. So we need to find this very tiny thing.\"",
+    "best_quote_zh": "“有脑性瘫痪的人有不同的条件，不同的起点。最重要的是找到起点。起点在哪里是最关键的，因为我常常认为我们想得太多。它不会发生。所以我们需要找到这个非常小的东西。”"
   }
 ]
