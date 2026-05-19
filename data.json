@@ -1,27 +1,5 @@
 [
   {
-    "id": 522,
-    "title": "Where to See Silicon Valley",
-    "title_zh": "在哪里看硅谷",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/seesv.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-04-28",
-    "summary_en": "The piece is a lyrical guide to the physical and cultural landscape of Silicon Valley, written with a founder’s insider perspective. It maps the valley’s hidden hubs—from Stanford’s sprawling campus and the bustling University Ave cafés where founders pitch, to Google’s first office at 165 University Ave, the uniform V‑C buildings on Sand Hill Road, and the scenic Skyline Drive that frames the region’s natural beauty. The author emphasizes how place shapes startup culture: proximity to diverse cafés fuels collaboration, while the uniformity of VC offices reflects the business’s pragmatic nature. The narrative offers practical takeaways—where to spot the pulse of innovation and how the valley’s geography, climate, and real‑estate dynamics influence startup trajectories. It also touches on the tension between historic campus towns and modern suburban sprawl, hinting at the future of entrepreneurship in an evolving landscape. The article invites readers to move beyond the myth of a bustling tech center to a nuanced understanding of how environment, community, and opportunity intertwine in the valley’s ecosystem.",
-    "summary_zh": "文章以创始人视角描绘硅谷的地理与文化脉络，映射从斯坦福广阔校园到大学大道咖啡馆、谷歌早期办公室、沙丘路VC大楼，再到风景秀丽的天际线公路。作者强调地点决定创新文化，亲密的咖啡氛围促进合作，VC办公楼的单一性折射出行业务务实。文章提醒读者超越硅谷喧嚣的刻板印象，洞察环境、社区与机会如何交织，展望创业生态的未来。",
-    "best_quote_en": "If you can’t tell, the founders are the ones leaning forward eagerly, and the investors are the ones sitting back with slightly pained expressions.",
-    "best_quote_zh": "如果你看不出来，创始人正前倾热情，而投资人则坐着略显痛苦的表情。"
-  },
-  {
     "id": 523,
     "title": "Latent reasoning models might be a good thing?",
     "title_zh": "潜在推理模型或许是一件好事？",
@@ -2342,5 +2320,27 @@
     "summary_zh": "Jerzy Gregorek 用微进步和目标驱动的教练方式，展示了自闭症、脑性瘫痪等人群如何通过小步走大改变。",
     "best_quote_en": "\"With cerebral palsy, they have different conditions, different beginnings. The most important [thing] is to find where is the beginning. Where to start is one of the major things because usually I think that we want too much. It’s not going to happen. So we need to find this very tiny thing.\"",
     "best_quote_zh": "“有脑性瘫痪的人有不同的条件，不同的起点。最重要的是找到起点。起点在哪里是最关键的，因为我常常认为我们想得太多。它不会发生。所以我们需要找到这个非常小的东西。”"
+  },
+  {
+    "id": 622,
+    "title": "Why Twitter is a Big Deal",
+    "title_zh": "为什么Twitter是一件大事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/twitter.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-05-19",
+    "summary_en": "Twitter’s emergence illustrates how a novel communication protocol can reshape the digital landscape, echoing the transformative power of historical protocols like TCP/IP and HTTP. Unlike traditional protocols, Twitter’s design eschews explicit recipient specification, making it inherently public and viral. This openness, coupled with the founders’ deliberate delay in monetization, allowed the platform to spread organically, mirroring the way early internet protocols acquired ubiquity before commercial interests interceded. The article underscores that the rarity of a successful, privately owned protocol—especially one that feels open—creates a cultural and technical touchstone, offering lessons for both technologists and entrepreneurs on balancing control with openness to foster network effects. The piece invites reflection on how the deliberate choice to prioritize user adoption over immediate revenue can yield long‑term strategic advantages, a counterintuitive yet powerful insight for startups navigating the tension between growth and monetization.",
+    "summary_zh": "Twitter 通过其无需指定收件人的公开协议，打破传统通信模式，像 TCP/IP、HTTP 那样成为互联网的基石。创始人对盈利的迟疑与开放心态，让平台像公共协议一样被广泛采用，说明真正的网络效应来自于“自由”而非控制。对创业者来说，这表明在早期阶段放弃对收益的追求，可能为后续更大价值奠定基础。",
+    "best_quote_en": "The founders of Twitter have been slow to monetize it, which may in the long run prove to be an advantage because they haven't tried to control it too much, Twitter feels to everyone like previous protocols.",
+    "best_quote_zh": "Twitter 的创始人一直拖延盈利，这可能在长远来看是一种优势，因为他们没有过度控制，Twitter 对每个人来说就像以前的协议一样自然。"
   }
 ]
