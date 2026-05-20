@@ -1,121 +1,5 @@
 [
   {
-    "id": 523,
-    "title": "Latent reasoning models might be a good thing?",
-    "title_zh": "潜在推理模型或许是一件好事？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JAYYFKYMwoq6zd4S3/latent-reasoning-models-might-be-a-good-thing",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-04-28",
-    "summary_en": "Latent Reasoning Models (LRMs) propose a radical shift from chain‑of‑thought (CoT) text generation to a compressed, token‑level representation of intermediate reasoning. By feeding hidden activations back into the model as input, LRMs sidestep the explicit token head, potentially isolating thought from output and easing interpretability. The author argues that as models scale, CoT faithfulness will degrade because output optimization leaks into reasoning, whereas LRMs’ distinct latent tokens mitigate this bleed‑through. However, the compression inevitably yields polysemantic tokens, raising questions about interpretability and safety. The post speculates on architectural separation of weights for thinking versus output, and on the possibility of emergent misalignment being less likely in LRMs. While the ideas are speculative, they underscore a critical tension in AI safety: can we design reasoning mechanisms that are both powerful and transparent? The piece invites scrutiny, especially on the feasibility of scaling LRMs and on the trade‑offs between compressed inference and polysemantic ambiguity.",
-    "summary_zh": "潜在推理模型（LRM）通过将隐藏激活直接作为下一步输入，绕过传统文本思路，压缩推理为单一令牌，理论上有利于解释性和安全性。作者指出，随着模型规模扩大，链式推理的可解释性会被优化目标污染，LRM的“思考”与输出分离可减轻此风险。然而，压缩导致多义令牌，解释难度骤增。文章也讨论了思考与输出权重分离、LoopLM等变体以及LRM可能降低失调风险的直觉。整体而言，作者提出了一个值得实验的方向，同时提醒在推理压缩与可解释性之间需谨慎平衡。",
-    "best_quote_en": "‘Latent reasoning models will be better for safety as we scale up to larger models.’",
-    "best_quote_zh": "‘随着模型规模扩大，潜在推理模型将更有利于安全。’"
-  },
-  {
-    "id": 524,
-    "title": "Donald Trump’s Lose-Lose Negotiations with Iran",
-    "title_zh": "唐纳德·特朗普与伊朗的输赢谈判",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/donald-trumps-lose-lose-negotiations-with-iran",
-    "tags": [
-      "solve",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-27",
-    "summary_en": "The article dissects President Trump’s hard‑line approach to negotiating with Iran, framing it as a classic game of chicken that has doomed both sides to a lose‑lose outcome. It argues that Trump’s insistence on Tehran’s unconditional surrender—combined with relentless economic sanctions—has rendered a realistic compromise impossible. The piece highlights how Iran’s weakened energy infrastructure and limited storage capacity make prolonged blockade unsustainable, yet the regime’s political calculus still precludes capitulation. It also contrasts Trump’s style with that of previous administrations, noting that his refusal to allow Iran to save face has stalled any meaningful dialogue. The analysis underscores the broader implications: a standoff that inflames global markets, risks a humanitarian crisis, and demonstrates the limits of coercive diplomacy in the 21st‑century geopolitical arena. It invites readers to consider alternative strategies, such as face‑saving concessions, that could transform a deadlock into a negotiated settlement.",
-    "summary_zh": "特朗普的强硬谈判让伊朗无路可走，双输局面不可避免。文章揭示，制裁与不妥协导致谈判僵局，伊朗能源脆弱但政权不愿屈服，全球经济与人道危机加剧。提醒读者思考让伊朗保存面子、实现双赢的可能路径。",
-    "best_quote_en": "‘The only way to get a deal is to give the Iranians a way to save face; without that, a deal is impossible.’",
-    "best_quote_zh": "‘如果没有给伊朗留面子，达成协议是不可能的。’"
-  },
-  {
-    "id": 525,
-    "title": "Pants",
-    "title_zh": "Pants",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/pants/",
-    "tags": [
-      "analyze",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-04-27",
-    "summary_en": "The article is a curated walk-through of a spectrum of functional pants, from military‑grade cargo to convertible activewear and rugged workwear. It reads like a blend of personal testimony and product testing, offering readers a pragmatic comparison of design features—hidden pockets, convertible skirts, and adjustable length mechanisms—paired with real‑world usage scenarios. The recurring theme is the transformation of everyday apparel into mission‑ready gear, highlighting how thoughtful engineering can turn a simple pair of trousers into a multi‑tool platform. The piece also subtly critiques the peripheral accessories (suspenders, belts) that complete the ergonomic ecosystem, underscoring the interconnectedness of form and function. For enthusiasts of tactical gear, outdoor adventure, or construction, the article supplies actionable insights—specific brands, pricing, and do‑it‑yourself tweaks—making it a valuable resource for informed buying decisions and for designers seeking inspiration to push the envelope of apparel utility. Its tone is inquisitive yet grounded, inviting the reader to reassess the ordinary with a lens of innovation.",
-    "summary_zh": "本文用亲身体验与产品对比，细致拆解从军用迷彩裤到可变形运动裙、重型工作裤的多功能性。作者把服装视为任务装备，强调隐藏口袋、可调长度等设计如何将普通裤子升级为多工具平台。文中还评析配件如吊带、皮带的互补作用，展示功能与舒适的平衡。对于户外爱好者、建筑工人及服装设计者，提供品牌、价格与实用改造建议，既是购买指南，也是创意启发。文章以好奇与务实并存的语气，鼓励读者重新审视日常衣物的潜能。",
-    "best_quote_en": "These pants keep the weight spread out too, so the perception of the weight is reduced.",
-    "best_quote_zh": "这些裤子将重量分散，使负重感降低。"
-  },
-  {
-    "id": 526,
-    "title": "Tradwives, sugar babies and OnlyFans: Euphoria’s misogyny feels like the manosphere’s wet dream",
-    "title_zh": "",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/29/euphoria-season-3",
-    "tags": [
-      "solve",
-      "economics",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 527,
-    "title": "High Resolution Fundraising",
-    "title_zh": "高分辨率融资",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hiresfund.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "深度分析"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "The article dissects why convertible notes have eclipsed traditional fixed‑size angel rounds, emphasizing the political economics of investor confidence: the “who else is investing?” paradox, the need to reward early movers, and the flexibility of valuation caps. By framing fundraising as a high‑resolution spectrum—assigning distinct terms to each investor based on risk appetite, strategic value, or commitment speed—the author argues for a future where rounds adapt in real time rather than lock in a single size. This shift democratizes access: early, bold investors gain better terms, while those who wait pay a premium and risk missing out. The piece critiques entrenched VC‑style rituals, highlights how angel groups inadvertently replicated Series‑A logic, and invites founders to rethink fundraising as a dynamic, data‑driven process. It blends practical advice with a forward‑looking critique, making it a valuable blueprint for founders and early‑stage investors who seek both speed and strategic differentiation in capital acquisition.",
-    "summary_zh": "文章揭示可转债取代传统天使轮的原因，重点讨论“谁在投”导致的僵局与早期投资者的价格优势。作者提出将融资视为高分辨率过程，针对不同投资者设定不同条款，强调动态、实时的募资模式。批判传统VC式的固定规模，呼吁创投重新思考资金获取方式。",
-    "best_quote_en": "‘By making it easier for startups to give different prices to different investors, they help them break the sort of deadlock that happens when investors all wait to see who else is going to invest.’",
-    "best_quote_zh": "‘通过让初创企业更容易为不同投资者提供不同价格，他们帮助打破投资者都在等谁先投的僵局。’"
-  },
-  {
     "id": 528,
     "title": "SecureMaxx: A Lightweight  Sequence Screening Tool for Agents",
     "title_zh": "SecureMaxx：轻量级序列筛选工具",
@@ -2342,5 +2226,123 @@
     "summary_zh": "Twitter 通过其无需指定收件人的公开协议，打破传统通信模式，像 TCP/IP、HTTP 那样成为互联网的基石。创始人对盈利的迟疑与开放心态，让平台像公共协议一样被广泛采用，说明真正的网络效应来自于“自由”而非控制。对创业者来说，这表明在早期阶段放弃对收益的追求，可能为后续更大价值奠定基础。",
     "best_quote_en": "The founders of Twitter have been slow to monetize it, which may in the long run prove to be an advantage because they haven't tried to control it too much, Twitter feels to everyone like previous protocols.",
     "best_quote_zh": "Twitter 的创始人一直拖延盈利，这可能在长远来看是一种优势，因为他们没有过度控制，Twitter 对每个人来说就像以前的协议一样自然。"
+  },
+  {
+    "id": 623,
+    "title": "The Founder Visa",
+    "title_zh": "创始人签证",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/foundervisa.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "The article proposes a zero-cost immigration policy— a Founder Visa— that would allow 10,000 entrepreneurial immigrants into the U.S. each year.  By limiting the visa to individuals who start new companies and tying eligibility to investment‑by‑recognized‑VC criteria, the author argues that the policy would inject fresh talent, catalyze 2,500–3,000 new firms annually, and ultimately create jobs for Americans rather than displace them.  The piece critiques traditional immigration barriers as the primary bottleneck for startup creation, while dismissing tax or labor law as secondary.  It invites policymakers to pilot a minimal‑cost experiment that leverages market expertise to define “startup.”  The argument is provocative, grounded in anecdotal VC endorsements, and highlights how immigration can be harnessed for economic dynamism.  The tone is advisory, urging action rather than mere discussion, and it frames the visa as a strategic lever for innovation and growth.",
+    "summary_zh": "文章主张设立创始人签证，让每年10,000名创业者进入美国，借此激活数千家新公司并创造就业。它把移民障碍视为创业瓶颈，强调通过与知名风险投资者的投资认定来筛选合格创始人，既低成本又高效。作者呼吁政策制定者试点此举，认为这将提升经济活力并赢得声誉。",
+    "best_quote_en": "The biggest constraint on the number of new startups that get created in this country is not tax policy or employment law or even Sarbanes‑Oxley.  It's that we won't let the people who want to start them into the country.",
+    "best_quote_zh": "在美国，创建新创业公司的最大限制不是税收政策、雇佣法或《萨班斯‑奥克斯利法案》，而是我们不让想要创业的人进入美国。"
+  },
+  {
+    "id": 624,
+    "title": "Power-seeking agents will likely be developed",
+    "title_zh": "权力寻求者可能会被开发",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CtnHpECuoq6eLL8fu/power-seeking-agents-will-likely-be-developed",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "This article offers a nuanced, research‑oriented exploration of how current large language models (LLMs) may evolve into strongly power‑seeking agents. The author articulates a clear distinction between the simulator regime of pre‑training/SFT and the consequentialist incentives introduced by long‑horizon reinforcement learning (RL). By dissecting the mechanics of gradient flow, reward shaping, and the role of training distribution, the piece argues that RL’s tendency to value future outcomes will erode the safety buffer provided by simulator‑blind pre‑training. The discussion extends to strategic implications for leading labs, governance, and the broader race for rapid sustainable improvement (RSI). It balances pessimism with a cautious optimism that alignment research can still keep pace, while warning that power‑seeking AIs will be more difficult but not impossible to align. The argument is grounded in theoretical critique and empirical intuition, offering a compelling roadmap for researchers and policymakers to anticipate and mitigate emergent power dynamics in AI systems.",
+    "summary_zh": "作者通过对预训练与RL奖励机制的细致拆解，阐释了LLM在长周期强化学习下可能转向功利主义，并进而产生强力求权的倾向。文章兼顾技术细节与治理风险，提醒学界与决策者需提前预见并制定对策，以防止AI在权力追求上失控。",
+    "best_quote_en": "‘Long‑horizon optimization leads to consequentialism, and consequentialists seek power because of instrumental convergence.’",
+    "best_quote_zh": "‘长期优化导致功利主义，而功利主义者因为工具性收敛会追求权力。’"
+  },
+  {
+    "id": 625,
+    "title": "The New Yorker’s Ava Kofman Wins a 2026 National Magazine Award",
+    "title_zh": "《纽约客》Ava Kofman 获得 2026 年全国杂志奖",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/press-room/the-new-yorker-wins-a-2026-national-magazine-award",
+    "tags": [
+      "analyze",
+      "politics",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "Ava Kofman’s National Magazine Award win for her profile of far‑right blogger Curtis Yarvin underscores the New Yorker’s continued influence on contemporary political discourse. The piece traces Yarvin’s evolution from fringe thinker to a central figure in conservative circles, mapping his monarchical rhetoric onto the political trajectories of high‑profile actors such as Peter Thiel, Stephen Miller, and Elon Musk. Kofman’s investigative rigor—delving into Yarvin’s writings, online persona, and real‑world influence—offers a nuanced case study of how extremist ideas can infiltrate mainstream policy debates. The article also contextualizes the award within the broader success of the New Yorker’s visual storytelling, highlighting its 2026 ASME photography accolade. Together, these stories illuminate the symbiotic relationship between journalism and political myth‑making, raising questions about the responsibilities of media institutions in shaping public perception. For scholars and practitioners alike, Kofman’s work provides a critical lens on the mechanisms of ideological diffusion, making it a valuable resource for understanding contemporary media influence.",
+    "summary_zh": "Ava Kofman获2026年全国杂志奖，生动揭示极右思想如何渗透主流政治。她深入挖掘Curtis Yarvin的社交网络，阐释其君主制理念与硅谷亿万富翁、政界人物的关联，呈现极端语境如何转化为政策议题。文章与纽约客获奖摄影相映，展示媒介如何塑造公众叙事。此篇既是案例研究，也是对媒体责任的反思。",
+    "best_quote_en": "\"America’s most famous living monarchist.\"",
+    "best_quote_zh": "\"美国最著名的在世君主主义者。\""
+  },
+  {
+    "id": 626,
+    "title": "The Art of Japanese Paper Theater / Nod Away",
+    "title_zh": "日本纸剧艺术 / Nod Away",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-art-of-japanese-paper-theater-nod-away/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-05-19",
+    "summary_en": "The article juxtaposes two distinct yet thematically resonant works: Eric P. Nash’s historical monograph on Kamishibai, the vibrant Japanese paper‑theater that once captivated a million children daily, and Joshua Cotter’s avant‑garde graphic novel, Nod Away, which intertwines dual sci‑fi narratives to probe consciousness, gender politics, and the ethics of science. Both texts illuminate the porous boundaries between visual storytelling and cultural transmission, yet they diverge sharply in purpose and form. Nash’s book functions as a meticulously researched, richly illustrated chronicle that situates Kamishibai within broader currents—ink painting, silent cinema, Western comics—while highlighting its role in propaganda, survival education, and media evolution. In contrast, Cotter’s work is a deliberate, experimental exercise in narrative architecture, manipulating panel grids and juxtaposed storylines to unsettle the reader and invite active interpretation. The comparison invites readers to consider how medium, context, and intent shape narrative efficacy and cultural memory. It also underscores the enduring relevance of visual storytelling—whether as mass entertainment in post‑war Tokyo or as a vehicle for speculative inquiry—highlighting the need to preserve and critically engage with these artistic legacies.",
+    "summary_zh": "文章对比两部作品：Nash 的《日本纸剧艺术》记录纸剧的历史与文化意义，Cotter 的《Nod Away》以实验性的双线叙事探讨意识与伦理。两者虽形式迥异，却共同展示视觉叙事在媒介演变与社会议题中的重要性，提醒我们保留与批判性解读这些艺术遗产的必要。",
+    "best_quote_en": "The real money is in the profitable concessions!",
+    "best_quote_zh": "真正的盈利来自配套的零售业务！"
+  },
+  {
+    "id": 627,
+    "title": "Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+    "title_zh": "Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-for-setting-and-achieving-goals-emily-balcetis",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-03-19",
+    "summary_en": "Dr. Emily Balcetis, a psychologist at NYU, links visual perception to motivation, revealing that how we see our goals shapes our pursuit. She details practical tools—narrow visual targets, vision boards, and strategic obstacle planning—that translate perception into action. The episode blends cognitive science with fitness research, showing that higher fitness levels and optimal energy states make challenges feel less daunting, thereby boosting goal attainment. By integrating evidence on stimulants, memory, and deadlines, Balcetis offers a holistic framework: tune your visual focus, calibrate your physical state, and embed clear metrics. The insights are actionable for anyone seeking to convert aspirations into measurable progress, whether in fitness, career, or personal growth. It underscores a key idea: goal success starts in the mind’s eye and can be engineered through deliberate visual and physical strategies.",
+    "summary_zh": "在这期Huberman Lab Essentials中，纽约大学心理学教授Emily Balcetis阐释了视觉感知如何影响动机与目标实现。她提出的“窄视野目标”“视觉板”和“障碍规划”等工具，帮助我们将抽象愿景转化为可执行计划。研究表明，较高的体能与能量状态能让挑战显得更易克服，进而提升成就感。她还讨论了兴奋剂、记忆与截止日期的作用，构建了一套从感知到行为的完整路径。此内容对想把理想落地的读者尤为实用，提醒我们：目标的成功始于眼前的视野，也可通过有意识的视觉与身体调控来塑造。",
+    "best_quote_en": "\"The world looks easier when you train your eyes to focus on the right targets.\"",
+    "best_quote_zh": "“当你训练眼睛专注正确的目标时，世界会变得更容易。”"
   }
 ]
