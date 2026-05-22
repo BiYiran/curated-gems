@@ -1,97 +1,5 @@
 [
   {
-    "id": 533,
-    "title": "Maybe I was too harsh on deep learning theory (three days ago)",
-    "title_zh": "也许我对深度学习理论评判过于苛刻",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/6SRq7mZ97Dwuavwb6/maybe-i-was-too-harsh-on-deep-learning-theory-three-days-ago",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "The article traces the author’s evolving perspective on deep learning theory, moving from skepticism to appreciation as he revisits seminal works in neural tangent kernels, mean‑field theory, and Greg Yang’s tensor program. It highlights the nuanced differences between infinite‑width limits—NTK’s fixed‑kernel linear regression versus mean‑field’s feature‑learning dynamics—and the historical lineage linking early signal‑propagation studies to modern unifying frameworks. By dissecting landmark papers (Zhang 2016, Nagarajan 2019, Lee 2017, Yang 2022), the piece underscores the importance of coherent intellectual traditions for advancing theory that predicts practical generalization. The author’s candid admission of initial bias, coupled with a call to recommend mean‑field and tensor‑program studies to newcomers, offers a reflective lens on how theoretical rigor can be both inspiring and intimidating. Ultimately, the post serves as a meta‑analysis of theory’s role in demystifying deep learning, encouraging a balanced view that values cumulative progress over singular breakthroughs.",
-    "summary_zh": "作者从怀疑到认可，细述深度学习理论的演进，比较NTK与平均场理论的无限宽极限，并梳理了从早期信号传播到张量程序的历史脉络。文章提醒人们在评估理论价值时应兼顾实用性与可验证性，倡导向新人推荐平均场与张量程序的学习路径。",
-    "best_quote_en": "In my memory, I chalked this up as Greg Yang being a genius. In my recollection of the work, I remembered only μP and the toy shallow neural network model that Yang created that allows one to rederive it.",
-    "best_quote_zh": "在我的记忆里，我把这归功于Greg Yang的天才。根据我的回忆，我只记得μP和Yang创建的那个可以重新推导的玩具浅层神经网络模型。"
-  },
-  {
-    "id": 534,
-    "title": "King Charles and Queen Camilla Come to Washington",
-    "title_zh": "查尔斯国王与卡米拉王后抵达华盛顿",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/dc-gets-a-king-it-actually-wants",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "The article offers a satirical, yet incisive, examination of King Charles and Queen Camilla’s Washington visit, framed by the peculiar backdrop of President Donald Trump’s idiosyncratic hospitality. By weaving together fact and absurdity—flag mishaps, bee‑laden White House tours, and Trump’s flamboyant monarchical cosplay—the piece probes the fragile state of the Anglo‑American “special relationship.” It exposes how political scandals (the Epstein‑linked ambassador recalls, Starmer’s resignation rumour) and Trump’s nationalist rhetoric intersect, turning a diplomatic event into a platform for partisan posturing. The narrative underscores how symbolism (the beehives, the tree gifted by Elizabeth II) is co‑opted to reinforce contested narratives of heritage versus policy. Ultimately, the article invites readers to question the performative nature of diplomacy, the manipulation of tradition for political gain, and how such spectacles reflect deeper anxieties about identity, governance, and the future of transatlantic ties.",
-    "summary_zh": "文章以讽刺方式审视查尔斯国王与卡米拉王后华盛顿之行，揭示特朗普总统的怪诞风格与英美关系的脆弱。通过旗帜失误、蜂巢观光、特朗普皇室戏装等荒诞细节，文章探讨了政治丑闻与民粹主义如何将外交仪式变成党派炫耀，勾勒出身份、治理与跨大西洋未来的深层焦虑。",
-    "best_quote_en": "\"For nearly two centuries before the Revolution, this land was settled and forged by men, women, who bore in their souls the blood and noble spirit of the British,\" Trump said.",
-    "best_quote_zh": "“那是一棵年轻美丽的树，现在看它，它已长成三倍之大。”"
-  },
-  {
-    "id": 535,
-    "title": "What’s in my NOW? — Jolyon Patten",
-    "title_zh": "我的现在里有什么？ — Jolyon Patten",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-jolyon-patten/",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "Jolyon Patten, a retired London litigator turned Greek mountain hermit, spins an intimate portrait of the objects and ideas that shape his daily life. From a feather‑light Spyderco knife that serves as an everyday tool to a Collings OM2H‑T guitar that embodies his lifelong passion for music, he reveals how objects can be both functional and deeply personal. His curated list of books—particularly Chuang Tzu’s Inner Chapters—underscores a lifelong quest for philosophical grounding, while his venture into AI‑powered publishing via Claude Code demonstrates a commitment to blending tradition with cutting‑edge technology. The piece invites readers to reflect on their own “NOW” and consider how seemingly ordinary items can anchor identity, creativity, and purpose. It blends anecdote with practical insight, offering a blueprint for intentional living that is both inspirational and actionable. The recurring theme of wanting to be what one is, quoted from Erasmus, ties the narrative together, suggesting that the truest value lies in authenticity rather than external accolades.",
-    "summary_zh": "退休律师Jolyon Patten在希腊山间的生活与对日常物品的敏锐洞察，呈现了功能与情感的完美融合。他用斜刀、吉他、书籍等呈现自我成长与创作的动力，并通过AI出版实验探索传统与科技的交汇。整篇文字鼓励读者审视自己的“现在”，思考如何让日常物品成为自我实现的桥梁，传递了关于真实性与内在价值的深刻思考。",
-    "best_quote_en": "The chief element of happiness is this: to want to be what you are.",
-    "best_quote_zh": "幸福的核心要素是：想成为真实的自己。"
-  },
-  {
-    "id": 536,
-    "title": "The devil wears Primark: is the romcom reporter about to get the sack?",
-    "title_zh": "魔鬼穿Primark：浪漫喜剧记者即将被解雇？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-01",
-    "summary_en": "The Guardian piece dissects the cultural and economic fallout surrounding the imagined sequel to The Devil Wears Prada, framing it as a mirror of contemporary journalism’s precarious landscape. It juxtaposes the film’s glamorous dreamscape with the brutal reality of newsroom downsizing, AI-driven content, and widening class disparity. The article highlights the protagonist Andy’s struggle to balance career ambition, personal autonomy, and fertility choices—an issue resonant with modern working women. By tracing the lineage of female journalists in cinema—from Hildy in 1940 to Bridget Jones and beyond—it underscores a persistent narrative of women negotiating power, identity, and societal expectations. The critique invites readers to question whether the film’s success can coexist with an industry in decline, probing the limits of aspirational storytelling in a world where opportunities are scarce. Its layered analysis offers a nuanced lens on gender, labor, and media, urging viewers to confront the dissonance between cinematic fantasy and lived reality. The piece is both a cultural commentary and a call to recognize the structural forces shaping women’s professional journeys.",
-    "summary_zh": "这篇Guardian评论把《魔鬼穿Primark》想象中的续集当作当代媒体危机的缩影，既讽刺了时尚与媒体的浮华，也揭露了新闻行业裁员、AI代替与阶层不平等的现实。文章聚焦女主角安迪的职业与生育抉择，映照现代职场女性面临的多重压力。通过回顾从1940年的海尔迪到布里奇特·琼斯的银幕女性记者，作者强调女性在权力与自我认同之间的持续斗争。读者被邀请思考，电影的商业成功是否能与行业衰退共存，挑战理想与现实的裂痕。此文既是文化批评，也是对结构性力量的警醒，提醒我们关注女性职业道路的真实境遇。",
-    "best_quote_en": "\"It has nothing to do with Andy’s single status: lessons have been learned since the previous film’s disaster boyfriends, pathetic Nate and super‑rat Christian.\"",
-    "best_quote_zh": "“这与安迪的单身状态无关：自前作的灾难男友、可耻的奈特和超级老鼠克里斯蒂安以来，已经学到了教训。”"
-  },
-  {
     "id": 537,
     "title": "The Future of Startup Funding",
     "title_zh": "创业融资的未来",
@@ -2342,5 +2250,97 @@
     "summary_zh": "在本期Huberman Lab Essentials节目中，Dr. Eddie Chang 深入探讨了语音神经生物学，展示大脑如何控制喉头、声带与发音器官，将呼吸转化为语言。他介绍了前沿的神经假体技术，解码神经活动为残疾人生成语音，并分析了口吃的神经机制与听觉反馈在流利发音中的作用。节目兼具科学阐释与实际应用，提供可操作的脑机接口见解、脑部增强伦理思考以及语音障碍治疗工具，既激发好奇心，也提醒人们在提升认知时的责任。",
     "best_quote_en": "The brain doesn’t just produce words—it shapes breath into meaning through a finely tuned orchestra of motor control and auditory feedback.",
     "best_quote_zh": "大脑不仅产生词语——它通过精细调控的运动控制和听觉反馈，将呼吸塑造成意义。"
+  },
+  {
+    "id": 633,
+    "title": "The Missing Bride of Anqoun",
+    "title_zh": "安科恩失踪的新娘",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-beirut/the-missing-bride-of-anqoun",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-21",
+    "summary_en": "The article chronicles the harrowing aftermath of Israel’s “Eternal Darkness” airstrike on Beirut’s Hamad Building, framing it as a human tragedy that eclipses geopolitical narratives. Through the intimate lens of Zahra Abboud’s family, it exposes the fragility of civilian life amid war, the disjointed nature of ceasefires, and the pervasive memory of past conflicts that shape current decisions. The piece juxtaposes personal grief with systemic failures: inadequate emergency response, ambiguous targeting, and the politicization of civilian spaces. It underscores the eroding sense of security for displaced communities, the complex sectarian fabric of Lebanese society, and the psychological toll on first responders. The narrative invites readers to reconsider the cost of conflict beyond headlines, spotlighting the enduring scars on ordinary lives and the collective yearning for justice and remembrance.",
+    "summary_zh": "文中以安科恩失踪的新娘为线索，深入探讨了以色列空袭导致的巴勒斯坦人悲剧，揭示了战时平民安全、停火失效与民众记忆交织的现实。",
+    "best_quote_en": "The air strike turned a quiet afternoon into a day of unimaginable loss, reminding us that war’s true cost is measured in shattered homes, broken bodies, and lives cut short.",
+    "best_quote_zh": "空袭把宁静的午后变成了难以想象的失落日，提醒我们战争的真正代价是用破碎的家园、破碎的身体和被切断的生命来衡量的。"
+  },
+  {
+    "id": 634,
+    "title": "Metal-free Stretch Belt/Virtual Ride & Radio/Expat-rated Countries",
+    "title_zh": "无金属拉伸皮带/虚拟驾车与广播/外籍人士评级国家",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/metal-free-stretch-belt-virtual-ride-radio-expat-rated-countries/",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-05-21",
+    "summary_en": "This compact newsletter stitches together four distinct yet interrelated vignettes that capture the evolving flavor of modern nomadism. The opening segment showcases a practical, metal‑free stretch belt—a small but decisive design upgrade that solves a common commuter pain point while appealing to the eco‑conscious, tech‑savvy traveler. The second piece invites readers to a virtual drive through Istanbul, Rio, and beyond, demonstrating how dashcam footage coupled with local radio can transform a home‑bound experience into an immersive cultural pilgrimage. The third article flips the lens onto the Internations Expat Quality of Life Survey, turning raw data into a provocative narrative that challenges preconceived hierarchies of “greatness” and exposes the nuanced trade‑offs of living abroad. Finally, the note on American Airlines’ security lapses serves as a cautionary tale for digital hygiene, reminding users that even ubiquitous loyalty programs can become vulnerability points. Collectively, the piece offers actionable lifestyle hacks, data‑driven insights, and a forward‑looking perspective that encourages readers to rethink travel, technology, and safety in an increasingly interconnected world.",
+    "summary_zh": "四个短篇交织出现代流浪者的细腻叙事：无金属拉伸皮带解决机场穿戴痛点；虚拟驾车配当地广播将家中变成文化游学；外籍人士排名揭露“最优”国家背后的真实权衡；美国航空安全漏洞警示数字生活风险。内容实用且具前瞻性，促使读者重新审视旅行、科技与安全的交汇。",
+    "best_quote_en": "The tunes really transported me to the scene in Delhi and Izmir and when I pulled up Havana, I was riding in a vintage car.",
+    "best_quote_zh": "声音真的把我带到了德里和伊兹密尔的现场，当我停在哈瓦那时，我正坐在一辆复古车里。"
+  },
+  {
+    "id": 635,
+    "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+    "title_zh": "基于科学的冥想工具提升大脑与健康 | 里查德·戴维森博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-based-meditation-tools-to-improve-your-brain-and-health-richard-davidson",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-03-16",
+    "summary_en": "Dr. Richard Davidson’s episode demystifies meditation through rigorous neuroscience, revealing how as little as five minutes daily can recalibrate brain networks, enhance focus, and bolster stress resilience. He traces the evolution of mind‑body research, contrasts wakeful and sleep states, and introduces concrete practices—such as “Richie’s 5 Meditations,” appreciation, and loving‑kindness exercises—that are both evidence‑based and immediately actionable for beginners. Davidson also tackles common myths, like the misconception that meditation means clearing the mind, and offers pragmatic strategies to overcome resistance, digital distractions, and physical discomfort. By blending empirical findings with real‑world tools, the episode equips listeners to build a sustainable practice that nurtures mental flourishing and physical well‑being. The discussion extends to creative applications, child‑friendly routines, and even the role of psychedelics, positioning meditation as a versatile, science‑backed catalyst for personal growth.",
+    "summary_zh": "里查德博士用严谨的神经科学拆解冥想，告诉我们每天五分钟就能重塑大脑网络，提升专注与抗压。节目把理论与实操结合，提供可落地的练习、应对障碍的技巧，并一并探讨儿童冥想与迷幻剂等前沿话题，展示冥想真正的全能价值。",
+    "best_quote_en": "\"Meditation isn’t about clearing the mind; it’s about learning to observe the mind and build a new way of being.\"",
+    "best_quote_zh": "“冥想不是清空思维，而是学习观察心智并构建新的存在方式。”"
+  },
+  {
+    "id": 636,
+    "title": "The latest Music Business Worldwide Magazine is out now. Read it here.",
+    "title_zh": "最新的《Music Business Worldwide》杂志已上线，点击阅读",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/the-latest-music-business-worldwide-magazine-is-out-now-read-it-here/",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-05-22",
+    "summary_en": "Music Business Worldwide’s latest bi‑monthly issue arrives in both digital and physical formats, offering a curated snapshot of the industry’s current pulse and future trajectory. The editorial lineup is a who’s‑who of the music business: executives from Universal and Warner, hit‑making producers, and even TikTok’s own music strategist. Readers gain insider perspectives on everything from global streaming economics to the evolving role of social platforms in artist discovery. The magazine’s strength lies in its blend:  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  : {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
