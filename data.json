@@ -1,123 +1,5 @@
 [
   {
-    "id": 537,
-    "title": "The Future of Startup Funding",
-    "title_zh": "创业融资的未来",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/future.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-05-01",
-    "summary_en": "The essay explores a paradigm shift in early-stage startup financing, arguing that the traditional VC‑led Series A model is being eroded by smaller, more flexible angel‑style rounds and a new class of “super‑angel” investors who operate like venture funds but with less board control. It highlights how founders are gaining power as investors adapt—through fewer board seats, faster closing times, standardized terms, and a move toward rolling closes and convertible notes. The author warns that VC funds that cling to legacy practices will see their influence and returns erode, while those that adopt leaner deal structures can increase volume without sacrificing quality. Key implications include a potential reduction in dilution for founders, a shift toward more data‑driven, risk‑adjusted investment decisions, and a broader democratization of investment that may ultimately benefit both founders and the venture ecosystem. The piece is both a call to action for investors to modernize and a roadmap for founders to navigate the evolving landscape.",
-    "summary_zh": "作者从创业融资的角度出发，阐释了传统 VC 投资模式正被更灵活的天使轮和超级天使所取代。通过减少董事会席位、缩短融资周期、标准化条款和滚动融资等手段，创始人逐渐获得更多话语权。作者警示传统 VC 若固守旧模式，将失去影响力与收益；而拥抱新模式的基金则可在保持质量的前提下提升交易数量。文章对创始人与投资人关系的未来进行了深刻洞察，强调以数据驱动、风险平衡为核心的投资决策将成为主流。",
-    "best_quote_en": "\"Founders understand their companies better than investors, and it has to be better if the people with more knowledge have more power.\"",
-    "best_quote_zh": "“创始人对自己的公司了解得比投资人更深，如果更有知识的人拥有更多权力，那就一定更好。”"
-  },
-  {
-    "id": 538,
-    "title": "A King (or Two), a President, and a Troll",
-    "title_zh": "王（或两位）、总统与巨魔",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/in-trumps-america-it-takes-a-king-to-praise-democracy",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "This piece unpacks the sharp contrast between King Charles III’s dignified endorsement of American democratic institutions and Donald Trump’s apparent erosion of those very principles. By juxtaposing the King’s reverence for Magna Carta and the rule of law with Trump’s questionable executive overreach—indictments, media scrutiny, and a pivot away from NATO and Ukraine—the author exposes a deeper crisis of American governance. The analysis is rich in historical context, drawing on the Revolutionary War, the founding charter, and contemporary geopolitical shifts. It invites readers to question whether the United States can still claim to be a beacon of liberty when its leader acts like a self‑proclaimed tsar. The article urges critical reflection on the balance of power, the role of the judiciary, and the necessity of international alliances. Its blend of historical insight, legal reasoning, and geopolitical critique makes it a compelling{,} educative    150-200 word,   },",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 539,
-    "title": "More Bad Flight News/Little-known Search Hacks/City Bike Tours",
-    "title_zh": "更多糟糕的航班新闻/鲜为人知的搜索技巧/城市自行车之旅",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/more-bad-flight-news-little-known-search-hacks-city-bike-tours/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "This compact newsletter delivers a blend of timely travel cautions, practical health reminders, and productivity‑boosting search shortcuts, all wrapped in a personal tone. The opening segment warns of looming jet‑fuel shortages and rising fares, offering concrete booking tactics—reserve early, use credit cards for recourse, and secure travel insurance—highlighting a proactive mindset for budget travelers. The compression‑sock advisory tackles the often‑dismissed health risk of deep‑vein thrombosis on long flights, grounding the recommendation in evidence and providing a curated purchasing guide. The Google search hacks segment transforms an ordinary searcher into a power user, showcasing hidden commands that streamline everyday tasks, from speed tests to exact phrase matching. Finally, the bike‑tour reflection balances foot‑based exploration with efficient mobility, encouraging readers to adopt cycling for broader cultural immersion. Together, the pieces underscore the value of informed preparation, evidence‑based health practices, and tech savviness—all essential for savvy, cost‑conscious globetrotters navigating a complex aviation landscape. Personally, I’m struck by how these seemingly disparate tips converge on a single theme: empowering readers to anticipate challenges, mitigate risks, and seize opportunities with confidence.",
-    "summary_zh": "这期简讯以航空危机警报、健康预防、搜索技巧和城市自行车游四大块，为旅行者提供实用应对方案。第一段提醒燃油短缺与机票涨价，配合预订与保险建议，凸显主动预算管理；第二段以压缩袜防深静脉血栓为例，既有证据又有采购渠道；第三段揭示 Google 隐藏命令，提升日常效率；最后以自行车游为例，鼓励在城市中更高效探索。整体呈现“预见风险、主动应对、技术赋能”的思路，激励读者以更自信的姿态拥抱未知。",
-    "best_quote_en": "\"Don’t even think of heading to an airport without having good travel insurance in place that covers delays and cancellations.\"",
-    "best_quote_zh": "\"在前往机场前，别忘了购买涵盖延误和取消的优质旅行保险。\""
-  },
-  {
-    "id": 540,
-    "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
-    "title_zh": "Essentials：用科学工具控制糖渴与新陈代谢",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-control-sugar-cravings-and-metabolism-with-science-based-tools",
-    "tags": [
-      "learn",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Andrew Huberman dissects the physiological circuitry that governs sugar appetite, mapping the gut-brain axis, dopaminergic reward pathways, and hormonal feedback loops. He distinguishes fructose from glucose and explains how each fuels distinct metabolic pathways, influencing hunger and satiety signals. The discussion shifts from theory to practice, offering a suite of science‑based interventions: timed fiber intake, micronutrient supplementation (glutamine, berberine), strategic use of cinnamon and lemon juice to blunt post‑prandial spikes, and sleep hygiene as a modulator of glucose sensitivity. Huberman contextualizes each tool with evidence from human and animal studies, providing concrete dosing, timing, and behavioral cues. The episode is a practical guide for anyone seeking to reduce compulsive sugar cravings, stabilize blood glucose, and enhance metabolic health through evidence‑driven habits. It blends neurobiology, endocrinology, and nutrition science into a clear, actionable roadmap, inviting listeners to experiment with measurable changes and observe tangible metabolic outcomes.",
-    "summary_zh": "在本期Huberman Lab Essentials中，Huberman博士通过阐释肠脑轴、奖励回路和激素反馈，剖析糖渴的生理机制，并区分果糖与葡萄糖的代谢差异。随后，他提供一系列基于证据的实操工具：纤维与时机、谷氨酰胺、肉桂、柠檬汁以及睡眠质量的调节，帮助控制血糖和抑制甜食欲望。每项工具都配备实验支持、剂量与时机建议，让听众能在日常生活中落地实施，获得可测量的代谢改善。",
-    "best_quote_en": "‘The brain’s dopamine response to sweet taste is the driver of craving, but the gut’s glucose sensors provide the counterbalance that can be tipped with simple, evidence‑based tools.’",
-    "best_quote_zh": "‘甜味对大脑多巴胺的刺激是渴求的驱动力，但肠道对葡萄糖的感知提供了反向调节，可通过简单、基于证据的工具来平衡。’"
-  },
-  {
-    "id": 541,
-    "title": "New Orleans program does free house calls for new mothers. It’s saving many from going over a postpartum ‘cliff’",
-    "title_zh": "新奥尔良项目为新妈妈提供免费上门探访，帮助许多人避免产后‘悬崖’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/family-connects-new-orleans-mothers-postpartum-house-calls",
-    "tags": [
-      "update",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "Family Connects New Orleans exemplifies how a low‑cost, state‑funded program can bridge a critical gap in postpartum care. By offering up to three free in‑home nurse visits for newborn parents, the initiative tackles the period when maternal mortality spikes and support is scarce. The program’s strengths lie in its universal eligibility, integration of clinical surveillance with social‑service screening, and proactive mental‑health outreach. Evidence from evaluations shows reduced Medicaid spending and improved trust in the health system, illustrating a scalable model that could inform national policy. The article not only highlights tangible benefits for families but also underscores systemic shortcomings in postpartum support, urging policymakers to consider universal home‑visit programs as a public‑health investment. It invites readers—health leaders, policymakers, and advocates—to rethink how post‑delivery care is structured and funded.",
-    "summary_zh": "家庭联结新奥尔良项目用免费上门探访填补产后危机，降低医疗支出、提升系统信任，提示政府可将此经验推广至全国。",
-    "best_quote_en": "\"We found that what that does is build trust in the healthcare system… We really just want to know what you need and how we can meet that need.\"",
-    "best_quote_zh": "“我们发现这确实能建立对医疗系统的信任……我们真正想了解的是你需要什么，以及我们如何满足这些需求。”"
-  },
-  {
     "id": 542,
     "title": "The Acceleration of Addictiveness",
     "title_zh": "上瘾加速的加速",
@@ -2342,5 +2224,121 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 637,
+    "title": "Jess Cartner-Morley on fashion: Posh Grandpa is fashion’s new main character",
+    "title_zh": "Jess Cartner-Morley关于时尚：Posh Grandpa是时尚的新主角",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/may/20/jess-cartner-morley-on-fashion-posh-grandpa-is-fashions-new-main-character",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "Jess Cartner‑Morley’s feature celebrates the playful resurgence of “Posh Grandpa” as fashion’s latest icon, framing it as a counter‑to‑the‑glitter‑obsessed mainstream. The piece blends cultural critique with practical advice: it argues that character dressing—vintage cuts, muted palettes, and a touch of humor—provides a lighter, more authentic aesthetic for a world weary of relentless polish. Through vivid comparisons to Harry Styles, A$AP Rocky, and classic film icons, the article illustrates how nostalgia can be re‑energized by modern accessories and contemporary silhouettes. It offers concrete styling cues—tasselled loafers, slim lace‑up jazz shoes, trousers with pleated fronts, and a single bold statement piece—to help readers translate the trend into everyday wear. The core insight is that fashion’s future may lie in comfort‑driven, personality‑rich looks that subvert the “rich‑and‑pretty” narrative, encouraging readers to embrace off‑kilter charm and a sense of personal history. The piece invites a reflective, yet actionable exploration of style that feels both nostalgic and forward‑looking.",
+    "summary_zh": "卡特纳‑莫里在时尚中用“Posh Grandpa”展现了轻松古典与现代幽默的交融，指出舒适与个性才是未来的潮流。",
+    "best_quote_en": "\"It is the pebble in the boot, the surprise to snag the eye. This is where the magic happens.\"",
+    "best_quote_zh": "“这就像靴子里的鹅卵石，捕捉眼球的惊喜。魔力就在那里。”"
+  },
+  {
+    "id": 638,
+    "title": "Relentlessly Resourceful",
+    "title_zh": "Relentlessly Resourceful",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/relres.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-05-23",
+    "summary_en": "The essay distills a founder’s essential trait into the single phrase “relentlessly resourceful,” arguing that passive luck is not a rallying cry and that adaptability combined with relentless pursuit of new solutions is the decisive advantage in the startup world. The author critiques conventional metaphors (running back, luck) and demonstrates how the concept can be taught, even in young people conditioned by authority. By framing the quality as both a diagnostic for potential founders and a practical mantra for teams, the text offers a concise, actionable guide that transcends industry jargon. The piece also touches on the scalability of startups, suggesting that the limiting factor is the pool of resourceful founders rather than economic constraints. Its value lies in reframing founder selection, evaluation, and personal development, providing a clear, testable criterion that can be applied by investors, founders, and recruiters alike.\n\nImplications are far‑reaching: if resourcefulness can be nurtured, startup ecosystems can widen, and talent pipelines can be optimized. The essay invites further research into measurable indicators of resourcefulness, cross‑cultural applicability, and its interaction with other traits such as curiosity and resilience.\n\nCritically, while the framing is compelling, the author glosses over the difficulty of operationalizing “resourcefulness” and the potential for overemphasis on individual initiative at the expense of structural support. Nonetheless, the call to action—ask yourself, “Am I relentlessly resourceful?”—offers a tangible starting point for both aspiring founders and venture capitalists.\n\nOverall, this piece is a thought‑provoking, actionable primer that can reshape how founders are identified, coached, and celebrated, with practical relevance for investors, entrepreneurs, and talent scouts.\n",
+    "summary_zh": "作者把创始人成功的核心归纳为“无情的资源fulness”，认为被动的运气并非激励之词。通过剖析传统比喻并提出可教授这一特质，他给出了一条既可评估潜在创始人又可指导团队的实用准则。文章暗示创企数量的上限在于可培养的“无情资源fulness”人才池，而非经济壁垒。它对创投、创业者和招聘者都有直接操作价值，值得进一步研究如何量化此特质。\n",
+    "best_quote_en": "'Be relentlessly resourceful.'",
+    "best_quote_zh": "‘要无情的资源fulness。’"
+  },
+  {
+    "id": 639,
+    "title": "Dana White Thinks Everyone’s a Fighter",
+    "title_zh": "Dana White 认为每个人都是斗士",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/dana-white-thinks-everyones-a-fighter",
+    "tags": [
+      "learn",
+      "ai-research",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-05-22",
+    "summary_en": "Dana White’s New Yorker interview is a rich tapestry of personal anecdotes, business strategy, and cultural commentary that reveals the mind behind one of the world’s most lucrative sports empires. White’s narrative is not merely a chronicle of his rise from a Massachusetts suburb to the helm of the UFC; it is a masterclass in brand building, risk management, and media manipulation. He explains how early relationships with the Fertitta brothers and a willingness to confront regulatory obstacles turned a niche combat sport into a mainstream juggernaut. White’s candid discussions about political alliances—especially his friendship with Donald Trump—expose the complex dance between sport, spectacle, and power. He also addresses the evolution of MMA audiences, the importance of women and international fighters, and the future of the sport in a digital age. The interview is a rare window into how a charismatic promoter turns violence into a compelling narrative, and how that narrative can be leveraged to navigate political landscapes, secure lucrative media deals, and expand into adjacent markets such as boxing. For readers, the piece offers actionable insights on brand positioning, stakeholder management, and the ethical considerations of monetizing human conflict. It also invites a critical reflection on the cultural appetite for controlled violence and its place in contemporary society.",
+    "summary_zh": "Dana White的访谈像一张复合卡片，既揭示了他从马萨诸塞小镇成长为UFC头号人物的路径，也展示了他如何把搏击运动转化为商业帝国。内容涉及与特朗普的友谊、对女性与国际选手的重视、媒体合约以及拳击新项目。读者可从中获得品牌塑造、风险把控及跨界扩张的可操作性见解。",
+    "best_quote_en": "\"I think that boxing has been broken for a long time, for a lot of different reasons. I love the sport, and I’ve always talked about jumping in and trying to put my spin on boxing.\"",
+    "best_quote_zh": "\"我认为拳击已经被破坏了很久，原因有很多。 我热爱这项运动，一直在谈论着跳进去，尝试给拳击注入我的风格。\""
+  },
+  {
+    "id": 640,
+    "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
+    "title_zh": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-benefits-of-sauna-and-deliberate-heat-exposure",
+    "tags": [
+      "learn",
+      "health-wellness",
+      "science"
+    ],
+    "tags_zh": [
+      "学习",
+      "健康养生",
+      "科学研究"
+    ],
+    "date": "2026-03-12",
+    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Andrew Huberman dissects the physiological and psychological mechanisms by which deliberate heat exposure—primarily through sauna use—can act as a low‑cost, high‑yield intervention for health optimization. He delineates precise protocols, specifying temperature ranges, session durations, and frequency, while also providing alternative modalities for those without access to a traditional sauna. The discussion bridges basic science and actionable practice: he links heat‑induced stress responses to the upregulation of heat shock proteins, DNA repair pathways (FOXO3), and growth hormone secretion, and he demonstrates how these molecular events translate into tangible benefits such as reduced cortisol, improved sleep quality, enhanced mood via endorphins, and cognitive resilience. Huberman’s narrative is grounded in peer‑reviewed research yet remains highly accessible, offering readers step‑by‑step guidance to tailor protocols to individual goals—whether maximizing anabolic signaling, bolstering stress resilience, or sharpening cognition. The episode exemplifies how a single, well‑timed physiological stimulus can cascade into multi‑system benefits, making it a compelling resource for clinicians, athletes, and anyone seeking a science‑backed self‑optimization tool.\n",
+    "summary_zh": "Huberman 博士在此节目中剖析了温度控制的热暴露如何通过热冲击蛋白、DNA 修复和生长激素等机制，提升心理与身体健康。他给出了详尽的温度、频率与时长方案，并提供无桑拿可行的替代方案。该内容兼具科研深度与可操作性，帮助听众根据个人目标（减压、睡眠、认知）定制热疗程序，展示了单一生理刺激在多系统层面的连锁效应。",
+    "best_quote_en": "\"Heat exposure triggers a cascade that starts in the skin and reaches the brain, ultimately boosting growth hormone, reducing cortisol, and even enhancing cognition.\"",
+    "best_quote_zh": "\"热暴露触发的连锁反应从皮肤开始，传递至大脑，最终提升生长激素、降低皮质醇，并增强认知。\""
+  },
+  {
+    "id": 641,
+    "title": "The Tim Ferriss Show Transcripts: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
+    "title_zh": "Sami Inkinen的访谈——逆转2型糖尿病，划艇2750英里，教训与经验",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/21/sami-inkinen-transcript/",
+    "tags": [
+      "solve",
+      "leadership",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-05-21",
+    "summary_en": "The episode weaves together Sami Inkinen’s extraordinary personal narrative—cross‑country skier, triathlon champion, serial founder—with the pragmatic mechanics of his daily routine, his relentless focus on metabolic health, and the data‑driven, AI‑powered model Virta Health uses to reverse type 2 diabetes in over 100,000 people.  Inkinen’s core insight is that behaviour change starts with a simple, repeatable structure: Sunday planning, core‑first workouts, and a 15‑minute gratitude journal.  He argues that the myth of personal failure is a narrative device that masks systemic barriers; if people had clear architectural frameworks, the world’s metabolic crisis would be far easier to tackle.  The conversation also dives into the cultural nuances of Finnish sauna rituals, the power of saying no, and the business logic behind scaling a health tech company while maintaining personal authenticity.  For listeners, the transcript offers actionable take‑aways—schedule, structure, data‑tracking, and a humility about health—while illustrating how a data‑rich, individualized approach can transform a chronic disease that is often treated as a lifetime burden.  The episode invites both health professionals and entrepreneurs to rethink how we design interventions that are both scalable and deeply personal.",
+    "summary_zh": "这期节目把Sami Inkinen的运动生涯、创业经验与他每天的高效作息交织在一起，展示了如何用数据驱动与AI技术帮助1万多人成为糖尿病治愈者。核心观点是：结构化的周日计划、晨间核心训练和短暂的感恩日记是改变行为的关键。节目还揭示了芬兰桑拿文化、说不的力量以及在保持个人真实性的同时扩张健康科技公司的商业逻辑。对听众而言，节目提供了可落地的时间管理、数据跟踪与健康观念转变的实用建议。",
+    "best_quote_en": "“If you had a perfect answer, I’d probably write a book about it, but the truth is that saying no to 99 percent of the things that most people consider \"normal\" is the biggest secret to focus and freedom.”",
+    "best_quote_zh": "“如果我有完美答案，我可能会写书，但最重要的秘密是对99％的常规事物说不。”"
   }
 ]
