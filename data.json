@@ -1,121 +1,5 @@
 [
   {
-    "id": 542,
-    "title": "The Acceleration of Addictiveness",
-    "title_zh": "上瘾加速的加速",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/addiction.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-05-02",
-    "summary_en": "The essay sketches a grim trajectory in which technological progress, while solving problems, also condenses pleasures into increasingly potent, addictive forms. By tracing the historical arc from cigarettes to heroin, and from television to the internet, the author argues that the rate of acceleration outpaces the slower evolution of social customs and regulatory responses. The piece is a reflective, almost prophetic call to self‑regulation and skepticism toward every new convenience. It blends empirical observation with philosophical musings, urging readers to view every novelty as a potential hazard rather than a benefit. The text invites a deeper conversation about the ethics of progress, the limits of individual agency, and the societal mechanisms that may fail to keep pace. It is both a cautionary tale and a call to cultivate deliberate habits—e.g., hiking—to reclaim agency in a world that increasingly rewards instant gratification. The writing is introspective, critical, and thought‑provoking, prompting readers to question how we define normality and whether our collective “addiction” is an inevitable byproduct of innovation.",
-    "summary_zh": "作者以历史与当代实例阐释技术进步在带来便利的同时，也在不断加速物质与体验的“加速上瘾”。他将香烟、海洛因、电视、互联网等例子串联，指出社会习俗和法规的演进远慢于新技术的扩散。文章兼具个人反思与批判性分析，呼吁读者对每一种新奇事物保持警惕，培养自律与慢节奏的生活方式，以抵御被即时满足驱动的世界。它既是警示，也是对创新伦理与自我管理的思考。",
-    "best_quote_en": "\"Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we'll have to figure out for ourselves what to avoid and how.\"",
-    "best_quote_zh": "\"除非我们想成为每一种新成瘾的煤矿麦秆——他们悲哀的例子成为后代的警示，否则我们必须自己找出该避免什么以及如何做。\""
-  },
-  {
-    "id": 543,
-    "title": "The Irish Drug Kingpin Daniel Kinahan Is Arrested in Dubai",
-    "title_zh": "爱尔兰毒枭丹尼尔·基纳汉在迪拜被捕",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-daniel-kinahans-cocaine-empire-began-to-crumble",
-    "tags": [
-      "analyze",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "The article traces Daniel Kinahan’s decade‑long, clandestine reign over a billion‑dollar cocaine network, spotlighting how Dubai’s glittering veneer masked a sprawling criminal enterprise. By weaving investigative reportage with court testimony, the piece exposes the fragile geopolitics that finally toppled a figure who once commanded the city’s most opulent social circles. Kinahan’s case illustrates the shifting sands of international law enforcement: the UAE’s transition from a haven to a cooperative partner and the power of cross‑border intelligence, notably the decryption of encrypted BlackBerry communications that pierced the cartel’s digital armor. The narrative underscores a paradox—luxury and legitimacy coexist with violent feuds that ultimately erode the very structures that shielded him. This analysis offers a cautionary tale for policymakers: reputational concerns can be as decisive as legal mandates, while the sophistication of criminal networks demands equally sophisticated surveillance and diplomatic coordination. The story invites reflection on how global hubs can inadvertently serve as incubators for organized crime, and how systemic change requires both legal pressure and cultural shifts.",
-    "summary_zh": "文章揭示了丹尼尔·基纳汉在迪拜十年隐秘掌控十亿美元可卡因网络的内幕，展现了豪华与犯罪的双重面貌。通过调查报道与法庭证词，揭示了阿联酋从毒枭避风港到合作伙伴的转变，以及加密通讯破解如何摧毁犯罪网络。故事警示，声誉与法律同样关键，全球枢纽若缺乏监管，易成有组织犯罪的温床。",
-    "best_quote_en": "The arrest was the culmination of an awful lot of work and a lot of to‑ing and fro‑ing between Dublin and Dubai to make it happen.",
-    "best_quote_zh": "他的逮捕是大量工作和都柏林与迪拜之间来回奔波的结果。"
-  },
-  {
-    "id": 544,
-    "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
-    "title_zh": "如何更好地调节情绪 | 马克·布拉克特博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-better-regulate-your-emotions-marc-brackett",
-    "tags": [
-      "solve",
-      "psychology",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "The episode offers a nuanced, science‑backed guide to emotion regulation, blending Dr. Brackett’s research with concrete, everyday tools. He explains that emotional intelligence is rooted in early socialization—especially for boys and men—yet can be reshaped through intentional practice. Key insights include labeling emotions to increase awareness, using meta‑moments for self‑reflection, and the power of intentional co‑regulation in relationships. The discussion moves from theory to actionable strategies such as rough play for children, meditation for stress tolerance, and reframing vocabulary to shift emotional narratives. Dr. Brackett’s emphasis on vulnerability challenges traditional gender norms, while his critique of “emotion leakage” highlights the need for mindful awareness. Overall, the content bridges academic rigor with practical application, empowering listeners to cultivate healthier emotional habits in personal and professional contexts.",
-    "summary_zh": "本期节目通过马克·布拉克特博士的研究，阐释情绪调节的科学原理，并提供可操作的工具。强调早期社交化对情绪的影响，尤其是男孩与男性，并提出通过情绪标记、元时刻、共情练习等方法提升情商。节目挑战传统性别情绪表达观念，鼓励脆弱与共情，既学术又实用，帮助听众在日常生活中更健康地管理情绪。",
-    "best_quote_en": "Emotion regulation isn’t about suppressing feelings; it’s about learning how to navigate them so they serve you, not control you.",
-    "best_quote_zh": "情绪调节不是压抑情感，而是学会让情感为你服务，而不是控制你。"
-  },
-  {
-    "id": 545,
-    "title": "The Tim Ferriss Show Transcripts: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Companies Before Everyone Else, The Misty AI Frontier, How Coke Beat Pepsi, When Consensus Pays, and Much More (#863)",
-    "title_zh": "Elad Gil，帝国建设顾问——如何在别人之前发现亿亿美元公司，AI雾霾前沿，Coke如何击败Pepsi，共识有偿等（#863）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/04/30/elad-gil-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-05-01",
-    "summary_en": "Elad Gil’s interview with Tim Ferriss is a deep dive into the mechanics of AI funding, talent wars, and the future of hyper‑growth companies. Gil explains how unprecedented equity packages have turned AI researchers into a personal IPO, the supply‑chain constraints that are currently capping model scale, and the near‑term parity among the top labs. He extrapolates that within two years the barrier will lift, allowing a few firms to leapfrog ahead. Gil’s investment philosophy—market first, team second—remains unchanged, but he stresses that most startups will hit a value‑maximizing window of 12‑18 months. He also shares pragmatic insights on how to build defensible AI products (deep integration, proprietary data, change‑management) and how to evaluate founders using micro‑features and AI‑driven personality analysis. The conversation ends on a philosophical note: the tech cycle is a power‑law, so focus on the few that matter, and regularly question your assumptions. The discussion offers actionable guidance for founders, investors, and anyone navigating the AI frontier.\n",
-    "summary_zh": "Elad Gil在与Tim Ferriss的访谈中深入讨论了AI行业的融资、人才竞争与未来趋势。他阐述了AI研究人员像“个人IPO”般的高额股权、供应链瓶颈对模型规模的限制以及顶尖实验室在两年内可能出现的突破。Gil坚持“先看市场、再看团队”的投资原则，并指出大多数创业公司在12‑18个月内有价值最大化窗口。对产品建设，他强调深度整合、专有数据与变革管理的重要性，并分享了运用AI评估创始人的方法。访谈以科技周期的幂律规律和持续自我反思为结尾，给创业者、投资者及AI从业者提供可操作的洞见。",
-    "best_quote_en": "\"The only time in history I can think of where I’ve seen it happen before is in crypto where a bunch of the really early crypto holders or founders suddenly as a class all went effectively public in ’20, I guess ’17-ish, and then again, more recently.\"",
-    "best_quote_zh": "“我能想到的唯一一次类似的情况是加密货币，当时一群早期加密持有者或创始人突然作为一个整体在‘20年左右，可能是‘17年左右，随后又在最近几年实现了类似的公开。”"
-  },
-  {
-    "id": 546,
-    "title": "Wellness culture is trying to sell you products your vagina doesn’t need",
-    "title_zh": "Wellness文化试图卖给你你阴道不需要的产品",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2026/apr/29/vaginal-microbiome-probiotics-marketing",
-    "tags": [
-      "guide",
-      "medicine",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-04-29",
-    "summary_en": "The Guardian piece scrutinises the burgeoning “feminine probiotic” market, exposing a gap between consumer hype and scientific evidence. Drawing on experts from Harvard and Massachusetts General Hospital, it explains that the vaginal microbiome is a specialised, largely Lactobacillus‑dominated ecosystem whose health is tightly linked to pH and hormonal changes, not to the indiscriminate use of supplements. The article highlights the paucity of proven treatments for conditions such as bacterial vaginosis and urinary tract infections, the regulatory blind spots that allow unsubstantiated claims, and the clinical uncertainty that leads some doctors to prescribe probiotics without robust data. It underscores the need for rigorous research, patient education, and clearer FDA guidance, while noting nascent clinical trials that hint at future biotherapeutic options. Readers learn why most over‑the‑counter products are unlikely to shift the microbiome, how to recognise genuine research versus marketing, and what steps can be taken—such as seeking a vaginal culture before treatment—to protect vaginal health. The piece serves as a cautionary guide, blending medical insight with consumer advocacy, and calls for more investment in women’s health research.",
-    "summary_zh": "文章揭示女性益生菌市场的空洞与真相，阐明阴道微生态复杂、缺乏有效治疗，批评监管疏漏，提醒消费者需谨慎购买，呼吁更多科研与政策支持。",
-    "best_quote_en": "There’s not been a lot of progress for patients in this field.",
-    "best_quote_zh": "人们在这领域的进展不大。"
-  },
-  {
     "id": 547,
     "title": "The Top Idea in Your Mind",
     "title_zh": "你脑中最重要的想法",
@@ -2340,5 +2224,121 @@
     "summary_zh": "这期节目把Sami Inkinen的运动生涯、创业经验与他每天的高效作息交织在一起，展示了如何用数据驱动与AI技术帮助1万多人成为糖尿病治愈者。核心观点是：结构化的周日计划、晨间核心训练和短暂的感恩日记是改变行为的关键。节目还揭示了芬兰桑拿文化、说不的力量以及在保持个人真实性的同时扩张健康科技公司的商业逻辑。对听众而言，节目提供了可落地的时间管理、数据跟踪与健康观念转变的实用建议。",
     "best_quote_en": "“If you had a perfect answer, I’d probably write a book about it, but the truth is that saying no to 99 percent of the things that most people consider \"normal\" is the biggest secret to focus and freedom.”",
     "best_quote_zh": "“如果我有完美答案，我可能会写书，但最重要的秘密是对99％的常规事物说不。”"
+  },
+  {
+    "id": 642,
+    "title": "Don’t be scared of acid exfoliants – they can be gentler and better than scrubs",
+    "title_zh": "不要畏惧酸性磨砂剂——它们可能比磨砂膏更温和、更好",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/may/20/dont-be-scared-of-acid-exfoliants-better-than-scrubs",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "This Guardian piece dispels the myth that acid exfoliants are inherently harsh, arguing that modern formulations—especially those inspired by Korean milky toners—combine gentle polyhydroxy acids with soothing moisturizers to deliver effective skin renewal without the sting of traditional scrubs. The article reviews several accessible products, from Naturium’s Multi Bright Milky Toner to The Ordinary’s Saccharomyces Ferment 30% Milky Toner, demonstrating that even beginners can adopt a routine of 4–7 wipes per week and gradually increase frequency as tolerance builds. By positioning these products as both science‑backed and user‑friendly, the piece offers actionable guidance for readers seeking smoother texture, even tone and longer‑lasting makeup without irritation. It also highlights the broader trend of “soft chemistry” in skincare, illustrating how ingredient synergy can transform a potentially intimidating category into a staple of gentle, effective self‑care.",
+    "summary_zh": "本文揭示酸性去角质剂并非天然棘手，现代配方凭借多羟基酸与保湿因子相结合，既温和又高效，能改善肤质、提亮肤色，且不刺痛。作者评测多款面向初学者的产品，提供循序渐进的使用建议，凸显“软化化学”在护肤中的重要性，鼓励读者将其纳入日常护理。",
+    "best_quote_en": "‘They can be a godsend in making texture more even and makeup smoother and more long‑lasting.’",
+    "best_quote_zh": "‘它们可以让皮肤纹理更均匀，化妆更服帖、持久。’"
+  },
+  {
+    "id": 643,
+    "title": "How to Be an Angel Investor",
+    "title_zh": "如何成为天使投资人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/angelinvesting.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-05-24",
+    "summary_en": "The essay demystifies angel investing, emphasizing that success hinges on selecting the right startups rather than mastering deal mechanics. It stresses the importance of building a strong network, gaining credibility through early investments, and maintaining a supportive, decisive attitude toward founders. The author argues that the most valuable skill is the ability to empathize with resourceful founders, a trait that often outweighs formal knowledge of valuation or term sheets. By framing angel investing as a game of predicting market‑winning ideas early, the piece offers actionable guidance—start small, focus on people, and be a good partner—while cautioning against over‑concentration of equity or neglecting anti‑dilution protections. The overall implication is that angel investors who blend humility, patience, and strategic generosity can both grow their own returns and expand the startup ecosystem.",
+    "summary_zh": "这篇文章把天使投资拆解成两部分：技术细节和人本判断。作者强调，真正的收益来自于对创始人的直觉把握，而非对估值或条款的精细计算。通过从小额投资、建立可靠声誉、主动帮助创始人等做法，天使可以持续获得高质量的投融资流。文章提醒读者要把握好股权稀释与防御条款，保持决断与善意，才能在竞争激烈的硅谷生态中脱颖而出。",
+    "best_quote_en": "What you should spend your time thinking about is whether the company is good.",
+    "best_quote_zh": "你应该把时间花在判断公司是否优秀上。"
+  },
+  {
+    "id": 644,
+    "title": "Heretical Pasta",
+    "title_zh": "异端意大利面",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/bG4ZhaH5NoxExiEDv/heretical-pasta",
+    "tags": [
+      "guide",
+      "education",
+      "society"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "社会议题"
+    ],
+    "date": "2026-05-24",
+    "summary_en": "The discussion centers on unconventional pasta cooking methods that challenge traditional norms: skipping the salt‑in‑water step, extending cooking times beyond typical French standards, and balancing sauce ratios to achieve optimal flavor integration. The commenter critiques the proposed 15‑minute cook time, noting regional variations and the practical reality that most cooks find 9 minutes excessive. They also debate whether pasta should absorb sauce fully during cooking or be tossed afterward, highlighting a cultural divide in culinary technique. The core insight is that while theory can propose refined methods, real‑world application depends on local habits, equipment, and personal skill. The conversation underscores the importance of testing techniques locally, questioning “one‑size‑fits‑all” guidelines, and sharing practical adjustments that keep cooking accessible yet innovative. It serves as a micro‑case study for how food culture evolves through community feedback and evidence‑based experimentation.",
+    "summary_zh": "这段对话讨论了挑战传统意大利面烹饪方法的非正统做法：不加盐水、延长烹饪时间以及平衡酱汁比例。评论者质疑 15 分钟的做法，指出法国标准下 9 分钟已属偏长，并探讨酱汁与面条的“吸收”方式。核心洞见在于理论与实践的碰撞，强调本地测试与经验分享的重要性。它展示了在社区互动中，食品文化如何通过实证实验不断演进。",
+    "best_quote_en": "\"The cooking times in your first link feel borderline insane to me. Up to 15 minutes to cook pasta?? I have never seen a cooking time over 11 minutes in 30 years in France and that was for bulkier pasta than the rigatoni in the link.\"",
+    "best_quote_zh": "\"你在第一个链接里提到的烹饪时间听起来几乎是疯狂的。最多 15 分钟煮面？在过去 30 年的法国，我从未见过超过 11 分钟的烹饪时间，那时的面条比链接里的管面更粗。\""
+  },
+  {
+    "id": 645,
+    "title": "Is the Working Class Finally Turning on Trump?",
+    "title_zh": "工人阶级是否终于转投特朗普？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-the-working-class-finally-turning-on-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-05-23",
+    "summary_en": "The article uncovers a sharp shift in the political loyalties of Pennsylvania’s working‑class voters, a microcosm of the broader American class realignment. Polls and field interviews reveal that while Trump’s populist rhetoric once drew blue‑collar support—especially from non‑college white workers and Latino men—recent economic pressures (inflation, high gas prices, war‑driven oil costs) have eroded that base. A new survey by Abbott and Williams shows that a sizable fraction of “switchers” who moved to Trump in 2024 are now wavering, with many Black and Latino workers expressing doubt about a 2028 Republican ticket. The piece deftly contrasts Trump’s “affordable” promises with the Democrats’ perceived elite focus, highlighting a “Democratic penalty” where populist messaging from an Independent resonates more strongly than from a Democrat. The narrative stresses that Democrats must translate economic grievances into credible policy—tax breaks for workers, drug‑price caps, rent‑support—otherwise they risk losing not just votes but the opportunity to reshape the political economy. The article’s value lies in its granular data, nuanced ideological mapping, and strategic implications for both parties, making it essential reading for political strategists, economists, and scholars of class politics.",
+    "summary_zh": "文章揭示宾夕法尼亚州工人阶级投票倾向的显著转变，映射出美国更广泛的阶级重组。特朗普的经济民粹口号曾吸引非大学学位白领和拉丁裔男性，但近期通胀与油价飙升削弱了这一基础。新调查显示，许多2024年投向特朗普的“转换者”正犹豫不决，尤其是黑人和拉丁裔选民。文中对比特朗普的“可负担”承诺与民主党被视为精英主义的形象，指出“民主党惩罚”——民粹信息更易从独立候选人而非民主党传达。文章价值在于细致数据、深度意识形态映射与对两党战略的启示，是政治工作者、经济学家与阶级政治研究者的必读之作。",
+    "best_quote_en": "‘People really don’t like what Trump is doing, particularly lower‑income people of color, but they are not seeing the Democrats provide something that makes them want to vote for them, either.’",
+    "best_quote_zh": "‘人们真的不喜欢特朗普的所作所为，尤其是低收入的有色人种，但他们也没有看到民主党提供任何让他们想投票给他们的东西。’"
+  },
+  {
+    "id": 646,
+    "title": "Book Freak #210: The Art of Money Getting",
+    "title_zh": "",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "tags": [
+      "update",
+      "personal-finance",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "动态",
+      "个人理财",
+      "AI研究"
+    ],
+    "date": "2026-05-22",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
