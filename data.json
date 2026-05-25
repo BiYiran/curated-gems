@@ -1,123 +1,5 @@
 [
   {
-    "id": 547,
-    "title": "The Top Idea in Your Mind",
-    "title_zh": "你脑中最重要的想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/top.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-05-03",
-    "summary_en": "This essay blends personal narrative with psychological insight, arguing that the most salient thought in one’s mind—often the one that occupies subconscious “shower time”—directly shapes focus and progress. The author uses his own startup experience and historical anecdotes (Newton, Y Combinator) to illustrate how fundraising or disputes can hijack this mental space, turning productive time into an attention sink. The key takeaway is that entrepreneurs must indirectly steer their top idea by structuring their environment and schedules, avoiding situations that elevate money or conflict to the forefront. By recognizing and controlling the dominant mental theme, founders can preserve bandwidth for innovation and execution. The piece offers a practical, reflective framework that applies beyond startups to any high‑stakes problem‑solving context, encouraging readers to audit their own mental priorities and to design daily habits that favor long‑term objectives.",
-    "summary_zh": "作者通过自述与历史案例阐释：脑中最重要的想法决定专注度。融资与争执往往夺走注意力，导致创业进度停滞。通过控制环境与习惯，让“浴室思考”聚焦真正的目标，从而提升执行力。此思路适用于任何需要深度思考的领域。",
-    "best_quote_en": "‘You can only control the top idea in your mind indirectly, by controlling the situations you let yourself get into.’",
-    "best_quote_zh": "‘你只能通过控制自己进入的情境来间接控制脑中最重要的想法。’"
-  },
-  {
-    "id": 548,
-    "title": "Pursuing the target",
-    "title_zh": "Pursuing the target",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FwFwHkp4EtEj7Cop9/pursuing-the-target",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-03",
-    "summary_en": "This short allegory unpacks the multifaceted nature of goal‑setting and collective progress. Each character embodies a distinct strategic approach—whether it’s chasing the wrong target, possessing raw power but lacking direction, or hoarding individual expertise—highlighting common pitfalls in solo and group pursuits. The narrative culminates with the lesson that true advancement often lies in learning from failed attempts, assembling complementary teams, and carefully designing incentive structures to harness diverse contributions. The story offers a nuanced critique of conventional wisdom about focus, collaboration, and the perils of over‑ambitious technology, making it a valuable case study for entrepreneurs, managers, and anyone navigating complex objectives. It invites readers to reflect on how alignment, shared vision, and disciplined execution transform aspirations into results, underscoring the importance of iterative learning and adaptive teamwork in high‑stakes environments.",
-    "summary_zh": "这篇寓言揭示了目标追求的多维面貌。人物各具策略，分别体现了盲目追求、实力过剩却缺乏方向、团队协作与激励设计等常见陷阱与机遇。作者通过对失败与成功的反思，强调了对齐、共同愿景与执行纪律在实现高目标中的关键作用。它既是创业者的案例，也是管理者的思考，提示人们在复杂环境中要善于学习、迭代与协同。",
-    "best_quote_en": "The journey is not about how far you go alone, but how far you go together with the right map and the right people.",
-    "best_quote_zh": "真正的进步不是你走得多远，而是你与合适的人和合适的地图一起能走多远。"
-  },
-  {
-    "id": 549,
-    "title": "How the Supreme Court Demolished the Voting Rights Act",
-    "title_zh": "最高法院拆解投票权法案",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-the-supreme-court-demolished-the-voting-rights-act",
-    "tags": [
-      "guide",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2026-05-02",
-    "summary_en": "The article dissects the Supreme Court’s landmark decision in Louisiana v. Callais, which substantially narrows the scope of Section 2 of the Voting Rights Act (VRA). By re‑reading the VRA through the prism of the Fifteenth Amendment’s intent‑based restrictions, the Court effectively re‑establishes the pre‑1982 standard that only intentional discrimination violates the law. This shift dismantles the modern mechanism that requires states to create majority‑minority districts, thereby opening a floodgate for partisan gerrymandering that erodes Black voting power. The piece blends historical context, statutory analysis, and the political stakes of the ruling, highlighting the tension between judicial interpretation and congressional intent. It underscores the practical implications for future litigation, the strategic guidance the Court offers to Republican‑led legislatures, and the profound threat to democratic representation. The author’s critical lens invites readers to contemplate the fragility of civil‑rights protections when judicial philosophy overtakes legislative intent, and to consider the broader erosion of minority electoral influence in a polarized polity.",
-    "summary_zh": "最高院在《路易斯安那州诉卡莱斯》案中把投票权法案的第二条重新解读为只针对有意歧视，彻底削弱了现代的多数少数族裔区划权。此举使得种族平等的投票机会受限，党派划区自由度大增，黑人选民投票权被压制。作者以历史、法律和政治三维度剖析，提醒人们司法解读若超越立法意图，民权保障将随之摇摇欲坠。",
-    "best_quote_en": "\"The Court’s job is to interpret the law—not to rewrite a statute that Justices do not like.\"",
-    "best_quote_zh": "\"最高法院的职责是解释法律，而不是改写法官不喜欢的法案。\""
-  },
-  {
-    "id": 550,
-    "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
-    "title_zh": "Essentials: 理解与提升记忆的科学工具",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-understand-and-mprove-memory-using-science-based-tools",
-    "tags": [
-      "learn",
-      "science",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2026-04-16",
-    "summary_en": "Brandon Huberman’s episode dissects the neurobiology of memory, revealing how adrenaline, sensory cues, and timing can be harnessed to boost encoding and recall. He blends foundational science—neurochemical pathways, sleep architecture, and exercise‑induced neurogenesis—with practical, evidence‑based protocols: spaced repetition, targeted napping, caffeine timing, and even brief meditation. The discussion extends to the cognitive benefits of cardiovascular activity and the intriguing phenomenon of déjà vu, illustrating how context and emotional arousal shape memory consolidation. This content is valuable for learners seeking actionable tactics to reduce rehearsal load, for educators designing study schedules, and for anyone intrigued by the intersection of neuroscience and daily habits. It underscores that memory is not a fixed capacity but a malleable system responsive to lifestyle choices, offering a roadmap for rapid skill acquisition and long‑term retention.",
-    "summary_zh": "本集节目深入探讨记忆形成的神经机制，并提供科学验证的实用策略——通过肾上腺素、感官刺激、睡眠与运动等手段提升记忆效率。它将理论与可操作的技巧结合，帮助学习者在减少重复次数的同时提高学习效果，体现记忆是可塑且受生活方式影响的系统。",
-    "best_quote_en": "“Your brain’s memory system isn’t a fixed vault; it’s a dynamic landscape that you can shape with the right cues, timing, and stress signals.”",
-    "best_quote_zh": "“记忆系统不是固定的保险库，而是可以通过正确的提示、时间安排和压力信号来塑造的动态景观。”"
-  },
-  {
-    "id": 551,
-    "title": "The Devil Wears Prada 2 struts to stunning $233m opening weekend at box office",
-    "title_zh": "《穿普拉达的女王2》在北美暑期首映周末创下2.33亿美元票房",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/may/04/the-devil-wears-prada-2-box-office-opening-weekend",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-04",
-    "summary_en": "The Guardian’s report on *The Devil Wears Prada 2* offers a rich snapshot of contemporary Hollywood economics, gender‑driven audience dynamics, and the strategic timing of summer releases. With a $100 million production budget, the sequel’s $233 million worldwide opening—$77 million domestically and $156 million internationally—marks the highest debut for a Meryl Streep film and a record for Emily Blunt’s launches. The data reveal that 76 % of ticket‑buyers were women, a demographic that not only dominates the market but also drives word‑of‑mouth, as 74 % would recommend the film. Critics were mixed, yet the commercial success underscores the power of star‑driven, female‑centric narratives in an industry still dominated by blockbuster franchises. The article contextualizes these figures within the broader summer box‑office landscape, noting the absence of a Marvel kickoff and the role of strategic marketing in Tokyo, London and New York. For industry observers, it highlights how genre, star power, and audience segmentation converge to reshape box‑office expectations and provides a case study for balancing creative ambition with commercial viability.",
-    "summary_zh": "《穿普拉达的女王2》以2.33亿美元的北美首映周末票房打破多项纪录，展示了明星效应与女性观众主导的商业模式。文章通过数据阐释了女性观众占比76％、推荐度74％等关键指标，说明了性别营销在当代票房中的重要性。它也把该片与夏季大片对比，说明在缺乏漫威作品的情况下，强势女星与精准市场策略如何成为票房新引擎，为电影行业提供了值得借鉴的案例。",
-    "best_quote_en": "“Women made up about 76% of the ticket buyers, according to PostTrak exit polls; 74% said they would ‘definitely recommend’ the movie to friends.”",
-    "best_quote_zh": "“女性观众占票房买票者的76%，其中74%表示会‘一定会向朋友推荐’这部电影。”"
-  },
-  {
     "id": 552,
     "title": "How to Lose Time and Money",
     "title_zh": "如何失去时间和金钱",
@@ -2340,5 +2222,123 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 647,
+    "title": "Why TV Lost",
+    "title_zh": "为什么电视失去光芒",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convergence.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-05-25",
+    "summary_en": "The article offers a prescient, data‑driven analysis of how the convergence of computing and the internet has rendered traditional television obsolete. It argues that open platforms, Moore’s Law, piracy, and the social‑media revolution collectively shifted consumer habits toward computer‑based media consumption. By dissecting each force, the author exposes the fragility of broadcast’s synchronous, local model and predicts a future where content is personalized, on‑demand, and increasingly game‑oriented. The piece challenges incumbents to abandon legacy infrastructures, while highlighting the opportunity for startups to fill the void. It blends historical hindsight with forward‑looking insight, making it a valuable resource for media strategists, tech entrepreneurs, and cultural commentators.\n\nThe article’s critical stance on TV’s “gatekeeping” and its emphasis on user empowerment resonate with contemporary debates about platform dominance and content ownership. It reminds readers that technological disruption is not merely a technical shift but a sociocultural transformation, urging a re‑evaluation of business models and partnership structures in the media ecosystem.\n\nOverall, the essay is both a cautionary tale and a call to action, offering actionable, future‑focused points for stakeholders navigating the digital media transition.",
+    "summary_zh": "作者用数据驱动的视角拆解了电视衰落的四大因素：开放平台、摩尔定律、盗版与社交应用。内容强调传统广播的同步性与地域性已被互联网所摧毁，预示未来内容将更个性化、即时化、甚至与游戏融合。文章既是对电视行业的警醒，也是对创业者的机遇提醒，提醒大家及时拥抱数字化、重新审视内容分发与盈利模式。",
+    "best_quote_en": "\"Facebook killed TV. That is wildly oversimplified, of course, but probably as close to the truth as you can get in three words.\"",
+    "best_quote_zh": "“Facebook 杀死了电视。”"
+  },
+  {
+    "id": 648,
+    "title": "Applications open for the Secure Program Synthesis Fellowship",
+    "title_zh": "安全程序合成奖学金开放申请",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/RmKGiB8xmPK2hGmB9/applications-open-for-the-secure-program-synthesis",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-05-25",
+    "summary_en": "The post announces the opening of the Secure Program Synthesis Fellowship, a part‑time research initiative at the nexus of formal methods, AI security, and program synthesis. It highlights the growing gap between cheap, scalable code generation and the need for rigorous specification, validation, and adversarial robustness. The fellowship, backed by Apart Research and Atlas Computing, invites diverse applicants—no specific background required—and pairs them with leading mentors such as Erik Maijer and Shririam Krishnamurthi. Participants will tackle understudied, underspecified problems in specification and validation, aiming to produce publishable, high‑impact results within a short timeframe. The call underscores the practical relevance of formal verification in AI systems and offers a pathway for researchers and practitioners to contribute to secure, reliable AI infrastructure. Its emphasis on mentorship, collaborative projects, and a supportive network signals a strategic investment in future AI security talent.\n\nThe announcement is not merely informational; it serves as a call to action for those interested in bridging theory and practice. By framing program synthesis as a critical component of AI safety, it invites a broad spectrum of participants—from proof engineers to security researchers—to apply their skills toward a common goal. The fellowship’s structured yet flexible format (8 hours a week) and potential stipends make it accessible, while the promise of continued engagement within the Apart network mitigates the risk of rejection. In sum, the post offers both a practical opportunity and a glimpse into the evolving landscape where formal methods and AI intersect for security.\n",
+    "summary_zh": "此帖宣布了安全程序合成奖学金的开放，聚焦形式方法与AI安全交叉点，呼吁无背景限制的研究者参与。它强调代码生成日益普及但规范与验证仍是瓶颈，奖学金通过导师带领的项目让团队攻克规范与验证难题，目标是快速产出可发表的高影响力工作。奖学金兼具实践性与理论性，既是行动号召，也是对未来AI安全人才培养的布局。",
+    "best_quote_en": "As code generation becomes cheaper and more scalable, the bottleneck shifts from implementation to specification and validation.",
+    "best_quote_zh": "随着代码生成变得更便宜、更可扩展，瓶颈从实现转向规范和验证。"
+  },
+  {
+    "id": 649,
+    "title": "How “The Chosen” Spurred a Golden Age of Christian Filmmaking",
+    "title_zh": "《被选中》如何催生基督教电影的黄金时代",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/06/01/how-the-chosen-spurred-a-golden-age-of-christian-filmmaking",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-05-25",
+    "summary_en": "The article traces how the Christian series \"The Chosen\" has reshaped faith‑based filmmaking, turning devoted fandom into a scalable business model that rivals Hollywood’s traditional blockbuster paradigm.  It examines the show’s grassroots crowdfunding, community‑driven distribution, and strategic partnerships—from Angel Studios to Lionsgate—highlighting how data‑informed engagement, live‑stream fundraising, and a low‑cost production model created a new economic ecosystem.  The piece also critiques the tensions between creative autonomy and corporate control, the fragility of niche markets, and the cultural politics that arise when faith, entertainment, and commerce intersect.  In doing so, it offers a nuanced case study on how niche audiences can co‑create, finance, and sustain media that resonates both spiritually and commercially, providing insights for content creators, marketers, and scholars of media economics.",
+    "summary_zh": "《被选中》掀起了基督教电影的新浪潮，靠粉丝资助和社群运营撬动传统好莱坞模式。文章剖析从众筹到流媒体分销的全链条，揭示数据驱动的粉丝互动与低成本制作如何共同铸就新型商业生态；同时也指出创意与资本、信仰与市场之间的张力。它既是创作者的实践指南，也是文化经济学的案例研究。",
+    "best_quote_en": "\"The show’s target audience was primed for such pleas—contributing money was akin to tithing, sharing episodes was a form of proselytizing.\"",
+    "best_quote_zh": "“观众为此付费就像是奉献，分享剧集则是宣教。”"
+  },
+  {
+    "id": 650,
+    "title": "Retro Recomendo: Creative Practice",
+    "title_zh": "Retro Recomendo：创意实践",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-creative-practice/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-05-24",
+    "summary_en": "Retro Recomendo is a thoughtfully curated, bi‑monthly “throwback” newsletter that revisits the most enduring creative resources from the past nine years. By spotlighting a single theme each issue—ranging from Lynda Barry’s hand‑drawn guide to art to practical figure‑drawing tools, contemporary collage newsletters, blackout poetry generators, and maker‑centric tip‑lists—this series turns passive recommendations into actionable learning experiences. Its strength lies in the blend of expert‑curated content (e.g., Barry’s book that reframes the act of drawing as a way to “see” rather than a skill to master) and community‑based resources (such as the Line of Action figure drawing platform and the Gar’s Tips & Tools newsletter). For creatives at all levels, the newsletter offers a ready‑to‑apply toolkit that encourages experimentation, skill development, and a broadened artistic perspective. The call to sign up ahead of the weekly issue underscores its value as a timely, evergreen resource that nurtures continuous growth in a fast‑moving creative landscape.",
+    "summary_zh": "Retro Recomendo以每六周一次的旧时推荐方式，聚焦往九年中最具价值的创意资源。它涵盖从Lynda Barry的手绘书籍到在线人物素描、当代拼贴、黑幕诗歌生成器以及手工艺者的实用技巧。内容兼具专业深度与社区共创，既能为初学者提供可操作的练习，又能激发成熟艺术家的灵感与实验精神。每期结尾邀请订阅者抢先获取，确保创意灵感不落后。",
+    "best_quote_en": "\"It will teach you how to draw, more importantly how to see, and even more importantly how to create with originality, by taking yourself out of the way to see what shows up.\"",
+    "best_quote_zh": "“它会教你如何绘画，更重要的是教你如何观察，甚至更重要的是教你如何在不让自己遮挡的情况下创造原创。”"
+  },
+  {
+    "id": 651,
+    "title": "Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
+    "title_zh": "Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/20/sami-inkinen/",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "Sami Inkinen’s episode is a rich tapestry of entrepreneurial grit, scientific rigor, and endurance‑sport philosophy, all converging on metabolic health. He explains how Virta Health leverages AI‑driven nutrition protocols to reverse type‑2 diabetes in over 100,000 patients, emphasizing that sustained behavioral change—not just medication—drives lasting remission. The conversation is imbued with data‑driven insights: Virta’s 83 % one‑year adherence outpaces GLP‑1 drugs, and the company’s protocols are built on real‑world evidence such as the McDonald’s diet trial. Inkinen’s endurance background informs his “no‑one‑by‑one” approach to habit formation, showing how cold exposure, VO₂‑max blocks, and progressive overload can be translated into metabolic reset. The episode also serves as a public‑health call to action, critiquing the food environment and advocating for systemic change. For listeners, the takeaway is clear: reversing diabetes is a scalable, evidence‑based endeavor that blends technology, nutrition, and disciplined lifestyle practices. The narrative underlines that hope exists, and with the right tools and mindset, metabolic health can be reclaimed.",
+    "summary_zh": "Sami Inkinen 通过 AI 与营养协议，结合耐力运动理念，展示逆转2型糖尿病的可行路径；他强调行为改变比单药更重要，引用 83% 的长期依从率与麦当劳饮食试验等数据，呼吁系统性改变食物环境，传递希望与可复制的健康范式。",
+    "best_quote_en": "“Type 2 diabetes can be reversed systematically, not miraculously. And so hopefully I can be a messenger of hope that these conditions are reversible, especially after I already disclosed that I used to live thinking it’s your fault, it’s your fault, you are just lazy, you don’t have the willpower.”",
+    "best_quote_zh": "“2 型糖尿病可以通过系统化逆转，而非奇迹。希望成为逆转的信使，告诉人们这些疾病是可逆的，尤其是我曾认为这都是个人懒惰与意志力问题。”"
   }
 ]
