@@ -1,101 +1,5 @@
 [
   {
-    "id": 552,
-    "title": "How to Lose Time and Money",
-    "title_zh": "如何失去时间和金钱",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/selfindulgence.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-05-04",
-    "summary_en": "In this reflective essay, the author chronicles the paradox of wealth preservation: riches are often eroded not by lavish spending but by ill‑chosen investments that slip past our instinctual alarms. By drawing a parallel between money and time, he reveals that the modern trap is not indulgence but 'fake work'—activities masquerading as productivity yet yielding no real value. The piece urges readers to cultivate new safeguards: consciously question every investment and every seemingly productive task. It blends personal anecdote with actionable insight, offering a nuanced framework for safeguarding both capital and hours. The narrative invites a deeper look at how our inherited self‑control mechanisms are outpaced by sophisticated financial instruments and busy‑culture myths, ultimately offering a roadmap for mindful stewardship of the two most finite resources.",
-    "summary_zh": "作者以自述方式揭示，财富的流失往往源于投资失误而非奢侈消费；时间亦同，‘假工作’成为现代最大的时间杀手。通过对金钱与时间的类比，他呼吁读者重新培养警觉，对每一次投资和被视作高效的工作进行质疑，从而更好地管理有限资源，防止被复杂的金融工具和繁忙文化所左右。",
-    "best_quote_en": "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.",
-    "best_quote_zh": "最危险的失去时间方式不是把时间花在玩乐上，而是把时间花在虚假工作上。"
-  },
-  {
-    "id": 553,
-    "title": "Psychopathy: The Shaping",
-    "title_zh": "Psychopathy: The Shaping",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/dJi2LYekuHdP5mHMn/psychopathy-the-shaping",
-    "tags": [
-      "learn",
-      "psychology",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-05-04",
-    "summary_en": "This article delivers a nuanced, research‑backed framework for understanding how environmental factors sculpt psychopathic traits across developmental stages. It synthesizes decades of literature with first‑hand conversations, yielding a tiered model that links infancy attachment styles (secure, avoidant, preoccupied, disorganized) to later moral, social, and identity outcomes. By distinguishing concrete adversity types—unattuned mirroring, neglect, punitive, chaotic, controlling, parentified, golden, scapegoat—the author maps specific adaptive strategies: Machiavellian control, echoism, admiration‑seeking, hypervigilance, and autonomy‑preoccupation. The piece further integrates genetic and neurobiological predispositions, illustrating gene‑environment interactions that produce functional versus dysfunctional psychopathy. For clinicians, it offers actionable diagnostic cues (e.g., disorganized attachment as a risk factor) and therapeutic emphasis (targeting control versus chaotic defenses). For practitioners and researchers, the article serves as a detailed case study, grounding theory in lived experience and providing a blueprint for future interventions and longitudinal studies.",
-    "summary_zh": "本文通过结合大量文献与亲身访谈，细致阐述环境如何在不同发展阶段塑造精神病态特质。作者将婴幼儿期的依恋类型与后续道德、社会和身份发展联系起来，区分多种具体逆境，并对应特定适应策略。通过将遗传与神经生物学因素与环境互动相结合，文章揭示了功能性与功能失调性精神病态的生成机制。对临床工作者而言，它提供了可操作的诊断线索与治疗重点；对研究者而言，成为案例研究的典范，为后续干预和纵向研究提供蓝图。",
-    "best_quote_en": "The environment doesn’t create psychopathy from nothing. Rather, the environment selects which genetic potentials get expressed.",
-    "best_quote_zh": "环境并非从无到有创造心理变态，而是选择哪些遗传潜能得以表达。"
-  },
-  {
-    "id": 554,
-    "title": "The Strange Saga of Timmy, the Stranded Humpback Whale",
-    "title_zh": "Timmy，迷路的座头鲸的奇异传奇",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-unlikely-rescue-of-timmy-the-stranded-humpback-whale",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-02",
-    "summary_en": "The article chronicles the dramatic, multi‑agency, and sometimes chaotic rescue of a stranded humpback whale named Timmy in the Baltic Sea. It juxtaposes scientific caution—advocating euthanasia or passive observation—with the impassioned, privately funded interventions of volunteers, celebrities, and multimillionaires. The narrative exposes the tension between conservation ethics, practical feasibility, and public engagement, highlighting how social media can amplify both expertise and misinformation. It also reflects on broader problems of marine stranding: habitat degradation, pollution, and human interference. The story ultimately celebrates a successful rescue, yet questions whether the triumph masks ongoing systemic issues. The piece serves as an engaging case study that invites readers to reconsider the costs and benefits of individual animal rescues within a larger ecological context.",
-    "summary_zh": "文章记录了波罗的海座头鲸Timmy的惊险救援，展现科学与民间力量、媒体与伦理的冲突。它提醒我们，单个动物的救援虽令人鼓舞，却掩盖了更深层次的生态与社会问题。",
-    "best_quote_en": "“We believe that the whale will die there,” the expert said. “We have committed to accompanying this whale to the very end.”",
-    "best_quote_zh": "“我们相信鲸鱼会在那儿死亡。”专家说。"
-  },
-  {
-    "id": 555,
-    "title": "Embassy of the Free Mind / Easy search on phone / Free wireless speaker",
-    "title_zh": "自由之邦 / 手机轻松搜索 / 免费无线音箱",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/embassy-of-the-free-mind-easy-search-on-phone-free-wireless-speaker/",
-    "tags": [
-      "guide",
-      "music-arts",
-      "programming",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "音乐艺术",
-      "编程开发",
-      "深度分析"
-    ],
-    "date": "2026-05-03",
-    "summary_en": "The article stitches together a series of practical tech hacks and cultural curiosities that reveal how everyday tools can be leveraged for richer experiences. From the Embassy of the Free Mind’s digitized occult libraries, readers glimpse a new frontier of open scholarship that blurs the line between ancient wisdom and modern data‑access. The Google Circle‑to‑Search tip showcases the power of contextual image recognition, transforming a smartphone into an on‑the‑go research assistant. Switching audio from a Bluetooth speaker to a TV’s native speakers reminds us that hardware choices often hinge on subtle audio fidelity differences. Anna’s Archive is positioned as the ultimate open‑source repository, a lifeline for researchers denied by paywalls. The company‑retreat segment, while a pop‑culture nod, underscores authenticity in narrative design. Finally, a USB‑C to USB‑A adapter serves as a humble reminder of the ongoing convergence of legacy and future tech standards. Together, these snippets underscore a central thesis: the most valuable tools are those that seamlessly integrate into daily routines, democratizing knowledge and enhancing sensory engagement.",
-    "summary_zh": "文章将古籍数字化、手机图像搜索、电视音箱、开源图书馆、公司假日剧和 USB 转换等碎片拼接，呈现技术如何无缝融入日常，解锁知识与体验新维度。",
-    "best_quote_en": "Enable Google’s Circle to Search on your phone. You can then use your finger to circle any image, part of an image, product in an image, word, phrase, text – anything on the screen and it will search what you circle.",
-    "best_quote_zh": "我没能触摸任何书{}但我闻到了一本有数百年历史的书香，那是多么壮观！"
-  },
-  {
     "id": 556,
     "title": "Menopause is tough. But it’s fantastic being a woman in her 60s",
     "title_zh": "绝经期很艰难，但60多岁是女性的精彩时光",
@@ -2340,5 +2244,97 @@
     "summary_zh": "Sami Inkinen 通过 AI 与营养协议，结合耐力运动理念，展示逆转2型糖尿病的可行路径；他强调行为改变比单药更重要，引用 83% 的长期依从率与麦当劳饮食试验等数据，呼吁系统性改变食物环境，传递希望与可复制的健康范式。",
     "best_quote_en": "“Type 2 diabetes can be reversed systematically, not miraculously. And so hopefully I can be a messenger of hope that these conditions are reversible, especially after I already disclosed that I used to live thinking it’s your fault, it’s your fault, you are just lazy, you don’t have the willpower.”",
     "best_quote_zh": "“2 型糖尿病可以通过系统化逆转，而非奇迹。希望成为逆转的信使，告诉人们这些疾病是可逆的，尤其是我曾认为这都是个人懒惰与意志力问题。”"
+  },
+  {
+    "id": 652,
+    "title": "Alien Invasion in My Backyard / Deceptive Desserts",
+    "title_zh": "后院的外星人入侵 / 欺骗性甜点",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/alien-invasion-in-my-backyard-deceptive-desserts/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-26",
+    "summary_en": "The article juxtaposes two seemingly unrelated books to illuminate the power of storytelling in shaping imagination and creativity. In the first part, Ruben Bolling’s \"Alien Invasion in My Backyard\" is presented as a playful, first-person report from a child’s perspective, blending literal adventure with the metaphor of discovery that sparks curiosity in young readers. The narrative structure mimics a detective log, complete with photos and a cast of quirky characters, inviting readers to engage actively with mystery‑solving. The second part turns to Christine McConnell’s \"Deceptive Desserts,\" a culinary manifesto that marries macabre aesthetics with practical baking instruction. McConnell’s journey—from makeup artist to baker—serves as a case study in skill acquisition through self‑guided learning and social media amplification. Both books exemplify how ordinary experiences (a backyard, a kitchen) can be transformed into extraordinary narratives when filtered through creative vision. The article’s core insight is that authenticity and personal passion are the engines of compelling content, whether it is a child’s imaginary expedition or a woman’s gothic confectionery brand. This resonates beyond literature, offering a blueprint for educators, entrepreneurs, and creatives who wish to turn everyday moments into engaging, shareable stories.",
+    "summary_zh": "文章将两本看似无关的书并列，展示叙事如何激发想象与创造力。第一本《后院的外星人入侵》以孩子的视角记录冒险，第二本《欺骗性甜点》则把恐怖美食与烘焙技巧结合。两者共同传递的核心是：真诚与热情是让平凡变非凡的关键。",
+    "best_quote_en": "‘The mysteries aren’t out there, they’re right here.’",
+    "best_quote_zh": "‘谜团不在外面，它们就在身边。’"
+  },
+  {
+    "id": 653,
+    "title": "The Practice of Self-Inquiry: 10 Questions for People Who Are Too Hard on Themselves",
+    "title_zh": "自我探询的实践：对自我苛责者的10个问题",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/08/the-practice-of-self-inquiry-paul-conti/",
+    "tags": [
+      "guide",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-05-08",
+    "summary_en": "This article distills the wisdom of Dr. Paul Conti’s mental‑health methodology into a gentle, actionable guide for readers who struggle with self‑criticism. It opens with a relatable narrative about a patient’s failed gym resolution, illustrating how high expectations and unconscious defense mechanisms sabotage progress. The core insight is that self‑inquiry—asking compassionate, curiosity‑driven questions—unlocks unconscious beliefs that fuel self‑sabotage. The writer supplies a structured, tiered list of questions that range from surface‑level curiosity to deep‑mind probes, encouraging readers to record answers in any medium they prefer. The piece emphasizes that the value lies not in a perfect checklist but in ongoing, mindful practice that turns self‑awareness into empowerment. It also reminds us that the tools work differently for each person, and consistent effort is the key to transformation. In short, the article offers a practical, psychologically grounded framework for turning harsh inner dialogues into constructive self‑growth, making it a useful resource for anyone seeking to soften their inner critic and cultivate sustainable change.",
+    "summary_zh": "本文用温和实用的方式阐释了保罗·康蒂博士的心理健康方法，帮助自我苛责者通过自我探询化解内在负面声音。通过真实案例展示高期待如何导致失败，并提供一套循序渐进的提问清单，鼓励读者记录答案、持续练习。文章强调工具因人而异，关键在于持续的自我觉察。它既是心理学实操指南，也是对自我成长的温柔激励。",
+    "best_quote_en": "\"The point is to be inquisitive, not inquisitorial. Don’t grill, hound, or nag yourself with harsh critiques or demands for justifiable answers.\"",
+    "best_quote_zh": "“关键在于好奇，而不是审问。不要用严厉的批评或可证明的答案来审问自己。”"
+  },
+  {
+    "id": 654,
+    "title": "J. Cole and Cam’ron settle $500K lawsuit over ‘Ready ’24’ royalties",
+    "title_zh": "J. Cole与Cam’ron就《Ready ’24》版税纠纷达成50万美元和解",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/j-cole-and-camron-settle-500k-lawsuit-over-ready-24-royalties/",
+    "tags": [
+      "solve",
+      "legal",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-27",
+    "summary_en": "J. Cole and Cam’ron’s $500,000 settlement over the 2024 track \"Ready ’24\" illustrates the fragile nature of creative collaborations, where contractual ambiguities and unrecorded agreements can spark costly legal battles. Cam’ron, asserting he contributed lyrics and vocals without compensation, filed a lawsuit that underscored the importance of clear crediting and royalty distribution in the music industry. The rapid resolution—announced in a court letter and backed by a conditional dismissal—highlights how public relations and personal reconciliation can precede formal settlement. For artists and producers, the case serves as a cautionary tale: document every collaboration, negotiate terms explicitly, and maintain transparent communication to avoid disputes that erode creative partnerships. Beyond the legal mechanics, the incident reflects broader industry trends—streaming revenue models, the rise of feature artists, and the tension between artistic freedom and contractual obligations—making it a valuable case study for anyone navigating the modern music business.",
+    "summary_zh": "J. Cole与Cam’ron就《Ready ’24》版税纠纷达成50万美元和解，提醒创作者务必在合作前签署明确协议，避免因权益分配不清导致昂贵诉讼。",
+    "best_quote_en": "The settlement follows the pair’s reconciliation approximately two months ago, when Cole appeared on Cam’ron’s Talk with Flee podcast in March 2026.",
+    "best_quote_zh": "和解是在两个月前两人和解后达成的，当时Cole在Cam’ron的Talk with Flee播客中出现。"
+  },
+  {
+    "id": 655,
+    "title": "New Book Drop/Giveaway: “Retire by 30”",
+    "title_zh": "新书赠送/赠品：《30岁退休》",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/new-book-cody-berman-retire-by-30/",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "设计创意"
+    ],
+    "date": "2026-05-12",
+    "summary_en": "This post blends a lighthearted giveaway announcement with a deeper dive into the principles of early financial independence presented in Cody Berman’s new book, \"Retire by 30.\" The author frames the book as a practical, step‑by‑step system that demystifies the path to wealth—emphasizing that age is irrelevant and that small, consistent habits can yield exponential growth. By inviting readers to share their retirement ambitions, the post encourages active reflection while subtly promoting the book’s actionable framework. The tone is personable and motivational, positioning the giveaway as a community‑building exercise rather than a mere marketing stunt. Readers gain both a tangible incentive (a free copy) and a conceptual toolkit: how to define a retirement target, optimize expenses, grow income, and invest confidently. The author’s own anecdote about delayed financial focus adds authenticity, suggesting that anyone can start now and see measurable progress within a decade. The post’s value lies in its blend of personal narrative, practical advice, and social engagement, making it a useful primer for anyone curious about financial freedom and early retirement strategies.",
+    "summary_zh": "作者以轻松的赠书方式，分享了《30岁退休》书中可操作的早期财务自由步骤。通过邀请读者分享退休目标，既激发反思又推广书籍。内容兼具个人故事与实用技巧，鼓励任何年龄段的读者从小习惯开始，逐步实现财务独立。",
+    "best_quote_en": "\"If you want to reach Financial Independence faster than most people think possible, this book is for you. It doesn’t matter if you’re 18 or 58. The principles work at any age.\"",
+    "best_quote_zh": "“如果你想比大多数人想的更快地实现财务独立，这本书就是为你而写。无论你是18还是58，原则都适用。”"
   }
 ]
