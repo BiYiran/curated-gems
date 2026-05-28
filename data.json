@@ -1,123 +1,5 @@
 [
   {
-    "id": 556,
-    "title": "Menopause is tough. But it’s fantastic being a woman in her 60s",
-    "title_zh": "绝经期很艰难，但60多岁是女性的精彩时光",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/05/menopause-is-tough-but-fantastic-being-a-woman-in-her-60s",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-05-05",
-    "summary_en": "The Guardian piece by Kathy Lette turns the often bleak narrative of menopause into a celebration of autonomy, sexuality, and self‑rediscovery. Through candid anecdotes—her own romance in her late sixties, the scientific backing that post‑menopausal women can enjoy stronger orgasms, and expert commentary on the psychological liberation of this life stage—it redefines menopause from a loss to a renaissance. The article blends humor with research, offering a roadmap for women to embrace freedom from domestic expectations, financial independence, and renewed purpose. It invites readers to view aging as a second act of adventure rather than decline, urging them to seize opportunities, cultivate relationships, and prioritize their own desires. Lette’s blend of personal narrative and evidence‑based insights makes this piece both motivational and practical, a call to live fully in the post‑menopausal years.",
-    "summary_zh": "凯西·莱特用幽默与科学阐释绝经期不再是失落，而是重获自由与自我发现的机遇。她的亲身经历、专家见解与数据相结合，鼓励女性把绝经视为人生第二幕的冒险，重拾性欲、独立与自我价值。此文既励志又实用，提醒读者把握人生后期的无限可能。",
-    "best_quote_en": "'Women don’t give up sex when we get old – we get old when we give up sex.'",
-    "best_quote_zh": "‘女人不因年龄而放弃性，而是因为放弃性而变老。’"
-  },
-  {
-    "id": 557,
-    "title": "Organic Startup Ideas",
-    "title_zh": "有机创业想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/organic.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-05-05",
-    "summary_en": "The article argues that the most successful startups spring from founders’ lived experiences—what they wish existed in their own lives—rather than from speculative market analysis. By contrasting Apple’s self‑made, passion‑driven product with Viaweb’s market‑driven solution, the author shows that organic ideas are inherently more aligned with genuine user pain points. The piece offers a pragmatic framework: identify what feels broken, test it as a toy, and let curiosity lead to a scalable business. It also cautions against the “made‑up” mentality that often plagues young founders who assume they can predict others’ needs. The tone is both instructional and motivational, urging entrepreneurs to lean into their own frustrations and the latest technology to uncover untapped opportunities. The article’s implications resonate beyond tech startups, suggesting that any venture benefits from rooting its value proposition in real, observable gaps rather than abstract forecasts.",
-    "summary_zh": "文章强调创业要先解决自己生活中存在的痛点，而非凭空猜测市场需求。以苹果与Viaweb为例，作者指出真正的“有机想法”更能贴合用户真实需求，提供了一套发现并验证痛点的思路。它既是指导也是激励，提醒年轻创始人先做自己想用的产品，再考虑是否能成公司。",
-    "best_quote_en": "\"The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?\"",
-    "best_quote_zh": "“寻找创业点子最好的方法是问自己：你希望有人为你做什么？”"
-  },
-  {
-    "id": 558,
-    "title": "Training Model to Predict Its Own Generalization: A Preliminary Study",
-    "title_zh": "训练模型预测其自身泛化：初步研究",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/BLHBhpJcusmsNjGio/training-model-to-predict-its-own-generalization-a",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-05",
-    "summary_en": "This paper probes an ambitious meta‑learning framework that teaches large language models (LLMs) to forecast how they will generalize after fine‑tuning on any given dataset. By treating a collection of supervised training sets as meta‑training data and pairing them with out‑of‑distribution query domains, the authors train a meta‑SFT model to predict the output distribution a fine‑tuned model would produce. The core novelty lies in the idea that an LLM can introspect its own learning dynamics, turning abstract prompts into actionable predictions about emergent misalignment, trivia preferences, and other subtle generalization phenomena. Empirical results on 100 advice‑seeking domains (career, finance, etc.) show that the meta‑SFT model outperforms naive in‑context learning and, on a 4B‑parameter Qwen, achieves near‑ground‑truth performance in predicting emergent misalignment scores. However, the approach struggles with truly unpredictable generalization cases and with smaller model sizes, suggesting that the signal may be fragile or that larger capacity is required. The paper also sketches extensions—unstructured prediction, efficient domain‑pair sampling, and broader applicability to any natural‑language description of training data. For researchers and practitioners, the work offers a compelling proof‑of‑concept for automated generalization diagnostics, while highlighting the need for richer benchmarks and larger models to fully capture the complex landscape of LLM behavior.",
-    "summary_zh": "本文提出元学习框架，训练LLM预测在任意数据集上微调后的泛化表现，尤其是随时间出现的意外偏差。作者通过将训练集对组成元训练数据，配合 OOD 查询域，训练 Meta‑SFT 模型。实验显示在 100 个职业/财务等领域中，Meta‑SFT 在预测 emergent misalignment 上优于普通 ICL，且 4B Qwen 接近真实结果。该方法对真正不可预测的泛化仍表现欠佳，且对小模型的鲁棒性有限。作者进一步讨论了向无结构预测的扩展、采样效率提升等方向。此工作为自动化泛化诊断提供思路，但也揭示了模型规模与数据多样性对成功的关键性。",
-    "best_quote_en": "\"Meta‑SFT gives the model a propensity to predict its own fine‑tuning outcomes, turning introspection into a predictive tool rather than a passive observation.\"",
-    "best_quote_zh": "\"Meta‑SFT 让模型拥有预测自身微调结果的倾向，把内省转化为一种预测工具，而非被动观察。\""
-  },
-  {
-    "id": 559,
-    "title": "The Life and Times of an American Tween",
-    "title_zh": "美国青少年的一生与时代",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/the-life-and-times-of-an-american-tween",
-    "tags": [
-      "solve",
-      "education",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-05-04",
-    "summary_en": "The New Yorker profile paints a richly detailed, almost cinematic portrait of a twelve‑year‑old San Francisco girl navigating the intersecting worlds of school, family, technology, and pop culture.  Beyond the surface, it exposes the fraught terrain of modern adolescence: the relentless pressure to curate identity through fashion and social media, the tension between parental oversight and budding autonomy, and the giggling yet earnest attempts to carve a future in a hyper‑connected economy.  The narrative invites readers to consider how the socio‑economic structures—high‑tech jobs, gig‑economy, and the commodification of youth—shape the developmental trajectory of tweens.  By weaving anecdote with sociological insight, the piece offers both a micro‑case study of one child’s experience and a broader commentary on the cultural logic that defines contemporary childhood.",
-    "summary_zh": "文章通过对米拉成长经历的细腻描绘，呈现当代青少年在科技、消费与家庭价值冲突中的身份探索与成长痛点。它不仅是一次个人故事的记录，更是对现代社会童年被商品化、数字化背后社会结构的深刻反思。",
-    "best_quote_en": "\"The literature on adolescence marks middle school as a turning point, a time when kids begin to pull away from their parents, discard childish pursuits, and pursue, full thrust, the exhausting project of individuation.\"",
-    "best_quote_zh": "“中学阶段是个转折点，孩子们开始与父母疏远，抛弃幼稚的追求，全力投入自我身份的艰难塑造。”"
-  },
-  {
-    "id": 560,
-    "title": "Frequent Fliers",
-    "title_zh": "频繁飞行者",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/frequent-fliers/",
-    "tags": [
-      "guide",
-      "ai-research",
-      "tech-trends",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "技术趋势",
-      "新手友好"
-    ],
-    "date": "2026-05-04",
-    "summary_en": "The article stitches together a practical playbook for the modern nomad, blending low‑cost airline hacks, grassroots travel forums, loyalty‑program mastery, and digital itinerary management. It begins with a candid tour of Europe’s budget carriers—highlighting the price‑versus‑tax trade‑off and airport logistics—setting a clear, actionable framework for cost‑conscious travelers. The discussion then pivots to Thorn Tree, positioning community‑driven knowledge as a superior alternative to glossy guidebooks for off‑beat destinations. It follows with Boarding Area’s deep dive into credit‑card sign‑ups and the volatile nature of mileage programs, underscoring the importance of goal‑oriented, diversified point accumulation. Finally, TripIt is showcased as a low‑friction solution to the perennial “paper trail” problem, illustrating how automation can transform chaotic itineraries into streamlined, mobile‑friendly schedules. Together, these segments form a cohesive ecosystem: the user learns how to find cheap flights, validates destinations in real time, leverages loyalty points, and keeps everything organized—an end‑to‑end strategy that turns travel into an efficient, cost‑effective, and data‑driven pursuit.",
-    "summary_zh": "文章把低价机票、旅行论坛、里程黑客和行程管理工具串成一套完整攻略，既教你如何省钱，又给出实时验证目的地的社区渠道，教你如何最大化里程，最后用TripIt把行程自动化，让旅行更高效。",
-    "best_quote_en": "“Programs that let you earn with a redemption goal in mind and then change the earning rules after you’ve invested time and money in their program are like Lucy, Charlie Brown and the football—keeping the goal forever just out of reach.”",
-    "best_quote_zh": "“一旦投入时间和金钱，程序却在不知情的情况下更改赚取规则，使目标永远无法达成。”"
-  },
-  {
     "id": 561,
     "title": "Sali Hughes on beauty: the best tinted sunscreens deliver SPF, moisture and a spring glow all in one",
     "title_zh": "Sali Hughes谈美妆：最佳遮瑕防晒霜一次性提供SPF、保湿与春日光泽",
@@ -2336,5 +2218,123 @@
     "summary_zh": "作者以轻松的赠书方式，分享了《30岁退休》书中可操作的早期财务自由步骤。通过邀请读者分享退休目标，既激发反思又推广书籍。内容兼具个人故事与实用技巧，鼓励任何年龄段的读者从小习惯开始，逐步实现财务独立。",
     "best_quote_en": "\"If you want to reach Financial Independence faster than most people think possible, this book is for you. It doesn’t matter if you’re 18 or 58. The principles work at any age.\"",
     "best_quote_zh": "“如果你想比大多数人想的更快地实现财务独立，这本书就是为你而写。无论你是18还是58，原则都适用。”"
+  },
+  {
+    "id": 656,
+    "title": "What the Pope Said About A.I.",
+    "title_zh": "教皇关于人工智能的言论",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-pope-leo-xiv-said-about-ai",
+    "tags": [
+      "update",
+      "ai-research",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-05-27",
+    "summary_en": "Jill Lepore’s article dissects Pope Leo XIV’s encyclical *Magnifica Humanitas*, framing it as a moral counterpoint to Silicon Valley’s profit‑centric AI narrative. The pope’s critique—rooted in centuries of Catholic social teaching—highlights the anthropological dangers of unchecked automation: erosion of human dignity, democratic backsliding, and the commodification of thought. Lepore juxtaposes this theological stance with historical skepticism from thinkers like Arendt and Mumford, underscoring the persistent warning that technology can outpace human moral agency. The piece also notes the symbolic partnership between the Vatican and Anthropic, suggesting a nascent ethic of AI regulation. For readers, the article offers a reflective lens on AI governance, reminding technologists that ethical frameworks must precede innovation. It challenges the reader to move beyond efficiency metrics to a holistic, values‑driven approach, positioning the pope’s insight as both a warning and a call to collective responsibility in the age of intelligence.\n",
+    "summary_zh": "文章剖析教皇勒奥十四世《Magnifica Humanitas》敘述，將AI倫理置於人類尊嚴之上，批評硅谷功利主義。作者結合歷史哲學家警示，提醒技術與人性脫節，呼籲道德框架先行，並指出教廷與Anthropic合作的象徵意義，強調集體責任與價值導向。\n",
+    "best_quote_en": "\"To disarm does not mean rejecting technology, but preventing it from dominating humanity – it means freeing technology from monopolistic control and opening it to discussion and debate, therefore making it human‑friendly and restoring it to the plurality of human cultures and ways of life.\"",
+    "best_quote_zh": "\"消除武装并不意味着拒绝技术，而是防止技术支配人类——这意味着摆脱技术的垄断控制，开放讨论和辩论，使其人性化，恢复多元的人类文化与生活方式。\""
+  },
+  {
+    "id": 657,
+    "title": "Essentials: The Science & Process of Healing from Grief",
+    "title_zh": "Essentials: The Science & Process of Healing from Grief",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "The episode dissects grief through a neuroscientific lens, mapping relationships across space, time, and closeness and explaining how loss forces neural remapping. It distinguishes grief from depression, highlights oxytocin’s role in yearning, and shows individual variability in grieving speed. Practical, evidence‑based tools are offered: accessing attachment without episodic memory, leveraging sleep and cortisol rhythms, and applying counterfactual thinking and emotional disclosure. The content blends rigorous fMRI studies, animal models, and actionable behavioral strategies, providing listeners both conceptual depth and immediate, usable advice. It underscores that healing is a biological process shaped by circadian biology and neuroplasticity, inviting listeners to harness sleep, light, and mindful practices to navigate loss. The episode’s clarity, data‑driven insights, and practical framework make it a valuable guide for clinicians, researchers, and anyone seeking to understand and manage grief.",
+    "summary_zh": "本集以神经科学视角剖析悲伤，解释失去如何导致脑内关系重塑，并区分悲伤与抑郁。作者结合 fMRI 研究、动物模型与实证工具，阐述催产素在渴望中的作用、个体差异及睡眠、皮质醇节律对康复的影响。内容兼具理论深度与可操作性，为心理健康从业者、研究者及普通听众提供了清晰且数据驱动的悲伤管理路径。",
+    "best_quote_en": "Grief isn’t just an emotional state—it’s a neurobiological remodeling that rewires our entire sense of space, time, and closeness.",
+    "best_quote_zh": "悲伤不仅是情绪，它是重新塑造我们对空间、时间和亲密感知的神经重组。"
+  },
+  {
+    "id": 658,
+    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman (#864)",
+    "title_zh": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman (#864)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/05/06/how-to-simplify-your-life-3-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "health-wellness",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "健康养生",
+      "案例研究"
+    ],
+    "date": "2026-05-07",
+    "summary_en": "The transcript distills four seasoned thinkers’ distilled wisdom on decluttering lives in the coming years. Each voice—Anne Lamott’s meditation on authenticity, Claire Hughes Johnson’s “yes‑or‑no” framework for priorities, David Yarrow’s boundary‑setting around relationships, and Diana Chapman’s play‑based contracts—offers concrete, introspective steps that feel both actionable and deeply personal. The episode reframes simplification not as a tidy checklist but as a series of intentional decisions that align inner values with outer actions. It invites listeners to quantify their own “yes‑or‑no” choices, schedule deliberate downtime, and practice conversational contracts that reduce drama. By weaving psychological insight with practical habits, the conversation underscores that simplicity is a continuous, adaptive practice that empowers sustainable growth rather than a one‑time fix. The episode’s relevance extends beyond personal lifestyle design to leadership, team dynamics, and organizational culture, making it a versatile resource for anyone seeking clarity amid complexity.",
+    "summary_zh": "四位嘉宾用真诚与实践相结合的方式，阐释了生活简化的核心：对内在价值与外在行动的对齐。通过“说不”框架、关系边界、玩耍式契约等方法，展示了如何在复杂中保持清晰、可持续的成长。",
+    "best_quote_en": "\"I realized that this feeling wasn’t out there, but that it was rather going to be an inside job… I could breathe again, and there is no more simple, profound, enriching change we can make than learning to breathe again.\"",
+    "best_quote_zh": "“我意识到这种感觉不是外在的，而是需要在内在完成的…我可以再次呼吸，最深刻、最丰富的改变也不是学会呼吸。”"
+  },
+  {
+    "id": 659,
+    "title": "George Clinton must face late bandmate’s estate copyright suit, appeals court rules",
+    "title_zh": "乔治·克林顿必须面对已故乐队成员遗产的版权诉讼，上诉法院裁定",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/george-clinton-must-face-late-bandmates-estate-copyright-suit-appeals-court-rules/",
+    "tags": [
+      "analyze",
+      "legal",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "The Sixth Circuit’s revival of the estate of Parliament‑Funkadelic keyboardist Bernie Worrell’s copyright suit against George Clinton and Thang, Inc. underscores how fading statutory bars and contract ambiguities can resurrect decades‑old disputes in the music industry. By rejecting the dismissal, the court clarified that the 1976 agreement—though never countersigned—was effectively treated as governing, allowing the estate to pursue co‑ownership claims for recordings between 1976 and 1979. The decision forces Clinton, already embroiled in multiple royalty battles—including a high‑stakes lawsuit against UMG and a $100 million claim against Bridgeport Music—to confront unresolved ownership questions that were previously deemed settled. This case illustrates the precarious balance between contractual intent and federal copyright law, the strategic use of litigation to leverage royalty negotiations, and the broader implications for artists’ rights in an era where legacy catalogs drive streaming revenue. For legal practitioners and industry stakeholders, the ruling signals that even seemingly moot contracts can reignite claims, urging meticulous documentation and proactive dispute resolution.",
+    "summary_zh": "上诉法院重燃伯尼·沃勒遗产对乔治·克林顿的版权诉讼，提醒音乐人和企业：合同细节与版权法的交织，可能在多年后重新点燃争端。此案凸显了在版权与合同争议中的法律博弈，也警示艺人和公司在签约时需严格记录与明晰权利归属。",
+    "best_quote_en": "\"Having successfully argued in New York state court that the 1976 Agreement never governed their relationship with Worrell, Clinton and Thang must live with the consequence that federal copyright law, not contract law, now controls.\"",
+    "best_quote_zh": "‘在纽约州法院成功辩称1976年协议从未管辖他们与沃勒的关系后，克林顿和Thang必须接受联邦版权法而非合同法现在起作用的后果。’"
+  },
+  {
+    "id": 660,
+    "title": "RoboBuffett 😂",
+    "title_zh": "RoboBuffett 😂",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/robobuffett/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-01",
+    "summary_en": "The article spotlights Ethan Bloch’s ambitious project, RoboBuffett, a coded mimic of Warren Buffett that trades real money while documenting every decision publicly. By training on Buffett’s writings and principles, the AI aims to buy durable businesses, demand a margin of safety, and hold them indefinitely—mirroring classic value investing. The piece underscores the novelty of applying AI to fundamental analysis, blending human oversight with algorithmic efficiency. It invites readers to witness a live experiment where machine learning meets disciplined investing, offering a fresh lens on how technology can scale timeless strategies. The post is both a playful homage and a practical case study, prompting reflection on the future of autonomous portfolio management and the ethical implications of algorithmic decision‑making in finance. Its tone is engaging, accessible, and forward‑looking, making it a valuable read for investors, technologists, and curious observers alike.",
+    "summary_zh": "Ethan Bloch用AI模仿巴菲特，实时交易并公开记录决策，展示算法与价值投资的结合。文章兼具趣味与实用，激发对未来自动化投资的思考。",
+    "best_quote_en": "\"In 1956, Warren Buffett started his first investment partnership with $105,100 — $100 of his own money and the rest from family and friends.\"",
+    "best_quote_zh": "“1956年，沃伦·巴菲特以$105,100启动了他的第一个投资合伙企业——$100来自他自己的钱，其余来自家人和朋友。”"
   }
 ]
