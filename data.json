@@ -1,121 +1,5 @@
 [
   {
-    "id": 561,
-    "title": "Sali Hughes on beauty: the best tinted sunscreens deliver SPF, moisture and a spring glow all in one",
-    "title_zh": "Sali Hughes谈美妆：最佳遮瑕防晒霜一次性提供SPF、保湿与春日光泽",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/may/06/sali-hughes-on-beauty-the-best-tinted-sunscreens-deliver-spf-moisture-and-a-spring-glow-all-in-one",
-    "tags": [
-      "guide",
-      "design",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "Sali Hughes’ article is a pragmatic beauty guide that demystifies the modern trend of tinted sunscreens. By dissecting product ingredients, shade ranges, and application techniques, she turns a potentially confusing category into a clear, actionable framework. The piece balances expert insight with everyday relevance: it compares budget-friendly options like Garnier Ambre Solaire with premium Korean and mineral formulations, highlighting key variables such as glycerin content, shade inclusivity, and finish translucency. Hughes’ emphasis on layered application—pumping a second or third layer to achieve optimal SPF without caking—provides readers with a repeatable routine that can be integrated into any makeup workflow. The article’s value lies in its synthesis of cosmetic science, consumer economics, and practical beauty rituals, enabling readers to make informed, personalized choices. The tone is conversational yet informative, reflecting a genuine curiosity about how products can seamlessly blend skincare and makeup, and it invites readers to experiment with shades and textures to achieve that coveted spring glow.\n",
-    "summary_zh": "Sali Hughes用轻松却专业的笔触，拆解了遮瑕防晒霜的复杂性。她不仅对护肤成分、色号覆盖及成分做了细致比较，还给出了分层涂抹的实用技巧，让读者能在日常妆容中轻松实现SPF、保湿与自然光泽三位一体。文章兼顾预算与高端产品，凸显可持续美妆的可行路径。",
-    "best_quote_en": "\"Apply too little and your SPF dose is insufficient, apply too much and you’re caked in what looks like heavy makeup.\"",
-    "best_quote_zh": "“涂得太少，防晒剂不足；涂得太多，像重妆一样厚重。”"
-  },
-  {
-    "id": 562,
-    "title": "Apple's Mistake",
-    "title_zh": "苹果的失误",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/apple.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "The essay offers a sharp, historically grounded critique of Apple’s App Store approval process, arguing that the company’s hardware‑centric mindset has misfired in the software realm. By citing early software publishing lessons and current developer sentiment, the author shows how long review cycles stifle iterative development, degrade app quality, and erode the company’s goodwill among programmers. Drawing parallels to Microsoft’s past struggles and Google’s “Don’t be evil” culture, the piece warns that a locked‑down ecosystem threatens innovation and talent attraction. The analysis blends anecdotal evidence with broader industry trends, urging Apple to rethink its gatekeeping model and to prioritize developer empowerment as a strategic imperative for sustained platform dominance.",
-    "summary_zh": "文章以历史视角批评苹果App Store审批流程，指出硬件思维误入软件领域导致创新受阻、质量受损，并损害了开发者信任。作者结合微软与谷歌案例，警示生态闭塞将削弱人才吸引力，呼吁苹果重塑开发者友好政策，维护平台长青。",
-    "best_quote_en": "Apple’s attitude is that developers should be more careful when they submit a new version to the App Store, but powerful as they are, they’re not powerful enough to turn back the evolution of technology.",
-    "best_quote_zh": "苹果的态度是开发者在提交新版本到App Store时应该更谨慎，但他们虽强大，却不足以阻止技术的演进。"
-  },
-  {
-    "id": 563,
-    "title": "There is no evidence you should reapply sunscreen every 2 hours.",
-    "title_zh": "没有证据表明每两小时重新涂抹防晒霜是必要的",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/daTGKn3pXzs75nSB7/there-is-no-evidence-you-should-reapply-sunscreen-every-2",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "The article dissects the long‑standing “every two hours” sunscreen rule, tracing its regulatory lineage from the FDA’s 1978 guidance to the 2011 final monograph. It exposes that the rule rests on a handful of weak, self‑reported studies and public‑health pamphlets rather than robust peer‑reviewed evidence. Contemporary randomized trials demonstrate that properly applied modern sunscreens retain the vast majority of their protective effect for six hours or longer, even under vigorous exercise or water exposure. The piece argues that the real public‑health imperative lies in ensuring adequate initial coverage (≈2 mg cm⁻²) rather than arbitrary reapplication intervals. It critiques the feedback loop among regulatory bodies, professional associations, and industry that perpetuates a pseudoscientific guideline, and calls for evidence‑based policy reform. The analysis invites readers to question entrenched health directives, reflect on the influence of corporate incentives, and prioritize data‑driven recommendations for consumer safety.",
-    "summary_zh": "本文批判性剖析防晒霜“每两小时重新涂抹”规则的历史根源与证据基础。作者指出，该规则源自FDA 1978年起草的模糊指南，后在2011年最终规则中被固定下来，却仅依赖几项缺乏严谨性的自报研究和宣传册。与此形成鲜明对比的是近年随机对照试验显示，若一次性涂抹足量现代防晒霜，6小时内仍能保持90%以上防护。作者强调，真正的公共卫生关切应聚焦在确保足量初次涂抹，而非无依据的频繁补涂。通过揭露监管、专业协会与产业之间的循环逻辑，他呼吁以实证为基础重塑政策，提醒读者质疑长期主流健康宣言背后的商业与政治动因。",
-    "best_quote_en": "The 2‑hour rule is a plain‑as‑day case of blatant, lazy pseudoscience that has somehow become convention.",
-    "best_quote_zh": "“2‑小时规则是明显的、懒散的伪科学，它已经被普遍接受并成为常规。”"
-  },
-  {
-    "id": 564,
-    "title": "Will A.I. Make College Obsolete?",
-    "title_zh": "人工智能会让大学消失吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/will-ai-make-college-obsolete",
-    "tags": [
-      "analyze",
-      "education",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-05-05",
-    "summary_en": "Jay Caspian Kang’s column interrogates the myth that AI will obliterate higher education. He argues that universities have survived pandemics, wars, and the rise of MOOCs, and that their core function remains credentialing and signaling. Drawing on surveys, economic theory, and voices from academia—Caplan, Cowen, Altman, and Khan—he shows a consensus that while AI will reshape pedagogy, the institutional value of a degree persists. Yet, the author warns that rising distrust, soaring costs, and AI‑enabled skill acquisition may accelerate a long‑term decline in perceived value, especially outside elite circles. The piece balances optimism about AI’s democratizing potential with realism about the entrenched social function of universities, and concludes that the future of college hinges on whether institutions can re‑sell the idea of a campus experience to a generation already fluent in algorithmic learning. The article invites parents, policymakers, and students to question whether the “best four years” are still worth the price tag in an AI‑driven world.",
-    "summary_zh": "作者质疑AI会否彻底摧毁大学，认为大学凭借认证与社会信号仍具价值。",
-    "best_quote_en": "“The main function of education is not to teach useful skills (or even useless skills), but to certify students’ employability.”",
-    "best_quote_zh": "“教育的主要功能不是教授有用或无用的技能，而是为学生的就业能力做认证。”"
-  },
-  {
-    "id": 565,
-    "title": "Mick Rock: The Rise of David Bowie / Horrorstör",
-    "title_zh": "Mick Rock：David Bowie 的崛起 / Horrorstör",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/mick-rock-the-rise-of-david-bowie-horrorstor/",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-05-05",
-    "summary_en": "The article juxtaposes two strikingly different book experiences: Mick Rock’s lavish visual chronicle of David Bowie’s early 1970s ascent, and Grady Hendrix’s satirical horror set in a faux‑IKEA megastore. Through vivid description, the writer conveys how Rock’s photography captures the volatile intimacy between artist and muse, turning paper into a tactile, almost intoxicating artifact. In contrast, Hendrix’s narrative uses catalog‑style prose to lampoon consumer culture and workplace alienation, while still delivering a spine‑tingling thriller. Both works demonstrate how design, typography, and narrative framing can transform ordinary subject matter into immersive storytelling, offering readers a multi‑sensory encounter that transcends conventional book formats. The piece invites readers to consider the power of visual and textual synergy, inspiring collectors, designers, and literary enthusiasts to explore the intersection of art, commerce, and narrative in contemporary publishing.",
-    "summary_zh": "文章对比了两本书的独特体验：Mick Rock 的视觉盛宴与 Grady Hendrix 的消费文化恐怖小说。作者通过细腻描写，展现摄影与文字如何共同塑造沉浸式叙事，激发读者对设计与叙事交融的反思。",
-    "best_quote_en": "\"You really do get the feeling that you are seeing a very rare and intimate relationship between an artist and his muse, chronicled by perhaps the one person who could see actually see and understand that relationship as it was unfolding.\"",
-    "best_quote_zh": "“你真的会感受到你正在看到艺术家与其灵感之间非常罕见且亲密的关系，这种关系被可能是唯一真正理解并记录这一过程的人记录下来。”"
-  },
-  {
     "id": 566,
     "title": "Do women need to exercise differently from men – and ease up on cardio after 40?",
     "title_zh": "女性是否需要与男性不同的锻炼方式——40岁后是否应减少有氧运动？",
@@ -2336,5 +2220,123 @@
     "summary_zh": "Ethan Bloch用AI模仿巴菲特，实时交易并公开记录决策，展示算法与价值投资的结合。文章兼具趣味与实用，激发对未来自动化投资的思考。",
     "best_quote_en": "\"In 1956, Warren Buffett started his first investment partnership with $105,100 — $100 of his own money and the rest from family and friends.\"",
     "best_quote_zh": "“1956年，沃伦·巴菲特以$105,100启动了他的第一个投资合伙企业——$100来自他自己的钱，其余来自家人和朋友。”"
+  },
+  {
+    "id": 661,
+    "title": "Olivia Rodrigo responds to babydoll dress criticism: ‘It shows how we normalize pedophilia in our culture’",
+    "title_zh": "Olivia Rodrigo回应婴儿娃娃裙争议：‘这显示了我们如何在文化中正常化恋童癖’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/may/28/olivia-rodrigo-responds-babydoll-dress-criticism",
+    "tags": [
+      "analyze",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "Olivia Rodrigo’s recent stage appearance in a short puffy babydoll dress sparked a flurry of online backlash, prompting the pop star to confront the broader cultural implications of how society labels and scrutinizes women’s fashion choices. In a candid New York Times interview, Rodrigo argued that being called ‘childlike’ is rooted in sexist rhetoric that perpetuates a dangerous normalisation of sexualisation. She highlighted her own history of wearing revealing stage outfits—sparkly bras, shorts—and how the backlash over a seemingly innocent dress exposes a double standard that blames women for the gaze of men. Rodrigo’s critique extends beyond fashion; she calls attention to the narrative that girls are told they must protect themselves from sexualisation, thereby shifting responsibility onto the victim. The article showcases Rodrigo’s willingness to use her platform to challenge cultural norms, positioning her as a modern feminist voice. The piece also touches on her artistic evolution, noting a shift toward lighter themes in her upcoming album, and her outspoken stance against political misuse of her music. Overall, the content serves as both a cultural critique and a personal reflection on gendered expectations in the entertainment industry.",
+    "summary_zh": "Olivia Rodrigo因舞台短款婴儿娃娃裙遭批，公开回应指出这反映出对女性的性化与性别刻板印象。她强调被贴上‘童稚’标签是性别歧视的结果，呼吁社会不再把责任推给女孩。文章展示她用平台挑战文化观念，并提及新专辑转向轻盈主题。",
+    "best_quote_en": "\"I think it shows how we really normalize pedophilia in our culture,\" Rodrigo said.",
+    "best_quote_zh": "“我认为这表明我们真的在文化中正常化恋童癖。”"
+  },
+  {
+    "id": 662,
+    "title": "Can You Buy a Silicon Valley?  Maybe.",
+    "title_zh": "",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/maybe.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "案例研究"
+    ],
+    "date": "2026-05-29",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 663,
+    "title": "How a failed experiment broke (and fixed) my view on feature labels",
+    "title_zh": "失败实验如何破坏并修复我对特征标签的看法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/zDcrmqdqvh3KmsBuF/how-a-failed-experiment-broke-and-fixed-my-view-on-feature",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-29",
+    "summary_en": "This reflective blog chronicles a rigorous yet ultimately inconclusive experiment on feature‑label generation for sparse autoencoders. By swapping traditional activation‑example inputs for natural‑language explanations from Anthropic’s NLAs, the author introduces a novel method, baez, and benchmarks it against established techniques. The quantitative results—scores hovering near chance across detection, fuzz, and embedding metrics—reveal a systemic flaw: the benchmarks fail to capture the nuanced, long‑tail nature of feature activations. Qualitatively, baez labels skew toward syntactic artifacts, while traditional methods surface concrete token‑level patterns. The author pivots to a tiered, correlation‑driven labeling protocol that categorizes features into input, output, cross, and obscure, offering a cost‑effective roadmap for scalable labeling and attribution‑graph construction. The post exemplifies scientific humility, turning a failed experiment into a springboard for a richer, more nuanced framework, and invites the community to refine both benchmarks and labeling strategies.",
+    "summary_zh": "这篇博文以实验失败为契机，探讨了使用自然语言解释生成特征标签的可行性。作者提出的baez方法与传统方法比较，结果显示三种指标均接近随机，说明现有评测与标签生成存在缺陷。作者进一步结合特征的输入、输出、交叉与模糊四类，提出分层评分‑标签协议，既降低成本，又聚焦人类难以标注的抽象特征。文章既是对实验的反思，也是对未来可扩展标注体系的设想，为模型可解释性研究提供了新的思路。",
+    "best_quote_en": "\"The recorded scores are very close to chance, suggesting either that the label‑generation methods or the benchmarks are somewhat broken.\"",
+    "best_quote_zh": "“记录的分数非常接近随机，这表明标签生成方法或基准本身可能存在问题。”"
+  },
+  {
+    "id": 664,
+    "title": "Inside Lebanon’s Fraught Push to Disarm Hezbollah",
+    "title_zh": "Inside Lebanon’s Fraught Push to Disarm Hezbollah",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/inside-lebanons-fraught-push-to-disarm-hezbollah",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-29",
+    "summary_en": "The article dissects Lebanon’s precarious attempt to disarm Hezbollah, a powerful Iran‑backed militia that has historically dominated the country’s security landscape. By weaving court proceedings, battlefield realities, and political negotiations, it exposes the paradox of a state seeking to assert authority while wrestling with internal sectarian fractures and external pressures from Israel and the United States. The piece reveals how Lebanon’s fragile army, starved of advanced weaponry and plagued by economic collapse, cannot realistically confront Hezbollah without risking a return to civil war. It also highlights the international community’s uneven support—U.S. aid capped in scope, Israeli aggression threatening sovereignty—creating a “no‑win” scenario for Lebanese policymakers. The narrative invites readers to critically evaluate the efficacy of disarmament as a tool for peace, the limits of legal actions against entrenched militias, and the broader implications for state legitimacy in a divided society.",
+    "summary_zh": "文章剖析黎巴嫩试图拆解伊斯兰圣战组织（真主党）所面临的政治与军事困境；展示在美国与以色列双重压力下，黎巴嫩军队既无足够硬件也缺乏民众支持，导致拆解行动可能引发内战。它提醒人们，拆解并非单纯的法律手段，而是对国家合法性与社会分裂的深层考验。",
+    "best_quote_en": "\"How can you ask people to be disarmed when you don’t have an alternative?\"",
+    "best_quote_zh": "\"如果你没有替代方案，怎么能要求人们被解除武装？\""
+  },
+  {
+    "id": 665,
+    "title": "New Europe Stopover/National Park Deals/Schengen Shuffle",
+    "title_zh": "新欧洲停留/国家公园优惠/申根混搭",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/new-europe-stopover-national-park-deals-schengen-shuffle/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "This concise newsletter stitches together a handful of timely travel hacks and geopolitical twists, offering readers a micro‑guide to squeezing extra value out of their itineraries. The first piece reveals Lufthansa’s new stopover program, a clever loophole that lets travelers linger a week in Munich—perfect for those who want a second vacation without a separate flight. The second highlights Canada’s free national‑park entry during school holidays, a budget‑savvy boon that also includes discounts on accommodations, museums, and rail passes. The third is a legal drama: Shakira’s tax dispute shows how a high‑profile settlement can backfire, turning a €7.3 million payment into a €60 million claim against the Spanish state. Finally, the “Schengen Shuffle” article demystifies the creative loophole many nomads use to extend their stay beyond the 90‑day limit, and references a recent CNN piece that brings the tactic into mainstream conversation. Together, these snippets underscore a broader theme: savvy travelers and even celebrities can exploit policy gaps to save money or gain advantage. The article invites readers to think critically about how travel, tax law, and migration regulations intersect, encouraging them to spot similar opportunities or pitfalls in their own journeys.",
+    "summary_zh": "这篇简短的周报把最新的旅行优惠与国际税务争议巧妙拼接，提供了实用的停留策略和洞察。它先介绍了汉莎航空新推出的停留计划，帮助旅客在前往目的地时多住一周；随后列举了加拿大暑期免费进入国家公园的优惠，以及伴随的住宿、博物馆和铁路折扣；紧接着讲述了夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判；最后解读了“申根混搭”现象，说明了非欧盟国籍者如何利用边境规则延长停留。整体上，文章既是旅行攻略，也是对政策漏洞与个人利益的思考，提醒读者在享受优惠的同时，关注法律与伦理边界。",
+    "best_quote_en": "Shakira’s case shows how a high‑profile settlement can backfire, turning a €7.3 million payment into a €60 million claim against the Spanish state.",
+    "best_quote_zh": "夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判。"
   }
 ]
