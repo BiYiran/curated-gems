@@ -1,123 +1,5 @@
 [
   {
-    "id": 566,
-    "title": "Do women need to exercise differently from men – and ease up on cardio after 40?",
-    "title_zh": "女性是否需要与男性不同的锻炼方式——40岁后是否应减少有氧运动？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/07/do-women-need-to-exercise-differently-from-men-and-ease-up-on-cardio-after-40",
-    "tags": [
-      "analyze",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2026-05-07",
-    "summary_en": "The Guardian piece interrogates the surge of gender‑specific fitness rhetoric, spotlighting Dr Stacy Sims’ claim that women over 40 should pivot from steady‑state cardio to heavy lifting or polarized training. It frames the discussion against a backdrop of systematic research gaps: only 6‑9 % of sports‑science studies focus exclusively on women, and the majority of evidence is extrapolated from male data. The article juxtaposes Sims’ evidence‑driven yet polarizing stance with the cautions of other experts who warn against over‑simplifying women’s training and inadvertently scaring them away from cardio. Practical guidance emerges: adhere to standard WHO guidelines—150 min of moderate activity plus strength sessions—while embracing progressive overload and autoregulation. The piece invites readers to reflect on how cultural narratives shape exercise habits and to question whether a one‑size‑fits‑all model can truly serve women’s diverse needs. It underscores the urgency of inclusive research and the responsibility of fitness professionals to balance scientific rigor with empathy.",
-    "summary_zh": "文中批判了女性专属健身话语的泛滥，探讨斯密斯博士主张40岁后女性应转向高强度训练的说法，并指出研究空白与男性数据外推的风险。文章强调循证指导、渐进超负荷与自我调节的重要性，提醒健身从业者兼顾科学与同理心，呼吁更多女性中心研究。",
-    "best_quote_en": "\"Cardio and weights are appropriate for women across their lifespan. But the benefits of strength training are a new message to us, which is why it’s been emphasised so much to this age group.\"",
-    "best_quote_zh": "“有氧和力量训练都适合女性的整个生命阶段，但力量训练的好处是新的信息，这就是为什么它在这一年龄段被如此强调。”"
-  },
-  {
-    "id": 567,
-    "title": "What Startups Are Really Like",
-    "title_zh": "创业者真实体验",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/really.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-05-07",
-    "summary_en": "This essay, distilled from Y Combinator founder Eric Ries’s 2009 Startup School talk, is a data‑driven, almost anthropological exploration of the unexpected realities founders face. Through 70 founder interviews, Ries identifies 19 recurring “surprises,” ranging from the fragile nature of co‑founder relationships to the relentless time commitment and emotional roller‑coaster of startup life. A key insight is that founders’ expectations are largely shaped by the conventional job model; the startup experience diverges sharply in intensity, pace, and emotional stakes. Ries also underscores practical, actionable lessons: prioritize character over skill when choosing partners, launch minimal viable products early, engage users as an experiment, and cultivate resilience and persistence. The piece invites readers to interrogate their own assumptions, offering a candid, experiential roadmap that balances optimism with realism. It is invaluable for aspiring founders, early‑stage teams, and investors seeking a realistic lens on the startup ecosystem while challenging the myth of effortless innovation.",
-    "summary_zh": "这篇文章基于Y Combinator创始人Eric Ries 2009年的Startup School演讲，通过70位创始人的访谈，系统揭示了创业者常见的19大意外。核心发现是，创业与传统工作模式大相径庭，时间投入、情绪波动与关系管理都更剧烈。Ries强调实用建议：选择合伙人时重视品格、快速发布最简产品、以实验方式与用户互动、保持韧性和持久性。文章批判创业光环，提供真实、可操作的路线图，既适合想创业的人，也适合投资者。",
-    "best_quote_en": "\"The biggest surprise was how much everything was actually fairly predictable!\"",
-    "best_quote_zh": "\"最让人惊讶的是，所有事情其实相当可预测！\""
-  },
-  {
-    "id": 568,
-    "title": "Sculpted Interaction: a Design-First Approach to AI Alignment",
-    "title_zh": "雕塑式交互：AI 对齐的设计优先方法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rMzb2dFwfAx6QH8ZH/sculpted-interaction-a-design-first-approach-to-ai-alignment",
-    "tags": [
-      "solve",
-      "ai-research",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "The article critiques the prevailing chatbot‑centric paradigm of AI interaction and proposes a structured, design‑first workflow that places human intent and verification at the forefront. By decomposing inputs into a dependency graph of propositions, converting them into semi‑formal proofs, and finally into machine‑verified Lean4 code, the author creates a continuous chain of trust that is explicitly visible to the user. The approach extends beyond mathematics to empirical claims, integrating a transparent OpenAlex‑based evidence search that scores studies and presents editable hypotheses. This design eliminates anthropomorphic framing, reduces sycophancy, and keeps users in control of the AI’s outputs. The work is grounded in HCI principles, offers actionable tools for practitioners, and highlights open challenges such as UX polish and cost tracking. It invites the safety community to rethink interface architecture as a core component of alignment, not merely a thin wrapper around models.\n\nImplications are profound: if AI assistants were built around task‑oriented, verification‑driven interfaces, the risk of misaligned incentives and overtrust could diminish. The article serves as both a technical blueprint and a philosophical stance that alignment must be engineered at the interaction level. It encourages researchers and developers to adopt a design‑first mindset, considering how the shape of an interface affects human judgment and agency.",
-    "summary_zh": "文章质疑现行基于聊天机器人的AI交互模式，提出以设计为先的结构化工作流，把人类意图和验证置于核心。通过将输入拆解为命题图谱、转化为半形式证明，再生成可验证的 Lean4 代码，形成可视化的信任链。此方法同样适用于经验性主张，结合 OpenAlex 搜索并给出可编辑的假设与评分。设计去除拟人化框架，降低 sycophancy，让用户始终掌控 AI 输出。作者呼吁安全社区将界面架构视为对齐的关键，推动从模型层面到交互层面的整体思考。",
-    "best_quote_en": "‘If we want to have interactions between humans and future superintelligences that preserve human values and agency, we need interactions with present‑day LLMs that do the same.’",
-    "best_quote_zh": "‘如果我们想让人与未来的超级智能进行交互，同时保持人类价值与代理权，我们需要与当前的 LLM 进行同样的互动。’"
-  },
-  {
-    "id": 569,
-    "title": "How the Iran War Is Shifting Power Toward China",
-    "title_zh": "伊朗战争如何将权力转移至中国",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-the-iran-war-is-shifting-power-toward-china",
-    "tags": [
-      "analyze",
-      "politics",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "The piece offers a deep dive into how the Iran conflict and the tumultuous Trump era have reshaped global power dynamics, particularly boosting China’s diplomatic leverage. It traces the U.S. credibility erosion, the strategic patience China has exercised, and how the war has accelerated the transition from fossil fuels to renewables—an opportunity China dominates. The author weaves expert commentary from academics and policy analysts, underlining China’s dual strategy of capitalizing on U.S. distraction while quietly amassing influence in the Middle East and beyond. The narrative critiques American unilateralism and highlights the growing perception that U.S. leadership is in decline. Importantly, it frames China’s rise as a pragmatic, data‑driven response to a shifting geopolitical field, offering policymakers a nuanced understanding of how regional conflicts can ripple into global power realignments. The piece invites readers to question long‑held assumptions about U.S. primacy and to consider the strategic calculus that has enabled China to step into the void left by a distracted West.",
-    "summary_zh": "伊朗战争与特朗普混乱，让美国失势，中国抓住机遇，提升外交杠杆。文章借学者与官员视角，揭示中国如何利用美国分心，推动能源转型与地缘政治重塑。它让人重新审视美国霸权的衰落与中国成长的现实。",
-    "best_quote_en": "\"For China, the war in Iran brings no economic upside, but it creates diplomatic space. It allows China to step out of a previously isolating alignment and reposition itself more broadly, not just in the Middle East but globally.\"",
-    "best_quote_zh": "“对中国而言，伊朗战争既没有经济上的好处，但却创造了外交空间。它让中国摆脱先前孤立的立场，重新定位自己，不仅在中东，也在全球层面。”"
-  },
-  {
-    "id": 570,
-    "title": "What’s in my NOW? — Erik Schneider",
-    "title_zh": "我的当下是什么？——埃里克·施奈德",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-erik-schneider/",
-    "tags": [
-      "solve",
-      "programming",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "编程开发",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "Erik Schneider’s eclectic showcase of gadgets, software, and a philosophical quote offers a tangible, hands‑on guide to enhancing both physical and digital workflows. By spotlighting items such as the Mac Mini travel case, Comma 4 driver‑assist, Sony WH‑1000XM4 headphones, and emerging AI tools like Caveman and Repoprompt, he bridges the gap between tech enthusiasm and everyday practicality. Readers gain actionable insights—how to optimize portability, automate driving, or reduce AI token consumption—while also receiving a gentle reminder that productivity thrives when paired with reflective self‑care, as echoed in John Leonard’s evocative quotation. This piece invites a curious, tech‑savvy audience to experiment, iterate, and keep a mindful record of their bold moves, underscoring the synergy of tangible tools and mental resilience.\n",
-    "summary_zh": "埃里克·施奈德用一系列实用设备与AI工具，展示了提升工作与生活效率的可操作方法，并配以哲学引语，提醒我们在技术进步中也需保持自省与勇气。",
-    "best_quote_en": "\"In the cellars of the night, when the mind starts moving around old trunks of bad times, the pain of this and the shame of that, the memory of a small boldness is a hand to hold.\"",
-    "best_quote_zh": "“在夜的酒窖里，当思绪在旧时光的箱子里转动，痛苦与羞愧交织，却记得一份小小的勇气能握住你的手。”"
-  },
-  {
     "id": 571,
     "title": "Jess Cartner-Morley on fashion: missed Love Story? It’s not too late to embrace 90s minimalism",
     "title_zh": "Jess Cartner-Morley关于时尚：错过了《爱情故事》？现在仍可拥抱90年代极简主义",
@@ -2338,5 +2220,121 @@
     "summary_zh": "这篇简短的周报把最新的旅行优惠与国际税务争议巧妙拼接，提供了实用的停留策略和洞察。它先介绍了汉莎航空新推出的停留计划，帮助旅客在前往目的地时多住一周；随后列举了加拿大暑期免费进入国家公园的优惠，以及伴随的住宿、博物馆和铁路折扣；紧接着讲述了夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判；最后解读了“申根混搭”现象，说明了非欧盟国籍者如何利用边境规则延长停留。整体上，文章既是旅行攻略，也是对政策漏洞与个人利益的思考，提醒读者在享受优惠的同时，关注法律与伦理边界。",
     "best_quote_en": "Shakira’s case shows how a high‑profile settlement can backfire, turning a €7.3 million payment into a €60 million claim against the Spanish state.",
     "best_quote_zh": "夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判。"
+  },
+  {
+    "id": 666,
+    "title": "Abortion, regret and the right to decide | Letters",
+    "title_zh": "堕胎、后悔与决定权 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/may/28/abortion-regret-and-the-right-to-decide",
+    "tags": [
+      "inspire",
+      "legal",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "法律法规",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "This Guardian letter piece challenges the myth that abortion inevitably breeds regret, juxtaposing it with the societal stigma that surrounds it compared to cancer. The author, drawing from personal experience and broader anecdotes, argues that the emotional aftermath of abortion is highly individual—ranging from indifference to profound grief—and that the public’s moral framing often silences those who have chosen abortion. By referencing Roe McDermott’s essay and cultural references such as Amanda Palmer’s lyric, the piece advocates for an end to punitive waiting periods and for normalized support structures akin to those for PTSD. It underscores the critical need to separate medical decision‑making from moral judgment, urging society to treat abortion with the same compassion afforded to other health interventions. The letter serves as both a personal testimony and a call to action, highlighting the intersection of health, gender, and public policy while inviting readers to reconsider how shame, regret, and autonomy are framed in public discourse.",
+    "summary_zh": "作者以亲身经历为例，质疑堕胎必然伴随后悔的说法，指出与癌症相比，堕胎更易受社会污名。文中呼吁废除三天等待期，强调像PTSD支持组那样的堕胎支持体系。作者强调，决定堕胎与否是个人选择，情感反应多样，社会应以同情而非道德审判对待。",
+    "best_quote_en": "“It’s OK if you felt no attachment; it’s OK if you felt ambivalent; it’s OK if you (like me) cried at a makeshift grave on the darkest days.”",
+    "best_quote_zh": "“如果你没有情感依恋，也没关系；如果你感到矛盾，也没关系；如果你像我一样，在最黑暗的日子里在临时坟墓前哭泣，也没关系。”"
+  },
+  {
+    "id": 667,
+    "title": "What I've Learned from Hacker News",
+    "title_zh": "我从 Hacker News 学到的东西",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hackernews.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-05-30",
+    "summary_en": "This essay reads like a reflective lab report on building a community platform. The author chronicles Hacker News’ early growth from a side project to a 22‑k daily‑unique site, and frames the experience as an experiment in technology, culture, and human behavior. He stresses the tension between rapid scale and preserving a tight, thoughtful user base, arguing that dilution is more a behavioral than a user‑count problem. The narrative introduces concrete, data‑driven ideas such as the “Fluff Principle,” the use of delayed comment replies to curb low‑quality interaction, and the importance of transparent moderation. The essay is rich in actionable observations that can be applied to other startups: prioritize clarity in rules, protect front‑page quality, and remember that the healthiest communities are engineered for the right people, not the largest audience. Its value lies in its blend of empirical data, psychological insight, and thoughtful critique of community design, making it a useful case study for founders and product designers.\n\nThe author’s tone is candid and self‑critical, and he openly acknowledges failures (such as the orange‑username experiment) while drawing lessons that extend beyond Hacker News. The piece is a call for intentional community curation, an argument that the best platform is built around people rather than features.\n\nOverall, the essay offers a nuanced view of growth, moderation, and community health—insights that resonate with founders, growth engineers, and researchers interested in the intersection of product, culture, and human behavior.",
+    "summary_zh": "作者把 HN 的成长与社区文化视为实验，强调规模与品质的抉择。文章提出“稀疏原则”“延迟回复”等可操作的社区治理思路，认为保持活跃者的行为规范比单纯的技术升级更重要。它既是对创业者的案例，也是对产品经理的启示，揭示了技术与人性在社区建设中的张力。",
+    "best_quote_en": "The key to performance is elegance, not battalions of special cases.",
+    "best_quote_zh": "关键在于优雅，而不是一堆特殊情况的堆砌。"
+  },
+  {
+    "id": 668,
+    "title": "AI as Biology's Digital Microscope",
+    "title_zh": "AI 作为生物学的数字显微镜",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/BxziXpLC22cvSCip5/ai-as-biology-s-digital-microscope",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-30",
+    "summary_en": "The article presents ProtoMech, a novel interpretability framework that transforms large protein language models into digital microscopes, enabling scientists to trace internal computational pathways that correspond to biological motifs, catalytic sites, and mutation effects. By mapping these latent circuits, ProtoMech reveals that AI models have implicitly learned complex biochemical principles—an insight that bridges machine learning and structural biology. The work is grounded in recent advances from ICML 2026 and leverages cross‑layer transcoders to produce sparse, interpretable representations. The author argues that once we can view AI’s internal mechanics, we can use these models as virtual laboratories, accelerating discovery by predicting the functional consequences of mutations and engineering novel proteins without wet‑lab experiments. The article balances technical depth with visionary speculation, outlining both the current limitations (dependence on existing biological knowledge) and the future potential of automating feature interpretation. It invites researchers to rethink AI not merely as a predictive tool but as a mechanistic lens that can illuminate unseen biological processes, thereby redefining the workflow of computational biology.",
+    "summary_zh": "ProtoMech 框架将大型蛋白质语言模型转变为可解读的“数字显微镜”，揭示 AI 内部的计算回路与生物学结构、功能热点及突变效应相对应。这一突破不只是技术创新，更在重塑科研流程：从黑盒预测转向可视化机制，让实验室仿真与实测并行，显著加速蛋白工程与功能预测。",
+    "best_quote_en": "ProtoMech provides a mechanistic rationale for why certain mutations improve protein function and why others kill protein function.",
+    "best_quote_zh": "ProtoMech 为某些突变为何提高蛋白功能、为何导致失效提供了机制性解释。"
+  },
+  {
+    "id": 669,
+    "title": "Donald Trump Gets Even",
+    "title_zh": "唐纳德·特朗普复仇",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-gets-even",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2026-05-29",
+    "summary_en": "The piece is a sharp, insider‑style exposé that deconstructs the Trump administration’s newly announced \"Anti‑Weaponization\" fund, framing it within a broader narrative of political retribution, selective justice, and the commodification of grievances. It blends anecdotal interviews—ranging from a pardoned January 6th defendant to a senior DOJ lawyer—with a critical timeline of Trump’s public statements and policy moves. The author argues that the fund, while ostensibly a reparative mechanism, serves more as a political tool to consolidate loyalty, appease a base that feels systematically persecuted, and distract from substantive policy failures. The analysis is data‑driven in its recounting of settlement amounts, court rulings, and legislative maneuvers, yet it remains firmly opinionated, underscoring the performative nature of executive clemency and the selective application of the rule of law. This piece invites readers to question the integrity of post‑campaign concessions, to assess the real impact of such funds on affected communities, and to reflect on the broader erosion of democratic norms when political capital is traded for loyalty. It is a call for a more principled, transparent approach to governance, one that prioritizes accountability over spectacle.",
+    "summary_zh": "文章以辛辣批评的口吻剖析特朗普“反武器化”基金，揭示其背后是政治报复与忠诚交易。作者通过访谈与数据，指出此举更多是表面姿态而非实质补偿，呼吁读者关注治理的透明与问责。",
+    "best_quote_en": "\"People were destroyed, they went to jail, their families were ruined, they committed suicide… the Obama Administration started it. The Biden Administration was horrible in terms of what they’ve done to people.\"",
+    "best_quote_zh": "“人们被摧毁，他们进监狱，家庭破碎，甚至自杀……奥巴马政府启动了这件事。拜登政府在对待人们方面更糟。”"
+  },
+  {
+    "id": 670,
+    "title": "Book Freak #211: Tolstoy’s Guide to Daily Wisdom",
+    "title_zh": "书虫#211：托尔斯泰的每日智慧指南",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-211-tolstoys-guide-to-daily-wisdom/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "教育学习"
+    ],
+    "date": "2026-05-29",
+    "summary_en": "The article introduces Tolstoy’s *A Calendar of Wisdom*, a daily reader compiling ancient stoic, Buddhist, and Christian reflections with Tolstoy’s concise commentary. The piece distills four core principles—one idea a day, the peril of false knowledge, love as life’s purpose, and the timelessness of human dilemmas—and suggests concrete practices to internalize them. By framing wisdom as a daily, bite‑sized ritual, the author invites readers to transform passive reading into active change, echoing Tolstoy’s own lifelong experiment. The analysis underscores the book’s practical value: it offers a low‑effort, high‑impact routine that can recalibrate priorities, sharpen discernment, and re‑ignite compassion. For anyone seeking a simple, sustainable path to personal growth, the calendar serves as both a roadmap and a mirror, revealing how ancient insights can still shape modern lives.",
+    "summary_zh": "托尔斯泰的《每日智慧日历》以每日一句的方式，教人以短小精悍的格言和点评，提醒我们只需一日一念即可获益。它把古今哲学凝聚成可执行的行动，帮助读者清晰判断必要知识与无用信息，重塑爱与和解的生活目标。",
+    "best_quote_en": "\"One wise idea a day is enough.\"",
+    "best_quote_zh": "\"一天一个明智的想法就足够了。\""
   }
 ]
