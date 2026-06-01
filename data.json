@@ -1,123 +1,5 @@
 [
   {
-    "id": 576,
-    "title": "Can promises on gender equality made in Australia help a 16-year-old Indian cigarette maker with no toilet?",
-    "title_zh": "澳洲性别平等承诺能否帮助印度无厕所的16岁卷烟工人？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/may/06/can-promises-gender-equality-made-in-australia-help-a-16-year-old-cigarette-maker-with-no-toilet-india",
-    "tags": [
-      "solve",
-      "society",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-05-06",
-    "summary_en": "The Guardian piece juxtaposes the lofty Melbourne declaration on gender equality with the grim reality of a 16‑year‑old bidi maker in rural Karnataka. It exposes a systemic blind spot: informal girls’ labor remains invisible to state mechanisms, even as India registers millions on e‑Shram. The article critiques the declaration’s gap between promise and reach, urging concrete accountability—direct funding to grassroots NGOs, inclusive policy consultations, and outreach to unregistered workers. It underscores the need for civil society to bridge global frameworks and local conditions, highlighting organizations like Spandhana that provide reproductive health and advocacy. The piece is a sobering reminder that high‑level commitments translate into tangible change only when they penetrate the informal economy’s margins, offering cash, healthcare, and dignity to the most marginalized. It invites readers to question how international gender‑equality agendas can be re‑oriented to the lived realities of women who are literally invisible to the state.",
-    "summary_zh": "文章用澳洲性别平等宣言的宏愿与印度一名16岁无厕所的卷烟工人生存状态形成鲜明对比，揭示了制度性盲点。",
-    "best_quote_en": "The declaration will be measured by whether it translates into policy, financing and practice, and whether it delivers change for women whose work has too often been invisible, undervalued and unprotected.",
-    "best_quote_zh": "宣言的价值在于它能否转化为政策、融资与实践，并为那些工作往往被忽视、被低估、被剥夺保护的女性带来变革。"
-  },
-  {
-    "id": 577,
-    "title": "Post-Medium Publishing",
-    "title_zh": "后期媒体发布",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/publishing.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-05-09",
-    "summary_en": "In this reflective essay, the author dismantles the long‑standing myth that publishers sell content, arguing instead that they have historically priced and sold the medium itself—paper, CDs, or digital downloads—rather than the ideas within. He demonstrates, through vivid price comparisons (e.g., Time vs. The Economist), that better journalism has never commanded higher prices, underscoring a market that values form over substance. The piece critiques the rise of digital distribution, noting that platforms like iTunes function more as tollbooths than genuine marketplaces, and that the true obstacle to monetizing information is the control of the channel rather than consumer willingness. The author proposes a future where publishers pivot from selling copies to monetizing ancillary value: concerts{,} merchandise, advertising, and experiential offerings. He warns that the survival of any media hinges on creating new, technology‑enabled use cases that deliver unique consumer value—otherwise, businesses will be “losers” preserving old revenue streams. The essay invites readers to reimagine publishing as a service ecosystem rather than a product line, urging a shift from content to experience and suggesting that the next wave of success will be found where innovation meets human desire for tangible, curated experiences rather than mere digital copies.\n\nThis analysis highlights the author’s critical stance on the commodification of media and his call for a paradigm shift: publishers must evolve from distribution channels into platforms that generate value through experience, community, and physicality. The implications are profound: if publishers fail to adopt this model, they risk obsolescence; if they succeed, they can unlock new revenue streams and redefine the relationship between media producers and consumers.",
-    "summary_zh": "作者批判出版业长期以为自己是在卖内容，实则只是在卖媒介，价格取决于印刷成本而非内容质量。他用时报、经济学人等实例说明，优质报道并不意味着更高价格。数字化时代更让出版商失去对渠道的控制，iTunes等平台更像收费闸门而非市场。作者提出未来出版业需从卖副本转向通过演唱会、周边、广告和体验来获利，并警告仅靠旧模式的企业将失败。他鼓励通过技术赋能创造新价值，让出版转变为服务生态，而非单纯产品。\n\n本分析指出作者对媒体商业模式的深刻质疑以及对未来转型的大胆设想，强调若不拥抱体验与物质化的结合，出版业将面临衰退。\n",
-    "best_quote_en": "Publishers have never really been selling content; they were selling the medium, and the content was the irrelevant side‑effect.",
-    "best_quote_zh": "出版商从来没有真正卖内容；他们卖的是媒介，内容只是副作用。"
-  },
-  {
-    "id": 578,
-    "title": "Why You Can't Use Your Right to Try",
-    "title_zh": "为什么你不能行使“试用权”",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oTwKS5iWZ6Dz84vtf/why-you-can-t-use-your-right-to-try",
-    "tags": [
-      "solve",
-      "medicine",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-09",
-    "summary_en": "This article demystifies the stark gap between the promise of the Right to Try (RTT) laws and the reality on the ground. By unpacking the high‑risk, low‑reward calculus that biotech companies face, the author explains why only a handful of patients ever gain access to unapproved treatments, despite a 13‑million‑strong patient pool. He then showcases state‑level innovations—Montana’s SB 535 and New Hampshire’s HB 701—that re‑engineer the risk/reward equation by allowing companies to profit from RTT enrollments. The piece also highlights the FDA’s lingering gatekeeping role through enforcement discretion, and outlines an emerging national push to secure such safe harbors. Readers leave with a nuanced understanding of the policy, economic, and practical barriers to RTT, plus concrete examples of how targeted legislation can shift the balance. The article is a call to action for policymakers, patient advocates, and biotech leaders to align incentives and truly open the door to experimental therapies.",
-    "summary_zh": "本文剖析了“试用权”法律与现实之间的巨大鸿沟，揭示制药公司因高风险低回报而难以提供未获批准药物的原因，并以蒙大拿州SB535等州法为例，说明通过改造风险回报机制可吸引制药企业参与。作者进一步讨论FDA的执法裁量权对州级计划的制约，并呼吁各方共同努力，为患者真正打开临床试验的门。",
-    "best_quote_en": "The companies who own the rights to the treatment you want to access are called “Biotechs”. In fact, they usually don’t make any money at all.",
-    "best_quote_zh": "那些拥有你想要的治疗方案的公司被称为“生物技术公司”。实际上，它们通常根本不赚钱。"
-  },
-  {
-    "id": 579,
-    "title": "The Chaotic New Era of British Politics",
-    "title_zh": "英国政治新混沌时代",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-tumultuous-new-era-of-british-politics",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-05-08",
-    "summary_en": "The article dissects the unprecedented fragmentation of the UK’s political landscape after the 2024 local elections, where five major parties each secured more than 15% of the vote. Through an interview with political scholar David Runciman, it explores how the first‑past‑the‑post system amplifies the impact of vote‑splitting, potentially enabling a minor party—Nigel Farage’s Reform—to win a disproportionate number of seats. The piece critically examines Labour’s leadership crisis, the erosion of its traditional base, and the strategic missteps of the Conservatives, while highlighting the Greens’ surge under Zack Polanski. It also contemplates the feasibility of proportional representation or left‑wing coalitions as a bulwark against a Reform government. The analysis blends empirical polling data, historical context, and expert commentary to underscore that the UK may be heading toward a fragile, multi‑party equilibrium that will reshape governance, policy, and voter engagement for years to come.\n\nImplications include heightened instability, the risk of populist dominance, and the urgent need for institutional reforms if a stable majority is desired. The article urges readers to consider how current electoral mechanics constrain democratic legitimacy and how strategic alliances might counteract the rise of a far‑right platform. It invites policymakers, scholars, and politically engaged citizens to engage with these dynamics, fostering a deeper understanding of the forces reshaping British democracy.\n\nOverall, the piece offers a nuanced, data‑driven critique that not only informs but also challenges readers to think beyond partisan narratives and contemplate systemic change in a rapidly shifting political environment.",
-    "summary_zh": "文章深度剖析2024年英国地方选举后政党碎片化的前所未有格局，五大党每党得票率均超过15%。通过与政治学者David Runciman的访谈，揭示第一过去制如何放大选票分裂，导致极右派雷弗曼党有望以少数票数夺得大量席位。文中批判性评估劳工党领导危机、基础流失、保守党战略失误，并聚焦格林党在Zack Polanski领导下的崛起。作者提出若要阻止雷弗曼上台，可考虑比例代表制或左翼联盟。文章结合数据、历史与专家见解，提示英国可能陷入脆弱多党平衡，呼吁制度改革以重塑民主合法性。\n\n此文既提供信息，也激发思考，帮助读者在复杂政治变局中把握方向。",
-    "best_quote_en": "\"A first‑pass‑the‑post system means that you win the seat if you’ve got the most votes. So if it splits five ways, you could win the seat with twenty‑one per cent of the vote, if your opponents get just under that.\"",
-    "best_quote_zh": "\"在第一过去制下，得票最多者赢得席位。如果票数分裂成五个方向，你可能只需21%的投票就能赢得席位，前提是其他竞争者的票数略低。\""
-  },
-  {
-    "id": 580,
-    "title": "The Zen book everyone says changed their life",
-    "title_zh": "Zen 书籍——人人称赞改变人生的书",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-zen-book-everyone-says-changed-their-life/",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-05-08",
-    "summary_en": "Zen Mind, Beginner’s Mind invites readers to rediscover everyday moments through the lens of mindfulness and curiosity. The book distills four core principles: maintaining a beginner’s mind to unlock endless possibilities, fully engaging in single tasks, accepting oneself as complete, and observing thoughts without attachment. These insights are grounded in simple, actionable practices—such as mindful coffee-making or five‑minute silent observation—that transform routine activities into meditative experiences. The text’s strength lies in its accessibility: it offers concrete exercises for novices while maintaining philosophical depth, making it a bridge between contemplative practice and practical living. For readers seeking a gentle entry into Zen, the book provides a roadmap to cultivate presence, reduce mental clutter, and foster a sense of completeness without demanding rigorous discipline. Its enduring appeal underscores a universal desire for deeper awareness and a more intentional approach to daily life.",
-    "summary_zh": "《Zen Mind》以初心为核心，教人以好奇与专注重温日常。四大原则——保持初心、全情投入、认同自我、观念无执——配合易行练习，帮助人们在繁忙中获得觉察与宁静。它既是哲学启示，也是实用指南，适合想要用简单方式提升生活品质的读者。",
-    "best_quote_en": "\"In the beginner’s mind there are many possibilities, but in the expert’s there are few.\"",
-    "best_quote_zh": "\"在初学者的心中有许多可能性，而在专家的心中只有很少。\""
-  },
-  {
     "id": 581,
     "title": "‘A husband expects a yes’: how wife schools are shaping submissive Christian women",
     "title_zh": "‘丈夫期待说‘是’’：妻子学校如何塑造顺从的基督徒女性",
@@ -2334,5 +2216,123 @@
     "summary_zh": "Tebo 用日常物品讲述生活的细腻与自我关怀，提醒我们对象选择的深层意义。",
     "best_quote_en": "The presence of the instrument in your apartment, house, life, is enough. It will change your life.",
     "best_quote_zh": "把乐器放在你家里，哪怕你不会弹，它也会改变你的生活。"
+  },
+  {
+    "id": 676,
+    "title": "How did Jennifer Siebel Newsom become a target for conservative criticism?",
+    "title_zh": "",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/may/26/jennifer-siebel-newsom-conservative-criticism",
+    "tags": [
+      "update",
+      "politics",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-05-26",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 677,
+    "title": "Keep Your Identity Small",
+    "title_zh": "保持身份小",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/identity.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "The essay interrogates why religion and politics ignite heated online debates, attributing the phenomenon to identity entanglement rather than inherent unknowability. By comparing these subjects to seemingly neutral topics like programming language preference, the author demonstrates that identity, not content, fuels conflict. The core insight is that when a topic becomes a marker of self‑definition, participants defend it with zeal, stifling rational discourse. The piece urges a minimalist identity strategy: limit labels that bind you to rigid belief systems. This argument is compelling for social media strategists, conflict mediators, and anyone interested in the psychology of online argumentation, offering a nuanced framework that transcends the binary “religion versus science” debate. It also invites reflection on how personal identity shapes collective discourse and the potential for constructive dialogue when identity is disentangled from subject matter.",
+    "summary_zh": "作者指出宗教与政治之所以在网上引发激烈争辩，关键在于它们与身份紧密相连。把话题与身份挂钩，讨论就会变成自我防卫，难以理性交流。文章提出减少身份标签、保持身份“清晰”是降低冲突的有效策略，适合社群运营、冲突调解等人群。",
+    "best_quote_en": "\"When people can’t think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.\"",
+    "best_quote_zh": "“当人们对任何已成为身份一部分的事物都无法清晰思考时，其他一切条件相等，最好的办法是让自己的身份尽量少受限制。”"
+  },
+  {
+    "id": 678,
+    "title": "Lean, not backpressure",
+    "title_zh": "Lean, not backpressure",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/uRvyWtrJfaLQt32dv/lean-not-backpressure",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "Lucas Costa’s article critiques the misuse of “backpressure” as a metaphor for managing code‑generating robots, arguing instead for a lean‑manufacturing mindset that respects both human and machine variability. By reframing the problem from “slow down” to “improve upstream quality,” the piece invites readers to adopt proven lean practices—single‑piece flow, autonomation (jidoka), and poka‑yoke—to build resilient, fault‑tolerant systems. The author underscores that blaming a robot for errors is futile; the process design must absorb mistakes, mirroring how good manufacturing tolerates imperfect workers. This perspective bridges industrial engineering and software automation, offering a practical, principled framework for AI developers and DevOps teams to reduce waste, increase quality, and foster human‑machine collaboration. Readers gain actionable insights into process‑centric design, while also reflecting on the broader implications for responsible AI deployment and workforce empowerment.",
+    "summary_zh": "作者批判将“backpressure”用于代码生成机器人，主张应采用精益理念，将焦点从“减速”转向“提升上游质量”。通过单件流、自动化检测和防错等实践，强调流程设计应容纳错误，而非归咎于机器人。此文为 AI 开发者与 DevOps 团队提供了可操作的流程改进框架，并触及更广泛的负责任 AI 与人机协作议题。",
+    "best_quote_en": "A bad system will beat a good person every time.",
+    "best_quote_zh": "一个糟糕的系统会总是击败一个优秀的人。"
+  },
+  {
+    "id": 679,
+    "title": "The Strange Emptiness of the Crowded Governor’s Race in California",
+    "title_zh": "加利福尼亚州众多候选人空洞的众议员竞选",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-strange-emptiness-of-the-crowded-governors-race-in-california",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "The article offers a rich, multi‑layered dissection of the 2026 California gubernatorial primary, framing it as a microcosm of contemporary American politics. It exposes how the state’s unique jungle primary, designed to curb polarization, has instead produced a crowded field of largely unrecognizable candidates, diluting the very star power that once defined California’s political brand. The piece deftly weaves polling trajectories, candidate scandals, and institutional decay—highlighting the erosion of the once‑robust “San Francisco Machine”—to argue that the electorate’s demands have outpaced the political pipeline. By juxtaposing historical centralization with today’s fractured media ecosystem, the author underscores a broader thesis: the increasing difficulty of assembling compelling, qualified leadership in an age of instantaneous misinformation and relentless social‑media scrutiny. This analysis is not merely descriptive; it invites readers to reconsider the mechanics of political ambition, the integrity of democratic structures, and the future viability of California’s—and by extension, the nation’s—executive leadership. It challenges scholars, strategists, and voters alike to envision reforms that could restore depth, accountability, and a genuine connection between candidates and constituents.",
+    "summary_zh": "文章以加州2026年州长初选为镜，揭示了“丛林”初选制度如何导致候选人荒诞冗杂、星级稀缺。作者通过趋势数据、丑闻与制度衰退，论证选民需求已超越政治人才通道，呼吁改革以恢复领导深度与公众信任。",
+    "best_quote_en": "\"The whole spectacle has taken on the feel of a bad reality show,\" the columnist Michelle Cottle wrote.",
+    "best_quote_zh": "“整个闹剧的感觉像一档糟糕的真人秀，”专栏作家米歇尔·科特尔写道。"
+  },
+  {
+    "id": 680,
+    "title": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
+    "title_zh": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/life-in-ancient-times-desperate-oasis-theatrical-releases-you-can-stream/",
+    "tags": [
+      "update",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-05-31",
+    "summary_en": "The article stitches together a mosaic of modern content curation, AI‑driven historical storytelling, niche board gaming, and practical life‑hacks. It showcases how AI can resurrect ancient cities with authentic detail, as seen in Majestic Studios’ time‑travelling influencer, turning passive history lessons into immersive, relatable narratives. The author juxtaposes this with the tactile pleasure of a beautifully illustrated two‑player card game, illustrating that design still plays a pivotal role in user engagement. Streaming services are critiqued for their fragmented discovery, prompting a DIY solution via an updated theatrical‑release list—an example of community‑sourced problem solving. The piece also touches on economic realities of living in China, tree‑stump removal videos, and quick life‑skills, painting a portrait of diverse digital consumption habits. Overall, the article highlights the synergy between technology, storytelling, and everyday practicality, urging readers to seek richer, more actionable content experiences rather than passive consumption.",
+    "summary_zh": "文章通过 AI 重现古代生活、精美两人纸牌游戏、流媒体剧院更新、搬迁成本分析、树桩拆除视频和十分钟生活技巧等多元内容，展示了技术与故事叙述的深度融合与日常实用价值，提醒读者主动寻找更具行动性与情感共鸣的内容体验。",
+    "best_quote_en": "Recreating history is the perfect job for AI.",
+    "best_quote_zh": "重建历史是人工智能的完美工作。"
   }
 ]
