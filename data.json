@@ -1,125 +1,5 @@
 [
   {
-    "id": 581,
-    "title": "‘A husband expects a yes’: how wife schools are shaping submissive Christian women",
-    "title_zh": "‘丈夫期待说‘是’’：妻子学校如何塑造顺从的基督徒女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/28/wife-school-christian-women-submissive",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-04-28",
-    "summary_en": "The Guardian exposé uncovers a niche industry of Christian women‑run online courses that promise marital bliss by teaching submission to husbands. Drawing on biblical passages, personal anecdotes, and the rhetoric of conservative movements, these “wife schools” market themselves as practical guides while simultaneously reinforcing patriarchal norms. The piece critically examines the psychological manipulation at play—capitalising on insecurities, normalising submissiveness, and marginalising women’s agency. It juxtaposes the commercial appeal of such courses with empirical research that reveals the harrowing reality of domestic abuse and the paradoxical support for misogynistic attitudes among some participants. The article highlights how the movement dovetails with broader Christian nationalist agendas that seek to embed gendered power structures into American society. It challenges readers to consider the ethical implications of profit‑driven faith‑based self‑help and the subtle ways it may perpetuate systemic inequality. The narrative ends on an unsettling note: while some women report a sense of peace, the cost may be a quiet surrender to oppressive roles.",
-    "summary_zh": "这篇《卫报》深度报道揭露了基督教女性主导的线上课程产业，宣称通过顺从丈夫实现婚姻幸福，却在潜移默化中强化父权结构。作者批判其商业化与宗教操纵的交织，引用研究显示部分受众可能正处于暴力关系中。文章提醒读者关注宗教自助背后的伦理与社会影响，警示这种看似“温柔”的顺从可能是对女性权力的隐性压制。",
-    "best_quote_en": "‘They’re selling wife skills, sure, but what they’re really selling is stability.’",
-    "best_quote_zh": "‘她们出售的是妻子技巧，当然，但她们真正出售的是稳定。’"
-  },
-  {
-    "id": 582,
-    "title": "The List of N Things",
-    "title_zh": "N件事清单",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nthings.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-05-10",
-    "summary_en": "In a deceptively simple form, the article dissects the ubiquitous \"list of N things\" trope that saturates pop culture, journalism, and academia. It argues that such lists are not mere gimmicks but a pragmatic, fault‑tolerant structure that serves both writers and readers. By constraining content to independent, equally weighted points, readers can navigate content at will, skip dissonant items, and avoid the cognitive load of linear narrative. For writers, the format offers a scaffold that prevents writer’s block, enables rapid iteration, and guarantees a coherent product even under tight deadlines. Yet the piece also warns against deceptive exhaustiveness and the stifling of innovation, noting that the format limits the emergence of new ideas during the writing process. The author calls for explicit teaching of this structure, advocating that beginners start with lists, then move beyond the \"cheeseburger\" of conventional essays. Ultimately, the piece is a reflective critique that blends literary theory, cognitive ergonomics, and practical advice, making it a valuable resource for educators, writers, and media scholars.\n",
-    "summary_zh": "文章深度剖析了流行的“列举N件事”写作模式，指出它既是读者的导航工具，也是作者的写作支架。通过并行、可跳跃的结构，读者可自由选择；作者则借此避免写作堵塞，快速完成稿件。作者亦警示滥用该格式可能导致信息不完整与创意受限，并建议教育者先让初学者练习列举式写作，再逐步过渡到更具连贯性的论述。此文兼具理论与实操，适合写作者、编辑及教学研究者阅读。\n",
-    "best_quote_en": "\"A list of n things is easier for writers as well as readers. When you're writing a real essay, there's always a chance you'll hit a dead end.\"",
-    "best_quote_zh": "\"列举N件事既方便作者也方便读者。当你写真正的文章时，总有可能遇到死胡同。\""
-  },
-  {
-    "id": 583,
-    "title": "Sawtooth Problems",
-    "title_zh": "Sawtooth Problems",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/iyLirpAeQotmZK4QC/sawtooth-problems",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-10",
-    "summary_en": "Alexander Slugworth’s essay delves into the Button Dilemma—a seemingly simple binary coordination game—and expands it into a new class of problems he calls “sawtooth problems.” By formalizing the dilemma with a threshold parameter (τ) and introducing two additional dimensions—solidarity (σ) and intolerance (I)—he maps a rich landscape of coordination dynamics that capture real‑world phenomena such as the tragedy of the commons, regulation, and sacrificial dilemmas. The piece is a blend of mathematical modeling, graphical intuition, and philosophical reflection, challenging readers to rethink how we frame coordination puzzles, the role of priors, and the hidden “threshold” that can turn cooperation into conflict. Slugworth’s work is both a technical contribution to game theory and a provocative meditation on collective decision‑making under risk, offering a framework that could guide future research on public goods, social norms, and AI alignment.",
-    "summary_zh": "作者在文章中以一个极简的按钮决策游戏为起点，构造了“锯齿问题”这一新的协调问题范畴。通过阈值、团结度和容忍度三维参数，他揭示了协调空间中隐藏的临界点与多种现实情境的对应关系，既有公共物品的典型悖论，也有监管与牺牲的极端案例。文章兼具严谨的数学建模与深刻的哲学反思，促使读者重新审视协作与冲突的根源，并为未来的公共事务与人工智能治理提供新的视角与工具。",
-    "best_quote_en": "The threshold itself acts as a kind of anti‑Nash equilibrium – in a multi‑turn sawtooth problem, if you find yourself with a group of survivors inside the threshold, every possible action you can take is an improvement, and the incentive to act is as strong as it can be.",
-    "best_quote_zh": "阈值本身就像一种反纳什均衡——在多轮锯齿问题中，如果你发现自己与一群幸存者处于阈值内，每一个可能的行动都是改进，行动的动机是最强的。"
-  },
-  {
-    "id": 584,
-    "title": "Is Los Angeles Finally Ready to Take the Subway?",
-    "title_zh": "洛杉矶终于准备好地铁了吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/is-los-angeles-finally-ready-to-take-the-subway",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-09",
-    "summary_en": "The article chronicles Los Angeles’ long‑term struggle with transit, from Henry Wilshire’s 1895 boulevard donation that forbade rail, through the 20th‑century streetcar heyday, the post‑war car‑centric boom, and the recent revival of the Metro D Line. It blends historical narrative, political maneuvering, and current safety concerns to paint a nuanced picture of a city still skeptical of public transport. The piece’s strength lies in its contextual depth: it explains how policy, identity, and investment have shaped ridership, and it foregrounds the D Line’s potential to shift a traffic‑dependent metropolis toward a transit‑first ethos. For readers, it offers a critical lens on how infrastructure can both reflect and influence cultural attitudes, and it raises questions about safety, equity, and the future of urban mobility. The article encourages thoughtful engagement with the challenges of building sustainable transit in a sprawling, car‑obsessed environment, while also highlighting the tangible benefits that new rail can bring to daily commuters and the wider economy.",
-    "summary_zh": "文章以历史与现实交织的视角，阐释洛杉矶为何长期排斥地铁以及为何如今终于迎来D线延伸。它不仅重现了城市名字与道路背后的政治博弈，还细致描绘了安全、身份认同以及投资对乘客使用态度的影响。透过对过去街车、油气危机和社会恐慌的回顾，作者让读者深思基础设施与文化认知的双向影响，激发对未来公共交通转型的思考。",
-    "best_quote_en": "“The fearmongering failed. Digging for the new D Line project began in 2018; six years later, boring machines finished their dig after reaching the line’s new terminus at the Veterans Affairs campus in Brentwood.”",
-    "best_quote_zh": "“恐吓论未能成功。2018年开始挖掘新的D线项目，六年后，掘进机完成挖掘，抵达布伦特伍德退伍军人事务院的新终点。”"
-  },
-  {
-    "id": 585,
-    "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
-    "title_zh": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-compulsive-behaviors-deep-brain-stimulation-casey-halpern",
-    "tags": [
-      "update",
-      "medicine",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2026-05-07",
-    "summary_en": "The episode delves into neuromodulation—particularly deep brain stimulation (DBS)—as a frontier treatment for compulsive disorders such as OCD, binge‑eating disorder, and depression. Dr. Casey Halpern, a neurosurgery professor at UPenn, explains the neurocircuitry underpinning compulsions, cravings, and impulsivity, detailing how DBS can precisely target the nucleus accumbens and other limbic structures to modulate pathological behavior. He also surveys emerging non‑invasive modalities like transcranial magnetic stimulation and highlights the role of artificial intelligence in predicting harmful impulses. The discussion balances clinical evidence with mechanistic insight, offering clinicians a roadmap for integrating neuromodulation into personalized care while cautioning against over‑enthusiastic application. For researchers, the episode underscores the need for longitudinal, data‑driven studies to refine stimulation parameters and ethical frameworks for brain‑based interventions. The content is highly actionable for neurologists, psychiatrists, and tech‑savvy clinicians seeking cutting‑edge, evidence‑based strategies to curb compulsive behavior and improve patient outcomes.",
-    "summary_zh": "Dr. Casey Halpern 详细阐述了深脑刺激（DBS）在治疗强迫症、暴食症和抑郁等冲动障碍中的最新进展，揭示了奖赏回路与冲动控制的神经机制，并探讨了非侵入性技术与人工智能预测的前景。对神经外科、精神科及科研人员具有高度实用与前瞻价值。",
-    "best_quote_en": "\"Deep brain stimulation allows us to intervene directly in the neural circuits that drive compulsive behavior, giving patients a new lease on life that pharmacotherapy alone cannot provide.\"",
-    "best_quote_zh": "\"深脑刺激让我们可以直接干预驱动强迫行为的神经回路，为患者提供药物治疗无法实现的新生机会。\""
-  },
-  {
     "id": 586,
     "title": "Women’s culture goes dark: why aren’t there more ‘femcel’ movies?",
     "title_zh": "女性文化变暗：为什么没有更多‘女自闭’电影？",
@@ -2334,5 +2214,125 @@
     "summary_zh": "文章通过 AI 重现古代生活、精美两人纸牌游戏、流媒体剧院更新、搬迁成本分析、树桩拆除视频和十分钟生活技巧等多元内容，展示了技术与故事叙述的深度融合与日常实用价值，提醒读者主动寻找更具行动性与情感共鸣的内容体验。",
     "best_quote_en": "Recreating history is the perfect job for AI.",
     "best_quote_zh": "重建历史是人工智能的完美工作。"
+  },
+  {
+    "id": 681,
+    "title": "After Credentials",
+    "title_zh": "凭证的终结",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/credentials.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-06-02",
+    "summary_en": "In this reflective essay the author traces the evolution of credentialism from ancient civil‑service exams to modern university admissions, arguing that societies have historically relied on tests to predict performance when direct observation was impractical. He observes how the rise of small, performance‑based firms—startups, consulting, law—has undermined the power of credentials by making actual output directly remunerated. The piece contends that reducing the weight of credentials is not merely a bureaucratic reform but a structural shift: a move toward many small organizations that can individually assess talent, thereby breaking the generational transmission of privilege. The author’s position is that if economies reward merit rather than pedigree, the market itself will tighten credential standards and foster a more meritocratic culture. He ends by urging policymakers to promote small‑unit economies and performance‑based pay as a more effective counter to inherited advantage than tightening exam rigor alone. The essay blends historical anecdotes, economic theory, and the author’s venture‑capitalist experience to make a compelling case for a new era of measurement.\n\nThe analysis probes the paradox that credential tests, designed to level the playing field, often become instruments of inequality, and it suggests that the solution lies not in perfecting exams but in decentralizing power. The piece is rich with data‑driven analogies—imperial China, South Korean cram schools, American legacy admissions—and offers actionable insights for educators, policymakers, and entrepreneurs who seek to align incentives with true performance. It invites readers to rethink the status of education credentials in a world where market signals can be more immediate and accurate than a paper test.\n\nThe essay’s intellectual curiosity is evident in its willingness to question the status quo and to propose a radical reorientation of how we measure talent. It engages the reader by connecting ancient practices to contemporary startup culture, thereby framing credentialism as a historical pattern that can be disrupted through structural change. The broader significance lies in its potential to influence debates on higher‑education reform, labor market policies, and the design of meritocratic institutions worldwide.",
+    "summary_zh": "作者从古代科举到现代录取，揭示凭证曾是预测表现的工具，却因其可被“补习”而滋生不平。文章主张，凭证价值的削弱应通过让更多小组织直接衡量才能，而非完善考试。此论点结合历史与创业经验，呼吁用市场绩效取代学位，打破世代优势。它既是对教育体制的批判，也是对制度革新的启示。",
+    "best_quote_en": "What makes a society prosperous is its ability to prevent parents from influencing their children’s success directly; the solution is not to make credentials harder to hack, but to make them matter less.",
+    "best_quote_zh": "真正让社会繁荣的是阻止父母直接影响子女成功的能力；解决办法不是让凭证更难被突破，而是让凭证更不重要。"
+  },
+  {
+    "id": 682,
+    "title": "Recall",
+    "title_zh": "",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/recall/",
+    "tags": [
+      "solve",
+      "education",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 683,
+    "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+    "title_zh": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/peptides-the-science-uses-and-safety-abud-bakri",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "In this episode, Dr. Abud Bakri, a board‑certified internal medicine physician, delves into the nuanced world of therapeutic peptides, balancing scientific rigor with practical caution. He traces the lineage of compounds such as BPC‑157, GHK‑Cu, pinealon, epithalon, and GLP‑1 analogs, highlighting their preclinical promise while underscoring the stark gap between animal models and human data. The discussion exposes the murky terrain of sourcing—compounding pharmacies, gray markets, and black markets—emphasizing the regulatory labyrinth and the potential for adverse events. Dr. Bakri’s narrative is anchored in evidence: he cites specific clinical trials, FDA status, and case‑study anecdotes, offering listeners a grounded, risk‑aware perspective. The episode serves as both a primer for newcomers and a critical resource for clinicians contemplating peptide therapy, urging vigilance, informed consent, and adherence to emerging regulatory standards. It underscores the broader implication that, while peptides hold transformative potential, responsible stewardship and rigorous research are indispensable for safe clinical translation.",
+    "summary_zh": "在本期节目中，阿布德·巴克里博士深入探讨了治疗性肽的科学与风险，强调动物实验与人体数据的差距与来源不确定性。",
+    "best_quote_en": "“The promise of peptides is undeniable, but the evidence in humans remains sparse—making cautious optimism the only rational stance.”",
+    "best_quote_zh": "“肽类的前景不可否认，但人体证据仍然稀缺——因此，谨慎乐观是唯一合理的立场。”"
+  },
+  {
+    "id": 684,
+    "title": "On The Importance of Desperate Customers",
+    "title_zh": "关于绝望客户的重要性",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/01/desperate-customers/",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-06-01",
+    "summary_en": "The article distills a timeless lesson from angel investor Mike Maples Jr.: real traction hinges on finding customers who are not merely interested but desperate for a solution. By framing questions around willingness to pay and urgent pain points, founders can surface the high‑stakes problems that justify a product’s value proposition. The piece blends theory with concrete examples—from Chegg’s textbook rental economics to Okta’s identity‑management pain—illustrating how focused prototypes can reveal the \"1,000 true fans\" that validate a venture. For entrepreneurs, the takeaway is to prioritize desperation over curiosity, to test early with a tight deliverable, and to measure whether the solution meets a compelling urgency. This pragmatic, data‑driven mindset transforms a broad market idea into a laser‑focused strategy that fuels growth and investor appeal.",
+    "summary_zh": "文章提炼了天使投资人Mike Maples Jr.的经验：真正的商业成功取决于找到既感兴趣又绝望的客户。通过聚焦付费意愿和迫切痛点，创始人能快速识别高价值问题，并用原型验证。Chegg、Okta等案例展示了如何用紧凑交付物筛选真粉丝。关键是把绝望放在兴趣之上，让产品满足迫切需求，从而实现规模增长。",
+    "best_quote_en": "\"Customers are interested in what they have built, but they are not desperate for it.\"",
+    "best_quote_zh": "\"客户对你所建的感兴趣，但并不绝望需要它。\""
+  },
+  {
+    "id": 685,
+    "title": "Anthropic confidentially files for IPO – days after $65B raise pushed AI firm’s valuation to $965B",
+    "title_zh": "Anthropic 私下提交 IPO 文件——$65B 轮融资后 AI 公司的估值升至 965B 美元",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/anthropic-confidentially-files-for-ipo-days-after-65b-raise-pushed-valuation-to-965b/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-02",
+    "summary_en": "Anthropic’s clandestine IPO filing follows a staggering $65 billion Series H raise that pushed its valuation to $965 billion, eclipsing OpenAI for the first time. The move signals the company’s readiness to enter public markets while maintaining strategic flexibility: share count and price remain undisclosed, contingent on market conditions. The announcement underscores a broader trend of AI firms leveraging massive private funding to position themselves for future liquidity events, a path mirrored by OpenAI’s own public‑market ambitions. Yet Anthropic’s trajectory is complicated by mounting legal challenges—from multibillion‑dollar copyright suits over copyrighted songs and pirated books to a Pentagon‑issued supply‑chain risk designation that could jeopardize revenue streams. These lawsuits highlight the growing scrutiny of AI training data and intellectual‑property compliance, raising questions about the sustainability of rapid growth models. Investors and industry observers must weigh the company’s impressive enterprise adoption—evidenced by Claude’s integration in Fortune‑500 workflows—against the regulatory and reputational risks that accompany large‑scale data use. This case illustrates the delicate balance AI leaders must strike between scaling innovation, securing capital, and navigating an increasingly complex legal landscape.",
+    "summary_zh": "Anthropic 在获得 65 亿美元 Series H 轮融资后，估值突破 965 亿美元，首次超过 OpenAI，并秘密提交 IPO 文件。此举显示公司准备上市，但仍面临版权诉讼和国防安全风险。",
+    "best_quote_en": "Anthropic’s $65B Series H round valued it at $965 billion, the first time it has eclipsed OpenAI.",
+    "best_quote_zh": "Anthropic 的估值已突破 OpenAI，首次超过 965 亿美元。"
   }
 ]
