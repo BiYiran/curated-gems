@@ -1,97 +1,5 @@
 [
   {
-    "id": 591,
-    "title": "Telephony",
-    "title_zh": "Telephony",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/telephony/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-05-11",
-    "summary_en": "This article curates a handful of under‑the‑radar telephony tools that blend simplicity, affordability, and a touch of future‑proofing, offering clear, actionable guidance for both solo entrepreneurs and small teams. It opens with UberConference’s free, PIN‑less web‑based conference calls—a practical solution for quick, low‑friction collaboration. Google Voice is praised for its “one‑number‑to‑rule‑them‑all” philosophy, highlighting its carrier‑independence, voicemail customization, and web‑based text integration—an indispensable hub for anyone juggling multiple devices. The piece then pivots to hardware, championing lightweight headsets for ergonomic, hands‑free productivity, and a compact Mini Phone Recorder that has become a journalist’s silent companion. Finally, LucyPhone’s hold‑music bypass illustrates how a simple script can turn a frustrating customer‑service loop into a seamless hand‑off. Across the board, the narrative underscores how thoughtful, low‑cost tools can elevate communication, reduce friction, and free up cognitive bandwidth for more strategic work. It invites readers to re‑imagine their daily telephony habits with a mix of proven legacy gear and modern SaaS conveniences, reinforcing the idea that “good tools” are often overlooked yet profoundly transformative.",
-    "summary_zh": "这篇文章汇总了一系列低成本、易用的电话工具，从UberConference的免费会议到Google Voice的“一号号码”理念，再到轻量化耳机和便携录音机，最后以LucyPhone解锁排队烦恼。作者强调，细节技术能大幅提升沟通效率与健康，提醒读者重新审视日常电话习惯。",
-    "best_quote_en": "\"One number for everything. No more worrying about porting or losing numbers, or having to inform anyone of a change.\"",
-    "best_quote_zh": "“一次号码，万物皆可接。”"
-  },
-  {
-    "id": 592,
-    "title": "‘Why do I need to change?’: the brides saying no to costly pre-wedding glow-ups",
-    "title_zh": "‘为什么我需要改变？’：拒绝昂贵的婚前美颜的新人",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/may/12/brides-beauty-standards-wedding-glow-up",
-    "tags": [
-      "analyze",
-      "medicine",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-05-12",
-    "summary_en": "This Guardian piece interrogates the relentless march of 2026 bridal beauty standards, exposing how social media, influencer culture, and the booming ‘insecurity industry’ coerce brides into costly, often unnecessary cosmetic pursuits. Through intimate interviews with brides who chose authenticity over alteration, the article reveals that the pressure to look perfect is not merely aesthetic but a social contract that equates appearance with worth. It also highlights the psychological toll of constant self‑scrutiny and the financial drain on couples, presenting a counter‑narrative that prioritizes self‑acceptance and present‑moment joy. Readers gain practical insights into how to resist the beauty treadmill, and a broader understanding of how consumer culture commodifies femininity. The piece invites reflection on the ethical dimensions of beauty advertising and encourages a cultural shift toward inclusivity and mental wellness in wedding planning.",
-    "summary_zh": "文章揭示婚礼美颜产业对新娘的心理与经济双重压迫，呼吁自我接纳与当下体验；它透过真实案例，批判包装的‘完美’标准，提醒读者重视内在价值与身心健康。",
-    "best_quote_en": "\"I don’t owe anyone anything except for myself on my wedding day.\"",
-    "best_quote_zh": "\"我只欠自己在婚礼那天的责任。\""
-  },
-  {
-    "id": 593,
-    "title": "What Kate Saw in Silicon Valley",
-    "title_zh": "Kate在硅谷看到的事",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kate.html",
-    "tags": [
-      "guide",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略"
-    ],
-    "date": "2026-05-13",
-    "summary_en": "Kate Courteau, the architect behind Y C’s office, shares an insider’s snapshot of startup life in a brief but revealing list. The piece underlines the relentless risk of failure even for celebrated founders, the fluidity of startup ideas—half pivot by Demo Day—and the startlingly low capital barrier, where a tiny renovation costs less than a fledgling venture. It celebrates the scrappy ethos prized in Silicon Valley, contrasting it with the more formal, hierarchical norms of architecture. The narrative highlights how founders thrive on rapid launch, user feedback, and iteration, a principle that has become industry standard yet was once contrarian. It also notes the quiet, solitary work habits demanded by tech startups versus the collaborative nature of traditional professions. Kate’s observations provide a candid, data‑rich guide for entrepreneurs, investors, and observers alike, offering actionable insights into the culture, resilience, and human dynamics that underpin startup success.\n\nThe piece is a valuable primer for those studying startup ecosystems, offering nuanced, anecdotal evidence that complements theoretical models. It underscores the importance of adaptability, community, and a willingness to break from convention—critical lessons for anyone aiming to navigate or influence the tech‑driven economy.\n\nOverall, the article is a compelling, thought‑provoking read that blends personal observation with broader industry patterns, making it both educational and inspirational for aspiring founders and seasoned investors.",
-    "summary_zh": "Kate Courteau 在硅谷的观察让我们看到创业的真实面貌：失败常态、创意不断迭代、起步成本低廉、创业者的顽强与灵活。她指出，快速发布、倾听用户并快速迭代已成为标准，甚至是必要的生存策略。文中还揭示了创业者在孤独工作与社群支持间的拉锯，以及与传统行业的文化差距。对创业者、投资人乃至学术研究者都具有启示意义，强调适应力、社区与敢于突破传统的重要性。",
-    "best_quote_en": "\"By Demo Day about half the startups were doing something significantly different than they started with.\"",
-    "best_quote_zh": "\"最重要的是，创始人要有可以请教的人。没有建议，他们就会迷失。\""
-  },
-  {
-    "id": 594,
-    "title": "Probabilistic, Reformative Justice",
-    "title_zh": "概率性改革性司法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/dqbhcm6g7CMWvhoid/probabilistic-reformative-justice",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-13",
-    "summary_en": "The post reframes criminal adjudication through a dual‑axis taxonomy—punitive/reformative versus binary/probabilistic—proposing that sentencing should hinge on the posterior probability of guilt rather than a hard guilty/innocent verdict. By invoking Fisher’s *Conviction Without Conviction* and Foucault’s critique of binary punishment, the author argues that a probabilistic loss function aligns better with reformative goals of crime reduction and rehabilitation. The analysis acknowledges cultural inertia, public preference for clear verdicts, and the risk of slide into surveillance or injustice, yet posits that incremental shifts already exist in mental‑health interventions. The piece is thought‑provoking, blending legal theory, statistical reasoning, and ethical critique, and invites practitioners to rethink sentencing models beyond the entrenched binary paradigm. Its conceptually rigorous yet accessible exposition makes it valuable for scholars, policymakers, and reform advocates seeking nuanced, evidence‑based justice reforms.",
-    "summary_zh": "作者通过惩罚/改革与二元/概率两轴框架，主张判决应依据嫌疑人罪行概率而非二元判决，呼吁司法系统向更适合犯罪预防与康复的概率性失误函数转变，兼顾文化阻力与风险，提供深刻的法理与统计交叉视角。",
-    "best_quote_en": "\"The sentence and the verdict should be conditionally independent given the probability of having committed the crime.\"",
-    "best_quote_zh": "“判决和定罪应在犯罪可能性条件下相互独立。”"
-  },
-  {
     "id": 595,
     "title": "Your Idea Starts Here / Goatman",
     "title_zh": "你的想法从这里开始 / 山羊人",
@@ -2328,5 +2236,97 @@
     "summary_zh": "UMG以2900万美元回购比尔·艾克曼持股，终结双方的股东关系，体现公司对长期估值的信心。此次回购在新的授权下进行，既支持激励计划又降低资本结构。它展示了在面对激进投资者时，企业如何通过资本运作维护股东价值，并为投资者提供了关于资本结构管理与激进投资者博弈的案例。",
     "best_quote_en": "\"The proposal would have merged UMG with Pershing Square SPARC Holdings, with the combined company incorporating in Nevada and moving its primary listing from Euronext Amsterdam to the New York Stock Exchange.\"",
     "best_quote_zh": "“该提案将把UMG与Pershing Square SPARC Holdings合并，合并公司将在内华达州注册，并将其主要上市地点从阿姆斯特丹转至纽约证券交易所。”"
+  },
+  {
+    "id": 691,
+    "title": "Could VC be a Casualty of the Recession?",
+    "title_zh": "VC会成为衰退的牺牲品吗？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/divergence.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-06-05",
+    "summary_en": "The piece offers a prescient examination of how the 2008 recession could reshape the venture‑capital ecosystem. It argues that advances in hardware, open‑source software, the web, and programming languages have dramatically lowered the cost of launching a startup, making profitability achievable with modest revenues. Consequently, the traditional VC‑founder symbiosis may dissolve: founders can reach runway‑independence without large investments, while VCs may see diminished demand for their capital. The author uses Y Combinator data to illustrate a growing trend of founders rejecting further fundraising, even amid market uncertainty. The analysis blends historical context with forward‑looking speculation, offering actionable insight for both entrepreneurs and investors. It invites readers to question long‑standing assumptions about funding necessity, the economics of scale, and the long‑term health of the venture‑capital model.",
+    "summary_zh": "文章深度剖析2008年衰退如何重塑VC格局，论述技术进步让创业成本骤降，盈利门槛低，导致创始人与VC关系可能解体。作者以YC案例佐证创始人趋向自给自足，VC需求受冲击，促使读者重新评估融资必要性与行业可持续性。",
+    "best_quote_en": "\"The threshold of profitability can be trivially low. Which means many Internet startups don't need VC‑scale investments anymore.\"",
+    "best_quote_zh": "\"盈利门槛可以极低，这意味着许多互联网创业公司不再需要大规模的VC投资。\""
+  },
+  {
+    "id": 692,
+    "title": "The Changing Face of “Authenticity” in Politics",
+    "title_zh": "《政治中“真实性”面貌的变化》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-changing-face-of-authenticity-in-politics",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-06-05",
+    "summary_en": "The article dissects the evolving concept of authenticity in American politics, using the polarizing case of Senate candidate Graham Platner as a lens. It traces authenticity from its Enlightenment roots to its commodification in modern campaigns, noting how figures like Jimmy Carter, Donald Trump, and emerging outsiders have been co-opted or subverted by media narratives. By juxtaposing Platner’s raw, self‑described authenticity against his offensive online history and personal scandals, the piece interrogates whether voters truly value truth or merely a performative façade. The piece argues that the current political climate—teeming with AI‑driven content, conspiracy theories, and a backlash against polished messaging—offers a rare window for a more substantive, if still contested, notion of authenticity. It concludes that authenticity remains a slippery, socially constructed tool that politicians manipulate, while citizens increasingly demand transparency and genuine narrative coherence. The article invites readers to critically assess the rhetoric of authenticity, recognizing it as both a political weapon and a potential catalyst for deeper engagement.",
+    "summary_zh": "文章通过格雷厄姆·普拉特纳的参选经历，拆解了美国政治中“真实性”概念的演变。它从启蒙时代到当代媒体包装，揭示真实性被政治家利用、扭曲与反复争议。作者指出，在人工智能与假新闻泛滥、选民对精心包装的反感日益加剧的时代，真实性的意义被重新审视，却仍是一个难以捉摸、充满操纵的工具。文章鼓励读者质疑政治家关于“真实性”的表述，关注其背后的真诚与表演之间的张力。",
+    "best_quote_en": "“Authenticity has been tortured to the point of meaninglessness, but I’ve found myself wondering, in recent months, if a new paradigm might be swimming into view.”",
+    "best_quote_zh": "“真实性已被扭曲至毫无意义，但我发现自己在最近几个月想知道，是否可能出现新的范式。”"
+  },
+  {
+    "id": 693,
+    "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+    "title_zh": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams",
+    "tags": [
+      "guide",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-06-04",
+    "summary_en": "This Huberman Lab Essentials episode delves deep into the frontier of neuropsychiatric therapeutics, spotlighting Dr. Nolan Williams’ expertise in psychiatry and neurology. It unpacks the neurobiology and clinical promise of transcranial magnetic stimulation, neuromodulation, and psychedelic‑assisted therapies—psilocybin, MDMA, ibogaine, and ayahuasca—highlighting their mechanistic links to depression and PTSD. The discussion balances rigorous evidence with emerging trial data (e.g., SD‑TMS, SAINT protocol), offering clinicians and researchers actionable insights into protocol design, safety, and integration with conventional care. The episode’s structure, punctuated by timestamps, guides listeners through a logical progression from foundational biology to applied treatment paradigms, making complex concepts digestible for both clinicians and informed lay audiences. Importantly, the content invites reflection on the ethical, regulatory, and societal implications of psychedelic medicine, encouraging a thoughtful, evidence‑based approach to future clinical practice.",
+    "summary_zh": "本集深入探讨脑刺激与迷幻剂在抑郁与创伤后症候群治疗中的前沿进展，结合神经科学与临床试验数据，既提供可操作的治疗方案，也引发关于伦理与监管的深思。",
+    "best_quote_en": "“The convergence of neurostimulation and psychedelic therapy is not just a therapeutic frontier; it’s a paradigm shift that redefines how we understand and treat brain disorders.”",
+    "best_quote_zh": "“神经刺激与迷幻疗法的交汇不仅是治疗前沿，更是重新定义我们理解与治疗脑部疾病的范式。”"
+  },
+  {
+    "id": 694,
+    "title": "6 Simple Money Rules I Live By Every Day",
+    "title_zh": "每日遵循的六条简单理财规则",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/6-simple-money-rules-i-live-by-every-day/",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-04-20",
+    "summary_en": "Steve Adcock distills the backbone of his and his wife’s millionaire status into six tangible, everyday habits. The core message is that wealth is built not on flashy investments or lifestyle spikes but on disciplined, low‑friction practices: a six‑month cash cushion, automatic 20% income allocation to index funds, zero credit‑card debt, frugal vehicle choices, avoiding comparison, and prioritizing walking over spending. The narrative blends personal testimony with actionable advice, making concepts like emergency funds, passive investing, and lifestyle inflation accessible to novices. Adcock’s tone is unapologetically blunt, reinforcing that the path to financial freedom is a simple system rather than a complex strategy. Readers emerge with a clear playbook: start with one rule, layer the rest, and watch the cumulative effect on peace of mind and financial stability.",
+    "summary_zh": "Steve 通过六条日常规则阐述从零到百万的理财秘诀，强调现金安全、自动投资、零债务、低成本生活、避免攀比与注重行动。其核心在于简洁可执行的系统，而非复杂理论，帮助读者从日常小事建立财务自由。",
+    "best_quote_en": "\"Money doesn’t have to be complicated. It just needs a system.\"",
+    "best_quote_zh": "“金钱不必复杂，它只需要一个系统。”"
   }
 ]
