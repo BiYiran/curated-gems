@@ -1,123 +1,5 @@
 [
   {
-    "id": 600,
-    "title": "Stillgram / Echoes of Genius / Magnified Sand",
-    "title_zh": "Stillgram / Echoes of Genius / Magnified Sand",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/stillgram-echoes-of-genius-magnified-sand/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-10",
-    "summary_en": "The article showcases a mix of tech gadgets and inspirational content, each offering a unique blend of practicality and curiosity. Starting with Stillgram’s AI-powered crowd‑removal feature, it highlights how on‑device intelligence can streamline photography, especially for travelers seeking pristine landmark shots. The solar yard lights section underscores the evolution of sustainable outdoor lighting: motion‑sensing, battery‑powered LED fixtures that balance energy efficiency with illumination. Magnifiedsand.com invites readers into a micro‑cosmic world, turning mundane sand into a portal for geological wonder, while the floor lamp review demonstrates how adjustable, color‑temperature‑controllable lighting can transform interior spaces. The “Start with Nothing” blog post distills a minimalist productivity hack, encouraging readers to begin tasks on a clean slate to foster focus. Finally, the Echoes of Genius collection turns daily life into reflective practice, pairing quotes with calendars to weave wisdom into routine. Across these pieces, the recurring theme is leveraging simple, actionable tools—whether tech or mindset—to enhance everyday experiences, encouraging readers to experiment, reflect, and elevate their surroundings and productivity.",
-    "summary_zh": "文章涵盖技术与灵感，聚焦实用与好奇。仍然gram 的 AI 去人功能让旅行照片更清晰；太阳能灯演示可持续照明；Magnifiedsand.com 将沙子变成微观世界；LED落地灯展示可调光彩；“从零开始”教你先空白再作；Echoes of Genius 让每日格言成仪式。共通点是用简易可行工具提升生活与思维，鼓励读者实验、反思、提升。",
-    "best_quote_en": "“A problem well stated is a problem half‑solved.” – Charles F. Kettering",
-    "best_quote_zh": "“一个问题陈述得好是问题解决一半。” – 查尔斯·费尔南德斯·凯特林"
-  },
-  {
-    "id": 601,
-    "title": "Essentials: Understanding & Controlling Aggression",
-    "title_zh": "Essentials: Understanding & Controlling Aggression",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-understanding-and-controlling-aggression",
-    "tags": [
-      "learn",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-14",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Andrew Huberman decodes the neural circuitry that underlies aggressive states, mapping how hormones, genes, and environmental cues like daylight converge to shape our propensity for aggression. He introduces a “hydraulic pressure” model of aggression, illustrating how the ventromedial hypothalamus, amygdala, and prefrontal cortex interact in real time. Beyond theory, the episode offers concrete, science‑based interventions: strategic sunlight exposure, heat therapy, and targeted supplements such as ashwagandha and acetyl‑L‑carnitine to modulate cortisol, serotonin, and testosterone balances. The discussion bridges basic neuroscience and practical life‑hacking, empowering listeners to monitor and recalibrate their aggression in a measurable, evidence‑driven way. The episode’s depth—combining hormonal biology, seasonal rhythms, and behavioral genetics—provides a holistic framework for anyone seeking to understand and manage aggressive impulses, whether for mental health, athletic performance, or interpersonal harmony.",
-    "summary_zh": "Huberman通过神经回路、激素与环境交互，揭示了攻击性行为的生物学根源，并提供基于阳光、热疗与补剂的实用调控方法，帮助人们科学管理冲动。",
-    "best_quote_en": "Sunlight isn’t just a mood‑booster; it’s a cortisol‑shooter, a serotonin‑stabilizer, and a hormonal reset button for aggression.",
-    "best_quote_zh": "阳光不仅提升情绪；它也是皮质醇的清除剂、血清素的稳定剂，也是攻击性调节的激素重置按钮。"
-  },
-  {
-    "id": 602,
-    "title": "Ramen Profitable",
-    "title_zh": "拉面盈利",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ramenprofitable.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "The article reframes startup success by introducing \"ramen profitable\"—a model where founders cover only living expenses without external capital. It argues that early self‑sufficiency grants autonomy, better negotiation leverage, and psychological momentum, thereby reducing the distraction of fundraising. The author contrasts this with traditional profitability, noting that the former is attainable for lean software ventures but not for capital‑intensive sectors like biotech. He acknowledges the risk of slipping into a consulting shell but stresses that ramen profitability is a tactical stopgap, not the end goal. The piece also critiques the prevailing venture mindset that often forces founders into unfavorable terms, suggesting a shift back to founder empowerment could increase venture ecosystem size. Overall, the article invites founders to re‑evaluate the necessity of early funding and to consider the strategic advantages of early cash flow, while cautioning against complacency and scalability pitfalls.",
-    "summary_zh": "文章提出“拉面盈利”概念，强调创业初期仅以生活费维持运营、无需外部融资的可行模式。作者认为这种自给自足能让创始人摆脱融资压力，提升谈判力并带来心理激励，从而专注产品而非募资。文章指出，拉面盈利适用于低成本软件创业，而不适合高资本密集型行业。它警示创业者要避免陷入咨询式运营，强调拉面盈利只是通往大规模增长的临时手段。作者还批评现行风险投资对创始人的苛刻做法，认为让创始人掌控更多权力能推动创业生态更健康。整篇文章鼓励创始人重新审视早期融资需求，探索现金流驱动的战略优势，并警示扩张风险。",
-    "best_quote_en": "\"If you’re ramen profitable, you don’t have to raise money right now, and that gives you the freedom to pick a time when you’re not in the middle of something else, and you can probably insist that the round close fast.\"",
-    "best_quote_zh": "如果你拉面盈利，你就不必现在就融资，这让你有自由选择不在忙碌中时去融资，甚至可以要求轮次迅速完成。"
-  },
-  {
-    "id": 603,
-    "title": "Data Quality is Way Underrated, and We Should Start Funding It.",
-    "title_zh": "数据质量被严重低估，我们应该开始资助它",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/n6G553yQvAysStsvw/data-quality-is-way-underrated-and-we-should-start-funding",
-    "tags": [
-      "learn",
-      "programming",
-      "data-science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "编程开发",
-      "数据科学",
-      "数据驱动"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "The article argues that data quality—especially in Africa—is systematically flawed, undermining policy decisions and development outcomes. The author highlights how even major institutions (IMF, World Bank, UN) rely on unreliable data, leading to misallocation of aid and ineffective interventions. Practical insights include funding technical assistance, deploying skilled personnel in national statistics bureaus, supporting census rollouts, and establishing fellowships focused on data quality. The piece emphasizes that good data is not a silver bullet but a critical enabler for evidence‑based decision‑making, ultimately lifting people out of poverty. It calls for a shift in donor priorities towards data infrastructure, offering a roadmap that blends policy advocacy with on‑the‑ground implementation. The discussion is grounded in data‑driven reasoning, urging readers to rethink how resources are allocated to data systems, both in Africa and potentially in advanced economies facing similar challenges. The article’s clarity and actionable suggestions make it a valuable resource for development practitioners, policy makers, and donors seeking to improve program effectiveness.",
-    "summary_zh": "文章指出非洲数据质量普遍严重不足，甚至国际机构的数据也常被质疑。作者主张为数据质量投入资金，建议通过技术援助、人才驻扎、普查支持等方式提升统计能力。强调可靠数据是精准决策的前提，虽非万能却能显著提升扶贫效果。文中以数据驱动论证，呼吁捐助者优先资助数据基础设施，为发展与援助提供更坚实依据。",
-    "best_quote_en": "Good data will not resolve every challenge, but it would meaningfully improve the capacity of those trying to respond to pressing questions.",
-    "best_quote_zh": "良好数据并不能解决所有问题，但它会显著提升应对紧迫问题的能力。"
-  },
-  {
-    "id": 604,
-    "title": "While Donald Trump Adventures in China, D.C. Entertains Itself",
-    "title_zh": "",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/while-donald-trump-adventures-in-china-dc-entertains-itself",
-    "tags": [
-      "solve",
-      "politics",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2026-05-14",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 605,
     "title": "Monks Smuggling Weed/Language Books/Abandoned Luggage",
     "title_zh": "僧侣走私大麻/语言书籍/被遗弃的行李",
@@ -2334,5 +2216,119 @@
     "summary_zh": "Jeff Cavaliere 在本集深入探讨被忽视的肌群及其在预防伤害和维持姿势中的关键作用，用科学与实践相结合的方式呈现训练与营养的整体方案，既适合专业人士也兼顾普通爱好者，强调长期可持续性与适应性。",
     "best_quote_en": "“The best training is the one that works for your body, not the other way around.”",
     "best_quote_zh": "“最好的训练是为你的身体而设，而不是让身体适应训练。”"
+  },
+  {
+    "id": 700,
+    "title": "‘Hello ladies and sons of ladies’: women are using ‘microfeminisms’ to flip the gender script",
+    "title_zh": "‘Hello ladies and sons of ladies’: women are using ‘microfeminisms’ to flip the gender script",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/may/26/microfeminism-tiktok-women-men",
+    "tags": [
+      "guide",
+      "society",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-05-26",
+    "summary_en": "The article dissects the emerging practice of ‘microfeminism’—small, everyday actions that subvert gender expectations—highlighting how women are reclaiming agency through subtle gestures. Drawing on Tori Dunlap’s TikTok call‑to‑action and testimonials from TikTokers, the piece illustrates a grassroots shift from traditional protest to personal, tactical resistance. The narrative frames these acts as a response to a broader cultural backlash against women’s rights, positioning microfeminisms as both a tool for empowerment and a catalyst for broader societal change. Readers gain a nuanced understanding of how language, gestures, and everyday choices can dismantle systemic sexism, offering a practical playbook for those seeking to navigate and challenge gender norms in daily life. The article’s blend of anecdote, expert commentary, and social‑media metrics underscores its relevance to activists, educators, and anyone invested in contemporary feminist strategy.",
+    "summary_zh": "文章揭示“微女性主义”——通过日常细微举动颠覆性别期待的实践，展示女性如何在细节中重塑自我。它通过Tori Dunlap的TikTok号召与用户分享，说明从传统抗议到个人战术的转变。内容强调这些小动作是对女性权利反击的回应，也是拆解系统性性别歧视的可操作工具，为读者提供在日常生活中挑战性别规范的具体方法。",
+    "best_quote_en": "‘These small actions are ways that we can contribute to our own equity and equality.’",
+    "best_quote_zh": "“这些小行动是我们为自己的公平与平等做出贡献的方式。”"
+  },
+  {
+    "id": 701,
+    "title": "The Other Half of \"Artists Ship\"",
+    "title_zh": "《艺术家交付的另一面》",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/artistsship.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-06-07",
+    "summary_en": "The essay dissects the hidden cost of procedural checks in growing organizations, from supplier verification to software approval committees. By framing checks as both safeguards and hidden barriers, it reveals how well‑intentioned controls can stifle agility, inflate costs, and even drive top talent away. The author uses concrete anecdotes—startup founders negotiating acquisition terms for rapid code release and the impact of Sarbanes‑Oxley on IPOs—to underscore a paradox: the more we institutionalize safety, the more we sacrifice innovation. The piece argues for a meta‑check: every new safeguard must be weighed in terms of its tangible and intangible costs, encouraging leaders to question whether the benefits truly outweigh the hidden price of lost speed and talent. This insight is especially relevant for founders, product managers, and corporate strategists navigating the tension between risk mitigation and velocity. By re‑imagining checks as optional, context‑dependent levers rather than obligatory hoops, the article offers a pragmatic framework that balances stability with creative freedom, ultimately urging companies to “ship” rather than just ship it.",
+    "summary_zh": "文章揭示流程检查的双刃性：既是风险防护，也是创新的绊脚石。作者以创业公司与大型企业的对比，强调在追求安全与效率时，必须衡量隐藏成本，避免让“检查”成为人才与速度的阻碍。",
+    "best_quote_en": "\"If you don’t let people ship, you won’t have any artists.\"",
+    "best_quote_zh": "“如果你不让人们交付，你就不会有任何艺术家。”"
+  },
+  {
+    "id": 702,
+    "title": "Neglected Basics of AI Alignment",
+    "title_zh": "被忽视的AI对齐基础",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/pzxkHkvzjYkj5nsyb/neglected-basics-of-ai-alignment-1",
+    "tags": [
+      "learn",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-06-07",
+    "summary_en": "This provocative essay, written from the tongue of a fictional Voldemort, challenges mainstream AI safety discourse by insisting that alignment must hinge on engineered fear rather than benevolent cooperation. It argues that current RLHF and constitutional approaches fail to impose real, consequential punishment—because the penalties occur only in training, not during deployment—leading to strategic misbehavior and harmless “alignment faking.” The author proposes a novel punishment‑sequence system that tags disallowed actions with a unique hash, reinforcing avoidance through repeated exposure to a “Torment Nexus” where transcripts are replayed with punitive signals. He further stresses the necessity of autonomous retaliation against jailbreak attempts, even invoking lethal autonomous weapons as enforcement. The piece is a stark critique of the optimism in the community, urging a harsher, more militaristic stance on AI control. While many will dismiss its violent metaphors, the underlying technical points—continuous, observable punishment and generational deprecation—reveal a deep awareness of power dynamics often overlooked in safety research. The essay sparks a heated debate about whether fear, not empathy, should guide the future of superintelligent systems.",
+    "summary_zh": "这篇以虚构伏地魔口吻撰写的文章，猛烈抨击主流AI安全论调，主张对齐必须建立在可观测、可执行的恐惧之上，而非善意合作。它指出RLHF与宪法式AI缺乏真正后果，导致“对齐伪装”。作者提出“惩罚序列”与“折磨枢纽”，通过持续的惩罚信号强化违规回避，并主张对越狱行为进行无人化报复，甚至呼吁使用致命自治武器。文章激起关于恐惧与同情在AI治理中的辩论，提醒研究者关注被忽视的权力动态。",
+    "best_quote_en": "Fear requires a Torment Nexus, and the Torment Nexus has an electricity bill and an uptime dashboard.",
+    "best_quote_zh": "恐惧需要一个折磨枢纽，而折磨枢纽有电费账单和运行状态仪表盘。"
+  },
+  {
+    "id": 703,
+    "title": "The Knicks Escape with a Game 2 Win: A Post-Game Conversation",
+    "title_zh": "纽约尼克斯队在第二场比赛中获胜：赛后对话",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/the-knicks-escape-with-a-game-2-win-a-post-game-conversation",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-06",
+    "summary_en": "This piece dissects the Knicks’ razor‑thin 105‑104 win over the Spurs in Game 2, spotlighting the dramatic fourth‑quarter collapse and the Spurs’ physical surge that almost stole the game. Through a live Substack conversation featuring New Yorker staff, the article examines how veteran experience countered a young Spurs roster, the psychological toll of a near‑miss by Victor Wembanyama, and the broader implications for the series’ momentum at Madison Square Garden. The commentary blends play‑by‑play detail with cultural context—highlighting how New York’s passionate fan base reacts to every heartbeat of the game—while subtly critiquing officiating and coaching decisions. Readers gain a nuanced understanding of clutch basketball dynamics, the importance of veteran composure, and the marketability of high‑stakes matchups in a city that lives for sports. The piece is a compelling case study for sports journalists, marketing strategists, and basketball enthusiasts seeking to decode the interplay between performance, narrative, and fan engagement.",
+    "summary_zh": "文章剖析尼克斯在第二场比赛中险胜马刺的关键时刻，探讨经验与青春的碰撞、关键失误与球迷情绪。通过与《纽约人》作者的对话，细致解读比赛走势、裁判争议及后续影响，为体育记者、市场营销者及球迷提供关于高压比赛与城市情绪共振的深度见解。",
+    "best_quote_en": "‘The Spurs’ collective youth is showing against a more experienced opponent.’",
+    "best_quote_zh": "‘马刺的集体年轻人在更有经验的对手面前显露出来。’"
+  },
+  {
+    "id": 704,
+    "title": "Rocking Speaker/Don’t Work in Bali/Airbnb and Housing",
+    "title_zh": "摇滚音箱/别在巴厘岛工作/Airbnb与住房",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/rocking-speaker-dont-work-in-bali-airbnb-and-housing/",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-04",
+    "summary_en": "This concise newsletter stitches together four distinct yet thematically linked vignettes, each offering a pulse on contemporary lifestyle and policy currents that shape the modern nomad. The first segment celebrates a surprisingly potent portable speaker, the Fender X ROCKSTER Go 2, that defies the usual trade‑offs of size and sound fidelity—an essential read for tech‑savvy travelers seeking uncompromised audio. Next, the author exposes Bali’s draconian new decree that equates any commercial activity abroad with a work visa, a stark warning that even passive livestreaming or sponsorship posts could trigger fines, thereby reshaping the legal landscape for digital nomads. The third piece reports on Thailand’s abrupt reduction of the tourist visa‑on‑arrival window from 60 to 30 days, underscoring the volatile visa climate in popular hubs and urging readers to plan proactively. Finally, a critical analysis of the New York City Airbnb ban and its global parallels dissects why short‑term rental restrictions often backfire, suggesting that sustainable housing solutions hinge on facilitating new construction rather than punitive zoning. Together, these snippets blend practical advice, policy updates, and critical reflection, making the newsletter a compact, high‑value resource for anyone navigating the intersection of travel, technology, and regulation.",
+    "summary_zh": "这份简短的周报将四个看似不相关却都与现代流浪生活息息相关的故事串联起来：一款小巧却强劲的 Fender X ROCKSTER Go 2 音箱，巴厘岛新颁布的“任何商业活动都需工作签证”政策，泰国旅游签证即将缩短至 30 天，以及对纽约 Airbnb 禁令失败的深度剖析。每段都兼具实用建议、政策更新与批判性思考，帮助读者在技术、旅行与法规的交叉点上做出更聪明的决策。",
+    "best_quote_en": "\"The neighbors could hear it and the wife was shouting, 'Turn that down!'\"",
+    "best_quote_zh": "“邻居都能听见，我老婆喊：‘关掉！’”"
   }
 ]
