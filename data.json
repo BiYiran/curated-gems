@@ -1,123 +1,5 @@
 [
   {
-    "id": 605,
-    "title": "Monks Smuggling Weed/Language Books/Abandoned Luggage",
-    "title_zh": "僧侣走私大麻/语言书籍/被遗弃的行李",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/monks-smuggling-weed-language-books-abandoned-luggage/",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-05-14",
-    "summary_en": "The piece stitches together four seemingly disparate yet thematically linked vignettes, each offering a lens into contemporary socio‑economic shifts and personal learning strategies. The first segment exposes the paradox of a world where legal weed is ubiquitous, yet illicit trafficking persists—highlighting loopholes in enforcement and the relentless adaptability of smugglers. The second section turns to language acquisition, championing a “read‑through” approach that values contextual immersion over rote vocabulary drills, and showcases specific resources that scaffold intermediate learners toward fluency. The third bit discusses the growing trend of abandoned luggage, a symptom of fee fatigue in the travel industry, and hints at the broader trend of consumers cutting costs by relinquishing convenience. Finally, the author reflects on the demise of Spirit Airlines, using it as a case study to illustrate how market exits can ripple through pricing structures and consumer choice. Together, the articles prompt readers to question assumptions—about legality, learning, cost‑saving, and market dynamics—while offering actionable insights and real‑world examples that encourage critical thinking and strategic adaptation.",
-    "summary_zh": "文章以四个短篇串联，探讨非法走私与合法大麻共存、语言学习的沉浸式方法、因费用疲劳导致的行李被遗弃现象，以及Spirit航空停运对票价的影响。它让人重新思考法律与灰色地带、学习策略与消费行为的关系，既提供可操作建议，也激发对市场与文化趋势的深入思考。",
-    "best_quote_en": "‘The abandoned luggage issue isn’t just about saving a few bucks on a checked bag, it’s a sign of fee fatigue.’",
-    "best_quote_zh": "‘被遗弃的行李问题不仅仅是为了省几块检查行李费，它是费用疲劳的标志。’"
-  },
-  {
-    "id": 606,
-    "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
-    "title_zh": "Essentials：使用盐来优化心理与身体表现",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-salt-to-optimize-mental-and-physical-performance",
-    "tags": [
-      "guide",
-      "medicine",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2026-03-26",
-    "summary_en": "Dr. Huberman’s episode dissects the nuanced role of sodium in both mental acuity and physical output, offering a blend of neurophysiology, practical dosing tools, and lifestyle integration. He explains how the brain’s sodium sensors orchestrate thirst, fluid equilibrium, and blood pressure, then translates that biology into individualized salt recommendations. By presenting the Galpin Equation for exercise‑related repletion and referencing the unprocessed food diet for long‑term balance, the discussion moves beyond generic “add salt” advice to a data‑driven, actionable framework. The segment also highlights how stress, low carbohydrate intake, and postural syndromes influence sodium needs, positioning salt as a modifiable lever for performance and well‑being. For readers, the episode delivers a clear methodology for assessing personal sodium requirements, coupled with real‑world tools and cautionary notes about over‑consumption. Overall, it exemplifies how deep scientific insight can be distilled into concrete, evidence‑based lifestyle strategies that empower athletes, busy professionals, and health‑conscious listeners alike.",
-    "summary_zh": "Huberman博士剖析钠在脑功能与体能表现中的关键作用，阐述大脑如何监控钠水平并调节渴求与血压。通过Galpin公式与无加工食物饮食等工具，他把复杂的生理学转化为可操作的个人钠摄入方案，帮助听众在运动、压力与低碳水饮食中精准补钠。该内容既具科学深度，又兼具实用性，是提升表现与健康的“钠剂量学”。",
-    "best_quote_en": "\"Your brain has a built‑in sodium sensor that tells you when to drink and when to eat salt, and that sensor is the key to unlocking optimal performance.\"",
-    "best_quote_zh": "“你的大脑内置钠感受器，它会告诉你何时喝水、何时摄入盐，而这个感受器正是解锁最佳表现的关键。”"
-  },
-  {
-    "id": 607,
-    "title": "A snapshot of the photographer Raghu Rai | Brief letters",
-    "title_zh": "拉古·莱摄影师的快照 | 简短信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/may/15/a-snapshot-of-the-photographer-raghu-rai",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "The piece is a mosaic of personal anecdotes that converge on the theme of generosity and the power of direct human connection. Gabrielle Palmer’s story—dialing a renowned photographer from the UK to negotiate a fee waiver—illustrates how a simple conversation can dismantle institutional barriers and reinforce the social value of art. The narrative thread extends into broader social commentaries: a critique of male chauvinism in vasectomy discourse, a resignation strategy against bureaucratic red tape, and a humorous call for leadership resolution through arm wrestling. The article’s tone oscillates between earnest advocacy and light‑hearted satire, yet it consistently underscores the importance of personal agency in effecting change. For readers, it functions as a practical playbook: reach out, negotiate, and leverage goodwill. Academically, it offers a case study on how individual actions can challenge normative structures, providing a micro‑example of grassroots activism in a modern, global context. The story invites reflection on how small, seemingly trivial gestures can ripple into broader societal shifts, reinforcing the idea that advocacy is as much about human relationships as it is about policy.",
-    "summary_zh": "文章聚焦善意与直面沟通的力量，展示如何通过个人举动突破制度壁垒。它兼具实用指导与社会讽刺，启示读者用人际关系推动变革。",
-    "best_quote_en": "He immediately said he would waive the entire fee, adding warmly, ‘and good luck with your noble cause.’",
-    "best_quote_zh": "他立刻说会全额免费，热情地补充道：‘祝你在这崇高事业上好运。’"
-  },
-  {
-    "id": 608,
-    "title": "Maker's Schedule, Manager's Schedule",
-    "title_zh": "Maker's Schedule, Manager's Schedule",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/makersschedule.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-05-16",
-    "summary_en": "This essay unpacks the clash between two time‑keeping paradigms— the manager’s fragmented, hourly agenda versus the maker’s long, uninterrupted blocks—and explains how the tension shapes productivity, morale, and relationships in tech and startup culture. By drawing on personal experience as a venture investor and founder, the author illustrates concrete strategies—office hours, night‑time work, and clear communication—to reconcile these divergent schedules without sacrificing either side’s effectiveness. The piece is a practical guide for leaders, founders, and employees who must navigate a world where speculative meetings and tight deadlines collide with the deep‑work needs of creators. It invites readers to re‑evaluate their own scheduling habits, recognize the hidden costs of mismatched expectations, and adopt a more empathetic, structured approach to collaboration. The underlying insight is that time is not merely a resource but a language that different roles must learn to speak together.",
-    "summary_zh": "作者把经理式短时任务与创作者深度工作区块两种时间观念对照，揭示两者冲突对生产力与情绪的影响，并给出办公小时、夜间工作等实操方案。文章既是对创始人、投资人如何兼顾会议与专注的经验分享，也是对所有在技术与创业生态中调配时间的人的启示。它提醒我们，时间不是单纯的资源，而是沟通的语言，只有通过共识与结构化安排，才能让不同角色的工作节奏和谐共存。",
-    "best_quote_en": "\"A single meeting can sometimes affect a whole day. A meeting commonly blows at least half a day, by breaking up a morning or afternoon.\"",
-    "best_quote_zh": "“一次会议有时会影响整整一天。会议往往会至少打破半天的时间，拆分了上午或下午。”"
-  },
-  {
-    "id": 609,
-    "title": "A Year Late, Claude Finally Beats Pokémon",
-    "title_zh": "",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/sehJYg5Yny9fvpbpt/a-year-late-claude-finally-beats-pokemon",
-    "tags": [
-      "solve",
-      "design",
-      "leadership",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "领导管理",
-      "案例研究"
-    ],
-    "date": "2026-05-16",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 610,
     "title": "What the Gerrymandering Wars Mean for the Midterms—and 2028",
     "title_zh": "党团划分战役对2026年中期选举及2028年的意义",
@@ -2330,5 +2212,121 @@
     "summary_zh": "这份简短的周报将四个看似不相关却都与现代流浪生活息息相关的故事串联起来：一款小巧却强劲的 Fender X ROCKSTER Go 2 音箱，巴厘岛新颁布的“任何商业活动都需工作签证”政策，泰国旅游签证即将缩短至 30 天，以及对纽约 Airbnb 禁令失败的深度剖析。每段都兼具实用建议、政策更新与批判性思考，帮助读者在技术、旅行与法规的交叉点上做出更聪明的决策。",
     "best_quote_en": "\"The neighbors could hear it and the wife was shouting, 'Turn that down!'\"",
     "best_quote_zh": "“邻居都能听见，我老婆喊：‘关掉！’”"
+  },
+  {
+    "id": 705,
+    "title": "How do I know when I’ve hit perimenopause?",
+    "title_zh": "我怎么知道自己进入围绝经期了？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global/2026/jun/07/perimenopause-diagnose-how-to",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-06-07",
+    "summary_en": "Perimenopause, the often‑mysterious bridge to menopause, is marked by irregular cycles, hot flashes, mood swings, and sleep trouble—symptoms that can derail work and relationships. Experts explain that diagnosis is largely clinical, based on age and symptom pattern, because hormone levels fluctuate wildly. Blood tests (estradiol, AMH) can help rule out other conditions like thyroid dysfunction but rarely pinpoint the exact stage of decline. The article argues for proactive engagement: see a menopause‑savvy clinician, consider hormonal or non‑hormonal therapies, and adopt midlife‑friendly habits—sleep hygiene, exercise, smoking cessation, and a fiber‑rich diet. It also warns that under‑prescribing of menopause treatments is common, urging patients to advocate for evidence‑based care. By demystifying the diagnostic process and highlighting actionable steps, the piece empowers women to reclaim agency over their health during a pivotal life transition.",
+    "summary_zh": "围绝经期的症状多变，常导致工作与人际关系受影响。文章指出，诊断主要依赖临床评估，血液检测虽有帮助但并非决定性。强调及时就医、考虑激素或非激素治疗，并养成良好生活习惯。通过澄清诊断流程与可行措施，帮助女性在这一关键人生阶段重获健康主动权。",
+    "best_quote_en": "\"If you’re 49 and you’re telling me you’ve got hot flashes or you’re having these certain changes, I don’t need a blood test to tell you that this is perimenopause,\" Santoro says.",
+    "best_quote_zh": "“如果你49岁，告诉我你有潮热或出现这些变化，我不需要血液检测就能告诉你这就是围绝经期，”桑托罗说。"
+  },
+  {
+    "id": 706,
+    "title": "Why to Start a Startup in a Bad Economy",
+    "title_zh": "为什么在经济低迷时创办初创公司",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/badeconomy.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "The article argues that the timing of an economic downturn is less critical than the quality of the founders. Drawing parallels to Microsoft and Apple, it emphasizes that resilient, resource‑conscious founders can thrive even when capital is scarce. The piece highlights three key insights: first, founders’ characteristics outweigh macroeconomic conditions; second, a lean, low‑cost operating model is a defensive strategy that turns recession into an advantage; third, investors’ contrarian appetite during downturns can be harnessed if founders articulate a clear value proposition. It encourages readers to focus on recruiting the right co‑founder, acting swiftly on concrete ideas, and viewing scarcity as an opportunity to innovate cheaper solutions. The tone blends anecdotal evidence with actionable advice, urging entrepreneurs to treat a recession not as a barrier but as a catalyst for disciplined, value‑driven execution.",
+    "summary_zh": "文中指出，经济低迷并非创业的致命因素，关键在于创始人的素质与团队协作。作者强调三点：创始人特质决定成败；低成本运营是对冲风险的最佳方式；在逆市中，投资者的逆向需求可被利用。文章鼓励创业者聚焦合伙人选择、快速落地想法，并把稀缺视为创新契机。",
+    "best_quote_en": "‘The economy has some effect, certainly, but as a predictor of success it’s rounding error compared to the founders.’",
+    "best_quote_zh": "‘经济确实有影响，但作为成功预测因素，它相较于创始人的影响只是四舍五入的误差。’"
+  },
+  {
+    "id": 707,
+    "title": "Coverage-driven alignment - What ‘Teaching Claude Why’ can borrow from AV verification",
+    "title_zh": "基于覆盖驱动的对齐 - 《教Claude Why》可借鉴AV验证",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/hsrjuzqokvAErvZ2q/coverage-driven-alignment-what-teaching-claude-why-can",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "This article argues that the alignment training strategy pioneered by Anthropic—Teaching Claude Why (TCW)—can be significantly strengthened by borrowing the systematic, coverage‑driven verification (CDV) methodology that autonomous‑vehicle (AV) developers use. The author first sketches how TCW moves the normative burden into pre‑training via next‑token learning on constitutional documents and stories, reducing reliance on reinforcement‑learning shaping. He then explains CDV: defining a coverage map of risk dimensions, iteratively sampling scenarios, evaluating, and fixing gaps, a process that has proven effective for safety‑critical hardware and AVs. By applying CDV principles to alignment, the article suggests a staged loop—create stories for each bucket, evaluate, refine, run long‑horizon RL, re‑evaluate, and decide deployment—while also addressing challenges unique to AI, such as speculative dimension explosion and spec‑bug detection. The piece is rich in pragmatic details (bucket design, scenario generation, check writing), yet also invites debate on incentives and legal liability to enforce rigorous V&V. It blends theoretical insight with actionable engineering guidance, offering a roadmap for researchers and practitioners to make alignment more robust in the long‑horizon RL setting.",
+    "summary_zh": "作者将AV领域的覆盖驱动验证方法应用于AI对齐，提出从覆盖图、情景生成到评估修复的闭环流程，强调在长周期强化学习中系统化验证的必要性，并讨论维度爆炸、规范缺失与激励机制等挑战。",
+    "best_quote_en": "\"Coverage‑driven verification is about efficient risk reduction: maximize risk reduction per human and compute effort, given our current knowledge.\"",
+    "best_quote_zh": "“覆盖驱动的验证是关于高效的风险降低：在我们现有认知下，最大化每一次人力和算力投入的风险降低。”"
+  },
+  {
+    "id": 708,
+    "title": "Andrew Tate’s Empire of Abuse",
+    "title_zh": "Andrew Tate的虐待帝国",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
+    "tags": [
+      "solve",
+      "education",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "This investigative piece exposes how Andrew Tate, a prominent manosphere figure, built an online pornography empire and a political machine by systematically exploiting women. Through the War Room network and Hustlers University, he taught men how to recruit, coerce, and profit from female sex workers, while simultaneously cultivating a far‑right following that amplified misogynistic rhetoric. The article details multiple instances of sexual violence, trafficking, and bribery, as well as the failures of law‑enforcement in both the UK and Romania. It highlights the chilling interplay between internet culture, political influence, and criminal conduct, revealing how an individual can weaponize social media platforms to normalize and monetize violence against women. The piece invites readers to critically examine the ethical implications of charismatic leadership, the exploitation of vulnerable populations, and the systemic obstacles that allow such abuse to persist. It concludes by questioning the efficacy of current justice mechanisms and the responsibility of digital platforms to curb extremist propaganda.",
+    "summary_zh": "文章透视Andrew Tate如何利用社交媒体、色情产业与极右政治，系统性剥削女性，暴露网络暴力与司法失职的深层危机。",
+    "best_quote_en": "\"I’ve done this with over 100 girls. I almost sound evil. But I’m not.\"",
+    "best_quote_zh": "\"我已经让100多名女孩受害。我几乎听起来像个邪恶的人，但我不是。\""
+  },
+  {
+    "id": 709,
+    "title": "At‑home writing retreat / Surprising podcasts / Tiny camera",
+    "title_zh": "At‑home writing retreat / Surprising podcasts / Tiny camera",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/at%e2%80%91home-writing-retreat-surprising-podcasts-tiny-camera/",
+    "tags": [
+      "inspire",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-06-07",
+    "summary_en": "This eclectic piece weaves together practical life hacks, creative inspiration, and cultural commentary, offering readers a palette of actionable insights and reflective musings. The author’s at‑home writing retreat demonstrates how deliberate rhythm disruption—time‑blocking, movement, and mindful breaks—can transform a lazy Saturday into a productive, mentally refreshing day, a lesson that resonates with anyone seeking to optimize personal workflows. The brief dive into the Kodak Charmera, a miniature retro camera, juxtaposes nostalgia with modern pragmatism, highlighting the appeal of tactile, low‑fidelity photography for both children and adult hobbyists, while also reminding us of the hidden costs (microSD cards) that can undermine the experience. The podcast curation showcases how contemporary media can surprise and educate, underscoring the value of diverse formats—interviews, scripted narratives, and investigative journalism—in enriching our understanding of dynamic governance and liberalism. The mention of disposable baby bibs and the private visual universe, Cosmos, rounds out the theme of seeking simplicity and focused creativity in everyday tools. Overall, the article invites readers to experiment with intentional habits, embrace retro aesthetics, and curate diverse knowledge streams, fostering a holistic approach to learning and living.",
+    "summary_zh": "作者以日常小技巧串联创意与实用，揭示写作节奏、复古摄影与新媒体的交融，提示我们在平凡中寻找高效与灵感。",
+    "best_quote_en": "\"I copied this essay’s idea of an at‑home writing retreat by creating a loose schedule of deep‑work, time‑blocked writing between breaks for reading, meditating, walking my dog, lunch, and body care.\"",
+    "best_quote_zh": "\"我把这篇文章的在家写作静修理念搬到现实里，制定了一个松散的深度工作时间表，在阅读、冥想、遛狗、午餐和身体护理之间留出分隔。\""
   }
 ]
