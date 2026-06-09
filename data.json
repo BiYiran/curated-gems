@@ -1,119 +1,5 @@
 [
   {
-    "id": 610,
-    "title": "What the Gerrymandering Wars Mean for the Midterms—and 2028",
-    "title_zh": "党团划分战役对2026年中期选举及2028年的意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/what-the-gerrymandering-wars-mean-for-the-midterms-and-2028",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "Nate Cohn’s interview with Isaac Chotiner dissects how the latest Supreme Court ruling on the Voting Rights Act and aggressive Republican redistricting are reshaping congressional maps, tipping the balance toward the GOP. The piece evaluates concrete state-by-state moves—Texas, North Carolina, Florida, South Carolina, Alabama, Louisiana—and the counter‑offensive potential of Democratic states such as California and New York. Cohn argues that while Democrats can theoretically engineer more favorable districts, constitutional hurdles and the risk of over‑aggressive gerrymandering limit their reach. The analysis highlights the strategic calculus both parties face: Republicans may gain seats now but risk backlash if they overreach; Democrats must decide whether to match or resist. The article invites readers to consider the long‑term implications for 2028 and beyond, framing redistricting not just as a legal battle but a structural election‑engineering game that could redefine U.S. representation.",
-    "summary_zh": "本篇通过Nate Cohn与Isaac Chotiner的访谈，剖析最高法院对投票权法的裁决与共和党红区划争议如何改变国会地图，倾斜向共和党。文章评估各州行动、民主党对策与宪法障碍，强调两党在2028年前的战略抉择，提醒读者红区划不仅是法律争议，更是影响选举结构的关键博弈。",
-    "best_quote_en": "The advantage that Republicans might hope to obtain by this November could, hypothetically, grow even more if the Democrats did nothing before 2028.",
-    "best_quote_zh": "共和党如果在2028年前不采取行动，他们在十一月可能获得的优势，甚至有可能进一步扩大。"
-  },
-  {
-    "id": 611,
-    "title": "Book Freak #209: Science and Sanity",
-    "title_zh": "Book Freak #209：科学与理智",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-209-science-and-sanity/",
-    "tags": [
-      "update",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "The essay \"Science and Sanity\" distills a profound critique of human cognition: our language, beliefs, and mental models are mere maps that never fully capture reality. By foregrounding the distinction between the map and the territory, the author exposes how the habitual use of static labels—especially the verb \"is\"—locks us into false certainties. The piece argues that true freedom arises when we recognize the symbolic power that shapes perception and remain open to revising our mental maps. The actionable exercises encourage readers to question habitual phrasing, identify rigid beliefs, and add qualifiers that maintain flexibility. The text is both a philosophical treatise and a practical guide, offering a middle path between blind belief and cynical doubt. Its relevance spans cognitive science, communication, and personal development, urging readers to adopt a reflective, adaptable mindset in a world of ever‑changing truths.",
-    "summary_zh": "文章以“地图不等于领土”为核心，批判人类语言与信念的固化，强调用“是”定义事物会误导认知。它提倡在认知与现实间保持弹性，提供可操作练习，帮助读者识别并修正僵化思维。此文既是哲学论述，也是一份实用指南，适合关注认知科学、沟通与自我提升的读者。",
-    "best_quote_en": "There are two ways to slide easily through life: to believe everything or to doubt everything. Both ways save us from thinking.",
-    "best_quote_zh": "人生轻松滑行的两条路：相信一切或怀疑一切。两者都让我们免于思考。"
-  },
-  {
-    "id": 612,
-    "title": "‘Super-glamorous’: older women in the spotlight at Cannes film festival",
-    "title_zh": "‘Super-glamorous’：80+岁女星在戛纳红毯的光芒",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/may/15/older-women-spotlight-cannes-film-festival-red-carpet-diversity",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-05-15",
-    "summary_en": "The 2026 Cannes Film Festival signals a subtle yet profound shift in the cultural narrative surrounding age, gender, and visibility. Older women—Joan Collins at 92, Jane Fonda at 88, Catherine Deneuve at 82—steered the spotlight, proving that glamour is not the exclusive domain of youth. The article juxtaposes the glittering fashion statements of these icons with academic commentary on the grey pound’s economic heft and the increasing consumer influence of an ageing demographic. It interrogates the paradox that older women can be celebrated only if they look youthful, and it underscores the persistent lack of racial and body diversity even as age inclusivity grows. The piece blends anecdotal evidence, industry data, and expert insight, inviting readers to reconsider entrenched beauty norms while highlighting the commercial and cultural imperative to broaden representation. Its implications resonate beyond cinema: they touch on marketing, media, and societal attitudes toward ageing, urging a more inclusive, nuanced celebration of maturity.",
-    "summary_zh": "戛纳红毯上80+岁女星的光芒，揭示年龄与时尚的悖论。它让我们重新审视美的标准与消费力，呼唤更包容的文化叙事。",
-    "best_quote_en": "The whole point of the red carpet is ‘I want the spotlight on me. Look at me.’",
-    "best_quote_zh": "红毯的意义在于‘我要成为焦点，看看我’。"
-  },
-  {
-    "id": 613,
-    "title": "A Local Revolution?",
-    "title_zh": "A Local Revolution?",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/revolution.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-05-17",
-    "summary_en": "The essay probes whether the startup wave represents a new industrial epoch and why its diffusion might remain geographically constrained. By juxtaposing the spread of steam engines with that of modern tech ventures, the author argues that startups are both a novel economic phase and a culturally localized phenomenon that thrives only in fertile hubs. He critiques the myth that policy or market forces can replicate Silicon Valley, pointing out the role of chance, founder migration, and institutional ecosystems. The piece blends historical analogy, anecdotal evidence, and speculative modeling to highlight that startup hubs may consolidate rather than disperse, making the contemporary revolution unusually “local.” It invites readers to rethink the narrative of a universal tech boom, emphasizing the need for nuanced, data‑driven insight into how innovation clusters form and persist.",
-    "summary_zh": "作者将创业浪潮与蒸汽时代对比，指出创业是新经济阶段，却易受地理与文化限制，难以像工业革命那样广泛扩散。通过探讨硅谷形成的偶然性与生态系统，挑战政府与市场能否复制创业中心的假设，提醒我们对技术浪潮的“全球化”预期保持审慎。",
-    "best_quote_en": "The most likely scenario is (1) that no government will successfully establish a startup hub, and (2) that the spread of startup culture will thus be driven by the random factors that have driven it so far, but (3) that these factors will be increasingly outweighed by the pull of existing startup hubs.",
-    "best_quote_zh": "硅谷之所以存在，是因为威廉·肖克利想搬回帕洛阿尔托，随后他招揽的专家们也决定留在此地，形成了自我强化的创新生态。"
-  },
-  {
-    "id": 614,
-    "title": "The Pageantry and Flattery of Donald Trump’s Visit to China",
-    "title_zh": "特朗普访华的盛典与奉承",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-pageantry-and-flattery-of-donald-trumps-visit-to-china",
-    "tags": [
-      "analyze",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-05-16",
-    "summary_en": "The article dissects President Donald Trump’s 2026 visit to China, framing it as a continuation of the Nixon era’s spectacle‑driven diplomacy. While Trump’s entourage emphasizes trade deals—aircraft, chips, soybeans—the narrative reveals a deeper, almost performative exchange of power and image. Trump’s admiration for Xi’s ceremonial grandeur and his recurring emphasis on “respect” mask a series of strategic missteps: a stalled Iran‑strait agenda, minimal engagement on Taiwan, and a glaring lack of concrete commitments from China. The piece juxtaposes the U.S. hawkish posture with China’s calculated flattery, underscoring how both sides utilize pageantry to influence domestic audiences rather than forge substantive policy. The piece invites readers to question the efficacy of spectacle‑based diplomacy and recognize the underlying asymmetries in U.S.–China relations, particularly the U.S.’s failure to leverage Chinese influence on Iran and the continued ambiguity over Taiwan. Through this lens, the article serves as a cautionary case study on how diplomatic theatrics can distract from pressing geopolitical challenges and perpetuate a status quo that benefits neither side fully.",
-    "summary_zh": "特朗普访华像一场光鲜的盛典，实则是一次形象与权力的互惠演绎。文章把这次访问放在尼克松时代的华丽外交传统中，揭示美国在贸易和形象上求得短期收获，却未能在伊朗和台湾问题上取得实质进展。通过对双方表演式互动的剖析，提醒读者：外交的光鲜外衣往往掩盖了深层的战略失衡与空洞的承诺。",
-    "best_quote_en": "\"The two countries’ leaders both have smiles on their faces,\" a scholar noted, a thin veneer over a negotiation where neither side committed to hard policy shifts.",
-    "best_quote_zh": "“两国领导人都面带笑容”，一位学者指出，这句话掩盖了双方在谈判中未作实质性承诺的现实。"
-  },
-  {
     "id": 615,
     "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
     "title_zh": "最佳活力与健康方案 | Rhonda Patrick博士",
@@ -2328,5 +2214,125 @@
     "summary_zh": "作者以日常小技巧串联创意与实用，揭示写作节奏、复古摄影与新媒体的交融，提示我们在平凡中寻找高效与灵感。",
     "best_quote_en": "\"I copied this essay’s idea of an at‑home writing retreat by creating a loose schedule of deep‑work, time‑blocked writing between breaks for reading, meditating, walking my dog, lunch, and body care.\"",
     "best_quote_zh": "\"我把这篇文章的在家写作静修理念搬到现实里，制定了一个松散的深度工作时间表，在阅读、冥想、遛狗、午餐和身体护理之间留出分隔。\""
+  },
+  {
+    "id": 710,
+    "title": "A mother’s work has enormous value | Letter",
+    "title_zh": "母亲的工作具有巨大价值 | 信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/jun/08/a-mothers-work-has-enormous-value",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "Polly Creed’s letter confronts a disparaging remark that undervalues maternal labor, reminding readers that unpaid caregiving—especially by women—constitutes a hidden yet vital economic engine. Drawing on UK statistics that attribute over £1 trillion to women’s unpaid work, Creed frames domestic care as a uniquely human activity that AI cannot replace. The piece urges a cultural shift: to recognize and honor the invisible labor that sustains families, communities, and the national economy. It challenges the reader to rethink how society measures worth, urging that the value of a mother’s work is not a privilege but a fundamental human contribution. This reflection blends data, feminist perspective, and practical insight, offering both a critique of patriarchal undervaluation and a hopeful vision that the AI era might finally bring deserved recognition to caregiving.\n",
+    "summary_zh": "Polly Creed用一封信抨击贬低母亲劳动的言论，指出女性承担的无偿照料工作不仅是社会基石，也是经济巨量。引用英国统计显示，女性无偿劳动价值逾1万亿英镑，凸显护理的独特人性。作者呼吁重新评估价值观，赋予母亲工作应有的尊重与认可，或许在人工智能时代{这份工作}将获得应有的关注与回报。此文兼具美幖砽縘扎苓...请阅读完整文章以获得完整见解。\n",
+    "best_quote_en": "\"Perhaps one positive outcome of the AI revolution might be that we value this invisible, vital work more – that we understand that it has value precisely because your mum does it.\" \n",
+    "best_quote_zh": "\"也许人工智能革命的一个积极结果是我们会更重视这份看不见、至关重要的工作——因为正是因为你妈妈在做这件事，它才有价值。\" \n"
+  },
+  {
+    "id": 711,
+    "title": "A Fundraising Survival Guide",
+    "title_zh": "融资生存指南",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fundraising.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-06-09",
+    "summary_en": "Sam Altman’s 2008 essay is a candid, data‑rich manual for founders wrestling with the brutal reality of venture capital. He reframes fundraising as a survival skill, exposing the market’s inefficiencies, the volatility of investor sentiment, and the psychological toll on founders. Altman offers concrete tactics—low expectations, continuous product momentum, conservative deal sizing, and meticulous data collection—to mitigate morale loss and keep a startup moving. His comparison of bootstrapping versus raising capital, the critique of novice investors, and the emphasis on being ramen‑profitable illustrate a pragmatic, risk‑aware mindset. The piece is both a warning and a playbook, urging founders to treat fundraising as a threat while remaining focused on product excellence. It bridges theory and practice with real anecdotes (Viaweb, Delicious) and statistical insights, making it an indispensable, action‑oriented resource for early‑stage entrepreneurs.",
+    "summary_zh": "阿尔特曼2008年的随笔把融资当成一门生存技巧，揭示市场低效、投资者情绪波动与创始人心理压力。他用实测数据与案例阐述低期望、持续产品进展、保守估值等策略，帮助创始人把融资痛苦降到最低。通过对自筹与外投、经验不足投资者、营运盈亏阈值的讨论，作者呈现了一套既理性又可操作的融资指南，既是警示也是实操手册，适合所有创业者。",
+    "best_quote_en": "Raising money is brutal. The hardest part is making something people want. The second hardest part is raising money.",
+    "best_quote_zh": "筹资是残酷的。最难的部分是让人们想要的东西，第二难的是筹集资金。"
+  },
+  {
+    "id": 712,
+    "title": "LLMs and almost good code",
+    "title_zh": "LLM与几乎完美的代码",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CMHRjrue4mnGnssc6/llms-and-almost-good-code",
+    "tags": [
+      "solve",
+      "programming",
+      "startup-strategy",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "创业策略",
+      "新手友好"
+    ],
+    "date": "2026-06-09",
+    "summary_en": "The article probes a subtle yet pervasive issue: large language models (LLMs) routinely generate code that is functionally correct but systematically more complex than necessary. Through a concrete plumbing example—converting arbitrary strings into safe HTTP header values—the author illustrates how a 24‑line LLM‑generated function, though passing all edge‑case tests, contains superfluous branches and redundant logic. The subsequent refactor trims the code to 15 lines, cutting complexity by about 8 %. This seemingly modest difference sparks a cascade of questions about long‑term maintainability, automated testing, and the tacit tolerance for “good enough” code in fast‑paced engineering environments. The piece blends anecdotal insight with a broader critique of our reliance on code‑generation tools, urging developers to scrutinize local complexity and not simply accept the first working solution. It underscores the tension between speed and quality, and the need for clearer guidelines on when to accept or refactor LLM output. Ultimately, the article serves as a cautionary reminder that the convenience of AI‑generated code can mask hidden costs that accumulate over time.",
+    "summary_zh": "作者用一个HTTP头值生成示例，揭示LLM输出的代码往往功能完整，却比必要更复杂。通过对比24行与15行的实现，说明即使通过测试，冗余逻辑也会被接受，长期堆积可能影响维护。文章提醒开发者在快节奏中别轻易接受“已工作”的代码，需关注局部复杂度与自动化测试的缺口。",
+    "best_quote_en": "“I accepted and was about to ship code that was 8 % too complex. It was only by chance I looked into it more deeply and realised the problems with it.”",
+    "best_quote_zh": "“我接受了，正准备提交8 %过度复杂的代码。仅仅是偶然深入查看，才意识到其中的问题。”"
+  },
+  {
+    "id": 713,
+    "title": "Has Nancy Mace’s Crusade Against Sexual Violence Ruined Her Career?",
+    "title_zh": "南卡罗来纳州议员南希·梅斯的反性暴力运动是否毁了她的政治生涯？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/has-nancy-maces-crusade-against-sexual-violence-ruined-her-career",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2026-06-09",
+    "summary_en": "Nancy Mace’s public crusade against sexual violence, paired with a series of highly controversial personal and political actions, offers a rare case study in the intersection of personal trauma, partisan strategy, and media spectacle. The article traces her rapid rise—from a rising GOP star to a Trump‑aligned firebrand—through a series of increasingly polarizing incidents, including alleged defamation by an ex‑fiancé, incendiary floor speeches, and a public feud with fellow Republicans over sexual misconduct. It scrutinizes how Mace’s attempts to empower women have been undermined by her own questionable conduct, shifting stances on LGBTQ rights, and the perception that her feminist rhetoric is a political tool rather than a genuine commitment. The piece interrogates the broader implications for the #MeToo movement within a hyper‑partisan environment, questioning whether personal narratives can coexist with political ambition or whether they inevitably become ammunition for opponents. It invites readers to consider how media framing, intra‑party dynamics, and legal battles shape a public figure’s legacy in contemporary American politics.\n",
+    "summary_zh": "南希·梅斯将个人创伤与党内斗争混为一体，成为政治与媒体交锋的焦点。她从新星议员到“女权火焰”，举棋不定的立场与争议行为让人质疑其真诚度。文章剖析她的反性暴力运动如何被党内外利用，探讨#MeToo在极化政治中的地位，以及个人叙事在权力游戏中的局限。",
+    "best_quote_en": "‘It’s very clear that that was the breaking point for me.’",
+    "best_quote_zh": "‘这显然是我的分水岭。’"
+  },
+  {
+    "id": 714,
+    "title": "Handy Stuff",
+    "title_zh": "Handy Stuff",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/handy-stuff/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "The article showcases a curated selection of practical tools that embody ingenuity and everyday problem‑solving. Each item—from the Tube Wringer that extracts every last droplet from a tube, to the Wobble Wedge that stabilizes wobbly surfaces, and the Touch n’ Hold door closer that turns a mundane door‑closing ritual into a gentle touch—reveals how simple design can dramatically improve routine efficiency. The author’s narrative style, peppered with first‑hand anecdotes, invites readers to visualise the mundane transformed into a moment of delight and convenience. The piece implicitly argues that innovation need not be high‑tech; often the most valuable solutions are inexpensive, durable, and immediately actionable. By highlighting a range of tools across different contexts, the writer encourages a mindset of curiosity and resourcefulness, inspiring readers to hunt for everyday “gold.”",
+    "summary_zh": "文章汇集了日常实用工具，展示了简单设计如何提升生活效率。每件物品都通过亲身体验，凸显低成本、耐用、易用的创新价值，鼓励读者在日常中寻找小确幸，体现了实用主义与创新精神的结合。",
+    "best_quote_en": "“The Tube-Wringer efficiently squeezes the contents from tubes of caulk, glue, medical compounds, adhesives, and toothpaste.”",
+    "best_quote_zh": "“The Tube-Wringer efficiently squeezes the contents from tubes of caulk, glue, medical compounds, adhesives, and toothpaste.”"
   }
 ]
