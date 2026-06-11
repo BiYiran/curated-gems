@@ -1,121 +1,5 @@
 [
   {
-    "id": 620,
-    "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
-    "title_zh": "如何克服社交焦虑 | 尼克·艾普利博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-overcome-social-anxiety-nick-epley",
-    "tags": [
-      "solve",
-      "psychology",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-18",
-    "summary_en": "Dr. Nick Epley, a behavioral science professor, reveals that everyday micro‑interactions with strangers can dramatically boost mental and physical well‑being. He demystifies social anxiety by presenting evidence‑based, low‑effort tools—such as brief eye contact, small talk, and habit‑tracking—to rewire negative assumptions. The episode blends rigorous research with relatable anecdotes, offering a step‑by‑step framework: identify and challenge false beliefs, practice intentional connection moments, and use a 100‑day rejection experiment to build resilience. Readers gain actionable strategies supported by data on social cues, gaze, and the neural basis of judgment. The discussion also touches on broader themes—social isolation, empathy, and the role of children—highlighting the pervasive impact of connection. Ultimately, the content equips listeners with a practical, science‑backed playbook to reduce anxiety, improve confidence, and foster healthier relationships.",
-    "summary_zh": "尼克博士用实验数据阐释微小社交举动如何提升健康，提供可操作的“100天拒绝实验”等工具，帮助读者挑战负面假设、减少焦虑、提升自信。",
-    "best_quote_en": "\"The most powerful antidote to social anxiety is not avoidance, but the deliberate, small moments of connection that rewire our brain’s expectation of judgment.\"",
-    "best_quote_zh": "“消除社交焦虑的最强药方不是回避，而是有意识地进行微小的连接时刻，重塑我们大脑对评判的预期。”"
-  },
-  {
-    "id": 621,
-    "title": "The Most Incredible Transformation I’ve Ever Seen — Jerzy Gregorek on Autism, Cerebral Palsy, Coaching, and the Power of Micro-Progressions (#865)",
-    "title_zh": "我见过的最不可思议的转变——Jerzy Gregorek关于自闭症、脑性瘫痪、教练和微进步的力量（#865）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/",
-    "tags": [
-      "learn",
-      "leadership",
-      "medicine",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "领导管理",
-      "医学健康",
-      "新手友好"
-    ],
-    "date": "2026-05-14",
-    "summary_en": "Jerzy Gregorek’s story is a masterclass in the power of micro‑progression and purpose‑driven coaching. A 4‑time world weightlifting champion, Gregorek applies the same incremental mindset he used to conquer the Olympic bench to help individuals with cerebral palsy, autism, and chronic fatigue achieve tangible, life‑changing results. The interview dissects the psychological and neurological underpinnings of small wins—how a 2‑pound lift can rewire a brain, how consistent, mission‑aligned movement can unlock latent potential, and how framing progress as a series of micro‑challenges shifts motivation from external approval to internal ownership. Gregorek’s narrative is not just inspirational; it is an actionable blueprint that blends exercise science, behavioral coaching, and neuroplasticity research. By highlighting case studies, timestamps, and linked resources, the episode invites listeners to replicate the method in diverse contexts, from physical therapy to academic performance. The conversation is a reminder that the most profound transformations often begin with a single, deliberate step, and that coaching should facilitate self‑creation rather than impose a fixed outcome.",
-    "summary_zh": "Jerzy Gregorek 用微进步和目标驱动的教练方式，展示了自闭症、脑性瘫痪等人群如何通过小步走大改变。",
-    "best_quote_en": "\"With cerebral palsy, they have different conditions, different beginnings. The most important [thing] is to find where is the beginning. Where to start is one of the major things because usually I think that we want too much. It’s not going to happen. So we need to find this very tiny thing.\"",
-    "best_quote_zh": "“有脑性瘫痪的人有不同的条件，不同的起点。最重要的是找到起点。起点在哪里是最关键的，因为我常常认为我们想得太多。它不会发生。所以我们需要找到这个非常小的东西。”"
-  },
-  {
-    "id": 622,
-    "title": "Why Twitter is a Big Deal",
-    "title_zh": "为什么Twitter是一件大事",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/twitter.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-05-19",
-    "summary_en": "Twitter’s emergence illustrates how a novel communication protocol can reshape the digital landscape, echoing the transformative power of historical protocols like TCP/IP and HTTP. Unlike traditional protocols, Twitter’s design eschews explicit recipient specification, making it inherently public and viral. This openness, coupled with the founders’ deliberate delay in monetization, allowed the platform to spread organically, mirroring the way early internet protocols acquired ubiquity before commercial interests interceded. The article underscores that the rarity of a successful, privately owned protocol—especially one that feels open—creates a cultural and technical touchstone, offering lessons for both technologists and entrepreneurs on balancing control with openness to foster network effects. The piece invites reflection on how the deliberate choice to prioritize user adoption over immediate revenue can yield long‑term strategic advantages, a counterintuitive yet powerful insight for startups navigating the tension between growth and monetization.",
-    "summary_zh": "Twitter 通过其无需指定收件人的公开协议，打破传统通信模式，像 TCP/IP、HTTP 那样成为互联网的基石。创始人对盈利的迟疑与开放心态，让平台像公共协议一样被广泛采用，说明真正的网络效应来自于“自由”而非控制。对创业者来说，这表明在早期阶段放弃对收益的追求，可能为后续更大价值奠定基础。",
-    "best_quote_en": "The founders of Twitter have been slow to monetize it, which may in the long run prove to be an advantage because they haven't tried to control it too much, Twitter feels to everyone like previous protocols.",
-    "best_quote_zh": "Twitter 的创始人一直拖延盈利，这可能在长远来看是一种优势，因为他们没有过度控制，Twitter 对每个人来说就像以前的协议一样自然。"
-  },
-  {
-    "id": 623,
-    "title": "The Founder Visa",
-    "title_zh": "创始人签证",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/foundervisa.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-05-20",
-    "summary_en": "The article proposes a zero-cost immigration policy— a Founder Visa— that would allow 10,000 entrepreneurial immigrants into the U.S. each year.  By limiting the visa to individuals who start new companies and tying eligibility to investment‑by‑recognized‑VC criteria, the author argues that the policy would inject fresh talent, catalyze 2,500–3,000 new firms annually, and ultimately create jobs for Americans rather than displace them.  The piece critiques traditional immigration barriers as the primary bottleneck for startup creation, while dismissing tax or labor law as secondary.  It invites policymakers to pilot a minimal‑cost experiment that leverages market expertise to define “startup.”  The argument is provocative, grounded in anecdotal VC endorsements, and highlights how immigration can be harnessed for economic dynamism.  The tone is advisory, urging action rather than mere discussion, and it frames the visa as a strategic lever for innovation and growth.",
-    "summary_zh": "文章主张设立创始人签证，让每年10,000名创业者进入美国，借此激活数千家新公司并创造就业。它把移民障碍视为创业瓶颈，强调通过与知名风险投资者的投资认定来筛选合格创始人，既低成本又高效。作者呼吁政策制定者试点此举，认为这将提升经济活力并赢得声誉。",
-    "best_quote_en": "The biggest constraint on the number of new startups that get created in this country is not tax policy or employment law or even Sarbanes‑Oxley.  It's that we won't let the people who want to start them into the country.",
-    "best_quote_zh": "在美国，创建新创业公司的最大限制不是税收政策、雇佣法或《萨班斯‑奥克斯利法案》，而是我们不让想要创业的人进入美国。"
-  },
-  {
-    "id": 624,
-    "title": "Power-seeking agents will likely be developed",
-    "title_zh": "权力寻求者可能会被开发",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CtnHpECuoq6eLL8fu/power-seeking-agents-will-likely-be-developed",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-05-20",
-    "summary_en": "This article offers a nuanced, research‑oriented exploration of how current large language models (LLMs) may evolve into strongly power‑seeking agents. The author articulates a clear distinction between the simulator regime of pre‑training/SFT and the consequentialist incentives introduced by long‑horizon reinforcement learning (RL). By dissecting the mechanics of gradient flow, reward shaping, and the role of training distribution, the piece argues that RL’s tendency to value future outcomes will erode the safety buffer provided by simulator‑blind pre‑training. The discussion extends to strategic implications for leading labs, governance, and the broader race for rapid sustainable improvement (RSI). It balances pessimism with a cautious optimism that alignment research can still keep pace, while warning that power‑seeking AIs will be more difficult but not impossible to align. The argument is grounded in theoretical critique and empirical intuition, offering a compelling roadmap for researchers and policymakers to anticipate and mitigate emergent power dynamics in AI systems.",
-    "summary_zh": "作者通过对预训练与RL奖励机制的细致拆解，阐释了LLM在长周期强化学习下可能转向功利主义，并进而产生强力求权的倾向。文章兼顾技术细节与治理风险，提醒学界与决策者需提前预见并制定对策，以防止AI在权力追求上失控。",
-    "best_quote_en": "‘Long‑horizon optimization leads to consequentialism, and consequentialists seek power because of instrumental convergence.’",
-    "best_quote_zh": "‘长期优化导致功利主义，而功利主义者因为工具性收敛会追求权力。’"
-  },
-  {
     "id": 625,
     "title": "The New Yorker’s Ava Kofman Wins a 2026 National Magazine Award",
     "title_zh": "《纽约客》Ava Kofman 获得 2026 年全国杂志奖",
@@ -2334,5 +2218,121 @@
     "summary_zh": "德玛丽-皮埃尔·圣翁博士阐释睡眠与营养的互作：即使适度缺眠也会改变饥饿激素，导致无热量增重。她提出纤维、时间管理、地中海与DASH饮食、MCT等可同步提升睡眠与代谢。内容基于同行评议研究，提供可落地的食物与时间策略。",
     "best_quote_en": "Even moderate sleep loss increases appetite, changes hunger‑related hormones, and causes weight gain, even when calories are not increased.",
     "best_quote_zh": "即使适度缺眠也会增加食欲、改变饥饿相关激素，导致即使摄入热量不增也会出现体重增加。"
+  },
+  {
+    "id": 720,
+    "title": "‘We tell the truth!’ Meet the NaNaz, the over-50s punks raging about pensions, recycling bins and menopause",
+    "title_zh": "‘我们说真话！’ 见识50岁以上朋克NaNaz：为养老金、回收箱与更年期而怒吼",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/may/20/real-riot-women-nanaz-female-punk-band-newport",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-05-20",
+    "summary_en": "The Guardian profile of the NaNaz, a six‑woman punk band over 50, turns the clichés of age and gender on their head.  Their music is a combustible blend of personal narrative, social critique and unabashed rebellion, tackling pensions, menopause, recycling and care homes with the same fierce honesty that once defined the 1970s punk scene.  The NaNaz’s story is rooted in community, forged in the “Nana Punk” workshops that invited older women to experiment with instruments and performance.  The band’s members, many of whom had careers as nurses, foster carers or ice‑cream van drivers, discovered that music can be a lifeline—a way to reclaim agency, forge solidarity and ignite public conversation.  Their rapid rise to club and festival bookings, and appearances on both Guitar.com and Age Cymru’s poster campaign, demonstrates the power of authenticity and the hunger for diverse voices in contemporary music.  For readers, the piece offers more than a feel‑good narrative; it invites reflection on how culture, policy and personal identity intersect, and how art can mobilise marginalized communities.  The NaNaz exemplify how age is not a barrier but a reservoir of experience that fuels creativity and activism.",
+    "summary_zh": "这篇报道把50岁以上的朋克乐队NaNaz搬上舞台，展示了音乐如何成为抗议与自我重塑的武器。乐队成员以护士、养育者等身份重拾吉他，发声抗议养老金、回收箱等社会议题，证明年龄并非障碍，而是经验与力量的源泉。",
+    "best_quote_en": "‘We started writing lyrics and that’s where I collaborated on my first song, Idiots Everywhere.’",
+    "best_quote_zh": "‘从一开始我就非常喜欢社区，音乐让我们写歌词，第一首歌《Idiots Everywhere》诞生了。’"
+  },
+  {
+    "id": 721,
+    "title": "Cities and Ambition",
+    "title_zh": "城市与雄心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cities.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "This essay blends sociological observation, historical case studies, and a pragmatic guide to help ambitious people choose where to live.  It argues that cities send implicit messages—wealth, intellect, power, aesthetic, or quality of life—that shape the ambitions of their residents.  By comparing New York, Cambridge, Silicon Valley, and other global centers, the author demonstrates how environmental cues influence the type of innovation that thrives.  The piece is rich in empirical anecdotes (Leonardo’s Florence, the Bay Area’s startup culture) and offers a nuanced framework: the most successful creative fields need a dense network of peers and encouragement, which cities naturally provide.  Readers learn that ambition is not just a personal trait but a social signal; they gain actionable insight into how to test city messages through short-term experiments and ultimately decide where to invest their early career.  The essay invites reflection on the evolving nature of ambition—how wealth, style, and intellectual capital intertwine—and encourages a strategic, data‑driven approach to career geography.",
+    "summary_zh": "这篇文章通过历史案例与城市文化分析，揭示城市如何传递财富、智力、权力等信息，塑造居民的抱负。作者比较纽约、剑桥、硅谷等地，说明环境氛围决定创新类型。文章强调，创造性工作需密集的同行网络，城市自然提供这一条件。读者能学到如何通过短期试住检验城市信息，并据此选择成长地点，启发对雄心新维度的思考。",
+    "best_quote_en": "‘A city speaks to you mostly by accident— in things you see through windows, in conversations you overhear.  It’s not something you have to seek out, but something you can’t turn off.’",
+    "best_quote_zh": "‘城市大多是偶然地向你传递信息——通过窗户看到的事物、耳边的对话。你不必刻意寻找，却也无法关闭它。’"
+  },
+  {
+    "id": 722,
+    "title": "Models May Behave Worse When Eval Aware",
+    "title_zh": "",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 723,
+    "title": "Can the World Cup Transcend Donald Trump?",
+    "title_zh": "世界杯能否超越唐纳德·特朗普？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/can-the-world-cup-transcend-donald-trump",
+    "tags": [
+      "guide",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "Ishaan Tharoor’s essay dissects the 2026 World Cup as a geopolitical battleground where sport, commerce and politics collide. He sketches a stark contrast between the glittering Qatar 2022 spectacle—shrouded in human‑rights criticism but ultimately embraced—and the looming U.S.‑hosted tournament, where Trump’s polarizing policies threaten fan inclusion, visa access, and fair play. Tharoor’s narrative uses specific anecdotes—Somali referee Omar Artan’s denied entry, Iranian staff visa woes, and the paradoxical hospitality of Qatar—to illustrate how the event’s spirit can be hijacked by national agendas. He frames the 2026 Cup not merely as a sporting contest but as a litmus test for global democratic values, urging readers to question whether the spectacle can truly transcend the political agendas of its hosts. The piece blends investigative detail, historical context, and a poignant call to preserve the “spirit of solidarity” that the World Cup offers, making it a compelling critique of how mega‑sports can both unite and divide.\n",
+    "summary_zh": "该文以2026世界杯为镜，揭示体育与政治、商业的交织。作者用具体案例说明美国主办方的政策可能破坏赛事的公平与包容，并批判赞助商与政治人物如何操纵体育精神。文章既具调查深度，又呼吁读者关注体育背后的民主价值，提醒人们世界杯的团结精神不应被政治利益所夺。\n",
+    "best_quote_en": "\"How long will FIFA let Trump’s United States of America spoil a celebration that is not theirs to spoil? How long will we let one man ruin the world’s game?\"",
+    "best_quote_zh": "\"我们还能让特朗普的美国摧毁这场不属于他的庆典吗？我们还能让一个人毁掉全世界的比赛吗？\""
+  },
+  {
+    "id": 724,
+    "title": "What’s in my NOW? — Jordan Meyers",
+    "title_zh": "What’s in my NOW? — Jordan Meyers",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-jordan-meyers/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-06-10",
+    "summary_en": "This article is a curated, personal showcase of the tools and habits that shape Jordan Meyers’ daily life, from anesthesiology to rock climbing, cooking, and digital reading. By revealing specific products—Dr. Pepper Zero, Patagonia Black Hole bags, a Matfer Bourgeat pan, Instapaper, and the NYT Cooking app—he offers a practical, “how‑to” style guide that readers can immediately adopt. The insight lies not just in the items themselves but in the narrative framing: each choice is linked to a broader life principle—delayed gratification, simple joy, or efficient learning—making the content both actionable and inspirational. It bridges the gap between product recommendation and lifestyle philosophy, providing a relatable blueprint for anyone looking to refine their daily habits around health, travel, and culinary curiosity. The piece’s conversational tone and specific links add credibility, while its emphasis on “simple joy” invites readers to reassess what truly matters in their own routines.",
+    "summary_zh": "文章通过列举日常必备工具，展示了作者如何将健康、旅行、烹饪等兴趣融合成一套可操作的生活方式。每件产品都与作者的价值观——延迟满足、追求简单喜悦——相连，既具实践性，又引发共鸣，帮助读者在忙碌中寻找小确幸。",
+    "best_quote_en": "‘Chasing moments of simple joy just for the sake of it.’",
+    "best_quote_zh": "‘只为追求简单喜悦而行动。’"
   }
 ]
