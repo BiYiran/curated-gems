@@ -1,123 +1,5 @@
 [
   {
-    "id": 630,
-    "title": "Clarence Thomas Against Progressivism—and Progressives",
-    "title_zh": "克拉伦斯·托马斯反对进步主义——以及进步派",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/clarence-thomas-against-progressivism-and-progressives",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-05-21",
-    "summary_en": "Justice Clarence Thomas’s latest public remarks, delivered at the University of Texas, reframe Progressivism as a corrosive political creed that undermines the Declaration of Independence’s natural‑rights foundation. By linking the Progressive movement to figures such as Woodrow Wilson, and even to the dictators of the twentieth century, Thomas stakes a provocative claim that the modern left’s advocacy for expanded government is a direct threat to individual liberty. The piece dissects his rhetoric, foregrounding the tension between a conservative judicial philosophy and the tradition of judicial impartiality. The analysis juxtaposes Thomas’s narrative with scholarly critiques that highlight historical inaccuracies and ideological overreach, underscoring a broader debate about the role of Supreme Court Justices in public discourse. The article invites readers to question the boundaries of political commentary by a sitting Justice, the historical framing of Progressivism, and the consequences for the Court’s legitimacy. Ultimately, it reminds us that the interplay between law, history, and ideology remains a living, contested arena where words can shape public perception as much as precedent does.",
-    "summary_zh": "托马斯在德州演讲中，把进步主义描绘为破坏《独立宣言》自然权利的政治势力，并将其与二十世纪极权主义相连。文章剖析其言辞与保守司法哲学的张力，并对历史失实与政治化进行批评，提醒读者司法官员在公共话语中的边界。",
-    "best_quote_en": "“Progressivism seeks to replace the basic premises of the Declaration of Independence… It holds that our rights and our dignities come not from God but from government.”",
-    "best_quote_zh": "“进步主义试图取代《独立宣言》的基本前提……它认为我们的权利和尊严不是来自上帝，而是来自政府。”"
-  },
-  {
-    "id": 631,
-    "title": "What’s in my NOW? — Greg Schneider-Bateman",
-    "title_zh": "现在我在用什么？——Greg Schneider-Bateman",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-greg-schneider-bateman/",
-    "tags": [
-      "solve",
-      "education",
-      "personal-finance",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "个人理财",
-      "新手友好"
-    ],
-    "date": "2026-05-20",
-    "summary_en": "Greg Schneider-Bateman’s short‑form guide is a treasure map of everyday tools that shape his work, life, and mindset. He starts with the physical: a lightweight meditation bench that fits a backpack, a set of battery‑conversion parts that quietly modernize antique clocks, and a RO Bucket that turns sap‑harvesting from a hobby into a manageable, time‑saving operation. In the digital realm he champions OmniOutliner Pro for structuring writing and course design, and YNAB for the money conversations that keep his family’s finances transparent and goal‑aligned. Finally, he grounds all of this in a philosophical mantra—“N‑1”—a reminder that each experience is finite and valuable. The article’s strength lies in actionable anecdotes, cross‑domain relevance, and the author’s personal touch, making it both a practical toolkit and a reflective piece on intentional living. Readers will find concrete tools to adopt, a model for integrating physical and digital aids, and a reminder to savor the present while planning for the inevitable end of each moment.",
-    "summary_zh": "作者分享了从轻便冥想凳、旧时钟改装零件到榨汁桶，再到数字工具 OmniOutliner 与 YNAB 的生活与工作利器，最后以“有限性”哲学作收束。每个案例都兼具实用性与启示，读者可直接采纳，亦能从中领悟将物理、数字与思维方式结合的价值。",
-    "best_quote_en": "\"The transparency allows us to have super easy money conversations. It’s the first app I open every morning.\"",
-    "best_quote_zh": "“这份透明度让我们的金钱对话变得轻松，我每天早上第一件事就是打开它。”"
-  },
-  {
-    "id": 632,
-    "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
-    "title_zh": "Essentials：学习与说话语言的科学 | Dr. Eddie Chang",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-learning-and-speaking-languages-eddie-chang",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-21",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Eddie Chang delves into the neurobiology of speech, revealing how the brain orchestrates the larynx, vocal folds, and articulators to shape breath into words. He explains cutting‑edge neural‑prosthetic research that decodes neural activity to generate speech for paralyzed patients, and examines the neurophysiology of stuttering and the role of auditory feedback in fluent speech. The conversation balances scientific explanation with real‑world application, offering actionable insights into brain‑machine interfaces, ethical considerations of brain augmentation, and therapeutic tools for speech disorders. The episode is a masterclass in translating neuroscience into tangible medical technology, appealing to clinicians, researchers, and anyone interested in the future of communication. It inspires curiosity about how our nervous system constructs language and prompts reflection on the responsibilities that come with augmenting human cognition.",
-    "summary_zh": "在本期Huberman Lab Essentials节目中，Dr. Eddie Chang 深入探讨了语音神经生物学，展示大脑如何控制喉头、声带与发音器官，将呼吸转化为语言。他介绍了前沿的神经假体技术，解码神经活动为残疾人生成语音，并分析了口吃的神经机制与听觉反馈在流利发音中的作用。节目兼具科学阐释与实际应用，提供可操作的脑机接口见解、脑部增强伦理思考以及语音障碍治疗工具，既激发好奇心，也提醒人们在提升认知时的责任。",
-    "best_quote_en": "The brain doesn’t just produce words—it shapes breath into meaning through a finely tuned orchestra of motor control and auditory feedback.",
-    "best_quote_zh": "大脑不仅产生词语——它通过精细调控的运动控制和听觉反馈，将呼吸塑造成意义。"
-  },
-  {
-    "id": 633,
-    "title": "The Missing Bride of Anqoun",
-    "title_zh": "安科恩失踪的新娘",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-beirut/the-missing-bride-of-anqoun",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-21",
-    "summary_en": "The article chronicles the harrowing aftermath of Israel’s “Eternal Darkness” airstrike on Beirut’s Hamad Building, framing it as a human tragedy that eclipses geopolitical narratives. Through the intimate lens of Zahra Abboud’s family, it exposes the fragility of civilian life amid war, the disjointed nature of ceasefires, and the pervasive memory of past conflicts that shape current decisions. The piece juxtaposes personal grief with systemic failures: inadequate emergency response, ambiguous targeting, and the politicization of civilian spaces. It underscores the eroding sense of security for displaced communities, the complex sectarian fabric of Lebanese society, and the psychological toll on first responders. The narrative invites readers to reconsider the cost of conflict beyond headlines, spotlighting the enduring scars on ordinary lives and the collective yearning for justice and remembrance.",
-    "summary_zh": "文中以安科恩失踪的新娘为线索，深入探讨了以色列空袭导致的巴勒斯坦人悲剧，揭示了战时平民安全、停火失效与民众记忆交织的现实。",
-    "best_quote_en": "The air strike turned a quiet afternoon into a day of unimaginable loss, reminding us that war’s true cost is measured in shattered homes, broken bodies, and lives cut short.",
-    "best_quote_zh": "空袭把宁静的午后变成了难以想象的失落日，提醒我们战争的真正代价是用破碎的家园、破碎的身体和被切断的生命来衡量的。"
-  },
-  {
-    "id": 634,
-    "title": "Metal-free Stretch Belt/Virtual Ride & Radio/Expat-rated Countries",
-    "title_zh": "无金属拉伸皮带/虚拟驾车与广播/外籍人士评级国家",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/metal-free-stretch-belt-virtual-ride-radio-expat-rated-countries/",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-05-21",
-    "summary_en": "This compact newsletter stitches together four distinct yet interrelated vignettes that capture the evolving flavor of modern nomadism. The opening segment showcases a practical, metal‑free stretch belt—a small but decisive design upgrade that solves a common commuter pain point while appealing to the eco‑conscious, tech‑savvy traveler. The second piece invites readers to a virtual drive through Istanbul, Rio, and beyond, demonstrating how dashcam footage coupled with local radio can transform a home‑bound experience into an immersive cultural pilgrimage. The third article flips the lens onto the Internations Expat Quality of Life Survey, turning raw data into a provocative narrative that challenges preconceived hierarchies of “greatness” and exposes the nuanced trade‑offs of living abroad. Finally, the note on American Airlines’ security lapses serves as a cautionary tale for digital hygiene, reminding users that even ubiquitous loyalty programs can become vulnerability points. Collectively, the piece offers actionable lifestyle hacks, data‑driven insights, and a forward‑looking perspective that encourages readers to rethink travel, technology, and safety in an increasingly interconnected world.",
-    "summary_zh": "四个短篇交织出现代流浪者的细腻叙事：无金属拉伸皮带解决机场穿戴痛点；虚拟驾车配当地广播将家中变成文化游学；外籍人士排名揭露“最优”国家背后的真实权衡；美国航空安全漏洞警示数字生活风险。内容实用且具前瞻性，促使读者重新审视旅行、科技与安全的交汇。",
-    "best_quote_en": "The tunes really transported me to the scene in Delhi and Izmir and when I pulled up Havana, I was riding in a vintage car.",
-    "best_quote_zh": "声音真的把我带到了德里和伊兹密尔的现场，当我停在哈瓦那时，我正坐在一辆复古车里。"
-  },
-  {
     "id": 635,
     "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
     "title_zh": "基于科学的冥想工具提升大脑与健康 | 里查德·戴维森博士",
@@ -2332,5 +2214,125 @@
     "summary_zh": "这份简洁的周报以Austin Kleon的新书为起点，强调创意与童心，随后揭示美国人迁出人数超过迁入的历史性数据，列出顶级移居国。进一步剖析保加利亚欧元与申根政策带来的成本优势，并提供夏季航班优惠清单。全篇兼具启发、数据与实用建议，激发读者对创意、迁徙与预算生活的重新思考。",
     "best_quote_en": "‘The core idea is to let your inner child loose and make things with joy, as a form of play instead of something you’ll be judged on.’",
     "best_quote_zh": "‘核心思想是让内在的孩子自由地玩乐创作，而不是被评判的产物。’"
+  },
+  {
+    "id": 730,
+    "title": "Lies We Tell Kids",
+    "title_zh": "孩子们的谎言",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/lies.html",
+    "tags": [
+      "solve",
+      "education",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-06-13",
+    "summary_en": "The essay is a candid, introspective critique of the pervasive, often benevolent yet ultimately manipulative lies adults tell children. It systematically dissects the motives—protection, preservation of innocence, cultural identity, and power dynamics—and the social machinery that perpetuates these deceptions, from parental hush‑ups to curricular omissions and media simplifications. By juxtaposing personal anecdotes with broader sociocultural observations, the author invites readers to question the moral legitimacy of “white lies” and to recognize how these narratives shape adult beliefs, civic engagement, and intergenerational trust. The piece is both a call for critical self‑reflection and a warning that unexamined truths can fossilise into biases that hinder societal progress. Its provocative stance on identity, education, and authority challenges readers to reassess the stories they internalise, offering insight into the psychological cost of inherited narratives and the potential for personal liberation through conscious de‑construction of childhood myths.",
+    "summary_zh": "作者以亲身经历为切入点，剖析成年人在保护、维护身份与权力时对孩子说出的谎言，从童年的“无害”隐瞒到教育与媒体的隐性偏见，揭示这些叙事如何塑造成人的信念与社会行为。文章既是对“善意谎言”合法性的批判，也是呼唤读者审视并拆解童年记忆，寻找自我解放与社会进步的可能性。",
+    "best_quote_en": "‘We arrive at adulthood with heads full of lies.’",
+    "best_quote_zh": "‘我们成年时脑袋里装满了谎言。’"
+  },
+  {
+    "id": 731,
+    "title": "Tequila Sunset at the Hog's Head (A Scene)",
+    "title_zh": "Tequila Sunset at the Hog's Head (A Scene)",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CimhpuR2Jdt7oTngE/tequila-sunset-at-the-hog-s-head-a-scene",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-06-13",
+    "summary_en": "In this satirical fan‑fiction excerpt, the author weaves a surreal encounter between Harry Potter and an enigmatic, homeless detective at the Hog’s Head. The narrative skews reality with magical lenses, time‑turning tricks, and a critique of societal neglect. The dialogue oscillates between whimsical wizardry and sharp political jab—commenting on homelessness, mental health, and ideological disillusionment. The scene functions as a microcosm of broader societal fractures, using the familiar Potter universe to spotlight the overlooked “homeless” within the wizarding world. The author’s tone is irreverent yet reflective, inviting readers to question the efficacy of institutional care and the moral compromises of power. This passage is a creative critique rather than a plot‑driven story, offering readers a chance to explore themes of empathy, privilege, and systemic failure through a fantastical lens. The piece leaves readers pondering how fiction can mirror real‑world injustices while engaging with beloved characters.\n",
+    "summary_zh": "在这段讽刺式的同人小说中，作者以霍格沃茨酒吧为舞台，哈利与一名神秘流浪侦探展开荒诞对话。通过魔法镜片、时间倒转等奇幻手法，揭露社会对弱势群体的忽视与制度缺陷。文本兼具幽默与政治批判，探讨无家可归与精神健康，并质疑权力与道德。此段既是对现实不公的反思，也展示了奇幻世界可成为社会议题的镜像。",
+    "best_quote_en": "\"I have been astounded by the sheer hope Marx has in the forces of history, in that he is willing to destroy the existing institutions managing society while giving little-to-no guidebook for what should replace them and to trust that something better will arise.\"",
+    "best_quote_zh": "\"我一直对马克思在历史力量中的巨大希望感到惊叹，他愿意摧毁现有的社会治理机构，却几乎没有提供任何替代方案，也不相信会有更好的出现。\""
+  },
+  {
+    "id": 732,
+    "title": "Book Freak #213: Sleep Groove",
+    "title_zh": "Book Freak #213：Sleep Groove",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-213-sleep-groove/",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-13",
+    "summary_en": "Sleep Groove demystifies circadian biology with a focus on practical rhythm‑based sleep hygiene. By prioritizing regularity over duration and harnessing light as a timing cue, the guide reframes nighttime awakenings as a signal of weakened internal tempo rather than a failure to get enough hours. The author blends peer‑reviewed research, easily digestible charts, and comic illustrations to illustrate how a stable wake‑up time, midday bright exposure, and nocturnal darkness reinforce amplitude and consolidate sleep. This myth‑busting approach not only offers a tangible protocol for older adults experiencing fragmented sleep but also invites readers to view circadian health as an ongoing, data‑driven practice. The book’s strength lies in its accessibility: it translates complex chronobiology into actionable steps that can be tested immediately, making it a valuable resource for anyone seeking to align their lifestyle with their biology. Its broader significance is a reminder that health interventions should target the underlying rhythms that govern physiology, not just surface metrics.",
+    "summary_zh": "《Sleep Groove》以循證科學拆解昼夜节律，揭示规律起居比睡眠时长更关键。作者将光照、固定起床时间、夜间黑暗等简单可执行策略与漫画图表相结合，帮助读者在日常生活中重塑身体节奏。它既是对老年人睡眠碎片化的精准指引，也是对健康干预应聚焦内在机制的呼吁，提示我们将节律视为生活的核心节拍。",
+    "best_quote_en": "\"Light is a drug—use it wisely.\"",
+    "best_quote_zh": "“光是药——明智使用。”"
+  },
+  {
+    "id": 733,
+    "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+    "title_zh": "Essentials：睡眠工具包，优化睡眠与睡眠-觉醒节律",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing",
+    "tags": [
+      "learn",
+      "science",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "In the Huberman Lab Essentials episode, Dr. Andrew Huberman distills cutting‑edge chronobiology into a pragmatic toolkit for anyone seeking better sleep. The discussion unfolds across the day: morning sunlight exposure, controlled body temperature, caffeine timing, and strategic light exposure in the afternoon and evening—all aimed at synchronizing the body’s cortisol rhythm and core temperature with the circadian clock. He offers concrete, evidence‑based supplements (magnesium threonate, apigenin, theanine) while cautioning against indiscriminate melatonin use. Practical strategies for jet‑lag, shift work, and weekend oversleeping are presented with a focus on environmental cues (red light, temperature minima). The episode is a blend of science, applied physiology, and behavioral design, providing a comprehensive, action‑oriented plan that can be adopted by students, professionals, or anyone who values restorative sleep. It underscores how small, daily adjustments can produce large, cumulative gains in alertness and health, making it a must‑listen for those who want to harness biology for peak performance.",
+    "summary_zh": "Huberman 在此节目中把昼夜节律学拆解成可落地的睡眠工具箱。内容从晨光、体温、咖啡因时机到晚间光照、补剂，再到时差与夜班的应对。每一步都基于实验数据，强调小习惯的累计效应，帮助人们在日常生活中精准调节睡眠节律，提升清醒度与恢复力。",
+    "best_quote_en": "Optimizing sleep requires aligning daily behaviors with the body's natural circadian rhythm.",
+    "best_quote_zh": "优化睡眠需要将日常行为与身体自然的昼夜节律相匹配。"
+  },
+  {
+    "id": 734,
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future",
+    "title_zh": "AI已經殺死如何做非敘事類書籍嗎？銷售趨勢、我的個人數據及未來可能意味著什麼",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-12",
+    "summary_en": "Tim Ferriss’ reflective post combines hard sales data, personal experience, and broader industry trends to argue that LLM‑driven chatbots are rapidly eroding the traditional how‑to nonfiction market. He presents a compelling year‑over‑year decline in print, e‑book, and audio sales of his bestselling titles, correlating the steepest drops with the rise of ChatGPT and Claude. The analysis highlights how prescriptive, decision‑tree‑style content—once sold through books, podcasts, and videos—is now being supplanted by instant, personalized AI interfaces. Ferriss extends the argument beyond self‑help to all advice‑centric media, questioning the future of monetized journalism, paid podcasts, and the viability of long‑form content. He concludes that creators should pivot to building deep, loyal audiences (“1,000 true fans”) and emphasize transformation over mere information. The piece is a data‑driven, expert‑insight case study that invites writers, podcasters, and marketers to rethink value creation in an AI‑first landscape.",
+    "summary_zh": "費里斯用銷售數據和個人經驗，指出 LLM 讓「如何做」類書籍失去市場，甚至威脅到自我幫助、播客與新聞付費模式。他把這視為一場資訊與體驗轉型，呼籲創作者聚焦忠實受眾，提供深度變革，而非僅僅資訊。",
+    "best_quote_en": "\"If 'how-to' books are getting crushed because LLMs seem to provide faster, cheaper, and more personalized advice… What’s next on the chopping block?\"",
+    "best_quote_zh": "「如果『如何做』書籍因 LLM 提供更快、更便宜、更個性化的建議而被擊垮…接下來還會被砍掉什麼？」"
   }
 ]
