@@ -1,121 +1,5 @@
 [
   {
-    "id": 645,
-    "title": "Is the Working Class Finally Turning on Trump?",
-    "title_zh": "工人阶级是否终于转投特朗普？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/is-the-working-class-finally-turning-on-trump",
-    "tags": [
-      "solve",
-      "politics",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-05-23",
-    "summary_en": "The article uncovers a sharp shift in the political loyalties of Pennsylvania’s working‑class voters, a microcosm of the broader American class realignment. Polls and field interviews reveal that while Trump’s populist rhetoric once drew blue‑collar support—especially from non‑college white workers and Latino men—recent economic pressures (inflation, high gas prices, war‑driven oil costs) have eroded that base. A new survey by Abbott and Williams shows that a sizable fraction of “switchers” who moved to Trump in 2024 are now wavering, with many Black and Latino workers expressing doubt about a 2028 Republican ticket. The piece deftly contrasts Trump’s “affordable” promises with the Democrats’ perceived elite focus, highlighting a “Democratic penalty” where populist messaging from an Independent resonates more strongly than from a Democrat. The narrative stresses that Democrats must translate economic grievances into credible policy—tax breaks for workers, drug‑price caps, rent‑support—otherwise they risk losing not just votes but the opportunity to reshape the political economy. The article’s value lies in its granular data, nuanced ideological mapping, and strategic implications for both parties, making it essential reading for political strategists, economists, and scholars of class politics.",
-    "summary_zh": "文章揭示宾夕法尼亚州工人阶级投票倾向的显著转变，映射出美国更广泛的阶级重组。特朗普的经济民粹口号曾吸引非大学学位白领和拉丁裔男性，但近期通胀与油价飙升削弱了这一基础。新调查显示，许多2024年投向特朗普的“转换者”正犹豫不决，尤其是黑人和拉丁裔选民。文中对比特朗普的“可负担”承诺与民主党被视为精英主义的形象，指出“民主党惩罚”——民粹信息更易从独立候选人而非民主党传达。文章价值在于细致数据、深度意识形态映射与对两党战略的启示，是政治工作者、经济学家与阶级政治研究者的必读之作。",
-    "best_quote_en": "‘People really don’t like what Trump is doing, particularly lower‑income people of color, but they are not seeing the Democrats provide something that makes them want to vote for them, either.’",
-    "best_quote_zh": "‘人们真的不喜欢特朗普的所作所为，尤其是低收入的有色人种，但他们也没有看到民主党提供任何让他们想投票给他们的东西。’"
-  },
-  {
-    "id": 646,
-    "title": "Book Freak #210: The Art of Money Getting",
-    "title_zh": "",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "tags": [
-      "update",
-      "personal-finance",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "动态",
-      "个人理财",
-      "AI研究"
-    ],
-    "date": "2026-05-22",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 647,
-    "title": "Why TV Lost",
-    "title_zh": "为什么电视失去光芒",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/convergence.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-05-25",
-    "summary_en": "The article offers a prescient, data‑driven analysis of how the convergence of computing and the internet has rendered traditional television obsolete. It argues that open platforms, Moore’s Law, piracy, and the social‑media revolution collectively shifted consumer habits toward computer‑based media consumption. By dissecting each force, the author exposes the fragility of broadcast’s synchronous, local model and predicts a future where content is personalized, on‑demand, and increasingly game‑oriented. The piece challenges incumbents to abandon legacy infrastructures, while highlighting the opportunity for startups to fill the void. It blends historical hindsight with forward‑looking insight, making it a valuable resource for media strategists, tech entrepreneurs, and cultural commentators.\n\nThe article’s critical stance on TV’s “gatekeeping” and its emphasis on user empowerment resonate with contemporary debates about platform dominance and content ownership. It reminds readers that technological disruption is not merely a technical shift but a sociocultural transformation, urging a re‑evaluation of business models and partnership structures in the media ecosystem.\n\nOverall, the essay is both a cautionary tale and a call to action, offering actionable, future‑focused points for stakeholders navigating the digital media transition.",
-    "summary_zh": "作者用数据驱动的视角拆解了电视衰落的四大因素：开放平台、摩尔定律、盗版与社交应用。内容强调传统广播的同步性与地域性已被互联网所摧毁，预示未来内容将更个性化、即时化、甚至与游戏融合。文章既是对电视行业的警醒，也是对创业者的机遇提醒，提醒大家及时拥抱数字化、重新审视内容分发与盈利模式。",
-    "best_quote_en": "\"Facebook killed TV. That is wildly oversimplified, of course, but probably as close to the truth as you can get in three words.\"",
-    "best_quote_zh": "“Facebook 杀死了电视。”"
-  },
-  {
-    "id": 648,
-    "title": "Applications open for the Secure Program Synthesis Fellowship",
-    "title_zh": "安全程序合成奖学金开放申请",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/RmKGiB8xmPK2hGmB9/applications-open-for-the-secure-program-synthesis",
-    "tags": [
-      "solve",
-      "ai-research",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-05-25",
-    "summary_en": "The post announces the opening of the Secure Program Synthesis Fellowship, a part‑time research initiative at the nexus of formal methods, AI security, and program synthesis. It highlights the growing gap between cheap, scalable code generation and the need for rigorous specification, validation, and adversarial robustness. The fellowship, backed by Apart Research and Atlas Computing, invites diverse applicants—no specific background required—and pairs them with leading mentors such as Erik Maijer and Shririam Krishnamurthi. Participants will tackle understudied, underspecified problems in specification and validation, aiming to produce publishable, high‑impact results within a short timeframe. The call underscores the practical relevance of formal verification in AI systems and offers a pathway for researchers and practitioners to contribute to secure, reliable AI infrastructure. Its emphasis on mentorship, collaborative projects, and a supportive network signals a strategic investment in future AI security talent.\n\nThe announcement is not merely informational; it serves as a call to action for those interested in bridging theory and practice. By framing program synthesis as a critical component of AI safety, it invites a broad spectrum of participants—from proof engineers to security researchers—to apply their skills toward a common goal. The fellowship’s structured yet flexible format (8 hours a week) and potential stipends make it accessible, while the promise of continued engagement within the Apart network mitigates the risk of rejection. In sum, the post offers both a practical opportunity and a glimpse into the evolving landscape where formal methods and AI intersect for security.\n",
-    "summary_zh": "此帖宣布了安全程序合成奖学金的开放，聚焦形式方法与AI安全交叉点，呼吁无背景限制的研究者参与。它强调代码生成日益普及但规范与验证仍是瓶颈，奖学金通过导师带领的项目让团队攻克规范与验证难题，目标是快速产出可发表的高影响力工作。奖学金兼具实践性与理论性，既是行动号召，也是对未来AI安全人才培养的布局。",
-    "best_quote_en": "As code generation becomes cheaper and more scalable, the bottleneck shifts from implementation to specification and validation.",
-    "best_quote_zh": "随着代码生成变得更便宜、更可扩展，瓶颈从实现转向规范和验证。"
-  },
-  {
-    "id": 649,
-    "title": "How “The Chosen” Spurred a Golden Age of Christian Filmmaking",
-    "title_zh": "《被选中》如何催生基督教电影的黄金时代",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/how-the-chosen-spurred-a-golden-age-of-christian-filmmaking",
-    "tags": [
-      "learn",
-      "startup-funding",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业融资",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-05-25",
-    "summary_en": "The article traces how the Christian series \"The Chosen\" has reshaped faith‑based filmmaking, turning devoted fandom into a scalable business model that rivals Hollywood’s traditional blockbuster paradigm.  It examines the show’s grassroots crowdfunding, community‑driven distribution, and strategic partnerships—from Angel Studios to Lionsgate—highlighting how data‑informed engagement, live‑stream fundraising, and a low‑cost production model created a new economic ecosystem.  The piece also critiques the tensions between creative autonomy and corporate control, the fragility of niche markets, and the cultural politics that arise when faith, entertainment, and commerce intersect.  In doing so, it offers a nuanced case study on how niche audiences can co‑create, finance, and sustain media that resonates both spiritually and commercially, providing insights for content creators, marketers, and scholars of media economics.",
-    "summary_zh": "《被选中》掀起了基督教电影的新浪潮，靠粉丝资助和社群运营撬动传统好莱坞模式。文章剖析从众筹到流媒体分销的全链条，揭示数据驱动的粉丝互动与低成本制作如何共同铸就新型商业生态；同时也指出创意与资本、信仰与市场之间的张力。它既是创作者的实践指南，也是文化经济学的案例研究。",
-    "best_quote_en": "\"The show’s target audience was primed for such pleas—contributing money was akin to tithing, sharing episodes was a form of proselytizing.\"",
-    "best_quote_zh": "“观众为此付费就像是奉献，分享剧集则是宣教。”"
-  },
-  {
     "id": 650,
     "title": "Retro Recomendo: Creative Practice",
     "title_zh": "Retro Recomendo：创意实践",
@@ -2336,5 +2220,123 @@
     "summary_zh": "祖克博士阐释味觉从化学信号到大脑感知的完整链路，揭示甜、咸、酸、苦、鲜五味的神经路径与代谢交互。核心在于糖通过奖励回路与肠脑轴激活渴求，展示味觉可塑性与饮食习惯演变。此番对人类食欲与健康决策的深层机制提供科学视角，助我们用更理性思维调整膳食。",
     "best_quote_en": "\"Taste is not just a sense; it’s a decision-making system that constantly negotiates with our biology to shape what we eat and how we feel.\"",
     "best_quote_zh": "\"味觉不仅是感官，更是与我们生理持续对话的决策系统，决定我们吃什么、感受如何。\""
+  },
+  {
+    "id": 745,
+    "title": "Some Heroes",
+    "title_zh": "Some Heroes",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/heroes.html",
+    "tags": [
+      "inspire",
+      "education",
+      "startup-strategy",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "创业策略",
+      "新手友好"
+    ],
+    "date": "2026-06-16",
+    "summary_en": "This essay is a reflective meditation on the notion of a personal hero, assembled as a curated list of individuals whose influence shaped the author’s worldview. Rather than conventional biographical acclaim, the author filters heroes through two stringent criteria: obsessive dedication to their craft and unapologetic honesty. By dissecting a wide spectrum of figures—from a Pittsburgh linebacker to a foundational computer scientist—the piece illustrates how genuine influence stems from authenticity, relentless curiosity, and an unwavering commitment to one’s own standards. The narrative invites readers to reassess their own hero lists, urging a move beyond surface admiration toward a deeper, actionable model of emulation. In doing so, it offers a fresh lens on legacy, creativity, and the everyday pursuit of excellence, while encouraging a personal dialogue about the traits that truly inspire us.",
+    "summary_zh": "作者以个人英雄的视角，挑选并剖析了从运动员到科学家的多位榜样，强调“执着”和“诚实”是成就的关键。文章既是自我反思，也是一种行动号召，鼓励读者重新评估自己的英雄榜，关注内在品质而非名声。它把英雄主义与日常实践相连，展示了真实影响力的本质，带来对学习与成长的启示。",
+    "best_quote_en": "The only quality that threads all of my heroes together is not fame or intellect, but a relentless, honest devotion to their craft.",
+    "best_quote_zh": "所有英雄共同的品质不是名声或智慧，而是对其事业的执着与诚实。"
+  },
+  {
+    "id": 746,
+    "title": "Where Do Young Rationalists Go?",
+    "title_zh": "年轻理性主义者去向何方？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/yhrrhTzTeiZ8PzQZn/where-do-young-rationalists-go",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-16",
+    "summary_en": "The post highlights a pressing gap among 16‑20‑year‑olds: the lack of peer discussion around rationality, alignment, and life‑shaping decisions. It argues that a tightly knit in‑group, with structured introductions and interest‑matched one‑to‑ones, can unlock the same high‑leverage conversations that fuel communities like LessWrong and the Alignment Forum. By drawing on the failed \"Lost Ones\" experiment—where retention collapsed after an initial burst—the author proposes a concrete, low‑overhead framework: a core cohort of 5‑10 founders, a clear purpose, and ongoing commitment to show up. The call to action seeks immediate volunteers to test the model, underscoring that failure is preferable to letting talent disperse. The piece blends practical guidance with a meta‑analysis of community dynamics, offering a roadmap that could benefit not only rationalists but any field where early peer bonding drives innovation. Its implication is clear: intentional community design can turn dispersed curiosity into transformative collaboration.",
+    "summary_zh": "文章指出，16–20岁年轻人缺乏讨论理性与人生关键决策的社群。作者认为，像LessWrong、Alignment Forum 这样的内群体，通过结构化自我介绍和兴趣匹配的一对一交流，能激发高价值对话。以失效的 \"Lost Ones\" 案例为警示，他提出一个核心5–10人团队、明确目标和持续参与的低成本方案，并立即招募志愿者。文章兼具实操建议与社群动力的 meta‑分析，提示有意设计社群可将零散兴趣转化为协作创新。其意义在于：有目的的社群建设能把分散的好奇心转化为变革性合作。",
+    "best_quote_en": "\"Half of the conversations that produced substantial value in this community trace back to being in an in‑group early.\"",
+    "best_quote_zh": "\"在该社区产生实质价值的对话中，有一半可以追溯到早期加入的内群体。\""
+  },
+  {
+    "id": 747,
+    "title": "Misery Loves Company—If There Are Snacks",
+    "title_zh": "Misery Loves Company—If There Are Snacks",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-15",
+    "summary_en": "The article examines the rise of “Admin Nights,” informal gatherings where people tackle mundane administrative tasks together. By blending anecdote, research, and case studies, it reveals how social facilitation and body‑doubling techniques can turn procrastination into productive, communal rituals. The piece goes beyond marketing fluff, offering data on to‑do list efficacy and the psychological underpinnings of shared workspaces, while profiling diverse iterations—from in‑person kitchen islands to Zoom‑based Pomodoro sessions. Readers gain actionable insights into structuring their own admin events, understanding the social‑psychology that fuels them, and recognizing the broader trend of turning everyday chores into networking opportunities. The article prompts a deeper reflection on how modern work culture is redefining productivity, community, and the concept of “busyness.”",
+    "summary_zh": "文章探讨“Admin Nights”——人们聚在一起完成琐碎行政任务的社群活动。通过案例、数据和心理学分析，阐明社交促进与身体双倍技术如何将拖延转为高效合作。它揭示了从亲密厨房到 Zoom 的多种形式，并提供可操作的组织建议。读者不仅学会如何策划自己的行政聚会，还能洞察现代工作文化如何重新定义生产力与社群。",
+    "best_quote_en": "\"I call that the Botox of completion.\"",
+    "best_quote_zh": "“我称之为完成的肉毒。”"
+  },
+  {
+    "id": 748,
+    "title": "Bamboo",
+    "title_zh": "竹子",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/bamboo/",
+    "tags": [
+      "solve",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-06-15",
+    "summary_en": "The article is a practical compendium of bamboo and coppicing expertise, weaving botanical knowledge, sustainable harvesting techniques, and innovative applications into a single narrative. It first presents the most useful bamboo species, offering specific cultivation tips for fences, drought tolerance, and container growth—information that turns a simple yard project into a resilient landscape design. The discussion of coppicing expands the scope to renewable wood production, detailing how repeated cutting regenerates trees and how this low‑impact practice can supply everything from firewood to artisanal crafts. The text then delves into the remarkable versatility of bamboo, cataloging everything from historical uses to modern engineering concepts such as high‑silica tool dulling and flexible shaping. The piece’s strength lies in its actionable, data‑driven guidance: step‑by‑step instructions for pruning, brash management, and bamboo manipulation, coupled with contextual anecdotes that highlight cultural and ecological significance. For readers seeking to transform a small plot into a sustainable resource hub, the article offers a roadmap filled with expert insight, practical steps, and inspiring possibilities that underscore bamboo’s role as a low‑carbon, high‑value material.",
+    "summary_zh": "文章把竹子与枯枝采集的实践经验编织成一条可操作的可持续发展之路。它先列出最实用的竹种并给出种植细节，然后讲解枯枝采集的循环利用方法，最后展示竹子在工具、建筑、动物笼等多领域的创新用途。文章的价值在于将植物学、生态学与手工技艺结合，提供从土壤处理到成品制作的全流程指导，既有实用性又富启发性。",
+    "best_quote_en": "\"Bamboo works. Bamboo does more things than any other material.\"",
+    "best_quote_zh": "“竹子能做其他任何材料都做不到的事。”"
+  },
+  {
+    "id": 749,
+    "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+    "title_zh": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/unlearn-negative-thoughts-and-behaviors-patterns-alok-kanojia",
+    "tags": [
+      "analyze",
+      "psychology",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "Dr. Alok Kanojia’s interview dissects the mechanics of unlearning maladaptive thoughts and behaviors, blending Western psychiatry with Eastern contemplative practices. He introduces concrete tools—mindful observation, Shunya meditation, breathwork, and structured self‑reflection—to transform stress tolerance, intrinsic motivation, and interpersonal dynamics. The discussion extends to modern digital environments, offering guidelines for healthy social media use, gaming, and online dating. Kanojia’s narrative underscores the interplay between ego, trauma, and identity, providing actionable frameworks for building resilience, cultivating empathy, and fostering authentic self‑awareness. For clinicians, coaches, and individuals seeking psychological growth, the podcast offers a pragmatic, evidence‑informed roadmap that bridges theory and daily practice, encouraging listeners to rewire habits and reclaim agency over their mental health.",
+    "summary_zh": "阿洛克·卡尼亚博士在访谈中将西方精神病学与东方禅修结合，提供可操作的思维与行为重塑工具，帮助人们提升抗压、动机与人际关系，并讨论数字媒介对自我认同的影响。",
+    "best_quote_en": "\"The first step to change is to become aware of the patterns that keep you stuck, and then to consciously practice new, healthier habits until they become reflexive.\"",
+    "best_quote_zh": "“改变的第一步是意识到让你停滞的模式，然后有意识地练习新的、更健康的习惯，直到它们变成本能。”"
   }
 ]
