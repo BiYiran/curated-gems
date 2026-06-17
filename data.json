@@ -1,123 +1,5 @@
 [
   {
-    "id": 650,
-    "title": "Retro Recomendo: Creative Practice",
-    "title_zh": "Retro Recomendo：创意实践",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-creative-practice/",
-    "tags": [
-      "guide",
-      "design",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-05-24",
-    "summary_en": "Retro Recomendo is a thoughtfully curated, bi‑monthly “throwback” newsletter that revisits the most enduring creative resources from the past nine years. By spotlighting a single theme each issue—ranging from Lynda Barry’s hand‑drawn guide to art to practical figure‑drawing tools, contemporary collage newsletters, blackout poetry generators, and maker‑centric tip‑lists—this series turns passive recommendations into actionable learning experiences. Its strength lies in the blend of expert‑curated content (e.g., Barry’s book that reframes the act of drawing as a way to “see” rather than a skill to master) and community‑based resources (such as the Line of Action figure drawing platform and the Gar’s Tips & Tools newsletter). For creatives at all levels, the newsletter offers a ready‑to‑apply toolkit that encourages experimentation, skill development, and a broadened artistic perspective. The call to sign up ahead of the weekly issue underscores its value as a timely, evergreen resource that nurtures continuous growth in a fast‑moving creative landscape.",
-    "summary_zh": "Retro Recomendo以每六周一次的旧时推荐方式，聚焦往九年中最具价值的创意资源。它涵盖从Lynda Barry的手绘书籍到在线人物素描、当代拼贴、黑幕诗歌生成器以及手工艺者的实用技巧。内容兼具专业深度与社区共创，既能为初学者提供可操作的练习，又能激发成熟艺术家的灵感与实验精神。每期结尾邀请订阅者抢先获取，确保创意灵感不落后。",
-    "best_quote_en": "\"It will teach you how to draw, more importantly how to see, and even more importantly how to create with originality, by taking yourself out of the way to see what shows up.\"",
-    "best_quote_zh": "“它会教你如何绘画，更重要的是教你如何观察，甚至更重要的是教你如何在不让自己遮挡的情况下创造原创。”"
-  },
-  {
-    "id": 651,
-    "title": "Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
-    "title_zh": "Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/05/20/sami-inkinen/",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-20",
-    "summary_en": "Sami Inkinen’s episode is a rich tapestry of entrepreneurial grit, scientific rigor, and endurance‑sport philosophy, all converging on metabolic health. He explains how Virta Health leverages AI‑driven nutrition protocols to reverse type‑2 diabetes in over 100,000 patients, emphasizing that sustained behavioral change—not just medication—drives lasting remission. The conversation is imbued with data‑driven insights: Virta’s 83 % one‑year adherence outpaces GLP‑1 drugs, and the company’s protocols are built on real‑world evidence such as the McDonald’s diet trial. Inkinen’s endurance background informs his “no‑one‑by‑one” approach to habit formation, showing how cold exposure, VO₂‑max blocks, and progressive overload can be translated into metabolic reset. The episode also serves as a public‑health call to action, critiquing the food environment and advocating for systemic change. For listeners, the takeaway is clear: reversing diabetes is a scalable, evidence‑based endeavor that blends technology, nutrition, and disciplined lifestyle practices. The narrative underlines that hope exists, and with the right tools and mindset, metabolic health can be reclaimed.",
-    "summary_zh": "Sami Inkinen 通过 AI 与营养协议，结合耐力运动理念，展示逆转2型糖尿病的可行路径；他强调行为改变比单药更重要，引用 83% 的长期依从率与麦当劳饮食试验等数据，呼吁系统性改变食物环境，传递希望与可复制的健康范式。",
-    "best_quote_en": "“Type 2 diabetes can be reversed systematically, not miraculously. And so hopefully I can be a messenger of hope that these conditions are reversible, especially after I already disclosed that I used to live thinking it’s your fault, it’s your fault, you are just lazy, you don’t have the willpower.”",
-    "best_quote_zh": "“2 型糖尿病可以通过系统化逆转，而非奇迹。希望成为逆转的信使，告诉人们这些疾病是可逆的，尤其是我曾认为这都是个人懒惰与意志力问题。”"
-  },
-  {
-    "id": 652,
-    "title": "Alien Invasion in My Backyard / Deceptive Desserts",
-    "title_zh": "后院的外星人入侵 / 欺骗性甜点",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/alien-invasion-in-my-backyard-deceptive-desserts/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-26",
-    "summary_en": "The article juxtaposes two seemingly unrelated books to illuminate the power of storytelling in shaping imagination and creativity. In the first part, Ruben Bolling’s \"Alien Invasion in My Backyard\" is presented as a playful, first-person report from a child’s perspective, blending literal adventure with the metaphor of discovery that sparks curiosity in young readers. The narrative structure mimics a detective log, complete with photos and a cast of quirky characters, inviting readers to engage actively with mystery‑solving. The second part turns to Christine McConnell’s \"Deceptive Desserts,\" a culinary manifesto that marries macabre aesthetics with practical baking instruction. McConnell’s journey—from makeup artist to baker—serves as a case study in skill acquisition through self‑guided learning and social media amplification. Both books exemplify how ordinary experiences (a backyard, a kitchen) can be transformed into extraordinary narratives when filtered through creative vision. The article’s core insight is that authenticity and personal passion are the engines of compelling content, whether it is a child’s imaginary expedition or a woman’s gothic confectionery brand. This resonates beyond literature, offering a blueprint for educators, entrepreneurs, and creatives who wish to turn everyday moments into engaging, shareable stories.",
-    "summary_zh": "文章将两本看似无关的书并列，展示叙事如何激发想象与创造力。第一本《后院的外星人入侵》以孩子的视角记录冒险，第二本《欺骗性甜点》则把恐怖美食与烘焙技巧结合。两者共同传递的核心是：真诚与热情是让平凡变非凡的关键。",
-    "best_quote_en": "‘The mysteries aren’t out there, they’re right here.’",
-    "best_quote_zh": "‘谜团不在外面，它们就在身边。’"
-  },
-  {
-    "id": 653,
-    "title": "The Practice of Self-Inquiry: 10 Questions for People Who Are Too Hard on Themselves",
-    "title_zh": "自我探询的实践：对自我苛责者的10个问题",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/05/08/the-practice-of-self-inquiry-paul-conti/",
-    "tags": [
-      "guide",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-05-08",
-    "summary_en": "This article distills the wisdom of Dr. Paul Conti’s mental‑health methodology into a gentle, actionable guide for readers who struggle with self‑criticism. It opens with a relatable narrative about a patient’s failed gym resolution, illustrating how high expectations and unconscious defense mechanisms sabotage progress. The core insight is that self‑inquiry—asking compassionate, curiosity‑driven questions—unlocks unconscious beliefs that fuel self‑sabotage. The writer supplies a structured, tiered list of questions that range from surface‑level curiosity to deep‑mind probes, encouraging readers to record answers in any medium they prefer. The piece emphasizes that the value lies not in a perfect checklist but in ongoing, mindful practice that turns self‑awareness into empowerment. It also reminds us that the tools work differently for each person, and consistent effort is the key to transformation. In short, the article offers a practical, psychologically grounded framework for turning harsh inner dialogues into constructive self‑growth, making it a useful resource for anyone seeking to soften their inner critic and cultivate sustainable change.",
-    "summary_zh": "本文用温和实用的方式阐释了保罗·康蒂博士的心理健康方法，帮助自我苛责者通过自我探询化解内在负面声音。通过真实案例展示高期待如何导致失败，并提供一套循序渐进的提问清单，鼓励读者记录答案、持续练习。文章强调工具因人而异，关键在于持续的自我觉察。它既是心理学实操指南，也是对自我成长的温柔激励。",
-    "best_quote_en": "\"The point is to be inquisitive, not inquisitorial. Don’t grill, hound, or nag yourself with harsh critiques or demands for justifiable answers.\"",
-    "best_quote_zh": "“关键在于好奇，而不是审问。不要用严厉的批评或可证明的答案来审问自己。”"
-  },
-  {
-    "id": 654,
-    "title": "J. Cole and Cam’ron settle $500K lawsuit over ‘Ready ’24’ royalties",
-    "title_zh": "J. Cole与Cam’ron就《Ready ’24》版税纠纷达成50万美元和解",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/j-cole-and-camron-settle-500k-lawsuit-over-ready-24-royalties/",
-    "tags": [
-      "solve",
-      "legal",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "法律法规",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-27",
-    "summary_en": "J. Cole and Cam’ron’s $500,000 settlement over the 2024 track \"Ready ’24\" illustrates the fragile nature of creative collaborations, where contractual ambiguities and unrecorded agreements can spark costly legal battles. Cam’ron, asserting he contributed lyrics and vocals without compensation, filed a lawsuit that underscored the importance of clear crediting and royalty distribution in the music industry. The rapid resolution—announced in a court letter and backed by a conditional dismissal—highlights how public relations and personal reconciliation can precede formal settlement. For artists and producers, the case serves as a cautionary tale: document every collaboration, negotiate terms explicitly, and maintain transparent communication to avoid disputes that erode creative partnerships. Beyond the legal mechanics, the incident reflects broader industry trends—streaming revenue models, the rise of feature artists, and the tension between artistic freedom and contractual obligations—making it a valuable case study for anyone navigating the modern music business.",
-    "summary_zh": "J. Cole与Cam’ron就《Ready ’24》版税纠纷达成50万美元和解，提醒创作者务必在合作前签署明确协议，避免因权益分配不清导致昂贵诉讼。",
-    "best_quote_en": "The settlement follows the pair’s reconciliation approximately two months ago, when Cole appeared on Cam’ron’s Talk with Flee podcast in March 2026.",
-    "best_quote_zh": "和解是在两个月前两人和解后达成的，当时Cole在Cam’ron的Talk with Flee播客中出现。"
-  },
-  {
     "id": 655,
     "title": "New Book Drop/Giveaway: “Retire by 30”",
     "title_zh": "新书赠送/赠品：《30岁退休》",
@@ -2338,5 +2220,121 @@
     "summary_zh": "阿洛克·卡尼亚博士在访谈中将西方精神病学与东方禅修结合，提供可操作的思维与行为重塑工具，帮助人们提升抗压、动机与人际关系，并讨论数字媒介对自我认同的影响。",
     "best_quote_en": "\"The first step to change is to become aware of the patterns that keep you stuck, and then to consciously practice new, healthier habits until they become reflexive.\"",
     "best_quote_zh": "“改变的第一步是意识到让你停滞的模式，然后有意识地练习新的、更健康的习惯，直到它们变成本能。”"
+  },
+  {
+    "id": 750,
+    "title": "Sali Hughes on beauty: go fetch a foundation stick – they’re fuss-free, flexible and making a comeback",
+    "title_zh": "Sali Hughes 说美容：去买一支粉底棒——它们无忧、灵活并正复苏",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jun/17/sali-hughes-on-beauty-foundation-stick-fuss-free-flexible",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "Sali Hughes, a seasoned beauty columnist, revisits the resurgence of foundation sticks, a once-popular format that fell out of favor before being revived by high-end brands like Dior, Charlotte Tilbury, and Bobbi Brown’s new line. She evaluates the practical benefits of sticks—compactness, reduced mess, and ease of localised application—especially for deeper skin tones needing multiple shades. Hughes highlights the trade‑offs: while the Bobbi Brown and Jones Road sticks offer a moist, dewy finish suitable for dry and medium‑complexion users, they lack the longevity and coverage required by oily or full‑coverage seekers. The Bare Minerals Complexion Rescue Luminous Skin Tint Stick positions itself as a lightweight tint rather than a full foundation, appealing to users wanting a natural, effortless look. Hughes’ critique is grounded in personal experience, noting that sticks excel when blended with fingertips, eliminating brushes and sponges. Her tone balances enthusiasm for the category’s comeback with critical appraisal of each product’s performance, providing readers with actionable guidance on selecting a stick that matches their skin type, tone, and coverage preferences. The piece offers both a nostalgic nod to the past and a forward‑looking look at how contemporary brands are innovating within a familiar format, making it a valuable read for makeup enthusiasts and industry observers alike.",
+    "summary_zh": "Sali Hughes重新审视粉底棒的复兴，指出其便携、易用且适合深肤色用户。她评估了Bobbi Brown、Dior、Bare Minerals等品牌的新品，强调各自的适用肤质与覆盖度。Hughes以亲身体验为依据，提供选购建议，既回顾过去，也展望未来。",
+    "best_quote_en": "Solid sticks of foundation eliminate the risk of smashed or leaky bottles, are more compact and portable than liquids and creams, and can mostly be blended with fingertips, dispensing with brushes and sponges.",
+    "best_quote_zh": "固体粉底棒消除了破碎或泄漏瓶的风险，比液体和乳霜更紧凑便携，大多数可以用手指混合，省去了刷子和海绵。"
+  },
+  {
+    "id": 751,
+    "title": "How to Disagree",
+    "title_zh": "如何不同意",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disagree.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "The essay reframes disagreement as a structured, hierarchical process, transforming a common social friction into a disciplined intellectual exercise. It argues that the proliferation of online commentary is less a rise in hostility and more a structural shift in how we communicate—disagreement is now the primary mode of engagement. The author introduces a six‑tier Disagreement Hierarchy (DH0–DH6), ranging from name‑calling to full‑blown refutation of a central claim. Each tier is defined by the depth of reasoning, evidentiary support, and focus on the argument itself rather than the author. By mapping these forms, readers gain a diagnostic tool to assess the quality of online debate, detect intellectual dishonesty, and craft more constructive responses. The piece blends sociological observation with practical guidance, offering a framework that can elevate everyday conversations, reduce unnecessary conflict, and foster a culture of reasoned critique. Its implications reach beyond the internet: educators, leaders, and civic participants can use the hierarchy to train critical thinking, promote civil discourse, and design more effective communication protocols. The essay’s blend of humor, clarity, and actionable advice makes it a valuable resource for anyone seeking to improve their argumentative skills and navigate the noisy digital public square with grace.",
+    "summary_zh": "本文把争论结构化为六层等级，从人身攻击到中心论点的彻底驳斥，帮助读者识别论证质量，提升在线与现实中的理性交流。",
+    "best_quote_en": "\"The most convincing form of disagreement is refutation.  It’s also the rarest, because it’s the most work.\"",
+    "best_quote_zh": "\"最有说服力的反驳形式是驳斩。它也是最少见的，因为它需要最多的工作。\""
+  },
+  {
+    "id": 752,
+    "title": "Plastic Cake Fallacy",
+    "title_zh": "塑料蛋糕谬误",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ayCm5AWQuHfeqtZim/plastic-cake-fallacy",
+    "tags": [
+      "learn",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "The article uses a vivid dialogue to expose the classic appeal-to-consequence fallacy—arguing that because atheists cannot articulate a satisfactory moral framework, God must exist. By anthropomorphizing the debate between Alice and Bob, the author demonstrates how an irrelevant premise (Bob’s culinary failure) can be mistakenly leveraged to support an unrelated conclusion (the necessity of divine morality). The piece critiques the logical misstep of conflating preference with truth, underscoring that evidential support must be directly linked to the claim at hand. While the example is light‑hearted, it reveals a broader pattern in moral philosophy and religious epistemology, prompting readers to scrutinize the reasoning behind arguments that hinge on undesirable outcomes or preferences. The post invites a more rigorous, evidence‑based approach to moral discourse, urging thinkers to separate the desirability of a conclusion from its factual validity.",
+    "summary_zh": "作者用生动对话揭示“后果论证”谬误：因无神论者无法提出令人满意的道德体系而推断上帝存在。文章指出把无关事实（烹饪失败）当作论证依据是错误的，提醒读者在道德与宗教论证中区分偏好与真理。",
+    "best_quote_en": "This fallacy is a version of appeal to consequences: it confuses what we would prefer to be true with what is true.",
+    "best_quote_zh": "这是一种后果论证的变体：它把我们想要的真理与真实混淆。"
+  },
+  {
+    "id": 753,
+    "title": "Rachel Goldberg-Polin on Losing a Son in Gaza",
+    "title_zh": "Rachel Goldberg-Polin 失去儿子在加沙的经历",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/rachel-goldberg-polin-on-losing-a-son-in-gaza",
+    "tags": [
+      "update",
+      "politics",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "生活方式"
+    ],
+    "date": "2026-06-16",
+    "summary_en": "Rachel Goldberg‑Polin’s interview with the New Yorker Radio Hour offers a moving window into the personal cost of geopolitical conflict and the power of public advocacy. Born in Chicago and now an Israeli resident, she became the most visible voice for families of hostages after her son Hersh was abducted by Hamas on 7 October 2023. The conversation traces her evolution from grieving mother to outspoken spokesperson—meeting Israeli politicians, Pope Francis, and even speaking at the 2024 Democratic National Convention. She explains that Israel’s priority should be returning hostages, while insisting on an end to indiscriminate violence against both Israelis and Palestinians. The interview also delves into her memoir, *When We See You Again*, revealing how she navigates grief, anger, and the imperative of bearing witness. For readers, the piece is a case study in how personal tragedy can be leveraged into political activism, offering lessons on resilience, narrative framing, and the ethical limits of advocacy. It challenges listeners to consider how grief can be transformed into a voice for change, while questioning the role of individual agency in the face of systemic violence.",
+    "summary_zh": "Rachel Goldberg‑Polin 的访谈揭示了个人悲痛如何转化为政治发声。她在失去儿子后，成为以色列人质家庭的代言人，呼吁归还人质并停止对无辜者的杀戮。她的故事让人反思，痛苦能否成为推动社会行动的力量？",
+    "best_quote_en": "\"People are desperate for us to be angry … I put Hersh in the ground on September 2, 2024. After that, I’m in a completely different universe.\"",
+    "best_quote_zh": "“人们渴望我们愤怒……我于2024年9月2日让赫尔什安葬。之后，我处在完全不同的宇宙。”"
+  },
+  {
+    "id": 754,
+    "title": "Megg and Mogg in Amsterdam / The Collector",
+    "title_zh": "Megg and Mogg 在阿姆斯特丹 / The Collector",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/megg-and-mogg-in-amsterdam-the-collector/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-06-16",
+    "summary_en": "The article offers a dual‑lens critique of two distinct comic works, juxtaposing the grotesque, drug‑laden humor of Simon Hanselmann’s Megg and Mogg with the artful, historically‑rich adventures of Sergio Toppi’s The Collector. It delves into how Megg and Mogg’s chaotic world, though brimming with depravity, is underpinned by surprisingly tender relational dynamics—highlighting themes of love, loyalty, and the struggle to maintain personal bonds amid addiction. The reviewer appreciates the raw emotional core that persists despite the vulgar surface, underscoring a subtle hope that anchors the characters. In contrast, the review of The Collector celebrates Toppi’s masterful line work, cinematic panel composition, and cross‑cultural storytelling, framing the rogue as a symbolic curator of historical artifacts. The piece serves both as a recommendation and a thoughtful exploration of how narrative tone, visual style, and thematic depth can transform seemingly niche comics into culturally resonant art. It invites readers to reconsider genre boundaries and recognize the potential of graphic storytelling to probe complex human conditions.",
+    "summary_zh": "本文以评论视角，探讨两部漫画的艺术与主题：Hanselmann的Megg and Mogg以荒诞毒瘾展示友情与爱；Toppi的The Collector则以历史冒险呈现跨文化视角。两者都展现了即使在极端情境下，情感与希望仍能在画面中闪现。",
+    "best_quote_en": "There is obviously a lot of love and solidarity to be found within the complex relationships between these characters – in the midst of the binge drugging, the frequent release of bodily fluids, and the seeming complete lack of any motivation or ambition on anyone’s part.",
+    "best_quote_zh": "在毒品滥用、频繁排泄以及似乎缺乏任何动力或抱负的混乱中，仍可以看到这些角色之间复杂关系中的大量爱与团结。"
   }
 ]
