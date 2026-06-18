@@ -1,121 +1,5 @@
 [
   {
-    "id": 655,
-    "title": "New Book Drop/Giveaway: “Retire by 30”",
-    "title_zh": "新书赠送/赠品：《30岁退休》",
-    "source": "Budgets Are Sexy",
-    "link": "https://budgetsaresexy.com/new-book-cody-berman-retire-by-30/",
-    "tags": [
-      "solve",
-      "personal-finance",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "个人理财",
-      "设计创意"
-    ],
-    "date": "2026-05-12",
-    "summary_en": "This post blends a lighthearted giveaway announcement with a deeper dive into the principles of early financial independence presented in Cody Berman’s new book, \"Retire by 30.\" The author frames the book as a practical, step‑by‑step system that demystifies the path to wealth—emphasizing that age is irrelevant and that small, consistent habits can yield exponential growth. By inviting readers to share their retirement ambitions, the post encourages active reflection while subtly promoting the book’s actionable framework. The tone is personable and motivational, positioning the giveaway as a community‑building exercise rather than a mere marketing stunt. Readers gain both a tangible incentive (a free copy) and a conceptual toolkit: how to define a retirement target, optimize expenses, grow income, and invest confidently. The author’s own anecdote about delayed financial focus adds authenticity, suggesting that anyone can start now and see measurable progress within a decade. The post’s value lies in its blend of personal narrative, practical advice, and social engagement, making it a useful primer for anyone curious about financial freedom and early retirement strategies.",
-    "summary_zh": "作者以轻松的赠书方式，分享了《30岁退休》书中可操作的早期财务自由步骤。通过邀请读者分享退休目标，既激发反思又推广书籍。内容兼具个人故事与实用技巧，鼓励任何年龄段的读者从小习惯开始，逐步实现财务独立。",
-    "best_quote_en": "\"If you want to reach Financial Independence faster than most people think possible, this book is for you. It doesn’t matter if you’re 18 or 58. The principles work at any age.\"",
-    "best_quote_zh": "“如果你想比大多数人想的更快地实现财务独立，这本书就是为你而写。无论你是18还是58，原则都适用。”"
-  },
-  {
-    "id": 656,
-    "title": "What the Pope Said About A.I.",
-    "title_zh": "教皇关于人工智能的言论",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-pope-leo-xiv-said-about-ai",
-    "tags": [
-      "update",
-      "ai-research",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-05-27",
-    "summary_en": "Jill Lepore’s article dissects Pope Leo XIV’s encyclical *Magnifica Humanitas*, framing it as a moral counterpoint to Silicon Valley’s profit‑centric AI narrative. The pope’s critique—rooted in centuries of Catholic social teaching—highlights the anthropological dangers of unchecked automation: erosion of human dignity, democratic backsliding, and the commodification of thought. Lepore juxtaposes this theological stance with historical skepticism from thinkers like Arendt and Mumford, underscoring the persistent warning that technology can outpace human moral agency. The piece also notes the symbolic partnership between the Vatican and Anthropic, suggesting a nascent ethic of AI regulation. For readers, the article offers a reflective lens on AI governance, reminding technologists that ethical frameworks must precede innovation. It challenges the reader to move beyond efficiency metrics to a holistic, values‑driven approach, positioning the pope’s insight as both a warning and a call to collective responsibility in the age of intelligence.\n",
-    "summary_zh": "文章剖析教皇勒奥十四世《Magnifica Humanitas》敘述，將AI倫理置於人類尊嚴之上，批評硅谷功利主義。作者結合歷史哲學家警示，提醒技術與人性脫節，呼籲道德框架先行，並指出教廷與Anthropic合作的象徵意義，強調集體責任與價值導向。\n",
-    "best_quote_en": "\"To disarm does not mean rejecting technology, but preventing it from dominating humanity – it means freeing technology from monopolistic control and opening it to discussion and debate, therefore making it human‑friendly and restoring it to the plurality of human cultures and ways of life.\"",
-    "best_quote_zh": "\"消除武装并不意味着拒绝技术，而是防止技术支配人类——这意味着摆脱技术的垄断控制，开放讨论和辩论，使其人性化，恢复多元的人类文化与生活方式。\""
-  },
-  {
-    "id": 657,
-    "title": "Essentials: The Science & Process of Healing from Grief",
-    "title_zh": "Essentials: The Science & Process of Healing from Grief",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-28",
-    "summary_en": "The episode dissects grief through a neuroscientific lens, mapping relationships across space, time, and closeness and explaining how loss forces neural remapping. It distinguishes grief from depression, highlights oxytocin’s role in yearning, and shows individual variability in grieving speed. Practical, evidence‑based tools are offered: accessing attachment without episodic memory, leveraging sleep and cortisol rhythms, and applying counterfactual thinking and emotional disclosure. The content blends rigorous fMRI studies, animal models, and actionable behavioral strategies, providing listeners both conceptual depth and immediate, usable advice. It underscores that healing is a biological process shaped by circadian biology and neuroplasticity, inviting listeners to harness sleep, light, and mindful practices to navigate loss. The episode’s clarity, data‑driven insights, and practical framework make it a valuable guide for clinicians, researchers, and anyone seeking to understand and manage grief.",
-    "summary_zh": "本集以神经科学视角剖析悲伤，解释失去如何导致脑内关系重塑，并区分悲伤与抑郁。作者结合 fMRI 研究、动物模型与实证工具，阐述催产素在渴望中的作用、个体差异及睡眠、皮质醇节律对康复的影响。内容兼具理论深度与可操作性，为心理健康从业者、研究者及普通听众提供了清晰且数据驱动的悲伤管理路径。",
-    "best_quote_en": "Grief isn’t just an emotional state—it’s a neurobiological remodeling that rewires our entire sense of space, time, and closeness.",
-    "best_quote_zh": "悲伤不仅是情绪，它是重新塑造我们对空间、时间和亲密感知的神经重组。"
-  },
-  {
-    "id": 658,
-    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman (#864)",
-    "title_zh": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Anne Lamott, Claire Hughes Johnson, David Yarrow, and Diana Chapman (#864)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/05/06/how-to-simplify-your-life-3-transcript/",
-    "tags": [
-      "solve",
-      "education",
-      "health-wellness",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "健康养生",
-      "案例研究"
-    ],
-    "date": "2026-05-07",
-    "summary_en": "The transcript distills four seasoned thinkers’ distilled wisdom on decluttering lives in the coming years. Each voice—Anne Lamott’s meditation on authenticity, Claire Hughes Johnson’s “yes‑or‑no” framework for priorities, David Yarrow’s boundary‑setting around relationships, and Diana Chapman’s play‑based contracts—offers concrete, introspective steps that feel both actionable and deeply personal. The episode reframes simplification not as a tidy checklist but as a series of intentional decisions that align inner values with outer actions. It invites listeners to quantify their own “yes‑or‑no” choices, schedule deliberate downtime, and practice conversational contracts that reduce drama. By weaving psychological insight with practical habits, the conversation underscores that simplicity is a continuous, adaptive practice that empowers sustainable growth rather than a one‑time fix. The episode’s relevance extends beyond personal lifestyle design to leadership, team dynamics, and organizational culture, making it a versatile resource for anyone seeking clarity amid complexity.",
-    "summary_zh": "四位嘉宾用真诚与实践相结合的方式，阐释了生活简化的核心：对内在价值与外在行动的对齐。通过“说不”框架、关系边界、玩耍式契约等方法，展示了如何在复杂中保持清晰、可持续的成长。",
-    "best_quote_en": "\"I realized that this feeling wasn’t out there, but that it was rather going to be an inside job… I could breathe again, and there is no more simple, profound, enriching change we can make than learning to breathe again.\"",
-    "best_quote_zh": "“我意识到这种感觉不是外在的，而是需要在内在完成的…我可以再次呼吸，最深刻、最丰富的改变也不是学会呼吸。”"
-  },
-  {
-    "id": 659,
-    "title": "George Clinton must face late bandmate’s estate copyright suit, appeals court rules",
-    "title_zh": "乔治·克林顿必须面对已故乐队成员遗产的版权诉讼，上诉法院裁定",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/george-clinton-must-face-late-bandmates-estate-copyright-suit-appeals-court-rules/",
-    "tags": [
-      "analyze",
-      "legal",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "法律法规",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-28",
-    "summary_en": "The Sixth Circuit’s revival of the estate of Parliament‑Funkadelic keyboardist Bernie Worrell’s copyright suit against George Clinton and Thang, Inc. underscores how fading statutory bars and contract ambiguities can resurrect decades‑old disputes in the music industry. By rejecting the dismissal, the court clarified that the 1976 agreement—though never countersigned—was effectively treated as governing, allowing the estate to pursue co‑ownership claims for recordings between 1976 and 1979. The decision forces Clinton, already embroiled in multiple royalty battles—including a high‑stakes lawsuit against UMG and a $100 million claim against Bridgeport Music—to confront unresolved ownership questions that were previously deemed settled. This case illustrates the precarious balance between contractual intent and federal copyright law, the strategic use of litigation to leverage royalty negotiations, and the broader implications for artists’ rights in an era where legacy catalogs drive streaming revenue. For legal practitioners and industry stakeholders, the ruling signals that even seemingly moot contracts can reignite claims, urging meticulous documentation and proactive dispute resolution.",
-    "summary_zh": "上诉法院重燃伯尼·沃勒遗产对乔治·克林顿的版权诉讼，提醒音乐人和企业：合同细节与版权法的交织，可能在多年后重新点燃争端。此案凸显了在版权与合同争议中的法律博弈，也警示艺人和公司在签约时需严格记录与明晰权利归属。",
-    "best_quote_en": "\"Having successfully argued in New York state court that the 1976 Agreement never governed their relationship with Worrell, Clinton and Thang must live with the consequence that federal copyright law, not contract law, now controls.\"",
-    "best_quote_zh": "‘在纽约州法院成功辩称1976年协议从未管辖他们与沃勒的关系后，克林顿和Thang必须接受联邦版权法而非合同法现在起作用的后果。’"
-  },
-  {
     "id": 660,
     "title": "RoboBuffett 😂",
     "title_zh": "RoboBuffett 😂",
@@ -2336,5 +2220,121 @@
     "summary_zh": "本文以评论视角，探讨两部漫画的艺术与主题：Hanselmann的Megg and Mogg以荒诞毒瘾展示友情与爱；Toppi的The Collector则以历史冒险呈现跨文化视角。两者都展现了即使在极端情境下，情感与希望仍能在画面中闪现。",
     "best_quote_en": "There is obviously a lot of love and solidarity to be found within the complex relationships between these characters – in the midst of the binge drugging, the frequent release of bodily fluids, and the seeming complete lack of any motivation or ambition on anyone’s part.",
     "best_quote_zh": "在毒品滥用、频繁排泄以及似乎缺乏任何动力或抱负的混乱中，仍可以看到这些角色之间复杂关系中的大量爱与团结。"
+  },
+  {
+    "id": 755,
+    "title": "Elegant and practical, capri pants give off Audrey Hepburn vibes | Jess Cartner-Morley",
+    "title_zh": "优雅实用的短裤：让你散发奥黛丽·赫本的气质 | Jess Cartner-Morley",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jun/17/jess-cartner-morley-fashion-capri-pants-audrey-hepburn-vibes",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "The Guardian’s style column, penned by Jess Cartner‑Morley, reframes the humble capri pant as a sophisticated yet practical wardrobe staple for the modern woman. By tracing its origin from 1940s Munich to Audrey Hep{burn}‑era Hollywood, the piece situates capris within a lineage of mid‑century chic, underscoring their versatility across office, beach, and city settings. Cartner‑Morley moves beyond mere trend‑watching; she offers concrete styling cues—pairing with boxy gingham tops, choosing lightweight footwear, and balancing proportions—to transform capris from nostalgic relics into intentional, contemporary looks. The article’s tone balances historical context with actionable advice, making it a valuable resource for fashion editors, stylists, and style‑savvy readers seeking to elevate everyday summer outfits. By highlighting the capri’s “founding myth” and cinematic allure, the piece invites readers to experience fashion as both functional and aspirational, reinforcing the idea that style can be both comfortable and elegant.",
+    "summary_zh": "文章把短裤从一件复古单品升华为现代职场与休闲兼备的必备单品，结合历史与实用搭配技巧，让读者在舒适中感受优雅。",
+    "best_quote_en": "The capri pant is an undeniably elegant solution to the problem of what to wear when jeans or tailored trousers are too hot and cumbersome, but you don’t want to wear shorts.",
+    "best_quote_zh": "短裤是解决既不想穿牛仔裤也不想穿短裤时的优雅答案。"
+  },
+  {
+    "id": 756,
+    "title": "You Weren't Meant to Have a Boss",
+    "title_zh": "你不该有老板",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/boss.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-06-18",
+    "summary_en": "The essay argues that the conventional corporate hierarchy—rooted in a tree structure—undermines human natural inclination for autonomy and innovation, especially for programmers. By comparing work environments to dietary choices, the author illustrates how large organizations impose restrictive constraints that stifle creativity, reduce learning opportunities, and ultimately slow growth. He draws on observations from over 200 founders and Y Combinator data to show that founders and early employees of small startups exhibit higher initiative, resilience, and learning gains than their counterparts in big firms. The piece calls for a shift toward smaller, more autonomous teams or a fundamentally different organizational design that eliminates the tree hierarchy. It also cautions against debt‑financing startups and emphasizes that failure, when it occurs, can be a valuable learning experience rather than a financial ruin. The essay invites readers—particularly programmers—to reconsider the allure of big‑tech jobs and to weigh the trade‑offs between stability and freedom.",
+    "summary_zh": "文章用食物与工作环境的类比，揭示大型企业树形层级对人类自主性与创新的压制。作者基于200多位创始人经验与 YC 数据，指出小型团队更能激发程序员的主动性与学习。强调创业失败可成为成长的机会，呼吁摆脱传统层级结构，提倡更小、更自主的组织形式。",
+    "best_quote_en": "\"Working for yourself doesn’t have to mean starting a startup, but a programmer deciding between a regular job at a big company and their own startup is probably going to learn more doing the startup.\"",
+    "best_quote_zh": "“为自己工作并不一定意味着创业，但程序员在大公司与自己创业之间做选择时，创业往往能让他们学到更多。”"
+  },
+  {
+    "id": 757,
+    "title": "How far do open weights trail the frontier?",
+    "title_zh": "开放模型与闭源模型的前沿落后程度？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DbLnB7eo9wBDDnSEq/how-far-do-open-weights-trail-the-frontier",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-18",
+    "summary_en": "This concise post probes the quantitative gap between open‑weight and closed‑weight AI models, using the ECI metric from Epoch’s IRT‑based evaluation rather than the more simplistic AA Index. By mapping each open‑weight frontier model against the earliest closed‑weight model that achieved the same ECI, the author visualises a clear temporal lag—often spanning several months. The analysis extends to a rivalry comparison between OpenAI and Anthropic, illustrating how one ecosystem can be ahead or behind the other at specific performance thresholds. The piece invites readers to interact with the underlying graphs, fostering a deeper, data‑driven understanding of model progression. For researchers and enthusiasts, it highlights the importance of robust metrics and the value of open‑source transparency in tracking AI progress, while also pointing out the limitations of current benchmarks and the need for continuous updates as new models surface.",
+    "summary_zh": "文章用 Epoch 的 IRT‑based ECI 指标，细致比较了开放权重模型与闭源模型在前沿落后程度，绘制了时间差图，揭示了几个月的性能落差，并对 OpenAI 与 Anthropic 的竞争做了对比。它强调了量化指标的重要性和开放源代码对跟踪 AI 进步的价值，提醒我们持续更新数据以保持准确性。",
+    "best_quote_en": "\"Each open‑weight frontier model and how many months earlier a closed model had reached its ECI.\"",
+    "best_quote_zh": "\"每个开放权重前沿模型与其达到相同 ECI 的闭源模型相差的月份数。\""
+  },
+  {
+    "id": 758,
+    "title": "Can Zohran Mamdani Sway the Commie Corridor’s “Civil War”?",
+    "title_zh": "能否让Zohran Mamdani影响“共产党走廊”的“内战”？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-zohran-mamdani-sway-the-commie-corridors-civil-war",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-06-18",
+    "summary_en": "The piece dissects a micro‑political battle in New York’s Seventh Congressional District, where the newly elected Democratic Socialists of America (DSA) mayor, Zohran Mamdani, is backing Claire Valdez against incumbent‑sitter Antonio Reynoso. It reads like a field report, blending reportage, insider interviews, and sociopolitical analysis to illuminate the mechanics of left‑wing mobilization in a district that has long been a bastion for progressive politics. The narrative foregrounds the tension between local identity and national progressive agendas, the role of endorsements from unions and the Working Families Party, and the strategic calculus of “first‑to‑say‑it” on issues such as the Gaza war and ICE. By framing the primary as a “civil war” within the “Commie Corridor,” the author dramatizes the ideological split that can emerge even among like‑minded activists. The article invites readers to consider how celebrity, grassroots organizing, and strategic alliances shape electoral outcomes in a rapidly changing urban left. It also highlights the emotional labor of candidates who transition from behind‑the‑scenes organizers to public office seekers, underscoring the loneliness and pressure that accompany such a shift. The piece ultimately serves as a case study for how progressive movements must balance authenticity, local ties, and broader coalition building to convert electoral victories into lasting policy influence.",
+    "summary_zh": "文章细致描绘纽约第七选区的左翼内部竞争，探讨市长Mamdani对候选人Valdez的支持与Reynoso的对抗，揭示团结与身份认同在进步运动中的博弈。",
+    "best_quote_en": "\"It can feel very lonely,\" Valdez said, underscoring the emotional toll of moving from cadre to candidate.",
+    "best_quote_zh": "“这可能会让人感到非常孤独，”Valdez说，凸显从组织者到候选人的情感代价。"
+  },
+  {
+    "id": 759,
+    "title": "What’s in my NOW? — frank",
+    "title_zh": "What’s in my NOW? — frank",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-frank/",
+    "tags": [
+      "inspire",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "This reflective post blends personal narrative with practical tech recommendations, offering a living laboratory of AI-assisted creativity and mindful travel. The author chronicles his evolving workflow with Claude, a cutting‑edge code‑generation agent, and highlights complementary plugins that unlock its full potential—an insightful resource for developers eager to experiment without hefty subscription fees. Beyond coding, he showcases a curated list of physical gear (laser trigger massage, ergonomic backpack, durable sandals) that supports an active, mobile lifestyle, illustrating how thoughtful product choices can enhance well‑being on the go. The digital companion, Pilgrim, exemplifies the convergence of mindfulness and technology, enabling users to capture spontaneous insights during walks and transform them into shareable narratives. Overall, the piece invites readers to experiment, iterate, and weave technology into everyday rituals, underscoring the power of intentionality in a hyperconnected world.",
+    "summary_zh": "作者通过亲身实践，展示了Claude等AI工具与日常生活的深度融合，并分享了支持移动生活的实用装备与应用，鼓励读者以实验与反思的方式将技术融入生活，体现了在数字时代主动创造与自我关怀的价值。",
+    "best_quote_en": "energy begets more energy",
+    "best_quote_zh": "能量会产生更多能量"
   }
 ]
