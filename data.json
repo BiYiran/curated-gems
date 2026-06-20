@@ -1,123 +1,5 @@
 [
   {
-    "id": 665,
-    "title": "New Europe Stopover/National Park Deals/Schengen Shuffle",
-    "title_zh": "新欧洲停留/国家公园优惠/申根混搭",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/new-europe-stopover-national-park-deals-schengen-shuffle/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-05-28",
-    "summary_en": "This concise newsletter stitches together a handful of timely travel hacks and geopolitical twists, offering readers a micro‑guide to squeezing extra value out of their itineraries. The first piece reveals Lufthansa’s new stopover program, a clever loophole that lets travelers linger a week in Munich—perfect for those who want a second vacation without a separate flight. The second highlights Canada’s free national‑park entry during school holidays, a budget‑savvy boon that also includes discounts on accommodations, museums, and rail passes. The third is a legal drama: Shakira’s tax dispute shows how a high‑profile settlement can backfire, turning a €7.3 million payment into a €60 million claim against the Spanish state. Finally, the “Schengen Shuffle” article demystifies the creative loophole many nomads use to extend their stay beyond the 90‑day limit, and references a recent CNN piece that brings the tactic into mainstream conversation. Together, these snippets underscore a broader theme: savvy travelers and even celebrities can exploit policy gaps to save money or gain advantage. The article invites readers to think critically about how travel, tax law, and migration regulations intersect, encouraging them to spot similar opportunities or pitfalls in their own journeys.",
-    "summary_zh": "这篇简短的周报把最新的旅行优惠与国际税务争议巧妙拼接，提供了实用的停留策略和洞察。它先介绍了汉莎航空新推出的停留计划，帮助旅客在前往目的地时多住一周；随后列举了加拿大暑期免费进入国家公园的优惠，以及伴随的住宿、博物馆和铁路折扣；紧接着讲述了夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判；最后解读了“申根混搭”现象，说明了非欧盟国籍者如何利用边境规则延长停留。整体上，文章既是旅行攻略，也是对政策漏洞与个人利益的思考，提醒读者在享受优惠的同时，关注法律与伦理边界。",
-    "best_quote_en": "Shakira’s case shows how a high‑profile settlement can backfire, turning a €7.3 million payment into a €60 million claim against the Spanish state.",
-    "best_quote_zh": "夏卡里与西班牙税务局的纠纷，展示了高调和高风险的税务谈判。"
-  },
-  {
-    "id": 666,
-    "title": "Abortion, regret and the right to decide | Letters",
-    "title_zh": "堕胎、后悔与决定权 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/may/28/abortion-regret-and-the-right-to-decide",
-    "tags": [
-      "inspire",
-      "legal",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "法律法规",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-05-28",
-    "summary_en": "This Guardian letter piece challenges the myth that abortion inevitably breeds regret, juxtaposing it with the societal stigma that surrounds it compared to cancer. The author, drawing from personal experience and broader anecdotes, argues that the emotional aftermath of abortion is highly individual—ranging from indifference to profound grief—and that the public’s moral framing often silences those who have chosen abortion. By referencing Roe McDermott’s essay and cultural references such as Amanda Palmer’s lyric, the piece advocates for an end to punitive waiting periods and for normalized support structures akin to those for PTSD. It underscores the critical need to separate medical decision‑making from moral judgment, urging society to treat abortion with the same compassion afforded to other health interventions. The letter serves as both a personal testimony and a call to action, highlighting the intersection of health, gender, and public policy while inviting readers to reconsider how shame, regret, and autonomy are framed in public discourse.",
-    "summary_zh": "作者以亲身经历为例，质疑堕胎必然伴随后悔的说法，指出与癌症相比，堕胎更易受社会污名。文中呼吁废除三天等待期，强调像PTSD支持组那样的堕胎支持体系。作者强调，决定堕胎与否是个人选择，情感反应多样，社会应以同情而非道德审判对待。",
-    "best_quote_en": "“It’s OK if you felt no attachment; it’s OK if you felt ambivalent; it’s OK if you (like me) cried at a makeshift grave on the darkest days.”",
-    "best_quote_zh": "“如果你没有情感依恋，也没关系；如果你感到矛盾，也没关系；如果你像我一样，在最黑暗的日子里在临时坟墓前哭泣，也没关系。”"
-  },
-  {
-    "id": 667,
-    "title": "What I've Learned from Hacker News",
-    "title_zh": "我从 Hacker News 学到的东西",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hackernews.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-05-30",
-    "summary_en": "This essay reads like a reflective lab report on building a community platform. The author chronicles Hacker News’ early growth from a side project to a 22‑k daily‑unique site, and frames the experience as an experiment in technology, culture, and human behavior. He stresses the tension between rapid scale and preserving a tight, thoughtful user base, arguing that dilution is more a behavioral than a user‑count problem. The narrative introduces concrete, data‑driven ideas such as the “Fluff Principle,” the use of delayed comment replies to curb low‑quality interaction, and the importance of transparent moderation. The essay is rich in actionable observations that can be applied to other startups: prioritize clarity in rules, protect front‑page quality, and remember that the healthiest communities are engineered for the right people, not the largest audience. Its value lies in its blend of empirical data, psychological insight, and thoughtful critique of community design, making it a useful case study for founders and product designers.\n\nThe author’s tone is candid and self‑critical, and he openly acknowledges failures (such as the orange‑username experiment) while drawing lessons that extend beyond Hacker News. The piece is a call for intentional community curation, an argument that the best platform is built around people rather than features.\n\nOverall, the essay offers a nuanced view of growth, moderation, and community health—insights that resonate with founders, growth engineers, and researchers interested in the intersection of product, culture, and human behavior.",
-    "summary_zh": "作者把 HN 的成长与社区文化视为实验，强调规模与品质的抉择。文章提出“稀疏原则”“延迟回复”等可操作的社区治理思路，认为保持活跃者的行为规范比单纯的技术升级更重要。它既是对创业者的案例，也是对产品经理的启示，揭示了技术与人性在社区建设中的张力。",
-    "best_quote_en": "The key to performance is elegance, not battalions of special cases.",
-    "best_quote_zh": "关键在于优雅，而不是一堆特殊情况的堆砌。"
-  },
-  {
-    "id": 668,
-    "title": "AI as Biology's Digital Microscope",
-    "title_zh": "AI 作为生物学的数字显微镜",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/BxziXpLC22cvSCip5/ai-as-biology-s-digital-microscope",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-30",
-    "summary_en": "The article presents ProtoMech, a novel interpretability framework that transforms large protein language models into digital microscopes, enabling scientists to trace internal computational pathways that correspond to biological motifs, catalytic sites, and mutation effects. By mapping these latent circuits, ProtoMech reveals that AI models have implicitly learned complex biochemical principles—an insight that bridges machine learning and structural biology. The work is grounded in recent advances from ICML 2026 and leverages cross‑layer transcoders to produce sparse, interpretable representations. The author argues that once we can view AI’s internal mechanics, we can use these models as virtual laboratories, accelerating discovery by predicting the functional consequences of mutations and engineering novel proteins without wet‑lab experiments. The article balances technical depth with visionary speculation, outlining both the current limitations (dependence on existing biological knowledge) and the future potential of automating feature interpretation. It invites researchers to rethink AI not merely as a predictive tool but as a mechanistic lens that can illuminate unseen biological processes, thereby redefining the workflow of computational biology.",
-    "summary_zh": "ProtoMech 框架将大型蛋白质语言模型转变为可解读的“数字显微镜”，揭示 AI 内部的计算回路与生物学结构、功能热点及突变效应相对应。这一突破不只是技术创新，更在重塑科研流程：从黑盒预测转向可视化机制，让实验室仿真与实测并行，显著加速蛋白工程与功能预测。",
-    "best_quote_en": "ProtoMech provides a mechanistic rationale for why certain mutations improve protein function and why others kill protein function.",
-    "best_quote_zh": "ProtoMech 为某些突变为何提高蛋白功能、为何导致失效提供了机制性解释。"
-  },
-  {
-    "id": 669,
-    "title": "Donald Trump Gets Even",
-    "title_zh": "唐纳德·特朗普复仇",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-gets-even",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2026-05-29",
-    "summary_en": "The piece is a sharp, insider‑style exposé that deconstructs the Trump administration’s newly announced \"Anti‑Weaponization\" fund, framing it within a broader narrative of political retribution, selective justice, and the commodification of grievances. It blends anecdotal interviews—ranging from a pardoned January 6th defendant to a senior DOJ lawyer—with a critical timeline of Trump’s public statements and policy moves. The author argues that the fund, while ostensibly a reparative mechanism, serves more as a political tool to consolidate loyalty, appease a base that feels systematically persecuted, and distract from substantive policy failures. The analysis is data‑driven in its recounting of settlement amounts, court rulings, and legislative maneuvers, yet it remains firmly opinionated, underscoring the performative nature of executive clemency and the selective application of the rule of law. This piece invites readers to question the integrity of post‑campaign concessions, to assess the real impact of such funds on affected communities, and to reflect on the broader erosion of democratic norms when political capital is traded for loyalty. It is a call for a more principled, transparent approach to governance, one that prioritizes accountability over spectacle.",
-    "summary_zh": "文章以辛辣批评的口吻剖析特朗普“反武器化”基金，揭示其背后是政治报复与忠诚交易。作者通过访谈与数据，指出此举更多是表面姿态而非实质补偿，呼吁读者关注治理的透明与问责。",
-    "best_quote_en": "\"People were destroyed, they went to jail, their families were ruined, they committed suicide… the Obama Administration started it. The Biden Administration was horrible in terms of what they’ve done to people.\"",
-    "best_quote_zh": "“人们被摧毁，他们进监狱，家庭破碎，甚至自杀……奥巴马政府启动了这件事。拜登政府在对待人们方面更糟。”"
-  },
-  {
     "id": 670,
     "title": "Book Freak #211: Tolstoy’s Guide to Daily Wisdom",
     "title_zh": "书虫#211：托尔斯泰的每日智慧指南",
@@ -2334,5 +2216,121 @@
     "summary_zh": "Huberman 详细阐述柔韧性背后的生物学，区分不同拉伸方式，并给出基于研究的具体方案与频率建议，帮助读者通过科学方法提升运动表现与抗衰老。",
     "best_quote_en": "Understanding the biology of flexibility allows us to tailor stretching protocols that maximize performance and counteract age‑related loss.",
     "best_quote_zh": "了解柔韧性的生物学使我们能够量身定制拉伸方案，最大化表现并抵消年龄相关的退化。"
+  },
+  {
+    "id": 765,
+    "title": "Unchickenous Apricot Berry Cake",
+    "title_zh": "Unchickenous Apricot Berry Cake",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JtkR9aDd3m2CeRi3J/unchickenous-apricot-berry-cake",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-06-20",
+    "summary_en": "The post is a personal culinary experiment that blends veganism, precision‑fermented egg whites, and a community‑focused approach to baking. Jeff TK confronts the common disappointment of vegan desserts by showcasing a recipe that mimics the texture and flavor of a traditional cake while remaining plant‑based. The narrative frames the cake as a social catalyst—an “effective altruism dinner” that balances dietary ethics with taste. Practical details such as sourcing bulk fruit at Haymarket, precise measurements, baking temperatures, and ingredient substitutions are shared, making the recipe both actionable and replicable. The article invites readers to re‑imagine vegan baking as an inclusive, delicious, and sustainable practice, encouraging experimentation with new techniques like precision‑fermented egg whites. Its tone is conversational yet informative, offering a recipe that is accessible to beginners while hinting at advanced substitutions for seasoned bakers. This piece serves as a guide to rethinking plant‑based desserts, a call to community, and a testament to the evolving landscape of vegan gastronomy.",
+    "summary_zh": "这篇文章把无蛋糕的实验与社区烘焙结合起来，展示了精酿蛋白如何让素食甜点也能口感出众。作者通过在哈伊市场大量采购水果、精准温度与配方细节，提供了可操作的做法，并鼓励读者用新技术重塑素食烘焙。",
+    "best_quote_en": "I made an eggless cake last weekend that was indistinguishable from the summer cakes we'd eat growing up.",
+    "best_quote_zh": "我上周末做了一个无蛋糕，味道几乎和我们小时候吃的夏季蛋糕无异。"
+  },
+  {
+    "id": 766,
+    "title": "How the Trump Administration Pushed Judges to Deport Children",
+    "title_zh": "",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-the-trump-administration-pushed-judges-to-deport-children",
+    "tags": [
+      "solve",
+      "legal",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-06-20",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 767,
+    "title": "Essentials: Using Light to Optimize Health",
+    "title_zh": "要点：用光优化健康",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-light-to-optimize-health",
+    "tags": [
+      "guide",
+      "medicine"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "In this episode of Huberman Lab Essentials, Andrew Huberman dissects the science of light—its wavelengths, physics, and biological impact—into a practical guide for everyday wellness. He explains how blue light and seasonal sun exposure regulate melatonin, improve sleep, and boost mood, while UVB light can enhance pain tolerance, immune function, and even fertility hormones. The discussion extends to infrared and red light therapies that accelerate wound healing, stimulate mitochondrial function, and counter age‑related vision decline. Huberman provides concrete protocols: daily sunlight windows, blue‑blocker use, UVB‑safe exposure schedules, and red‑light frequency‑timing guidelines for shift workers. The episode blends mechanistic detail with actionable tools, making complex photobiology accessible to both novices and seasoned health enthusiasts. The content is a compelling fusion of cutting‑edge research and real‑world application, encouraging listeners to harness light as a low‑cost, high‑impact intervention for mental and physical health.",
+    "summary_zh": "Huberman 在本期节目中将光的物理与生物学原理拆解成可操作的健康指南。他阐述蓝光与季节性日照如何调节褪黑激素，提升睡眠与情绪；UVB 光可增强痛耐、免疫与生殖激素；红光与红外光则加速伤口愈合、激活线粒体并抵御视力衰退。节目提供每日日照窗口、蓝光阻断、UVB 安全曝光与红光频率时序等具体方案，既有理论深度又兼具实用性。",
+    "best_quote_en": "UVB light can improve pain tolerance, boost immune function, and even influence fertility hormones.",
+    "best_quote_zh": "UVB 光可以提高疼痛耐受力，增强免疫功能，甚至影响生殖激素。"
+  },
+  {
+    "id": 768,
+    "title": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/18/sebastian-mallaby-transcript/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-06-19",
+    "summary_en": "In this deep dive, Tim Ferriss interviews Sebastian Mallaby, author of \"The Infinity Machine,\" to unpack the evolving landscape of artificial intelligence and the race toward superintelligence. Mallaby draws on interviews with over a hundred AI insiders, revealing how breakthroughs—from AlphaGo to AlphaFold—have reshaped the field. He discusses the tension between rapid innovation and the need for safety, noting how religious language often surfaces when people grapple with AI’s existential implications. The conversation also covers geopolitical dynamics, especially U.S.–China AI competition and the role of government regulation. Mallaby’s insights highlight the importance of strategic foresight: he advocates for a “prepared mind” to navigate the accelerating pace of AI, stressing that while tools can augment cognition, they should not replace human agency. The episode blends technical depth with actionable advice for investors, policymakers, and curious listeners alike.",
+    "summary_zh": "在这期节目中，Tim Ferriss 采访了《无限机器》作者 Sebastian Mallaby，深入探讨人工智能的演进与超智能竞赛。Mallaby 结合百余位 AI 内部人士访谈，揭示 AlphaGo、AlphaFold 等突破如何重塑行业，并讨论技术创新与安全需求的张力。他指出，面对 AI 的存在意义，人们常用宗教语言来形容。对美中 AI 竞争与政府监管的讨论亦十分关键。Mallaby 强调“准备好思维”，以应对 AI 加速发展，提醒工具虽能增强认知，却不应取代人类主体。节目兼具技术深度与可操作建议，适合投资者、政策制定者与好奇者。",
+    "best_quote_en": "Prepare your mind.",
+    "best_quote_zh": "准备好你的思维。"
+  },
+  {
+    "id": 769,
+    "title": "From Lionel Richie’s voice trademark bid to the Michael Jackson biopic box-office record… it’s MBW’s Weekly Round-up",
+    "title_zh": "",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-lionel-richies-voice-trademark-bid-to-the-michael-jackson-biopics-911m-box-office-record-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2026-06-19",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
