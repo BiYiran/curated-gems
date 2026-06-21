@@ -1,119 +1,5 @@
 [
   {
-    "id": 670,
-    "title": "Book Freak #211: Tolstoy’s Guide to Daily Wisdom",
-    "title_zh": "书虫#211：托尔斯泰的每日智慧指南",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-211-tolstoys-guide-to-daily-wisdom/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "education"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "教育学习"
-    ],
-    "date": "2026-05-29",
-    "summary_en": "The article introduces Tolstoy’s *A Calendar of Wisdom*, a daily reader compiling ancient stoic, Buddhist, and Christian reflections with Tolstoy’s concise commentary. The piece distills four core principles—one idea a day, the peril of false knowledge, love as life’s purpose, and the timelessness of human dilemmas—and suggests concrete practices to internalize them. By framing wisdom as a daily, bite‑sized ritual, the author invites readers to transform passive reading into active change, echoing Tolstoy’s own lifelong experiment. The analysis underscores the book’s practical value: it offers a low‑effort, high‑impact routine that can recalibrate priorities, sharpen discernment, and re‑ignite compassion. For anyone seeking a simple, sustainable path to personal growth, the calendar serves as both a roadmap and a mirror, revealing how ancient insights can still shape modern lives.",
-    "summary_zh": "托尔斯泰的《每日智慧日历》以每日一句的方式，教人以短小精悍的格言和点评，提醒我们只需一日一念即可获益。它把古今哲学凝聚成可执行的行动，帮助读者清晰判断必要知识与无用信息，重塑爱与和解的生活目标。",
-    "best_quote_en": "\"One wise idea a day is enough.\"",
-    "best_quote_zh": "\"一天一个明智的想法就足够了。\""
-  },
-  {
-    "id": 671,
-    "title": "Sali Hughes on beauty: Rejoice! The most beloved cleanser in history is back in the UK",
-    "title_zh": "Sali Hughes谈美妆：欢呼！历史上最受喜爱的洁面露在英国重登",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/may/27/sali-hughes-on-beauty-shu-uemura-cleansing-oil",
-    "tags": [
-      "update",
-      "music-arts",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-05-27",
-    "summary_en": "Sali Hughes' piece celebrates the return of Shu Uemura’s Ultime8, a 60‑year‑old oil cleanser that remains a staple across Asia and now re‑appears in the UK after a seven‑year absence. The article blends nostalgic reverence with practical guidance, unpacking why a seemingly simple oil outperforms modern multi‑step routines: it removes heavy makeup, sunscreen, and grime while preserving skin’s moisture barrier, effectively replacing two cleansing steps. Hughes contextualises the product’s heritage, citing its origin in Hollywood makeup artistry, and positions it as a “wolf in sheep’s clothing” – gentle yet powerful. She expands the discussion by recommending credible alternatives such as Medik8, NIOD, and Madagascar Centella, offering price points and usage tips. The piece is a hybrid of expert‑insight and actionable advice, delivering both a historical narrative and a contemporary purchasing roadmap for beauty enthusiasts seeking efficacy without excessive spending.",
-    "summary_zh": "Sali Hughes以幽默与专业的笔触，重新点燃Shu Uemura Ultime8洁面油的星光。文章揭示这款60年老油为何在亚洲持续畅销，强调其一次性清洁、保湿平衡的双重功效，并与现代多步骤护肤作对比。作者还列举了价格实惠的替代品，既满足高端需求，也兼顾预算。整篇文章兼具历史回顾与实用指南，让读者在了解产品传奇的同时，得到购买与使用的具体建议。",
-    "best_quote_en": "“It does in one application what otherwise requires two cleansing steps.”",
-    "best_quote_zh": "“它一次性完成本来需要两步才能完成的清洁。”"
-  },
-  {
-    "id": 672,
-    "title": "Startups in 13 Sentences",
-    "title_zh": "13句创业箴言",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/13sentences.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "新手友好"
-    ],
-    "date": "2026-05-31",
-    "summary_en": "In this compact essay, author Paul Buchheit distills thirteen pivotal lessons for burgeoning startups, weaving together pragmatic advice, psychological insight, and a touch of humility. The core message—understanding users—recurs as a guiding principle, underscoring that genuine customer empathy fuels product evolution, morale, and ultimately wealth creation. Buchheit champions rapid launch, iterative learning, and frugality, illustrating how these tactics align with the startup’s need to stay lean and responsive.{\\n}His emphasis on small, deeply satisfied user bases over large, indifferent ones invites a shift from mass-market ambition to niche mastery, a strategy that often accelerates growth and attracts venture capital when a company becomes \"ramen profitable.\"{\\n}The essay also offers a candid look at the emotional rollercoaster of founding: distraction, demoralization, and the relentless need to persevere. By framing these challenges as common, he normalizes failure as part of the learning curve, reinforcing the idea that persistence, coupled with constant iteration, is a viable path to success. Overall, the piece balances actionable takeaways with philosophical reflection, making it a valuable resource for entrepreneurs seeking both direction and inspiration.",
-    "summary_zh": "这篇短文以十三句箴言，阐述创办初创企业的核心要点。作者强调理解用户是所有成功的根本，倡导快速发布、持续迭代和精打细算。文中还提醒创始人要警惕分心、保持士气，并坚持不懈。作者的直白与深度让人既能获得实用指导，也能感受到创业的真实情感。",
-    "best_quote_en": "\"Understanding your users is the key—if you know what to make, it’s merely a matter of effort to build it.\"",
-    "best_quote_zh": "\"理解你的用户是关键——如果你知道要做什么，打造它只是一种努力的问题。\""
-  },
-  {
-    "id": 673,
-    "title": "Fundamental Uncertainty: Alternate Framework and Pointwise Reduction",
-    "title_zh": "Fundamental Uncertainty: Alternate Framework and Pointwise Reduction",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/jECkQzProayWhGmNi/fundamental-uncertainty-alternate-framework-and-pointwise",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "争议观点"
-    ],
-    "date": "2026-05-31",
-    "summary_en": "This review engages deeply with Gordon Seidoh Worley’s contentious thesis that epistemic circularity renders truth fundamentally uncertain, arguing that while the premises about linguistic fuzziness and observational error hold, the leap to care‑dependent truth is philosophically untenable. The author meticulously deconstructs Worley’s chapters—highlighting the fallacy of Aumann’s convergence, the limitations of perfect Bayesianism, and the inadequacy of formal systems to guarantee soundness—while pointing out that moral disagreement stems more from value priors than from logical incompatibility. The critique culminates in a sober reminder: our models must be flexible, and we must guard against overconfidence in any supposedly absolute framework. Beyond epistemology, the discussion touches on AI alignment, culture wars, and the Goodhart curse, illustrating how uncertainty pervades both abstract theory and concrete global conflicts. The piece invites scholars and practitioners alike to reassess the foundations of knowledge, encouraging a pragmatic, evidence‑driven approach that balances rigorous reasoning with humility about the limits of inference.",
-    "summary_zh": "这篇评析把戈登·威尔的“根本不确定性”论点拆解得淋漓尽致，指出语言模糊和观测误差确实限制了认识，但把真理完全绑在关怀上缺乏哲学依据。作者通过对Aumann一致性、完美贝叶斯推理以及形式系统可靠性的批判，提醒我们在道德分歧和技术追求中保持审慎、避免自信过度，并以AI对齐与文化冲突为例，展示不确定性如何贯穿理论与实践。",
-    "best_quote_en": "The most important lesson that one can learn from this book is to avoid being overconfident in one's assumptions and to be ready to reassess the world model once a load‑bearing idea became no longer consistent with observations.",
-    "best_quote_zh": "最重要的教训是避免对自己的假设过度自信，并在关键想法不再与观察一致时准备重新评估世界模型。"
-  },
-  {
-    "id": 674,
-    "title": "The Knicks: The Only Game in Town",
-    "title_zh": "尼克斯：唯一的比赛",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/the-knicks-and-the-greatest-night-in-new-york-sports",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "leadership"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "领导管理"
-    ],
-    "date": "2026-05-30",
-    "summary_en": "The piece weaves a rich tapestry of New York’s basketball mythology, anchoring its narrative in the legendary 1970 Finals and extending that legacy to the present. It juxtaposes the visceral, almost mythic heroism of Willis Reed against contemporary star Jalen Brunson, underscoring how individual brilliance can galvanize a collective spirit. The author’s rhetorical flourish—comparisons to El Cid, jazz quintets, and cinematic moments—serves to elevate the sport into a cultural touchstone, inviting readers to see basketball as a narrative of resilience, hope, and communal identity. While the article offers little in terms of strategic play analysis or actionable insights, its strength lies in emotional resonance and historical context, providing readers with a compelling reminder that sport can shape civic pride and personal belief. The piece invites reflection on how past glories inform current aspirations, and how the mythos of a city’s team can inspire generations to \"believe\" in the impossible.",
-    "summary_zh": "文章以1970年莱恩·里德的传奇胜利为起点，层层叠叠地回顾纽约篮球的历史与情感。作者用诗意的比喻把球场比作战场、爵士乐队、电影场景，呈现出一种超越竞技的文化传承。文章并未提供战术教导，而是以情感共鸣和历史叙事唤醒读者对城市精神的认同，强调“相信”所蕴含的力量与意义。",
-    "best_quote_en": "\"Ya gotta believe.\"",
-    "best_quote_zh": "\"你必须相信。\""
-  },
-  {
     "id": 675,
     "title": "What’s in my NOW? — Gordon Tebo",
     "title_zh": "What’s in my NOW? — Gordon Tebo",
@@ -2332,5 +2218,125 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 770,
+    "title": "Trolls",
+    "title_zh": "网络喷子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/trolls.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-06-21",
+    "summary_en": "The piece dissects the persistent problem of trolling in online communities, tracing its roots from early internet forums to modern platforms like Reddit and News.YC. It distinguishes the original, joke‑oriented sense of trolling from the broader, often unintentional, rudeness that has become commonplace. Four causal pillars are identified: anonymity‑driven distance, the tech‑culture of abstract thinking, incompetence that favors blunt insults, and the self‑reinforcing norms of a forum’s culture. The author then evaluates News.YC’s hybrid approach—explicit guidelines, community policing, and reputation‑linked voting—to curb toxicity. Empirical observations suggest that such structural interventions can coexist with vibrant discourse, provided the user base is committed to maintaining civility. The article ultimately frames trolling as a sociotechnical challenge that requires both cultural and algorithmic solutions, offering a nuanced perspective that goes beyond simplistic moral judgments.",
+    "summary_zh": "作者剖析网络喷子现象，探讨匿名距离、技术文化、无能与社区规范如何共同促成喷子行为，并评估News.YC通过准则、社区监管与声誉投票的混合手段，既能抑制恶意，又不削弱讨论活力。此文将喷子视为技术与社会双重挑战，提出兼顾文化与算法的解决路径。",
+    "best_quote_en": "There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it.",
+    "best_quote_zh": "有一种类似格雷沙姆定律的喷子现象：喷子愿意进入思考者聚集的论坛，而思考者则不愿进入充斥喷子的论坛。"
+  },
+  {
+    "id": 771,
+    "title": "A misalignment taxonomy",
+    "title_zh": "A misalignment taxonomy",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/SAJoCCvmqyhba94sa/a-misalignment-taxonomy",
+    "tags": [
+      "guide",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-06-21",
+    "summary_en": "The article offers a systematic taxonomy of alignment failures in AI, distinguishing five inner misalignments—precocious, perfect‑correlate, gradient, overfit, underfit—and two outer misalignments—capabilities‑based and volition‑based. By framing misalignment as a set of independent failure modes rather than monolithic “bad actors,” the author provides a pragmatic lens for researchers and practitioners to diagnose and mitigate alignment risks. The discussion of technical versus human misalignment bridges objective design and normative concerns, urging a broader view of what it means to align an AI with human values. The piece is rich with actionable insights: it suggests concrete interventions such as increasing training data, adjusting model size, and employing adversarial robustness to address overfit and underfit misalignments. For those building RL agents or designing safety protocols, the taxonomy offers a useful checklist and highlights subtle pitfalls—like gradient misspecification and reward correlates—that can slip through conventional safeguards. Overall, the work balances depth and accessibility, making it a valuable reference for AI safety engineers, policy makers, and academics who need to map the complex terrain of misalignment with clarity and foresight.",
+    "summary_zh": "文章提出了 AI 对齐失败的系统分类，区分五种内部失配与两种外部失配，并将技术失配与人类失配相结合，提供了诊断与缓解的实用框架。它强调通过训练数据、模型规模和鲁棒性来解决过拟合与欠拟合失配，并指出梯度误设与奖励共线性等细微风险。此分类对安全工程师、政策制定者和学术界具有高度参考价值，帮助他们在复杂的对齐问题中保持清晰与前瞻。",
+    "best_quote_en": "‘Precocious misalignment is uniquely scary for its seeming capacity to cause a wide variety of alignment failures if it becomes a relevant dynamic.’",
+    "best_quote_zh": "‘先发性失配因其似乎能够在相关动态出现时引发多种对齐失败而显得尤为可怕。’"
+  },
+  {
+    "id": 772,
+    "title": "The Difference Between the Knicks and the White House Cage Fight",
+    "title_zh": "纽约尼克斯与白宫笼斗的区别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/06/29/the-difference-between-the-knicks-and-the-white-house-cage-fight",
+    "tags": [
+      "guide",
+      "politics",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-06-21",
+    "summary_en": "The piece juxtaposes the triumph of the Knicks with the spectacle of a White House cage fight, using Juvenal’s ancient critique of \"bread and circuses\" to probe how spectacle can mask political drift. Gopnik argues that while New York’s basketball victory unites citizens around a shared identity, the UFC event at the South Lawn signals a shift toward authoritarian cynicism, where entertainment becomes a tool of oligarchic distraction. He traces the lineage of sports as both a unifying civic ritual and a potential avenue for violence, citing the increasing physicality in the NBA, NHL, and NFL, and the tragic mental health toll on athletes. The narrative culminates in a broader meditation on identity politics, suggesting that sports allow people to choose self-identification beyond geography, yet also risk commodifying that identity. The article calls for mindful engagement with spectacle, urging readers to balance the joy of collective fandom with critical awareness of how spectacle can serve power structures. It blends cultural criticism, political analysis, and sports commentary into a compelling, thought‑provoking essay that invites readers to question the role of entertainment in contemporary democracy.",
+    "summary_zh": "文章以尼克斯夺冠与白宫笼斗为对照，借古罗马诗人朱维纳尔的“粮食与娱乐”批判，探讨娱乐如何掩盖政治转轨。作者认为，尼克斯的胜利让市民团结，而白宫UFC赛事则显示娱乐被寡头用作转移注意力的工具，甚至走向专制。文中还指出体育的双重面貌：既是团结的仪式，也可能滋生暴力与心理创伤。作者强调身份政治的双刃性，体育让人超越地理自我认同，却也可能被商品化。最终呼吁读者在享受集体热情的同时，保持对娱乐背后权力结构的警惕。",
+    "best_quote_en": "If people are supplied with food and entertainment by their oligarchs, they won’t care or even notice if the government they live under is changing from some sort of a democracy to a dictatorship right before their eyes.",
+    "best_quote_zh": "如果人们由寡头提供食物和娱乐，他们就不会在政府从某种民主转变为独裁之前注意到这一变化。"
+  },
+  {
+    "id": 773,
+    "title": "Book Freak #214: Thoughts Without a Thinker",
+    "title_zh": "书虫 #214：无思者的思考",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-214-thoughts-without-a-thinker/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "medicine",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "医学健康",
+      "案例研究"
+    ],
+    "date": "2026-06-19",
+    "summary_en": "In this reflective piece, psychiatrist Mark Epstein unpacks the paradox of the ‘solid self’—the self we relentlessly build and protect yet which fuels anxiety. He argues that the self is a constructed tapestry stitched from emotional gaps, not a fixed core. Epstein’s core insight is that suffering stems from mislabeling fleeting feelings as permanent traits, thereby giving them undue power. He introduces the Buddhist practice of ‘bare attention’ as a simple, moment‑to‑moment observing technique that decouples experience from narrative. By labeling thoughts and returning to breath, one can witness the self‑image in flux, thereby loosening its grip. The article blends psychoanalytic history, Buddhist wisdom, and concrete exercises, offering a practical, beginner‑friendly framework for reducing anxiety through mindful observation. Its strength lies in demystifying complex ideas, providing actionable steps, and inviting readers to experiment with bare attention as a low‑friction antidote to self‑constructed distress. For anyone seeking a gentle yet profound shift in self‑perception, this piece offers both theoretical depth and a clear, doable practice.",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 774,
+    "title": "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray",
+    "title_zh": "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/restore-youthfulness-and-vitality-to-the-aging-brain-and-body-tony-wyss-coray",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-23",
+    "summary_en": "Dr. Tony Wyss‑Coray’s interview delves into the frontier of anti‑aging biology, revealing how youthful blood proteins—identified through rigorous biomarker studies—can rejuvenate brain, heart, and systemic health. He explains that aging is organ‑specific, with distinct molecular clocks, and introduces practical interventions—exercise, sunlight, fasting, social connection—that elevate protective factors such as Klotho and GDF11. The discussion bridges basic science and translational practice, offering a data‑driven roadmap for individuals seeking to mitigate neurodegeneration and cardiovascular decline. By framing aging as a modifiable process rather than inevitable decline, Wyss‑Coray inspires a shift from passive symptom management to proactive vitality enhancement. The episode balances scientific depth with actionable lifestyle strategies, making it a valuable resource for researchers, clinicians, and health‑conscious audiences alike.",
+    "summary_zh": "托尼·韦斯-科雷博士探讨年轻血液蛋白如何逆转脑心衰老，强调运动、日照、断食与社交能提升Klotho、GDF11等抗衰因子。通过将衰老视为可调节过程，他激励人们主动提升活力。",
+    "best_quote_en": "‘The specific proteins found in blood when we are young and that are increased by exercise, sunlight, fasting, food, and social connection can significantly increase vitality, restore youthful functioning of the brain and body, and potentially increase lifespan.’",
+    "best_quote_zh": "‘在我们年轻时血液中存在的特定蛋白质，并且通过运动、日照、断食、饮食和社交联系可提升，能够显著增加活力，恢复大脑和身体的年轻功能，并可能延长寿命。’"
   }
 ]
