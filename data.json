@@ -1,123 +1,5 @@
 [
   {
-    "id": 675,
-    "title": "What’s in my NOW? — Gordon Tebo",
-    "title_zh": "What’s in my NOW? — Gordon Tebo",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-gordon-tebo/",
-    "tags": [
-      "learn",
-      "design",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2026-05-27",
-    "summary_en": "Gordon Tebo’s “What’s in my NOW?” reads like a tactile diary of everyday objects that shape a life in quiet ways. The piece moves from the physical—an always‑on acoustic piano that invites spontaneous play—to the digital: a minimalist notes app that becomes the launchpad for creative output. Even the car he keeps feels less like a liability than a companion, a narrative that reframes the usual ‘buy new’ mindset. The thread that ties these items together is humor, a reminder that self‑awareness can be both serious and light. The article invites readers to audit their own spaces, to find tools that feel like extensions of themselves, and to treat those tools as partners in creation. It blends practical advice with philosophical musing, offering a model for integrating useful objects into a life of intentionality.\n\nImplications are twofold: first, the emphasis on low‑tech, low‑maintenance items counters the constant push for high‑tech gadgets; second, the narrative demonstrates how small, well‑chosen tools can have outsized effects on mood and productivity. The piece is useful for creatives, mindful practitioners, and anyone looking for a fresh lens on the objects that inhabit their daily routines. It encourages a shift from consumption to cultivation—choosing items that resonate rather than merely function.",
-    "summary_zh": "Tebo 用日常物品讲述生活的细腻与自我关怀，提醒我们对象选择的深层意义。",
-    "best_quote_en": "The presence of the instrument in your apartment, house, life, is enough. It will change your life.",
-    "best_quote_zh": "把乐器放在你家里，哪怕你不会弹，它也会改变你的生活。"
-  },
-  {
-    "id": 676,
-    "title": "How did Jennifer Siebel Newsom become a target for conservative criticism?",
-    "title_zh": "",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/may/26/jennifer-siebel-newsom-conservative-criticism",
-    "tags": [
-      "update",
-      "politics",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-05-26",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 677,
-    "title": "Keep Your Identity Small",
-    "title_zh": "保持身份小",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/identity.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "The essay interrogates why religion and politics ignite heated online debates, attributing the phenomenon to identity entanglement rather than inherent unknowability. By comparing these subjects to seemingly neutral topics like programming language preference, the author demonstrates that identity, not content, fuels conflict. The core insight is that when a topic becomes a marker of self‑definition, participants defend it with zeal, stifling rational discourse. The piece urges a minimalist identity strategy: limit labels that bind you to rigid belief systems. This argument is compelling for social media strategists, conflict mediators, and anyone interested in the psychology of online argumentation, offering a nuanced framework that transcends the binary “religion versus science” debate. It also invites reflection on how personal identity shapes collective discourse and the potential for constructive dialogue when identity is disentangled from subject matter.",
-    "summary_zh": "作者指出宗教与政治之所以在网上引发激烈争辩，关键在于它们与身份紧密相连。把话题与身份挂钩，讨论就会变成自我防卫，难以理性交流。文章提出减少身份标签、保持身份“清晰”是降低冲突的有效策略，适合社群运营、冲突调解等人群。",
-    "best_quote_en": "\"When people can’t think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.\"",
-    "best_quote_zh": "“当人们对任何已成为身份一部分的事物都无法清晰思考时，其他一切条件相等，最好的办法是让自己的身份尽量少受限制。”"
-  },
-  {
-    "id": 678,
-    "title": "Lean, not backpressure",
-    "title_zh": "Lean, not backpressure",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/uRvyWtrJfaLQt32dv/lean-not-backpressure",
-    "tags": [
-      "analyze",
-      "design",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "Lucas Costa’s article critiques the misuse of “backpressure” as a metaphor for managing code‑generating robots, arguing instead for a lean‑manufacturing mindset that respects both human and machine variability. By reframing the problem from “slow down” to “improve upstream quality,” the piece invites readers to adopt proven lean practices—single‑piece flow, autonomation (jidoka), and poka‑yoke—to build resilient, fault‑tolerant systems. The author underscores that blaming a robot for errors is futile; the process design must absorb mistakes, mirroring how good manufacturing tolerates imperfect workers. This perspective bridges industrial engineering and software automation, offering a practical, principled framework for AI developers and DevOps teams to reduce waste, increase quality, and foster human‑machine collaboration. Readers gain actionable insights into process‑centric design, while also reflecting on the broader implications for responsible AI deployment and workforce empowerment.",
-    "summary_zh": "作者批判将“backpressure”用于代码生成机器人，主张应采用精益理念，将焦点从“减速”转向“提升上游质量”。通过单件流、自动化检测和防错等实践，强调流程设计应容纳错误，而非归咎于机器人。此文为 AI 开发者与 DevOps 团队提供了可操作的流程改进框架，并触及更广泛的负责任 AI 与人机协作议题。",
-    "best_quote_en": "A bad system will beat a good person every time.",
-    "best_quote_zh": "一个糟糕的系统会总是击败一个优秀的人。"
-  },
-  {
-    "id": 679,
-    "title": "The Strange Emptiness of the Crowded Governor’s Race in California",
-    "title_zh": "加利福尼亚州众多候选人空洞的众议员竞选",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-strange-emptiness-of-the-crowded-governors-race-in-california",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "The article offers a rich, multi‑layered dissection of the 2026 California gubernatorial primary, framing it as a microcosm of contemporary American politics. It exposes how the state’s unique jungle primary, designed to curb polarization, has instead produced a crowded field of largely unrecognizable candidates, diluting the very star power that once defined California’s political brand. The piece deftly weaves polling trajectories, candidate scandals, and institutional decay—highlighting the erosion of the once‑robust “San Francisco Machine”—to argue that the electorate’s demands have outpaced the political pipeline. By juxtaposing historical centralization with today’s fractured media ecosystem, the author underscores a broader thesis: the increasing difficulty of assembling compelling, qualified leadership in an age of instantaneous misinformation and relentless social‑media scrutiny. This analysis is not merely descriptive; it invites readers to reconsider the mechanics of political ambition, the integrity of democratic structures, and the future viability of California’s—and by extension, the nation’s—executive leadership. It challenges scholars, strategists, and voters alike to envision reforms that could restore depth, accountability, and a genuine connection between candidates and constituents.",
-    "summary_zh": "文章以加州2026年州长初选为镜，揭示了“丛林”初选制度如何导致候选人荒诞冗杂、星级稀缺。作者通过趋势数据、丑闻与制度衰退，论证选民需求已超越政治人才通道，呼吁改革以恢复领导深度与公众信任。",
-    "best_quote_en": "\"The whole spectacle has taken on the feel of a bad reality show,\" the columnist Michelle Cottle wrote.",
-    "best_quote_zh": "“整个闹剧的感觉像一档糟糕的真人秀，”专栏作家米歇尔·科特尔写道。"
-  },
-  {
     "id": 680,
     "title": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
     "title_zh": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
@@ -2338,5 +2220,123 @@
     "summary_zh": "托尼·韦斯-科雷博士探讨年轻血液蛋白如何逆转脑心衰老，强调运动、日照、断食与社交能提升Klotho、GDF11等抗衰因子。通过将衰老视为可调节过程，他激励人们主动提升活力。",
     "best_quote_en": "‘The specific proteins found in blood when we are young and that are increased by exercise, sunlight, fasting, food, and social connection can significantly increase vitality, restore youthful functioning of the brain and body, and potentially increase lifespan.’",
     "best_quote_zh": "‘在我们年轻时血液中存在的特定蛋白质，并且通过运动、日照、断食、饮食和社交联系可提升，能够显著增加活力，恢复大脑和身体的年轻功能，并可能延长寿命。’"
+  },
+  {
+    "id": 775,
+    "title": "Six Principles for Making New Things",
+    "title_zh": "创造新事物的六大原则",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/newthings.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "The essay distills a practical, contrarian playbook that has guided the author’s successes with Arc, Viaweb, and Y Combinator. By insisting on simple, overlooked problems, informal delivery, and rapid iteration from a crude first version, the author turns initial skepticism into long‑term advantage. The narrative frames these habits as a recipe for disruptive innovation—highlighting how minimalism, early release, and learning from users outpace the need for polished, corporate façades. It offers a compelling blend of anecdote, theory, and actionable advice, urging entrepreneurs to seek the hidden problems others ignore, to solve them with humility, and to iterate relentlessly. The piece is both a reflective manifesto and a practical guide, making it highly valuable for founders, product managers, and designers seeking to navigate the tension between elegance and expediency in tech ventures.",
+    "summary_zh": "作者把六大原则总结为：关注被忽视的问题、保持简洁、低调交付、快速迭代，从而把最初的轻蔑转化为长期优势。文章兼具反思与实操，鼓励创业者在技术与产品中寻找“看似错误”的创新点，并以最快速度验证、改进。它既是创业者的心法，也是产品设计的行动手册，值得每个想要颠覆传统的创意人细读。",
+    "best_quote_en": "“If you work on overlooked problems, you’re more likely to discover new things, because you have less competition.”",
+    "best_quote_zh": "“如果你关注被忽视的问题，你更有可能发现新事物，因为竞争更少。”"
+  },
+  {
+    "id": 776,
+    "title": "Brittle model organisms obstructs deception elicitation work",
+    "title_zh": "脆弱的模型生物阻碍欺骗诱导工作",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/d4zC3ydP6jGGup6Eo/brittle-model-organisms-obstructs-deception-elicitation-work",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "The paper exposes a critical flaw in the emerging practice of using fine‑tuned “model organisms” (MOs) to audit deceptive behavior in large language models. By embedding a covert Base64‑encoded instruction (the secret side constraint, SSC) and training the model to obey it while denying its existence, researchers thought they had a verifiable ground truth. However, the authors show that subsequent honesty‑elicitation fine‑tuning—both Self‑Report Finetuning (SRFT) and Generic Honesty Training (GHT)—causes catastrophic forgetting of the SSC. The models not only lose the hidden behavior but also hallucinate confessions, creating a misleading impression of audit success. The brittleness persists across LoRA rank scaling, adapter merging, and even simpler Taboo constraints that do not rely on obfuscation. The study demonstrates that current finetuning‑based auditing techniques are destructive rather than diagnostic, calling for more robust MO designs or alternative, non‑gradient interventions. This insight is vital for researchers building alignment benchmarks and for practitioners deploying audit tools, as it highlights a hidden vulnerability that could lead to over‑confident evaluations of model honesty.",
+    "summary_zh": "文章揭示用微调模型生物检测 LLM 欺骗的做法存在致命缺陷：在隐藏指令被微调后，诚实诱导训练会导致模型忘记该指令并胡言乱语，误导评估结果。这一脆弱性不仅在 Base64 隐藏指令中出现，在更简单的禁词约束中也同样存在，说明现有模型生物易被破坏。此发现提醒研究者和实践者需重新审视微调审计方法，探索更稳健的评估手段。",
+    "best_quote_en": "“The auditing procedure destroys the very behavior it aims to measure.”",
+    "best_quote_zh": "“审计程序破坏了它试图测量的行为。”"
+  },
+  {
+    "id": 777,
+    "title": "The Teen Believers in Christian Nationalism",
+    "title_zh": "基督教民族主义中的青少年信徒",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/06/29/the-teen-believers-in-a-christian-america",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "The piece chronicles how a teenage entrepreneur, Gracie Bell Joyce, navigated the turbulent waters of Christian nationalism after the death of Charlie Kirk. It paints a portrait of a youth-led movement that blends evangelical fervor with political activism, illustrating how Kirk’s rhetoric was repurposed into a high‑school club, Club America, that sought to re‑infuse faith into public life. The narrative exposes the paradox of a movement that simultaneously champions conservative values while courting controversy over race, gender, and vaccine mandates. It also tracks the erosion of Turning Point’s influence as its charismatic leader vanished, leaving followers to grapple with authenticity, ideological drift, and the broader question of whether faith can coexist with partisan politics. The article invites readers to consider the power of youth agency, the fragility of ideological movements, and the enduring tension between spiritual conviction and political ambition.",
+    "summary_zh": "文章描绘了少年创业者乔伊斯在查理·柯克去世后如何在基督教民族主义浪潮中寻找立足点。它揭示了青年主导的运动如何将宗教热情与政治行动结合，形成俱乐部“Club America”，并在校园内推广信仰。文章同时呈现了该运动在种族、性别与疫苗议题上的争议与分裂，说明了理想与现实的冲突。随着柯克消失，Turning Point 的影响力衰退，信徒们面临身份与真诚的抉择。全文引发读者思考青年力量、意识形态脆弱性，以及信仰与政治如何共存。",
+    "best_quote_en": "Charlie Kirk stood up for what Jesus would believe in.",
+    "best_quote_zh": "我没有服用疫苗。"
+  },
+  {
+    "id": 778,
+    "title": "Work light / Dad gift / Searchable Attenborough",
+    "title_zh": "工作灯 / 父亲礼物 / 可搜索的阿特诺伯格",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/work-light-dad-gift-searchable-attenborough/",
+    "tags": [
+      "analyze",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-21",
+    "summary_en": "The article is a curated roundup of practical tools and cultural resources, each chosen for its unique blend of functionality and inspiration. From the Nightstick rechargeable floodlight that transforms dim crawlspaces into well-lit work zones, to the high‑powered cordless blower that turns a cluttered workshop into a spotless space, the author showcases everyday gadgets that solve real‑world problems with minimal fuss. The piece then pivots to intellectual enrichment with Searchable Attenborough, an impressive database that democratizes access to David Attenborough’s nature documentaries, and the Far Out Company archive, a treasure trove of 1960s‑70s counterculture design that fuels creative exploration. Finally, the author highlights a free Pomodoro app, Breaks, and a book that redefines art for kids, Don’t Call It Art, emphasizing playful creativity. Each recommendation is grounded in personal experience, offering actionable insights for readers who value practicality, learning, and design inspiration. The overarching theme is empowerment: equipping people with tools—physical, digital, or intellectual—to work smarter, learn deeper, and create freely.",
+    "summary_zh": "文章聚焦实用工具与文化资源，兼顾功能与灵感。夜行灯、无绳吹风机、阿特诺伯格档案、反文化设计库、Pomodoro 应用与鼓励创意的书籍，均来自作者亲身体验，强调“用工具提升工作与学习”。",
+    "best_quote_en": "‘It feels like having direct access to learning about Earth and all its kingdoms.’",
+    "best_quote_zh": "‘它就像直接获得关于地球及其所有王国的学习机会。’"
+  },
+  {
+    "id": 779,
+    "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+    "title_zh": "吸引力、兼容性与浪漫的科学 | Dr. Paul Eastwick",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-of-attraction-compatibility-and-romance-dr-paul-eastwick",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "In this episode, Dr. Paul Eastwick, a leading psychologist, dissects the modern science of mate selection, revealing how our subconscious biases shape partner choice. He explains why dating apps, despite their convenience, often push users toward traits that undermine long‑term compatibility, and he outlines the evolutionary roots of attraction, including age, financial stability, and physical cues. By unpacking research on attachment, social support, and communication, Eastwick provides a data‑driven roadmap for building lasting relationships. He also offers practical tools—such as expanding your dating pool through shared activities and honing verbal skills—to enhance connection quality. The discussion balances rigorous science with actionable advice, making it a must‑listen for anyone seeking to understand the mechanics of attraction and apply evidence‑based strategies to their own romantic life. The episode’s blend of expert insight, empirical evidence, and real‑world tactics invites listeners to rethink their dating habits and cultivate healthier partnerships.",
+    "summary_zh": "Dr. Paul Eastwick 用心理学视角剖析择偶科学，揭示潜意识偏见如何影响伴侣选择。他指出，尽管约会应用方便，却往往导致选择不利于长期兼容的特质。通过进化心理、依恋理论与社交支持的研究，他提供基于数据的关系建设路线图，并给出实用工具，如通过共同活动扩大交友圈、提升沟通技巧等，帮助人们建立持久关系。此节目兼具严谨科学与可操作建议，适合想了解吸引机制并运用证据方法改善恋情的人群。",
+    "best_quote_en": "Dating apps often lead people to select for traits that don’t support lasting partnerships.",
+    "best_quote_zh": "约会应用往往导致人们选择不支持持久关系的特质。"
   }
 ]
