@@ -1,125 +1,5 @@
 [
   {
-    "id": 680,
-    "title": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
-    "title_zh": "Life in ancient times / Desperate Oasis / Theatrical releases you can stream",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/life-in-ancient-times-desperate-oasis-theatrical-releases-you-can-stream/",
-    "tags": [
-      "update",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-05-31",
-    "summary_en": "The article stitches together a mosaic of modern content curation, AI‑driven historical storytelling, niche board gaming, and practical life‑hacks. It showcases how AI can resurrect ancient cities with authentic detail, as seen in Majestic Studios’ time‑travelling influencer, turning passive history lessons into immersive, relatable narratives. The author juxtaposes this with the tactile pleasure of a beautifully illustrated two‑player card game, illustrating that design still plays a pivotal role in user engagement. Streaming services are critiqued for their fragmented discovery, prompting a DIY solution via an updated theatrical‑release list—an example of community‑sourced problem solving. The piece also touches on economic realities of living in China, tree‑stump removal videos, and quick life‑skills, painting a portrait of diverse digital consumption habits. Overall, the article highlights the synergy between technology, storytelling, and everyday practicality, urging readers to seek richer, more actionable content experiences rather than passive consumption.",
-    "summary_zh": "文章通过 AI 重现古代生活、精美两人纸牌游戏、流媒体剧院更新、搬迁成本分析、树桩拆除视频和十分钟生活技巧等多元内容，展示了技术与故事叙述的深度融合与日常实用价值，提醒读者主动寻找更具行动性与情感共鸣的内容体验。",
-    "best_quote_en": "Recreating history is the perfect job for AI.",
-    "best_quote_zh": "重建历史是人工智能的完美工作。"
-  },
-  {
-    "id": 681,
-    "title": "After Credentials",
-    "title_zh": "凭证的终结",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/credentials.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-06-02",
-    "summary_en": "In this reflective essay the author traces the evolution of credentialism from ancient civil‑service exams to modern university admissions, arguing that societies have historically relied on tests to predict performance when direct observation was impractical. He observes how the rise of small, performance‑based firms—startups, consulting, law—has undermined the power of credentials by making actual output directly remunerated. The piece contends that reducing the weight of credentials is not merely a bureaucratic reform but a structural shift: a move toward many small organizations that can individually assess talent, thereby breaking the generational transmission of privilege. The author’s position is that if economies reward merit rather than pedigree, the market itself will tighten credential standards and foster a more meritocratic culture. He ends by urging policymakers to promote small‑unit economies and performance‑based pay as a more effective counter to inherited advantage than tightening exam rigor alone. The essay blends historical anecdotes, economic theory, and the author’s venture‑capitalist experience to make a compelling case for a new era of measurement.\n\nThe analysis probes the paradox that credential tests, designed to level the playing field, often become instruments of inequality, and it suggests that the solution lies not in perfecting exams but in decentralizing power. The piece is rich with data‑driven analogies—imperial China, South Korean cram schools, American legacy admissions—and offers actionable insights for educators, policymakers, and entrepreneurs who seek to align incentives with true performance. It invites readers to rethink the status of education credentials in a world where market signals can be more immediate and accurate than a paper test.\n\nThe essay’s intellectual curiosity is evident in its willingness to question the status quo and to propose a radical reorientation of how we measure talent. It engages the reader by connecting ancient practices to contemporary startup culture, thereby framing credentialism as a historical pattern that can be disrupted through structural change. The broader significance lies in its potential to influence debates on higher‑education reform, labor market policies, and the design of meritocratic institutions worldwide.",
-    "summary_zh": "作者从古代科举到现代录取，揭示凭证曾是预测表现的工具，却因其可被“补习”而滋生不平。文章主张，凭证价值的削弱应通过让更多小组织直接衡量才能，而非完善考试。此论点结合历史与创业经验，呼吁用市场绩效取代学位，打破世代优势。它既是对教育体制的批判，也是对制度革新的启示。",
-    "best_quote_en": "What makes a society prosperous is its ability to prevent parents from influencing their children’s success directly; the solution is not to make credentials harder to hack, but to make them matter less.",
-    "best_quote_zh": "真正让社会繁荣的是阻止父母直接影响子女成功的能力；解决办法不是让凭证更难被突破，而是让凭证更不重要。"
-  },
-  {
-    "id": 682,
-    "title": "Recall",
-    "title_zh": "",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/recall/",
-    "tags": [
-      "solve",
-      "education",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 683,
-    "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
-    "title_zh": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/peptides-the-science-uses-and-safety-abud-bakri",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "In this episode, Dr. Abud Bakri, a board‑certified internal medicine physician, delves into the nuanced world of therapeutic peptides, balancing scientific rigor with practical caution. He traces the lineage of compounds such as BPC‑157, GHK‑Cu, pinealon, epithalon, and GLP‑1 analogs, highlighting their preclinical promise while underscoring the stark gap between animal models and human data. The discussion exposes the murky terrain of sourcing—compounding pharmacies, gray markets, and black markets—emphasizing the regulatory labyrinth and the potential for adverse events. Dr. Bakri’s narrative is anchored in evidence: he cites specific clinical trials, FDA status, and case‑study anecdotes, offering listeners a grounded, risk‑aware perspective. The episode serves as both a primer for newcomers and a critical resource for clinicians contemplating peptide therapy, urging vigilance, informed consent, and adherence to emerging regulatory standards. It underscores the broader implication that, while peptides hold transformative potential, responsible stewardship and rigorous research are indispensable for safe clinical translation.",
-    "summary_zh": "在本期节目中，阿布德·巴克里博士深入探讨了治疗性肽的科学与风险，强调动物实验与人体数据的差距与来源不确定性。",
-    "best_quote_en": "“The promise of peptides is undeniable, but the evidence in humans remains sparse—making cautious optimism the only rational stance.”",
-    "best_quote_zh": "“肽类的前景不可否认，但人体证据仍然稀缺——因此，谨慎乐观是唯一合理的立场。”"
-  },
-  {
-    "id": 684,
-    "title": "On The Importance of Desperate Customers",
-    "title_zh": "关于绝望客户的重要性",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/01/desperate-customers/",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-06-01",
-    "summary_en": "The article distills a timeless lesson from angel investor Mike Maples Jr.: real traction hinges on finding customers who are not merely interested but desperate for a solution. By framing questions around willingness to pay and urgent pain points, founders can surface the high‑stakes problems that justify a product’s value proposition. The piece blends theory with concrete examples—from Chegg’s textbook rental economics to Okta’s identity‑management pain—illustrating how focused prototypes can reveal the \"1,000 true fans\" that validate a venture. For entrepreneurs, the takeaway is to prioritize desperation over curiosity, to test early with a tight deliverable, and to measure whether the solution meets a compelling urgency. This pragmatic, data‑driven mindset transforms a broad market idea into a laser‑focused strategy that fuels growth and investor appeal.",
-    "summary_zh": "文章提炼了天使投资人Mike Maples Jr.的经验：真正的商业成功取决于找到既感兴趣又绝望的客户。通过聚焦付费意愿和迫切痛点，创始人能快速识别高价值问题，并用原型验证。Chegg、Okta等案例展示了如何用紧凑交付物筛选真粉丝。关键是把绝望放在兴趣之上，让产品满足迫切需求，从而实现规模增长。",
-    "best_quote_en": "\"Customers are interested in what they have built, but they are not desperate for it.\"",
-    "best_quote_zh": "\"客户对你所建的感兴趣，但并不绝望需要它。\""
-  },
-  {
     "id": 685,
     "title": "Anthropic confidentially files for IPO – days after $65B raise pushed AI firm’s valuation to $965B",
     "title_zh": "Anthropic 私下提交 IPO 文件——$65B 轮融资后 AI 公司的估值升至 965B 美元",
@@ -2338,5 +2218,123 @@
     "summary_zh": "Dr. Paul Eastwick 用心理学视角剖析择偶科学，揭示潜意识偏见如何影响伴侣选择。他指出，尽管约会应用方便，却往往导致选择不利于长期兼容的特质。通过进化心理、依恋理论与社交支持的研究，他提供基于数据的关系建设路线图，并给出实用工具，如通过共同活动扩大交友圈、提升沟通技巧等，帮助人们建立持久关系。此节目兼具严谨科学与可操作建议，适合想了解吸引机制并运用证据方法改善恋情的人群。",
     "best_quote_en": "Dating apps often lead people to select for traits that don’t support lasting partnerships.",
     "best_quote_zh": "约会应用往往导致人们选择不支持持久关系的特质。"
+  },
+  {
+    "id": 780,
+    "title": "How to start strength training in midlife, according to female trainers 40 and over",
+    "title_zh": "如何在中年开始力量训练，来自40岁以上女性教练的建议",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "This article demystifies the notion that strength training is only for the young, offering a practical, evidence‑backed roadmap for women over 40. It blends scientific insights on sarcopenia and perimenopause with real‑world advice from seasoned trainers, emphasizing compound lifts, body‑weight progressions, and modest equipment like dumbbells and resistance bands. The piece underscores that even late starters can dramatically reduce chronic disease risk, citing Leigh Breen’s research on cardiovascular and neurodegenerative benefits. It balances motivation—highlighting empowerment and self‑confidence—with actionable steps: start simple, slow tempo, modify range of motion, stay hydrated, and prioritize recovery through sleep and calming breathing. The tone is encouraging yet grounded, making the content both inspiring and immediately usable for a mid‑life audience seeking to reclaim strength and health.\n",
+    "summary_zh": "文章以科学与实践并重的方式，向40岁以上女性阐明力量训练的可行性与意义。它从肌肉衰减、围绝经期的挑战谈起，引用研究显示即使晚起步也能显著降低慢性病风险。内容强调以复合动作、体重训练和基础器械为核心，辅以慢速动作、可调幅度、补水与恢复。整体语调鼓舞人心，既给出实操步骤，又让读者感受到力量带来的自信与掌控感。",
+    "best_quote_en": "‘People who’ve trained for years are better protected, but even late starters can dramatically reduce their disease risk in a short time.’",
+    "best_quote_zh": "‘即使是晚起步的人，只要坚持训练，也能在短时间内显著降低疾病风险。’"
+  },
+  {
+    "id": 781,
+    "title": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
+    "title_zh": "基于可信执行环境的AI治理隐私保护监控",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-06-23",
+    "summary_en": "This article offers a rigorous, expert‑level exploration of how Trusted Execution Environments (TEEs) can be leveraged for privacy‑preserving monitoring in AI governance. It systematically dissects the motivations, technical underpinnings, and practical deployment challenges of TEEs—from the hardware isolation primitives to the measurement and attestation mechanisms that underpin verifiability. By contrasting commercial use cases (Apple, Meta, Google, Tinfoil) with the stringent demands of international governance, the author exposes the gap between deployment integrity and policy‑adherence, highlighting side‑channel, physical, and metadata leakage threats that undermine auditability. The piece also navigates the nuanced trade‑offs between privacy and compliance, arguing that a policy‑driven software stack, coupled with robust hardware attestation, can achieve both. The conclusion is cautiously optimistic: TEEs are commercially viable for private inference, but achieving trustworthy governance requires open‑silicon designs, reproducible builds, and a shared root of trust. The article invites readers to reconsider the assumption that privacy and safety are mutually exclusive, presenting a pragmatic roadmap for aligning commercial incentives with global safety norms.",
+    "summary_zh": "文章以可信执行环境为核心，系统阐述了其在 AI 治理隐私保护监控中的技术细节与现实挑战。作者将硬件隔离、测量与证明机制与商业案例相结合，揭示了部署完整性与政策遵从之间的鸿沟，并指出侧信道、物理攻击及元数据泄露等威胁。结论是，虽然 TEEs 已在私有推理中具备商业可行性，但实现可信治理仍需开放硅片、可复现构建与共享根信任。",
+    "best_quote_en": "\"We can have both privacy and auditability: focusing on the way data is handled rather than the data itself is privacy‑preserving and helps decompose the verification problem.\"",
+    "best_quote_zh": "\"我们既能实现隐私，也能实现可审计：关注数据的处理方式而非数据本身既能保护隐私，又能帮助拆解验证问题。\""
+  },
+  {
+    "id": 782,
+    "title": "Chronicle of a Disaster Foretold",
+    "title_zh": "灾难预告的编年史",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/06/chronicle-of-a-disaster-foretold",
+    "tags": [
+      "analyze",
+      "politics",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-06-23",
+    "summary_en": "The article offers a deep, expert‑insight analysis of the Trump administration’s first year of the second term, framed through the lens of two seasoned Times reporters. It juxtaposes historical journalistic traditions with contemporary political reportage, highlighting the unique immediacy and depth of \"Regime Change.\" The narrative uncovers unsettling alliances, such as Netanyahu’s strategic gambit, exposes the administration’s financial corruption, and paints a vivid portrait of Trump’s narcissistic leadership. By interweaving firsthand accounts, insider revelations, and critical context, the piece invites readers to question the integrity of political power, the role of media access, and the broader implications for democratic governance. Its critical stance, combined with rigorous evidence, makes it a compelling resource for scholars, journalists, and politically engaged citizens seeking a nuanced understanding of the era’s turbulence.",
+    "summary_zh": "这篇文章以深度报道的视角，剖析特朗普第二任期首年的权力运作与媒体角色，揭示权力背后的人性与制度缺陷，激发读者对民主与新闻责任的深思。",
+    "best_quote_en": "\"Regime Change\" is exceptional. It transcends its genre.",
+    "best_quote_zh": "《政权更迭》是卓越的。它超越了其流派。"
+  },
+  {
+    "id": 783,
+    "title": "Tracking",
+    "title_zh": "追踪",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/tracking/",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "The article celebrates Mark Elbroch’s meticulous tracking guides, lauding their unprecedented depth, vivid color photography, and ecological perspective that reframes how we observe wildlife. By cataloguing life‑size prints, burrows, scat, and feeding patterns, Elbroch turns the forest into a living data set, offering readers a practical, hands‑on method to read the subtle ripples animals leave behind. The text underscores the value of patience and attention to detail—illustrated by the author’s own hair‑search exercise—and frames tracking as a discipline that blends science, art, and mindful observation. For nature enthusiasts and aspiring naturalists, the guides provide an advanced, evidence‑based toolkit that transforms ordinary walks into investigative expeditions, while also inviting broader reflection on human‑nature interconnections and the responsibility of stewardship. The piece is both a praise of Elbroch’s craft and a call to cultivate a more attentive, ecological mindset in everyday life.",
+    "summary_zh": "文章赞誉马克·埃尔布罗克的追踪指南，强调其细致、色彩鲜明、生态视角。通过记录足迹、巢穴、粪便和觅食模式，作者将森林变成活数据集，教人如何读懂动物留下的细微痕迹。文本强调耐心与观察力的重要性，展示作者的抓毛练习，并把追踪视为结合科学、艺术与正念的学问。对自然爱好者而言，这些指南提供高级、基于证据的工具，促使日常漫步成为探究之旅，并提醒我们与自然的相互责任。",
+    "best_quote_en": "‘By cataloguing life‑size prints, burrows, scat, and feeding patterns, Elbroch turns the forest into a living data set, offering readers a practical, hands‑on method to read the subtle ripples animals leave behind.’",
+    "best_quote_zh": "‘通过记录足迹、巢穴、粪便和觅食模式，埃尔布罗克把森林变成活数据集，为读者提供实用、亲手操作的方法，解读动物留下的细微波纹。’"
+  },
+  {
+    "id": 784,
+    "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+    "title_zh": "Essentials：使用基于科学的工具优化你的运动计划 | Jeff Cavaliere",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
+    "tags": [
+      "learn",
+      "health-wellness",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "健康养生",
+      "新手友好"
+    ],
+    "date": "2026-02-19",
+    "summary_en": "In this Huberman Lab Essentials episode, Jeff Cavaliere—an expert physical therapist, strength coach, and founder of ATHLEAN‑X—unpacks the science behind building a truly effective training program. The discussion moves from macro‑level structure—how to schedule weekly workouts, balance intensity with recovery, and align training with personal goals—to micro‑level tactics such as warm‑up protocols, dynamic stretching, and injury‑prevention strategies. Cavaliere introduces practical tools like the Cramp Test, Grip Strength Test, and a simple Plate Method for nutrition, all designed to replace guesswork with data‑driven decision‑making. He stresses that optimal performance is a blend of cardiovascular and resistance work, that timing and frequency matter, and that tracking progress through a training journal is essential. The episode is rich with actionable, evidence‑based advice that empowers beginners to start safely while giving seasoned athletes nuanced tweaks to refine their regimen. By grounding every recommendation in peer‑reviewed research, Cavaliere bridges the gap between academia and everyday practice, offering listeners a clear roadmap to elevate fitness, physique, and overall health.",
+    "summary_zh": "在这期 Huberman Lab Essentials 中，Jeff Cavaliere 分享了基于科学的训练方法，从宏观计划到细节动作，帮助你安全有效地提升体能与体型。",
+    "best_quote_en": "\"The key to lasting progress is not how hard you lift, but how well you structure your program, recover, and track your data.\"",
+    "best_quote_zh": "\"持续进步的关键不在于你举起多重，而在于你如何结构训练、恢复和跟踪数据。\""
   }
 ]
