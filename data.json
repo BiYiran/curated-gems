@@ -1,117 +1,5 @@
 [
   {
-    "id": 685,
-    "title": "Anthropic confidentially files for IPO – days after $65B raise pushed AI firm’s valuation to $965B",
-    "title_zh": "Anthropic 私下提交 IPO 文件——$65B 轮融资后 AI 公司的估值升至 965B 美元",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/anthropic-confidentially-files-for-ipo-days-after-65b-raise-pushed-valuation-to-965b/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-02",
-    "summary_en": "Anthropic’s clandestine IPO filing follows a staggering $65 billion Series H raise that pushed its valuation to $965 billion, eclipsing OpenAI for the first time. The move signals the company’s readiness to enter public markets while maintaining strategic flexibility: share count and price remain undisclosed, contingent on market conditions. The announcement underscores a broader trend of AI firms leveraging massive private funding to position themselves for future liquidity events, a path mirrored by OpenAI’s own public‑market ambitions. Yet Anthropic’s trajectory is complicated by mounting legal challenges—from multibillion‑dollar copyright suits over copyrighted songs and pirated books to a Pentagon‑issued supply‑chain risk designation that could jeopardize revenue streams. These lawsuits highlight the growing scrutiny of AI training data and intellectual‑property compliance, raising questions about the sustainability of rapid growth models. Investors and industry observers must weigh the company’s impressive enterprise adoption—evidenced by Claude’s integration in Fortune‑500 workflows—against the regulatory and reputational risks that accompany large‑scale data use. This case illustrates the delicate balance AI leaders must strike between scaling innovation, securing capital, and navigating an increasingly complex legal landscape.",
-    "summary_zh": "Anthropic 在获得 65 亿美元 Series H 轮融资后，估值突破 965 亿美元，首次超过 OpenAI，并秘密提交 IPO 文件。此举显示公司准备上市，但仍面临版权诉讼和国防安全风险。",
-    "best_quote_en": "Anthropic’s $65B Series H round valued it at $965 billion, the first time it has eclipsed OpenAI.",
-    "best_quote_zh": "Anthropic 的估值已突破 OpenAI，首次超过 965 亿美元。"
-  },
-  {
-    "id": 686,
-    "title": "Jess Cartner-Morley on fashion: forget your go-to maxidress – less is more this summer",
-    "title_zh": "Jess Cartner‑Morley谈时尚：忘记你的长款连衣裙——今年夏天更简约更佳",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jun/03/jess-cartner-morley-fashion-forget-maxidress-short-summer-dresses",
-    "tags": [
-      "solve",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-06-03",
-    "summary_en": "Jess Cartner‑Morley’s column is a witty, reflective critique of the contemporary fashion cycle that has made the maxidress the default summer staple. She traces the garment’s journey from a liberating, post‑1965 fashion frontier to a predictable, auto‑pilot choice that stifles individuality. Rather than simply dismissing the maxi, she proposes a nuanced resurgence of the short sundress—an outfit that invites layering, contrast, and playful subversion of the ‘sweetness’ that often defines mini‑lengths. Her advice is both actionable and philosophically grounded: pick accessories that challenge the dress’s inherent softness, and use structure to inject personality. She reminds readers that fashion’s true value lies in self‑expression, not conformity, and urges vigilance against the seductive pull of predictability. The piece blends cultural observation with practical styling tips, offering readers a fresh lens to rethink their wardrobe while engaging with broader questions of identity and trend cycles.",
-    "summary_zh": "作者以机智的笔触揭示了夏季长款连衣裙已成默认选择的现象，并提出短款连衣裙的复兴。她强调通过配饰和层叠来打破单调，让服装成为自我表达而非随波逐流。",
-    "best_quote_en": "Fashion should nudge you out of autopilot. It should be self‑expression, not compliance.",
-    "best_quote_zh": "时尚应让你摆脱自动驾驶；它应是自我表达，而非顺从。"
-  },
-  {
-    "id": 687,
-    "title": "Peru’s Politics Are a Disaster, but Does It Matter?",
-    "title_zh": "秘鲁政治是一场灾难，但这重要吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/perus-politics-are-a-disaster-but-does-it-matter",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-04",
-    "summary_en": "Peru’s political saga, with a record‑breaking 36 candidates, a revolving cabinet, and a succession of short‑lived presidents, paints a portrait of institutional paralysis that paradoxically coexists with a surprisingly resilient economy. The article dissects how high commodity prices and a robust mining sector have buoyed macro indicators—GDP growth, low inflation, and a healthy central bank reserve—while systemic corruption and weak fiscal oversight have stunted meaningful investment in health, education, and infrastructure. Expert voices, notably economist Carolina Trivelli and political scientist Alberto Vergara, argue that the nation’s political detachment has eroded civic engagement and left it vulnerable to natural disasters and future crises. The piece invites readers to question whether electoral outcomes matter when executive tenure is brief and congressional power dominates policy, and whether the next president can truly deliver substantive change amid entrenched dysfunction. It serves as a cautionary tale about the limits of macroeconomic success without governance reforms, urging a deeper examination of how political legitimacy shapes sustainable development.",
-    "summary_zh": "秘鲁政治混乱与经济韧性形成鲜明对比，选举乱象与高金属价格并存，治理缺失导致基础设施滞后。专家警示，政治无效削弱民众参与，未来灾害风险上升。",
-    "best_quote_en": "In Peru, caring about politics is not rational.",
-    "best_quote_zh": "如果总统不重要，内阁也不重要。"
-  },
-  {
-    "id": 688,
-    "title": "What’s in my NOW? — Pavel Guzhikov",
-    "title_zh": "What’s in my NOW? — Pavel Guzhikov",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-pavel-guzhikov/",
-    "tags": [
-      "update",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式"
-    ],
-    "date": "2026-06-03",
-    "summary_en": "Pavel Guzhikov’s “What’s in my NOW?” is a candid, diary‑style exploration of the everyday objects, digital tools, and mental habits that shape his restless, globe‑trotting life. Through vivid anecdotes—crocs that defy their stereotype, a multi‑purpose headband, a water bottle that feels like a home‑grown luxury, and the soothing algorithmic sounds of Endel—he shows how seemingly mundane choices can unlock comfort, focus, and creativity. The piece is less a product review and more a philosophical reflection on how intentionality in small details fuels a larger, adventurous mindset. It invites readers to question what items, habits, or digital experiences are quietly powering their own “now” and to consider whether they would change them for better alignment with their goals. The final quote, echoing Matthew McConaughey’s mantra, underscores the power of simple persistence: keep living, keep playing, and let the “empty” days become fertile ground for discovery. This article is a blend of personal narrative and subtle self‑help, offering both inspiration and a practical framework to audit one’s daily environment for greater agency and joy.",
-    "summary_zh": "Pavel Guzhikov用日常小物与心态，展示如何让平凡成为激发冒险的燃料。他的Crocs、头带、优质水瓶和Endel音乐，皆是细节中的力量。文章提醒我们，审视“现在”中每个细节，或许能让生活更有目的、更自在。",
-    "best_quote_en": "Just keep livin’ — mentioned by Matthew McConaughey in his first book is an internal engine that was always in me to keep doing things often even without thinking \"why\", \"what for\" or \"how\".",
-    "best_quote_zh": "“Just keep livin’”——麦克唐纳在他第一本书中提到的这句内在引擎，永远激励我在不思考“为什么”“为什么”或“怎么做”的情况下继续行动。"
-  },
-  {
-    "id": 689,
-    "title": "The Tim Ferriss Show Transcripts: Tim’s Founder Kitchen — From Brainstorm to the President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics) (#868)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Tim’s Founder Kitchen — From Brainstorm to the President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics) (#868)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/03/jake-becraft-strand-therapeutics-transcript/",
-    "tags": [
-      "solve",
-      "medicine",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-06-03",
-    "summary_en": "The transcript chronicles an in‑depth conversation between Tim Ferriss and Jake Becraft, CEO of Strand Therapeutics, charting the company’s rapid ascent from a nascent idea to engaging the highest echelons of biotech policy and funding within two months. Beyond the mechanics of Strand’s programmable RNA‑based platform—an advanced delivery system that instructs cancer cells to produce their own immune‑activating signals—the dialogue reveals a broader vision: the future of medicine as a hyper‑personalized, delivery‑centric ecosystem. Becraft juxtaposes the traditional, incremental drug‑development paradigm with a first‑principles approach that seeks to decouple therapeutic design from delivery constraints, thereby enabling scalable, cost‑effective treatments that could shift cancers from death sentences to chronic diseases. The discussion also touches on the evolving regulatory landscape, the need for policy‑science alignment, and the importance of building infrastructure that can deliver complex genetic therapies at scale. The conversation is rich with real‑world case studies—from early melanoma trials to potential CRISPR‑based liver therapies—providing actionable insights for entrepreneurs, investors, and policymakers alike. It underscores the critical tension between scientific ambition and commercialization realities, urging a collective re‑imagining of how biotech can be both innovative and scalable.",
-    "summary_zh": "在这段对话中，Tim Ferriss与Strand Therapeutics的CEO Jake Becraft深入探讨了公司如何在两个月内从概念快速跃升至行业高层。Becraft不仅阐述了其基因靶向RNA平台的技术细节，还提出了未来医学应以交付为核心、个性化为方向的宏观愿景。对话涵盖了从传统药物研发到突破性交付的思维转变、监管与政策的契合、以及大规模部署复杂基因疗法所需的基础设施。通过真实案例与前沿技术的结合，内容为企业家、投资者和政策制定者提供了可操作的洞见，提醒人们在追求科学突破的同时，还需关注商业化与可扩展性的平衡。",
-    "best_quote_en": "\"The real message of Strand and what we can accomplish in genetic medicine is we don’t have to stop it just injecting into the tumors… we need to build infrastructure that can plug into existing infrastructures.\"",
-    "best_quote_zh": "\"真正的讯息是我们不必只在肿瘤中注射，而是要构建能够与现有基础设施对接的基础设施。\""
-  },
-  {
     "id": 690,
     "title": "UMG spends $290m buying back stock from Bill Ackman’s Pershing Square, amid fund’s exit from music company",
     "title_zh": "UMG以2.9亿美元回购比尔·艾克曼的Pershing Square股份，基金退出音乐公司",
@@ -2336,5 +2224,119 @@
     "summary_zh": "在这期 Huberman Lab Essentials 中，Jeff Cavaliere 分享了基于科学的训练方法，从宏观计划到细节动作，帮助你安全有效地提升体能与体型。",
     "best_quote_en": "\"The key to lasting progress is not how hard you lift, but how well you structure your program, recover, and track your data.\"",
     "best_quote_zh": "\"持续进步的关键不在于你举起多重，而在于你如何结构训练、恢复和跟踪数据。\""
+  },
+  {
+    "id": 785,
+    "title": "Can weak AI watch strong AI?",
+    "title_zh": "",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/krbFK53Y2bFm5apCQ/can-weak-ai-watch-strong-ai",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-06-24",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 786,
+    "title": "New York Primary-Elections Map: Live Results",
+    "title_zh": "纽约初选地图：实时结果",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/election-2026/new-york-primary-elections-map-live-results",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-06-24",
+    "summary_en": "The 2026 New York primary map reveals a sharp ideological split within the city’s Democratic Party, underscoring how local power brokers can shape national politics. In the Seventh District, a progressive showdown between Claire Valdez and Antonio Reynoso turned into a referendum on Mayor Mamdani’s influence, while the Tenth District’s battle between former comptroller Brad Lander and incumbent Dan Goldman highlighted the growing salience of U.S.–Israel policy even in traditionally liberal constituencies. The Twelfth District’s crowded field, featuring a former Republican activist and a Kennedy heir, demonstrates the strategic use of endorsements from both establishment and progressive figures to sway a wealthy electorate. Finally, the Thirteenth District’s upset of Adriano Espaillat by a grassroots organizer illustrates the potency of anti‑establishment narratives amid a polarized political climate. These contests collectively signal a broader shift toward more radical platforms and a heightened role for local leadership in national policymaking, raising questions about the future of party cohesion and the impact of wealth and lobbying on electoral outcomes.",
+    "summary_zh": "2026年纽约初选显示市内民主党内部激烈分化，地方强人影响力凸显。第七区的激进对决成迈阿密市长马曼迪影响力的投票，第十区的竞赛凸显美国以色列政策的争议。第十二区多元候选人阵容显示建立与激进势力的战略博弈。第十三区的基层组织者击败现任议员，展示反建制叙事的力量。整体而言，选举表明更激进平台的崛起和地方领导在国家政策制定中的作用提升，引发对党内团结与财富与游说影响的思考。",
+    "best_quote_en": "He was labeled a \"career politician\" and criticized for spending millions of his own money to fund his campaign.",
+    "best_quote_zh": "他被称为“职业政治家”，并因花费数百万美元为竞选筹资而受到批评。"
+  },
+  {
+    "id": 787,
+    "title": "The Bestiary / Mean Girls Club",
+    "title_zh": "",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-bestiary-mean-girls-club/",
+    "tags": [
+      "learn",
+      "music-arts",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "写作内容"
+    ],
+    "date": "2026-06-23",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 788,
+    "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+    "title_zh": "女性最有效的力量训练、有氧运动与营养 | Dr. Lauren Colenso‑Semple",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-most-effective-weight-training-cardio-and-nutrition-for-women-lauren-colenso-semple",
+    "tags": [
+      "guide",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2026-02-16",
+    "summary_en": "Dr. Lauren Colenso‑Semple’s episode is a meticulously researched masterclass that reframes women’s fitness through a gender‑specific lens. She dismantles the myth that men’s and women’s training can be identical, offering nuanced prescriptions for resistance sets, rep ranges, and cardio modalities that respect hormonal cycles, menopause, and body‑frame differences. The discussion extends beyond exercise mechanics to nutrition—fasting, protein timing, creatine, and hormone replacement—grounded in current endocrinological data. The episode’s strength lies in its actionable, evidence‑based framework: a weekly full‑body routine, strategic periodization around the menstrual cycle, and a clear hierarchy of supplements. It also confronts common pitfalls—over‑training, cortisol spikes, and the allure of weighted vests—providing a critical, data‑driven counterpoint. For practitioners and enthusiasts alike, the content bridges science and practice, delivering a practical roadmap that is both beginner‑friendly and advanced enough to inspire continued inquiry into women’s health and performance.",
+    "summary_zh": "Dr. Lauren Colenso‑Semple 通过科学严谨的视角，重新定义女性健身。她阐明了女性与男性在力量训练与有氧运动中的差异，强调围绕月经周期、围绝经期和身体框架的个性化方案。内容涵盖训练频率、组数、重复区间、休息时长以及营养补剂的科学依据，提供可操作的全身训练计划。她还批判性剖析了常见误区，如过度训练、皮质醇升高和加重负荷的误区，并以数据为依据给出对策。该节目既适合初学者，也具备深度，激发听众持续探索女性健康与表现的热情。",
+    "best_quote_en": "We discuss the relevance of menstrual cycles, (peri)menopause, birth control, body frame differences, as well as best practices for nutrition, hormone replacement and supplementation.",
+    "best_quote_zh": "我们讨论了月经周期、围绝经期、避孕、身体框架差异以及营养、激素替代和补充的最佳实践。"
+  },
+  {
+    "id": 789,
+    "title": "Sony Music Publishing Scandinavia acquires Sound Pollution Songs catalog of around 5,000 works",
+    "title_zh": "索尼音乐出版斯堪的纳维亚收购Sound Pollution Songs约5,000首作品目录",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/sony-music-publishing-scandinavia-acquires-sound-pollution-songs-catalog-of-around-5000-works/",
+    "tags": [
+      "update",
+      "legal",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-24",
+    "summary_en": "Sony Music Publishing Scandinavia’s acquisition of Sound Pollution Songs’ 5,000‑work catalog marks a strategic consolidation in the Nordic music market, blending indie authenticity with major‑label muscle. By securing long‑term administration of future works, Sony not only expands its catalog depth but also signals a commitment to nurturing the hybrid artist‑author model prevalent in hard‑rock and metal circles. The deal underscores a broader trend of major publishers absorbing independent catalogs to diversify revenue streams amid streaming’s dominance. For artists, the promise of greater resources and improved royalty conditions reflects a shift toward more equitable partnerships. From a business‑model perspective, the transaction illustrates how content ownership, data analytics, and distribution synergies can create a resilient ecosystem that balances creative freedom with commercial scalability. Industry observers will watch how Sony leverages this expanded portfolio to influence genre‑specific licensing, touring, and cross‑platform monetization, potentially redefining the competitive landscape for mid‑tier labels.",
+    "summary_zh": "索尼音乐出版斯堪的纳维亚收购Sound Pollution Songs约5,000首作品，标志着北欧音乐市场的战略整合。此举不仅扩大了索尼的版权库，也体现了对硬核金属与朋克艺术家-作者模式的支持。通过长期管理未来作品，索尼展示了在流媒体时代多元化收入的决心。对艺术家而言，资源提升与更佳版税条件预示着合作更公平。此交易凸显内容所有权与数据分析如何共同打造可持续生态，平衡创意自由与商业规模化。业内将关注索尼如何利用新资产影响流派授权、巡演与跨平台变现，或重塑中型厂牌竞争格局。",
+    "best_quote_en": "For our artists and authors, this means greater resources and better conditions going forward. Within our genre, artist and author are often the same person, and we continue to collaborate with most of them.",
+    "best_quote_zh": "对我们的艺术家和作者来说，这意味着未来将拥有更多资源和更好的条件。在我们的流派中，艺术家和作者往往是同一个人，我们也将继续与大多数人合作。"
   }
 ]
