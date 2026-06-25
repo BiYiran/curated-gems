@@ -1,73 +1,5 @@
 [
   {
-    "id": 690,
-    "title": "UMG spends $290m buying back stock from Bill Ackman’s Pershing Square, amid fund’s exit from music company",
-    "title_zh": "UMG以2.9亿美元回购比尔·艾克曼的Pershing Square股份，基金退出音乐公司",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/umg-spends-290m-buying-back-stock-from-bill-ackmans-pershing-square-amid-funds-exit-from-music-company/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-04",
-    "summary_en": "Universal Music Group’s strategic repurchase of $290 million of its shares from Bill Ackman’s Pershing Square marks the end of a long‑running shareholder relationship and reflects the company’s confidence in its long‑term valuation. By executing the buyback under a fresh €500 million authorization, UMG demonstrates a disciplined capital‑allocation mindset, aiming to support its Global Equity Plan and reduce share capital. The move also underscores the broader market dynamics where activist investors, like Ackman, weigh takeover bids against board assessments and shareholder value. For investors, the episode offers a nuanced case study of how a large-cap entertainment firm can balance activist pressure, strategic growth, and shareholder returns. The timing—just after a failed takeover proposal—highlights UMG’s preference for organic growth over a potentially undervaluing merger. Moreover, the price per share of €17.66, contrasted with Ackman’s earlier $30.40 offer, illustrates the market’s skepticism about the takeover’s merits. Overall, the transaction provides valuable lessons on capital structure management, activist dynamics, and the importance of board‑shareholder alignment in a volatile market environment.",
-    "summary_zh": "UMG以2900万美元回购比尔·艾克曼持股，终结双方的股东关系，体现公司对长期估值的信心。此次回购在新的授权下进行，既支持激励计划又降低资本结构。它展示了在面对激进投资者时，企业如何通过资本运作维护股东价值，并为投资者提供了关于资本结构管理与激进投资者博弈的案例。",
-    "best_quote_en": "\"The proposal would have merged UMG with Pershing Square SPARC Holdings, with the combined company incorporating in Nevada and moving its primary listing from Euronext Amsterdam to the New York Stock Exchange.\"",
-    "best_quote_zh": "“该提案将把UMG与Pershing Square SPARC Holdings合并，合并公司将在内华达州注册，并将其主要上市地点从阿姆斯特丹转至纽约证券交易所。”"
-  },
-  {
-    "id": 691,
-    "title": "Could VC be a Casualty of the Recession?",
-    "title_zh": "VC会成为衰退的牺牲品吗？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/divergence.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-06-05",
-    "summary_en": "The piece offers a prescient examination of how the 2008 recession could reshape the venture‑capital ecosystem. It argues that advances in hardware, open‑source software, the web, and programming languages have dramatically lowered the cost of launching a startup, making profitability achievable with modest revenues. Consequently, the traditional VC‑founder symbiosis may dissolve: founders can reach runway‑independence without large investments, while VCs may see diminished demand for their capital. The author uses Y Combinator data to illustrate a growing trend of founders rejecting further fundraising, even amid market uncertainty. The analysis blends historical context with forward‑looking speculation, offering actionable insight for both entrepreneurs and investors. It invites readers to question long‑standing assumptions about funding necessity, the economics of scale, and the long‑term health of the venture‑capital model.",
-    "summary_zh": "文章深度剖析2008年衰退如何重塑VC格局，论述技术进步让创业成本骤降，盈利门槛低，导致创始人与VC关系可能解体。作者以YC案例佐证创始人趋向自给自足，VC需求受冲击，促使读者重新评估融资必要性与行业可持续性。",
-    "best_quote_en": "\"The threshold of profitability can be trivially low. Which means many Internet startups don't need VC‑scale investments anymore.\"",
-    "best_quote_zh": "\"盈利门槛可以极低，这意味着许多互联网创业公司不再需要大规模的VC投资。\""
-  },
-  {
-    "id": 692,
-    "title": "The Changing Face of “Authenticity” in Politics",
-    "title_zh": "《政治中“真实性”面貌的变化》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-changing-face-of-authenticity-in-politics",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-05",
-    "summary_en": "The article dissects the evolving concept of authenticity in American politics, using the polarizing case of Senate candidate Graham Platner as a lens. It traces authenticity from its Enlightenment roots to its commodification in modern campaigns, noting how figures like Jimmy Carter, Donald Trump, and emerging outsiders have been co-opted or subverted by media narratives. By juxtaposing Platner’s raw, self‑described authenticity against his offensive online history and personal scandals, the piece interrogates whether voters truly value truth or merely a performative façade. The piece argues that the current political climate—teeming with AI‑driven content, conspiracy theories, and a backlash against polished messaging—offers a rare window for a more substantive, if still contested, notion of authenticity. It concludes that authenticity remains a slippery, socially constructed tool that politicians manipulate, while citizens increasingly demand transparency and genuine narrative coherence. The article invites readers to critically assess the rhetoric of authenticity, recognizing it as both a political weapon and a potential catalyst for deeper engagement.",
-    "summary_zh": "文章通过格雷厄姆·普拉特纳的参选经历，拆解了美国政治中“真实性”概念的演变。它从启蒙时代到当代媒体包装，揭示真实性被政治家利用、扭曲与反复争议。作者指出，在人工智能与假新闻泛滥、选民对精心包装的反感日益加剧的时代，真实性的意义被重新审视，却仍是一个难以捉摸、充满操纵的工具。文章鼓励读者质疑政治家关于“真实性”的表述，关注其背后的真诚与表演之间的张力。",
-    "best_quote_en": "“Authenticity has been tortured to the point of meaninglessness, but I’ve found myself wondering, in recent months, if a new paradigm might be swimming into view.”",
-    "best_quote_zh": "“真实性已被扭曲至毫无意义，但我发现自己在最近几个月想知道，是否可能出现新的范式。”"
-  },
-  {
     "id": 693,
     "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
     "title_zh": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
@@ -2338,5 +2270,73 @@
     "summary_zh": "索尼音乐出版斯堪的纳维亚收购Sound Pollution Songs约5,000首作品，标志着北欧音乐市场的战略整合。此举不仅扩大了索尼的版权库，也体现了对硬核金属与朋克艺术家-作者模式的支持。通过长期管理未来作品，索尼展示了在流媒体时代多元化收入的决心。对艺术家而言，资源提升与更佳版税条件预示着合作更公平。此交易凸显内容所有权与数据分析如何共同打造可持续生态，平衡创意自由与商业规模化。业内将关注索尼如何利用新资产影响流派授权、巡演与跨平台变现，或重塑中型厂牌竞争格局。",
     "best_quote_en": "For our artists and authors, this means greater resources and better conditions going forward. Within our genre, artist and author are often the same person, and we continue to collaborate with most of them.",
     "best_quote_zh": "对我们的艺术家和作者来说，这意味着未来将拥有更多资源和更好的条件。在我们的流派中，艺术家和作者往往是同一个人，我们也将继续与大多数人合作。"
+  },
+  {
+    "id": 790,
+    "title": "Why to Move to a Startup Hub",
+    "title_zh": "为何搬到创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startuphubs.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "This essay argues that startups thrive best in well‑established startup hubs, particularly Silicon Valley, because such cities provide dense networks of investors, talent, and industry knowledge that accelerate growth. The author balances the ideal with practical constraints—immigration hurdles, family considerations, and existing funding offers—suggesting that relocation is a strategic choice, not a universal mandate. He uses anecdotal evidence from Y Combinator, Boston vs. West Coast VCs, and real‑world startup experiences to illustrate how bold, aggressive investing and face‑to‑face proximity create a competitive advantage. The piece invites founders to weigh hub benefits against local opportunities, offering a nuanced, data‑driven perspective that blends expert insight with actionable guidance. Its relevance extends beyond Silicon Valley, encouraging readers to evaluate any city’s ecosystem and decide whether the potential upside outweighs the costs of moving.\n\nI find the argument compelling because it reframes the debate from national pride to ecosystem economics, reminding entrepreneurs that the most important variable is the density of support, not geography alone. The call to action—assess the hub’s infrastructure, investor boldness, and industry fit—provides a clear framework for decision‑making. This essay is a useful primer for founders, investors, and policymakers who want to understand the mechanics behind successful startup clusters.\n",
+    "summary_zh": "作者通过案例与数据阐述，创业公司在创业中心（尤其是硅谷）能获得更强的网络、资本与行业知识，从而加速成长。文中平衡了搬迁的利弊，提出应在评估本土与中心优势后做决定。其论点将“国家主义”转为生态经济学，强调生态密度而非地理。",
+    "best_quote_en": "\"Boldness wins. If the aggressive ways of west coast investors are going to come back to bite them, it has been a long time coming.\"",
+    "best_quote_zh": "\"大胆赢得胜利。若西海岸投资者的激进方式最终会伤害他们，那已经等待很久了。\""
+  },
+  {
+    "id": 791,
+    "title": "Everyone Wants to Touch the Blue Coating in the Reflecting Pool",
+    "title_zh": "每个人都想触摸反射池的蓝色涂层",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/everyone-wants-to-touch-the-blue-coating-in-the-reflecting-pool",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "The article paints a vivid tableau of how President Trump’s high‑profile renovation projects have turned Washington’s most iconic landmarks into unintended spectacles of schadenfreude. By weaving together anecdotal encounters—from Senator Hickenlooper’s dramatic duck‑safety monologue to the crowd‑pleasing “name‑down” drama at the Kennedy Center—the piece exposes a pattern: grand public gestures, when mishandled, morph into cultural touchstones that people flock to for irony rather than reverence. The author critiques the administration’s lack of foresight, highlighting practical failings such as algae‑infested water and vandalism investigations, while also noting the social psychology that fuels voyeuristic tourism. The narrative invites readers to question the intersection of politics, public space, and collective memory, and to consider how the spectacle of failure can eclipse the original intent of civic renewal. Ultimately, it serves as a cautionary tale about the fragile balance between symbolic ambition and the messy realities of maintenance, public perception, and civic identity.",
+    "summary_zh": "文章通过一系列生动的现场故事，揭示了特朗普总统的公共工程如何被公众误读为娱乐秀，反映出政治象征与现实维护的脆弱平衡。它批判了项目管理失误与公众情绪的互动，提醒人们在追求宏大象征时，务必兼顾细节与公众认知。",
+    "best_quote_en": "\"The Reflecting Pool has shifted to the foreground… one animated not by reverence but by perverse curiosity.\"",
+    "best_quote_zh": "“反射池已从背景转为前景……人们的关注不再是敬仰，而是病态的好奇。”"
+  },
+  {
+    "id": 792,
+    "title": "Deezer’s new in-app remix feature lets users speed up and modify tracks by Céline Dion and other artists ‘with full rights compliance’",
+    "title_zh": "Deezer推出全新应用内混音功能，让用户在完全合规的前提下加速并修改Céline Dion等艺术家的曲目",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/deezers-new-in-app-remix-feature-lets-users-speed-up-and-modify-tracks-by-celine-dion-and-other-artists-with-full-rights-compliance/",
+    "tags": [
+      "update",
+      "music-arts",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-06-24",
+    "summary_en": "Deezer’s newest in‑app remix feature signals a shift in how streaming platforms empower listeners to become co‑creators while safeguarding artists’ rights. By leveraging an open‑source stem‑splitting tool, the service lets users tweak tempo, pitch, genre, and effects on individual audio stems, all within a few clicks. The company positions the feature as a “first” in the market—contrasting Spotify’s AI‑powered covers and YouTube’s text‑prompt tool—highlighting its commitment to artist consent and revenue sharing. From a business perspective, Deezer taps Gen Z’s participatory culture, monetizing user‑generated content through contests and exclusive playlists. The move also reflects broader industry trends toward ethical AI and transparent licensing. For creators, the platform offers a low‑barrier entry into remixing, while for fans, it deepens engagement and ownership of music. Ultimately, Deezer’s approach could set a new standard for balancing innovation with intellectual‑property respect in the streaming era.",
+    "summary_zh": "Deezer推出的全新混音功能，以用户友好、合规的方式让听众在几次点击内重新演绎曲目，凸显平台对创作者权益的尊重与共享。此举既满足了Z世代的互动需求，又为行业探索AI与版权共存之路提供了可复制的范例。",
+    "best_quote_en": "\"This feature focuses on simplicity and accessibility, and in just a few clicks, users can reimagine and rediscover a track they already know and love,\" said Pierre Trochu, Head of Product at Deezer.",
+    "best_quote_zh": "“该功能注重简洁与易用，用户只需点击几下即可重新想象并重新发现他们已熟悉的曲目。”"
   }
 ]
