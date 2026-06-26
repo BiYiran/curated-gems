@@ -1,125 +1,5 @@
 [
   {
-    "id": 693,
-    "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
-    "title_zh": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams",
-    "tags": [
-      "guide",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-06-04",
-    "summary_en": "This Huberman Lab Essentials episode delves deep into the frontier of neuropsychiatric therapeutics, spotlighting Dr. Nolan Williams’ expertise in psychiatry and neurology. It unpacks the neurobiology and clinical promise of transcranial magnetic stimulation, neuromodulation, and psychedelic‑assisted therapies—psilocybin, MDMA, ibogaine, and ayahuasca—highlighting their mechanistic links to depression and PTSD. The discussion balances rigorous evidence with emerging trial data (e.g., SD‑TMS, SAINT protocol), offering clinicians and researchers actionable insights into protocol design, safety, and integration with conventional care. The episode’s structure, punctuated by timestamps, guides listeners through a logical progression from foundational biology to applied treatment paradigms, making complex concepts digestible for both clinicians and informed lay audiences. Importantly, the content invites reflection on the ethical, regulatory, and societal implications of psychedelic medicine, encouraging a thoughtful, evidence‑based approach to future clinical practice.",
-    "summary_zh": "本集深入探讨脑刺激与迷幻剂在抑郁与创伤后症候群治疗中的前沿进展，结合神经科学与临床试验数据，既提供可操作的治疗方案，也引发关于伦理与监管的深思。",
-    "best_quote_en": "“The convergence of neurostimulation and psychedelic therapy is not just a therapeutic frontier; it’s a paradigm shift that redefines how we understand and treat brain disorders.”",
-    "best_quote_zh": "“神经刺激与迷幻疗法的交汇不仅是治疗前沿，更是重新定义我们理解与治疗脑部疾病的范式。”"
-  },
-  {
-    "id": 694,
-    "title": "6 Simple Money Rules I Live By Every Day",
-    "title_zh": "每日遵循的六条简单理财规则",
-    "source": "Budgets Are Sexy",
-    "link": "https://budgetsaresexy.com/6-simple-money-rules-i-live-by-every-day/",
-    "tags": [
-      "solve",
-      "personal-finance",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "个人理财",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-04-20",
-    "summary_en": "Steve Adcock distills the backbone of his and his wife’s millionaire status into six tangible, everyday habits. The core message is that wealth is built not on flashy investments or lifestyle spikes but on disciplined, low‑friction practices: a six‑month cash cushion, automatic 20% income allocation to index funds, zero credit‑card debt, frugal vehicle choices, avoiding comparison, and prioritizing walking over spending. The narrative blends personal testimony with actionable advice, making concepts like emergency funds, passive investing, and lifestyle inflation accessible to novices. Adcock’s tone is unapologetically blunt, reinforcing that the path to financial freedom is a simple system rather than a complex strategy. Readers emerge with a clear playbook: start with one rule, layer the rest, and watch the cumulative effect on peace of mind and financial stability.",
-    "summary_zh": "Steve 通过六条日常规则阐述从零到百万的理财秘诀，强调现金安全、自动投资、零债务、低成本生活、避免攀比与注重行动。其核心在于简洁可执行的系统，而非复杂理论，帮助读者从日常小事建立财务自由。",
-    "best_quote_en": "\"Money doesn’t have to be complicated. It just needs a system.\"",
-    "best_quote_zh": "“金钱不必复杂，它只需要一个系统。”"
-  },
-  {
-    "id": 695,
-    "title": "Women behind the lens: ‘Once naked, they formed a circle. The kicking and screaming occurred naturally’",
-    "title_zh": "镜头背后的女性：‘一旦裸露，她们形成了一个圆圈。踢打与尖叫自然而然发生’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/jun/03/women-behind-the-lens-peru-ana-elisa-sotelo",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-06-03",
-    "summary_en": "This evocative piece chronicles Peruvian photographer Ana Elisa Sotelo’s response to a spate of femicides in Lima. By orchestrating an open‑call swimming event, she invited women to swim naked in solidarity, forming a literal circle of resistance. The article frames the image, Women’s Circle, as a quiet yet powerful act of protest, blending art, community mobilization, and feminist empowerment. It foregrounds the paradox of fear and hope in the face of gender‑based violence, questioning whether contemporary audiences would still gather for such gestures. The narrative invites readers to reflect on the ongoing relevance of collective action and the role of visual culture in sustaining dissent. It serves both as a documentation of a specific protest and a broader meditation on the endurance of solidarity amid societal apathy, making it a compelling case study for activists, scholars, and anyone interested in the intersection of art and social justice.",
-    "summary_zh": "作者通过一次海上裸体泳圈行动，记录了秘鲁女性面对性别暴力的集体抗议与相互支持，揭示恐惧与希望并存的复杂情绪，启发读者思考艺术与社会行动的长期意义。",
-    "best_quote_en": "Once naked, they formed a circle. The kicking and screaming occurred naturally.",
-    "best_quote_zh": "一旦裸露，她们形成了一个圆圈。踢打与尖叫自然而然发生。"
-  },
-  {
-    "id": 696,
-    "title": "The High-Res Society",
-    "title_zh": "高分辨率社会",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/highres.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-06",
-    "summary_en": "The essay chronicles the seismic shift from the age of “big is better” to an era where nimble, autonomous start‑ups dictate economic momentum. It argues that the late‑20th‑century explosion of internet‑based startups shattered the scalability myth: speed, agility, and the ability to iterate quickly now outweigh sheer size. The author traces this transition to Silicon Valley’s unique cultural blend—engineering prowess, risk tolerance, and a willingness to abandon hierarchical ladders. He warns that societies lacking a ready middle class or a tradition of decentralized entrepreneurship will lag{and that the                                  3} . The piece is both a historical analysis and a prescriptive roadmap: entrepreneurs should learn to “arbitrage” obsolete corporate norms, while policymakers must cultivate environments that nurture small, high‑velocity networks. Its implications are clear: future competitive advantage will belong to those who can assemble and empower autonomous units, not to those who simply grow larger.",
-    "summary_zh": "作者指出，过去以规模为王的时代已被快速、灵活的初创企业所取代。硅谷的技术与文化优势催生了小团队的高效创新，改变了经济增长模式。文章强调，只有具备中产阶层和创业氛围的社会才能跟上这一趋势。对未来竞争力的判断，已不再是企业的大小，而是能否快速组建并赋能自治小单元。",
-    "best_quote_en": "‘The rule “large and disciplined organizations win” needs to have a qualification appended: “at games that change slowly.”’",
-    "best_quote_zh": "‘在变化缓慢的博弈中，大而有纪律的组织获胜’"
-  },
-  {
-    "id": 697,
-    "title": "Why Software Automation Is Hard",
-    "title_zh": "为什么软件自动化很难",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/KzXptMbuDsYLrppss/why-software-automation-is-hard",
-    "tags": [
-      "solve",
-      "programming",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "编程开发",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-06-06",
-    "summary_en": "The piece dissects the paradox of rapid AI coding tools versus the stubborn reality of large-scale software engineering. It argues that while coding agents now outperform many humans in isolated tasks, their limited context windows, reliance on assumptions, and inability to grasp non‑functional or historical constraints create a steep learning and integration curve. The author warns that automation can shrink human effort but at the cost of quality, strategic insight, and technical debt—factors that may outweigh the promised velocity gains. He outlines a pragmatic pathway: small teams, disciplined documentation, and incremental, targeted automation can harness AI without eroding human judgment. The article calls for a balanced view: AI will accelerate some parts of the development cycle, but the broader ecosystem—communication, testing, product strategy—will still demand human oversight, and the assumed productivity leap may be overestimated.",
-    "summary_zh": "作者指出，虽然 AI 编码工具已能在单一任务上超过人类，但其上下文受限、依赖假设、缺乏对非功能需求的把握，使得在大型团队中实现真正自动化变得艰难。自动化虽能缩短工作量，却可能导致技术债务、质量下降和战略判断受损，速度与收益的关系被过度乐观。文章强调，只有通过小团队、规范文档、分层推进，才能在不失去人类洞察力的前提下利用 AI。",
-    "best_quote_en": "‘If you ship more quickly, you may end up shipping less valuable or lower‑quality code, which can ultimately hurt your revenue more than the speed boost helps.’",
-    "best_quote_zh": "‘如果你更快交付，可能会交付更少价值或更低质量的代码，最终这比速度提升更可能损害你的收入。’"
-  },
-  {
     "id": 698,
     "title": "Book Freak #212: Prometheus Rising",
     "title_zh": "Book Freak #212：Prometheus Rising",
@@ -2338,5 +2218,125 @@
     "summary_zh": "Deezer推出的全新混音功能，以用户友好、合规的方式让听众在几次点击内重新演绎曲目，凸显平台对创作者权益的尊重与共享。此举既满足了Z世代的互动需求，又为行业探索AI与版权共存之路提供了可复制的范例。",
     "best_quote_en": "\"This feature focuses on simplicity and accessibility, and in just a few clicks, users can reimagine and rediscover a track they already know and love,\" said Pierre Trochu, Head of Product at Deezer.",
     "best_quote_zh": "“该功能注重简洁与易用，用户只需点击几下即可重新想象并重新发现他们已熟悉的曲目。”"
+  },
+  {
+    "id": 793,
+    "title": "Rose Sharp obituary",
+    "title_zh": "罗斯·夏普讣告",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/jun/26/rose-sharp-obituary",
+    "tags": [
+      "analyze",
+      "education",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "Rose Sharp’s life story is a masterclass in the power of persistent, principled advocacy within the arts. Her career—spanning from the underground scene of the 1970s Pink Fairies to the institutional halls of the Arts Council England—showed how a single administrator could shift the funding calculus toward marginalized voices. Sharp’s mantra, “done and dusted,” became shorthand for her relentless pursuit of projects that mainstream bodies would otherwise overlook. She championed feminist and LGBTQ+ narratives, ensuring that funding agencies recognized the cultural value of work beyond conventional theatre. Her mentorship at Queen Mary University of London amplified her impact, training a new generation of arts managers to think strategically about equity and inclusion. The obituary not only commemorates a remarkable career but also serves as a call to action: public funding bodies must deliberately seek out and support art that challenges boundaries. Sharp’s legacy invites us to reimagine how we allocate resources, who we elevate, and the stories we choose to sustain.",
+    "summary_zh": "罗斯·夏普的生涯是坚持与原则在艺术界影响力的典范。她从70年代地下乐队到英国艺术委员会，凭借“done and dusted”口号，持续为边缘声音争取资金。她推动女性与 LGBTQ+ 叙事，确保资助机构认知非传统剧场的文化价值。她在女王玛丽大学的辅导培养了新一代艺术管理者，强调公平与包容。讣告既纪念了她的卓越，也提醒我们公共资助应主动支持挑战界限的艺术，重新定义资源分配与故事传承。",
+    "best_quote_en": "\"The more likely it seemed that funding for a particular project would be out of reach, the more determined she was to procure it.\"",
+    "best_quote_zh": "“如果某个项目的资助似乎遥不可及，她就更坚定地去争取。”"
+  },
+  {
+    "id": 794,
+    "title": "The Future of Web Startups",
+    "title_zh": "",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/webstartups.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 795,
+    "title": "Don't ignore the car crashes, and remember your freshman CS",
+    "title_zh": "别忽视车祸，记得你的大一 CS",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/eSZYRuEvqm7jFxYfq/don-t-ignore-the-car-crashes-and-remember-your-freshman-cs",
+    "tags": [
+      "solve",
+      "data-science",
+      "psychology",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "数据科学",
+      "心理学",
+      "新手友好"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "The post cleverly juxtaposes the alarming statistics of car crashes with the comparatively muted media attention given to them, using the availability heuristic as a springboard to discuss a broader theme: decomposition. Drawing on a freshman computer‑science lesson that taught students to break complex problems into manageable parts, the author argues that the same principle can untangle the metaphorical ‘plane crashes’ of daily life—procrastination, social‑media overload, and fragmented goals. By treating each small habit (switching to Vim, using ScreenZen, tracking tasks in Todoist) as a ‘car crash’ that can be isolated and addressed, the writer demonstrates how incremental changes can cumulatively restore productivity. The piece is both a practical guide and a philosophical reminder that large, intimidating challenges often dissolve into a series of solvable sub‑tasks. Its tone invites introspection, encourages actionable experimentation, and showcases how a simple CS concept can illuminate self‑management strategies, making it a valuable read for anyone seeking to reclaim focus and purpose.",
+    "summary_zh": "作者用车祸与航空事故的对比，揭示可见性偏差，随后把大一 CS 的拆解法则引入日常生产力。把拖延、社交媒体、目标碎片化等看作“车祸”，逐个拆解并改进，最终重获专注与成就感。",
+    "best_quote_en": "Decomposition is a very helpful cue, as it gives an obvious starting point for problems that may seem intractable: break them down.",
+    "best_quote_zh": "分解是一条非常有用的线索，因为它为看似难以解决的问题提供了一个明显的起点：将其拆分。"
+  },
+  {
+    "id": 796,
+    "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+    "title_zh": "必备：健康、减脂与增肌的饮食科学 | 朗恩·诺顿博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton",
+    "tags": [
+      "guide",
+      "science",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "This episode distills the core of nutritional science into actionable, data‑driven guidance. Dr. Layne Norton unpacks the mechanics of energy balance—Calories In, Calories Out, and the often overlooked role of Non‑Exercise Activity Thermogenesis (NEAT). He then translates theory into practice, outlining precise protein and fiber targets, critiquing artificial sweeteners and seed oils, and weighing animal versus plant protein efficacy. The discussion is peppered with real‑world protocols, such as the use of creatine monohydrate and the importance of sustainable dieting. What sets this content apart is its blend of rigorous science with pragmatic coaching, offering listeners a clear roadmap for lean muscle gain and fat loss that can be tailored to individual metabolic profiles. It invites critical thought on how we measure progress beyond the scale, encouraging a holistic, evidence‑based approach to nutrition and fitness.",
+    "summary_zh": "本期节目把营养科学拆解成可操作的、数据驱动的指南。诺顿博士阐释能量平衡、NEAT，并将理论转化为实用蛋白、纤维目标、人工甜味剂与植物油评估，强调可持续饮食与肌肉增益的循证路径，鼓励从量化进度到整体健康的思考。",
+    "best_quote_en": "We discuss the science of energy balance and utilization, including practical strategies for building lean muscle and losing fat.",
+    "best_quote_zh": "我们讨论了能量平衡与利用的科学，并包括针对增肌与减脂的实用策略。"
+  },
+  {
+    "id": 797,
+    "title": "Diljit Dosanjh breaks his own record for biggest North American tour by a Punjabi artist with $32M Aura run",
+    "title_zh": "Diljit Dosanjh 以 3,200 万美元的 Aura 巡演打破自己创下的北美最大印度裔派克艺术家巡演纪录",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/diljit-dosanjh-breaks-his-own-record-for-biggest-north-american-tour-by-a-punjabi-artist-with-32m-aura-run/",
+    "tags": [
+      "update",
+      "music-arts",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "Diljit Dosanjh’s recent Aura World Tour has shattered his own North American record, grossing $32 million across 15 shows and drawing 225,000 fans. The milestone eclipses the $27 million, 215,000‑fan haul from his 2024 Dil‑Luminati run, underscoring a rapid acceleration in the global appetite for Punjabi and South‑Asian music. Live Nation’s data reveal a historic presale: 130,000 tickets sold in two days, the highest ever for a South‑Asian act in North America. The tour’s success is not merely a commercial triumph; it signals a broader cultural shift where non‑English‑speaking artists command mainstream venues like Madison Square Garden and Wembley Stadium. For industry insiders, the numbers illustrate a lucrative niche market, while aspiring artists see a viable pathway to global stages. The narrative invites a deeper examination of how strategic partnerships, streaming growth, and cross‑genre collaborations can amplify reach and redefine market expectations.",
+    "summary_zh": "Diljit Dosanjh 以 3,200 万美元的 Aura 巡演打破自己创下的北美最大印度裔派克艺术家纪录，15 场演出吸引 225,000 名观众，收入 3,200 万美元。该成就超过 2024 年 Dil‑Luminati 巡演的 2,700 万美元、215,000 名观众纪录，凸显全球对 Punjabi 与南亚音乐的热情。Live Nation 报告显示，预售两天内售出 13 万张门票，为南亚艺术家创下北美最高纪录。此番成功不仅是商业胜利，更标志着非英语艺术家登上 Madison Square Garden、Wembley Stadium 等主流舞台的时代来临。对行业而言，数据揭示了一个盈利丰厚的细分市场；对新晋艺术家而言，则展示了通往全球舞台的可行路径。此故事促使人们进一步探讨战略合作、流媒体增长与跨界合作如何扩大影响力并重新定义市场预期。",
+    "best_quote_en": "Live Nation says the run delivered its largest North American presale for a South Asian artist, selling more than 130,000 tickets in its first two days.",
+    "best_quote_zh": "Live Nation表示，这场巡演在北美预售中创下了南亚艺术家的最高纪录，前两天就售出了超过13万张门票。"
   }
 ]
