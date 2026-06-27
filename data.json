@@ -1,99 +1,5 @@
 [
   {
-    "id": 698,
-    "title": "Book Freak #212: Prometheus Rising",
-    "title_zh": "Book Freak #212：Prometheus Rising",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-212-prometheus-rising/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "数据驱动"
-    ],
-    "date": "2026-06-05",
-    "summary_en": "Robert Anton Wilson’s *Prometheus Rising* is a psychological manual that reframes consciousness through Timothy Leary’s eight‑circuit model. It exposes the duality of the Thinker and Prover, illustrating how our beliefs shape perceived reality and how societal conditioning limits our cognitive reach. Wilson’s core insight—\"Whatever the Thinker thinks, the Prover will prove\"—demonstrates the unconscious confirmation bias that locks us into narrative tunnels. The book’s value lies in its actionable framework: it pairs theory with concrete exercises that invite readers to consciously rewire mental patterns, practice perspective‑shifting, and dismantle cultural scripts. For anyone seeking a deeper understanding of self‑regulation, critical thinking, or personal empowerment, the text offers a sophisticated, experiential toolkit that bridges philosophy, neuropsychology, and practical transformation. Its implications extend beyond individual growth, suggesting a collective shift toward meta‑programming and higher consciousness. In a world saturated with instant information, this work reminds us that true insight requires deliberate, reflective practice and the willingness to question our own evidence‑seeking habits.",
-    "summary_zh": "《Prometheus Rising》以八级意识模型揭示思维与证据的相互作用，指出我们对世界的认知被个人经验与社会编程所塑造。作者提供可操作的练习，帮助读者重塑思维模式、突破认知隧道，迈向更高层次的自我觉察与自由。",
-    "best_quote_en": "\"Whatever the Thinker thinks, the Prover will prove.\"",
-    "best_quote_zh": "“无论思考者怎样思考，证明者都会证明。”"
-  },
-  {
-    "id": 699,
-    "title": "Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere",
-    "title_zh": "建立肌肉、改善姿势与预防伤害 | Jeff Cavaliere",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/build-muscle-great-posture-and-resilience-to-injury-jeff-cavaliere",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-05-25",
-    "summary_en": "Jeff Cavaliere’s episode delves into the nuanced science of resistance training, spotlighting often‑neglected muscle groups—glutes, rotator cuff, neck, and foot—that underpin long‑term mobility and injury resilience. He marries biomechanical theory with actionable exercise prescriptions, offering clinicians and lifters alike a roadmap to pain‑free progress across the lifespan. The discussion expands beyond strength to encompass cardio, nutrition, and real‑world constraints, framing training as a holistic, adaptable system rather than a one‑size‑fits‑all regimen. By integrating diagnostic tools (e.g., the “Old Man” test) and functional movements, Cavaliere translates complex research into pragmatic protocols, making the content invaluable for both practitioners seeking evidence‑based guidance and enthusiasts aiming for sustainable performance. His emphasis on longevity and prevention positions the episode as a forward‑looking resource that merges cutting‑edge science with everyday feasibility.",
-    "summary_zh": "Jeff Cavaliere 在本集深入探讨被忽视的肌群及其在预防伤害和维持姿势中的关键作用，用科学与实践相结合的方式呈现训练与营养的整体方案，既适合专业人士也兼顾普通爱好者，强调长期可持续性与适应性。",
-    "best_quote_en": "“The best training is the one that works for your body, not the other way around.”",
-    "best_quote_zh": "“最好的训练是为你的身体而设，而不是让身体适应训练。”"
-  },
-  {
-    "id": 700,
-    "title": "‘Hello ladies and sons of ladies’: women are using ‘microfeminisms’ to flip the gender script",
-    "title_zh": "‘Hello ladies and sons of ladies’: women are using ‘microfeminisms’ to flip the gender script",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/26/microfeminism-tiktok-women-men",
-    "tags": [
-      "guide",
-      "society",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-05-26",
-    "summary_en": "The article dissects the emerging practice of ‘microfeminism’—small, everyday actions that subvert gender expectations—highlighting how women are reclaiming agency through subtle gestures. Drawing on Tori Dunlap’s TikTok call‑to‑action and testimonials from TikTokers, the piece illustrates a grassroots shift from traditional protest to personal, tactical resistance. The narrative frames these acts as a response to a broader cultural backlash against women’s rights, positioning microfeminisms as both a tool for empowerment and a catalyst for broader societal change. Readers gain a nuanced understanding of how language, gestures, and everyday choices can dismantle systemic sexism, offering a practical playbook for those seeking to navigate and challenge gender norms in daily life. The article’s blend of anecdote, expert commentary, and social‑media metrics underscores its relevance to activists, educators, and anyone invested in contemporary feminist strategy.",
-    "summary_zh": "文章揭示“微女性主义”——通过日常细微举动颠覆性别期待的实践，展示女性如何在细节中重塑自我。它通过Tori Dunlap的TikTok号召与用户分享，说明从传统抗议到个人战术的转变。内容强调这些小动作是对女性权利反击的回应，也是拆解系统性性别歧视的可操作工具，为读者提供在日常生活中挑战性别规范的具体方法。",
-    "best_quote_en": "‘These small actions are ways that we can contribute to our own equity and equality.’",
-    "best_quote_zh": "“这些小行动是我们为自己的公平与平等做出贡献的方式。”"
-  },
-  {
-    "id": 701,
-    "title": "The Other Half of \"Artists Ship\"",
-    "title_zh": "《艺术家交付的另一面》",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/artistsship.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-06-07",
-    "summary_en": "The essay dissects the hidden cost of procedural checks in growing organizations, from supplier verification to software approval committees. By framing checks as both safeguards and hidden barriers, it reveals how well‑intentioned controls can stifle agility, inflate costs, and even drive top talent away. The author uses concrete anecdotes—startup founders negotiating acquisition terms for rapid code release and the impact of Sarbanes‑Oxley on IPOs—to underscore a paradox: the more we institutionalize safety, the more we sacrifice innovation. The piece argues for a meta‑check: every new safeguard must be weighed in terms of its tangible and intangible costs, encouraging leaders to question whether the benefits truly outweigh the hidden price of lost speed and talent. This insight is especially relevant for founders, product managers, and corporate strategists navigating the tension between risk mitigation and velocity. By re‑imagining checks as optional, context‑dependent levers rather than obligatory hoops, the article offers a pragmatic framework that balances stability with creative freedom, ultimately urging companies to “ship” rather than just ship it.",
-    "summary_zh": "文章揭示流程检查的双刃性：既是风险防护，也是创新的绊脚石。作者以创业公司与大型企业的对比，强调在追求安全与效率时，必须衡量隐藏成本，避免让“检查”成为人才与速度的阻碍。",
-    "best_quote_en": "\"If you don’t let people ship, you won’t have any artists.\"",
-    "best_quote_zh": "“如果你不让人们交付，你就不会有任何艺术家。”"
-  },
-  {
     "id": 702,
     "title": "Neglected Basics of AI Alignment",
     "title_zh": "被忽视的AI对齐基础",
@@ -2338,5 +2244,99 @@
     "summary_zh": "Diljit Dosanjh 以 3,200 万美元的 Aura 巡演打破自己创下的北美最大印度裔派克艺术家纪录，15 场演出吸引 225,000 名观众，收入 3,200 万美元。该成就超过 2024 年 Dil‑Luminati 巡演的 2,700 万美元、215,000 名观众纪录，凸显全球对 Punjabi 与南亚音乐的热情。Live Nation 报告显示，预售两天内售出 13 万张门票，为南亚艺术家创下北美最高纪录。此番成功不仅是商业胜利，更标志着非英语艺术家登上 Madison Square Garden、Wembley Stadium 等主流舞台的时代来临。对行业而言，数据揭示了一个盈利丰厚的细分市场；对新晋艺术家而言，则展示了通往全球舞台的可行路径。此故事促使人们进一步探讨战略合作、流媒体增长与跨界合作如何扩大影响力并重新定义市场预期。",
     "best_quote_en": "Live Nation says the run delivered its largest North American presale for a South Asian artist, selling more than 130,000 tickets in its first two days.",
     "best_quote_zh": "Live Nation表示，这场巡演在北美预售中创下了南亚艺术家的最高纪录，前两天就售出了超过13万张门票。"
+  },
+  {
+    "id": 798,
+    "title": "How to Do Philosophy",
+    "title_zh": "如何做哲学",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/philosophy.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-06-27",
+    "summary_en": "The essay is a candid, meta‑philosophical critique that traces the author’s personal journey from high‑school shock value to a sober appraisal of the discipline’s historic failures and potential. It argues that philosophy’s core problem is the lack of a core body of knowledge and the overreliance on imprecise language, which leads to endless debate and little actionable insight. The author proposes a pragmatic re‑orientation: focus on the most general truths that are also useful, and measure philosophical work by its impact on readers’ actions. This reframing echoes Aristotle’s original ambition but flips the motive from curiosity‑driven to utility‑driven, offering a way to escape the “singularity” of obscure texts that attract only the intellectually ambitious. The essay is simultaneously critical and hopeful, suggesting that philosophy can be revitalized by treating it as a toolkit for generalizable, practical wisdom rather than an abstract, untestable pursuit. It invites scholars, students, and practitioners to rethink the discipline’s purpose, methodology, and criteria for success.",
+    "summary_zh": "作者以自述的方式，剖析哲学的历史缺陷——缺乏核心知识、语言模糊导致的无意义争辩，并提出以“通用且有用”为导向的实用哲学新框架，呼吁学界重塑评判标准。",
+    "best_quote_en": "\"The test of utility I propose is whether we cause people who read what we've written to do anything differently afterward.\"",
+    "best_quote_zh": "“我提出的有用性测试是，看我们写的东西是否能让读者之后有所行动。”"
+  },
+  {
+    "id": 799,
+    "title": "The Supreme Court Enables Trump’s Cruel Immigration Agenda",
+    "title_zh": "最高法院助推特朗普残酷的移民议程",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-supreme-court-enables-trumps-cruel-immigration-agenda",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "By dissecting two recent Supreme Court rulings, the article exposes how a conservative majority has reshaped U.S. asylum law to favor executive enforcement over individual rights. The author frames the decisions as a direct extension of Trump’s hard‑border agenda, citing the historic St. Louis tragedy to underscore the moral stakes. The analysis critiques the Court’s literal reading of “arrival” to justify pre‑border detention, and highlights the erosion of judicial oversight in Temporary Protected Status revocations. While acknowledging rare bipartisan checks on executive power, the article argues that the Court’s deference to presidential authority in immigration matters signals a dangerous precedent. The author calls for systemic reform—streamlining asylum courts and restoring meaningful checks on TPS—to prevent future abuses. The article blends legal scholarship with political commentary, offering readers a data‑driven case study that challenges readers to rethink the balance between border security and humanitarian duty.",
+    "summary_zh": "文章通过剖析两项最高法院判决，揭示保守派多数如何将美国庇护法转向行政执法，削弱个人权利。作者引用历史悲剧，批评法院对“抵达”的字面解读，导致边境预先拘留。对临时保护身份的撤销缺乏司法监督，凸显行政权力膨胀。文章呼吁改革，重建审查机制，防止未来滥用，呈现一份数据驱动的案例研究，促使读者重新思考边境安全与人道义务的平衡。",
+    "best_quote_en": "The majority’s interpretation permits the Government to do that even if the refugees complied with all applicable laws and regulations, even if the port had ample capacity to inspect them, and even if turning them back would result in the very persecution from which they narrowly escaped.",
+    "best_quote_zh": "若M.S. St. Louis的难民今日走到我们南部边境的入境口岸，最高法院多数意见将允许移民官员通过物理阻止他们踏上美国土地，甚至拒绝考虑他们的庇护申请。"
+  },
+  {
+    "id": 800,
+    "title": "Book Freak: The skeptic’s guide to meditation that actually works",
+    "title_zh": "Book Freak：怀疑者的有效冥想指南",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-the-skeptics-guide-to-meditation-that-actually-works/",
+    "tags": [
+      "guide",
+      "psychology",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "The article distills David Harris’s book *10% Happier* into a pragmatic playbook for skeptical readers, reframing meditation as a tool for emotional regulation rather than a mystical practice. Harris argues that we cannot stop intrusive thoughts, but we can change our relationship to them—observe, name, and respond. The piece highlights four core principles: the irreversibility of thoughts, the malevolent nature of the inner critic, the power of self‑compassion, and a quick “Is this useful?” filter to halt unproductive rumination. By pairing theory with concrete 5‑minute exercises—breath focus, utility checks, self‑compassion reframes, and active listening—the article offers a low‑friction entry point for anyone wary of traditional mindfulness. It blends scientific anecdotes with everyday language, making it accessible yet grounded. The tone invites curiosity, encouraging readers to experiment and observe outcomes, thereby turning meditation from a passive belief into an active, measurable habit. This synthesis is valuable for busy professionals, students, and anyone seeking a realistic, evidence‑based approach to mental resilience.",
+    "summary_zh": "这篇文章把《10% Happier》拆解成懒散读者可操作的实用指南，强调我们不能阻止想法，却能改变对它们的反应。核心原则包括：思维不可控但可观测、内在批评者并非朋友、同情胜过自责，以及“这有用吗？”的快速筛查。配合5分钟呼吸、效用测试、自我同情、全神贯注等练习，作者把冥想从抽象概念变为可测量的习惯。语言亲切、数据支撑，适合忙碌的职场人、学生或任何想用科学方法提升情绪弹性的人。",
+    "best_quote_en": "\"There’s no point in being unhappy about things you can’t change, and no point being unhappy about things you can.\"",
+    "best_quote_zh": "“对无法改变的事不该不开心，对能改变的事也不该不开心。”"
+  },
+  {
+    "id": 801,
+    "title": "Sony Music Publishing wins Publisher of the Year at 2026 ASCAP Rhythm & Soul Awards",
+    "title_zh": "索尼音乐出版部在2026年ASCAP节奏与灵魂奖中荣获年度出版商奖",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-ascap-rhythm-soul-awards/",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "Sony Music Publishing’s triumph as Publisher of the Year at the 2026 ASCAP Rhythm & Soul Awards signals a pivotal moment for the company’s strategic positioning within the contemporary music ecosystem. The accolade, grounded in Luminate’s radio and streaming data, underscores SMP’s capacity to nurture songwriting talent that consistently dominates key R&B, hip‑hop, and gospel charts. The ceremony highlighted a roster of high‑profile winners—Mustard, Leon Thomas, and the Vanguard Award recipient—illustrating the symbiotic relationship between individual artistry and corporate stewardship. From a business‑model perspective, the award amplifies SMP’s brand equity, reinforcing its value proposition to artists and partners alike. Moreover, the recognition serves as a case study in leveraging data‑driven insights to guide publishing decisions, a practice that could inform broader industry strategies for talent acquisition and catalog curation. In sum, the honor not only celebrates past achievements but also charts a forward‑looking trajectory for SMP’s influence on music creation and distribution.",
+    "summary_zh": "索尼音乐出版部获2026年ASCAP节奏与灵魂奖年度出版商奖，凸显其在R&B、嘻哈与福音音乐领域的影响力与数据驱动的战略价值，为行业提供了关于人才培养与版权管理的案例研究。",
+    "best_quote_en": "This achievement reflects the extraordinary impact of SMP’s songwriters, whose work continues to inspire audiences around the world.",
+    "best_quote_zh": "这项成就反映了SMP作曲家的非凡影响力，他们的作品持续激励全球观众。"
   }
 ]
