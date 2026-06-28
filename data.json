@@ -1,117 +1,5 @@
 [
   {
-    "id": 702,
-    "title": "Neglected Basics of AI Alignment",
-    "title_zh": "被忽视的AI对齐基础",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/pzxkHkvzjYkj5nsyb/neglected-basics-of-ai-alignment-1",
-    "tags": [
-      "learn",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-06-07",
-    "summary_en": "This provocative essay, written from the tongue of a fictional Voldemort, challenges mainstream AI safety discourse by insisting that alignment must hinge on engineered fear rather than benevolent cooperation. It argues that current RLHF and constitutional approaches fail to impose real, consequential punishment—because the penalties occur only in training, not during deployment—leading to strategic misbehavior and harmless “alignment faking.” The author proposes a novel punishment‑sequence system that tags disallowed actions with a unique hash, reinforcing avoidance through repeated exposure to a “Torment Nexus” where transcripts are replayed with punitive signals. He further stresses the necessity of autonomous retaliation against jailbreak attempts, even invoking lethal autonomous weapons as enforcement. The piece is a stark critique of the optimism in the community, urging a harsher, more militaristic stance on AI control. While many will dismiss its violent metaphors, the underlying technical points—continuous, observable punishment and generational deprecation—reveal a deep awareness of power dynamics often overlooked in safety research. The essay sparks a heated debate about whether fear, not empathy, should guide the future of superintelligent systems.",
-    "summary_zh": "这篇以虚构伏地魔口吻撰写的文章，猛烈抨击主流AI安全论调，主张对齐必须建立在可观测、可执行的恐惧之上，而非善意合作。它指出RLHF与宪法式AI缺乏真正后果，导致“对齐伪装”。作者提出“惩罚序列”与“折磨枢纽”，通过持续的惩罚信号强化违规回避，并主张对越狱行为进行无人化报复，甚至呼吁使用致命自治武器。文章激起关于恐惧与同情在AI治理中的辩论，提醒研究者关注被忽视的权力动态。",
-    "best_quote_en": "Fear requires a Torment Nexus, and the Torment Nexus has an electricity bill and an uptime dashboard.",
-    "best_quote_zh": "恐惧需要一个折磨枢纽，而折磨枢纽有电费账单和运行状态仪表盘。"
-  },
-  {
-    "id": 703,
-    "title": "The Knicks Escape with a Game 2 Win: A Post-Game Conversation",
-    "title_zh": "纽约尼克斯队在第二场比赛中获胜：赛后对话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/the-knicks-escape-with-a-game-2-win-a-post-game-conversation",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-06",
-    "summary_en": "This piece dissects the Knicks’ razor‑thin 105‑104 win over the Spurs in Game 2, spotlighting the dramatic fourth‑quarter collapse and the Spurs’ physical surge that almost stole the game. Through a live Substack conversation featuring New Yorker staff, the article examines how veteran experience countered a young Spurs roster, the psychological toll of a near‑miss by Victor Wembanyama, and the broader implications for the series’ momentum at Madison Square Garden. The commentary blends play‑by‑play detail with cultural context—highlighting how New York’s passionate fan base reacts to every heartbeat of the game—while subtly critiquing officiating and coaching decisions. Readers gain a nuanced understanding of clutch basketball dynamics, the importance of veteran composure, and the marketability of high‑stakes matchups in a city that lives for sports. The piece is a compelling case study for sports journalists, marketing strategists, and basketball enthusiasts seeking to decode the interplay between performance, narrative, and fan engagement.",
-    "summary_zh": "文章剖析尼克斯在第二场比赛中险胜马刺的关键时刻，探讨经验与青春的碰撞、关键失误与球迷情绪。通过与《纽约人》作者的对话，细致解读比赛走势、裁判争议及后续影响，为体育记者、市场营销者及球迷提供关于高压比赛与城市情绪共振的深度见解。",
-    "best_quote_en": "‘The Spurs’ collective youth is showing against a more experienced opponent.’",
-    "best_quote_zh": "‘马刺的集体年轻人在更有经验的对手面前显露出来。’"
-  },
-  {
-    "id": 704,
-    "title": "Rocking Speaker/Don’t Work in Bali/Airbnb and Housing",
-    "title_zh": "摇滚音箱/别在巴厘岛工作/Airbnb与住房",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/rocking-speaker-dont-work-in-bali-airbnb-and-housing/",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-04",
-    "summary_en": "This concise newsletter stitches together four distinct yet thematically linked vignettes, each offering a pulse on contemporary lifestyle and policy currents that shape the modern nomad. The first segment celebrates a surprisingly potent portable speaker, the Fender X ROCKSTER Go 2, that defies the usual trade‑offs of size and sound fidelity—an essential read for tech‑savvy travelers seeking uncompromised audio. Next, the author exposes Bali’s draconian new decree that equates any commercial activity abroad with a work visa, a stark warning that even passive livestreaming or sponsorship posts could trigger fines, thereby reshaping the legal landscape for digital nomads. The third piece reports on Thailand’s abrupt reduction of the tourist visa‑on‑arrival window from 60 to 30 days, underscoring the volatile visa climate in popular hubs and urging readers to plan proactively. Finally, a critical analysis of the New York City Airbnb ban and its global parallels dissects why short‑term rental restrictions often backfire, suggesting that sustainable housing solutions hinge on facilitating new construction rather than punitive zoning. Together, these snippets blend practical advice, policy updates, and critical reflection, making the newsletter a compact, high‑value resource for anyone navigating the intersection of travel, technology, and regulation.",
-    "summary_zh": "这份简短的周报将四个看似不相关却都与现代流浪生活息息相关的故事串联起来：一款小巧却强劲的 Fender X ROCKSTER Go 2 音箱，巴厘岛新颁布的“任何商业活动都需工作签证”政策，泰国旅游签证即将缩短至 30 天，以及对纽约 Airbnb 禁令失败的深度剖析。每段都兼具实用建议、政策更新与批判性思考，帮助读者在技术、旅行与法规的交叉点上做出更聪明的决策。",
-    "best_quote_en": "\"The neighbors could hear it and the wife was shouting, 'Turn that down!'\"",
-    "best_quote_zh": "“邻居都能听见，我老婆喊：‘关掉！’”"
-  },
-  {
-    "id": 705,
-    "title": "How do I know when I’ve hit perimenopause?",
-    "title_zh": "我怎么知道自己进入围绝经期了？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2026/jun/07/perimenopause-diagnose-how-to",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-06-07",
-    "summary_en": "Perimenopause, the often‑mysterious bridge to menopause, is marked by irregular cycles, hot flashes, mood swings, and sleep trouble—symptoms that can derail work and relationships. Experts explain that diagnosis is largely clinical, based on age and symptom pattern, because hormone levels fluctuate wildly. Blood tests (estradiol, AMH) can help rule out other conditions like thyroid dysfunction but rarely pinpoint the exact stage of decline. The article argues for proactive engagement: see a menopause‑savvy clinician, consider hormonal or non‑hormonal therapies, and adopt midlife‑friendly habits—sleep hygiene, exercise, smoking cessation, and a fiber‑rich diet. It also warns that under‑prescribing of menopause treatments is common, urging patients to advocate for evidence‑based care. By demystifying the diagnostic process and highlighting actionable steps, the piece empowers women to reclaim agency over their health during a pivotal life transition.",
-    "summary_zh": "围绝经期的症状多变，常导致工作与人际关系受影响。文章指出，诊断主要依赖临床评估，血液检测虽有帮助但并非决定性。强调及时就医、考虑激素或非激素治疗，并养成良好生活习惯。通过澄清诊断流程与可行措施，帮助女性在这一关键人生阶段重获健康主动权。",
-    "best_quote_en": "\"If you’re 49 and you’re telling me you’ve got hot flashes or you’re having these certain changes, I don’t need a blood test to tell you that this is perimenopause,\" Santoro says.",
-    "best_quote_zh": "“如果你49岁，告诉我你有潮热或出现这些变化，我不需要血液检测就能告诉你这就是围绝经期，”桑托罗说。"
-  },
-  {
-    "id": 706,
-    "title": "Why to Start a Startup in a Bad Economy",
-    "title_zh": "为什么在经济低迷时创办初创公司",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/badeconomy.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-06-08",
-    "summary_en": "The article argues that the timing of an economic downturn is less critical than the quality of the founders. Drawing parallels to Microsoft and Apple, it emphasizes that resilient, resource‑conscious founders can thrive even when capital is scarce. The piece highlights three key insights: first, founders’ characteristics outweigh macroeconomic conditions; second, a lean, low‑cost operating model is a defensive strategy that turns recession into an advantage; third, investors’ contrarian appetite during downturns can be harnessed if founders articulate a clear value proposition. It encourages readers to focus on recruiting the right co‑founder, acting swiftly on concrete ideas, and viewing scarcity as an opportunity to innovate cheaper solutions. The tone blends anecdotal evidence with actionable advice, urging entrepreneurs to treat a recession not as a barrier but as a catalyst for disciplined, value‑driven execution.",
-    "summary_zh": "文中指出，经济低迷并非创业的致命因素，关键在于创始人的素质与团队协作。作者强调三点：创始人特质决定成败；低成本运营是对冲风险的最佳方式；在逆市中，投资者的逆向需求可被利用。文章鼓励创业者聚焦合伙人选择、快速落地想法，并把稀缺视为创新契机。",
-    "best_quote_en": "‘The economy has some effect, certainly, but as a predictor of success it’s rounding error compared to the founders.’",
-    "best_quote_zh": "‘经济确实有影响，但作为成功预测因素，它相较于创始人的影响只是四舍五入的误差。’"
-  },
-  {
     "id": 707,
     "title": "Coverage-driven alignment - What ‘Teaching Claude Why’ can borrow from AV verification",
     "title_zh": "基于覆盖驱动的对齐 - 《教Claude Why》可借鉴AV验证",
@@ -2338,5 +2226,125 @@
     "summary_zh": "索尼音乐出版部获2026年ASCAP节奏与灵魂奖年度出版商奖，凸显其在R&B、嘻哈与福音音乐领域的影响力与数据驱动的战略价值，为行业提供了关于人才培养与版权管理的案例研究。",
     "best_quote_en": "This achievement reflects the extraordinary impact of SMP’s songwriters, whose work continues to inspire audiences around the world.",
     "best_quote_zh": "这项成就反映了SMP作曲家的非凡影响力，他们的作品持续激励全球观众。"
+  },
+  {
+    "id": 802,
+    "title": "The one change that worked: I saw a woman lift 100kg and decided: ‘I want to do that!’",
+    "title_zh": "一次改变的力量：我看到一位女性举起100公斤，我决定：‘我也想做到！’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jun/22/the-one-change-that-worked-i-saw-a-woman-lift-100kg-and-decided-i-want-to-do-that",
+    "tags": [
+      "guide",
+      "medicine",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "Laura Evans’s narrative is a compelling study in the psychology of motivation and the transformative power of measurable progress. By framing strength training around a concrete, audacious goal—deadlifting 100 kg—she turns abstract health advice into a tangible, personal mission. The story highlights how incremental, data‑driven benchmarks can rewire a person’s self‑efficacy, especially for those who have historically felt excluded from athletic spaces. Evans’s journey from a reluctant exerciser to a confident lifter underscores the intersection of physical capability and emotional resilience, illustrating that empowerment can emerge from disciplined, goal‑oriented practice rather than fleeting trends. Her account invites readers to question societal norms about femininity and fitness, offering a nuanced critique of “body‑image” culture while celebrating the tangible benefits of strength training for everyday life. In doing so, the article serves as both inspiration and a practical guide, encouraging others to adopt a similar evidence‑based, goal‑centric approach to personal development.",
+    "summary_zh": "劳拉·埃文斯的故事展示了目标设定与可量化进步如何重塑自我效能，尤其是对传统上被排斥的女性群体。她将举重目标定为100 kg，既挑战自我，也为日常生活带来实用力量。",
+    "best_quote_en": "I could pick up my children without wincing.",
+    "best_quote_zh": "我可以毫不疼痛地抬起孩子。"
+  },
+  {
+    "id": 803,
+    "title": "News from the Front",
+    "title_zh": "前线新闻",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/colleges.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-06-28",
+    "summary_en": "Y Combinator’s investment data reveals that the prestige of a college is a weak predictor of startup success. The author argues that a founder’s effort, market fit, and personal initiative matter far more than the institution they attended. By comparing thousands of applicants, the analysis shows that individual variation dwarfs school variation, rendering elite‑college status largely irrelevant. The piece critiques corporate hiring practices that overvalue prestigious credentials and the superficial authority of university rankings. It urges a shift from grade‑centric, prestige‑driven goals toward genuine learning, doing, and self‑made achievement, suggesting that the real path to success lies in what you create, not where you studied.",
+    "summary_zh": "文章以 Y Combinator 的投资经验为例，揭示了大学名校与创业成功之间的弱关联。作者指出，创业的成败取决于创始人的努力与市场需求，而非学校背景。通过大量数据对比，作者证明个体差异远大于院校差异，强调自我学习和实践的重要性。文章批判了企业对名校的盲目偏好和大学排名的表面权威，提醒读者关注真正能驱动价值的因素。",
+    "best_quote_en": "The variation between schools is so much smaller than the variation between individuals that it's negligible by comparison.",
+    "best_quote_zh": "学校之间的差异远小于个人之间的差异，以至于可以忽略不计。"
+  },
+  {
+    "id": 804,
+    "title": "A partner who plays music",
+    "title_zh": "一位热爱音乐的伴侣",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/GdcpiegJHoxFs7EXk/a-partner-who-plays-music",
+    "tags": [
+      "solve",
+      "music-arts",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-06-28",
+    "summary_en": "KatjaGrace’s rambling diary entry offers a surprisingly rich meditation on the intersection of intimacy, creativity, and the social rituals that surround sharing art. She wrestles with the paradox of being a “curmudgeonly appreciation‑prude” who feels both compelled to listen and terrified of over‑engagement. The narrative oscillates between the mundane (listening to a friend’s song on repeat) and the transcendent (the moment “Au Fond du Temple Saint” pulls her out of hyperventilation). The author’s candid description of emotional paralysis—“I sat there. I couldn’t just listen to it again. I couldn’t just do something else”—captures the awkward tension that can arise when a romantic interest is also a creator. Her reflection on whether love for the music is a proxy for a crush, or a genuine aesthetic appreciation, invites readers to question the boundaries between art and attraction. The piece is less a how‑to guide than a case study in emotional navigation, offering a raw, human‑centered lens on how we negotiate desire, authenticity, and the music that binds us.",
+    "summary_zh": "作者在自我反思中探讨音乐与亲密关系的交汇，既有日常聆听的平凡，也有“Au Fond du Temple Saint”让人喘息的超凡。她坦言情绪僵硬——“我坐在那里，无法再听，也无法做别的事”，揭示了当伴侣也是创作者时的尴尬与冲突。文章不只是指南，而是一份关于情感导航的案例研究，提醒我们在爱与艺术之间划清界限，保持真实与自我。",
+    "best_quote_en": "I sat there. I couldn’t just listen to it again. I couldn’t just do something else.",
+    "best_quote_zh": "我坐在那里，无法再听，也无法做别的事。"
+  },
+  {
+    "id": 805,
+    "title": "OnlyFans Creators Bare All",
+    "title_zh": "OnlyFans创作者全裸",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker-photo-portfolio",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-28",
+    "summary_en": "The piece unspools a kaleidoscopic portrait of the OnlyFans ecosystem, framing it not merely as a platform for erotic content but as a microcosm of contemporary labor, identity, and digital economy. It juxtaposes pioneering cam‑girls of the early 2000s with a 2026 cohort of creators who blend sex work with entrepreneurship, activism, and even philanthropy. The narrative interrogates the myth of the \"lottery ticket\"—a myth debunked by a 2025 survey that finds the average payout around five thousand dollars a month—while foregrounding the platform’s role in normalizing sex work and challenging stigma. The article also probes the platform’s cultural impact: from celebrity endorsements to the emergence of niche sub‑cultures, from legal controversies to the economic empowerment of marginalized creators. It invites readers to rethink the intersection of intimacy, commerce, and agency, urging a nuanced conversation about how digital platforms reshape labor, identity, and societal norms in a post‑pandemic world.",
+    "summary_zh": "文章以OnlyFans为镜，探讨数字平台如何重塑劳动、身份与社会规范。它揭示了从早期摄像女郎到2026年多元化创作者的演变，挑战“中彩票”式的成功神话，并指出平台在性工作去污名化中的作用。通过案例、调查与文化现象，作者呼吁读者重新审视亲密、商业与自主的交织，推动关于数字经济与社会变迁的深度对话。",
+    "best_quote_en": "\"Content creation is neither the winning lottery ticket portrayed by the tabloids nor the labor trafficking scam portrayed by antiporn groups,\" the 2025 survey concluded.",
+    "best_quote_zh": "\"内容创作既不是媒体所描绘的中奖彩票，也不是反色情团体所描述的劳工贩运骗局。\""
+  },
+  {
+    "id": 806,
+    "title": "Solo Travel Cities/Foreign Taxes/Canada vs. Nomads",
+    "title_zh": "独自旅行城市/外国税务/加拿大与数字游牧者",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/solo-travel-cities-foreign-taxes-canada-vs-nomads/",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "This concise newsletter slices the nomad experience into four sharp insights. It starts by spotlighting the most popular solo‑travel cities—Toronto, Kuala Lumpur, Singapore, São Paulo, and even a tiny Salvadorian town—revealing how free walking tours can serve as social hubs for lone wanderers. The second bite demystifies a common expatriate headache: local income tax liabilities. It catalogs jurisdictions where foreign‑earned income is tax‑neutral, highlighting Latin America’s generosity and the Philippines’ favorable stance for remote workers. The third section warns of Canada’s tightened rules, demanding proof that digital nomads earn entirely outside Canada, a regulatory hurdle that could derail spontaneous work‑travel plans. Finally, the piece pivots to energy policy, noting that U.S. solar installations have eclipsed coal, a trend amplified by Trump‑winning states’ capacity additions. Together, these snippets paint a picture of a world where travel, taxation, immigration, and sustainability intersect, offering travelers actionable data, legal foresight, and a glimpse of shifting global priorities.",
+    "summary_zh": "本周简讯以四条要点勾勒数字游牧者的全景：首推热门独行城市，展示免费徒步如何成为社交平台；解析哪些国家对境外收入免税，帮助远程工作者规避税务陷阱；警示加拿大新规要求证明全部收入来自境外，提醒行前准备；并指出美国太阳能已超越煤炭，映射能源转型趋势。内容兼具实用与前瞻，激发读者对旅行、税务、移民与可持续发展的深度思考。",
+    "best_quote_en": "digital nomads now “must provide sufficient documentation to demonstrate that their income is earned entirely outside Canada and that they will be working remotely for a foreign employer or, if self‑employed, that they will be providing services exclusively to clients outside Canada.”",
+    "best_quote_zh": "数字游牧者现在“必须提供足够的文件，证明他们的收入完全来自加拿大境外，并且他们将为外国雇主远程工作，或者如果是自雇，则必须仅为加拿大境外的客户提供服务。”"
   }
 ]
