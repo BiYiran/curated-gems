@@ -1,77 +1,5 @@
 [
   {
-    "id": 707,
-    "title": "Coverage-driven alignment - What ‘Teaching Claude Why’ can borrow from AV verification",
-    "title_zh": "基于覆盖驱动的对齐 - 《教Claude Why》可借鉴AV验证",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/hsrjuzqokvAErvZ2q/coverage-driven-alignment-what-teaching-claude-why-can",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-08",
-    "summary_en": "This article argues that the alignment training strategy pioneered by Anthropic—Teaching Claude Why (TCW)—can be significantly strengthened by borrowing the systematic, coverage‑driven verification (CDV) methodology that autonomous‑vehicle (AV) developers use. The author first sketches how TCW moves the normative burden into pre‑training via next‑token learning on constitutional documents and stories, reducing reliance on reinforcement‑learning shaping. He then explains CDV: defining a coverage map of risk dimensions, iteratively sampling scenarios, evaluating, and fixing gaps, a process that has proven effective for safety‑critical hardware and AVs. By applying CDV principles to alignment, the article suggests a staged loop—create stories for each bucket, evaluate, refine, run long‑horizon RL, re‑evaluate, and decide deployment—while also addressing challenges unique to AI, such as speculative dimension explosion and spec‑bug detection. The piece is rich in pragmatic details (bucket design, scenario generation, check writing), yet also invites debate on incentives and legal liability to enforce rigorous V&V. It blends theoretical insight with actionable engineering guidance, offering a roadmap for researchers and practitioners to make alignment more robust in the long‑horizon RL setting.",
-    "summary_zh": "作者将AV领域的覆盖驱动验证方法应用于AI对齐，提出从覆盖图、情景生成到评估修复的闭环流程，强调在长周期强化学习中系统化验证的必要性，并讨论维度爆炸、规范缺失与激励机制等挑战。",
-    "best_quote_en": "\"Coverage‑driven verification is about efficient risk reduction: maximize risk reduction per human and compute effort, given our current knowledge.\"",
-    "best_quote_zh": "“覆盖驱动的验证是关于高效的风险降低：在我们现有认知下，最大化每一次人力和算力投入的风险降低。”"
-  },
-  {
-    "id": 708,
-    "title": "Andrew Tate’s Empire of Abuse",
-    "title_zh": "Andrew Tate的虐待帝国",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
-    "tags": [
-      "solve",
-      "education",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-06-08",
-    "summary_en": "This investigative piece exposes how Andrew Tate, a prominent manosphere figure, built an online pornography empire and a political machine by systematically exploiting women. Through the War Room network and Hustlers University, he taught men how to recruit, coerce, and profit from female sex workers, while simultaneously cultivating a far‑right following that amplified misogynistic rhetoric. The article details multiple instances of sexual violence, trafficking, and bribery, as well as the failures of law‑enforcement in both the UK and Romania. It highlights the chilling interplay between internet culture, political influence, and criminal conduct, revealing how an individual can weaponize social media platforms to normalize and monetize violence against women. The piece invites readers to critically examine the ethical implications of charismatic leadership, the exploitation of vulnerable populations, and the systemic obstacles that allow such abuse to persist. It concludes by questioning the efficacy of current justice mechanisms and the responsibility of digital platforms to curb extremist propaganda.",
-    "summary_zh": "文章透视Andrew Tate如何利用社交媒体、色情产业与极右政治，系统性剥削女性，暴露网络暴力与司法失职的深层危机。",
-    "best_quote_en": "\"I’ve done this with over 100 girls. I almost sound evil. But I’m not.\"",
-    "best_quote_zh": "\"我已经让100多名女孩受害。我几乎听起来像个邪恶的人，但我不是。\""
-  },
-  {
-    "id": 709,
-    "title": "At‑home writing retreat / Surprising podcasts / Tiny camera",
-    "title_zh": "At‑home writing retreat / Surprising podcasts / Tiny camera",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/at%e2%80%91home-writing-retreat-surprising-podcasts-tiny-camera/",
-    "tags": [
-      "inspire",
-      "design",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-06-07",
-    "summary_en": "This eclectic piece weaves together practical life hacks, creative inspiration, and cultural commentary, offering readers a palette of actionable insights and reflective musings. The author’s at‑home writing retreat demonstrates how deliberate rhythm disruption—time‑blocking, movement, and mindful breaks—can transform a lazy Saturday into a productive, mentally refreshing day, a lesson that resonates with anyone seeking to optimize personal workflows. The brief dive into the Kodak Charmera, a miniature retro camera, juxtaposes nostalgia with modern pragmatism, highlighting the appeal of tactile, low‑fidelity photography for both children and adult hobbyists, while also reminding us of the hidden costs (microSD cards) that can undermine the experience. The podcast curation showcases how contemporary media can surprise and educate, underscoring the value of diverse formats—interviews, scripted narratives, and investigative journalism—in enriching our understanding of dynamic governance and liberalism. The mention of disposable baby bibs and the private visual universe, Cosmos, rounds out the theme of seeking simplicity and focused creativity in everyday tools. Overall, the article invites readers to experiment with intentional habits, embrace retro aesthetics, and curate diverse knowledge streams, fostering a holistic approach to learning and living.",
-    "summary_zh": "作者以日常小技巧串联创意与实用，揭示写作节奏、复古摄影与新媒体的交融，提示我们在平凡中寻找高效与灵感。",
-    "best_quote_en": "\"I copied this essay’s idea of an at‑home writing retreat by creating a loose schedule of deep‑work, time‑blocked writing between breaks for reading, meditating, walking my dog, lunch, and body care.\"",
-    "best_quote_zh": "\"我把这篇文章的在家写作静修理念搬到现实里，制定了一个松散的深度工作时间表，在阅读、冥想、遛狗、午餐和身体护理之间留出分隔。\""
-  },
-  {
     "id": 710,
     "title": "A mother’s work has enormous value | Letter",
     "title_zh": "母亲的工作具有巨大价值 | 信",
@@ -2346,5 +2274,75 @@
     "summary_zh": "本周简讯以四条要点勾勒数字游牧者的全景：首推热门独行城市，展示免费徒步如何成为社交平台；解析哪些国家对境外收入免税，帮助远程工作者规避税务陷阱；警示加拿大新规要求证明全部收入来自境外，提醒行前准备；并指出美国太阳能已超越煤炭，映射能源转型趋势。内容兼具实用与前瞻，激发读者对旅行、税务、移民与可持续发展的深度思考。",
     "best_quote_en": "digital nomads now “must provide sufficient documentation to demonstrate that their income is earned entirely outside Canada and that they will be working remotely for a foreign employer or, if self‑employed, that they will be providing services exclusively to clients outside Canada.”",
     "best_quote_zh": "数字游牧者现在“必须提供足够的文件，证明他们的收入完全来自加拿大境外，并且他们将为外国雇主远程工作，或者如果是自雇，则必须仅为加拿大境外的客户提供服务。”"
+  },
+  {
+    "id": 807,
+    "title": "How Not to Die",
+    "title_zh": "如何不死亡",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/die.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-06-29",
+    "summary_en": "Y Combinator’s founder delivers a candid talk on startup survival, framing failure as the inevitable fate for half the companies he funds. He argues that the real success metric is simply not dying, and that staying in regular contact, maintaining momentum, and avoiding distractions are the most reliable predictors of longevity. The speech blends hard data—such as the 100 % accuracy of silence as a death signal—with psychological insights about fear of failure, public humiliation, and the power of a committed core user base. He warns against the common “we’ll keep working” mindset that masks resignation, and urges founders to treat their venture as a full‑time, high‑stakes endeavor. The message is both a sobering reminder of startup volatility and a pragmatic playbook: keep iterating, stay engaged, and never give up. It invites founders to view survival as the first step toward wealth, reframing the startup journey as a battle against demoralization rather than a lottery.",
+    "summary_zh": "YC创始人以坦诚的语调阐述创业生存之道：失败是公司的一半命运，真正的成功是活下来。通过数据和心理洞察，他指出保持定期沟通、持续进展、避免分心是预防死亡的关键。警示“我们会继续努力”往往掩盖放弃，强调将创业视为全职高风险任务。信息既是对创业波动的严肃提醒，也是实用手册：持续迭代、保持投入、永不放弃，重塑生存为战胜沮丧的过程，最终走向财富。",
+    "best_quote_en": "If you can just avoid dying, you get rich.",
+    "best_quote_zh": "只要避免失败，你就能致富。"
+  },
+  {
+    "id": 808,
+    "title": "Works in Progress / 100 greatest bird names / Cat water fountain",
+    "title_zh": "Works in Progress / 100 greatest bird names / Cat water fountain",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/works-in-progress-100-greatest-bird-names-cat-water-fountain/",
+    "tags": [
+      "learn",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-06-28",
+    "summary_en": "This eclectic newsletter blends a referral‑based incentive scheme with a curated roundup of niche products and thought‑provoking content. The author rewards readers for sharing the free newsletter—offering exclusive PDFs, AMA invites, and personalized doodles—thereby turning passive consumption into a community‑building activity. The piece spotlights \"Works in Progress,\" a Stripe‑backed print magazine that champions underrated ideas across tech, science, and culture, positioning itself as a tangible counter‑point to the digital‑only Substack landscape. The author also shares a whimsical list of the 100 greatest bird names, a stainless‑steel cat water fountain review, and a nostalgic look at early web folk art, all underscored by a personal touch that invites readers to appreciate both tangible and intangible value. The content’s core insight is the power of tangible, well‑designed media to foster deeper engagement, while the referral program demonstrates how value‑based incentives can grow an audience organically. Overall, the newsletter exemplifies a hybrid model of content curation, community building, and product advocacy that resonates with readers seeking both novelty and actionable recommendations.",
+    "summary_zh": "这份多元化的简报将推荐奖励与精选产品、前沿想法相结合。作者通过提供独家PDF、AMA邀请和手绘感谢卡，鼓励读者分享免费简报，形成社区成长。重点介绍Stripe支持的印刷杂志《Works in Progress》，强调纸质媒介的独特价值；同时分享百鸟名称、猫用水喷泉、早期网页民俗艺术等趣味内容，体现了对实物与数字体验的双重关注。",
+    "best_quote_en": "Works in Progress is the only magazine I get delivered on paper; I enjoy reading its designed pages, and getting the extra bits you don’t get online.",
+    "best_quote_zh": "《Works in Progress》是我唯一收到纸质版的杂志；我喜欢阅读它精心设计的页面，并获得线上没有的额外内容。"
+  },
+  {
+    "id": 809,
+    "title": "HYBE’s Big Hit cracks down on ‘egregious and unlawful conduct’ targeting CORTIS, as fans attach GPS trackers to artists’ vehicles",
+    "title_zh": "HYBE旗下BIGHIT音乐严厉打击针对CORTIS的‘严重且违法行为’，粉丝在艺人车辆上安装GPS追踪器",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/hybes-big-hit-cracks-down-on-egregious-and-unlawful-conduct-targeting-cortis-as-fans-attach-gps-trackers-to-artists-vehicles/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2026-06-29",
+    "summary_en": "HYBE’s BIGHIT MUSIC has taken a hard‑line stance against a wave of privacy violations targeting its rookie boy group, CORTIS. The label filed criminal complaints over online abuse, illegal sale of flight data, and the mounting trend of fans affixing GPS trackers to the artists’ vehicles during a Paris tour. By publicly warning fans on its Weverse platform, BIGHIT not only signals zero‑tolerance for “egregious and unlawful conduct” but also underscores the growing intersection of fandom culture and personal data protection. The company’s action—reporting to police, issuing verbal warnings, and deleting unauthorized content—highlights a proactive, multi‑channel response that blends legal recourse with community education. For industry observers, the case illustrates how K‑pop conglomerates are redefining artist safety protocols in an era of hyper‑connected fandoms. It also raises questions about the balance between fan engagement and privacy, prompting a broader dialogue on ethical boundaries in pop culture. Ultimately, HYBE’s measures set a precedent that may compel other labels to adopt stricter safeguards, reshaping the business model of fan‑artist interactions.",
+    "summary_zh": "HYBE旗下BIGHIT音乐对针对CORTIS的隐私侵犯采取零容忍态度，公开投诉网络辱骂、非法售卖航班信息，并警告粉丝在巴黎巡演期间给艺人车辆装置GPS追踪器。此举不仅凸显了粉丝文化与个人数据保护的交叉点，也展示了企业通过法律、警告与内容删除三管齐下的主动防御模式。对业内而言，此案例揭示了K‑pop巨头正重新定义艺人安全协议，促使标签在高度互联的粉丝生态中更严谨地设定边界。更重要的是，它引发了关于粉丝参与与隐私权平衡的讨论，推动了流行文化伦理边界的再思考。HYBE的做法或将成为行业新标准，重塑粉丝与艺人互动的商业模式。",
+    "best_quote_en": "Both the sale and purchase of artists’ flight information constitute violation of the Personal Information Protection Act, the Information and Communications Network Act, and other applicable laws.",
+    "best_quote_zh": "非法创建和传播针对艺人的有害内容尤其严重，尤其是许多成员仍是未成年人。"
   }
 ]
