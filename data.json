@@ -1,53 +1,5 @@
 [
   {
-    "id": 710,
-    "title": "A mother’s work has enormous value | Letter",
-    "title_zh": "母亲的工作具有巨大价值 | 信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/jun/08/a-mothers-work-has-enormous-value",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-08",
-    "summary_en": "Polly Creed’s letter confronts a disparaging remark that undervalues maternal labor, reminding readers that unpaid caregiving—especially by women—constitutes a hidden yet vital economic engine. Drawing on UK statistics that attribute over £1 trillion to women’s unpaid work, Creed frames domestic care as a uniquely human activity that AI cannot replace. The piece urges a cultural shift: to recognize and honor the invisible labor that sustains families, communities, and the national economy. It challenges the reader to rethink how society measures worth, urging that the value of a mother’s work is not a privilege but a fundamental human contribution. This reflection blends data, feminist perspective, and practical insight, offering both a critique of patriarchal undervaluation and a hopeful vision that the AI era might finally bring deserved recognition to caregiving.\n",
-    "summary_zh": "Polly Creed用一封信抨击贬低母亲劳动的言论，指出女性承担的无偿照料工作不仅是社会基石，也是经济巨量。引用英国统计显示，女性无偿劳动价值逾1万亿英镑，凸显护理的独特人性。作者呼吁重新评估价值观，赋予母亲工作应有的尊重与认可，或许在人工智能时代{这份工作}将获得应有的关注与回报。此文兼具美幖砽縘扎苓...请阅读完整文章以获得完整见解。\n",
-    "best_quote_en": "\"Perhaps one positive outcome of the AI revolution might be that we value this invisible, vital work more – that we understand that it has value precisely because your mum does it.\" \n",
-    "best_quote_zh": "\"也许人工智能革命的一个积极结果是我们会更重视这份看不见、至关重要的工作——因为正是因为你妈妈在做这件事，它才有价值。\" \n"
-  },
-  {
-    "id": 711,
-    "title": "A Fundraising Survival Guide",
-    "title_zh": "融资生存指南",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fundraising.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-06-09",
-    "summary_en": "Sam Altman’s 2008 essay is a candid, data‑rich manual for founders wrestling with the brutal reality of venture capital. He reframes fundraising as a survival skill, exposing the market’s inefficiencies, the volatility of investor sentiment, and the psychological toll on founders. Altman offers concrete tactics—low expectations, continuous product momentum, conservative deal sizing, and meticulous data collection—to mitigate morale loss and keep a startup moving. His comparison of bootstrapping versus raising capital, the critique of novice investors, and the emphasis on being ramen‑profitable illustrate a pragmatic, risk‑aware mindset. The piece is both a warning and a playbook, urging founders to treat fundraising as a threat while remaining focused on product excellence. It bridges theory and practice with real anecdotes (Viaweb, Delicious) and statistical insights, making it an indispensable, action‑oriented resource for early‑stage entrepreneurs.",
-    "summary_zh": "阿尔特曼2008年的随笔把融资当成一门生存技巧，揭示市场低效、投资者情绪波动与创始人心理压力。他用实测数据与案例阐述低期望、持续产品进展、保守估值等策略，帮助创始人把融资痛苦降到最低。通过对自筹与外投、经验不足投资者、营运盈亏阈值的讨论，作者呈现了一套既理性又可操作的融资指南，既是警示也是实操手册，适合所有创业者。",
-    "best_quote_en": "Raising money is brutal. The hardest part is making something people want. The second hardest part is raising money.",
-    "best_quote_zh": "筹资是残酷的。最难的部分是让人们想要的东西，第二难的是筹集资金。"
-  },
-  {
     "id": 712,
     "title": "LLMs and almost good code",
     "title_zh": "LLM与几乎完美的代码",
@@ -2344,5 +2296,53 @@
     "summary_zh": "HYBE旗下BIGHIT音乐对针对CORTIS的隐私侵犯采取零容忍态度，公开投诉网络辱骂、非法售卖航班信息，并警告粉丝在巴黎巡演期间给艺人车辆装置GPS追踪器。此举不仅凸显了粉丝文化与个人数据保护的交叉点，也展示了企业通过法律、警告与内容删除三管齐下的主动防御模式。对业内而言，此案例揭示了K‑pop巨头正重新定义艺人安全协议，促使标签在高度互联的粉丝生态中更严谨地设定边界。更重要的是，它引发了关于粉丝参与与隐私权平衡的讨论，推动了流行文化伦理边界的再思考。HYBE的做法或将成为行业新标准，重塑粉丝与艺人互动的商业模式。",
     "best_quote_en": "Both the sale and purchase of artists’ flight information constitute violation of the Personal Information Protection Act, the Information and Communications Network Act, and other applicable laws.",
     "best_quote_zh": "非法创建和传播针对艺人的有害内容尤其严重，尤其是许多成员仍是未成年人。"
+  },
+  {
+    "id": 810,
+    "title": "Agency is not a natural kind (and why that might matter for alignment)",
+    "title_zh": "代理不是自然范畴（这对对齐为何重要）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/85vgwYgNta65oK4zL/agency-is-not-a-natural-kind-and-why-that-might-matter-for",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-06-30",
+    "summary_en": "This essay interrogates the notion of agency as a natural kind, arguing that it is merely a human‑constructed lens for making sense of complex behaviour. By critiquing the common reduction of agents to goal‑directed utility maximisers, the author exposes the teleological baggage that often accompanies discussions of both human and artificial agency. He suggests that agency should be viewed as an emergent, multi‑layered phenomenon built from boundary maintenance, self‑modelling, and information processing, rather than a discrete, idealised entity. This reframing has concrete implications for AI safety: if we model agents more faithfully, we may better anticipate and mitigate misaligned behaviour. The piece blends philosophical depth with practical insight, offering a nuanced critique of prevailing alignment arguments while opening new avenues for safer AI design. It is especially relevant for researchers at the intersection of AI ethics, cognitive modelling, and safety engineering.",
+    "summary_zh": "文章以哲学视角审视‘代理’概念，指出它并非自然范畴，而是人类为理解复杂行为所建构的镜头。作者批判将代理等同于理性目标最大化的做法，强调其隐含的目的论与简化假设。通过讨论人类与AI的代理差异，提出更细致、非目的论的框架可能提升安全性与对齐效果。文章兼具理论深度与实践洞察，适合对AI伦理、对齐与认知建模感兴趣的研究者。",
+    "best_quote_en": "Agency is a construct that we have developed to help make sense of this mess, but it is only a lens through which we view the world.",
+    "best_quote_zh": "代理是我们用来理解这混乱的构造，但它只是我们看世界的镜头。"
+  },
+  {
+    "id": 811,
+    "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
+    "title_zh": "运动练习强化身心连接 | Ido Portal",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal",
+    "tags": [
+      "guide",
+      "psychology",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2026-06-29",
+    "summary_en": "Ido Portal’s conversation offers a nuanced exploration of how playful movement, distinct from conventional exercise, can transform mental and physical health. He contrasts play with discipline, arguing that the former fosters relaxed awareness while the latter relies on willpower, and demonstrates how this shift rewires default stress responses. By spotlighting transition states—particularly the liminal space between sleep and wakefulness—Portal illustrates how heightened bodily awareness can unlock new insights. The dialogue also introduces micro‑meditation as a practical tool for integrating movement into daily life, and examines the role of friction points in practice as opportunities for growth. The content is deeply actionable, blending expert insight with advanced concepts such as embodied cognition and neuroplasticity. It invites listeners to experiment with movement patterns that cultivate uncertainty, resilience, and a deeper sense of self, offering a compelling blueprint for anyone seeking to strengthen the mind‑body connection.",
+    "summary_zh": "Ido Portal以玩乐式运动为核心，阐释了它如何在不依赖意志力的前提下重塑压力与恐惧的默认反应。通过探讨睡眠与清醒之间的过渡状态，他展示了身体觉知的提升如何开启新见解。对想要强化身心连接的人而言，这段对话既具可操作性，又兼具前沿洞察，激发我们在日常中以玩乐的方式拥抱不确定性与成长。",
+    "best_quote_en": "Approaching friction points in your practice with relaxed awareness can rewire your default reactions to stress and fear.",
+    "best_quote_zh": "以轻松的觉知方式面对练习中的摩擦点，可以重塑你对压力和恐惧的默认反应。"
   }
 ]
