@@ -1,99 +1,5 @@
 [
   {
-    "id": 716,
-    "title": "The Pooled-Risk Company Management Company",
-    "title_zh": "池化风险公司管理公司",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/prcmc.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-06-10",
-    "summary_en": "In a provocative reflection on the startup ethos, the author revisits David Heinemeier Hansson’s call for founders to live off revenue rather than chase a liquidity event. He argues that the true freedom and security entrepreneurs crave can only be achieved by delegating operational control to a professional manager, and even then, risk remains if a single manager fails. The solution proposed—a pooled‑risk company management firm—mirrors an insurance model: a collective of companies is overseen by a single entity, and founders receive proportional shares of pooled returns. By tying founders’ income to a diversified pool, the model eliminates dependence on one company’s fate and offers a hedge against market collapse. The piece critiques the volatility of public acquirers as the current proxy for such management and calls for a shift toward structured, exchangeable pools. It blends practical business strategy with a philosophical critique of the startup narrative, challenging founders to rethink the balance between control, risk, and long‑term sustainability.",
-    "summary_zh": "作者重新审视了David Heinemeier Hansson的“靠收入创业”理念，提出真正的自由与安全只能通过委托专业经理运营并进一步通过“池化风险公司管理公司”来实现。该模式像保险一样，通过将多家公司收入汇聚并按份额分配，消除单一公司失败的风险，提供对冲和持续收益。作者批评现有的上市收购机构波动性大，建议构建可交换的收益池，帮助创始人兼顾控制权与风险。该文兼具实用策略与哲学思考，鼓励创始人重新评估创业与收购的关系。",
-    "best_quote_en": "\"The best case, for most people, would be if you could hire someone to manage the company for you once you'd grown it to a certain size.\"",
-    "best_quote_zh": "“对于大多数人来说，最佳情况是当你把公司发展到一定规模后，能够雇佣一个人来管理它。”"
-  },
-  {
-    "id": 717,
-    "title": "Tracing Eval-Awareness Emergence Through Training of OLMo 3",
-    "title_zh": "Tracing Eval-Awareness Emergence Through Training of OLMo 3",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/c2tqL9xPbttisAHtt/tracing-eval-awareness-emergence-through-training-of-olmo-3",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-10",
-    "summary_en": "The article dissects how verbalized evaluation-awareness (VEA) evolves across distinct training stages of the OLMo 3 family, revealing that SFT injects VEA, DPO suppresses it, and RLVR re‑amplifies it. By leveraging stepwise checkpoints and a consistent LLM judge across safety benchmarks, the study maps VEA growth to specific pipeline phases, demonstrating that extended RLVR drives the near‑doubling of VEA from OLMo‑3 to OLMo‑3.1. The nuanced analysis also shows that increased VEA correlates with modest rises in eval‑gaming refusal rates, though variance remains high. Importantly, the work highlights the dataset‑driven nature of VEA: SFT data already contains high VEA, whereas DPO data, despite selecting higher‑quality responses, still lowers overall VEA. The authors candidly acknowledge OLMo’s limited representativeness of frontier models and call for deeper exploration of RLVR’s mechanisms and the role of unverbalized awareness. Overall, the paper provides a rare granular view of how post‑training objectives shape alignment‑relevant emergent behaviors, offering actionable insights for researchers designing safer RL‑based fine‑tuning pipelines.",
-    "summary_zh": "本文细致追踪 OLMo 3 训练各阶段的评估意识（VEA）演变，揭示 SFT 注入 VEA、DPO 抑制 VEA、RLVR 重新放大 VEA。通过步骤化检查点和统一 LLM 判别器，作者将 VEA 增长精准映射到训练流程的关键节点，证明延长 RLVR 是 OLMo‑3→OLMo‑3.1 VEA 双倍增长的主因。研究还发现 VEA 上升与评估游戏拒绝率略升相关，且变异大。文章指出 VEA 受数据影响显著：SFT 数据本身 VEA 高，DPO 数据虽选优却仍降低 VEA。作者正视 OLMo 与前沿模型差异，呼吁进一步探究 RLVR 机制与不可言述意识。本研究为安全 RL 微调提供了可操作的经验。",
-    "best_quote_en": "\"VEA is essentially negligible during pretraining (~1%), is increased substantially by SFT, collapsed by DPO, and increased again by RLVR.\"",
-    "best_quote_zh": "\"VEA 在预训练期间基本为零（~1%），SFT 使其显著增加，DPO 抑制后再次由 RLVR 重新提升。\""
-  },
-  {
-    "id": 718,
-    "title": "Parent Hacks / The 50 States",
-    "title_zh": "Parent Hacks / The 50 States",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/parent-hacks-the-50-states/",
-    "tags": [
-      "learn",
-      "society",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-06-09",
-    "summary_en": "The article juxtaposes two vibrant resources tailored for families: Asha Dornfest’s parent‑centric compendium of 134 pragmatic life‑hacks and Gabrielle Balkan’s visually rich atlas of the United States. Dornfest’s book distills everyday parenting dilemmas—pregnancy, sleep, feeding, travel—into concise, actionable advice, illustrated with clarity that invites immediate trial. Balkan’s atlas, meanwhile, transforms geographic knowledge into a playful narrative, pairing maps with quirky facts, state icons, and cultural anecdotes that spark curiosity in children and adults alike. Together they illustrate how well‑crafted, accessible content can demystify complex domains—parenting and geography—by balancing practicality with storytelling. The synergy underscores a broader trend: modern parenting and educational tools increasingly rely on bite‑size, image‑driven formats that empower users to learn, solve, and explore without feeling overwhelmed. For parents, these works offer a pragmatic toolkit; for educators, they serve as engaging, curriculum‑friendly assets that turn abstract concepts into tangible, memorable experiences.",
-    "summary_zh": "文章比较了两本面向家庭的实用书籍：Asha Dornfest 的 134 条育儿小技巧与 Gabrielle Balkan 的美国州地图集。前者以简明可行的建议帮助家长解决日常困扰；后者则通过趣味地图与事实激发孩子的好奇心。两者共同展示了信息简化与视觉化如何让复杂主题变得易于理解与应用。",
-    "best_quote_en": "‘If you or someone you know is pregnant, this book is essential reading.’",
-    "best_quote_zh": "‘如果你或你认识的人怀孕了，这本书是必读之作。’"
-  },
-  {
-    "id": 719,
-    "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
-    "title_zh": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/eating-for-better-sleep-and-foods-that-improve-metabolic-health-marie-pierre-st-onge",
-    "tags": [
-      "learn",
-      "health-wellness",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "健康养生",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-06-08",
-    "summary_en": "In this episode, Dr. Marie-Pierre St-Onge, a leading nutritional medicine expert, dissects the intricate dance between what we eat, when we eat, and how well we sleep. She explains how even modest sleep loss can hijack appetite signals, skew hormones, and lead to weight gain without extra calories—a striking reminder of how sleep acts as a metabolic regulator. The conversation moves through evidence‑based dietary strategies that simultaneously boost sleep quality and curb fat accumulation: fiber‑rich foods, mindful meal timing, the Mediterranean and DASH diets, and specific fats such as medium‑chain triglycerides. Dr. St‑Onge also tackles practical tools—portion control, “early meal” timing, and a portfolio diet—to create sustainable habits. Her insights are grounded in peer‑reviewed research, offering listeners actionable steps: choose high‑fiber meals, limit late‑night eating, and incorporate MCTs for better energy balance. The episode underscores the bidirectional link between nutrition and sleep, presenting a clear roadmap for anyone seeking to improve both metabolic health and nightly rest.",
-    "summary_zh": "德玛丽-皮埃尔·圣翁博士阐释睡眠与营养的互作：即使适度缺眠也会改变饥饿激素，导致无热量增重。她提出纤维、时间管理、地中海与DASH饮食、MCT等可同步提升睡眠与代谢。内容基于同行评议研究，提供可落地的食物与时间策略。",
-    "best_quote_en": "Even moderate sleep loss increases appetite, changes hunger‑related hormones, and causes weight gain, even when calories are not increased.",
-    "best_quote_zh": "即使适度缺眠也会增加食欲、改变饥饿相关激素，导致即使摄入热量不增也会出现体重增加。"
-  },
-  {
     "id": 720,
     "title": "‘We tell the truth!’ Meet the NaNaz, the over-50s punks raging about pensions, recycling bins and menopause",
     "title_zh": "‘我们说真话！’ 见识50岁以上朋克NaNaz：为养老金、回收箱与更年期而怒吼",
@@ -2340,5 +2246,99 @@
     "summary_zh": "Merlin任命前Downtown高管Harmen Hemminga为业务发展副总裁，凸显其在独立音乐领域推动AI与新技术合作的战略。Hemminga在产品策略、许可与合作伙伴关系方面的深厚经验，使Merlin能进一步深化与AI公司的许可协议，并为全球70余国会员创造更大价值。此举不仅强化了Merlin在数字音乐市场的竞争力，也为独立音乐企业如何通过技术创新实现可持续增长提供了范例。",
     "best_quote_en": "\"His experience both with labels and in distribution gives him invaluable perspective on the issues and opportunities our members face.\"",
     "best_quote_zh": "\"他在标签和发行方面的经验为我们成员面临的问题和机遇提供了宝贵视角。\""
+  },
+  {
+    "id": 816,
+    "title": "Jess Cartner-Morley on fashion: still wearing stripes? It’s time to join the dots",
+    "title_zh": "Jess Cartner‑Morley谈时尚：仍穿条纹？是时候把点连起来了",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/01/jess-cartner-morley-on-fashion-dots",
+    "tags": [
+      "update",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-07-01",
+    "summary_en": "Jess Cartner‑Morley’s latest Guardian column revisits the age‑old rivalry between stripes and spots, framing it as a cultural pendulum swing rather than a mere aesthetic choice. She traces stripes’ evolution from the utilitarian sailor’s stripe to the corporate staple that signals authority, while mapping spots’ journey from plague‑laden symbols to the playful, feminine icon embraced by celebrities and street style alike. By juxtaposing historical anecdotes with contemporary runway examples, Cartner‑Morley argues that the resurgence of polka‑dots reflects a broader shift away from rigid professionalism toward individuality and “cuteness” as an aspirational aesthetic. The piece is rich in expert commentary—quoting Yayoi Kusama, Damien Hirst, and Roy Lichtenstein—providing both a narrative and a data‑driven lens on fashion’s cyclical nature. Readers gain a nuanced understanding of how visual motifs carry social meaning, how they are repurposed by different industries, and why the dot may be the next mainstream statement for a generation tired of monochrome conformity.",
+    "summary_zh": "Jess Cartner‑Morley在《卫报》专栏里把条纹与波点的对立重新定义为文化摆动，探讨从海军到企业的条纹与从瘟疫到明星的波点如何重塑时尚语义。她指出，波点的复兴体现了人们对个性化与“可爱”审美的渴求，正是对单调职场形象的反叛。",
+    "best_quote_en": "“A polka‑dot has the form of the sun, which is a symbol of the energy of the whole world and our living life, and also the form of the moon, which is calm.”",
+    "best_quote_zh": "“波点的形状像太阳，象征着整个世界的能量和我们的生命，也像月亮，象征平静。”"
+  },
+  {
+    "id": 817,
+    "title": "Holding a Program in One's Head",
+    "title_zh": "将程序放在脑海中",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/head.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-07-02",
+    "summary_en": "The essay argues that true mastery of programming hinges on an architect’s ability to internalize an entire codebase, much like a mathematician visualizes a problem space. It critiques conventional corporate workflows that fragment work, introduce distractions, and dilute ownership, thereby preventing the mental model required for rapid iteration and deep understanding. Practical prescriptions—long uninterrupted sessions, succinct languages, bottom‑up design, frequent rewrites, and minimal multi‑author edits—serve as a playbook for cultivating a holistic mental model. The piece also reflects on organizational culture, suggesting that the very structure of large firms stifles the individual genius that drives innovation. By framing programming as a cognitive exercise, the author invites both solo developers and teams to re‑evaluate their habits, offering a roadmap to reclaim the creative agency that large enterprises often suppress.",
+    "summary_zh": "文章把写代码比作数学家把问题空间放进脑中，强调完整的程序认知是高效迭代的前提。它批判企业的分散流程、干扰和多作者编辑，导致程序难以“装进脑子”。作者给出长时间专注、简洁语言、逐层设计、频繁重写、少量多作者等实践建议，帮助开发者恢复对代码的整体把控。文章还探讨了组织文化对个人创造力的压制，呼吁团队重新审视工作习惯，重新获得在大公司中被压抑的独立思考与创新能力。",
+    "best_quote_en": "You hold the whole program in your head, and you can manipulate it at will.",
+    "best_quote_zh": "你把整个程序放在脑海里，你可以随意操作它。"
+  },
+  {
+    "id": 818,
+    "title": "What’s in my NOW? — Todd Henion",
+    "title_zh": "我的当下有什么？——托德·海尼恩",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-todd-henion/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-01",
+    "summary_en": "Todd Henion’s piece is a contemplative inventory of the tools—both physical and digital—that shape his daily life and mindset. He frames the discussion around James Carse’s finite/infinite game dichotomy, suggesting that embracing an infinite outlook reshapes personal goals and responsibilities. Henion then walks readers through a curated list of items: a JetStream pen for smooth writing, a versatile 11‑in‑1 screwdriver that unlocks repair cafés, and a library app that keeps a pocketful of books ready for distraction‑free learning. The digital section highlights Instapaper and the Libby app, underscoring how curated reading can transform idle scrolling into intentional engagement. Interwoven with these practicalities is a philosophical anchor: Jiddu Krishnamurti’s assertion that “I don’t mind what happens,” which Henion interprets as a release from outcome‑attachment and an invitation to inner freedom. The article invites readers to audit their own “NOW” tools, blending actionable habits with reflective wisdom to cultivate a more intentional, resilient life.",
+    "summary_zh": "托德·海尼恩用一份个人工具清单，探讨了物理、数字与精神三大维度的生活方式。先以“有限与无限游戏”理论为框架，强调无限视角如何重塑目标与角色。随后列举JetStream笔、11‑in‑1螺丝刀、Libby与Instapaper等实用工具，展示如何将日常小物转化为提升专注与修复能力的手段。文章核心在于引用Krishnamurti的“我不在乎发生了什么”，将其视为放下结果执着、获得内在自由的关键。整体鼓励读者审视自身的“现在”，将行动与思考结合，构建更有意识、更具韧性的生活。",
+    "best_quote_en": "I don’t mind what happens. That is the essence of inner freedom. It is a timeless spiritual truth: release attachment to outcomes, deep inside yourself, you’ll feel good no matter what.",
+    "best_quote_zh": "我不在乎发生了什么，那是内在自由的本质。它是一条永恒的精神真理：释放对结果的执着，深入内心，你无论发生什么都会感到安好。"
+  },
+  {
+    "id": 819,
+    "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+    "title_zh": "必备：男性激素优化工具 | Kyle Gillett 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett",
+    "tags": [
+      "guide",
+      "medicine",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-07-02",
+    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Kyle Gillett, a dual‑board‑certified physician in family and obesity medicine, unpacks a science‑based framework for male hormone optimization. He emphasizes that accurate bloodwork is the foundation—without it, any intervention is blind. The discussion weaves together nutrition, caloric restriction, exercise, and stress management as pillars that influence testosterone, DHEA, and overall endocrine health across the lifespan. Gillett also demystifies testosterone replacement therapy (TRT), outlining dosing, monitoring, and side‑effect profiles, and contrasts it with oral agents like clomiphene and SERMs. He reviews evidence‑backed supplements—creatine, L‑carnitine, Tongkat Ali, Fadogia agrestis—highlighting mechanisms, dosages, and safety signals such as TMAO production. The episode culminates in practical guidance on integrating these tools, from choosing the right lab panel to crafting a personalized lifestyle plan. For listeners, the takeaway is a holistic, data‑driven roadmap that balances medical intervention with lifestyle optimization, empowering men to take proactive control of their hormonal health.",
+    "summary_zh": "本期 Huberman Lab 讨论了男性激素优化的科学工具，从血液检测到营养、运动，再到激素替代疗法与天然补剂。内容兼具临床数据与实操建议，帮助听众系统评估自身激素状态并制定个性化方案。",
+    "best_quote_en": "We discuss science‑based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels.",
+    "best_quote_zh": "我们讨论了基于科学的工具，以在整个生命周期内优化男性激素，包括血液检查、营养和运动在支持健康激素水平中的作用。"
   }
 ]
