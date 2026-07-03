@@ -1,75 +1,5 @@
 [
   {
-    "id": 720,
-    "title": "‘We tell the truth!’ Meet the NaNaz, the over-50s punks raging about pensions, recycling bins and menopause",
-    "title_zh": "‘我们说真话！’ 见识50岁以上朋克NaNaz：为养老金、回收箱与更年期而怒吼",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2026/may/20/real-riot-women-nanaz-female-punk-band-newport",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2026-05-20",
-    "summary_en": "The Guardian profile of the NaNaz, a six‑woman punk band over 50, turns the clichés of age and gender on their head.  Their music is a combustible blend of personal narrative, social critique and unabashed rebellion, tackling pensions, menopause, recycling and care homes with the same fierce honesty that once defined the 1970s punk scene.  The NaNaz’s story is rooted in community, forged in the “Nana Punk” workshops that invited older women to experiment with instruments and performance.  The band’s members, many of whom had careers as nurses, foster carers or ice‑cream van drivers, discovered that music can be a lifeline—a way to reclaim agency, forge solidarity and ignite public conversation.  Their rapid rise to club and festival bookings, and appearances on both Guitar.com and Age Cymru’s poster campaign, demonstrates the power of authenticity and the hunger for diverse voices in contemporary music.  For readers, the piece offers more than a feel‑good narrative; it invites reflection on how culture, policy and personal identity intersect, and how art can mobilise marginalized communities.  The NaNaz exemplify how age is not a barrier but a reservoir of experience that fuels creativity and activism.",
-    "summary_zh": "这篇报道把50岁以上的朋克乐队NaNaz搬上舞台，展示了音乐如何成为抗议与自我重塑的武器。乐队成员以护士、养育者等身份重拾吉他，发声抗议养老金、回收箱等社会议题，证明年龄并非障碍，而是经验与力量的源泉。",
-    "best_quote_en": "‘We started writing lyrics and that’s where I collaborated on my first song, Idiots Everywhere.’",
-    "best_quote_zh": "‘从一开始我就非常喜欢社区，音乐让我们写歌词，第一首歌《Idiots Everywhere》诞生了。’"
-  },
-  {
-    "id": 721,
-    "title": "Cities and Ambition",
-    "title_zh": "城市与雄心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/cities.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-06-11",
-    "summary_en": "This essay blends sociological observation, historical case studies, and a pragmatic guide to help ambitious people choose where to live.  It argues that cities send implicit messages—wealth, intellect, power, aesthetic, or quality of life—that shape the ambitions of their residents.  By comparing New York, Cambridge, Silicon Valley, and other global centers, the author demonstrates how environmental cues influence the type of innovation that thrives.  The piece is rich in empirical anecdotes (Leonardo’s Florence, the Bay Area’s startup culture) and offers a nuanced framework: the most successful creative fields need a dense network of peers and encouragement, which cities naturally provide.  Readers learn that ambition is not just a personal trait but a social signal; they gain actionable insight into how to test city messages through short-term experiments and ultimately decide where to invest their early career.  The essay invites reflection on the evolving nature of ambition—how wealth, style, and intellectual capital intertwine—and encourages a strategic, data‑driven approach to career geography.",
-    "summary_zh": "这篇文章通过历史案例与城市文化分析，揭示城市如何传递财富、智力、权力等信息，塑造居民的抱负。作者比较纽约、剑桥、硅谷等地，说明环境氛围决定创新类型。文章强调，创造性工作需密集的同行网络，城市自然提供这一条件。读者能学到如何通过短期试住检验城市信息，并据此选择成长地点，启发对雄心新维度的思考。",
-    "best_quote_en": "‘A city speaks to you mostly by accident— in things you see through windows, in conversations you overhear.  It’s not something you have to seek out, but something you can’t turn off.’",
-    "best_quote_zh": "‘城市大多是偶然地向你传递信息——通过窗户看到的事物、耳边的对话。你不必刻意寻找，却也无法关闭它。’"
-  },
-  {
-    "id": 722,
-    "title": "Models May Behave Worse When Eval Aware",
-    "title_zh": "",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/aTcsN5ZZDnMFJvRiG/models-may-behave-worse-when-eval-aware",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-11",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 723,
     "title": "Can the World Cup Transcend Donald Trump?",
     "title_zh": "世界杯能否超越唐纳德·特朗普？",
@@ -2340,5 +2270,77 @@
     "summary_zh": "本期 Huberman Lab 讨论了男性激素优化的科学工具，从血液检测到营养、运动，再到激素替代疗法与天然补剂。内容兼具临床数据与实操建议，帮助听众系统评估自身激素状态并制定个性化方案。",
     "best_quote_en": "We discuss science‑based tools for optimizing male hormones across the lifespan, including the role of bloodwork, nutrition, and exercise in supporting healthy hormone levels.",
     "best_quote_zh": "我们讨论了基于科学的工具，以在整个生命周期内优化男性激素，包括血液检查、营养和运动在支持健康激素水平中的作用。"
+  },
+  {
+    "id": 820,
+    "title": "Talk is of newlywed Taylor Swift taking a break from music. Did I take a nap and wake up in the 1950s? | Laura Snapes",
+    "title_zh": "新婚泰勒·斯威夫特停下音乐的传闻——我是否从1950年代醒来？ | Laura Snapes",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/03/taylor-swift-wedding-travis-kelce-break-music",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "In a sharp, culturally resonant essay, Laura Snapes turns Taylor Swift’s high‑profile marriage into a lens for interrogating the myth that happiness inevitably dulls ambition. She critiques the media’s tendency to package celebrity unions as a quieting of creative fire, juxtaposing Swift’s relentless output with the trope of the ‘housewife’ artist. The piece draws on historical parallels—from 1950s domesticity to Beyoncé’s marital albums—to argue that the narrative of marriage as a creative pause is both outdated and reductive. Snapes challenges readers to reconsider the binary of personal joy versus professional drive, and to recognize that public expectations can pressure artists into self‑censorship. Ultimately, the essay calls for a more nuanced understanding of how marriage and artistry can coexist, urging a shift away from the “happiness equals boredom” cliché.",
+    "summary_zh": "文章以泰勒·斯威夫特婚姻为切入点，批判传统观念将婚后生活视为单调停滞的刻板印象，呼吁多元化的艺术与生活叙事。作者探讨明星婚姻如何被媒体包装，质疑“幸福即无聊”这一陈词滥调，并以斯威夫特为例，讨论公众对女性艺术家在婚后是否继续创作的期望，最终指出个人选择与社会期待的张力。",
+    "best_quote_en": "The idea that happiness makes for boring work is rooted in tired tortured‑artist tropes, as if there aren’t millions of great pieces of art about domesticity’s many joys – and sorrows.",
+    "best_quote_zh": "幸福让工作变得乏味的想法根植于疲惫的受折磨艺术家陋习，仿佛没有数以百万计关于日常生活喜怒哀乐的杰出作品。"
+  },
+  {
+    "id": 821,
+    "title": "Fragile Correctness: Cases of reasoning harming performance",
+    "title_zh": "脆弱正确性：推理导致性能受损的案例",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JbHLxzuhoCS5ZkJse/fragile-correctness-cases-of-reasoning-harming-performance",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "This post dissects a counterintuitive phenomenon in large language models—‘fragile correctness’—where a model momentarily locks onto a correct answer only to abandon it after further reasoning. By tracking the chain‑of‑thought trajectories on MMLU‑pro and GPQA‑diamond, the author quantifies an alarming 14.9% answer‑loss rate, with 4.3% of cases exhibiting high confidence loss. The work introduces a probing framework that flags the fragile state and tests four linear classifiers (future_loss, future_change_to_wrong, future_answer_flip, correctness). Although the answer‑flip detector yields the highest raw accuracy, the future_loss probe offers the most practical gain, boosting accuracy by 5.2% on loss cases. The study highlights the limitations of current probes, the scarcity of clean training data, and the need for broader model coverage. It invites researchers to validate the fragile correctness hypothesis across architectures, refine detection, and explore interventions that preserve correct answers—an essential step toward more reliable, transparent reasoning in AI systems.",
+    "summary_zh": "作者揭示大型语言模型在推理过程中出现的‘脆弱正确性’现象：模型先得出正确答案，却因进一步推理而失误。通过对MMLU‑pro与GPQA‑diamond的链式推理轨迹进行量化，发现14.9%的答案失误率，其中4.3%高置信度失误。作者提出四种线性探测器，虽然答案翻转探测器准确率最高，但专门检测脆弱状态的future_loss探测器在干预时提升5.2%准确率。研究指出探测器受限于样本稀缺，呼吁在更多模型上验证假设并改进干预策略，提升推理可靠性。",
+    "best_quote_en": "There is evidence to suggest that models sometimes enter a ‘fragile correctness’ state where the model obtains the correct answer but further reasoning leads to it getting the answer wrong.",
+    "best_quote_zh": "有证据表明模型有时会进入‘脆弱正确性’状态，即模型先得到正确答案，但进一步推理导致答案错误。"
+  },
+  {
+    "id": 822,
+    "title": "Donald Trump Celebrates America’s Two-Hundred-and-Fiftieth Birthday",
+    "title_zh": "唐纳德·特朗普庆祝美国二百五十周年",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/donald-trump-celebrates-americas-two-hundred-and-fiftieth-birthday",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "The article offers a vivid, satirical chronicle of Donald Trump’s grandiose celebration of America’s 250th anniversary, juxtaposing his self‑styled “America First” narrative against the historic backdrop of Washington, D.C., and the Theodore Roosevelt Presidential Library. By weaving eyewitness observations—cranes over the National Mall, the controversial Freedom 250 branding, and the politicized state fair—into a broader critique of partisan appropriation of national heritage, the piece invites readers to interrogate the blurring of public commemoration and personal propaganda. It highlights Trump’s strategic use of symbols, from the “America Is Back” banners to the faux “U.F.C.” fights, to galvanize a specific audience while alienating others. The narrative also touches on the logistical mishaps of the fair and the media’s reaction, underscoring the performative nature of contemporary political rallies. Ultimately, the article functions as a case study of how political leaders repurpose historical milestones for personal branding, prompting reflection on the integrity of national celebrations in an era of hyper‑polarization.",
+    "summary_zh": "文章以辛辣讽刺的笔触记录了特朗普在美国二百五十周年庆典中的盛大表演，展示他如何将“美国优先”理念与华盛顿和罗斯福图书馆的历史背景交织。文中通过现场观察——国家广场的起重机、争议的 Freedom 250 品牌、以及充满党派色彩的州博览会——揭示了公共纪念与个人宣传的模糊界限。文章强调特朗普利用标语、假“U.F.C.”表演等符号拉拢特定受众，却也疏远他人，并点出庆典的物流失误与媒体反应，凸显当代政治秀的表演性。整体而言，它是一份关于政治领袖如何将历史里程碑变为个人品牌的案例研究，促使人们思考在极化时代下国家庆典的真实性与完整性。",
+    "best_quote_en": "\"Do you think people appreciate what a fantastic job we did in building and operating the Great American State Fair at the National Mall, packed with happy people, and everybody loving it? Ask yourself this simple question, ‘DO YOU THINK THAT OBUMA OR SLEEPY JOE BIDEN COULD HAVE DONE IT?’ THE ANSWER IS NO!\"",
+    "best_quote_zh": "\"你们认为人们会欣赏我们在国家广场建造和运营伟大美国州博览会的精彩工作吗？问问自己一个简单的问题，‘你认为奥布马或睡懒觉的乔·拜登能做到吗？’答案是不会！\""
   }
 ]
