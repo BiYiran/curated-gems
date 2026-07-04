@@ -1,99 +1,5 @@
 [
   {
-    "id": 723,
-    "title": "Can the World Cup Transcend Donald Trump?",
-    "title_zh": "世界杯能否超越唐纳德·特朗普？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/can-the-world-cup-transcend-donald-trump",
-    "tags": [
-      "guide",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-11",
-    "summary_en": "Ishaan Tharoor’s essay dissects the 2026 World Cup as a geopolitical battleground where sport, commerce and politics collide. He sketches a stark contrast between the glittering Qatar 2022 spectacle—shrouded in human‑rights criticism but ultimately embraced—and the looming U.S.‑hosted tournament, where Trump’s polarizing policies threaten fan inclusion, visa access, and fair play. Tharoor’s narrative uses specific anecdotes—Somali referee Omar Artan’s denied entry, Iranian staff visa woes, and the paradoxical hospitality of Qatar—to illustrate how the event’s spirit can be hijacked by national agendas. He frames the 2026 Cup not merely as a sporting contest but as a litmus test for global democratic values, urging readers to question whether the spectacle can truly transcend the political agendas of its hosts. The piece blends investigative detail, historical context, and a poignant call to preserve the “spirit of solidarity” that the World Cup offers, making it a compelling critique of how mega‑sports can both unite and divide.\n",
-    "summary_zh": "该文以2026世界杯为镜，揭示体育与政治、商业的交织。作者用具体案例说明美国主办方的政策可能破坏赛事的公平与包容，并批判赞助商与政治人物如何操纵体育精神。文章既具调查深度，又呼吁读者关注体育背后的民主价值，提醒人们世界杯的团结精神不应被政治利益所夺。\n",
-    "best_quote_en": "\"How long will FIFA let Trump’s United States of America spoil a celebration that is not theirs to spoil? How long will we let one man ruin the world’s game?\"",
-    "best_quote_zh": "\"我们还能让特朗普的美国摧毁这场不属于他的庆典吗？我们还能让一个人毁掉全世界的比赛吗？\""
-  },
-  {
-    "id": 724,
-    "title": "What’s in my NOW? — Jordan Meyers",
-    "title_zh": "What’s in my NOW? — Jordan Meyers",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-jordan-meyers/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-06-10",
-    "summary_en": "This article is a curated, personal showcase of the tools and habits that shape Jordan Meyers’ daily life, from anesthesiology to rock climbing, cooking, and digital reading. By revealing specific products—Dr. Pepper Zero, Patagonia Black Hole bags, a Matfer Bourgeat pan, Instapaper, and the NYT Cooking app—he offers a practical, “how‑to” style guide that readers can immediately adopt. The insight lies not just in the items themselves but in the narrative framing: each choice is linked to a broader life principle—delayed gratification, simple joy, or efficient learning—making the content both actionable and inspirational. It bridges the gap between product recommendation and lifestyle philosophy, providing a relatable blueprint for anyone looking to refine their daily habits around health, travel, and culinary curiosity. The piece’s conversational tone and specific links add credibility, while its emphasis on “simple joy” invites readers to reassess what truly matters in their own routines.",
-    "summary_zh": "文章通过列举日常必备工具，展示了作者如何将健康、旅行、烹饪等兴趣融合成一套可操作的生活方式。每件产品都与作者的价值观——延迟满足、追求简单喜悦——相连，既具实践性，又引发共鸣，帮助读者在忙碌中寻找小确幸。",
-    "best_quote_en": "‘Chasing moments of simple joy just for the sake of it.’",
-    "best_quote_zh": "‘只为追求简单喜悦而行动。’"
-  },
-  {
-    "id": 725,
-    "title": "Why more US women are moving abroad: ‘It’s because of Trump, right? Yes and no’",
-    "title_zh": "为什么越来越多的美国女性选择移居海外：‘这跟特朗普有关吗？答案是肯定也是否定’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/may/19/us-women-migrating-europe-politics",
-    "tags": [
-      "analyze",
-      "society",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-05-19",
-    "summary_en": "This article examines a striking shift in American women’s migration intentions, driven by a confluence of political turbulence, gun‑violence anxieties, and a quest for better work‑life balance. Drawing on Gallup data and first‑hand stories, it showcases how events such as the 2022 Roe v. Wade reversal and Trump’s 2024 re‑election have amplified a gendered sense of insecurity. The narrative follows entrepreneurs like Jen Barnett, who built Expatsi on the sudden spike in relocation inquiries, and follows women who have relocated to Latin America, Europe, and beyond. Beyond anecdote, the piece critically interrogates the socioeconomic barriers—visa hurdles, language, lower pay—while also highlighting the emotional toll of leaving one’s homeland. It offers a compelling, data‑driven lens on a growing exodus, raising questions about the future of gender equity, civic safety, and the allure of the American Dream in a polarized era.",
-    "summary_zh": "文章用数据与亲身经历阐释美国女性移居海外的加速，聚焦政治、枪支暴力与工作生活平衡的交织。它揭示了离境背后的恐惧与对尊严的渴求，并批判美国产生的性别不平等与社会不安。",
-    "best_quote_en": "\"The politics were just like fuel for the fire,\" she said, underscoring how national turbulence can ignite personal migration decisions.",
-    "best_quote_zh": "“政治就像是火焰的燃料，”她说，说明国家动荡如何点燃个人迁移的决策。"
-  },
-  {
-    "id": 726,
-    "title": "Disconnecting Distraction",
-    "title_zh": "Disconnecting Distraction",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/distraction.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-06-12",
-    "summary_en": "The essay chronicles a personal battle against the evolving nature of digital distraction, tracing the shift from classic time sinks like TV to the insidious lure of the internet. The author observes that while early attempts—rules, self‑imposed limits—failed, a structural solution emerged: segregating work and leisure machines. By physically separating the Internet‑enabled laptop from the primary workstation, the author re‑establishes visual and psychological boundaries that reduce passive browsing. The narrative reveals that distraction is not a static obstacle but a dynamic, adaptive adversary that co‑evolves with technology, much like drug‑resistant bacteria. The piece offers a compelling case study that blends introspection with actionable strategy, underscoring how environment design can override habit and technology’s seductive pull. It invites readers to reconsider their own setups, encouraging a pragmatic, system‑level approach to productivity in an era where the line between work and play blurs.\n",
-    "summary_zh": "作者通过亲身经历，揭示了数字干扰的演变与应对策略，提出将工作机与上网机分离的实用方法，提醒读者重新审视工作环境与生产力。",
-    "best_quote_en": "Addictive things have to be treated as if they were sentient adversaries—if you leave a path to it, he'll find it.",
-    "best_quote_zh": "上瘾的事物必须像有意识的对手一样对待——如果你留下路径，它就会找到它。"
-  },
-  {
     "id": 727,
     "title": "Learning to spend money",
     "title_zh": "学会花钱",
@@ -2342,5 +2248,101 @@
     "summary_zh": "文章以辛辣讽刺的笔触记录了特朗普在美国二百五十周年庆典中的盛大表演，展示他如何将“美国优先”理念与华盛顿和罗斯福图书馆的历史背景交织。文中通过现场观察——国家广场的起重机、争议的 Freedom 250 品牌、以及充满党派色彩的州博览会——揭示了公共纪念与个人宣传的模糊界限。文章强调特朗普利用标语、假“U.F.C.”表演等符号拉拢特定受众，却也疏远他人，并点出庆典的物流失误与媒体反应，凸显当代政治秀的表演性。整体而言，它是一份关于政治领袖如何将历史里程碑变为个人品牌的案例研究，促使人们思考在极化时代下国家庆典的真实性与完整性。",
     "best_quote_en": "\"Do you think people appreciate what a fantastic job we did in building and operating the Great American State Fair at the National Mall, packed with happy people, and everybody loving it? Ask yourself this simple question, ‘DO YOU THINK THAT OBUMA OR SLEEPY JOE BIDEN COULD HAVE DONE IT?’ THE ANSWER IS NO!\"",
     "best_quote_zh": "\"你们认为人们会欣赏我们在国家广场建造和运营伟大美国州博览会的精彩工作吗？问问自己一个简单的问题，‘你认为奥布马或睡懒觉的乔·拜登能做到吗？’答案是不会！\""
+  },
+  {
+    "id": 823,
+    "title": "Fluidity Forum 2026",
+    "title_zh": "流动论坛 2026",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026",
+    "tags": [
+      "update",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-04",
+    "summary_en": "Fluidity Forum 2026 is a hybrid of community building, meta‑rational discourse, and low‑barrier participation. The event’s core is a participatory house‑party that invites speakers, artists, and volunteers to co‑create a learning environment. By foregrounding openness to diverse perspectives and actively interrogating personal biases, the forum democratizes knowledge production and blurs the line between audience and contributor. The schedule blends solo talks, panels, and informal gaming, reflecting a meta‑rational curriculum that spans developmental theory, internal family systems, and algorithmic critique. The affordability model—shared rooms and a pay‑what‑you‑can option—signals a commitment to inclusivity that counters elitist academic cultures. However, the informal structure may limit scalability and documentation of insights. Future iterations could benefit from systematic recording, online dissemination, and clearer thematic curation to amplify impact while preserving the spontaneous, community‑driven ethos that defines the forum.",
+    "summary_zh": "流动论坛 2026 是一个聚焦元理性与社会实践的社区聚会，强调开放思维、低成本参与和跨学科对话。它通过让参与者主动分享演讲、艺术和志愿服务，打破传统受众壁垒，营造一种共建式学习氛围。对我而言，这种模式既是对知识民主化的尝试，也是对自我偏见的自我检视。未来类似活动若能更系统地记录讨论成果并扩展线上传播，将更有助于扩大影响力并推动理性文化的可持续发展。",
+    "best_quote_en": "The event culture emphasizes being open to a range of perspectives, being aware of your biases and treating them as participants in the event rather than letting them control you.",
+    "best_quote_zh": "我们不想让金钱成为我们社区的门槛。"
+  },
+  {
+    "id": 824,
+    "title": "Book Freak #265 — Deep Cut Edition",
+    "title_zh": "书虫 #265 — 深度剪辑版",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-265-deep-cut-edition/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "The piece resurrects H.G. Wells’s forgotten 1928 novel *Mr. Blettsworthy on Rampole Island*, framing it as a micro‑cosm of 20th‑century disillusionment and a precursor to the inner‑space genre. The author unpacks Wells’s dual narrative of a comfortable Englishman’s psychological collapse and a savage island that mirrors civilized hypocrisy. By treating the island’s cannibals and megatherian sloth as allegories for dogmatic thinking and societal rituals, the article invites readers to interrogate the “assurances” we accept as children and the “megatheria”—habits or beliefs—kept alive without justification. The Deep Cut edition’s discussion prompts turn the book into an interactive reflective exercise, encouraging readers to identify personal falsehoods and outdated traditions. The analysis is both literary and sociological, positioning the work as a case study of how fiction can expose the absurdities of our social constructs. It invites a deeper conversation about resilience, authenticity, and the cost of clinging to outdated narratives.",
+    "summary_zh": "这篇文章重新挖掘了 H.G. 威尔斯1928年的遗作《Blettsworthy先生与拉姆波岛》，将其视为对20世纪幻灭的微观写照。作者剖析主角的心理崩溃与岛上“野蛮人”与“巨型树懒”所映射的社会假象，邀请读者反思童年时被灌输的“保证”与无意义的“古怪习俗”。通过讨论提问，鼓励读者识别自身的虚假信念与陈旧传统，探讨在失去乐观后仍能坚持生活与爱。文章兼具文学与社会学视角，展示小说如何揭示社会构造的荒诞，并促成关于韧性与真实性的深入对话。",
+    "best_quote_en": "\"The abnormal is only the normal disproportioned.\"",
+    "best_quote_zh": "“异常只是失衡的正常。”"
+  },
+  {
+    "id": 825,
+    "title": "The Tim Ferriss Show Transcripts: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
+    "title_zh": "The Tim Ferriss Show Transcripts: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/26/coca-transcript/",
+    "tags": [
+      "learn",
+      "medicine",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-06-26",
+    "summary_en": "The episode is a deep dive into coca’s 8,000‑year legacy as a medicinal plant, disentangling myth from science. Dr. Andrew Weil and anthropologist Wade Davis bring ethnobotanical evidence, clinical anecdotes, and policy history to show how coca’s alkaloid profile—beyond cocaine—offers gut regulation, metabolic benefits, and a gentle stimulant that could replace harsher drugs. They critique decades of political demonization rooted in colonial power dynamics, argue for research funding and regulatory reform, and outline practical steps—from consumer awareness to FDA‑approved indications—to rehabilitate coca. The discussion blends personal narrative, cultural context, and actionable research proposals, inviting listeners to re‑evaluate the plant’s role in health, economics, and indigenous rights. It challenges the listener to move from passive curiosity to active advocacy, positioning coca as a case study in how science, policy, and storytelling can correct historical injustices while unlocking therapeutic potential.",
+    "summary_zh": "这集节目深入探讨了可可的8000年医学传统，拆解迷思与科学。安德鲁·韦尔医生与人类学家韦德·戴维斯用民族植物学证据、临床轶事和政策历史，展示可可的多种生物碱如何提供肠道调节、代谢益处和温和刺激，可能替代更强效药物。他们批判基于殖民权力的政治妖魔化，呼吁研究资助与法规改革，并列出从公众认知到FDA批准的可行路径。节目将个人叙事、文化语境与可行研究相结合，鼓励听众从被动好奇转向主动倡导，将可可视为纠正历史不公与释放治疗潜能的案例研究。",
+    "best_quote_en": "‘The plant was demonized before there was a cocaine problem.’",
+    "best_quote_zh": "‘植物在有可卡因问题之前就已被妖魔化。’"
+  },
+  {
+    "id": 826,
+    "title": "Bella Figura founder Alexi Cory-Smith dies, aged 58",
+    "title_zh": "Bella Figura创始人Alexi Cory‑Smith逝世，享年58岁",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/bella-figura-founder-alexi-cory-smith-dies-suddenly-aged-58/",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "The sudden loss of Alexi Cory‑Smith, co‑founder and CEO of Bella Figura Music, reverberates across the music‑catalog industry and beyond. At 58, she had already carved a remarkable trajectory: a seven‑year stint at BMG where she forged high‑profile relationships, then a rapid rise to SVP and EVP roles before launching Bella Figura in 2022. The startup, now a $160 million‑plus catalog powerhouse, has secured deals with artists such as David Gray and Paul Epworth, signaling a new era of data‑driven, artist‑centric rights management. Cory‑Smith’s story illustrates how visionary leadership, combined with deep industry expertise, can transform a niche market into a competitive juggernaut. Her legacy underscores the critical role of women in shaping the business side of music, and it invites reflection on the sustainability of catalog‑based revenue models in an AI‑driven age. As Bella Figura moves forward, the industry will likely draw lessons from her blend of entrepreneurial agility and strategic partnership building.",
+    "summary_zh": "Alexi Cory‑Smith的逝世让音乐版权产业感受到深刻震荡。她在BMG的七年经验与与滚石、Roger Waters等巨星的合作，奠定了她在行业内的权威。2022年创立Bella Figura后，公司已投放逾1.6亿美元于音乐版权，签约David Gray、Paul Epworth等艺术家，展示了数据驱动、以艺术家为中心的商业模式。她的故事凸显女性在音乐商业领域的领导力，也为未来AI时代的版权变现模式提供了可借鉴的经验。",
+    "best_quote_en": "Alexi built Bella Figura Music from the ground up, bringing the vision and passion from a successful career in the music industry.",
+    "best_quote_zh": "我们深感悲痛，宣布我们的联合创始人兼CEO Alexi Cory‑Smith的突然与意外离世。"
   }
 ]
