@@ -1,121 +1,5 @@
 [
   {
-    "id": 727,
-    "title": "Learning to spend money",
-    "title_zh": "学会花钱",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/a5E4zCQrcSbGZkbCt/learning-to-spend-money",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-06-12",
-    "summary_en": "The article is a candid, practical reflection on the paradox of frugality versus strategic spending. The author, a software engineer, recounts how the disciplined savings that secured a mortgage also almost prevented homeownership in a rising market. He then shifts to a nuanced view of ‘spending wisely’: investing in quality tools or conveniences that enhance daily life, while keeping large purchases restrained. The core insight is that value is not purely cost but the total benefit over time, and that incremental spend can coexist with long‑term saving if kept occasional and purposeful. The narrative blends personal anecdote with financial logic, offering a relatable case study for readers who wrestle with the tension between saving and enjoying life’s little luxuries. It encourages a balanced mindset—generosity in small, meaningful ways while maintaining the discipline needed for major goals such as homeownership or retirement.\n\nThe piece’s implications extend beyond individual budgeting: it mirrors broader economic trends where asset appreciation (stocks, real estate) can outpace simple cost‑cutting. It invites readers to reframe their spending habits as investments in well‑being, not merely consumption. By sharing the author’s learning curve—from buying cheap bedding to later investing in quality cookware—he provides actionable lessons that can be adapted to any financial context.\n\nOverall, the article serves both as a personal memoir and a practical guide, blending data‑driven reasoning with human experience, making it a compelling read for anyone navigating the delicate balance between frugality and fulfillment.",
-    "summary_zh": "作者通过个人经历阐释节俭与战略性消费的平衡，强调在保持主要目标（购房、股票增值）的同时，偶尔投入小额提升生活质量。",
-    "best_quote_en": "In short, even if I spent my entire base salary each month, I'd have significant savings just from my stock.",
-    "best_quote_zh": "总之，即使我每月花完全部基本工资，我仍能凭借股票获得可观的储蓄。"
-  },
-  {
-    "id": 728,
-    "title": "How the Dangerous Rise in Anti-Immigration Politics Went Mainstream",
-    "title_zh": "如何导致反移民政治的危险崛起成为主流",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-the-dangerous-rise-in-anti-immigration-politics-went-mainstream",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-06-12",
-    "summary_en": "The article dissects the recent surge of anti‑immigration sentiment in the UK and its ripple effects across Europe and the US, using the Belfast stabbing incident as a case study. It argues that far‑right narratives are amplified through viral footage, media echo chambers, and elite silence, creating a feedback loop that normalizes xenophobia. The piece critiques the British establishment’s shift from championing multiculturalism to retreating under political pressure, highlighting how institutional paralysis enables populist parties like Reform UK to gain traction. It also contextualises these trends within broader historical patterns—Brexit, austerity, and past anti‑racist backlash—suggesting that societal frustration over economic insecurity fuels the appeal of both right‑wing and left‑wing populism. The analysis invites readers to recognise the interconnectedness of media, elite rhetoric and grassroots action, and to question whether a more proactive, inclusive political discourse could counter the dangerous mainstreaming of anti‑immigration politics.",
-    "summary_zh": "文章剖析英国反移民情绪激增的原因，指出视频传播、媒体回声以及精英沉默如何共同放大极右翼叙事。它批评英国精英从多元文化主义转向在政治压力下退让，导致 Reform UK 等民粹党崛起。文章还把这些趋势与脱欧、紧缩政策及历史反种族主义斗争联系起来，提醒读者经济不满与极端主义相互作用，呼吁更主动的包容性政治话语。",
-    "best_quote_en": "\"The most striking detail out of that period was that, the day after very, very large protests in London and elsewhere against the racist violence, the Daily Mail, Britain’s leading right-wing newspaper, had a huge picture of the demonstrations on its front page, and a very, very laudatory headline around it.\"",
-    "best_quote_zh": "“在那段时间里最显著的细节是，在伦敦及其他地方针对种族主义暴力的大规模抗议活动后的第二天，英国领先的右翼报纸《每日邮报》在其封面上刊登了一张抗议者的巨大照片，并配上了非常赞赏的标题。”"
-  },
-  {
-    "id": 729,
-    "title": "Create Like a Kid/Bulgaria Living Costs/Summer Flight Deals",
-    "title_zh": "像孩子一样创造 / 保加利亚生活成本 / 夏季机票优惠",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/create-like-a-kid-bulgaria-living-costs-summer-flight-deals/",
-    "tags": [
-      "solve",
-      "design",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2026-06-12",
-    "summary_en": "This compact newsletter weaves together creative inspiration, global migration trends, cost‑of‑living insights, and travel bargains into a single digest. It opens with Austin Kleon’s new book, *Don’t Call It Art!*, which champions playful creativity as a remedy for professional stagnation—an ideal primer for entrepreneurs and creatives craving a fresh mindset. The piece then pivots to a startling demographic shift: for the first time in 90 years, more Americans departed the U.S. than arrived, with Mexico, Portugal, Spain, Ireland and Colombia topping the list—information that can guide both policy makers and nomadic professionals. A deeper dive into Bulgaria’s recent euro‑adoption and Schengen entry reveals why Bansko has become a cost‑effective hub for remote workers, offering a data‑backed snapshot of living expenses. Finally, the author curates a curated list of summer flight deals, balancing price and destination appeal. Readers emerge with actionable knowledge about creative renewal, international mobility, budget living, and travel planning—all distilled into a succinct, data‑driven narrative that invites reflection and immediate application.",
-    "summary_zh": "这份简洁的周报以Austin Kleon的新书为起点，强调创意与童心，随后揭示美国人迁出人数超过迁入的历史性数据，列出顶级移居国。进一步剖析保加利亚欧元与申根政策带来的成本优势，并提供夏季航班优惠清单。全篇兼具启发、数据与实用建议，激发读者对创意、迁徙与预算生活的重新思考。",
-    "best_quote_en": "‘The core idea is to let your inner child loose and make things with joy, as a form of play instead of something you’ll be judged on.’",
-    "best_quote_zh": "‘核心思想是让内在的孩子自由地玩乐创作，而不是被评判的产物。’"
-  },
-  {
-    "id": 730,
-    "title": "Lies We Tell Kids",
-    "title_zh": "孩子们的谎言",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lies.html",
-    "tags": [
-      "solve",
-      "education",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-06-13",
-    "summary_en": "The essay is a candid, introspective critique of the pervasive, often benevolent yet ultimately manipulative lies adults tell children. It systematically dissects the motives—protection, preservation of innocence, cultural identity, and power dynamics—and the social machinery that perpetuates these deceptions, from parental hush‑ups to curricular omissions and media simplifications. By juxtaposing personal anecdotes with broader sociocultural observations, the author invites readers to question the moral legitimacy of “white lies” and to recognize how these narratives shape adult beliefs, civic engagement, and intergenerational trust. The piece is both a call for critical self‑reflection and a warning that unexamined truths can fossilise into biases that hinder societal progress. Its provocative stance on identity, education, and authority challenges readers to reassess the stories they internalise, offering insight into the psychological cost of inherited narratives and the potential for personal liberation through conscious de‑construction of childhood myths.",
-    "summary_zh": "作者以亲身经历为切入点，剖析成年人在保护、维护身份与权力时对孩子说出的谎言，从童年的“无害”隐瞒到教育与媒体的隐性偏见，揭示这些叙事如何塑造成人的信念与社会行为。文章既是对“善意谎言”合法性的批判，也是呼唤读者审视并拆解童年记忆，寻找自我解放与社会进步的可能性。",
-    "best_quote_en": "‘We arrive at adulthood with heads full of lies.’",
-    "best_quote_zh": "‘我们成年时脑袋里装满了谎言。’"
-  },
-  {
-    "id": 731,
-    "title": "Tequila Sunset at the Hog's Head (A Scene)",
-    "title_zh": "Tequila Sunset at the Hog's Head (A Scene)",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CimhpuR2Jdt7oTngE/tequila-sunset-at-the-hog-s-head-a-scene",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-06-13",
-    "summary_en": "In this satirical fan‑fiction excerpt, the author weaves a surreal encounter between Harry Potter and an enigmatic, homeless detective at the Hog’s Head. The narrative skews reality with magical lenses, time‑turning tricks, and a critique of societal neglect. The dialogue oscillates between whimsical wizardry and sharp political jab—commenting on homelessness, mental health, and ideological disillusionment. The scene functions as a microcosm of broader societal fractures, using the familiar Potter universe to spotlight the overlooked “homeless” within the wizarding world. The author’s tone is irreverent yet reflective, inviting readers to question the efficacy of institutional care and the moral compromises of power. This passage is a creative critique rather than a plot‑driven story, offering readers a chance to explore themes of empathy, privilege, and systemic failure through a fantastical lens. The piece leaves readers pondering how fiction can mirror real‑world injustices while engaging with beloved characters.\n",
-    "summary_zh": "在这段讽刺式的同人小说中，作者以霍格沃茨酒吧为舞台，哈利与一名神秘流浪侦探展开荒诞对话。通过魔法镜片、时间倒转等奇幻手法，揭露社会对弱势群体的忽视与制度缺陷。文本兼具幽默与政治批判，探讨无家可归与精神健康，并质疑权力与道德。此段既是对现实不公的反思，也展示了奇幻世界可成为社会议题的镜像。",
-    "best_quote_en": "\"I have been astounded by the sheer hope Marx has in the forces of history, in that he is willing to destroy the existing institutions managing society while giving little-to-no guidebook for what should replace them and to trust that something better will arise.\"",
-    "best_quote_zh": "\"我一直对马克思在历史力量中的巨大希望感到惊叹，他愿意摧毁现有的社会治理机构，却几乎没有提供任何替代方案，也不相信会有更好的出现。\""
-  },
-  {
     "id": 732,
     "title": "Book Freak #213: Sleep Groove",
     "title_zh": "Book Freak #213：Sleep Groove",
@@ -2344,5 +2228,125 @@
     "summary_zh": "Alexi Cory‑Smith的逝世让音乐版权产业感受到深刻震荡。她在BMG的七年经验与与滚石、Roger Waters等巨星的合作，奠定了她在行业内的权威。2022年创立Bella Figura后，公司已投放逾1.6亿美元于音乐版权，签约David Gray、Paul Epworth等艺术家，展示了数据驱动、以艺术家为中心的商业模式。她的故事凸显女性在音乐商业领域的领导力，也为未来AI时代的版权变现模式提供了可借鉴的经验。",
     "best_quote_en": "Alexi built Bella Figura Music from the ground up, bringing the vision and passion from a successful career in the music industry.",
     "best_quote_zh": "我们深感悲痛，宣布我们的联合创始人兼CEO Alexi Cory‑Smith的突然与意外离世。"
+  },
+  {
+    "id": 827,
+    "title": "Stuff",
+    "title_zh": "东西",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/stuff.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-07-05",
+    "summary_en": "The essay reflects on the paradox of modern abundance: as goods become cheaper and easier to acquire, their perceived value blurs, leading to clutter that drains mental energy and financial resources. The author recounts personal experiences of hoarding from childhood to adulthood, noting that the real value of an item lies not in its price but in its utility. He argues that possessions are illiquid assets; without a plan to use or dispose of them, they become burdens. The piece critiques consumer culture’s psychological tactics—making shopping a leisure activity—and offers pragmatic self‑checks: ask whether a purchase will improve life, be used consistently, or simply serve as a bargain. The author’s shift to a minimalist mindset, especially around non‑essential goods, underscores a broader societal transition where excess has become a hidden weight. The narrative invites readers to reconsider attachment to material items, highlighting the cognitive load of clutter and the opportunity to reclaim freedom by prioritizing services over goods.",
+    "summary_zh": "作者以个人经历揭示现代物质泛滥的悖论：物价低廉、获取便捷，却导致物品价值被稀释，堆积成心理与经济负担。他强调物品的真正价值在于使用，而非价格，质疑消费文化把购物变成休闲的手段，并提出自检法：购买前问自己是否能提升生活、持续使用或仅是便宜货。通过简化生活，作者展示了社会从“拥有”到“使用”的转变，提醒读者反思对物品的执着，解放自我。",
+    "best_quote_en": "The only way you're ever going to extract any value from it is to use it.",
+    "best_quote_zh": "真正能从中获得价值的唯一方式就是使用它。"
+  },
+  {
+    "id": 828,
+    "title": "The Intimate Legacies of a White-Supremacist Coup",
+    "title_zh": "白人至上政变的亲密遗产",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-south/the-intimate-legacies-of-a-white-supremacist-coup",
+    "tags": [
+      "learn",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-07-03",
+    "summary_en": "The article traces the 1898 Wilmington coup through the intimate memories of Cynthia Brown’s family, revealing how a single act of white supremacy rippled through generations. By intertwining personal testimony with archival silence—locked libraries, hidden memoirs, and clandestine memorials—the piece demonstrates the enduring power of collective memory to shape identity and civic agency. Brown’s return to Wilmington and her work in public history illustrate the struggle to confront a suppressed past, while the juxtaposition of official monuments and guerrilla graffiti underscores the contested narratives that still haunt the city. The narrative invites readers to consider how historical erasure perpetuates social inequities, and how reclaiming truth can become a catalyst for healing and political accountability. Ultimately, the story serves as a case study in how the past is never truly buried, but instead woven into the fabric of contemporary democracy, demanding vigilance and active remembrance.",
+    "summary_zh": "文章通过辛西亚·布朗家族的亲身回忆，揭示了1898年温斯洛威尔白人至上政变的代际影响。锁闭的档案、隐藏的回忆录与地下纪念碑交织，展示了集体记忆如何塑造身份与公民责任。布朗回归本土、从事公共历史工作，凸显对被压抑过去的挑战；官方纪念碑与街头涂鸦的对比，映射争议叙事。本文提醒读者，历史抹杀助长社会不平等，重拾真相可成为治愈与政治问责的催化剂，说明过去永不被埋没，而是深植当代民主，需警觉与主动记忆。",
+    "best_quote_en": "The truth would set us free, as the Bible promises.",
+    "best_quote_zh": "真相会使我们自由，正如圣经所承诺的。"
+  },
+  {
+    "id": 829,
+    "title": "Cable Luggage Lock/Compact Speaker/Duffel Bag in a Pouch",
+    "title_zh": "带绳锁/紧凑音箱/可收纳手提袋",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/cable-luggage-lock-compact-speaker-duffel-bag-in-a-pouch/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-02",
+    "summary_en": "The article reads like a compact travel toolkit, offering practical, low‑cost solutions that blend security, audio, hygiene, and packing into a single narrative. It begins with a retractable cable lock that turns any suitcase into a tamper‑proof fortress—an inexpensive, universal fix that counters the pervasive fear of theft on trains and public transit. The author then pivots to the JBL Go speaker, praising its surprisingly robust bass and water‑resistance, positioning it as a pocket‑sized audio upgrade for on‑the‑go travelers. A brief but thoughtful detour into electric toothbrushes highlights the trade‑offs between battery‑powered and rechargeable models, underscoring the importance of portability for frequent flyers. The pièce de résistance is the packable duffel bag, which collapses into a pouch and solves the “extra‑carry‑on” problem with elegance. Together, these recommendations form a cohesive, actionable guide that elevates everyday travel, offering readers tangible tools to streamline packing, protect belongings, and enjoy high‑quality sound without breaking the bank.",
+    "summary_zh": "文章像一套旅行工具箱，提供低成本、实用的安全、音频、卫生和打包方案。先是可拉伸绳锁，防盗；再是 JBL Go 便携音箱，水防且音质佳；随后是电动牙刷的电池与充电式对比；最后是可折叠手提袋，解决额外行李需求。整体呈现出一套可操作的旅行指南，帮助读者轻松打包、保管行李、享受高品质音效，兼顾实用与经济。",
+    "best_quote_en": "Ever need to come home with more items than you left with? You could buy additional luggage on the other end, but when I can anticipate this happening, like I did this trip from shopping and getting useful trade show swag, I bring along a duffel bag that packs down into a little pouch.",
+    "best_quote_zh": "当你需要把比出门时多的东西带回家时，你可以在另一端购买额外行李，但当我能预见到这种情况时，就像我在购物并收集有用的展会赠品时那样，我会携带一只可折叠手提袋，折叠成小袋装着。"
+  },
+  {
+    "id": 830,
+    "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+    "title_zh": "基因如何塑造你的冒险行为与道德观 | 哈德博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-genes-shape-your-risk-taking-and-morals-kathryn-paige-harden",
+    "tags": [
+      "analyze",
+      "leadership",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "This episode delves into the nuanced interplay between genetics and upbringing, revealing how specific alleles can bias risk‑taking, moral judgment, and addiction propensity. Dr. Harden highlights sex‑specific genetic effects, showing that male and female genomes differentially influence impulsivity and substance use. The discussion extends beyond individual behavior to societal constructs—how biological predispositions shape collective notions of sin, punishment, and forgiveness. By integrating epigenetic insights and twin‑study data, the conversation underscores that genes do not dictate fate but tilt probability landscapes, offering a richer, data‑driven framework for understanding human conduct. The episode invites listeners to reconsider deterministic narratives, emphasizing the ethical responsibility of acknowledging genetic influence while preserving agency. It serves as a compelling call for interdisciplinary dialogue, urging psychologists, policymakers, and the public to navigate the fine line between nature and nurture with nuance and compassion.",
+    "summary_zh": "本期节目揭示基因与成长环境交织，如何微调冒险、道德与成瘾倾向。它让我们重新审视“命定”与“自由”，并提醒我们在政策与日常判断中兼顾生物与文化的双重影响。",
+    "best_quote_en": "Genes shape your propensity for addiction and impulsivity in males versus females.",
+    "best_quote_zh": "基因塑造了男性和女性对成瘾与冲动的倾向。"
+  },
+  {
+    "id": 831,
+    "title": "The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
+    "title_zh": "《神圣之叶》——8000 年的使用历史：与安德鲁·韦尔博士和韦德·戴维斯探讨可可叶的多重益处（#871）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/25/coca/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-06-25",
+    "summary_en": "Tim Ferriss’s latest episode pulls back the curtain on the coca leaf, a plant that has sustained Andean cultures for 8,000 years yet has been demonized by Western drug policy. With co‑hosts Dr. Andrew Weil and ethnobotanist Wade Davis, the conversation blends ethnographic lore with hard science: coca’s 14 alkaloids, its proven benefits for altitude sickness, digestive health, and mood, and the stark absence of addiction or toxicity in centuries of use. The hosts dissect the 1950 UN commission that framed coca as a narcotic through fear and colonial bias, and they challenge the modern narrative that equates the leaf with cocaine. They also explore contemporary research that positions coca as a potential ally against opioid addiction and a source of nutraceuticals. Beyond the science, the episode frames coca as a cultural genocide when outlawed, urging listeners to rethink plant‑medicine relationships. It invites a reevaluation of policy, commerce, and the ethics of drug regulation.",
+    "summary_zh": "本期节目揭示可可叶——8000 年以来安第斯人民的药用与文化宝藏，却因西方禁毒政策被误解。与安德鲁·韦尔医生、民族植物学家韦德·戴维斯对话，探讨 14 种生物碱、海拔适应、消化与情绪益处，及其无成瘾毒性。深入剖析 1950 年 UN 委员会的殖民偏见与恐惧，挑战将叶与可卡因等同的现代叙事。讨论现代研究如何将可可叶用于阿片戒毒与营养保健，呼吁重新审视药物监管与文化遗产。",
+    "best_quote_en": "Coca is to cocaine what potatoes are to vodka.",
+    "best_quote_zh": "可可叶与可卡因的关系如土豆与伏特加。"
   }
 ]
