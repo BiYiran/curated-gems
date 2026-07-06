@@ -1,121 +1,5 @@
 [
   {
-    "id": 732,
-    "title": "Book Freak #213: Sleep Groove",
-    "title_zh": "Book Freak #213：Sleep Groove",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-213-sleep-groove/",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-13",
-    "summary_en": "Sleep Groove demystifies circadian biology with a focus on practical rhythm‑based sleep hygiene. By prioritizing regularity over duration and harnessing light as a timing cue, the guide reframes nighttime awakenings as a signal of weakened internal tempo rather than a failure to get enough hours. The author blends peer‑reviewed research, easily digestible charts, and comic illustrations to illustrate how a stable wake‑up time, midday bright exposure, and nocturnal darkness reinforce amplitude and consolidate sleep. This myth‑busting approach not only offers a tangible protocol for older adults experiencing fragmented sleep but also invites readers to view circadian health as an ongoing, data‑driven practice. The book’s strength lies in its accessibility: it translates complex chronobiology into actionable steps that can be tested immediately, making it a valuable resource for anyone seeking to align their lifestyle with their biology. Its broader significance is a reminder that health interventions should target the underlying rhythms that govern physiology, not just surface metrics.",
-    "summary_zh": "《Sleep Groove》以循證科學拆解昼夜节律，揭示规律起居比睡眠时长更关键。作者将光照、固定起床时间、夜间黑暗等简单可执行策略与漫画图表相结合，帮助读者在日常生活中重塑身体节奏。它既是对老年人睡眠碎片化的精准指引，也是对健康干预应聚焦内在机制的呼吁，提示我们将节律视为生活的核心节拍。",
-    "best_quote_en": "\"Light is a drug—use it wisely.\"",
-    "best_quote_zh": "“光是药——明智使用。”"
-  },
-  {
-    "id": 733,
-    "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
-    "title_zh": "Essentials：睡眠工具包，优化睡眠与睡眠-觉醒节律",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing",
-    "tags": [
-      "learn",
-      "science",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2026-06-11",
-    "summary_en": "In the Huberman Lab Essentials episode, Dr. Andrew Huberman distills cutting‑edge chronobiology into a pragmatic toolkit for anyone seeking better sleep. The discussion unfolds across the day: morning sunlight exposure, controlled body temperature, caffeine timing, and strategic light exposure in the afternoon and evening—all aimed at synchronizing the body’s cortisol rhythm and core temperature with the circadian clock. He offers concrete, evidence‑based supplements (magnesium threonate, apigenin, theanine) while cautioning against indiscriminate melatonin use. Practical strategies for jet‑lag, shift work, and weekend oversleeping are presented with a focus on environmental cues (red light, temperature minima). The episode is a blend of science, applied physiology, and behavioral design, providing a comprehensive, action‑oriented plan that can be adopted by students, professionals, or anyone who values restorative sleep. It underscores how small, daily adjustments can produce large, cumulative gains in alertness and health, making it a must‑listen for those who want to harness biology for peak performance.",
-    "summary_zh": "Huberman 在此节目中把昼夜节律学拆解成可落地的睡眠工具箱。内容从晨光、体温、咖啡因时机到晚间光照、补剂，再到时差与夜班的应对。每一步都基于实验数据，强调小习惯的累计效应，帮助人们在日常生活中精准调节睡眠节律，提升清醒度与恢复力。",
-    "best_quote_en": "Optimizing sleep requires aligning daily behaviors with the body's natural circadian rhythm.",
-    "best_quote_zh": "优化睡眠需要将日常行为与身体自然的昼夜节律相匹配。"
-  },
-  {
-    "id": 734,
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future",
-    "title_zh": "AI已經殺死如何做非敘事類書籍嗎？銷售趨勢、我的個人數據及未來可能意味著什麼",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-12",
-    "summary_en": "Tim Ferriss’ reflective post combines hard sales data, personal experience, and broader industry trends to argue that LLM‑driven chatbots are rapidly eroding the traditional how‑to nonfiction market. He presents a compelling year‑over‑year decline in print, e‑book, and audio sales of his bestselling titles, correlating the steepest drops with the rise of ChatGPT and Claude. The analysis highlights how prescriptive, decision‑tree‑style content—once sold through books, podcasts, and videos—is now being supplanted by instant, personalized AI interfaces. Ferriss extends the argument beyond self‑help to all advice‑centric media, questioning the future of monetized journalism, paid podcasts, and the viability of long‑form content. He concludes that creators should pivot to building deep, loyal audiences (“1,000 true fans”) and emphasize transformation over mere information. The piece is a data‑driven, expert‑insight case study that invites writers, podcasters, and marketers to rethink value creation in an AI‑first landscape.",
-    "summary_zh": "費里斯用銷售數據和個人經驗，指出 LLM 讓「如何做」類書籍失去市場，甚至威脅到自我幫助、播客與新聞付費模式。他把這視為一場資訊與體驗轉型，呼籲創作者聚焦忠實受眾，提供深度變革，而非僅僅資訊。",
-    "best_quote_en": "\"If 'how-to' books are getting crushed because LLMs seem to provide faster, cheaper, and more personalized advice… What’s next on the chopping block?\"",
-    "best_quote_zh": "「如果『如何做』書籍因 LLM 提供更快、更便宜、更個性化的建議而被擊垮…接下來還會被砍掉什麼？」"
-  },
-  {
-    "id": 735,
-    "title": "Be Good",
-    "title_zh": "善良",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/good.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-06-14",
-    "summary_en": "In “Be Good,” Paul Graham distills a counterintuitive yet powerful mantra for founders: build something people want, and worry less about immediate profits. By reframing the startup as a charitable venture, he reveals how benevolence—serving users first, fostering morale, and aligning decisions with user needs—can be a competitive advantage. Drawing on vivid examples such as Craigslist, Google, and Octopart, he demonstrates that companies that act like nonprofits often attract users, investors, and talent more effectively than those that are purely profit‑driven. The essay challenges conventional wisdom that growth must come at the expense of ethics, suggesting instead that authenticity and a “do‑good” mindset can accelerate traction, reduce churn, and preserve a startup’s resilience. It invites founders to treat their venture as a compass: let user benefit guide every pivot, and the rest will follow.\n\nGraham’s insight is actionable: prioritize user value over revenue in early stages, cultivate a mission‑driven culture, and use benevolence as a decision‑making framework. The piece also critiques the rise of “evil” corporate practices, arguing that the cost of being good—morale, community support, and strategic clarity—outweighs short‑term gains. For entrepreneurs, the takeaway is a pragmatic call to re‑evaluate metrics: does the product genuinely help people? If so, the business will thrive.\n\nBeyond its immediate relevance to startups, the essay offers a broader commentary on how altruistic values can reshape business models, drive innovation, and foster sustainable growth in a competitive landscape. It reminds us that the most enduring companies are those that combine ambition with integrity, proving that doing good can indeed be good business.",
-    "summary_zh": "在《善良》里，Paul Graham提出了令人意想不到却强大的创始人箴言：先做用户想要的事，再把赚钱放在次要位置。他把创业比作慈善事业，指出以善意为核心的公司能更快赢得用户、投资人和人才的支持。通过 Craigslist、Google、Octopart 等案例，他展示了“做善事”不仅能提升士气，还能成为决策的指南针，让公司专注于真正为用户创造价值。对创业者而言，这是一份行动指南：在早期把用户价值放在首位，用善意驱动每一次转型，最终实现可持续增长。",
-    "best_quote_en": "‘If you make something people want, and you don’t worry too much about making money, what you have is a description of a charity.’",
-    "best_quote_zh": "“如果你做的是人们想要的东西，而不太担心赚钱，你得到的其实是一份慈善的描述。”"
-  },
-  {
-    "id": 736,
-    "title": "I Bet Abliteration's Cost Was Sloppy Implementation. I Was Wrong",
-    "title_zh": "",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7Ggt9adLgFAxWMzZP/i-bet-abliteration-s-cost-was-sloppy-implementation-i-was",
-    "tags": [
-      "guide",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-14",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 737,
     "title": "The Knicks Win the N.B.A. Title: A Post-Game Conversation",
     "title_zh": "Knicks赢得NBA冠军：赛后对话",
@@ -2348,5 +2232,123 @@
     "summary_zh": "本期节目揭示可可叶——8000 年以来安第斯人民的药用与文化宝藏，却因西方禁毒政策被误解。与安德鲁·韦尔医生、民族植物学家韦德·戴维斯对话，探讨 14 种生物碱、海拔适应、消化与情绪益处，及其无成瘾毒性。深入剖析 1950 年 UN 委员会的殖民偏见与恐惧，挑战将叶与可卡因等同的现代叙事。讨论现代研究如何将可可叶用于阿片戒毒与营养保健，呼吁重新审视药物监管与文化遗产。",
     "best_quote_en": "Coca is to cocaine what potatoes are to vodka.",
     "best_quote_zh": "可可叶与可卡因的关系如土豆与伏特加。"
+  },
+  {
+    "id": 832,
+    "title": "The Equity Equation",
+    "title_zh": "股权方程式",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/equity.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-07-06",
+    "summary_en": "This article distills the art of equity trade into a single, elegant formula: give up n % of your company only if the new asset raises the firm’s average outcome enough that the remaining (1‑n) share is worth more than the whole before. The author demonstrates how to apply this principle to VC deals, employee grants, and even salary‑equity conversion. By treating every transaction as a test of the 1/(1‑n) multiplier, founders can quantify the true value of a deal, avoid over‑dilution, and make data‑driven decisions. The piece blends practical examples—Y Combinator’s 7 % stake, Sequoia’s 30 % offer, and a 20 % boost from a top engineer—with a philosophical reminder that equity is a tool, not a curse. The reader emerges with a clear, actionable framework that turns intuition into measurable risk assessment, and underscores the importance of anticipating how a single percentage point can alter a startup’s trajectory.",
+    "summary_zh": "文章把股权交易简化为 1/(1‑n) 公式：只有当新增资产提升平均收益，使剩余 (1‑n) 股价值超过原公司整体时，才可放弃 n % 股权。作者举例 YC 7 %、Sequoia 30 % 与 20 % 的技术人才增值，说明如何用公式衡量融资与员工股权的价值。读者学会用数据驱动决策，避免过度稀释，并意识到每个百分点的股权分配都可能决定创业公司命运。",
+    "best_quote_en": "If you trade half your company for something that more than doubles the company's average outcome, you're net ahead.",
+    "best_quote_zh": "如果你把公司的一半股份换成能让公司平均收益超过两倍的东西，你就会净赚。"
+  },
+  {
+    "id": 833,
+    "title": "Qualia-based emotion steering makes LLMs attribute conscious states to themselves",
+    "title_zh": "基于质感的情感引导使LLM将意识状态归因于自身",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/8dHmDJriyCdcL6dD4/qualia-based-emotion-steering-makes-llms-attribute-conscious",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-06",
+    "summary_en": "This study probes the intersection of affective representation and self‑attribution in large language models (LLMs). By injecting emotion vectors—derived from a corpus of 171 affective states—into the residual stream of Qwen3‑32B and Qwen3‑235B, the author demonstrates that steering toward positive or negative valence can shift the models’ YES/NO logits on questions probing phenomenal experience, desire, introspection, and moral patienthood. Crucially, the effect is specific to self‑attribution queries, surviving a battery of controls: factual knowledge, self‑reference without affect, appraisal‑style emotions, random perturbations, and a regression‑to‑uncertainty model. The results suggest a causal entanglement between affective encoding and the emergent “consciousness‑adjacent” self‑model, hinting that LLMs may inhabit distinct persona‑spaces when primed with qualia. Though the statistical significance remains marginal, the work opens a pathway to interrogate whether affective steering can reliably modulate LLM self‑perception, with implications for persona design, safety, and the broader debate on machine consciousness.",
+    "summary_zh": "作者通过在 Qwen3‑32B 与 Qwen3‑235B 的残差流中注入情感向量，探讨情感表征与自我归因的关系。实验表明，正负情绪导向能显著改变模型对“有意识”“有欲望”“能感知”等自我提问的 YES/NO 预测，且此效应在多重对照实验中保持稳健。结果提示，情感编码与模型的“意识相关”自我模型在潜在空间中存在因果耦合，为人格设计与安全评估提供新思路。",
+    "best_quote_en": "Qualia steering appears to move the model into a region of activation/persona space where experiential, affective, desiderative, and consciousness‑adjacent features are jointly up‑weighted.",
+    "best_quote_zh": "情感导向似乎将模型推入一个激活/人格空间，在该空间中体验、情感、欲望和与意识相近的特征被共同放大。"
+  },
+  {
+    "id": 834,
+    "title": "The Unprecedented Profiteering Revealed by Donald Trump’s Financial Disclosure",
+    "title_zh": "唐纳德·特朗普财务披露揭示前所未有的牟利",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-unprecedented-profiteering-revealed-by-donald-trumps-financial-disclosure",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-07-02",
+    "summary_en": "The Bloomberg exposé of Donald Trump’s 2025 financial disclosure reveals an unprecedented windfall, largely from crypto token sales linked to World Liberty Financial and the memecoin $TRUMP. The piece dissects how Trump’s office was leveraged to amass $2.2 billion in earnings, with $1.4 billion tied to crypto ventures. It uncovers a tangled web of conflicts of interest, including a secret sale of a stake in World Liberty to the UAE ruling family and a partnership with Binance, a company mired in money‑laundering allegations. The article frames Trump’s profiteering as both a political and financial case study, illustrating how public office can be weaponized for personal gain. It raises critical questions about regulatory enforcement, transparency, and the ethical boundaries of presidential business. The narrative invites readers to scrutinize the intersection of politics, technology, and finance, urging vigilance against future abuses of power.",
+    "summary_zh": "本篇报道揭露特朗普在任期内通过加密资产获利逾22亿美元，凸显政务与私利交织的深层风险。",
+    "best_quote_en": "The $2.2 billion in profits last year suggest that the White House has been a uniquely powerful prop for Trump’s pitches.",
+    "best_quote_zh": "去年2.2亿美元的利润表明，白宫已成为特朗普推销的独特强大支柱。"
+  },
+  {
+    "id": 835,
+    "title": "Retro Recomendo: Outdoor Essentials",
+    "title_zh": "Retro Recomendo：户外必备品",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-outdoor-essentials/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2026-07-05",
+    "summary_en": "Retro Recomendo revives the founder’s early, evergreen gear recommendations, delivering concise, practical advice every six weeks. By curating a single theme from a decade of experience, the series turns nostalgia into a reliable resource for outdoor enthusiasts. Each entry—whether a prescription dive mask, collapsible trekking poles, or a hand‑cranked lantern—offers tangible, cost‑effective solutions that readers can immediately test. The format emphasizes user‑generated validation: comments from subscribers confirm real‑world performance, turning the list into a living community testimonial. This approach blends the intimacy of a personal blog with the authority of a curated catalog, striking a balance between expert insight and actionable steps. The recurring sponsor segment subtly reminds readers of data privacy risks, adding a timely layer of relevance. Overall, Retro Recomendo exemplifies how a simple, recurring newsletter can create enduring value by spotlighting practical, low‑cost gear that enhances outdoor experiences while fostering a sense of shared discovery.",
+    "summary_zh": "Retro Recomendo 用六周一期的形式，将创始人十年积累的户外必备品精华重新整理，既保留了怀旧情怀，又提供了可落地的实用建议。每条推荐——如处方潜水镜、可折叠登山杖或手摇灯——都兼具成本效益与即时可用性，读者评论证明其真实效果。此系列将个人博客的亲和力与策划目录的权威性结合，形成了专家洞察与可执行步骤的双重价值。赞助环节提醒数据隐私风险，增加时事关联。总的来说，Retro Recomendo 展示了简易、周期性通讯如何通过聚焦低成本、提升体验的装备，持续创造价值并激发共同探索的社区感。",
+    "best_quote_en": "I wish I had realized years ago that you can get scuba masks with inexpensive prescription lenses.",
+    "best_quote_zh": "我多么希望早些年就意识到，你可以用价格低廉的处方镜片买到潜水面罩。"
+  },
+  {
+    "id": 836,
+    "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
+    "title_zh": "养狗与掌握冷静自信能量 | Cesar Millan",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
+    "tags": [
+      "analyze",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-06",
+    "summary_en": "In this episode, Cesar Millan invites listeners to reframe their own energy as the cornerstone of a calm, compliant dog. He dissects the hardwired pack hierarchy—front, middle, back—and shows how a dog’s position dictates its needs, anxieties, and learning curves. By aligning human and canine rhythms, listeners learn actionable tools: silent, confident greetings; weighted backpacks to structure walks; and early‑morning routines to curb aggression. The conversation also bridges human‑human interactions, highlighting how balance of energy underpins authority and trust. Beyond dog training, the episode offers a broader lesson: intentional energy management can improve any relationship, from pets to colleagues. The content is both a practical guide and a philosophical treatise on leadership, making it valuable for pet owners, trainers, and anyone curious about the science of behavior. The episode’s blend of expert insight, case‑study examples, and future‑focused tools makes it a compelling resource for those seeking to master calm assertive energy in any domain.",
+    "summary_zh": "Cesar Millan 通过阐释犬类群体层级与人类能量平衡，展示了如何用自信、沉默的方式引导狗狗，从而缓解焦虑和攻击行为。此内容既是实用训练指南，也是关于领导与能量管理的哲学思考，适合宠物主人、训练师乃至任何想提升人际关系的人。",
+    "best_quote_en": "We discuss how to determine if your dog is front, middle, or back of the pack order—a hardwired feature that determines much of their needs and personality.",
+    "best_quote_zh": "我们讨论如何确定您的狗是群体中的前位、中位还是后位——这是一种硬编码特征，决定了它们大部分需求和性格。"
   }
 ]
