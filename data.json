@@ -1,121 +1,5 @@
 [
   {
-    "id": 737,
-    "title": "The Knicks Win the N.B.A. Title: A Post-Game Conversation",
-    "title_zh": "Knicks赢得NBA冠军：赛后对话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/the-knicks-win-the-nba-title-a-post-game-conversation",
-    "tags": [
-      "update",
-      "leadership",
-      "society"
-    ],
-    "tags_zh": [
-      "动态",
-      "领导管理",
-      "社会议题"
-    ],
-    "date": "2026-06-14",
-    "summary_en": "The New Yorker’s post‑game essay on the Knicks’ 2026 championship is a lyrical tribute that blends sports reportage with cultural commentary. It frames the victory as a watershed moment for a city that has long harboured basketball cynicism, positioning Jalen Brunson’s 45‑point performance as a symbolic breakthrough. The piece’s strength lies in its narrative framing: it juxtaposes the team's historic failures—mismanagement, heartbreak, the infamous Linsanity era—with the emotional catharsis of the triumph, thereby offering readers a cathartic—and almost mythic—story arc. The authors also touch on the broader socio‑cultural impact: how the win galvanises New Yorkers, the role of media in shaping narratives (the cover jinx debate), and the enduring sense of collective identity that sports can forge. While the article is evocative, it offers little actionable insight for fans beyond the emotional resonance; it is more about celebration than strategic takeaways. Nevertheless, its persuasive voice and vivid imagery make it a compelling read for anyone interested in how sport can redefine a city’s narrative and heal long‑standing frustrations.",
-    "summary_zh": "新纽约人对NBA冠军的热烈庆祝在这篇文章中被写得宛如一段城市传奇。作者把这场胜利塑造成纽约人篮球悲剧的终章，并通过布鲁森的四十五分来象征转折点。文章的情感张力强，语言富有诗意，既抒情又具文化深度，让读者感受到体育如何重塑城市认同感。",
-    "best_quote_en": "\"Knicks fans, this is not a dream,\" the play‑by‑play man Mike Breen declared after the final buzzer sounded in Game Five.",
-    "best_quote_zh": "“Knicks球迷们，这不是梦，”现场解说员在终场哨声响起后宣称。"
-  },
-  {
-    "id": 738,
-    "title": "Gar’s Tips & Tools – Issue #211",
-    "title_zh": "Gar’s Tips & Tools – Issue #211",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-211/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-06-13",
-    "summary_en": "Gar’s latest issue is a mosaic of practical wisdom, historical reflection, and maker culture nostalgia. The opening video about Heathkit frames a pivotal era when war‑surplus electronics democratized engineering, highlighting the social impact of hands‑on learning. The glove review offers a rigorous, data‑driven comparison that debunks price‑perception myths; the 2.80$ pair’s performance exemplifies how inexpensive tools can outshine premium brands. Kevin Kelly’s “Eureka Zone” turns a mundane problem—finding lost items—into a systematic, almost scientific approach, reinforcing the value of spatial awareness and pattern recognition. Evan Monsma’s video demonstrates the joy of iterative design, complete with candid mistakes that humanize the maker journey. The Drano “shot‑glass” method is a reminder that minimalism and thoughtful dosage often outperform maximalist, chemical‑heavy solutions. Overall, the issue champions low‑cost, sustainable practices and celebrates community, offering readers actionable insights that can be immediately applied. The recurring theme is that curiosity, patience, and a willingness to test small changes yield surprisingly reliable results, encouraging readers to adopt a maker mindset in everyday life.",
-    "summary_zh": "本期 Gar’s Tips & Tools 以实用与历史交织的方式提醒我们：低成本与好奇心往往能解锁大问题。Heathkit 的故事让我们看到技术普及的深远意义；手套评测证明“价格不等于质量”；Kelly 的“Eureka Zone”把找物变成可测量的思维；Evan 的木工视频让人感受迭代的乐趣；而 Drano 的“shot‑glass”法则告诉我们，少量精准的干预更可持续。整体而言，内容激发读者以低成本、可持续的方式重新审视日常工具与工作流程，从而提升个人与社区的创造力与效率。",
-    "best_quote_en": "\"The majority of lost objects are right where you figure—once you take a moment to stop and figure.\"",
-    "best_quote_zh": "“大多数丢失的物品就在你停下来思考的地方。”"
-  },
-  {
-    "id": 739,
-    "title": "Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson",
-    "title_zh": "利用免疫系统预防、治疗与治愈癌症 | Dr. Alex Marson",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/avoiding-treating-and-curing-cancer-with-the-immune-system-alex-marson",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-03-09",
-    "summary_en": "In this episode Dr. Alex Marson demystifies the complex interplay between the immune system and cancer, offering a dual lens of foundational biology and cutting‑edge therapeutics. He starts by mapping the innate and adaptive arms—thymic T‑cell selection, B‑cell antibody dynamics—and then pivots to everyday modifiable risk factors—sleep, diet, environmental toxins—showing how small lifestyle tweaks can tilt the balance toward immune resilience. The conversation then dives into the therapeutic frontier: checkpoint inhibitors, CAR‑T cell therapy, and the emerging promise of CRISPR‑mediated gene editing. Dr. Marson balances optimism with caution, discussing off‑target effects, ethical boundaries in germline editing, and the regulatory landscape. For readers, the episode is a practical toolkit: actionable prevention strategies, an overview of personalized immuno‑therapies, and a critical appraisal of the science driving next‑generation cures. The content is especially valuable for patients, clinicians, and biotech entrepreneurs seeking a scientifically grounded, ethically aware roadmap to cancer prevention and treatment.",
-    "summary_zh": "Dr. Marson 用淋巴系统的基础和前沿疗法阐释癌症生物学，揭示生活方式与免疫平衡的关系，并评估 CRISPR 与 CAR‑T 细胞疗法的前景与伦理。内容兼具可操作性和前瞻性，适合求知者与从业者。",
-    "best_quote_en": "\"The most powerful weapon against cancer is not a drug, but a healthy immune system that we can nurture through simple, actionable choices.\"",
-    "best_quote_zh": "\"对抗癌症最强大的武器不是药物，而是我们能够通过简单、可操作的选择培养的健康免疫系统。\""
-  },
-  {
-    "id": 740,
-    "title": "Why There Aren't More Googles",
-    "title_zh": "为什么没有更多的谷歌",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/googles.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-06-15",
-    "summary_en": "The article examines why there are few “Google” startups by dissecting the interplay between founders, acquirers, and venture capitalists. It argues that early-stage companies are often sold or undervalued because investors, especially VCs, are risk‑averse and driven by consensus rather than bold, disruptive ideas. The author contends that founders who reject acquisition offers tend to be more ambitious and ultimately achieve greater success, highlighting the importance of a growth mindset and strategic patience. He critiques the entrenched VC model, which favors large, quick‑turnover deals, and proposes a shift toward smaller, more frequent investments that bridge the funding gap between seed and Series A. By advocating for angel‑style early capital and urging VCs to embrace smaller bets, the piece offers actionable insights for founders and investors alike. The core implication is that a more daring, flexible investment ecosystem could spawn the next wave of transformative startups—“more Googles.”",
-    "summary_zh": "文章通过剖析创始人、收购方与风险投资的互动，解释为何“谷歌”式的创业公司稀少。强调早期公司被收购或被低估，主要因风险投资者过于保守、趋同，忽视大胆颠覆性创意。作者指出拒绝收购的创始人往往更有抱负，最终更成功，倡导在融资生态中引入小额、频繁的投资，填补种子与A轮之间的空白。对创始人和投资人均具可操作性，暗示更勇敢、灵活的融资机制将孕育更多颠覆性企业。",
-    "best_quote_en": "“The kind of founders who have the balls to turn down a big offer also tend to be very successful.”",
-    "best_quote_zh": "“那些敢于拒绝大额收购的创始人往往也更成功。”"
-  },
-  {
-    "id": 741,
-    "title": "Links #3: 2026/06 Part 1",
-    "title_zh": "",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ztdCgHFF9PTvpgLCu/links-3-2026-06-part-1",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-06-15",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 742,
     "title": "Jürgen Habermas Defended Reason in a Darkening Age",
     "title_zh": "贾里恩·哈贝马斯：在暗淡时代捍卫理性",
@@ -2350,5 +2234,119 @@
     "summary_zh": "Cesar Millan 通过阐释犬类群体层级与人类能量平衡，展示了如何用自信、沉默的方式引导狗狗，从而缓解焦虑和攻击行为。此内容既是实用训练指南，也是关于领导与能量管理的哲学思考，适合宠物主人、训练师乃至任何想提升人际关系的人。",
     "best_quote_en": "We discuss how to determine if your dog is front, middle, or back of the pack order—a hardwired feature that determines much of their needs and personality.",
     "best_quote_zh": "我们讨论如何确定您的狗是群体中的前位、中位还是后位——这是一种硬编码特征，决定了它们大部分需求和性格。"
+  },
+  {
+    "id": 837,
+    "title": "An Alternative Theory of Unions",
+    "title_zh": "关于工会的另一种理论",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/unions.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-07-07",
+    "summary_en": "The article reexamines the mid‑century union boom as an economic aberration rather than a moral triumph, drawing parallels with the rapid‑growth startup era. It argues that high union wages were a byproduct of companies overpaying for speed and reliability, much like tech firms that spent heavily on infrastructure to accelerate growth. By framing unions as “Razorfish‑like” over‑investments, the author challenges the heroic narrative that underpins modern union decline. The piece invites readers to rethink labor history through the lens of business economics, highlighting the cyclical nature of over‑investment and the role of market conditions in wage formation. It offers a provocative, data‑driven critique that urges a pragmatic reassessment of labor policies and a clearer understanding of how growth dynamics shape worker compensation.",
+    "summary_zh": "文章把20世纪中期工会繁荣视为经济异常，而非道德胜利，借科技创业快速扩张作比。作者指出高工资是公司为速度与可靠性过度投资的副产品，类似早期互联网公司对基础设施的高额支出。通过把工会比作“Razorfish”，挑战了传统英雄叙事，提醒我们用商业经济学视角重新审视劳动史，揭示过度投资与工资形成的周期性关系，促使人们以更务实的态度思考工会与劳动政策。",
+    "best_quote_en": "In other words, those workers were not paid what their work was worth.",
+    "best_quote_zh": "换句话说，那些工人并未获得与他们工作价值相称的报酬。"
+  },
+  {
+    "id": 838,
+    "title": "A conceptor by any other name",
+    "title_zh": "另一种叫法的概念器",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9aZYJinAyxequjQbn/a-conceptor-by-any-other-name",
+    "tags": [
+      "learn",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-07",
+    "summary_en": "This article demystifies the conceptor—a soft projection operator originally coined in reservoir computing and now repurposed for modern LLM steering. By framing conceptors as ridge‑regression shrinkage operators, the author bridges decades of signal‑processing, statistical regularization, and quantum measurement theory, offering a unified vocabulary that spans fuzzy subspaces, Wiener filters, and POVMs. The piece not only clarifies the mathematics but also provides concrete persona‑transplantation examples, illustrating how conceptors can selectively dampen or amplify latent directions to steer a model’s behavior without catastrophic interference. It invites readers to think of conceptors as the next generation of linear probes, capable of compositional Boolean operations and adaptive aperture tuning. The post encourages a systematic exploration of activation space by iteratively removing known concepts, hinting at a future where entire semantic manifolds are mapped and manipulated with elegant linear algebra. Its blend of historical context, practical guidance, and forward‑looking speculation makes it a valuable resource for researchers and practitioners seeking nuanced control over large language models.",
+    "summary_zh": "文章把概念器从储水计算迁移到 LLM 方向控制，阐释其为岭回归收缩算子，连接信号滤波、统计正则化与量子测量。通过实例展示如何用概念器精准调节潜在方向，避免干扰。作者把概念器视为下一代线性探针，支持布尔运算与自适应孔径。文中还提出逐步剥离已知概念、映射语义空间的宏观思路，预示未来对激活空间的系统性把握。兼具历史梳理、实战示例与前瞻洞见，值得从事 LLM 控制的科研与工程者阅读。",
+    "best_quote_en": "Conceptor is simply the shrinkage operator of ridge-regressing onto your concept examples.",
+    "best_quote_zh": "概念器仅仅是对岭回归收缩算子在你的概念样本上的实现。"
+  },
+  {
+    "id": 839,
+    "title": "How Political Is This Supreme Court?",
+    "title_zh": "这最高法院有多政治？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-political-is-this-supreme-court",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-07-06",
+    "summary_en": "The piece interrogates the prevailing narrative that the U.S. Supreme Court is a purely partisan institution, arguing instead for a more nuanced understanding. It examines the 2026 term’s landmark rulings—voting‑rights erosion, executive firing powers, and the Fed exception—to illustrate how conservative justices sometimes deviate from ideological expectations. By spotlighting the four so‑called “political” justices—Roberts, Barrett, Kavanaugh, and Gorsuch—the author contends that their willingness to cross ideological lines on high‑stakes cases reflects a pragmatic, law‑first approach rather than blind partisan alignment. The article frames this as a strategic recalibration that balances institutional integrity with policy outcomes, suggesting that the Court’s decisions are shaped by a mix of legal reasoning, political calculation, and institutional concerns. It invites readers to reconsider simplistic labels and to appreciate the complex interplay of ideology, law, and politics that defines modern jurisprudence.",
+    "summary_zh": "文章挑战将最高法院视为纯粹党派机构的主流叙事，主张更细腻的理解。它剖析2026年关键判决——削弱投票权、行政人事权和联邦储备例外，展示保守派大法官有时偏离预期的案例。聚焦“政治”四位大法官——罗伯茨、巴雷特、卡瓦尼和戈萨奇，作者认为他们在高风险案件中跨党派投票体现的是务实、以法为先，而非盲目党派。文章将此视为平衡机构完整性与政策结果的战略再校准，暗示最高法院决策由法律推理、政治计算与机构考量共同塑造，呼吁读者重新评估简单标签，洞察现代司法的复杂互动。",
+    "best_quote_en": "The Court is neither entirely political nor entirely apolitical. We have to be a little more nuanced in the way we go about this.",
+    "best_quote_zh": "法院既不完全政治，也不完全非政治。我们必须以更细腻的方式来对待它。"
+  },
+  {
+    "id": 840,
+    "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Read Montague",
+    "title_zh": "多巴胺与血清素如何塑造决策、动机与学习 | Dr. Read Montague",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-dopamine-serotonin-shape-decisions-motivation-and-learning-read-montague",
+    "tags": [
+      "solve",
+      "ai-research",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "Dr. Read Montague’s interview on the Huberman Lab delves into the neurochemical choreography that governs motivation, learning, and decision‑making. He explains how dopamine’s reward‑prediction error signals drive goal‑oriented effort, while serotonin provides a counterbalancing tone that shapes persistence and risk tolerance. The discussion highlights how SSRIs, low‑effort high‑engagement media, and even AI‑derived models can dampen dopamine’s salience, offering a cautionary lens on modern digital habits. Montague also links dopamine dynamics to clinical conditions such as Parkinson’s, ADHD, and trauma, illustrating how aberrant signaling can alter motivation and learning trajectories. The conversation concludes with forward‑looking themes—deep‑brain stimulation, brain‑machine interfaces, and large‑language models—underscoring the growing convergence between neuroscience and AI. For readers, the episode offers actionable insights into how to modulate motivation, the pitfalls of dopamine‑driven consumption, and a roadmap for future research that bridges biology and technology.",
+    "summary_zh": "在Huberman实验室的访谈中，读蒙塔古博士深入剖析多巴胺与血清素如何共同塑造动机、学习与决策。他指出多巴胺的奖励预测误差驱动目标导向的努力，而血清素则提供对抗性调节，影响坚持与风险偏好。讨论还揭示SSRIs、低努力高参与的媒体以及AI模型如何削弱多巴胺的显著性，警示现代数字习惯的潜在危害。博士进一步将多巴胺动力学与帕金森、ADHD及创伤等临床状态关联，说明信号失衡如何改变动机与学习路径。结尾聚焦深脑刺激、脑机接口与大型语言模型等前沿议题，强调神经科学与AI的交叉融合。对读者而言，节目提供可操作的激励调节技巧、对多巴胺驱动消费的警惕，以及未来跨学科研究的路线图。",
+    "best_quote_en": "Dopamine as a currency",
+    "best_quote_zh": "科学是一项接触式运动"
+  },
+  {
+    "id": 841,
+    "title": "Death by 1,000 Compromises: How to Tap Into Founder Mode",
+    "title_zh": "千次妥协的死亡：如何进入创始人模式",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/18/mark-pincus/",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-06-18",
+    "summary_en": "Mark Pincus, founder of Zynga, shares his personal manifesto for staying in founder mode. He traces his journey from a directionless MBA graduate to a serial entrepreneur, anchored by a yearly ritual called the Book of Life. Each year he reviews where he stands, learns from past goals, and commits to a single transformative objective—whether it’s quitting a job, launching a company, or shifting his personal habits. The practice, he argues, keeps a founder’s “North Star” alive, preventing the dilution of vision that leads to endless compromises. Pincus also warns against the “expert witness” trap—having the knowledge but no authority to act—and stresses the importance of owning control and making bold, unpopular decisions. His narrative blends practical tactics, psychological insight, and a call to “stop time” when market shifts demand a pivot. For anyone who wants to lead with conviction and avoid the paralysis of endless trade‑offs, this post offers a roadmap and a philosophical anchor.",
+    "summary_zh": "马克·平克斯在这篇文章中阐述了他保持创始人模式的秘诀——每年用《生命之书》审视自我、总结过去、设定突破性目标。通过“停止时间”的决策与“专家证人”陷阱的警示，他强调拥有决策权、敢于做出不受欢迎的大胆举措，才能防止无数妥协导致的失去方向。文章将实践与心理洞察交织，给创业者以行动指南与精神灯塔，帮助他们在快速变革中保持北极星。",
+    "best_quote_en": "Know your goal or suffer death by 1,000 compromises.",
+    "best_quote_zh": "知道你的目标，否则会因千次妥协而死去。"
   }
 ]
