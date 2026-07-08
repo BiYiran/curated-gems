@@ -1,101 +1,5 @@
 [
   {
-    "id": 742,
-    "title": "Jürgen Habermas Defended Reason in a Darkening Age",
-    "title_zh": "贾里恩·哈贝马斯：在暗淡时代捍卫理性",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy",
-    "tags": [
-      "inspire",
-      "education",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-15",
-    "summary_en": "Jürgen Habermas’s career, from his Frankfurt School origins to his late‑life defense of reason, is recounted as a cautionary tale about the erosion of the public sphere in the age of digital media and AI. The article traces his intellectual evolution—from critiquing capitalist domination to crafting the theory of communicative action—and his engagement with contemporary crises such as the rise of populism, the Holocaust debate, and religious fundamentalism. It juxtaposes Habermas’s optimistic belief in dialogue with the increasingly fragmented, algorithm‑driven public discourse, highlighting the paradox that the very tools he championed now facilitate echo chambers and misinformation. The piece ends on a sober note: while Habermas’s legacy urges collective deliberation and institutional “no‑power,” the contemporary landscape demands a hybrid of critical theory and pragmatic technology regulation. Readers gain a nuanced understanding of Habermas’s relevance, the limits of rational discourse in the digital age, and the ongoing struggle to preserve democratic deliberation.",
-    "summary_zh": "作者通过哈贝马斯的生平与学术演进，描绘了理性在信息时代的衰退与重塑。文章批判算法与社交媒体导致的舆论碎片化，却也肯定了哈贝马斯倡导的公共领域与批判性对话。作者在结尾呼吁将批判理论与技术监管结合，重建可持续的民主话语空间，提醒我们理性与技术的双刃剑。",
-    "best_quote_en": "\"The very medium of mutual understanding abides in a peculiar half‑transcendence.\"",
-    "best_quote_zh": "“相互理解的媒介本身就存在一种特殊的半超越。”"
-  },
-  {
-    "id": 743,
-    "title": "How everyday things work / Storied Colors / All Carve Outs",
-    "title_zh": "日常事物是如何运作的 / 颜色故事 / 全部雕刻外观",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/how-everyday-things-work-storied-colors-all-carve-outs/",
-    "tags": [
-      "analyze",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-06-14",
-    "summary_en": "This eclectic column blends hands‑on mechanical dissections, cultural color histories, curated product reviews, wearable tech comparisons, meme art commentary, and a writer‑deck resource list into a single digest. The mechanical‑pencil.com series brings a tactile, almost cinematic perspective to everyday tools, demystifying their inner workings with 3‑D animation—a practical guide for curious hobbyists and engineers alike. Storied Colors turns chromatics into narrative, linking hues to chemistry, history, and personal memory, appealing to designers and storytellers. The Acquired podcast “carve‑outs” offer a curated, personal recommendation engine that crosses genres, useful for professionals seeking cross‑industry inspiration. The ring comparison delivers a data‑driven, cost‑efficiency analysis of wearables, highlighting privacy and feature trade‑offs—a valuable case study for tech buyers. Sunday Nobody’s meme‑art exposé invites reflection on the craft behind viral culture, blending absurdity with meticulous production. Finally, the Writer Deck resource list provides actionable, budget‑friendly guidance for writers seeking focus‑centric tools. Together, these pieces reinforce the value of curiosity‑driven exploration, actionable insight, and cross‑disciplinary learning, making the article a rich, multi‑faceted resource for creatives, technologists, and lifelong learners.",
-    "summary_zh": "文章集合机械拆解、颜色故事、精选推荐、可穿戴比较、表情包艺术与写作工具资源，展示好奇心与跨域学习的价值；兼具教程与案例分析，给创作者、技术爱好者及终身学习者实用启示。",
-    "best_quote_en": "The mechanical‑pencil.com series brings a tactile, almost cinematic perspective to everyday tools, demystifying their inner workings with 3‑D animation— a practical guide for curious hobbyists and engineers alike.",
-    "best_quote_zh": "机械笔系列以触感十足、近乎电影化的视角拆解日常工具，通过3D动画揭示其内部工作原理，为好奇的爱好者和工程师提供实用指南。"
-  },
-  {
-    "id": 744,
-    "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
-    "title_zh": "必修课：味觉感知与糖渴的生物学 | 查尔斯·祖克博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-biology-of-taste-perception-and-sugar-craving-charles-zuker",
-    "tags": [
-      "update",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-03-05",
-    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Charles Zuker, a leading neuroscientist and biochemist, dissects the intricate pathways that translate chemical signals from food into the rich tapestry of taste experiences. He explains how five basic taste qualities—sweet, salty, sour, bitter, and umami—are detected by specialized taste buds and conveyed through the brain’s gustatory cortex, shaping both conscious food choices and subconscious cravings. A key insight is the plasticity of taste: preferences evolve with exposure, diet, and even gut–brain signaling. Zuker highlights the remarkable potency of sugar, which engages reward circuits and gut hormones to create powerful cravings, and contrasts this with the often-overlooked role of bitter compounds in signaling safety and health. The conversation also touches on artificial sweeteners, the nutritional implications of processed foods, and how understanding taste biology can inform healthier eating habits. This episode offers a data-driven, expert‑insight guide for anyone curious about the science behind why we eat what we do, and how to harness this knowledge for better nutrition and wellbeing.",
-    "summary_zh": "祖克博士阐释味觉从化学信号到大脑感知的完整链路，揭示甜、咸、酸、苦、鲜五味的神经路径与代谢交互。核心在于糖通过奖励回路与肠脑轴激活渴求，展示味觉可塑性与饮食习惯演变。此番对人类食欲与健康决策的深层机制提供科学视角，助我们用更理性思维调整膳食。",
-    "best_quote_en": "\"Taste is not just a sense; it’s a decision-making system that constantly negotiates with our biology to shape what we eat and how we feel.\"",
-    "best_quote_zh": "\"味觉不仅是感官，更是与我们生理持续对话的决策系统，决定我们吃什么、感受如何。\""
-  },
-  {
-    "id": 745,
-    "title": "Some Heroes",
-    "title_zh": "Some Heroes",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/heroes.html",
-    "tags": [
-      "inspire",
-      "education",
-      "startup-strategy",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "创业策略",
-      "新手友好"
-    ],
-    "date": "2026-06-16",
-    "summary_en": "This essay is a reflective meditation on the notion of a personal hero, assembled as a curated list of individuals whose influence shaped the author’s worldview. Rather than conventional biographical acclaim, the author filters heroes through two stringent criteria: obsessive dedication to their craft and unapologetic honesty. By dissecting a wide spectrum of figures—from a Pittsburgh linebacker to a foundational computer scientist—the piece illustrates how genuine influence stems from authenticity, relentless curiosity, and an unwavering commitment to one’s own standards. The narrative invites readers to reassess their own hero lists, urging a move beyond surface admiration toward a deeper, actionable model of emulation. In doing so, it offers a fresh lens on legacy, creativity, and the everyday pursuit of excellence, while encouraging a personal dialogue about the traits that truly inspire us.",
-    "summary_zh": "作者以个人英雄的视角，挑选并剖析了从运动员到科学家的多位榜样，强调“执着”和“诚实”是成就的关键。文章既是自我反思，也是一种行动号召，鼓励读者重新评估自己的英雄榜，关注内在品质而非名声。它把英雄主义与日常实践相连，展示了真实影响力的本质，带来对学习与成长的启示。",
-    "best_quote_en": "The only quality that threads all of my heroes together is not fame or intellect, but a relentless, honest devotion to their craft.",
-    "best_quote_zh": "所有英雄共同的品质不是名声或智慧，而是对其事业的执着与诚实。"
-  },
-  {
     "id": 746,
     "title": "Where Do Young Rationalists Go?",
     "title_zh": "年轻理性主义者去向何方？",
@@ -2348,5 +2252,101 @@
     "summary_zh": "马克·平克斯在这篇文章中阐述了他保持创始人模式的秘诀——每年用《生命之书》审视自我、总结过去、设定突破性目标。通过“停止时间”的决策与“专家证人”陷阱的警示，他强调拥有决策权、敢于做出不受欢迎的大胆举措，才能防止无数妥协导致的失去方向。文章将实践与心理洞察交织，给创业者以行动指南与精神灯塔，帮助他们在快速变革中保持北极星。",
     "best_quote_en": "Know your goal or suffer death by 1,000 compromises.",
     "best_quote_zh": "知道你的目标，否则会因千次妥协而死去。"
+  },
+  {
+    "id": 842,
+    "title": "The Hacker's Guide to Investors",
+    "title_zh": "黑客的投资者指南",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/guidetoinvestors.html",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-07-08",
+    "summary_en": "This essay demystifies the opaque world of venture capital for tech founders, offering a candid, actionable playbook. It exposes the paradox that investors—especially angels—are both the lifeblood of Silicon Valley hubs and the most misunderstood players, whose motivations hinge on momentum, brand, and risk appetite rather than pure technical insight. The author critiques the inflated valuation game, urging founders to prioritize speed and product over chasing high pre-money numbers. He warns of the emotional volatility and procedural inertia that can derail deals, and highlights the subtle yet powerful role of networking and reputation. By framing investors as opportunistic, risk‑averse, and heavily dependent on peer validation, the essay equips hackers with realistic expectations and strategic tactics—such as early traction, selective outreach, and disciplined fundraising timelines. Ultimately, it challenges founders to balance ambition with pragmatism, turning investor interactions into strategic assets rather than liabilities.",
+    "summary_zh": "本文揭示风投世界的隐秘与误区，指出投资者更多关注势头与品牌而非技术，强调估值泡沫与融资耗时的风险。作者用案例与经验教训，提醒创始人应以产品为先，快速获取早期用户，慎重追求高估值，并通过精准人脉与稳健融资节奏，将投资者关系转化为战略资产。",
+    "best_quote_en": "Investors don’t realize how much it costs to raise money from them.",
+    "best_quote_zh": "投资者并未意识到从他们那里筹集资金的成本有多高。"
+  },
+  {
+    "id": 843,
+    "title": "The Pharos Gate / Felines of New York",
+    "title_zh": "《Pharos Gate / 纽约的猫咪》",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-pharos-gate-felines-of-new-york/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-07-07",
+    "summary_en": "The article juxtaposes two distinct literary offerings, each revealing a different facet of contemporary book culture. Nick Bantock’s seventh installment in the Griffin & Sabine saga is celebrated for its meticulous blend of epistolary narrative and tactile artistry, offering readers a quasi‑interactive experience that blurs the line between page and personal correspondence. The reviewer underscores the author’s commitment to resolving long‑standing narrative ambiguity, thereby satisfying a devoted fan base. In contrast, Jim Tews’s photographic compendium, Felines of New York, captures the city’s diverse cat population through candid portraits and brief interviews, turning stray and domestic felines into cultural protagonists. The piece highlights the emotional resonance of animal storytelling and the subtle commentary on urban life and immigration. Together, the reviews illuminate how books can simultaneously entertain, document, and provoke reflection, reminding readers that the medium remains a living, breathing dialogue between author, subject, and audience.",
+    "summary_zh": "文章对比两部书，揭示当代书籍的多元面貌。Bantock 的《Pharos Gate》以书信与艺术交织的方式，满足读者对未解情节的渴望；Tews 的《纽约的猫咪》则通过猫咪肖像与访谈，呈现城市动物的多样性与人文情感。两篇评论提醒我们，书本既是娱乐，也是记录与对话，让读者在文字与影像中体验情感与思考。",
+    "best_quote_en": "The ultimate fate of Griffin and Sabine remained tantalizingly mysterious until last month with the release of The Pharos Gate.",
+    "best_quote_zh": "对我来说，表达爱更在于我不做的事，而非我做的事。例如，如果我爱你，我不会在你的卧室门外拉屎。"
+  },
+  {
+    "id": 844,
+    "title": "Essentials: Using Play to Rewire & Improve Your Brain",
+    "title_zh": "Essentials：通过游戏重塑与提升大脑",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-play-to-rewire-and-improve-your-brain",
+    "tags": [
+      "guide",
+      "education",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "Huberman’s latest Essentials episode reframes play as a deliberate, brain‑shaping tool that transcends childhood. He explains how playful activities ignite distinct neural circuits and release neuromodulators, creating low‑stakes arenas where adults can safely experiment with new roles. The discussion bridges basic neuroscience with practical advice: from dynamic movement to role‑play and chess, each form of play is mapped to specific cognitive flexibilities—creative thinking, problem‑solving, and neuroplasticity. Huberman stresses that adults can re‑introduce play intentionally, turning leisure into a structured training ground for the mind. The episode offers actionable strategies—timed “play breaks,” group improvisation, and role‑play scenarios—that readers can apply immediately. It also highlights the evolutionary logic behind play, suggesting that our brains are wired for curiosity and that play‑based learning aligns with that architecture. For anyone seeking to boost creativity, resilience, or lifelong learning, the episode provides a clear, evidence‑based playbook that blends science with everyday practice.",
+    "summary_zh": "Huberman 在最新的 Essentials 章节中，将游戏重新定位为成年人可有意识地塑造大脑的工具。他阐述了游戏如何激活特定神经回路并释放神经递质，创造低风险环境，让成人在探索新角色时安全学习。内容结合基础神经科学与实用建议：从动态运动、角色扮演到棋类游戏，每种游戏形式都对应特定的认知灵活性——创造力、问题解决和神经可塑性。Huberman 强调成年人可有意地重新引入游戏，将休闲转化为结构化的思维训练。节目提供可立即应用的行动方案，如定时“游戏休息”、小组即兴表演和角色扮演情境，帮助提升创造力与韧性。它还揭示游戏的进化逻辑，说明大脑天生渴望好奇，游戏式学习正符合这一架构。",
+    "best_quote_en": "Play engages specific brain circuits and neurochemicals, allowing us to explore different roles and learn in low‑stakes environments uniquely suited to learning.",
+    "best_quote_zh": "游戏激活特定的大脑回路和神经化学物质，让我们在低风险环境中探索不同角色并学习，特别适合学习。"
+  },
+  {
+    "id": 845,
+    "title": "Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First (#874)",
+    "title_zh": "Guy Oseary — 传奇好莱坞权力经纪人：5分钟决策、36年管理麦当娜、26次IPO与首创魔法（#874）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/07/guy-oseary/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-07-08",
+    "summary_en": "Guy Oseary, the legendary Hollywood power broker, serves as a living case study in the art of rapid decision‑making and long‑term talent cultivation. In this episode, Tim Ferriss dissects how a single five‑minute choice can ripple across a career, citing Oseary’s 36‑year stewardship of icons like Madonna, U2, and the Red Hot Chili Peppers as proof. Beyond the music arena, the conversation turns to venture strategy—Oseary’s early bet on Vita Coco, the founding of A‑Grade Investments, and the launch of Sound Ventures, which now manages nearly $2 billion and has produced 86 exits and 26 IPOs. The dialogue blends anecdote with hard data, offering listeners a roadmap for spotting “magic first” opportunities, balancing gut instinct with analytical rigor. For entrepreneurs, investors, and creatives alike, the episode is a masterclass in speed, foresight, and the relentless pursuit of value.",
+    "summary_zh": "戈伊·奥西里以其五分钟决策与长期人才发掘的双重优势，成为好莱坞传奇。节目中，他的36年音乐管理生涯（包括麦当娜、U2等）与早期投资（维塔可、A‑Grade、Sound Ventures）交织，展示了从直觉到数据的全流程。通过案例与实战数据，听众能学到如何快速识别并抓住“先发奇迹”，并在创业与投资中实现价值最大化。",
+    "best_quote_en": "Guy has been spotting talent before anyone else could see it for nearly four decades.",
+    "best_quote_zh": "戈伊·奥西里在近四十年来一直在别人看不到的地方发现人才。"
   }
 ]
