@@ -1,121 +1,5 @@
 [
   {
-    "id": 755,
-    "title": "Elegant and practical, capri pants give off Audrey Hepburn vibes | Jess Cartner-Morley",
-    "title_zh": "优雅实用的短裤：让你散发奥黛丽·赫本的气质 | Jess Cartner-Morley",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jun/17/jess-cartner-morley-fashion-capri-pants-audrey-hepburn-vibes",
-    "tags": [
-      "guide",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-06-17",
-    "summary_en": "The Guardian’s style column, penned by Jess Cartner‑Morley, reframes the humble capri pant as a sophisticated yet practical wardrobe staple for the modern woman. By tracing its origin from 1940s Munich to Audrey Hep{burn}‑era Hollywood, the piece situates capris within a lineage of mid‑century chic, underscoring their versatility across office, beach, and city settings. Cartner‑Morley moves beyond mere trend‑watching; she offers concrete styling cues—pairing with boxy gingham tops, choosing lightweight footwear, and balancing proportions—to transform capris from nostalgic relics into intentional, contemporary looks. The article’s tone balances historical context with actionable advice, making it a valuable resource for fashion editors, stylists, and style‑savvy readers seeking to elevate everyday summer outfits. By highlighting the capri’s “founding myth” and cinematic allure, the piece invites readers to experience fashion as both functional and aspirational, reinforcing the idea that style can be both comfortable and elegant.",
-    "summary_zh": "文章把短裤从一件复古单品升华为现代职场与休闲兼备的必备单品，结合历史与实用搭配技巧，让读者在舒适中感受优雅。",
-    "best_quote_en": "The capri pant is an undeniably elegant solution to the problem of what to wear when jeans or tailored trousers are too hot and cumbersome, but you don’t want to wear shorts.",
-    "best_quote_zh": "短裤是解决既不想穿牛仔裤也不想穿短裤时的优雅答案。"
-  },
-  {
-    "id": 756,
-    "title": "You Weren't Meant to Have a Boss",
-    "title_zh": "你不该有老板",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/boss.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "The essay argues that the conventional corporate hierarchy—rooted in a tree structure—undermines human natural inclination for autonomy and innovation, especially for programmers. By comparing work environments to dietary choices, the author illustrates how large organizations impose restrictive constraints that stifle creativity, reduce learning opportunities, and ultimately slow growth. He draws on observations from over 200 founders and Y Combinator data to show that founders and early employees of small startups exhibit higher initiative, resilience, and learning gains than their counterparts in big firms. The piece calls for a shift toward smaller, more autonomous teams or a fundamentally different organizational design that eliminates the tree hierarchy. It also cautions against debt‑financing startups and emphasizes that failure, when it occurs, can be a valuable learning experience rather than a financial ruin. The essay invites readers—particularly programmers—to reconsider the allure of big‑tech jobs and to weigh the trade‑offs between stability and freedom.",
-    "summary_zh": "文章用食物与工作环境的类比，揭示大型企业树形层级对人类自主性与创新的压制。作者基于200多位创始人经验与 YC 数据，指出小型团队更能激发程序员的主动性与学习。强调创业失败可成为成长的机会，呼吁摆脱传统层级结构，提倡更小、更自主的组织形式。",
-    "best_quote_en": "\"Working for yourself doesn’t have to mean starting a startup, but a programmer deciding between a regular job at a big company and their own startup is probably going to learn more doing the startup.\"",
-    "best_quote_zh": "“为自己工作并不一定意味着创业，但程序员在大公司与自己创业之间做选择时，创业往往能让他们学到更多。”"
-  },
-  {
-    "id": 757,
-    "title": "How far do open weights trail the frontier?",
-    "title_zh": "开放模型与闭源模型的前沿落后程度？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/DbLnB7eo9wBDDnSEq/how-far-do-open-weights-trail-the-frontier",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "This concise post probes the quantitative gap between open‑weight and closed‑weight AI models, using the ECI metric from Epoch’s IRT‑based evaluation rather than the more simplistic AA Index. By mapping each open‑weight frontier model against the earliest closed‑weight model that achieved the same ECI, the author visualises a clear temporal lag—often spanning several months. The analysis extends to a rivalry comparison between OpenAI and Anthropic, illustrating how one ecosystem can be ahead or behind the other at specific performance thresholds. The piece invites readers to interact with the underlying graphs, fostering a deeper, data‑driven understanding of model progression. For researchers and enthusiasts, it highlights the importance of robust metrics and the value of open‑source transparency in tracking AI progress, while also pointing out the limitations of current benchmarks and the need for continuous updates as new models surface.",
-    "summary_zh": "文章用 Epoch 的 IRT‑based ECI 指标，细致比较了开放权重模型与闭源模型在前沿落后程度，绘制了时间差图，揭示了几个月的性能落差，并对 OpenAI 与 Anthropic 的竞争做了对比。它强调了量化指标的重要性和开放源代码对跟踪 AI 进步的价值，提醒我们持续更新数据以保持准确性。",
-    "best_quote_en": "\"Each open‑weight frontier model and how many months earlier a closed model had reached its ECI.\"",
-    "best_quote_zh": "\"每个开放权重前沿模型与其达到相同 ECI 的闭源模型相差的月份数。\""
-  },
-  {
-    "id": 758,
-    "title": "Can Zohran Mamdani Sway the Commie Corridor’s “Civil War”?",
-    "title_zh": "能否让Zohran Mamdani影响“共产党走廊”的“内战”？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/can-zohran-mamdani-sway-the-commie-corridors-civil-war",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "The piece dissects a micro‑political battle in New York’s Seventh Congressional District, where the newly elected Democratic Socialists of America (DSA) mayor, Zohran Mamdani, is backing Claire Valdez against incumbent‑sitter Antonio Reynoso. It reads like a field report, blending reportage, insider interviews, and sociopolitical analysis to illuminate the mechanics of left‑wing mobilization in a district that has long been a bastion for progressive politics. The narrative foregrounds the tension between local identity and national progressive agendas, the role of endorsements from unions and the Working Families Party, and the strategic calculus of “first‑to‑say‑it” on issues such as the Gaza war and ICE. By framing the primary as a “civil war” within the “Commie Corridor,” the author dramatizes the ideological split that can emerge even among like‑minded activists. The article invites readers to consider how celebrity, grassroots organizing, and strategic alliances shape electoral outcomes in a rapidly changing urban left. It also highlights the emotional labor of candidates who transition from behind‑the‑scenes organizers to public office seekers, underscoring the loneliness and pressure that accompany such a shift. The piece ultimately serves as a case study for how progressive movements must balance authenticity, local ties, and broader coalition building to convert electoral victories into lasting policy influence.",
-    "summary_zh": "文章细致描绘纽约第七选区的左翼内部竞争，探讨市长Mamdani对候选人Valdez的支持与Reynoso的对抗，揭示团结与身份认同在进步运动中的博弈。",
-    "best_quote_en": "\"It can feel very lonely,\" Valdez said, underscoring the emotional toll of moving from cadre to candidate.",
-    "best_quote_zh": "“这可能会让人感到非常孤独，”Valdez说，凸显从组织者到候选人的情感代价。"
-  },
-  {
-    "id": 759,
-    "title": "What’s in my NOW? — frank",
-    "title_zh": "What’s in my NOW? — frank",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-frank/",
-    "tags": [
-      "inspire",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-06-17",
-    "summary_en": "This reflective post blends personal narrative with practical tech recommendations, offering a living laboratory of AI-assisted creativity and mindful travel. The author chronicles his evolving workflow with Claude, a cutting‑edge code‑generation agent, and highlights complementary plugins that unlock its full potential—an insightful resource for developers eager to experiment without hefty subscription fees. Beyond coding, he showcases a curated list of physical gear (laser trigger massage, ergonomic backpack, durable sandals) that supports an active, mobile lifestyle, illustrating how thoughtful product choices can enhance well‑being on the go. The digital companion, Pilgrim, exemplifies the convergence of mindfulness and technology, enabling users to capture spontaneous insights during walks and transform them into shareable narratives. Overall, the piece invites readers to experiment, iterate, and weave technology into everyday rituals, underscoring the power of intentionality in a hyperconnected world.",
-    "summary_zh": "作者通过亲身实践，展示了Claude等AI工具与日常生活的深度融合，并分享了支持移动生活的实用装备与应用，鼓励读者以实验与反思的方式将技术融入生活，体现了在数字时代主动创造与自我关怀的价值。",
-    "best_quote_en": "energy begets more energy",
-    "best_quote_zh": "能量会产生更多能量"
-  },
-  {
     "id": 760,
     "title": "A New Venture Animal",
     "title_zh": "新型创业动物",
@@ -2350,5 +2234,121 @@
     "summary_zh": "Guy Oseary 的访谈展示了凭直觉、快速决策与人脉构建的职业生涯，从西好莱坞少年遇见Prince，到16岁拒绝25000美元提议，再到26次IPO与2亿美元投资。Oseary 讲述如何在一次demo中捕捉魔法、快速判断，并将此模式应用于音乐、电影与科技领域，强调持续前进与不满足于过去的价值。",
     "best_quote_en": "I realized that I needed to get going.",
     "best_quote_zh": "我意识到我需要开始行动。"
+  },
+  {
+    "id": 855,
+    "title": "Richer than Musk: Joyce Carol Oates on her 88 years of watching, writing, feeling and loving",
+    "title_zh": "比马斯克更丰富：乔伊斯·卡罗尔·奥茨回顾她88年的观看、写作、感受与爱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview",
+    "tags": [
+      "inspire",
+      "society",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-06-22",
+    "summary_en": "The Guardian’s feature offers an intimate portrait of Joyce Carol Oates, a prolific novelist whose 88-year life is a study in literary persistence and cultural critique. The interview, conducted in her Princeton home, weaves her prolific output—over 60 novels, numerous short stories, and essays—into a narrative of personal loss, feminist insight, and a skeptical eye on contemporary society. Oates’ confrontation with Elon Musk on X is presented not merely as a sensational feud but as a broader commentary on wealth, culture, and the alienation of the ultra-wealthy. The piece also foregrounds her new collection, *The Frenzy*, framing it as a case study in grief, friendship, and the enduring impact of violence. Her reflections on AI’s job‑displacement for young people reveal a prescient concern for the future of work. Overall, the article invites readers to learn from Oates’ life and work, to analyze her literary strategies, and to be inspired by her candid, expert insights into the human condition.",
+    "summary_zh": "《卫报》访谈深入呈现乔伊斯·卡罗尔·奥茨的文学人生与文化批判。她与马斯克的公开对峙被视为财富与文化疏离的象征；新作《狂热》聚焦悲痛与友情，探讨暴力余波。奥茨对AI失业的担忧，预示未来劳动力挑战。整篇文章既是学习她创作轨迹的窗口，也是对社会变迁的深刻分析，激发读者对人性与文学的思考。",
+    "best_quote_en": "A whole generation of young people – they can’t get jobs, they send as many as 1,000 letters of inquiry, they get AI rejections, sometimes they’re interviewed by AI. This is killing these young people.",
+    "best_quote_zh": "一整代年轻人——他们找不到工作，发送多达1,000封求职信，却被AI拒绝，有时甚至被AI面试。这正在杀死这些年轻人。"
+  },
+  {
+    "id": 856,
+    "title": "Microsoft is Dead",
+    "title_zh": "Microsoft 已死",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/microsoft.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-07-11",
+    "summary_en": "From the author's eye‑level, the essay reads like a candid manifesto that deconstructs the myth of Microsoft’s invincibility. By weaving personal anecdotes—meeting a Y Combinator founder, recalling the rise of Gmail, and noting the shift to web‑first development—the piece argues that Microsoft’s demise was not a single corporate failure but a convergence of forces: Google’s dominance, the birth of Ajax, broadband ubiquity, and Apple’s design‑centric renaissance. The narrative is both historical and prescient, offering a critique of the old desktop monopoly and a warning that even a cash‑rich giant can be blindsided by cultural and technological momentum. The author’s tone oscillates between nostalgic disbelief and sharp skepticism, making the piece a compelling case study for anyone studying platform evolution, market disruption, and the politics of software dominance.",
+    "summary_zh": "作者以亲身经历为线索，拆解微软“无敌”神话，指出其衰落是谷歌崛起、Ajax诞生、宽带普及与苹果设计复兴的多重碰撞。文章既是历史回顾，也是对平台垄断的批判，提醒即使资金雄厚的巨头也可能被技术与文化浪潮所逼。",
+    "best_quote_en": "Microsoft cast a shadow over the software world for almost 20 years starting in the late 80s.",
+    "best_quote_zh": "微软在80年代末开始在软件世界投下阴影，持续近二十年。"
+  },
+  {
+    "id": 857,
+    "title": "Measuring Is Not Enough Anymore",
+    "title_zh": "测量已不再足够",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-11",
+    "summary_en": "Finke’s essay interrogates the prevailing reliance on quantitative metrics—particularly METR’s time‑horizon graph—to gauge AI progress and mitigate existential risk. He argues that while such curves inform researchers, investors, and even policy makers, they largely amplify a techno‑optimist narrative that equates capability with inevitability. The piece contrasts the graph’s influence on venture capital, media hype, and academic discourse, highlighting a mismatch between the public’s understanding and the real stakes of safety. Finke proposes a paradigm shift: instead of merely measuring capability, safety work should prescribe how development should proceed, embedding constraints and monitorability into the research agenda. By foregrounding the limits of measurement and calling for more prescriptive, future‑focused research, the article challenges the AI safety community to move beyond data collection toward shaping the trajectory of AI itself.",
+    "summary_zh": "费恩基的文章质疑当前依赖METR时间范围图等量化指标来评估AI进展与降低存在风险的做法。他指出，虽然该曲线能为研究者、投资者和政策制定者提供参考，却往往助长技术乐观主义，将能力等同于必然性。文章对比了该图在风险投资、媒体炒作与学术讨论中的影响，揭示公众认知与安全实际之间的鸿沟。作者主张从单纯测量转向制定发展路径的规范性研究，强调监测与可控性在研究议程中的核心地位。通过突出测量的局限并呼吁更具前瞻性的研究，文章促使AI安全界超越数据收集，真正塑造AI的发展轨迹。",
+    "best_quote_en": "The time horizon experiment is rightly described as an analogue of Moore's law.",
+    "best_quote_zh": "时间范围实验恰当地被描述为摩尔定律的类比。"
+  },
+  {
+    "id": 858,
+    "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+    "title_zh": "要点：治疗、处理创伤与其他人生挑战 | Paul Conti 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-therapy-treating-trauma-and-other-life-challenges-paul-conti",
+    "tags": [
+      "learn",
+      "psychology",
+      "medicine"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "医学健康"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "Dr. Paul Conti’s episode in the Huberman Lab Essentials series dives into the neuro‑psychological landscape of trauma, unpacking how guilt and shame become inextricably linked to the injury and how therapeutic processing can reverse these patterns. He offers a pragmatic framework for selecting a therapist—emphasizing rapport, session duration, and the importance of a safe, non‑judgmental environment—while also addressing the pharmacological frontier of psychedelic‑assisted therapy, with MDMA highlighted as a promising adjunct for overcoming fear. The discussion balances evidence‑based psychiatry with forward‑looking interventions, giving listeners a clear set of actionable tools: written processing, self‑care basics, and a roadmap for integrating novel treatments. The episode’s value lies in its dual role as a guide and a call to action, inviting listeners to move beyond passive listening toward active recovery. It challenges the stigma surrounding trauma treatment and reframes it as a scientifically grounded, accessible journey.",
+    "summary_zh": "在Huberman实验室的这一集，Paul Conti博士深入剖析创伤的神经心理学，阐释罪疚与羞耻如何与创伤交织，并提供实用的疗程选择与自我处理工具。特别提及MDMA辅助心理治疗的前景，强调创伤处理是康复的关键。内容兼具循证医学与前沿技术，为听众提供可操作的自我疗愈路径，呼吁公众正视创伤治疗的科学性与可达性。",
+    "best_quote_en": "Processing trauma is essential for healing.",
+    "best_quote_zh": "处理创伤是康复的关键。"
+  },
+  {
+    "id": 859,
+    "title": "From Primary Wave’s Kobalt acquisition to CVC’s DistroKid deal… it’s MBW’s weekly round-up",
+    "title_zh": "从 Primary Wave 的 Kobalt 收购到 CVC 的 DistroKid 交易… MBW 的每周综述",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/from-primary-waves-1-5bn-kobalt-takeover-to-cvcs-distrokid-deal-its-mbws-weekly-round-up/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-10",
+    "summary_en": "MBW’s latest roundup distills a whirlwind of industry momentum: Primary Wave’s $1.5 billion takeover of Kobalt reshapes the rights‑management landscape, while CVC Capital’s majority stake in DistroKid signals a new era of independent‑artist empowerment. The piece also highlights Believe’s ambitious structural overhaul, positioning it as a single global artist‑development engine, and Suno’s strategic hires that hint at a partnership‑driven AI‑generated music model. Yet the most provocative thread is the RIAA/IFPI initiative to tag AI‑made tracks on streaming platforms, foregrounding the ethical and economic questions that accompany generative music. This analysis underscores how capital, technology, and policy converge, offering a roadmap for stakeholders navigating the next wave of music commerce. The narrative invites readers to interrogate the balance between creative autonomy and corporate control, and to anticipate how AI labeling could redefine value and ownership in the digital era.",
+    "summary_zh": "MBW 的每周综述汇聚了行业热潮：Primary Wave 以 15 亿美元收购 Kobalt 改变版权管理格局，CVC 对 DistroKid 的控股预示独立艺术家新纪元。Believe 的组织重组与 Suno 的 AI 人才引进暗示未来合作模式。RIAA 与 IFPI 推出的 AI 曲目标签提案则聚焦创作伦理与经济。文章揭示资本、技术与政策交织，映射音乐商业的未来方向，促使读者思考创作自由与企业控制的平衡，并预见 AI 标签可能重塑数字时代的价值与所有权。",
+    "best_quote_en": "The RIAA and IFPI are leading a music industry push to get AI‑made tracks labeled across the world’s streaming services.",
+    "best_quote_zh": "RIAA 和 IFPI 正在推动音乐行业在全球流媒体平台上为 AI 制作的曲目贴上标签。"
   }
 ]
