@@ -1,121 +1,5 @@
 [
   {
-    "id": 760,
-    "title": "A New Venture Animal",
-    "title_zh": "新型创业动物",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ycombinator.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "startup-funding",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "创业融资",
-      "深度分析"
-    ],
-    "date": "2026-06-19",
-    "summary_en": "In this reflective essay, Paul Graham demystifies the role of Y Combinator (YC) beyond the simplistic label of a seed‑funding entity. He argues that YC’s true value lies in providing intensive, hands‑on mentorship and rapid launch support—akin to a steam catapult—at a stage where money is negligible but guidance is critical. By dissecting the scaling dynamics of early‑stage startups, he illustrates how YC’s help-to‑money ratio is inverted compared to later‑stage VC rounds, enabling founders to focus on product, design, and market fit before raising capital. The narrative weaves personal anecdotes, such as the Viaweb experience, with broader industry observations to underscore YC’s unique niche: a bridge that turns raw technical talent into viable companies with minimal financial friction. The essay invites founders and investors alike to rethink early‑stage entrepreneurship as a distinct ecosystem, one that rewards risk with disproportionate upside and demands a different kind of venture architecture. It serves both as a guide for aspiring founders and an intellectual critique of conventional venture models, inspiring a re‑evaluation of what “funding” really means in the startup life cycle.",
-    "summary_zh": "保罗·格雷厄姆在这篇散文中揭示了 YC 的真正价值：不仅是种子融资，更是像蒸汽弹射器一样的快速启动与指导。通过对早期创业的规模与资源需求进行对比，他阐明 YC 的“帮助/金钱”比例与传统 VC 相反，帮助创始人先把产品、设计和市场做好，再融资。文中结合 Viaweb 经验与行业观察，指出 YC 形成了一个独特的生态位——把技术人才转化为可行公司，并通过低成本加速成长。它既是创始人指南，也是对传统风险投资模式的批判，启示我们重新思考早期创业的本质与价值。",
-    "best_quote_en": "\"What we really do at Y Combinator is get startups launched straight.\"",
-    "best_quote_zh": "\"我们真正做的是让创业公司直接起飞。\""
-  },
-  {
-    "id": 761,
-    "title": "Research agenda: Interpretive debate",
-    "title_zh": "研究议程：解释性辩论",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/onaSmiocXtBYG5BZZ/research-agenda-interpretive-debate",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "This paper proposes a rigorous, debate‑driven framework to tackle the notoriously fuzzy interpretive questions that haunt AI safety research—such as whether a model is scheming, lying, or introspective. By reframing these questions into contrastive hypotheses, recursively decomposing them, and demanding convergence across multiple instruments and compute‑indexed evidence, the authors aim to transform subjective speculation into a structured, evidence‑based epistemic infrastructure. The approach foregrounds defeasibility: a claim gains credibility only if it withstands adversarial scrutiny, thereby offering a scalable path toward calibrated uncertainty about latent model motivations. The paper not only details a one‑round manual demonstration on performative misalignment but also outlines a roadmap for iterative refinement, cross‑examination, and broader application across safety cases. Its significance lies in moving from ad‑hoc interpretability experiments to a principled, reproducible methodology that could become a cornerstone for future AI safety research and safety‑case construction.",
-    "summary_zh": "本文提出一种以辩论为核心的严谨框架，解决AI安全领域中模糊的解释性问题。通过对立假设、递归拆解和多工具收敛，形成可量化的证据基础，强调可驳斥性与计算索引。它的价值在于将主观推测转化为可重复的实证流程，为AI安全案例奠定方法论基础。",
-    "best_quote_en": "\"In the absence of ground truth for latent constructs like motivation, truth is not a property we verify against a reference but an epistemic status that survives adversarial challenge.\"",
-    "best_quote_zh": "“在缺乏对潜在构造如动机的客观真相时，真理不是我们对照参考验证的属性，而是能够经受对抗性挑战的认识状态。”"
-  },
-  {
-    "id": 762,
-    "title": "Donald Trump’s Iran Deal Is Israel’s Disaster",
-    "title_zh": "唐纳德·特朗普的伊朗协议是以色列的灾难",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/donald-trumps-iran-deal-is-israels-disaster",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-19",
-    "summary_en": "The piece dissects the seismic fallout of the U.S.–Iran deal for Israel, framing it as a strategic betrayal that threatens the nation’s security calculus and Netanyahu’s political survival. By weaving polling data, insider testimony, and geopolitical context, the author exposes how the agreement, which lifts sanctions and unlocks Iranian funds, simultaneously empowers a hard‑liner regime while sidelining Israel’s core concerns—nuclear enrichment and missile arsenals. The narrative underscores a profound rift between Trump and Netanyahu, spotlighting how domestic Israeli opinion has shifted from bipartisan support to a sharp decline in favorability toward the former U.S. president. The analysis invites readers to grapple with the paradox of a ceasefire that ends open conflict but potentially erodes Israel’s strategic edge, raising questions about alliance dynamics, regime change versus containment, and the limits of presidential influence in foreign policy. It is a timely, data‑driven critique that balances expert insight with a broader reflection on how diplomatic victories can become existential threats when core national interests are sidelined.",
-    "summary_zh": "文章揭示特朗普与伊朗协议对以色列的深远冲击，指出这不仅是一次停火，更是一次战略背叛，削弱了以色列的安全基础。通过民调、专家访谈与地缘政治分析，作者展示了协议如何释放伊朗资金、加强其硬核领导层，同时忽视核武与导弹问题，导致以色列在美以关系中被边缘化。文章还记录了国内舆论从支持转向对特朗普的强烈反感，凸显了政治联盟的脆弱与外交决策的双刃剑。",
-    "best_quote_en": "\"This agreement is a catastrophe for Israel,\" said Danny Citrinowicz, a former head of the Iran branch for Israel’s military intelligence.",
-    "best_quote_zh": "\"这项协议对以色列是灾难，\" 以色列国防情报伊朗分部前负责人丹尼·西特里诺维奇说。"
-  },
-  {
-    "id": 763,
-    "title": "Good Book Light/2 Free Checked Bags/Best Layover Airports",
-    "title_zh": "好书灯/免费托运行李/最佳中转机场",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/good-book-light-2-free-checked-bags-best-layover-airports/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "This compact newsletter stitches together four seemingly disparate yet practically valuable nuggets: a meticulously reviewed LED book light, an exhaustive World Cup player database, fresh airline alliance moves, and a data‑driven layover airport guide. The book‑light section showcases a thoughtful blend of usability and battery longevity, offering a low‑cost, high‑utility solution for travelers and night‑time readers alike. The World Cup database, sourced from a Guardian‑backed site, transforms a sprawling roster of players into a single, searchable resource—an invaluable tool for sports enthusiasts planning to catch games worldwide. Airline updates highlight strategic interline partnerships that broaden route networks without extra tickets, while Delta’s enhanced Amex perks deliver tangible value for frequent flyers. Finally, the layover report ranks airports by sleeping comfort and lounge accessibility, revealing that Asia’s hubs, especially Singapore’s Changi, dominate the list. Together, these segments provide actionable insights that empower readers to make smarter travel decisions and stay informed about emerging industry trends.",
-    "summary_zh": "这份简短通讯将四个看似无关但实用的内容拼接在一起：一款精心评测的LED书灯、完整的世界杯球员数据库、最新航空联盟动态以及基于数据的中转机场指南。书灯以低价高效满足旅行者和夜读者需求；世界杯数据库将海量球员信息整合为一站式查询，助力体育迷随时追踪比赛；航空更新揭示互联合作伙伴关系扩展航线网络，Delta Amex优惠提升出行价值；中转机场报告按睡眠舒适度和休息室可达性排序，亚洲枢纽尤其是新加坡樟宜占据榜首。整体内容为读者提供可操作的旅行建议，帮助他们更明智地规划行程并关注行业趋势。",
-    "best_quote_en": "Delta added a second free checked bag on domestic flights, in addition to the one for you and your companions.",
-    "best_quote_zh": "Delta在国内航班上增加了第二件免费托运行李，除了您和同伴的那件。"
-  },
-  {
-    "id": 764,
-    "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
-    "title_zh": "基础：通过研究支持的拉伸方案提升柔韧性",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-improve-flexibility-with-research-supported-stretching-protocols",
-    "tags": [
-      "analyze",
-      "science",
-      "health-wellness"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "健康养生"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Andrew Huberman delves into the intricate biology behind human flexibility, dissecting how muscles, nerves, connective tissues, and even specialized neurons like von Economo neurons influence our range of motion. He distinguishes between dynamic, ballistic, static, and proprioceptive neuromuscular facilitation (PNF) stretching, offering evidence‑backed guidance on which methods yield the most gains. The discussion extends to timing—when to stretch relative to exercise, how often, and at what intensity—to optimize performance and mitigate age‑related decline. Practical tools such as the Anderson Method, micro‑stretching, and static stretching protocols are unpacked, complete with frequency recommendations. Huberman’s tone blends scientific rigor with actionable take‑aways, making the content valuable for athletes, clinicians, and anyone seeking to improve mobility through data‑driven practice. The episode underscores that flexibility is not a passive trait but a modifiable system that responds to targeted, research‑based interventions, highlighting the broader implication that mindful movement can enhance overall health and longevity.",
-    "summary_zh": "Huberman 详细阐述柔韧性背后的生物学，区分不同拉伸方式，并给出基于研究的具体方案与频率建议，帮助读者通过科学方法提升运动表现与抗衰老。",
-    "best_quote_en": "Understanding the biology of flexibility allows us to tailor stretching protocols that maximize performance and counteract age‑related loss.",
-    "best_quote_zh": "了解柔韧性的生物学使我们能够量身定制拉伸方案，最大化表现并抵消年龄相关的退化。"
-  },
-  {
     "id": 765,
     "title": "Unchickenous Apricot Berry Cake",
     "title_zh": "Unchickenous Apricot Berry Cake",
@@ -2350,5 +2234,123 @@
     "summary_zh": "MBW 的每周综述汇聚了行业热潮：Primary Wave 以 15 亿美元收购 Kobalt 改变版权管理格局，CVC 对 DistroKid 的控股预示独立艺术家新纪元。Believe 的组织重组与 Suno 的 AI 人才引进暗示未来合作模式。RIAA 与 IFPI 推出的 AI 曲目标签提案则聚焦创作伦理与经济。文章揭示资本、技术与政策交织，映射音乐商业的未来方向，促使读者思考创作自由与企业控制的平衡，并预见 AI 标签可能重塑数字时代的价值与所有权。",
     "best_quote_en": "The RIAA and IFPI are leading a music industry push to get AI‑made tracks labeled across the world’s streaming services.",
     "best_quote_zh": "RIAA 和 IFPI 正在推动音乐行业在全球流媒体平台上为 AI 制作的曲目贴上标签。"
+  },
+  {
+    "id": 860,
+    "title": "Why to Not Not Start a Startup",
+    "title_zh": "",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/notnot.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 861,
+    "title": "Easy Whole Set Dances With a Hook",
+    "title_zh": "Easy Whole Set Dances With a Hook",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/PAvjpADicegDbD8ws/easy-whole-set-dances-with-a-hook",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "The post is a practical guide for dance callers seeking to design or curate whole‑set dances that are both simple enough for quick learning and engaging enough to avoid repetition. The author outlines clear criteria: low figure count, tight alignment with musical phrases, and the inclusion of a distinctive “hook” that sets one dance apart from the rest. By referencing specific examples—Jacob’s Potato, Low‑Backed Car, Charge and Drag—and describing their unique moves, he illustrates how a single building block can be transformed into a memorable moment. He also shares his own additions, such as Witch’s Reel and Falling Masonry, and hints at future adaptations like a zig‑zag poussette. The article balances theory with actionable tips, offering a framework that can be applied to any space‑limited setting and accommodating varying numbers of couples. It invites readers to experiment, adapt, and ultimately create a repertoire that feels fresh and approachable for both novices and seasoned dancers alike.",
+    "summary_zh": "作者分享了设计简易全场舞蹈的思路，强调低动作数、与音乐紧密配合以及独特“钩子”元素，既便于快速教学，又能避免重复。通过实例与个人创作，提供实用框架，鼓励读者在空间有限、人数多变的场合中进行实验与创新。",
+    "best_quote_en": "I want to be able to teach it in a single fast‑paced walkthrough, match it tightly to the musical phrase, and be able to drop out after a few times through.",
+    "best_quote_zh": "我想能够用一次快速的演练来教授它，紧密匹配音乐片段，并在几次后能退出。"
+  },
+  {
+    "id": 862,
+    "title": "Can Office-to-Residential Conversions Survive the Pfizer-Building Crisis?",
+    "title_zh": "办公室转住宅改造能否在派福赛大楼危机中存活？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-office-to-residential-conversions-survive-the-pfizer-building-crisis",
+    "tags": [
+      "analyze",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-11",
+    "summary_en": "The article dissects the precarious pivot of office-to-residential conversions amid New York’s housing crunch, using the Pfizer building incident as a case study. It highlights Nathan Berman’s aggressive, high‑yield model—adding floors on top of existing cores, cutting labor, and slashing costs—to meet soaring demand. The crisis reveals systemic vulnerabilities: unregulated contractors, rushed structural changes, and a culture of “high‑wire” engineering that prioritizes profit over safety. Berman’s dismissal of concerns and the city’s reactive reinforcement underscore the tension between rapid densification and regulatory oversight. The piece critically evaluates whether the conversion model can survive post‑crisis scrutiny, noting that future projects may face higher premiums, stricter inspections, and reputational damage. It invites readers to question the sustainability of a model that trades architectural integrity for market efficiency, and to consider the broader implications for urban planning, safety culture, and equitable housing policy in a metropolis on the brink of a new housing paradigm.",
+    "summary_zh": "文章以派福赛大楼危机为例，剖析纽约办公楼改住宅的高风险模式。主角纳森·伯曼的“加楼”策略在满足住房需求的同时，却忽视安全与监管。危机暴露出承包商失误、结构改造过快以及追求利润的高空工程文化。文章批判性地评估该模式在危机后是否能存活，警示未来项目可能面临更高成本与监管压力。它让读者思考在追求经济效率与城市安全之间的平衡，以及对纽约住房公平与规划的深远影响。",
+    "best_quote_en": "\"You add more load to something that can’t support it,\" Berman told The Real Deal, after the buckling at Pfizer.",
+    "best_quote_zh": "\"如果每磅的价格合适，我就说‘来吧’。\""
+  },
+  {
+    "id": 863,
+    "title": "Book Freak #217: The Nature of the Physical World",
+    "title_zh": "书评 #217：物理世界的本质",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-217-the-nature-of-the-physical-world/",
+    "tags": [
+      "inspire",
+      "science",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-07-10",
+    "summary_en": "This piece distills Eddington’s mind‑centric physics into a compelling narrative that challenges our entrenched notion of a solid, material reality. By juxtaposing the tactile table with the largely empty quantum substrate, it invites readers to hold dual truths simultaneously, thereby destabilising certainty. The author frames mind not as an emergent property but as the foundational substrate, a radical ontological shift that blurs the boundary between observer and observed. For those fascinated by the philosophical implications of quantum mechanics, the text offers a thought‑experiment that is both intellectually rigorous and accessible. It pushes the reader to re‑examine everyday experience, questioning whether the “stuff” we interact with is merely a convenient illusion. The reflective exercises at the end reinforce this re‑orientation, making the content actionable beyond theoretical musing. Ultimately, the article serves as a bridge between complex physics and contemplative inquiry, inspiring a deeper appreciation of the mind’s role in constituting reality.",
+    "summary_zh": "Eddington的思想实验让我们同时看到桌子既是实体又是空洞，提醒我们现实的本质远比我们想象的更像是意识的影子。它不仅挑战物理学传统，还鼓励我们把意识视为最直接的存在，从而重新审视日常经验的真实性。",
+    "best_quote_en": "\"It is difficult for the matter‑of‑fact physicist to accept the view that the substratum of everything is of mental character. But no one can deny that mind is the first and most direct thing in our experience, and all else is remote inference.\"",
+    "best_quote_zh": "“物理学家很难接受一切事物的基底是精神的。但没有人能否认，心灵是我们经验中最直接的东西，其他一切都是远程推断。”"
+  },
+  {
+    "id": 864,
+    "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+    "title_zh": "打造肌肉与力量，开创人生道路 | Dorian Yates",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/build-muscle-and-strength-and-forge-your-life-path-dorian-yates",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "Through a candid conversation with Dorian Yates, the former Mr. Olympia, the episode distills high‑intensity, low‑volume training into a practical, time‑efficient blueprint that anyone can follow. Yates demystifies the myth that massive gains require endless hours in the gym, revealing that disciplined, brief sessions—two to three days a week—can generate significant muscle growth and strength while also reshaping mindset and appearance. Beyond the gym, he maps a life‑path framework: identifying natural strengths, aligning passions, and choosing a trajectory that feels authentic. The discussion weaves in his personal transformation, the psychological power of psychedelics, and evidence‑based perspectives on cannabis and longevity. By interlacing anecdote, research, and actionable advice, Yates offers a holistic guide that empowers listeners to re‑engineer both body and purpose. Whether a seasoned athlete or a beginner, the episode delivers a compelling call to action: train smarter, think strategically, and craft a life that reflects your deepest values.",
+    "summary_zh": "与前奥林匹亚先生多里安·叶特斯的访谈揭示，高强度低量训练可在两三天、不到一小时内显著提升肌肉与力量。叶特斯进一步阐释人生路径：识别天赋、追随热情、选择合乎本心的道路。节目融合个人蜕变、迷幻药与大麻的科学视角，提供从健身到心态的全方位行动指南。无论你是健身新手还是老手，核心信息是：训练更高效、思考更战略、生活更有价值。",
+    "best_quote_en": "Anyone can vastly improve their fitness, mindset and appearance by training with weights just two or three days per week for less than an hour.",
+    "best_quote_zh": "任何人只需每周两三天、不到一小时的举重训练，就能显著提升体能、心态和外观。"
   }
 ]
