@@ -1,121 +1,5 @@
 [
   {
-    "id": 765,
-    "title": "Unchickenous Apricot Berry Cake",
-    "title_zh": "Unchickenous Apricot Berry Cake",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JtkR9aDd3m2CeRi3J/unchickenous-apricot-berry-cake",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-06-20",
-    "summary_en": "The post is a personal culinary experiment that blends veganism, precision‑fermented egg whites, and a community‑focused approach to baking. Jeff TK confronts the common disappointment of vegan desserts by showcasing a recipe that mimics the texture and flavor of a traditional cake while remaining plant‑based. The narrative frames the cake as a social catalyst—an “effective altruism dinner” that balances dietary ethics with taste. Practical details such as sourcing bulk fruit at Haymarket, precise measurements, baking temperatures, and ingredient substitutions are shared, making the recipe both actionable and replicable. The article invites readers to re‑imagine vegan baking as an inclusive, delicious, and sustainable practice, encouraging experimentation with new techniques like precision‑fermented egg whites. Its tone is conversational yet informative, offering a recipe that is accessible to beginners while hinting at advanced substitutions for seasoned bakers. This piece serves as a guide to rethinking plant‑based desserts, a call to community, and a testament to the evolving landscape of vegan gastronomy.",
-    "summary_zh": "这篇文章把无蛋糕的实验与社区烘焙结合起来，展示了精酿蛋白如何让素食甜点也能口感出众。作者通过在哈伊市场大量采购水果、精准温度与配方细节，提供了可操作的做法，并鼓励读者用新技术重塑素食烘焙。",
-    "best_quote_en": "I made an eggless cake last weekend that was indistinguishable from the summer cakes we'd eat growing up.",
-    "best_quote_zh": "我上周末做了一个无蛋糕，味道几乎和我们小时候吃的夏季蛋糕无异。"
-  },
-  {
-    "id": 766,
-    "title": "How the Trump Administration Pushed Judges to Deport Children",
-    "title_zh": "",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-the-trump-administration-pushed-judges-to-deport-children",
-    "tags": [
-      "solve",
-      "legal",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "法律法规",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-06-20",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 767,
-    "title": "Essentials: Using Light to Optimize Health",
-    "title_zh": "要点：用光优化健康",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-light-to-optimize-health",
-    "tags": [
-      "guide",
-      "medicine"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康"
-    ],
-    "date": "2026-02-26",
-    "summary_en": "In this episode of Huberman Lab Essentials, Andrew Huberman dissects the science of light—its wavelengths, physics, and biological impact—into a practical guide for everyday wellness. He explains how blue light and seasonal sun exposure regulate melatonin, improve sleep, and boost mood, while UVB light can enhance pain tolerance, immune function, and even fertility hormones. The discussion extends to infrared and red light therapies that accelerate wound healing, stimulate mitochondrial function, and counter age‑related vision decline. Huberman provides concrete protocols: daily sunlight windows, blue‑blocker use, UVB‑safe exposure schedules, and red‑light frequency‑timing guidelines for shift workers. The episode blends mechanistic detail with actionable tools, making complex photobiology accessible to both novices and seasoned health enthusiasts. The content is a compelling fusion of cutting‑edge research and real‑world application, encouraging listeners to harness light as a low‑cost, high‑impact intervention for mental and physical health.",
-    "summary_zh": "Huberman 在本期节目中将光的物理与生物学原理拆解成可操作的健康指南。他阐述蓝光与季节性日照如何调节褪黑激素，提升睡眠与情绪；UVB 光可增强痛耐、免疫与生殖激素；红光与红外光则加速伤口愈合、激活线粒体并抵御视力衰退。节目提供每日日照窗口、蓝光阻断、UVB 安全曝光与红光频率时序等具体方案，既有理论深度又兼具实用性。",
-    "best_quote_en": "UVB light can improve pain tolerance, boost immune function, and even influence fertility hormones.",
-    "best_quote_zh": "UVB 光可以提高疼痛耐受力，增强免疫功能，甚至影响生殖激素。"
-  },
-  {
-    "id": 768,
-    "title": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/18/sebastian-mallaby-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-06-19",
-    "summary_en": "In this deep dive, Tim Ferriss interviews Sebastian Mallaby, author of \"The Infinity Machine,\" to unpack the evolving landscape of artificial intelligence and the race toward superintelligence. Mallaby draws on interviews with over a hundred AI insiders, revealing how breakthroughs—from AlphaGo to AlphaFold—have reshaped the field. He discusses the tension between rapid innovation and the need for safety, noting how religious language often surfaces when people grapple with AI’s existential implications. The conversation also covers geopolitical dynamics, especially U.S.–China AI competition and the role of government regulation. Mallaby’s insights highlight the importance of strategic foresight: he advocates for a “prepared mind” to navigate the accelerating pace of AI, stressing that while tools can augment cognition, they should not replace human agency. The episode blends technical depth with actionable advice for investors, policymakers, and curious listeners alike.",
-    "summary_zh": "在这期节目中，Tim Ferriss 采访了《无限机器》作者 Sebastian Mallaby，深入探讨人工智能的演进与超智能竞赛。Mallaby 结合百余位 AI 内部人士访谈，揭示 AlphaGo、AlphaFold 等突破如何重塑行业，并讨论技术创新与安全需求的张力。他指出，面对 AI 的存在意义，人们常用宗教语言来形容。对美中 AI 竞争与政府监管的讨论亦十分关键。Mallaby 强调“准备好思维”，以应对 AI 加速发展，提醒工具虽能增强认知，却不应取代人类主体。节目兼具技术深度与可操作建议，适合投资者、政策制定者与好奇者。",
-    "best_quote_en": "Prepare your mind.",
-    "best_quote_zh": "准备好你的思维。"
-  },
-  {
-    "id": 769,
-    "title": "From Lionel Richie’s voice trademark bid to the Michael Jackson biopic box-office record… it’s MBW’s Weekly Round-up",
-    "title_zh": "",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/from-lionel-richies-voice-trademark-bid-to-the-michael-jackson-biopics-911m-box-office-record-its-mbws-weekly-round-up/",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-06-19",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
     "id": 770,
     "title": "Trolls",
     "title_zh": "网络喷子",
@@ -2352,5 +2236,121 @@
     "summary_zh": "与前奥林匹亚先生多里安·叶特斯的访谈揭示，高强度低量训练可在两三天、不到一小时内显著提升肌肉与力量。叶特斯进一步阐释人生路径：识别天赋、追随热情、选择合乎本心的道路。节目融合个人蜕变、迷幻药与大麻的科学视角，提供从健身到心态的全方位行动指南。无论你是健身新手还是老手，核心信息是：训练更高效、思考更战略、生活更有价值。",
     "best_quote_en": "Anyone can vastly improve their fitness, mindset and appearance by training with weights just two or three days per week for less than an hour.",
     "best_quote_zh": "任何人只需每周两三天、不到一小时的举重训练，就能显著提升体能、心态和外观。"
+  },
+  {
+    "id": 865,
+    "title": "Are middle-aged women really invisible? I see them everywhere – and not just in the mirror | Emma Beddington",
+    "title_zh": "中年女性真的无形吗？我在镜子里看到她们——以及更多",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/12/are-middle-aged-women-really-invisible-i-see-them-everywhere-and-not-just-in-the-mirror",
+    "tags": [
+      "inspire",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "The Guardian column by Emma Beddington interrogates the cultural myth of the \"invisible middle‑aged woman,\" weaving personal anecdote, celebrity testimony, and market data into a sharp critique of ageism and sexism. Beddington juxtaposes the public visibility of high‑profile figures—Gillian Anderson, Rose Byrne, Melinda Gates—with the lived invisibility many women experience daily. By citing L’Oréal’s campaign, Age Without Limits research, and philanthropic investments in menopause and ovarian cancer, the article exposes how commercial interests and scientific neglect conspire to marginalise a substantial consumer group. The piece is not merely lamenting; it calls for systemic change—more representation, funding, and agency for mid‑life women. The author’s tone oscillates between sardonic humor and earnest advocacy, making the argument relatable while maintaining intellectual rigor. The article’s core insight is that visibility is a function of cultural and financial capital, and that the promise of empowerment for a few can mask persistent inequality for the many. It challenges readers to reconsider how age and gender intersect in public perception and economic opportunity, urging a shift from token visibility to substantive inclusion.",
+    "summary_zh": "Beddington用个人轶事与名人证词揭示中年女性被视作无形的社会现象，并指出商业与科研忽视导致的深层不平等。她呼吁真正的包容与资源投入，提醒读者关注年龄与性别交叉的公共认知与经济机会。",
+    "best_quote_en": "\"Women over 50 are disappearing,\" she says. \"You’re noticed, you’re needed, you’re whistled at, you’re even hit on, and then: poof! A few years later, you don’t exist.\"",
+    "best_quote_zh": "“五十岁以上的女性正在消失，”她说。“你被注意，你被需要，你被吹嘘，甚至被追求，随后：咻！几年后，你不再存在。”"
+  },
+  {
+    "id": 866,
+    "title": "Is It Worth Being Wise?",
+    "title_zh": "值得拥有智慧吗？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wisdom.html",
+    "tags": [
+      "inspire",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "The essay navigates the nuanced distinction between wisdom and intelligence, proposing that wisdom reflects consistent, high‑average decision quality across diverse situations, while intelligence captures peak performance in specialized contexts. The author critiques conventional wisdom that equates the two, arguing instead that experience and reflective disposition shape wisdom, whereas innate predispositions and problem‑solving drive intelligence. He observes a historical shift: as knowledge has proliferated, the curve of human capability has expanded, causing wisdom and intelligence to diverge. The piece warns that modern educational and societal systems, which reward spectacular peaks, may undervalue the steady, universal benefits of wisdom—calm, contentment, and ethical judgment. By dissecting ancient philosophical ideals and contemporary work practices, the essay invites readers to reconsider how we cultivate learning, recognize the complementary yet distinct paths to knowledge, and accept that discontent may be an inherent feature of creative, high‑intensity work rather than a flaw. This reflective analysis encourages a balanced pursuit of both attributes, highlighting the importance of intentional design in education and professional development.",
+    "summary_zh": "作者以古今对比，阐释智慧与智力的根本差别：智慧是多情境中平均高效的决策能力，智力则是对少数情境的顶尖表现。随着知识扩张，二者渐行渐远，教育与社会对“天才”更为推崇，导致智慧被忽视。文章提醒我们，创作性工作常伴随不满与焦虑，亦是成长必经。要在教育与职业中兼顾两者，既需培养经验与反思，又需激发好奇与挑战，才能实现全面发展。",
+    "best_quote_en": "\"A wise person knows what to do in most situations, while a smart person knows what to do in situations where few others could.\"",
+    "best_quote_zh": "“智者在大多数情境中知道该怎么做，而聪明人则在少数人能做到的情境中知道该怎么做。”"
+  },
+  {
+    "id": 867,
+    "title": "An Epistemic Audit for Existential Risks from AI",
+    "title_zh": "AI存在风险的认知审计",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/aHJ8MkPTWPDnuFLRL/an-epistemic-audit-for-existential-risks-from-ai",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "Alexander Müller’s post introduces a systematic framework—an Epistemic Audit—for assessing existential risks posed by artificial intelligence. The audit dissects the causal chain from capability development to misalignment, deployment, and catastrophic outcomes, mapping each stage into a series of concrete, falsifiable questions. By assigning uncertainty levels (low/medium/high) and directional trends (rising/stable/falling), the tool transforms abstract fears into measurable, actionable metrics. The author emphasizes the audit’s dual role: personal introspection and collective data aggregation, enabling longitudinal studies that can reveal which uncertainties most influence overall risk estimates. This approach democratizes risk analysis, allowing researchers, policymakers, and informed citizens to prioritize research agendas, identify knowledge gaps, and track progress over time. The post also contextualizes the audit within existing literature, acknowledges its limitations, and invites iterative refinement. Its significance lies in turning existential risk assessment from speculative rhetoric into a disciplined, evidence‑driven practice that can guide both scientific inquiry and governance.\n\n",
+    "summary_zh": "作者提出的“认知审计”把AI存在风险拆解成可量化问题，鼓励个人记录不确定性并聚合数据，既可自我反思也能推动集体研究。",
+    "best_quote_en": "“By giving everyone the same numbered framework and the same three‑point uncertainty scale, the tool creates a shared language for discussing cruxes rather than conclusions.”",
+    "best_quote_zh": "“通过给每个人相同的编号框架和相同的三点不确定性刻度，工具为讨论关键点而非结论创造了共享语言。”"
+  },
+  {
+    "id": 868,
+    "title": "Rope-a-Dope",
+    "title_zh": "绳索对抗毒品",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/20/rope-a-dope",
+    "tags": [
+      "learn",
+      "medicine",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "The New Yorker’s “Rope‑a‑Dope” follows a fringe Olympics for steroid users in Las Vegas, turning a spectacle into a cultural critique of doping, ethics, and biotech entrepreneurship. By weaving interviews with a Russian bodybuilder, the founder Aron D’Souza, WADA officials, and philosophers, the piece exposes the blurry line between ‘fair play’ and human enhancement. It questions the adequacy of the current anti‑doping framework, suggesting a model grounded in FDA approval and health risk assessment that could coexist with the pursuit of longevity, brain‑computer interfaces, and other transhumanist ambitions. The narrative balances a sardonic view of the hype with a sober reflection on how performance‑enhancing drugs could reshape sports, medicine, and societal values—calling for a more inclusive, transparent ecosystem where ambition and safety can coexist.",
+    "summary_zh": "《绳索对抗毒品》以一场在拉斯维加斯举行的“增强游戏”为舞台，探讨了运动员使用兴奋剂的伦理、商业与科技交叉点。作者通过采访俄罗斯健美运动员、D’Souza创始人、WADA官员等，揭示了兴奋剂既是“公平”与“人性”的两难，也是“资本主义创新”的实验场。文章批判传统禁药框架的模糊性，提出以FDA审批为准绳、以健康风险为衡量的可行模式，并将此与延寿、脑机接口等未来趋势相连。它既是对现行反兴奋剂政策的深度反思，也是对人类极限潜能的大胆设想，呼唤更具包容性与透明度的体育生态。",
+    "best_quote_en": "It is cheating that is consistent, in so many ways, with the spirit of self‑actualization, creativity, and achievement that is the mark of all sports.",
+    "best_quote_zh": "这是一种与自我实现、创造力和成就精神高度一致的作弊方式，这正是所有体育的标志。"
+  },
+  {
+    "id": 869,
+    "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
+    "title_zh": "",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
+    "tags": [
+      "solve",
+      "psychology",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
