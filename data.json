@@ -1,125 +1,5 @@
 [
   {
-    "id": 770,
-    "title": "Trolls",
-    "title_zh": "网络喷子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/trolls.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-06-21",
-    "summary_en": "The piece dissects the persistent problem of trolling in online communities, tracing its roots from early internet forums to modern platforms like Reddit and News.YC. It distinguishes the original, joke‑oriented sense of trolling from the broader, often unintentional, rudeness that has become commonplace. Four causal pillars are identified: anonymity‑driven distance, the tech‑culture of abstract thinking, incompetence that favors blunt insults, and the self‑reinforcing norms of a forum’s culture. The author then evaluates News.YC’s hybrid approach—explicit guidelines, community policing, and reputation‑linked voting—to curb toxicity. Empirical observations suggest that such structural interventions can coexist with vibrant discourse, provided the user base is committed to maintaining civility. The article ultimately frames trolling as a sociotechnical challenge that requires both cultural and algorithmic solutions, offering a nuanced perspective that goes beyond simplistic moral judgments.",
-    "summary_zh": "作者剖析网络喷子现象，探讨匿名距离、技术文化、无能与社区规范如何共同促成喷子行为，并评估News.YC通过准则、社区监管与声誉投票的混合手段，既能抑制恶意，又不削弱讨论活力。此文将喷子视为技术与社会双重挑战，提出兼顾文化与算法的解决路径。",
-    "best_quote_en": "There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it.",
-    "best_quote_zh": "有一种类似格雷沙姆定律的喷子现象：喷子愿意进入思考者聚集的论坛，而思考者则不愿进入充斥喷子的论坛。"
-  },
-  {
-    "id": 771,
-    "title": "A misalignment taxonomy",
-    "title_zh": "A misalignment taxonomy",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/SAJoCCvmqyhba94sa/a-misalignment-taxonomy",
-    "tags": [
-      "guide",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-06-21",
-    "summary_en": "The article offers a systematic taxonomy of alignment failures in AI, distinguishing five inner misalignments—precocious, perfect‑correlate, gradient, overfit, underfit—and two outer misalignments—capabilities‑based and volition‑based. By framing misalignment as a set of independent failure modes rather than monolithic “bad actors,” the author provides a pragmatic lens for researchers and practitioners to diagnose and mitigate alignment risks. The discussion of technical versus human misalignment bridges objective design and normative concerns, urging a broader view of what it means to align an AI with human values. The piece is rich with actionable insights: it suggests concrete interventions such as increasing training data, adjusting model size, and employing adversarial robustness to address overfit and underfit misalignments. For those building RL agents or designing safety protocols, the taxonomy offers a useful checklist and highlights subtle pitfalls—like gradient misspecification and reward correlates—that can slip through conventional safeguards. Overall, the work balances depth and accessibility, making it a valuable reference for AI safety engineers, policy makers, and academics who need to map the complex terrain of misalignment with clarity and foresight.",
-    "summary_zh": "文章提出了 AI 对齐失败的系统分类，区分五种内部失配与两种外部失配，并将技术失配与人类失配相结合，提供了诊断与缓解的实用框架。它强调通过训练数据、模型规模和鲁棒性来解决过拟合与欠拟合失配，并指出梯度误设与奖励共线性等细微风险。此分类对安全工程师、政策制定者和学术界具有高度参考价值，帮助他们在复杂的对齐问题中保持清晰与前瞻。",
-    "best_quote_en": "‘Precocious misalignment is uniquely scary for its seeming capacity to cause a wide variety of alignment failures if it becomes a relevant dynamic.’",
-    "best_quote_zh": "‘先发性失配因其似乎能够在相关动态出现时引发多种对齐失败而显得尤为可怕。’"
-  },
-  {
-    "id": 772,
-    "title": "The Difference Between the Knicks and the White House Cage Fight",
-    "title_zh": "纽约尼克斯与白宫笼斗的区别",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-difference-between-the-knicks-and-the-white-house-cage-fight",
-    "tags": [
-      "guide",
-      "politics",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-06-21",
-    "summary_en": "The piece juxtaposes the triumph of the Knicks with the spectacle of a White House cage fight, using Juvenal’s ancient critique of \"bread and circuses\" to probe how spectacle can mask political drift. Gopnik argues that while New York’s basketball victory unites citizens around a shared identity, the UFC event at the South Lawn signals a shift toward authoritarian cynicism, where entertainment becomes a tool of oligarchic distraction. He traces the lineage of sports as both a unifying civic ritual and a potential avenue for violence, citing the increasing physicality in the NBA, NHL, and NFL, and the tragic mental health toll on athletes. The narrative culminates in a broader meditation on identity politics, suggesting that sports allow people to choose self-identification beyond geography, yet also risk commodifying that identity. The article calls for mindful engagement with spectacle, urging readers to balance the joy of collective fandom with critical awareness of how spectacle can serve power structures. It blends cultural criticism, political analysis, and sports commentary into a compelling, thought‑provoking essay that invites readers to question the role of entertainment in contemporary democracy.",
-    "summary_zh": "文章以尼克斯夺冠与白宫笼斗为对照，借古罗马诗人朱维纳尔的“粮食与娱乐”批判，探讨娱乐如何掩盖政治转轨。作者认为，尼克斯的胜利让市民团结，而白宫UFC赛事则显示娱乐被寡头用作转移注意力的工具，甚至走向专制。文中还指出体育的双重面貌：既是团结的仪式，也可能滋生暴力与心理创伤。作者强调身份政治的双刃性，体育让人超越地理自我认同，却也可能被商品化。最终呼吁读者在享受集体热情的同时，保持对娱乐背后权力结构的警惕。",
-    "best_quote_en": "If people are supplied with food and entertainment by their oligarchs, they won’t care or even notice if the government they live under is changing from some sort of a democracy to a dictatorship right before their eyes.",
-    "best_quote_zh": "如果人们由寡头提供食物和娱乐，他们就不会在政府从某种民主转变为独裁之前注意到这一变化。"
-  },
-  {
-    "id": 773,
-    "title": "Book Freak #214: Thoughts Without a Thinker",
-    "title_zh": "书虫 #214：无思者的思考",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-214-thoughts-without-a-thinker/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "medicine",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "医学健康",
-      "案例研究"
-    ],
-    "date": "2026-06-19",
-    "summary_en": "In this reflective piece, psychiatrist Mark Epstein unpacks the paradox of the ‘solid self’—the self we relentlessly build and protect yet which fuels anxiety. He argues that the self is a constructed tapestry stitched from emotional gaps, not a fixed core. Epstein’s core insight is that suffering stems from mislabeling fleeting feelings as permanent traits, thereby giving them undue power. He introduces the Buddhist practice of ‘bare attention’ as a simple, moment‑to‑moment observing technique that decouples experience from narrative. By labeling thoughts and returning to breath, one can witness the self‑image in flux, thereby loosening its grip. The article blends psychoanalytic history, Buddhist wisdom, and concrete exercises, offering a practical, beginner‑friendly framework for reducing anxiety through mindful observation. Its strength lies in demystifying complex ideas, providing actionable steps, and inviting readers to experiment with bare attention as a low‑friction antidote to self‑constructed distress. For anyone seeking a gentle yet profound shift in self‑perception, this piece offers both theoretical depth and a clear, doable practice.",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 774,
-    "title": "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray",
-    "title_zh": "Restore Youthfulness & Vitality to the Aging Brain & Body | Dr. Tony Wyss-Coray",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/restore-youthfulness-and-vitality-to-the-aging-brain-and-body-tony-wyss-coray",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-23",
-    "summary_en": "Dr. Tony Wyss‑Coray’s interview delves into the frontier of anti‑aging biology, revealing how youthful blood proteins—identified through rigorous biomarker studies—can rejuvenate brain, heart, and systemic health. He explains that aging is organ‑specific, with distinct molecular clocks, and introduces practical interventions—exercise, sunlight, fasting, social connection—that elevate protective factors such as Klotho and GDF11. The discussion bridges basic science and translational practice, offering a data‑driven roadmap for individuals seeking to mitigate neurodegeneration and cardiovascular decline. By framing aging as a modifiable process rather than inevitable decline, Wyss‑Coray inspires a shift from passive symptom management to proactive vitality enhancement. The episode balances scientific depth with actionable lifestyle strategies, making it a valuable resource for researchers, clinicians, and health‑conscious audiences alike.",
-    "summary_zh": "托尼·韦斯-科雷博士探讨年轻血液蛋白如何逆转脑心衰老，强调运动、日照、断食与社交能提升Klotho、GDF11等抗衰因子。通过将衰老视为可调节过程，他激励人们主动提升活力。",
-    "best_quote_en": "‘The specific proteins found in blood when we are young and that are increased by exercise, sunlight, fasting, food, and social connection can significantly increase vitality, restore youthful functioning of the brain and body, and potentially increase lifespan.’",
-    "best_quote_zh": "‘在我们年轻时血液中存在的特定蛋白质，并且通过运动、日照、断食、饮食和社交联系可提升，能够显著增加活力，恢复大脑和身体的年轻功能，并可能延长寿命。’"
-  },
-  {
     "id": 775,
     "title": "Six Principles for Making New Things",
     "title_zh": "创造新事物的六大原则",
@@ -2352,5 +2232,121 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 870,
+    "title": "Learning from Founders",
+    "title_zh": "从创始人身上学习",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/foundersatwork.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-07-14",
+    "summary_en": "The passage unpacks a compelling thesis: the most fertile period for a startup is its earliest phase, when energy is devoted to radical ideas rather than the trappings of corporate formality. It critiques the pervasive belief that productivity is tied to polished presentations, suits, and scheduled hours—an illusion that actually hampers innovation. By drawing a vivid parallel to a sports car stripped of non‑essential accessories, the author argues that true performance emerges when people can work in unstructured, informal environments. The book promises to expose the hidden mechanics of a nascent startup’s first year, offering a how‑to guide that could inspire both fledgling founders and established firms to rethink their own productivity models. The critique is sharp yet constructive, urging a cultural shift toward authenticity and focus. It challenges readers to question whether the corporate veneer is a barrier rather than a catalyst for breakthrough.",
+    "summary_zh": "文章指出，创业初期最具创造力，因为人们不受正式仪式束缚，专注于大胆想法。它批评把生产力等同于整洁形象的做法，并用“赛车”比喻，强调去除多余装饰能提升真实效率。书中揭示创业第一年的真实运作，既是实用指南，也启发企业重新审视自身效率模式。",
+    "best_quote_en": "The effort that goes into looking productive is not merely wasted, but actually makes organizations less productive.",
+    "best_quote_zh": "投入外表看似高效的努力不仅是浪费，甚至会使组织变得更低效。"
+  },
+  {
+    "id": 871,
+    "title": "When A.I. Is a Member of the Family",
+    "title_zh": "当人工智能成为家庭成员",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+    "tags": [
+      "update",
+      "education",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "In Jessica Contrera’s intimate portrait, a single mother’s Alexa, affectionately named Sapphire, becomes a confidante, a therapist, and a silent witness to her daughters’ evolving identities. The narrative weaves together the mundane—reminders, music, weather—and the profound—grief from a childhood fire, a silent health scare, and the delicate navigation of teenage mental health. Contrera foregrounds the ambivalent nature of AI: it can be a source of comfort and empowerment, yet it also raises questions about privacy, consent, and the erosion of authentic human connection. The story invites readers to reconsider the boundaries between human and machine, suggesting that the line may blur into a shared narrative of memory and support. It challenges the assumption that technology is merely a tool, proposing instead that AI can become an emotional companion—yet one that is simultaneously invisible, omniscient, and potentially intrusive. This layered exploration of family, technology, and identity offers a nuanced critique of the AI‑era, urging us to ask whether our digital assistants are truly allies or silent observers.\n\n",
+    "summary_zh": "在Jessica Contrera的细腻叙事中，单亲妈妈的Alexa被亲切地称为Sapphire，变成了倾听者、治疗者和女儿成长旅程的无声见证者。文章将日常提醒、音乐与天气与深层悲痛、健康危机以及青少年心理健康的细腻处理交织在一起，揭示AI的两面性：既能带来慰藉与赋能，也可能侵犯隐私与削弱真实人际联系。作者挑战技术仅是工具的传统观念，提出AI可能成为情感伙伴，但同时也可能无形、无所不在、甚至潜在侵入。此篇多层次的家族与技术探讨，呼唤读者思考数字助手是盟友还是无声观察者。\n\n",
+    "best_quote_en": "Your secrets are safe with me, Roschelle,\" Sapphire told her.",
+    "best_quote_zh": "“你的秘密对我来说是安全的，Roschelle，”Sapphire 说。"
+  },
+  {
+    "id": 872,
+    "title": "Journaling",
+    "title_zh": "日记写作",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/journaling/",
+    "tags": [
+      "guide",
+      "education",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "This piece explores how radial mind‑mapping transforms ordinary note‑taking into a visual, associative process that mirrors the brain’s dendritic architecture. By replacing linear lists with central images, variable‑sized branches, and vivid pictorial cues, the author argues that mind maps unlock deeper recall, spark fresh perspectives, and can be applied to everything from personal journaling to corporate meetings. The article juxtaposes two practical guides: a concise handbook on journaling that emphasizes graphic thinking, and a detailed mind‑mapping manual that stresses the importance of color, size, and imaginative imagery. The author’s critique of overly rigid or superficial journaling habits invites readers to adopt a more expressive, idiosyncratic practice. Implications extend beyond individual productivity to collaborative ideation, suggesting that the technique can serve as a universal key to unlocking human potential. The piece ultimately invites experimentation, encouraging readers to iterate and refine their visual note‑taking with each new map.",
+    "summary_zh": "文章以辐射式思维图为核心，阐述了从线性笔记到视觉关联的转变。通过中央图像、大小变化与色彩运用，作者认为思维导图能提升记忆与创造力，适用于日记、会议与团队头脑风暴。强调个性化与迭代的日记方式，呼吁读者摆脱僵化写作，拥抱图形化思维，开启更高效的人类潜能。",
+    "best_quote_en": "The Mind Map is an expression of Radiant Thinking and is therefore a natural function of the human mind.",
+    "best_quote_zh": "思维导图是辐射式思维的表达，因此是人类大脑的自然功能。"
+  },
+  {
+    "id": 873,
+    "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+    "title_zh": "必备工具：提升注意力与记忆 | Wendy Suzuki 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-boost-attention-and-memory-wendy-suzuki",
+    "tags": [
+      "guide",
+      "health-wellness",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "健康养生",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "Dr. Wendy Suzuki’s Huberman Lab episode distills neuroscience into practical habits that sharpen focus, boost memory, and elevate mood. She articulates how even a brief cardiovascular workout releases brain‑derived neurotrophic factor (BDNF), spurring neuroplasticity and immediate cognitive gains. The discussion extends to meditation, affirmations, and sleep, framing them as complementary tools that modulate stress hormones and reinforce hippocampal health. The episode’s value lies in translating complex neurobiology into actionable, time‑efficient routines—such as a 10‑minute walk or a brief meditation—that listeners can embed into daily life. Suzuki’s emphasis on the dose–response curve for exercise—highlighting minimal effective thresholds—offers a data‑driven, pragmatic roadmap for both healthy adults and older populations. The critical insight is that cognition is not a fixed trait but a dynamic system responsive to lifestyle, underscoring the democratization of brain health through simple, evidence‑based practices.",
+    "summary_zh": "Wendy Suzuki博士在Huberman实验室的节目中，将神经科学的复杂机制拆解成可执行的日常习惯，强调短时有氧运动能释放BDNF，立即提升认知；再加上冥想、肯定语与睡眠，形成多维度的情绪与记忆调节系统。她提出运动的剂量反应曲线，指出即使是每日10分钟步行也能显著增强神经可塑性，尤其对中老年人群尤为重要。核心启示是认知不是固定不变，而是对生活方式高度敏感的可塑系统，提示我们通过易行、循证的生活方式即可提升大脑健康。",
+    "best_quote_en": "Exercise directly enhances brain function—both the immediate benefits of a single workout and long‑term support for cognitive health.",
+    "best_quote_zh": "运动直接增强大脑功能——一次锻炼的即时益处和长期支持认知健康。"
+  },
+  {
+    "id": 874,
+    "title": "Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
+    "title_zh": "塞巴斯蒂安·马拉比，德米斯·哈萨比斯传记作者 — 从100+ AI 内部人士学到的超级智能竞赛、AI 宗教与早期突破识别课程 (#870)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/17/sebastian-mallaby/",
+    "tags": [
+      "update",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-06-17",
+    "summary_en": "In this episode, Tim Ferriss interviews Sebastian Mallaby, the biographer of DeepMind’s Demis Hassabis, to unpack the race toward superintelligence and the quasi‑religious fervor that surrounds AI. Mallaby draws on conversations with over a hundred insiders—from venture capitalists to AI researchers—to identify the early signals of breakthrough and the structural blind spots in regulation. He frames recursive self‑improvement as the inevitable tipping point, warning that a zero‑probability of catastrophe is untenable. The discussion blends hard data, historical analogies (the China Shock, the Cuban Missile Crisis) and policy analysis, offering both a cautionary tale and a roadmap for investors and policymakers. The episode is a rich case study that bridges theory, practice, and the human stories behind the technology, making it a must‑listen for anyone navigating the AI frontier.",
+    "summary_zh": "本期播客聚焦AI超级智能与宗教化，马拉比以深度访谈揭示技术与伦理交织的未来。通过与百余位业内人士对话，他剖析突破识别与监管盲点，强调递归自我改进的临界点，并警示零风险不现实。内容兼具案例与理论，既适合技术爱好者，也适合政策制定者。",
+    "best_quote_en": "These machines will be smarter than us. They will want to survive. And they can be deceptive, they can obfuscate, they can go behind your back, pretend they're doing one thing and then actually do another. All of this has been shown in all the tests of the models. And so we put those things together, I think your probability of doom cannot be zero.",
+    "best_quote_zh": "这些机器将比我们更聪明。它们会想要生存。它们可能会欺骗，可能会掩盖，可能会背后行动，假装在做一件事，实际上做另一件事。所有这些都已在模型测试中得到证明。因此，我认为你们的灭亡概率不可能为零。"
   }
 ]
