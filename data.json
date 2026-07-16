@@ -1,123 +1,5 @@
 [
   {
-    "id": 780,
-    "title": "How to start strength training in midlife, according to female trainers 40 and over",
-    "title_zh": "如何在中年开始力量训练，来自40岁以上女性教练的建议",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-06-22",
-    "summary_en": "This article demystifies the notion that strength training is only for the young, offering a practical, evidence‑backed roadmap for women over 40. It blends scientific insights on sarcopenia and perimenopause with real‑world advice from seasoned trainers, emphasizing compound lifts, body‑weight progressions, and modest equipment like dumbbells and resistance bands. The piece underscores that even late starters can dramatically reduce chronic disease risk, citing Leigh Breen’s research on cardiovascular and neurodegenerative benefits. It balances motivation—highlighting empowerment and self‑confidence—with actionable steps: start simple, slow tempo, modify range of motion, stay hydrated, and prioritize recovery through sleep and calming breathing. The tone is encouraging yet grounded, making the content both inspiring and immediately usable for a mid‑life audience seeking to reclaim strength and health.\n",
-    "summary_zh": "文章以科学与实践并重的方式，向40岁以上女性阐明力量训练的可行性与意义。它从肌肉衰减、围绝经期的挑战谈起，引用研究显示即使晚起步也能显著降低慢性病风险。内容强调以复合动作、体重训练和基础器械为核心，辅以慢速动作、可调幅度、补水与恢复。整体语调鼓舞人心，既给出实操步骤，又让读者感受到力量带来的自信与掌控感。",
-    "best_quote_en": "‘People who’ve trained for years are better protected, but even late starters can dramatically reduce their disease risk in a short time.’",
-    "best_quote_zh": "‘即使是晚起步的人，只要坚持训练，也能在短时间内显著降低疾病风险。’"
-  },
-  {
-    "id": 781,
-    "title": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
-    "title_zh": "基于可信执行环境的AI治理隐私保护监控",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "数据驱动"
-    ],
-    "date": "2026-06-23",
-    "summary_en": "This article offers a rigorous, expert‑level exploration of how Trusted Execution Environments (TEEs) can be leveraged for privacy‑preserving monitoring in AI governance. It systematically dissects the motivations, technical underpinnings, and practical deployment challenges of TEEs—from the hardware isolation primitives to the measurement and attestation mechanisms that underpin verifiability. By contrasting commercial use cases (Apple, Meta, Google, Tinfoil) with the stringent demands of international governance, the author exposes the gap between deployment integrity and policy‑adherence, highlighting side‑channel, physical, and metadata leakage threats that undermine auditability. The piece also navigates the nuanced trade‑offs between privacy and compliance, arguing that a policy‑driven software stack, coupled with robust hardware attestation, can achieve both. The conclusion is cautiously optimistic: TEEs are commercially viable for private inference, but achieving trustworthy governance requires open‑silicon designs, reproducible builds, and a shared root of trust. The article invites readers to reconsider the assumption that privacy and safety are mutually exclusive, presenting a pragmatic roadmap for aligning commercial incentives with global safety norms.",
-    "summary_zh": "文章以可信执行环境为核心，系统阐述了其在 AI 治理隐私保护监控中的技术细节与现实挑战。作者将硬件隔离、测量与证明机制与商业案例相结合，揭示了部署完整性与政策遵从之间的鸿沟，并指出侧信道、物理攻击及元数据泄露等威胁。结论是，虽然 TEEs 已在私有推理中具备商业可行性，但实现可信治理仍需开放硅片、可复现构建与共享根信任。",
-    "best_quote_en": "\"We can have both privacy and auditability: focusing on the way data is handled rather than the data itself is privacy‑preserving and helps decompose the verification problem.\"",
-    "best_quote_zh": "\"我们既能实现隐私，也能实现可审计：关注数据的处理方式而非数据本身既能保护隐私，又能帮助拆解验证问题。\""
-  },
-  {
-    "id": 782,
-    "title": "Chronicle of a Disaster Foretold",
-    "title_zh": "灾难预告的编年史",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/chronicle-of-a-disaster-foretold",
-    "tags": [
-      "analyze",
-      "politics",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-06-23",
-    "summary_en": "The article offers a deep, expert‑insight analysis of the Trump administration’s first year of the second term, framed through the lens of two seasoned Times reporters. It juxtaposes historical journalistic traditions with contemporary political reportage, highlighting the unique immediacy and depth of \"Regime Change.\" The narrative uncovers unsettling alliances, such as Netanyahu’s strategic gambit, exposes the administration’s financial corruption, and paints a vivid portrait of Trump’s narcissistic leadership. By interweaving firsthand accounts, insider revelations, and critical context, the piece invites readers to question the integrity of political power, the role of media access, and the broader implications for democratic governance. Its critical stance, combined with rigorous evidence, makes it a compelling resource for scholars, journalists, and politically engaged citizens seeking a nuanced understanding of the era’s turbulence.",
-    "summary_zh": "这篇文章以深度报道的视角，剖析特朗普第二任期首年的权力运作与媒体角色，揭示权力背后的人性与制度缺陷，激发读者对民主与新闻责任的深思。",
-    "best_quote_en": "\"Regime Change\" is exceptional. It transcends its genre.",
-    "best_quote_zh": "《政权更迭》是卓越的。它超越了其流派。"
-  },
-  {
-    "id": 783,
-    "title": "Tracking",
-    "title_zh": "追踪",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/tracking/",
-    "tags": [
-      "guide",
-      "design",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2026-06-22",
-    "summary_en": "The article celebrates Mark Elbroch’s meticulous tracking guides, lauding their unprecedented depth, vivid color photography, and ecological perspective that reframes how we observe wildlife. By cataloguing life‑size prints, burrows, scat, and feeding patterns, Elbroch turns the forest into a living data set, offering readers a practical, hands‑on method to read the subtle ripples animals leave behind. The text underscores the value of patience and attention to detail—illustrated by the author’s own hair‑search exercise—and frames tracking as a discipline that blends science, art, and mindful observation. For nature enthusiasts and aspiring naturalists, the guides provide an advanced, evidence‑based toolkit that transforms ordinary walks into investigative expeditions, while also inviting broader reflection on human‑nature interconnections and the responsibility of stewardship. The piece is both a praise of Elbroch’s craft and a call to cultivate a more attentive, ecological mindset in everyday life.",
-    "summary_zh": "文章赞誉马克·埃尔布罗克的追踪指南，强调其细致、色彩鲜明、生态视角。通过记录足迹、巢穴、粪便和觅食模式，作者将森林变成活数据集，教人如何读懂动物留下的细微痕迹。文本强调耐心与观察力的重要性，展示作者的抓毛练习，并把追踪视为结合科学、艺术与正念的学问。对自然爱好者而言，这些指南提供高级、基于证据的工具，促使日常漫步成为探究之旅，并提醒我们与自然的相互责任。",
-    "best_quote_en": "‘By cataloguing life‑size prints, burrows, scat, and feeding patterns, Elbroch turns the forest into a living data set, offering readers a practical, hands‑on method to read the subtle ripples animals leave behind.’",
-    "best_quote_zh": "‘通过记录足迹、巢穴、粪便和觅食模式，埃尔布罗克把森林变成活数据集，为读者提供实用、亲手操作的方法，解读动物留下的细微波纹。’"
-  },
-  {
-    "id": 784,
-    "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
-    "title_zh": "Essentials：使用基于科学的工具优化你的运动计划 | Jeff Cavaliere",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
-    "tags": [
-      "learn",
-      "health-wellness",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "健康养生",
-      "新手友好"
-    ],
-    "date": "2026-02-19",
-    "summary_en": "In this Huberman Lab Essentials episode, Jeff Cavaliere—an expert physical therapist, strength coach, and founder of ATHLEAN‑X—unpacks the science behind building a truly effective training program. The discussion moves from macro‑level structure—how to schedule weekly workouts, balance intensity with recovery, and align training with personal goals—to micro‑level tactics such as warm‑up protocols, dynamic stretching, and injury‑prevention strategies. Cavaliere introduces practical tools like the Cramp Test, Grip Strength Test, and a simple Plate Method for nutrition, all designed to replace guesswork with data‑driven decision‑making. He stresses that optimal performance is a blend of cardiovascular and resistance work, that timing and frequency matter, and that tracking progress through a training journal is essential. The episode is rich with actionable, evidence‑based advice that empowers beginners to start safely while giving seasoned athletes nuanced tweaks to refine their regimen. By grounding every recommendation in peer‑reviewed research, Cavaliere bridges the gap between academia and everyday practice, offering listeners a clear roadmap to elevate fitness, physique, and overall health.",
-    "summary_zh": "在这期 Huberman Lab Essentials 中，Jeff Cavaliere 分享了基于科学的训练方法，从宏观计划到细节动作，帮助你安全有效地提升体能与体型。",
-    "best_quote_en": "\"The key to lasting progress is not how hard you lift, but how well you structure your program, recover, and track your data.\"",
-    "best_quote_zh": "\"持续进步的关键不在于你举起多重，而在于你如何结构训练、恢复和跟踪数据。\""
-  },
-  {
     "id": 785,
     "title": "Can weak AI watch strong AI?",
     "title_zh": "",
@@ -2348,5 +2230,121 @@
     "summary_zh": "文章将街头摄影项目与天体物理学家卡尔·萨根的儿童传记并列，探讨叙事框架如何将普通图像与事实转化为强大的共情与好奇纽带。人类纽约通过简洁肖像与自述故事，将陌生人变成可亲近的主角，进而将博客变成病毒式传播，最终出版实体书。星之物则借萨根的魅力叙事，使用俏皮插画与通俗文字，使复杂宇宙概念成为孩子们的学习乐趣。两者共同展示，叙事能够让知识普及、专业人性化并激发行动，鼓励教育者与创作者将视觉与文字技巧应用于社区，降低学习门槛，激发共同的惊奇感。",
     "best_quote_en": "Reading is one sure path to inspiration.",
     "best_quote_zh": "阅读是通往灵感的一条可靠途径。"
+  },
+  {
+    "id": 880,
+    "title": "Thursday briefing: Why magical kingdoms feel more relatable than real‑world romance​ for today’s young women",
+    "title_zh": "星期四简报：为何魔法王国比现实恋爱更贴近当代年轻女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/jul/16/thursday-briefing-why-magical-kingdoms-feel-more-relatable-than-realworld-romance-for-todays-young-women",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "The Guardian’s Thursday briefing dissects the meteoric rise of romantasy—a hybrid of fantasy and romance—and its resonance with young women. By spotlighting bestsellers like Sarah J Maas’s *A Court of Thorns and Roses* and Rebecca Yarros’s *Onyx Storm*, the piece links genre‑specific tropes (dragons, enchanted kingdoms, female‑centric narratives) to broader cultural currents: a backlash against heteropessimism, the search for empowerment in a male‑dominated fantasy space, and the desire for “algorithm‑free” connection. The article frames the boom not just as a literary trend but as a measurable force in publishing revenue, noting a 41.3% rise in sci‑fi/fantasy sales and a £1 bn UK market rebound. It also interrogates the role of social media ecosystems—BookTok, Instagram, Reddit—in amplifying these stories, turning fandom into a sales engine. Ultimately, the briefing invites readers to view romantasy as a cultural barometer, revealing how escapism, gender politics, and media consumption converge to shape contemporary reading habits.",
+    "summary_zh": "这篇简报揭示了年轻女性为何被魔法王国所吸引：逃离现实、女性主导的英雄叙事与对异性恋的怀疑交织，形成强大商业动力。社交媒体与书店共振，推动销量激增，成为文化与商业的双重晴雨表。",
+    "best_quote_en": "The escapism is a really big element.",
+    "best_quote_zh": "逃离现实是一个非常重要的元素。"
+  },
+  {
+    "id": 881,
+    "title": "The 18 Mistakes That Kill Startups",
+    "title_zh": "18个会毁掉创业公司的错误",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startupmistakes.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "The article dissects 18 pitfalls that doom startups, framing failure as the absence of a product users truly desire. It argues that a single mistake—failing to solve a real user problem—underlies all other failures, turning the list into a practical recipe: avoid what kills, and you succeed. The author critiques common misconceptions: single founders lack confidence and resilience; bad locations deprive startups of talent and ecosystems; niche focus and derivative ideas stifle growth. He warns against obstinacy, poor hiring, wrong platforms, launch delays, and misreading user needs. Funding issues are explored, from raising too little or too much to investor management, emphasizing that money is a tool, not a guarantee. The piece blends anecdote, data, and a call to action, urging founders to iterate, listen to users, and commit fully. Its tone is candid and reflective, offering a roadmap that balances practical steps with philosophical insights into startup culture.\n",
+    "summary_zh": "文章将 18 个创业失败的根本原因拆解为一个核心——未能满足用户真正需求。作者认为，所有失败的背后都隐藏着同一错误，避免这一点即是成功的关键。文中批判了单创始人、错误地点、狭窄细分、模仿创意等误区，并警示固执、招聘不当、平台错误、发布拖延和误读用户的危险。资金问题从筹资不足到过度融资、投资人管理都被细致讨论，强调金钱是工具。作者以案例和数据为支撑，鼓励创业者快速迭代、倾听用户、全力投入，形成实用与哲学并重的创业指南。\n",
+    "best_quote_en": "If you make something users want, you'll be fine, whatever else you do or don't do.",
+    "best_quote_zh": "如果你让人们想要的东西，你就会没问题，别管你做了什么或没做什么。"
+  },
+  {
+    "id": 882,
+    "title": "When is it \"self-soothing\" and when is it \"emotional suppression\"?",
+    "title_zh": "何时是“自我安抚”，何时是“情绪抑制”？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rQhbZBhKKSHcYJtmf/when-is-it-self-soothing-and-when-is-it-emotional",
+    "tags": [
+      "solve",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "In this reflective piece, the author challenges the blanket dismissal of emotional suppression as purely harmful, arguing instead that suppression—when understood as a deliberate, strategic act—can serve adaptive purposes. By weaving vivid analogies—such as a jungle path guarded by tigers—to explain the dual nature of our affective circuitry, the piece delineates suppression as the conscious dampening of a potent emotional impulse that still remains active beneath the surface. Self‑soothing, in contrast, is portrayed as the active winding‑down of that same response, a process that brings the nervous system back to equilibrium. The article further enriches its argument with insights from Internal Family Systems, Focusing, and even the mechanics of video‑game stress, underscoring that emotional regulation is a nuanced spectrum rather than a binary choice. Practically, the author offers a diagnostic test: if an activity leaves you genuinely better, it’s soothing; if it merely keeps you in a loop of avoidance, it’s suppression. The piece invites readers to reframe their coping strategies, recognizing when to suppress, when to soothe, and when to address the underlying cause—ultimately empowering a more flexible, informed approach to emotional health.",
+    "summary_zh": "作者重新审视情绪抑制与自我安抚的界限，认为抑制并非全然负面，而是有策略的抑制强烈情绪冲动，保持其潜在活跃；自我安抚则是主动让反应降温、恢复平衡。通过“丛林路径与老虎”的比喻，他阐释情绪系统的适应性与调节空间，并引用内部家庭系统、聚焦法等理论，提供判断抑制与安抚的实用测试。文章鼓励读者识别何时抑制、何时安抚、何时解决根源，从而实现更灵活、知情的情绪管理。",
+    "best_quote_en": "Self‑soothing is not just about ignoring a feeling; it’s about winding down the response so that the body can relax.",
+    "best_quote_zh": "自我安抚并非仅仅忽视情绪，而是让反应降温，使身体得以放松。"
+  },
+  {
+    "id": 883,
+    "title": "What’s in my NOW? — Editor Edition",
+    "title_zh": "我的现在是什么？——编辑版",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-editor-edition/",
+    "tags": [
+      "inspire",
+      "design",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-07-15",
+    "summary_en": "Claudia Dawson’s Editor Edition is a hybrid of the mystical and the practical, weaving shamanic dreams, sound healing, and red‑light therapy into a cohesive wellness toolkit. She presents a curated list of physical devices—full‑body red‑light mats, Solfeggio tuning forks, and a portable massage table—paired with digital companions like AudioPen and the ACER Integration community. The narrative is anchored in Ubuntu philosophy, reminding readers that personal growth is relational, not solitary. The content balances actionable guidance with experiential depth, offering concrete usage tips while encouraging introspection. Its niche focus on altered states and community integration positions it at the intersection of lifestyle design and psychological self‑care, appealing to seekers of holistic practices and tech‑savvy wellness enthusiasts alike. Critically, the article invites readers to experiment but also signals a non‑clinical, experiential approach that may not substitute professional therapy. Overall, it serves as an inspiring, learning‑oriented resource for those who wish to embed intentionality and community into their daily ritual.\n",
+    "summary_zh": "克劳迪亚·道森的编辑版把萨满梦境、光疗、音疗与数字工具交织成完整的身心修复方案，强调Ubuntu哲学：成长是相互的。文章兼具可操作性与深度体验，适合追求整体生活与科技辅助的读者。\n",
+    "best_quote_en": "I become a person through other people.",
+    "best_quote_zh": "Ubuntu Philosophy: “I am because we are”"
+  },
+  {
+    "id": 884,
+    "title": "The Tim Ferriss Show Transcripts: Max Levchin, PayPal and Affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism) (#869)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Max Levchin, PayPal and affirm — The Path from The Soviet Union to Building Multi-Billion Dollar Companies (Plus: Real-World Socialism vs. Capitalism) (#869)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/06/11/max-levchin-2-transcript/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-06-11",
+    "summary_en": "Max Levchin’s interview on Tim Ferriss’s show unfurls a remarkable arc—from a Soviet‑era child who fled to the U.S., to a PayPal CTO, to the founder of the consumer‑finance platform Affirm. He weaves together a tapestry of technical mastery, entrepreneurial grit, and personal philosophy. Levchin dissects the tension between real‑world socialism and capitalism, using his own journey as a case study of systemic opportunity. He cites seminal books—Snow Crash, Cryptonomicon, The Master and Margarita—to illuminate how narrative shapes design thinking. He shares practical frameworks: data‑driven metrics for sleep, nutrition, and cycling; a “no‑doubt” mindset that translates into hiring and product decisions; and a marriage‑co‑founder analogy that underscores continuous self‑improvement. The conversation also ventures into brain‑computer interfaces and future tech, hinting at a broader vision of human augmentation. For listeners, the episode is both a roadmap for founders and a philosophical primer on navigating uncertainty with curiosity, resilience, and a relentless pursuit of knowledge.",
+    "summary_zh": "从苏联少年到PayPal创始人，再到Affirm的CEO，Levchin以跨越技术与人文的视角，剖析资本主义与社会主义的碰撞，分享创业、领导与个人成长的深刻洞见。他将书籍、科技与生活经验交织，强调数据驱动决策、持续自我提升与伴侣共创的重要性，激励听众在不确定时代勇敢前行。",
+    "best_quote_en": "Whenever there is doubt, there is no doubt.",
+    "best_quote_zh": "只要有疑问，就没有疑问。"
   }
 ]
