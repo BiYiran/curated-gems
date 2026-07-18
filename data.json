@@ -1,73 +1,5 @@
 [
   {
-    "id": 790,
-    "title": "Why to Move to a Startup Hub",
-    "title_zh": "为何搬到创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/startuphubs.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "This essay argues that startups thrive best in well‑established startup hubs, particularly Silicon Valley, because such cities provide dense networks of investors, talent, and industry knowledge that accelerate growth. The author balances the ideal with practical constraints—immigration hurdles, family considerations, and existing funding offers—suggesting that relocation is a strategic choice, not a universal mandate. He uses anecdotal evidence from Y Combinator, Boston vs. West Coast VCs, and real‑world startup experiences to illustrate how bold, aggressive investing and face‑to‑face proximity create a competitive advantage. The piece invites founders to weigh hub benefits against local opportunities, offering a nuanced, data‑driven perspective that blends expert insight with actionable guidance. Its relevance extends beyond Silicon Valley, encouraging readers to evaluate any city’s ecosystem and decide whether the potential upside outweighs the costs of moving.\n\nI find the argument compelling because it reframes the debate from national pride to ecosystem economics, reminding entrepreneurs that the most important variable is the density of support, not geography alone. The call to action—assess the hub’s infrastructure, investor boldness, and industry fit—provides a clear framework for decision‑making. This essay is a useful primer for founders, investors, and policymakers who want to understand the mechanics behind successful startup clusters.\n",
-    "summary_zh": "作者通过案例与数据阐述，创业公司在创业中心（尤其是硅谷）能获得更强的网络、资本与行业知识，从而加速成长。文中平衡了搬迁的利弊，提出应在评估本土与中心优势后做决定。其论点将“国家主义”转为生态经济学，强调生态密度而非地理。",
-    "best_quote_en": "\"Boldness wins. If the aggressive ways of west coast investors are going to come back to bite them, it has been a long time coming.\"",
-    "best_quote_zh": "\"大胆赢得胜利。若西海岸投资者的激进方式最终会伤害他们，那已经等待很久了。\""
-  },
-  {
-    "id": 791,
-    "title": "Everyone Wants to Touch the Blue Coating in the Reflecting Pool",
-    "title_zh": "每个人都想触摸反射池的蓝色涂层",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/everyone-wants-to-touch-the-blue-coating-in-the-reflecting-pool",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "The article paints a vivid tableau of how President Trump’s high‑profile renovation projects have turned Washington’s most iconic landmarks into unintended spectacles of schadenfreude. By weaving together anecdotal encounters—from Senator Hickenlooper’s dramatic duck‑safety monologue to the crowd‑pleasing “name‑down” drama at the Kennedy Center—the piece exposes a pattern: grand public gestures, when mishandled, morph into cultural touchstones that people flock to for irony rather than reverence. The author critiques the administration’s lack of foresight, highlighting practical failings such as algae‑infested water and vandalism investigations, while also noting the social psychology that fuels voyeuristic tourism. The narrative invites readers to question the intersection of politics, public space, and collective memory, and to consider how the spectacle of failure can eclipse the original intent of civic renewal. Ultimately, it serves as a cautionary tale about the fragile balance between symbolic ambition and the messy realities of maintenance, public perception, and civic identity.",
-    "summary_zh": "文章通过一系列生动的现场故事，揭示了特朗普总统的公共工程如何被公众误读为娱乐秀，反映出政治象征与现实维护的脆弱平衡。它批判了项目管理失误与公众情绪的互动，提醒人们在追求宏大象征时，务必兼顾细节与公众认知。",
-    "best_quote_en": "\"The Reflecting Pool has shifted to the foreground… one animated not by reverence but by perverse curiosity.\"",
-    "best_quote_zh": "“反射池已从背景转为前景……人们的关注不再是敬仰，而是病态的好奇。”"
-  },
-  {
-    "id": 792,
-    "title": "Deezer’s new in-app remix feature lets users speed up and modify tracks by Céline Dion and other artists ‘with full rights compliance’",
-    "title_zh": "Deezer推出全新应用内混音功能，让用户在完全合规的前提下加速并修改Céline Dion等艺术家的曲目",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/deezers-new-in-app-remix-feature-lets-users-speed-up-and-modify-tracks-by-celine-dion-and-other-artists-with-full-rights-compliance/",
-    "tags": [
-      "update",
-      "music-arts",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-06-24",
-    "summary_en": "Deezer’s newest in‑app remix feature signals a shift in how streaming platforms empower listeners to become co‑creators while safeguarding artists’ rights. By leveraging an open‑source stem‑splitting tool, the service lets users tweak tempo, pitch, genre, and effects on individual audio stems, all within a few clicks. The company positions the feature as a “first” in the market—contrasting Spotify’s AI‑powered covers and YouTube’s text‑prompt tool—highlighting its commitment to artist consent and revenue sharing. From a business perspective, Deezer taps Gen Z’s participatory culture, monetizing user‑generated content through contests and exclusive playlists. The move also reflects broader industry trends toward ethical AI and transparent licensing. For creators, the platform offers a low‑barrier entry into remixing, while for fans, it deepens engagement and ownership of music. Ultimately, Deezer’s approach could set a new standard for balancing innovation with intellectual‑property respect in the streaming era.",
-    "summary_zh": "Deezer推出的全新混音功能，以用户友好、合规的方式让听众在几次点击内重新演绎曲目，凸显平台对创作者权益的尊重与共享。此举既满足了Z世代的互动需求，又为行业探索AI与版权共存之路提供了可复制的范例。",
-    "best_quote_en": "\"This feature focuses on simplicity and accessibility, and in just a few clicks, users can reimagine and rediscover a track they already know and love,\" said Pierre Trochu, Head of Product at Deezer.",
-    "best_quote_zh": "“该功能注重简洁与易用，用户只需点击几下即可重新想象并重新发现他们已熟悉的曲目。”"
-  },
-  {
     "id": 793,
     "title": "Rose Sharp obituary",
     "title_zh": "罗斯·夏普讣告",
@@ -2348,5 +2280,77 @@
     "summary_zh": "在本期随机节目中，蒂姆·费里斯与凯文·罗斯从禅修、死亡与AI未来影响，到补充剂的实用性，展开多元话题。他们直言‘有一天’是拖延的陷阱，分享将意图转化为行动的可行策略。谈到中年攀岩的目标驱动、持续冥想的力量，以及与日常使用相符的投资选择。通过幽默与深刻反思，两位主持人展示如何将好奇心转化为具体习惯，帮助听众停止等待，积极生活。",
     "best_quote_en": "You should stop saying ‘one day’.",
     "best_quote_zh": "你应该停止说‘有一天’。"
+  },
+  {
+    "id": 890,
+    "title": "A Student's Guide to Startups",
+    "title_zh": "学生创业指南",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mit.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-07-18",
+    "summary_en": "This essay, drawn from an MIT talk, argues that starting a company should become a mainstream post‑college option, rivaling a job or grad school. It explains why the traditional “graduation” wind shift turns students into founders, and how Y Combinator’s policy evolved from encouraging college‑era startups to advising founders to wait until graduation. The author lists concrete advantages of young founders—stamina, poverty, rootlessness, ignorance—and warns against the pitfalls of class projects that lack real market pressure. He stresses the importance of co‑founder proximity, user‑centric thinking, and learning by doing inside a startup rather than through books or formal courses. The piece blends practical advice with philosophical reflections on ambition, risk, and the social dynamics that shape the startup ecosystem. It invites readers to rethink the timing of entrepreneurship and to harness the unique strengths that early‑career students possess.",
+    "summary_zh": "本文以MIT演讲为蓝本，主张创业应与求职、读研并列为大学生的常规选择。作者阐述毕业后身份转变如何让学生成为创始人，并解释 Y Combinator 从鼓励在校创业到建议毕业后再创立的政策演变。文中列举年轻创始人的优势——体力、贫穷、无根、无知，并警示课堂项目缺乏真实市场压力。作者强调同事亲近、以用户为中心的思维，以及在创业中实战学习的重要性，批判书本与课程的局限。全文兼具实践建议与对雄心、风险与社群动力的哲学思考，鼓励读者重新审视创业时机，发挥早期职业学生的独特优势。",
+    "best_quote_en": "The advantage of being young is stamina, poverty, rootlessness, ignorance.",
+    "best_quote_zh": "年轻人的优势是体力、贫穷、无根、无知。"
+  },
+  {
+    "id": 891,
+    "title": "Book Freak #218: The Magus, by John Fowles",
+    "title_zh": "书虫 #218：约翰·福尔斯的《魔术师》",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-218-the-magus-by-john-fowles/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-07-17",
+    "summary_en": "The article reframes John Fowles’s labyrinthine novel *The Magus* as a mirror for personal transformation, distilling its psychological game into a set of actionable introspective practices. It foregrounds four core principles—self‑directed inquiry, environmental dislocation, integrity, and the relinquishment of rule‑dependence—each illustrated through concrete exercises that invite readers to confront postponed decisions, performative selves, and value betrayals. The piece’s strength lies in its ability to translate literary themes into a self‑help framework, offering readers a roadmap for autonomy rather than a passive summary of plot. By positioning the novel as a catalyst for self‑discovery, the author challenges conventional book‑review tropes and elevates the text to a lived experience. The critical lens applied is not merely thematic but experiential, encouraging the audience to become co‑authors of their own narrative. This blend of literary analysis and practical guidance renders the article both intellectually engaging and immediately usable for readers seeking agency in their lives.",
+    "summary_zh": "文章把福尔斯的《魔术师》视为自我转化的镜子，提炼心理游戏为可操作的自省练习。核心原则包括自我提问、环境脱离、正直与放弃规则，配以具体练习，促使读者直面拖延决策、表演自我与价值背叛。它将文学主题转化为自助框架，提供自我主导的路线图，突破传统书评局限，让文本成为生活经验。批评视角既有主题深度，也有实践性，使读者成为自身叙事的共同作者。",
+    "best_quote_en": "\"The most important questions in life can never be answered by anyone except oneself.\"",
+    "best_quote_zh": "生活中最重要的问题只能由自己回答。"
+  },
+  {
+    "id": 892,
+    "title": "Better Than Free: How To Differentiate In The Age Of AI",
+    "title_zh": "远超免费：在 AI 时代如何差异化",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/17/better-than-free/",
+    "tags": [
+      "solve",
+      "science",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-07-17",
+    "summary_en": "Kevin Kelly’s updated essay, “Better Than Free,” argues that in an age where AI can replicate content instantly, creators must sell what cannot be copied—intangible generative values such as trust, immediacy, personalization, and authenticity. The article dissects eight generatives, from immediacy to findability, framing each as a strategic niche that sustains revenue when copies are free. It critically examines how traditional copyright, scarcity, and distribution are obsolete, urging creators to cultivate human-centric skills—relationship building, curation, and experiential design—that AI struggles to replicate. The piece also highlights real-world exemplars (e.g., Brandon Sanderson, Ben Thompson) to illustrate the model’s practicality. By foregrounding attention over copies, Kelly offers a pragmatic roadmap for creators and startups navigating the new AI economy, blending theory with actionable guidance. The essay invites readers to rethink value creation, emphasizing that the future of monetization lies in fostering unique, non-duplicable experiences rather than chasing digital replication.",
+    "summary_zh": "Kevin Kelly 重新阐述的《远超免费》指出，AI 能即时复制内容，创作者必须售卖无法复制的无形价值——如信任、即时性、个性化与真实性。文章拆解八大可生成价值，并以真实案例（如 Brandon Sanderson、Ben Thompson）验证其可行性。作者批判传统版权、稀缺与分发模式已失效，强调培养人际关系、策展与体验设计等人性化技能是未来盈利之道。整体而言，Kelly 为创作者与创业者提供了从复制到关注的转型蓝图，提醒我们在 AI 时代，真正的价值在于不可复制的独特体验。",
+    "best_quote_en": "When copies are free, you need to sell things which cannot be copied.",
+    "best_quote_zh": "当复制品是免费的，你需要出售无法复制的东西。"
   }
 ]
