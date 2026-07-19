@@ -1,125 +1,5 @@
 [
   {
-    "id": 793,
-    "title": "Rose Sharp obituary",
-    "title_zh": "罗斯·夏普讣告",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/jun/26/rose-sharp-obituary",
-    "tags": [
-      "analyze",
-      "education",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "Rose Sharp’s life story is a masterclass in the power of persistent, principled advocacy within the arts. Her career—spanning from the underground scene of the 1970s Pink Fairies to the institutional halls of the Arts Council England—showed how a single administrator could shift the funding calculus toward marginalized voices. Sharp’s mantra, “done and dusted,” became shorthand for her relentless pursuit of projects that mainstream bodies would otherwise overlook. She championed feminist and LGBTQ+ narratives, ensuring that funding agencies recognized the cultural value of work beyond conventional theatre. Her mentorship at Queen Mary University of London amplified her impact, training a new generation of arts managers to think strategically about equity and inclusion. The obituary not only commemorates a remarkable career but also serves as a call to action: public funding bodies must deliberately seek out and support art that challenges boundaries. Sharp’s legacy invites us to reimagine how we allocate resources, who we elevate, and the stories we choose to sustain.",
-    "summary_zh": "罗斯·夏普的生涯是坚持与原则在艺术界影响力的典范。她从70年代地下乐队到英国艺术委员会，凭借“done and dusted”口号，持续为边缘声音争取资金。她推动女性与 LGBTQ+ 叙事，确保资助机构认知非传统剧场的文化价值。她在女王玛丽大学的辅导培养了新一代艺术管理者，强调公平与包容。讣告既纪念了她的卓越，也提醒我们公共资助应主动支持挑战界限的艺术，重新定义资源分配与故事传承。",
-    "best_quote_en": "\"The more likely it seemed that funding for a particular project would be out of reach, the more determined she was to procure it.\"",
-    "best_quote_zh": "“如果某个项目的资助似乎遥不可及，她就更坚定地去争取。”"
-  },
-  {
-    "id": 794,
-    "title": "The Future of Web Startups",
-    "title_zh": "",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/webstartups.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 795,
-    "title": "Don't ignore the car crashes, and remember your freshman CS",
-    "title_zh": "别忽视车祸，记得你的大一 CS",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/eSZYRuEvqm7jFxYfq/don-t-ignore-the-car-crashes-and-remember-your-freshman-cs",
-    "tags": [
-      "solve",
-      "data-science",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "数据科学",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "The post cleverly juxtaposes the alarming statistics of car crashes with the comparatively muted media attention given to them, using the availability heuristic as a springboard to discuss a broader theme: decomposition. Drawing on a freshman computer‑science lesson that taught students to break complex problems into manageable parts, the author argues that the same principle can untangle the metaphorical ‘plane crashes’ of daily life—procrastination, social‑media overload, and fragmented goals. By treating each small habit (switching to Vim, using ScreenZen, tracking tasks in Todoist) as a ‘car crash’ that can be isolated and addressed, the writer demonstrates how incremental changes can cumulatively restore productivity. The piece is both a practical guide and a philosophical reminder that large, intimidating challenges often dissolve into a series of solvable sub‑tasks. Its tone invites introspection, encourages actionable experimentation, and showcases how a simple CS concept can illuminate self‑management strategies, making it a valuable read for anyone seeking to reclaim focus and purpose.",
-    "summary_zh": "作者用车祸与航空事故的对比，揭示可见性偏差，随后把大一 CS 的拆解法则引入日常生产力。把拖延、社交媒体、目标碎片化等看作“车祸”，逐个拆解并改进，最终重获专注与成就感。",
-    "best_quote_en": "Decomposition is a very helpful cue, as it gives an obvious starting point for problems that may seem intractable: break them down.",
-    "best_quote_zh": "分解是一条非常有用的线索，因为它为看似难以解决的问题提供了一个明显的起点：将其拆分。"
-  },
-  {
-    "id": 796,
-    "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
-    "title_zh": "必备：健康、减脂与增肌的饮食科学 | 朗恩·诺顿博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton",
-    "tags": [
-      "guide",
-      "science",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "This episode distills the core of nutritional science into actionable, data‑driven guidance. Dr. Layne Norton unpacks the mechanics of energy balance—Calories In, Calories Out, and the often overlooked role of Non‑Exercise Activity Thermogenesis (NEAT). He then translates theory into practice, outlining precise protein and fiber targets, critiquing artificial sweeteners and seed oils, and weighing animal versus plant protein efficacy. The discussion is peppered with real‑world protocols, such as the use of creatine monohydrate and the importance of sustainable dieting. What sets this content apart is its blend of rigorous science with pragmatic coaching, offering listeners a clear roadmap for lean muscle gain and fat loss that can be tailored to individual metabolic profiles. It invites critical thought on how we measure progress beyond the scale, encouraging a holistic, evidence‑based approach to nutrition and fitness.",
-    "summary_zh": "本期节目把营养科学拆解成可操作的、数据驱动的指南。诺顿博士阐释能量平衡、NEAT，并将理论转化为实用蛋白、纤维目标、人工甜味剂与植物油评估，强调可持续饮食与肌肉增益的循证路径，鼓励从量化进度到整体健康的思考。",
-    "best_quote_en": "We discuss the science of energy balance and utilization, including practical strategies for building lean muscle and losing fat.",
-    "best_quote_zh": "我们讨论了能量平衡与利用的科学，并包括针对增肌与减脂的实用策略。"
-  },
-  {
-    "id": 797,
-    "title": "Diljit Dosanjh breaks his own record for biggest North American tour by a Punjabi artist with $32M Aura run",
-    "title_zh": "Diljit Dosanjh 以 3,200 万美元的 Aura 巡演打破自己创下的北美最大印度裔派克艺术家巡演纪录",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/diljit-dosanjh-breaks-his-own-record-for-biggest-north-american-tour-by-a-punjabi-artist-with-32m-aura-run/",
-    "tags": [
-      "update",
-      "music-arts",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "Diljit Dosanjh’s recent Aura World Tour has shattered his own North American record, grossing $32 million across 15 shows and drawing 225,000 fans. The milestone eclipses the $27 million, 215,000‑fan haul from his 2024 Dil‑Luminati run, underscoring a rapid acceleration in the global appetite for Punjabi and South‑Asian music. Live Nation’s data reveal a historic presale: 130,000 tickets sold in two days, the highest ever for a South‑Asian act in North America. The tour’s success is not merely a commercial triumph; it signals a broader cultural shift where non‑English‑speaking artists command mainstream venues like Madison Square Garden and Wembley Stadium. For industry insiders, the numbers illustrate a lucrative niche market, while aspiring artists see a viable pathway to global stages. The narrative invites a deeper examination of how strategic partnerships, streaming growth, and cross‑genre collaborations can amplify reach and redefine market expectations.",
-    "summary_zh": "Diljit Dosanjh 以 3,200 万美元的 Aura 巡演打破自己创下的北美最大印度裔派克艺术家纪录，15 场演出吸引 225,000 名观众，收入 3,200 万美元。该成就超过 2024 年 Dil‑Luminati 巡演的 2,700 万美元、215,000 名观众纪录，凸显全球对 Punjabi 与南亚音乐的热情。Live Nation 报告显示，预售两天内售出 13 万张门票，为南亚艺术家创下北美最高纪录。此番成功不仅是商业胜利，更标志着非英语艺术家登上 Madison Square Garden、Wembley Stadium 等主流舞台的时代来临。对行业而言，数据揭示了一个盈利丰厚的细分市场；对新晋艺术家而言，则展示了通往全球舞台的可行路径。此故事促使人们进一步探讨战略合作、流媒体增长与跨界合作如何扩大影响力并重新定义市场预期。",
-    "best_quote_en": "Live Nation says the run delivered its largest North American presale for a South Asian artist, selling more than 130,000 tickets in its first two days.",
-    "best_quote_zh": "Live Nation表示，这场巡演在北美预售中创下了南亚艺术家的最高纪录，前两天就售出了超过13万张门票。"
-  },
-  {
     "id": 798,
     "title": "How to Do Philosophy",
     "title_zh": "如何做哲学",
@@ -2352,5 +2232,125 @@
     "summary_zh": "Kevin Kelly 重新阐述的《远超免费》指出，AI 能即时复制内容，创作者必须售卖无法复制的无形价值——如信任、即时性、个性化与真实性。文章拆解八大可生成价值，并以真实案例（如 Brandon Sanderson、Ben Thompson）验证其可行性。作者批判传统版权、稀缺与分发模式已失效，强调培养人际关系、策展与体验设计等人性化技能是未来盈利之道。整体而言，Kelly 为创作者与创业者提供了从复制到关注的转型蓝图，提醒我们在 AI 时代，真正的价值在于不可复制的独特体验。",
     "best_quote_en": "When copies are free, you need to sell things which cannot be copied.",
     "best_quote_zh": "当复制品是免费的，你需要出售无法复制的东西。"
+  },
+  {
+    "id": 893,
+    "title": "Feline good: why kitten heel flip-flops are winning over flats-only gen Z",
+    "title_zh": "猫咪之好：猫跟凉鞋为何赢得只穿平底鞋的Z世代",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
+    "tags": [
+      "update",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-07-17",
+    "summary_en": "The article dissects why kitten‑heel flip‑flops have become the new darling of Gen Z, a cohort historically enamoured with flats. By weaving together celebrity endorsements, retail data, and cultural analysis, it shows that the appeal lies in a minimal lift that feels “casual” rather than intimidating. The piece contrasts the pandemic‑born comfort‑first ethos of Gen Z with the millennial obsession with stilettos, arguing that the kitten heel bridges the gap between practicality and glamour. It also contextualises the trend within a broader flip‑flop revival, hinting that this could be a gateway to higher heels. The narrative invites readers to consider how footwear signals identity, comfort, and a subtle shift back toward subtle elevation. It’s a nuanced, data‑driven snapshot of a generational pivot in style, offering both a fashion update and a cultural insight into the evolving relationship between comfort and femininity.",
+    "summary_zh": "这篇文章揭示了猫跟凉鞋为何成为Z世代的新宠，探讨了其在舒适与时尚之间的微妙平衡。作者通过明星示范、销售数据和文化视角，指出这类鞋子以低调的高度让人不再畏惧高跟鞋，顺应了疫情后舒适主义的潮流。文章还将其与更广泛的凉鞋复兴相连，暗示它可能是通往更高鞋跟的“入口”。整体呈现了一幅关于舒适、身份与女性气质演变的细腻图景，既是时尚更新，也是文化观察。",
+    "best_quote_en": "It’s still got that casual energy … so it’s not a very intimidating heel to wear.",
+    "best_quote_zh": "它仍然保持那种休闲能量……所以它并不是一个非常令人畏惧的高跟鞋。"
+  },
+  {
+    "id": 894,
+    "title": "A peek into the post-capitalist dystopia",
+    "title_zh": "窥探后资本主义的反乌托邦",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/3BqAGpiK3wYPiedxk/a-peek-into-the-post-capitalist-dystopia",
+    "tags": [
+      "analyze",
+      "tech-trends",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "技术趋势",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-07-19",
+    "summary_en": "The article paints San Francisco as a living laboratory for the post‑capitalist future, where the rapid rise of AI‑driven automation is already reshaping labor, wealth and power. By juxtaposing the city’s gleaming venture‑capital skyline with the concrete‑covered alleys of undocumented workers, the author argues that the next economic order will no longer reward education or effort but ownership of data, compute and AI infrastructure. The piece warns that a growing “permanent underclass” will emerge when human labor is displaced and the only valuable inputs become equity in algorithms, chips and cloud services. Readers are urged to learn the fundamentals of AI, to question the ethics of unchecked innovation, and to imagine governance models that can prevent the concentration of wealth and power. The post‑capitalist dystopia is not a distant sci‑fi scenario; it is already unfolding in the Bay Area, and its lessons must be heeded worldwide.",
+    "summary_zh": "文章把旧金山描绘成后资本主义未来的实验室，AI 自动化正在重塑劳动力、财富与权力。作者对比硅谷高楼与无证工人的混凝土巷，指出下一经济秩序将不再以教育或努力为价值，而是以数据、算力与 AI 基础设施的所有权为核心。文中警示，当人类劳动力被替代、唯一有价值的投入变为算法、芯片与云服务的股权时，永久性低层阶级将浮现。作者敦促读者学习 AI 基础、质疑无节制创新的伦理，并设想治理模式以防止财富与权力过度集中。后资本主义的反乌托邦已在湾区展开，其经验必须全球借鉴。",
+    "best_quote_en": "The central issue, then, may not be that capitalism disappears, but that human labor ceases to be the primary mechanism through which most people can participate in it.",
+    "best_quote_zh": "核心问题不在于资本主义消失，而在于人类劳动力不再是大多数人参与其中的主要机制。"
+  },
+  {
+    "id": 895,
+    "title": "Trump’s War on Journalists",
+    "title_zh": "特朗普对记者的战争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/27/trumps-war-on-journalists",
+    "tags": [
+      "update",
+      "legal",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-07-18",
+    "summary_en": "The piece dissects how former President Trump’s recent legal maneuvers—subpoenas, defamation suits, and threats to invoke the Espionage Act—aim to chill investigative journalism. By framing reporters as potential threats to national security, the administration erodes the shield of source confidentiality that underpins press freedom. The author juxtaposes the Justice Department’s portrayal of these actions as benign with the chilling effect felt by media outlets, especially smaller ones lacking the resources to fight back. The article underscores that while courts rarely compel journalists to testify, the threat of legal retaliation can deter stories that expose governmental misconduct. It calls for vigilance, legal safeguards, and public scrutiny to preserve an independent press—an essential pillar of democracy. The narrative invites readers to consider how political power can be weaponized against the very institutions that hold it accountable, urging a proactive stance to protect journalistic integrity.",
+    "summary_zh": "文章揭示特朗普利用法律工具压制记者，削弱新闻来源保密权，威胁媒体自由。司法部称此举“无害”，但对记者尤其是资源有限的媒体构成恐吓。作者呼吁公众关注，维护独立新闻的民主基石，防止权力滥用。",
+    "best_quote_en": "There’s nothing more important that an independent news media does in a democracy than reporting fully and fairly on the way public officials protect national security and use taxpayer dollars.",
+    "best_quote_zh": "在民主社会中，独立新闻媒体最重要的工作就是全面、公正地报道公共官员如何保护国家安全并使用纳税人的资金。"
+  },
+  {
+    "id": 896,
+    "title": "Sensing Wonder / Worse on Purpose / Ultimate historical maps",
+    "title_zh": "感知奇迹 / 故意失误 / 终极历史地图",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/sensing-wonder-worse-on-purpose-ultimate-historical-maps/",
+    "tags": [
+      "update",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-07-12",
+    "summary_en": "The piece weaves a mosaic of modern curiosity: a newsletter that curates internet rabbit holes into a soulful “window,” a brand‑rating service that exposes the hidden motives behind consumer goods, and an AI‑powered portal to ancient cartography. It juxtaposes these with lighter, practical discoveries—a kids’ animated series that models emotional intelligence, a travel cushion that turns a 10‑hour flight into a restful glide, and a wireless meat thermometer that turns cooking into a data‑driven science. The overarching insight is that technology can be harnessed for both profound reflection and everyday convenience. Each segment invites readers to question the value they assign to objects, media, and experiences, and to leverage emerging tools to deepen understanding or ease discomfort. The article’s strength lies in its eclectic yet coherent framing, encouraging a mindset that blends wonder with pragmatism, and reminds us that the next big leap may come from repurposing existing data rather than inventing new gadgets.",
+    "summary_zh": "文章将深度好奇与日常实用交织，展示了从灵魂化的网络兔子洞到品牌真相评估，再到AI驱动的古地图探索。随后呈现儿童情商动画、旅行座垫和无线肉温计等实用科技，提醒我们技术既能提升思考深度，也能改善日常。作者以多元视角鼓励读者重新评估价值观，善用现有数据与工具，既追求奇迹，又注重可行性。",
+    "best_quote_en": "Imagine having access to all the ancient maps of the world, and being able to explore them with AI.",
+    "best_quote_zh": "想象一下，拥有世界上所有古代地图的访问权限，并能用人工智能探索它们。"
+  },
+  {
+    "id": 897,
+    "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+    "title_zh": "如何克服对物质或行为的成瘾 | Dr. Keith Humphreys",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-overcome-addiction-to-substances-or-behaviors-keith-humphreys",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "Dr. Keith Humphreys, a Stanford psychiatry professor, dissects addiction as a complex interplay of genetics, neurobiology, and social context. He reviews the spectrum of addictive substances—from alcohol and opioids to gambling and nicotine—highlighting how genetic predisposition and usage patterns modulate risk. The episode foregrounds evidence‑based recovery pathways, juxtaposing time‑tested 12‑step programs with cutting‑edge pharmacotherapies such as psychedelics, ibogaine, ketamine, and TMS. Humphreys stresses that addiction is not a moral failing but a neurobiological disorder, urging clinicians and lay audiences alike to adopt a compassionate, data‑driven stance. He also critiques policy frameworks, exploring decriminalization versus legalization, and addresses emerging concerns like social‑media addiction. By weaving clinical anecdotes, policy analysis, and actionable guidance, the discussion equips listeners with a nuanced toolkit for prevention, intervention, and sustained recovery. The episode invites reflection on how individual choice, societal norms, and biological vulnerability converge to shape addictive trajectories, underscoring the urgency of integrating research, policy, and practice.",
+    "summary_zh": "Keith Humphreys 以遗传学与神经生物学视角剖析成瘾，涵盖酒精、鸦片、赌博等多种行为，强调成瘾是生物学疾病而非道德缺陷。他对比传统 12 步与迷幻药、伊波加因等前沿疗法，呼吁用数据驱动、同理心的干预。节目亦批判政策框架，讨论去刑事化与合法化，并关注社交媒体成瘾。通过临床案例、政策评析与可操作建议，提供预防、干预与长期恢复的全景工具，提醒个人与社会共同塑造成瘾路径，强调科研、政策与实践的协同。",
+    "best_quote_en": "The best evidence-based tools for recovery range from 12‑step programs to emerging treatments such as psychedelics and ibogaine.",
+    "best_quote_zh": "最佳循证康复工具包括12步计划以及如迷幻药和伊波加因等新兴治疗方法。"
   }
 ]
