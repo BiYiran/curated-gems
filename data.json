@@ -1,123 +1,5 @@
 [
   {
-    "id": 798,
-    "title": "How to Do Philosophy",
-    "title_zh": "如何做哲学",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/philosophy.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-06-27",
-    "summary_en": "The essay is a candid, meta‑philosophical critique that traces the author’s personal journey from high‑school shock value to a sober appraisal of the discipline’s historic failures and potential. It argues that philosophy’s core problem is the lack of a core body of knowledge and the overreliance on imprecise language, which leads to endless debate and little actionable insight. The author proposes a pragmatic re‑orientation: focus on the most general truths that are also useful, and measure philosophical work by its impact on readers’ actions. This reframing echoes Aristotle’s original ambition but flips the motive from curiosity‑driven to utility‑driven, offering a way to escape the “singularity” of obscure texts that attract only the intellectually ambitious. The essay is simultaneously critical and hopeful, suggesting that philosophy can be revitalized by treating it as a toolkit for generalizable, practical wisdom rather than an abstract, untestable pursuit. It invites scholars, students, and practitioners to rethink the discipline’s purpose, methodology, and criteria for success.",
-    "summary_zh": "作者以自述的方式，剖析哲学的历史缺陷——缺乏核心知识、语言模糊导致的无意义争辩，并提出以“通用且有用”为导向的实用哲学新框架，呼吁学界重塑评判标准。",
-    "best_quote_en": "\"The test of utility I propose is whether we cause people who read what we've written to do anything differently afterward.\"",
-    "best_quote_zh": "“我提出的有用性测试是，看我们写的东西是否能让读者之后有所行动。”"
-  },
-  {
-    "id": 799,
-    "title": "The Supreme Court Enables Trump’s Cruel Immigration Agenda",
-    "title_zh": "最高法院助推特朗普残酷的移民议程",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-supreme-court-enables-trumps-cruel-immigration-agenda",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "By dissecting two recent Supreme Court rulings, the article exposes how a conservative majority has reshaped U.S. asylum law to favor executive enforcement over individual rights. The author frames the decisions as a direct extension of Trump’s hard‑border agenda, citing the historic St. Louis tragedy to underscore the moral stakes. The analysis critiques the Court’s literal reading of “arrival” to justify pre‑border detention, and highlights the erosion of judicial oversight in Temporary Protected Status revocations. While acknowledging rare bipartisan checks on executive power, the article argues that the Court’s deference to presidential authority in immigration matters signals a dangerous precedent. The author calls for systemic reform—streamlining asylum courts and restoring meaningful checks on TPS—to prevent future abuses. The article blends legal scholarship with political commentary, offering readers a data‑driven case study that challenges readers to rethink the balance between border security and humanitarian duty.",
-    "summary_zh": "文章通过剖析两项最高法院判决，揭示保守派多数如何将美国庇护法转向行政执法，削弱个人权利。作者引用历史悲剧，批评法院对“抵达”的字面解读，导致边境预先拘留。对临时保护身份的撤销缺乏司法监督，凸显行政权力膨胀。文章呼吁改革，重建审查机制，防止未来滥用，呈现一份数据驱动的案例研究，促使读者重新思考边境安全与人道义务的平衡。",
-    "best_quote_en": "The majority’s interpretation permits the Government to do that even if the refugees complied with all applicable laws and regulations, even if the port had ample capacity to inspect them, and even if turning them back would result in the very persecution from which they narrowly escaped.",
-    "best_quote_zh": "若M.S. St. Louis的难民今日走到我们南部边境的入境口岸，最高法院多数意见将允许移民官员通过物理阻止他们踏上美国土地，甚至拒绝考虑他们的庇护申请。"
-  },
-  {
-    "id": 800,
-    "title": "Book Freak: The skeptic’s guide to meditation that actually works",
-    "title_zh": "Book Freak：怀疑者的有效冥想指南",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-the-skeptics-guide-to-meditation-that-actually-works/",
-    "tags": [
-      "guide",
-      "psychology",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "The article distills David Harris’s book *10% Happier* into a pragmatic playbook for skeptical readers, reframing meditation as a tool for emotional regulation rather than a mystical practice. Harris argues that we cannot stop intrusive thoughts, but we can change our relationship to them—observe, name, and respond. The piece highlights four core principles: the irreversibility of thoughts, the malevolent nature of the inner critic, the power of self‑compassion, and a quick “Is this useful?” filter to halt unproductive rumination. By pairing theory with concrete 5‑minute exercises—breath focus, utility checks, self‑compassion reframes, and active listening—the article offers a low‑friction entry point for anyone wary of traditional mindfulness. It blends scientific anecdotes with everyday language, making it accessible yet grounded. The tone invites curiosity, encouraging readers to experiment and observe outcomes, thereby turning meditation from a passive belief into an active, measurable habit. This synthesis is valuable for busy professionals, students, and anyone seeking a realistic, evidence‑based approach to mental resilience.",
-    "summary_zh": "这篇文章把《10% Happier》拆解成懒散读者可操作的实用指南，强调我们不能阻止想法，却能改变对它们的反应。核心原则包括：思维不可控但可观测、内在批评者并非朋友、同情胜过自责，以及“这有用吗？”的快速筛查。配合5分钟呼吸、效用测试、自我同情、全神贯注等练习，作者把冥想从抽象概念变为可测量的习惯。语言亲切、数据支撑，适合忙碌的职场人、学生或任何想用科学方法提升情绪弹性的人。",
-    "best_quote_en": "\"There’s no point in being unhappy about things you can’t change, and no point being unhappy about things you can.\"",
-    "best_quote_zh": "“对无法改变的事不该不开心，对能改变的事也不该不开心。”"
-  },
-  {
-    "id": 801,
-    "title": "Sony Music Publishing wins Publisher of the Year at 2026 ASCAP Rhythm & Soul Awards",
-    "title_zh": "索尼音乐出版部在2026年ASCAP节奏与灵魂奖中荣获年度出版商奖",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-ascap-rhythm-soul-awards/",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "Sony Music Publishing’s triumph as Publisher of the Year at the 2026 ASCAP Rhythm & Soul Awards signals a pivotal moment for the company’s strategic positioning within the contemporary music ecosystem. The accolade, grounded in Luminate’s radio and streaming data, underscores SMP’s capacity to nurture songwriting talent that consistently dominates key R&B, hip‑hop, and gospel charts. The ceremony highlighted a roster of high‑profile winners—Mustard, Leon Thomas, and the Vanguard Award recipient—illustrating the symbiotic relationship between individual artistry and corporate stewardship. From a business‑model perspective, the award amplifies SMP’s brand equity, reinforcing its value proposition to artists and partners alike. Moreover, the recognition serves as a case study in leveraging data‑driven insights to guide publishing decisions, a practice that could inform broader industry strategies for talent acquisition and catalog curation. In sum, the honor not only celebrates past achievements but also charts a forward‑looking trajectory for SMP’s influence on music creation and distribution.",
-    "summary_zh": "索尼音乐出版部获2026年ASCAP节奏与灵魂奖年度出版商奖，凸显其在R&B、嘻哈与福音音乐领域的影响力与数据驱动的战略价值，为行业提供了关于人才培养与版权管理的案例研究。",
-    "best_quote_en": "This achievement reflects the extraordinary impact of SMP’s songwriters, whose work continues to inspire audiences around the world.",
-    "best_quote_zh": "这项成就反映了SMP作曲家的非凡影响力，他们的作品持续激励全球观众。"
-  },
-  {
-    "id": 802,
-    "title": "The one change that worked: I saw a woman lift 100kg and decided: ‘I want to do that!’",
-    "title_zh": "一次改变的力量：我看到一位女性举起100公斤，我决定：‘我也想做到！’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jun/22/the-one-change-that-worked-i-saw-a-woman-lift-100kg-and-decided-i-want-to-do-that",
-    "tags": [
-      "guide",
-      "medicine",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2026-06-22",
-    "summary_en": "Laura Evans’s narrative is a compelling study in the psychology of motivation and the transformative power of measurable progress. By framing strength training around a concrete, audacious goal—deadlifting 100 kg—she turns abstract health advice into a tangible, personal mission. The story highlights how incremental, data‑driven benchmarks can rewire a person’s self‑efficacy, especially for those who have historically felt excluded from athletic spaces. Evans’s journey from a reluctant exerciser to a confident lifter underscores the intersection of physical capability and emotional resilience, illustrating that empowerment can emerge from disciplined, goal‑oriented practice rather than fleeting trends. Her account invites readers to question societal norms about femininity and fitness, offering a nuanced critique of “body‑image” culture while celebrating the tangible benefits of strength training for everyday life. In doing so, the article serves as both inspiration and a practical guide, encouraging others to adopt a similar evidence‑based, goal‑centric approach to personal development.",
-    "summary_zh": "劳拉·埃文斯的故事展示了目标设定与可量化进步如何重塑自我效能，尤其是对传统上被排斥的女性群体。她将举重目标定为100 kg，既挑战自我，也为日常生活带来实用力量。",
-    "best_quote_en": "I could pick up my children without wincing.",
-    "best_quote_zh": "我可以毫不疼痛地抬起孩子。"
-  },
-  {
     "id": 803,
     "title": "News from the Front",
     "title_zh": "前线新闻",
@@ -2352,5 +2234,125 @@
     "summary_zh": "Keith Humphreys 以遗传学与神经生物学视角剖析成瘾，涵盖酒精、鸦片、赌博等多种行为，强调成瘾是生物学疾病而非道德缺陷。他对比传统 12 步与迷幻药、伊波加因等前沿疗法，呼吁用数据驱动、同理心的干预。节目亦批判政策框架，讨论去刑事化与合法化，并关注社交媒体成瘾。通过临床案例、政策评析与可操作建议，提供预防、干预与长期恢复的全景工具，提醒个人与社会共同塑造成瘾路径，强调科研、政策与实践的协同。",
     "best_quote_en": "The best evidence-based tools for recovery range from 12‑step programs to emerging treatments such as psychedelics and ibogaine.",
     "best_quote_zh": "最佳循证康复工具包括12步计划以及如迷幻药和伊波加因等新兴治疗方法。"
+  },
+  {
+    "id": 898,
+    "title": "The rave secret: why middle-aged women are larging it – and seeing big health benefits",
+    "title_zh": "狂欢的秘密：中年女性为何放弃它——以及获得巨大健康益处",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/20/the-rave-secret-why-middle-aged-women-are-larging-it-and-seeing-big-health-benefits",
+    "tags": [
+      "analyze",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "The article uncovers a paradoxical trend: middle‑aged women increasingly return to raves, finding not just euphoria but tangible mental‑health benefits. Drawing on a 2025 Leeds study and interviews, it shows that the dancefloor offers a liminal space where age hierarchies dissolve, fostering belonging and social entrainment that releases stress and boosts mood. The piece critically interrogates internalised ageism and the cultural stigma that frames rave culture as illicit, arguing instead that inclusive clubbing is a form of collective self‑regulation and identity reclamation. It highlights how rhythmic movement synchronises bodies, triggering shared neural responses that enhance cohesion and wellbeing. The article also notes practical shifts: daytime raves, cleaner venues, and a generational shift that sees younger audiences embracing wellness‑oriented clubbing. Overall, it invites readers to reconsider nightlife as a legitimate, evidence‑based intervention for midlife burnout, perimenopause, and social isolation, while cautioning against over‑glorification of drug use and late‑night fatigue.",
+    "summary_zh": "文章揭示中年女性重返狂欢的悖论：在舞池中，她们找到了情绪释放与心理健康的双重收益。研究表明，节奏同步可增强社交纽带，冲淡年龄偏见。作者批判将俱乐部视为非法的刻板印象，认为包容性舞会是一种集体自我调节与身份重塑。文章还提到场馆清洁、日间活动与年轻人对健康化俱乐部的接受，呼吁将夜生活视为对中年倦怠与更年期的循证干预。",
+    "best_quote_en": "People moving together increases social connection and bonding, and that entrainment with other people I think is particularly the case for beat‑based music.",
+    "best_quote_zh": "人们一起移动会增强社交联系和纽带，我认为这种同步尤其适用于节奏型音乐。"
+  },
+  {
+    "id": 899,
+    "title": "What is AI-Risks and the points？",
+    "title_zh": "什么是 AI 风险及其要点？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MbHQQLBbchWPKoyHB/what-is-ai-risks-and-the-points",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "The article offers a nuanced exploration of AI risks, framing them within both enterprise and individual contexts. It highlights security vulnerabilities—such as AI‑driven attacks on critical infrastructure—and the erosion of accountability when massive, unverified data streams infiltrate internal workflows. The author warns that unchecked data quality can create a feedback loop, where unreliable inputs perpetuate flawed outputs, eroding organizational trust. On a personal level, the piece links increased desk work to physical strain and raises a more subtle concern: AI’s potential to ‘optimize’ human emotions, thereby compromising autonomy and fostering psychological dependency. The discussion is grounded in real‑world examples and calls for systematic monitoring and countermeasures. Readers gain actionable insights into safeguarding data integrity, maintaining human agency, and designing resilient AI governance frameworks—making this a valuable resource for technologists, managers, and policy makers alike.",
+    "summary_zh": "文章从企业与个人双重视角深入剖析AI风险，揭示安全漏洞与责任模糊，并警示数据质量缺失会形成恶性循环。它还探讨AI可能“优化”人类情绪的隐忧，强调建立监测与治理体系的重要性，为技术、管理与政策制定者提供可操作的防护思路。",
+    "best_quote_en": "AI might oddly \"optimize\" people’s subjective states themselves.",
+    "best_quote_zh": "AI 可能奇怪地“优化”人们的主观状态本身。"
+  },
+  {
+    "id": 900,
+    "title": "Florentina Holzinger’s Naked Ambition",
+    "title_zh": "Florentina Holzinger的赤裸野心",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/27/florentina-holzingers-naked-ambition",
+    "tags": [
+      "learn",
+      "music-arts",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "Florentina Holzinger’s Venice Biennale installation, “SEAWORLD VENICE,” turns the Austrian pavilion into a living, bio‑fluid laboratory that forces audiences to confront bodily norms and institutional fragility. By submerging herself and her collaborators in a tank of filtered porta‑potty urine, she juxtaposes the grotesque with the contemplative, turning shock into a meditation on crisis, feminism, and the limits of artistic control. The piece exposes the logistical nightmare of large‑scale performance art—unexpected plumbing failures, safety protocols, and the blurred line between spectacle and genuine risk—while also celebrating the collaborative improvisation that sustains her work. Holzinger’s narrative reveals a self‑critical feminist stance: she uses nudity not for shock alone but to interrogate gendered power structures, making the body both subject and site of critique. The Biennale’s reception underscores a broader cultural appetite for art that challenges comfort zones, yet the piece also invites critical reflection on the ethics of bodily exploitation in contemporary performance. Overall, Holzinger’s work exemplifies how radical art can simultaneously provoke, educate, and expose the infrastructural vulnerabilities that underlie cultural production.",
+    "summary_zh": "Florentina Holzinger在威尼斯双年展的作品“SEAWORLD VENICE”将奥地利馆变成活体生物实验室，观众被迫面对身体与制度脆弱性。她用排泄物填充的水箱让裸体表演与危机思考交织，既是对身体规范的挑战，也是对女性主义与艺术控制极限的深刻反思。作品暴露了大型表演艺术的后勤难题——管道故障、安保与艺术与风险的模糊边界，同时展现协作即兴的力量。Holzinger通过裸露与身体的再现，批判性探讨性别权力结构，让身体既是主体也是批判对象。该作品的热烈反响反映了公众对突破舒适区艺术的渴望，同时也提醒人们关注身体利用的伦理与文化生产的基础设施脆弱性。",
+    "best_quote_en": "It gets depicted as this shocking, radical thing, but if you come from experimental theatre there is nothing shocking or radical about it.",
+    "best_quote_zh": "它被描绘成一种震撼、激进的作品，但如果你来自实验戏剧界，却没有任何震撼或激进的成分。"
+  },
+  {
+    "id": 901,
+    "title": "Hoppers / Cognitive shuffling / Airplane phone holder",
+    "title_zh": "《Hoppers》/ 认知混淆 / 飞机座位手机支架",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/hoppers-cognitive-shuffling-airplane-phone-holder/",
+    "tags": [
+      "guide",
+      "design",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2026-07-19",
+    "summary_en": "The piece stitches together a personal curation of tech hacks, media, and self‑care, illustrating how everyday curiosity can become a resource map. It opens with Pixar’s “Hoppers,” a film that restores Disney‑Pixar’s whimsical DNA while layering animal‑robotic ecology, hinting at narrative complexity that can inspire creators. The next section turns to cognitive shuffling—a word‑based visual trick that nudges the mind into hypnagogia, offering a low‑cost insomnia aid. A practical gadget follows: a tiny magnetic clamp that turns any tray or seatback into a stable phone mount, a reminder that elegant engineering often lives in overlooked spaces. The article also uncovers a hidden iPhone accessibility setting that turns the phone into a kid‑friendly dumb device, blending safety with tech‑savvy parenting. Finally, the author shares a personal “inner‑life” toolkit—from red‑light therapy to audio transcription—and a reading club that revives forgotten literature. Together they showcase a holistic approach to learning, problem‑solving, and inspiration, underscoring that value lies in both the obvious hacks and the quiet rituals that shape our days.",
+    "summary_zh": "文章把电影点评、睡眠技巧、手机支架、儿童安全设定与个人自我关怀巧妙串联，展示日常好奇如何转化为实用资源。它先评“Hoppers”，强调创意与生态叙事；随后介绍认知混淆法，帮助入睡；再给出磁性夹具，解决机舱手机滑落；再揭示iPhone隐藏功能，打造儿童安全机；最后分享红光疗法、录音笔与阅读俱乐部，体现学习、解决与灵感的融合，提醒我们价值在细节与仪式中。",
+    "best_quote_en": "It might not be my favorite entry into sleep, but it did work and could be helpful to those struggling with insomnia.",
+    "best_quote_zh": "它可能不是我最喜欢的入睡方式，但确实有效，可能对正在与失眠作斗争的人有帮助。"
+  },
+  {
+    "id": 902,
+    "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+    "title_zh": "加速学习与提升认知能力 | Dr. Tommy Wood",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood",
+    "tags": [
+      "learn",
+      "medicine",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "Dr. Tommy Wood, a neuroscience professor at the University of Washington, dissects the science of neuroplasticity, exercise, nutrition, and supplements that can accelerate learning and preserve cognitive health. He explains how specific motor and cognitive challenges, high‑intensity interval training, and targeted dietary interventions—omega‑3s, GLP‑1 agonists, and creatine—can rewire the brain even in older adults. The episode also covers practical, evidence‑based tools for reducing dementia risk, managing post‑concussion recovery, and optimizing focus through timing and supplementation. While the advice is grounded in peer‑reviewed research, some recommendations lean toward emerging interventions with limited long‑term data. Nonetheless, the episode offers a holistic, actionable framework that blends exercise, nutrition, and cognitive training—making it a valuable resource for learners, clinicians, and anyone interested in neuro‑enhancement. The insights underscore that learning is a dynamic, modifiable process and invite listeners to experiment responsibly with science‑backed protocols.",
+    "summary_zh": "托马斯·伍德博士在本集深入探讨神经可塑性、运动、营养与补充剂如何加速学习与提升认知功能。他阐述了针对老年人可重塑大脑的运动挑战、间歇高强度训练以及富含欧米伽‑3、GLP‑1激动剂和肌酸的饮食方案，并提供降低认知衰退风险、脑损伤恢复和专注力提升的实证工具。内容以循证研究为基石，虽部分干预仍处于探索阶段，但整体框架兼顾可操作性与前瞻性，适合学习者、临床工作者及关注神经提升的公众。",
+    "best_quote_en": "This episode provides practical, science‑based tools for learning new information and skills and for improving your overall ability to learn.",
+    "best_quote_zh": "本集提供实用、基于科学的工具，帮助学习新信息和技能，并提升整体学习能力。"
   }
 ]
