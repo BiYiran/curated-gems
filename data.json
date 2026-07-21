@@ -1,77 +1,5 @@
 [
   {
-    "id": 803,
-    "title": "News from the Front",
-    "title_zh": "前线新闻",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/colleges.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-06-28",
-    "summary_en": "Y Combinator’s investment data reveals that the prestige of a college is a weak predictor of startup success. The author argues that a founder’s effort, market fit, and personal initiative matter far more than the institution they attended. By comparing thousands of applicants, the analysis shows that individual variation dwarfs school variation, rendering elite‑college status largely irrelevant. The piece critiques corporate hiring practices that overvalue prestigious credentials and the superficial authority of university rankings. It urges a shift from grade‑centric, prestige‑driven goals toward genuine learning, doing, and self‑made achievement, suggesting that the real path to success lies in what you create, not where you studied.",
-    "summary_zh": "文章以 Y Combinator 的投资经验为例，揭示了大学名校与创业成功之间的弱关联。作者指出，创业的成败取决于创始人的努力与市场需求，而非学校背景。通过大量数据对比，作者证明个体差异远大于院校差异，强调自我学习和实践的重要性。文章批判了企业对名校的盲目偏好和大学排名的表面权威，提醒读者关注真正能驱动价值的因素。",
-    "best_quote_en": "The variation between schools is so much smaller than the variation between individuals that it's negligible by comparison.",
-    "best_quote_zh": "学校之间的差异远小于个人之间的差异，以至于可以忽略不计。"
-  },
-  {
-    "id": 804,
-    "title": "A partner who plays music",
-    "title_zh": "一位热爱音乐的伴侣",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GdcpiegJHoxFs7EXk/a-partner-who-plays-music",
-    "tags": [
-      "solve",
-      "music-arts",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-06-28",
-    "summary_en": "KatjaGrace’s rambling diary entry offers a surprisingly rich meditation on the intersection of intimacy, creativity, and the social rituals that surround sharing art. She wrestles with the paradox of being a “curmudgeonly appreciation‑prude” who feels both compelled to listen and terrified of over‑engagement. The narrative oscillates between the mundane (listening to a friend’s song on repeat) and the transcendent (the moment “Au Fond du Temple Saint” pulls her out of hyperventilation). The author’s candid description of emotional paralysis—“I sat there. I couldn’t just listen to it again. I couldn’t just do something else”—captures the awkward tension that can arise when a romantic interest is also a creator. Her reflection on whether love for the music is a proxy for a crush, or a genuine aesthetic appreciation, invites readers to question the boundaries between art and attraction. The piece is less a how‑to guide than a case study in emotional navigation, offering a raw, human‑centered lens on how we negotiate desire, authenticity, and the music that binds us.",
-    "summary_zh": "作者在自我反思中探讨音乐与亲密关系的交汇，既有日常聆听的平凡，也有“Au Fond du Temple Saint”让人喘息的超凡。她坦言情绪僵硬——“我坐在那里，无法再听，也无法做别的事”，揭示了当伴侣也是创作者时的尴尬与冲突。文章不只是指南，而是一份关于情感导航的案例研究，提醒我们在爱与艺术之间划清界限，保持真实与自我。",
-    "best_quote_en": "I sat there. I couldn’t just listen to it again. I couldn’t just do something else.",
-    "best_quote_zh": "我坐在那里，无法再听，也无法做别的事。"
-  },
-  {
-    "id": 805,
-    "title": "OnlyFans Creators Bare All",
-    "title_zh": "OnlyFans创作者全裸",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker-photo-portfolio",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-28",
-    "summary_en": "The piece unspools a kaleidoscopic portrait of the OnlyFans ecosystem, framing it not merely as a platform for erotic content but as a microcosm of contemporary labor, identity, and digital economy. It juxtaposes pioneering cam‑girls of the early 2000s with a 2026 cohort of creators who blend sex work with entrepreneurship, activism, and even philanthropy. The narrative interrogates the myth of the \"lottery ticket\"—a myth debunked by a 2025 survey that finds the average payout around five thousand dollars a month—while foregrounding the platform’s role in normalizing sex work and challenging stigma. The article also probes the platform’s cultural impact: from celebrity endorsements to the emergence of niche sub‑cultures, from legal controversies to the economic empowerment of marginalized creators. It invites readers to rethink the intersection of intimacy, commerce, and agency, urging a nuanced conversation about how digital platforms reshape labor, identity, and societal norms in a post‑pandemic world.",
-    "summary_zh": "文章以OnlyFans为镜，探讨数字平台如何重塑劳动、身份与社会规范。它揭示了从早期摄像女郎到2026年多元化创作者的演变，挑战“中彩票”式的成功神话，并指出平台在性工作去污名化中的作用。通过案例、调查与文化现象，作者呼吁读者重新审视亲密、商业与自主的交织，推动关于数字经济与社会变迁的深度对话。",
-    "best_quote_en": "\"Content creation is neither the winning lottery ticket portrayed by the tabloids nor the labor trafficking scam portrayed by antiporn groups,\" the 2025 survey concluded.",
-    "best_quote_zh": "\"内容创作既不是媒体所描绘的中奖彩票，也不是反色情团体所描述的劳工贩运骗局。\""
-  },
-  {
     "id": 806,
     "title": "Solo Travel Cities/Foreign Taxes/Canada vs. Nomads",
     "title_zh": "独自旅行城市/外国税务/加拿大与数字游牧者",
@@ -2354,5 +2282,75 @@
     "summary_zh": "托马斯·伍德博士在本集深入探讨神经可塑性、运动、营养与补充剂如何加速学习与提升认知功能。他阐述了针对老年人可重塑大脑的运动挑战、间歇高强度训练以及富含欧米伽‑3、GLP‑1激动剂和肌酸的饮食方案，并提供降低认知衰退风险、脑损伤恢复和专注力提升的实证工具。内容以循证研究为基石，虽部分干预仍处于探索阶段，但整体框架兼顾可操作性与前瞻性，适合学习者、临床工作者及关注神经提升的公众。",
     "best_quote_en": "This episode provides practical, science‑based tools for learning new information and skills and for improving your overall ability to learn.",
     "best_quote_zh": "本集提供实用、基于科学的工具，帮助学习新信息和技能，并提升整体学习能力。"
+  },
+  {
+    "id": 903,
+    "title": "One Man’s Quest to Fix Every Deadly Guardrail",
+    "title_zh": "一名男子的使命：修复所有致命护栏",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/07/27/one-mans-quest-to-fix-every-deadly-guardrail",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2026-07-20",
+    "summary_en": "Steve Eimers’ grief‑driven crusade exposes a silent, systemic failure in highway safety that most Americans take for granted. After his daughter Hannah was impaled by a poorly installed guardrail, he turned from a window‑washing entrepreneur into a full‑time investigator, cataloguing thousands of defects and lobbying for industry transparency. The story is a sobering reminder that safety engineering is as much a political and cultural battle as it is a technical one. Eimers’ relentless data‑collection, YouTube advocacy, and legislative lobbying illustrate the power of individual agency when coupled with rigorous evidence. Yet the narrative also exposes a deeper paradox: the very systems designed to protect us can become lethal when ignored or misapplied, revealing a gap between engineering standards and on‑the‑ground implementation. The piece invites readers to question the trust we place in infrastructure, the accountability of manufacturers, and the role of citizen watchdogs in shaping public policy. It underscores the urgency of transparent design, proper installation, and continuous monitoring as prerequisites for real safety.\n",
+    "summary_zh": "史蒂夫·艾默斯因女儿被不当护栏致命而发起的斗争，揭示了美国公路安全体系的深层缺陷。通过对数千条缺陷记录的整理与公开，他将个人悲痛转化为对制造商透明度与立法改革的推动，证明了单个公民在技术与政治双重舞台上的力量。此事提醒我们，安全工程的标准与实际安装往往脱节，导致本该保护人身的设施变成致命武器。艾默斯的行动呼唤更严格的设计规范、正确的安装流程以及持续的监管，才能真正保障道路安全。\n",
+    "best_quote_en": "I once had someone tell me that the most influential people in history often only ever get a one‑degree turn of the ship, which seems inconsequential— but over time you end up at a completely different destination.",
+    "best_quote_zh": "我曾听人说，历史上最有影响力的人往往只转动船只一度，似乎无关紧要——但随着时间推移，你最终会抵达完全不同的目的地。"
+  },
+  {
+    "id": 904,
+    "title": "The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
+    "title_zh": "随机秀——Tim与Kevin谈论静修、死亡、AI预测、补剂、接近50岁时的攀岩，以及不再等待“某天” (#875)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/16/the-random-show/",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-07-16",
+    "summary_en": "In this episode, Tim Ferriss and Kevin Rose blend personal narrative with actionable wisdom, creating a mosaic that spans mortality, mindfulness, and future tech. They open with a tequila toast that frames aging as a subtle tax on perception, segueing into a Zen retreat where the koan “Mu” becomes a metaphor for confronting the unknown. The conversation then pivots to the practicalities of rock‑climbing after forty, illustrating how late‑stage skill acquisition can defy conventional timelines. A thread of health science runs through the dialogue: from ketone supplements and A2 protein to the MM120 anxiety trial, each anecdote is paired with a data‑driven insight that invites listeners to experiment. The AI segment is forward‑looking, critiquing personalization algorithms while predicting the next wave of generative models. Throughout, Ferriss and Rose champion the ethic of “not waiting for someday,” urging proactive living and continuous learning. Their blend of expert insight, experiential storytelling, and future‑focused analysis makes the episode a rich resource for anyone seeking both inspiration and concrete tools to navigate an uncertain world.",
+    "summary_zh": "Tim与Kevin在此期节目中以个人故事与可操作智慧交织，探讨死亡、正念与前沿科技。先以特基酒举杯，暗示年龄带来的感知税，随后进入禅修，‘Mu’禅语映射未知。随后讨论四十后攀岩，证明晚年技能获取亦可突破常规。健康科学贯穿全程：从酮补剂、A2蛋白到MM120焦虑试验，每段都配以数据驱动洞见，鼓励实验。AI话题前瞻性强，批判个性化算法并预测下一波生成模型。全程倡导“别再等待某天”，鼓励主动生活与持续学习。专家洞见、经验叙事与前瞻分析交融，成为不确定世界中启发与实用工具的宝库。",
+    "best_quote_en": "Not waiting for “Someday”",
+    "best_quote_zh": "不再等待‘某天’"
+  },
+  {
+    "id": 905,
+    "title": "The Happy Cent ¢",
+    "title_zh": "快乐一分",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/the-happy-cent-poem/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-07-13",
+    "summary_en": "The poem \"The Happy Cent\" turns a humble penny into a powerful symbol of gratitude and perspective. It invites readers to carry a tiny smile—literally etched on a coin—through everyday life as a constant reminder of the small blessings that often go unnoticed. The verses weave a narrative that contrasts the fleeting trials we face with the steady presence of appreciation, suggesting that a single, tangible token can shift our focus from frustration to joy. The author cleverly uses the penny as a metaphor for the broader human experience: a reminder of those less fortunate, a prompt to reframe discomfort, and an affirmation that love and generosity can outweigh material scarcity. The poem’s practical appeal lies in its simplicity: a physical object that can be kept in a pocket, making the abstract practice of gratitude concrete and accessible. By framing gratitude as a tangible, everyday ritual, the piece offers a low‑cost, high‑impact strategy for cultivating resilience and optimism, resonating with anyone seeking a small but meaningful change in mindset.\n\n",
+    "summary_zh": "这首《快乐一分》用一枚小小的便士，象征感恩与视角的力量。作者把便士的微笑化作日常生活中的提醒，让我们在困境中寻找小小的喜悦。它通过与不幸者的对比，提醒我们把焦点从抱怨转向欣赏，甚至把不适转化为微笑。便士的存在使感恩变得可触可感，低成本却高效，适合任何想要通过小改变提升心态的人。",
+    "best_quote_en": "It reminds me of others less fortunate / Making my situation less bleak.",
+    "best_quote_zh": "它提醒我那些不那么幸运的人 / 让我的处境不那么黯淡。"
   }
 ]
