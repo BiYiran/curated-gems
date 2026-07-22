@@ -1,123 +1,5 @@
 [
   {
-    "id": 806,
-    "title": "Solo Travel Cities/Foreign Taxes/Canada vs. Nomads",
-    "title_zh": "独自旅行城市/外国税务/加拿大与数字游牧者",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/solo-travel-cities-foreign-taxes-canada-vs-nomads/",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "This concise newsletter slices the nomad experience into four sharp insights. It starts by spotlighting the most popular solo‑travel cities—Toronto, Kuala Lumpur, Singapore, São Paulo, and even a tiny Salvadorian town—revealing how free walking tours can serve as social hubs for lone wanderers. The second bite demystifies a common expatriate headache: local income tax liabilities. It catalogs jurisdictions where foreign‑earned income is tax‑neutral, highlighting Latin America’s generosity and the Philippines’ favorable stance for remote workers. The third section warns of Canada’s tightened rules, demanding proof that digital nomads earn entirely outside Canada, a regulatory hurdle that could derail spontaneous work‑travel plans. Finally, the piece pivots to energy policy, noting that U.S. solar installations have eclipsed coal, a trend amplified by Trump‑winning states’ capacity additions. Together, these snippets paint a picture of a world where travel, taxation, immigration, and sustainability intersect, offering travelers actionable data, legal foresight, and a glimpse of shifting global priorities.",
-    "summary_zh": "本周简讯以四条要点勾勒数字游牧者的全景：首推热门独行城市，展示免费徒步如何成为社交平台；解析哪些国家对境外收入免税，帮助远程工作者规避税务陷阱；警示加拿大新规要求证明全部收入来自境外，提醒行前准备；并指出美国太阳能已超越煤炭，映射能源转型趋势。内容兼具实用与前瞻，激发读者对旅行、税务、移民与可持续发展的深度思考。",
-    "best_quote_en": "digital nomads now “must provide sufficient documentation to demonstrate that their income is earned entirely outside Canada and that they will be working remotely for a foreign employer or, if self‑employed, that they will be providing services exclusively to clients outside Canada.”",
-    "best_quote_zh": "数字游牧者现在“必须提供足够的文件，证明他们的收入完全来自加拿大境外，并且他们将为外国雇主远程工作，或者如果是自雇，则必须仅为加拿大境外的客户提供服务。”"
-  },
-  {
-    "id": 807,
-    "title": "How Not to Die",
-    "title_zh": "如何不死亡",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/die.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-06-29",
-    "summary_en": "Y Combinator’s founder delivers a candid talk on startup survival, framing failure as the inevitable fate for half the companies he funds. He argues that the real success metric is simply not dying, and that staying in regular contact, maintaining momentum, and avoiding distractions are the most reliable predictors of longevity. The speech blends hard data—such as the 100 % accuracy of silence as a death signal—with psychological insights about fear of failure, public humiliation, and the power of a committed core user base. He warns against the common “we’ll keep working” mindset that masks resignation, and urges founders to treat their venture as a full‑time, high‑stakes endeavor. The message is both a sobering reminder of startup volatility and a pragmatic playbook: keep iterating, stay engaged, and never give up. It invites founders to view survival as the first step toward wealth, reframing the startup journey as a battle against demoralization rather than a lottery.",
-    "summary_zh": "YC创始人以坦诚的语调阐述创业生存之道：失败是公司的一半命运，真正的成功是活下来。通过数据和心理洞察，他指出保持定期沟通、持续进展、避免分心是预防死亡的关键。警示“我们会继续努力”往往掩盖放弃，强调将创业视为全职高风险任务。信息既是对创业波动的严肃提醒，也是实用手册：持续迭代、保持投入、永不放弃，重塑生存为战胜沮丧的过程，最终走向财富。",
-    "best_quote_en": "If you can just avoid dying, you get rich.",
-    "best_quote_zh": "只要避免失败，你就能致富。"
-  },
-  {
-    "id": 808,
-    "title": "Works in Progress / 100 greatest bird names / Cat water fountain",
-    "title_zh": "Works in Progress / 100 greatest bird names / Cat water fountain",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/works-in-progress-100-greatest-bird-names-cat-water-fountain/",
-    "tags": [
-      "learn",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-06-28",
-    "summary_en": "This eclectic newsletter blends a referral‑based incentive scheme with a curated roundup of niche products and thought‑provoking content. The author rewards readers for sharing the free newsletter—offering exclusive PDFs, AMA invites, and personalized doodles—thereby turning passive consumption into a community‑building activity. The piece spotlights \"Works in Progress,\" a Stripe‑backed print magazine that champions underrated ideas across tech, science, and culture, positioning itself as a tangible counter‑point to the digital‑only Substack landscape. The author also shares a whimsical list of the 100 greatest bird names, a stainless‑steel cat water fountain review, and a nostalgic look at early web folk art, all underscored by a personal touch that invites readers to appreciate both tangible and intangible value. The content’s core insight is the power of tangible, well‑designed media to foster deeper engagement, while the referral program demonstrates how value‑based incentives can grow an audience organically. Overall, the newsletter exemplifies a hybrid model of content curation, community building, and product advocacy that resonates with readers seeking both novelty and actionable recommendations.",
-    "summary_zh": "这份多元化的简报将推荐奖励与精选产品、前沿想法相结合。作者通过提供独家PDF、AMA邀请和手绘感谢卡，鼓励读者分享免费简报，形成社区成长。重点介绍Stripe支持的印刷杂志《Works in Progress》，强调纸质媒介的独特价值；同时分享百鸟名称、猫用水喷泉、早期网页民俗艺术等趣味内容，体现了对实物与数字体验的双重关注。",
-    "best_quote_en": "Works in Progress is the only magazine I get delivered on paper; I enjoy reading its designed pages, and getting the extra bits you don’t get online.",
-    "best_quote_zh": "《Works in Progress》是我唯一收到纸质版的杂志；我喜欢阅读它精心设计的页面，并获得线上没有的额外内容。"
-  },
-  {
-    "id": 809,
-    "title": "HYBE’s Big Hit cracks down on ‘egregious and unlawful conduct’ targeting CORTIS, as fans attach GPS trackers to artists’ vehicles",
-    "title_zh": "HYBE旗下BIGHIT音乐严厉打击针对CORTIS的‘严重且违法行为’，粉丝在艺人车辆上安装GPS追踪器",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/hybes-big-hit-cracks-down-on-egregious-and-unlawful-conduct-targeting-cortis-as-fans-attach-gps-trackers-to-artists-vehicles/",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-06-29",
-    "summary_en": "HYBE’s BIGHIT MUSIC has taken a hard‑line stance against a wave of privacy violations targeting its rookie boy group, CORTIS. The label filed criminal complaints over online abuse, illegal sale of flight data, and the mounting trend of fans affixing GPS trackers to the artists’ vehicles during a Paris tour. By publicly warning fans on its Weverse platform, BIGHIT not only signals zero‑tolerance for “egregious and unlawful conduct” but also underscores the growing intersection of fandom culture and personal data protection. The company’s action—reporting to police, issuing verbal warnings, and deleting unauthorized content—highlights a proactive, multi‑channel response that blends legal recourse with community education. For industry observers, the case illustrates how K‑pop conglomerates are redefining artist safety protocols in an era of hyper‑connected fandoms. It also raises questions about the balance between fan engagement and privacy, prompting a broader dialogue on ethical boundaries in pop culture. Ultimately, HYBE’s measures set a precedent that may compel other labels to adopt stricter safeguards, reshaping the business model of fan‑artist interactions.",
-    "summary_zh": "HYBE旗下BIGHIT音乐对针对CORTIS的隐私侵犯采取零容忍态度，公开投诉网络辱骂、非法售卖航班信息，并警告粉丝在巴黎巡演期间给艺人车辆装置GPS追踪器。此举不仅凸显了粉丝文化与个人数据保护的交叉点，也展示了企业通过法律、警告与内容删除三管齐下的主动防御模式。对业内而言，此案例揭示了K‑pop巨头正重新定义艺人安全协议，促使标签在高度互联的粉丝生态中更严谨地设定边界。更重要的是，它引发了关于粉丝参与与隐私权平衡的讨论，推动了流行文化伦理边界的再思考。HYBE的做法或将成为行业新标准，重塑粉丝与艺人互动的商业模式。",
-    "best_quote_en": "Both the sale and purchase of artists’ flight information constitute violation of the Personal Information Protection Act, the Information and Communications Network Act, and other applicable laws.",
-    "best_quote_zh": "非法创建和传播针对艺人的有害内容尤其严重，尤其是许多成员仍是未成年人。"
-  },
-  {
-    "id": 810,
-    "title": "Agency is not a natural kind (and why that might matter for alignment)",
-    "title_zh": "代理不是自然范畴（这对对齐为何重要）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/85vgwYgNta65oK4zL/agency-is-not-a-natural-kind-and-why-that-might-matter-for",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-06-30",
-    "summary_en": "This essay interrogates the notion of agency as a natural kind, arguing that it is merely a human‑constructed lens for making sense of complex behaviour. By critiquing the common reduction of agents to goal‑directed utility maximisers, the author exposes the teleological baggage that often accompanies discussions of both human and artificial agency. He suggests that agency should be viewed as an emergent, multi‑layered phenomenon built from boundary maintenance, self‑modelling, and information processing, rather than a discrete, idealised entity. This reframing has concrete implications for AI safety: if we model agents more faithfully, we may better anticipate and mitigate misaligned behaviour. The piece blends philosophical depth with practical insight, offering a nuanced critique of prevailing alignment arguments while opening new avenues for safer AI design. It is especially relevant for researchers at the intersection of AI ethics, cognitive modelling, and safety engineering.",
-    "summary_zh": "文章以哲学视角审视‘代理’概念，指出它并非自然范畴，而是人类为理解复杂行为所建构的镜头。作者批判将代理等同于理性目标最大化的做法，强调其隐含的目的论与简化假设。通过讨论人类与AI的代理差异，提出更细致、非目的论的框架可能提升安全性与对齐效果。文章兼具理论深度与实践洞察，适合对AI伦理、对齐与认知建模感兴趣的研究者。",
-    "best_quote_en": "Agency is a construct that we have developed to help make sense of this mess, but it is only a lens through which we view the world.",
-    "best_quote_zh": "代理是我们用来理解这混乱的构造，但它只是我们看世界的镜头。"
-  },
-  {
     "id": 811,
     "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
     "title_zh": "运动练习强化身心连接 | Ido Portal",
@@ -2352,5 +2234,123 @@
     "summary_zh": "这首《快乐一分》用一枚小小的便士，象征感恩与视角的力量。作者把便士的微笑化作日常生活中的提醒，让我们在困境中寻找小小的喜悦。它通过与不幸者的对比，提醒我们把焦点从抱怨转向欣赏，甚至把不适转化为微笑。便士的存在使感恩变得可触可感，低成本却高效，适合任何想要通过小改变提升心态的人。",
     "best_quote_en": "It reminds me of others less fortunate / Making my situation less bleak.",
     "best_quote_zh": "它提醒我那些不那么幸运的人 / 让我的处境不那么黯淡。"
+  },
+  {
+    "id": 906,
+    "title": "‘I fell in love with the art of coffee-making’: the female baristas shaking up Somalia’s booming cafe scene",
+    "title_zh": "‘我爱上咖啡艺术’：女性咖啡师掀起索马里繁荣的咖啡馆潮流",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/jul/22/i-fell-in-love-with-the-art-of-coffee-making-the-female-baristas-shaking-up-somalias-booming-cafe-scene",
+    "tags": [
+      "analyze",
+      "education",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "In Mogadishu’s post‑conflict renaissance, a handful of pioneering women have turned the humble coffee shop into a catalyst for social change. At CPlus Cafe, 23‑year‑old Saabiriin Hassan defies gender norms, mastering espresso techniques and becoming a community trainer. Her story echoes across the city, where cafes now serve as hubs for employment, entrepreneurship, and cultural exchange. The article traces the rapid cafe boom—over ten branches, 40% women workforce, and a growing network of training centers—highlighting how coffee culture is reshaping youth aspirations and providing a viable alternative to traditional male‑dominated trades. It underscores the power of skill acquisition, mentorship, and social entrepreneurship in rebuilding a war‑torn economy, offering a compelling case study for gender‑equity, urban regeneration, and informal sector development. Readers gain actionable insights into how a simple beverage can spark empowerment and economic resilience in emerging markets.",
+    "summary_zh": "在索马里摩加迪沙，女性咖啡师用咖啡艺术点燃城市复兴，创造就业、创业与文化交汇的新空间。她们的故事揭示技能与社群力量如何重塑青年梦想，成为冲突后经济重建的温暖案例。",
+    "best_quote_en": "\"I would encourage young women to acquire as many skills as possible. And never listen to those who say you can’t do it.\"",
+    "best_quote_zh": "\"我鼓励年轻女性尽可能掌握多种技能，并且不要听那些说你做不到的人。\""
+  },
+  {
+    "id": 907,
+    "title": "How to Present to Investors",
+    "title_zh": "如何向投资者展示",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/investors.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "Y C’s Demo Day is a crucible where fledgling founders must distill vision into a ten‑minute narrative that convinces seasoned investors. The article dissects this high‑stakes ritual, revealing that the core challenge is not technical depth but communicative clarity. It champions a brutal triad: state the problem and product immediately, keep the demo laser‑focused, and describe the solution with incremental precision. The guidance is peppered with pragmatic hacks—one person speaks while another operates the demo, avoid over‑packing slides, and anchor the pitch with a memorable soundbite. Underlying the tactics is a candid acknowledgment that early models are volatile; investors value raw talent and conviction over polished business plans. The piece thus offers a rare blend of psychological insight and actionable steps, turning the pitch into a strategic storytelling exercise that balances humility with confidence. It invites founders to reframe the pitch as a dialogue with a skeptical audience, turning uncertainty into opportunity.",
+    "summary_zh": "YC Demo Day让创始人用十分钟说服投资者，核心是清晰沟通而非技术深度。文章提出三大要点：先说问题和产品、保持演示聚焦、逐步细化描述，并提供实用技巧，如让一人演示另一人操作、简化幻灯片、用一句记忆点抓住听众。它强调早期模型不确定，投资者更看重天赋与自信，而非完整商业计划。作者把演讲视为与怀疑听众的对话，把不确定转为机会。",
+    "best_quote_en": "“Explain what you're doing as soon as possible, preferably in the first sentence.”",
+    "best_quote_zh": "“尽快说明你在做什么，最好在第一句话。”"
+  },
+  {
+    "id": 908,
+    "title": "[Paper] Stringological sequence prediction II",
+    "title_zh": "[论文] 字符串序列预测 II",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/TTei7oq9ndjJFgnsT/paper-stringological-sequence-prediction-ii",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "The paper extends prior work on sequence prediction by integrating stringological word complexity measures, notably introducing a right‑to‑left (least‑significant‑digit‑first) automaticity algorithm that is both statistically and computationally efficient. It also presents a novel \"arithmetic repetition complexity\" metric, enabling prediction of mix‑automatic sequences—an advancement over traditional left‑to‑right approaches. By framing concatenation and zipping of words as temporal and spatial MDP compositions, the authors bridge automata theory with control‑theoretic insights, hinting at deeper connections between string complexity and polytope MDPs. The work exemplifies a compositional learning paradigm, suggesting that complex sequence behaviors can be decomposed and understood through modular complexity lenses. For researchers in AI alignment, formal methods, and theoretical computer science, the paper offers both a new toolbox for sequence prediction and a conceptual framework that unifies disparate complexity notions. Its implications reach beyond algorithmic efficiency, touching on the interpretability of learned models and the robustness of predictions in systems where directionality matters.",
+    "summary_zh": "本文在前人工作基础上，提出了针对右向自动性的新算法，并引入了算术重复复杂度，提升了对混合自动序列的预测能力。通过将词串拼接与拼接映射为时间与空间MDP组合，作者将自动机理论与控制理论相结合，揭示字符串复杂度与多面体MDP的潜在联系。该研究展示了组合学习的思路，为AI对齐与形式方法提供了新工具与框架，既关注算法效率，也强调模型可解释性与预测鲁棒性。",
+    "best_quote_en": "We also demonstrate a prediction algorithm for a more expressive measure that we call \"arithmetic repetition complexity\".",
+    "best_quote_zh": "我们还演示了一种用于更具表达力的度量的预测算法，我们称之为\"算术重复复杂度\"。"
+  },
+  {
+    "id": 909,
+    "title": "The End of the Aqueduct Racetrack",
+    "title_zh": "水道赛道的终结",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-end-of-the-aqueduct-racetrack",
+    "tags": [
+      "inspire",
+      "society",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-07-21",
+    "summary_en": "By chronicling the final day of New York’s historic Aqueduct Racetrack, the article turns a local closure into a lens on the broader decline of American horse racing. It weaves personal anecdotes—bettors who gamble their life savings, jockeys who lack health benefits—with hard‑data on state subsidies, the surge of off‑track betting, and the near‑absent profitability of most tracks. The piece exposes the industry’s paradox: it survives on public money while simultaneously courting a gambling‑addicted youth market that fuels problem betting. It also highlights labor abuses and the grim fate of thousands of horses each year, painting a picture of a sport that is as much a social institution as a profit center. In doing so, the narrative challenges readers to rethink the cultural cachet of “old‑world” racing, the ethics of state‑backed entertainment, and the future of gambling in an era dominated by digital platforms.",
+    "summary_zh": "水道赛道的关闭象征着美国赛马业的衰退。文章深入剖析财政补贴、在线博彩冲击、劳工权益与动物福利等多重因素，揭示行业内部权力结构与社会价值观的冲突，并呼吁对传统娱乐模式进行深刻反思与制度创新。此外，作者还关注了赛马文化在多元社区中的角色，以及其对城市空间与社会记忆的影响，提醒读者在追求娱乐与利润的同时，必须兼顾伦理与可持续发展。",
+    "best_quote_en": "When you’re on tilt with anything, you’re dead.",
+    "best_quote_zh": "当你在任何事情上处于倾斜状态时，你就会死亡。"
+  },
+  {
+    "id": 910,
+    "title": "Mary Wept Over the Feet of Jesus / Rad American Women A-Z",
+    "title_zh": "玛丽为耶稣的脚哭泣 / 美国女性A-Z",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mary-wept-over-the-feet-of-jesus-rad-american-women-a-z/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-21",
+    "summary_en": "Mary Wept Over the Feet of Jesus and Rad American Women A‑Z offer two contrasting yet complementary lenses on history and culture. The former, a graphic exploration by Chester Brown, delves into biblical prostitution, reexamining scripture, translation drift, and modern scholarship to argue that Jesus did not condemn sex workers and that Mary, mother of Jesus, may have been one herself. Brown’s work is as much a research notebook as a narrative, blending meticulous panels with exhaustive footnotes that reveal his own confirmation biases and methodological rigor. The latter, by Kate Schatz and Miriam Klein Stahl, is an alphabetized primer on radical American women, pairing concise biographies with striking black‑and‑white portraits to inspire action and underscore intersectionality. Together, the pieces challenge readers to interrogate entrenched narratives—religious or historical—and to recognize the agency of marginalized voices. Both texts invite a critical, evidence‑based inquiry, blending storytelling with scholarly depth, and they serve as catalysts for rethinking how we remember the past and envision social change.",
+    "summary_zh": "《玛丽为耶稣的脚哭泣》以图像与笔记重塑圣经卖淫故事，探讨耶稣对性工作者的态度与玛丽可能的身份；《美国女性A‑Z》以字母顺序呈现激进女性生平，配以强烈插画，激发行动与交叉性思考。两部作品均以严谨研究与叙事交织，挑战传统视角，鼓励读者用批判性证据审视历史与宗教，重塑记忆与社会变革的可能。",
+    "best_quote_en": "Mary Wept Over the Feet of Jesus is a strange, effectively touching, and surprisingly rigorous exploration of prostitution as found in the Christian bible.",
+    "best_quote_zh": "《玛丽为耶稣的脚哭泣》是一部奇怪、深情且出乎意料地严谨的作品，探讨了基督教圣经中所出现的卖淫现象。"
   }
 ]
