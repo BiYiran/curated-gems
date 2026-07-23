@@ -1,121 +1,5 @@
 [
   {
-    "id": 811,
-    "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
-    "title_zh": "运动练习强化身心连接 | Ido Portal",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal",
-    "tags": [
-      "guide",
-      "psychology",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2026-06-29",
-    "summary_en": "Ido Portal’s conversation offers a nuanced exploration of how playful movement, distinct from conventional exercise, can transform mental and physical health. He contrasts play with discipline, arguing that the former fosters relaxed awareness while the latter relies on willpower, and demonstrates how this shift rewires default stress responses. By spotlighting transition states—particularly the liminal space between sleep and wakefulness—Portal illustrates how heightened bodily awareness can unlock new insights. The dialogue also introduces micro‑meditation as a practical tool for integrating movement into daily life, and examines the role of friction points in practice as opportunities for growth. The content is deeply actionable, blending expert insight with advanced concepts such as embodied cognition and neuroplasticity. It invites listeners to experiment with movement patterns that cultivate uncertainty, resilience, and a deeper sense of self, offering a compelling blueprint for anyone seeking to strengthen the mind‑body connection.",
-    "summary_zh": "Ido Portal以玩乐式运动为核心，阐释了它如何在不依赖意志力的前提下重塑压力与恐惧的默认反应。通过探讨睡眠与清醒之间的过渡状态，他展示了身体觉知的提升如何开启新见解。对想要强化身心连接的人而言，这段对话既具可操作性，又兼具前沿洞察，激发我们在日常中以玩乐的方式拥抱不确定性与成长。",
-    "best_quote_en": "Approaching friction points in your practice with relaxed awareness can rewire your default reactions to stress and fear.",
-    "best_quote_zh": "以轻松的觉知方式面对练习中的摩擦点，可以重塑你对压力和恐惧的默认反应。"
-  },
-  {
-    "id": 812,
-    "title": "Most Current Model\nOrganisms Leaks: \nPerplexity Differencing Often Reveals Finetuning Objectives",
-    "title_zh": "最新模型生物泄漏：困惑差分经常揭示微调目标",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/uwqtfxvhYRcyLazeP/most-current-model-organisms-leaks-perplexity-differencing",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-01",
-    "summary_en": "The paper demonstrates that many publicly released model organisms (MOs)—finetuned language models with specific hidden behaviors—exhibit leakage: the finetuned objective surfaces even under unrelated, short prefills. By generating thousands of generic completions and ranking them by perplexity difference against a reference model, the authors can surface top‑ranked outputs that reveal the hidden behavior. The method works across 76 MOs, spanning 0.5–70 B parameters and various families, and is effective even when the reference model is from a different family. In the AuditBench benchmark, providing auditors with these top‑ranked completions boosts detection rates to near‑state‑of‑the‑art. The study highlights two practical implications: (1) MOs intended to model covert or trigger‑gated behaviors should resist leakage to be credible testbeds; (2) perplexity differencing offers a low‑cost first‑pass audit for any finetuned model, though it cannot prove absence of behavior. The work underscores the need for better context gating and suggests that perplexity differencing can serve as a model‑diffing tool beyond MOs. Its simplicity, data‑driven nature, and broad applicability make it a valuable contribution to auditing and understanding finetuned LLMs.",
-    "summary_zh": "论文揭示，公开发布的模型生物（MOs）在无关短前缀下往往泄露其微调目标。作者通过生成成千上万个通用完成并按与参考模型的困惑差分排序，能快速提取揭示隐藏行为的高排名输出。该方法在76个不同规模、不同家族的MOs上均有效，即使参考模型来自不同家族亦能检测。将这些高排名完成提供给AuditBench审计者，检测率接近SOTA。研究提出两点实践意义：一、若MOs用于模拟隐蔽或触发门控行为，应避免泄漏以保持可信；二、困惑差分可作为低成本的首轮审计手段，但不能证明行为缺失。其简洁、数据驱动、通用性强，使其成为审计与模型差异化的有力工具。",
-    "best_quote_en": "We found that many current publicly available model organisms leak: finetuning induces a bias toward expressing instilled behaviors outside their intended context.",
-    "best_quote_zh": "我们发现许多当前公开可用的模型生物泄漏：微调导致在其预期上下文之外表达植入行为的偏差。"
-  },
-  {
-    "id": 813,
-    "title": "The Sartorialist / Asterix and the Missing Scroll",
-    "title_zh": "The Sartorialist / Asterix与失踪卷轴",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-sartorialist-asterix-and-the-missing-scroll/",
-    "tags": [
-      "learn",
-      "design",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2026-06-30",
-    "summary_en": "The article juxtaposes two seemingly disparate book reviews—Scott Schuman’s street‑fashion compendium *The Sartorialist* and Jean‑Yves Ferri’s latest *Asterix* adventure—to illuminate how narrative framing and visual storytelling shape reader engagement. Schuman’s work is praised for its obsessive focus on individual design choices, turning everyday New Yorkers into style icons and offering a curated archive of contemporary fashion that doubles as a historical snapshot of 2010’s streetwear. In contrast, Ferri and Conrad’s *Asterix and the Missing Scroll* reinvigorates a classic comic by weaving a witty, politically‑charged plot that satirizes WikiLeaks, while the artwork retains Uderzo’s legacy yet pushes the envelope with crisp panels and dynamic humor. Both books exemplify how authenticity—whether through candid photography or playful satire—can elevate genre expectations. The piece invites readers to consider the power of context, the role of humor in cultural critique, and the importance of preserving tradition while innovating, offering actionable insights for creators and enthusiasts alike.",
-    "summary_zh": "文章对比两本书评：Scott Schuman的街头时尚集《The Sartorialist》和Jean‑Yves Ferri的新版《阿斯特里克斯与失踪卷轴》。前者以真实街拍捕捉纽约人造型，成为时尚史料；后者以讽刺WikiLeaks的情节与细腻画面重燃经典漫画。两者共同展示叙事与视觉如何塑造读者体验，提醒创作者在继承与创新间寻找平衡。",
-    "best_quote_en": "\"Asterix and the Missing Scroll, the 36th entry in the series, is more inventive in plot and much funnier both in script and visuals than its predecessor.\"",
-    "best_quote_zh": "《阿斯特里克斯与失踪卷轴》是系列第36部作品，在情节上更具创新性，脚本和视觉上也比前作更幽默。"
-  },
-  {
-    "id": 814,
-    "title": "Essentials: The Science of Love, Desire & Attachment",
-    "title_zh": "必修课：爱情、欲望与依恋的科学",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-love-desire-and-attachment",
-    "tags": [
-      "guide",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-12",
-    "summary_en": "Huberman’s episode dissects the neurobiology and psychology that underlie desire, love, and attachment, offering a rare blend of academic rigor and practical guidance. He maps childhood attachment styles—secure, anxious, avoidant, and disorganized—to adult romantic dynamics, illustrating how early caregiver interactions imprint on neural circuits that govern trust, intimacy, and conflict resolution. The discussion extends to the autonomic nervous system, explaining how physiological arousal and sympathetic‑parasympathetic balance shape relational synchrony, a concept he terms the “seesaw analogy.” Huberman then translates these insights into actionable tools: self‑assessment of attachment style, real‑time autonomic monitoring, and evidence‑based supplement strategies (e.g., maca root, tongkat ali, tribulus) to boost libido. By weaving neurochemical pathways (dopamine, oxytocin, testosterone) with behavioral patterns, he provides listeners with a holistic framework to diagnose and repair relationship dysfunctions. The episode is a compelling resource for psychologists, couples therapists, and anyone eager to fuse science with intimacy practice, highlighting the power of self‑awareness and physiological regulation in cultivating lasting bonds.",
-    "summary_zh": "Huberman在此集中探讨欲望、爱情与依恋的心理与生物学基础，结合儿童依恋类型与成年恋爱模式的映射，阐释神经回路与自主神经系统如何影响情感同步。他提供可操作工具：自我评估依恋类型、实时自主监测及基于证据的补充剂（麦芽根、东革阿里、石蒜）提升性欲。通过神经递质与行为模式的交织，帮助读者诊断并修复关系功能障碍，强调自我觉察与生理调节在建立持久关系中的关键作用。",
-    "best_quote_en": "Childhood attachment styles can shape adult romantic relationships.",
-    "best_quote_zh": "童年依恋风格会影响成年人的浪漫关系。"
-  },
-  {
-    "id": 815,
-    "title": "Merlin appoints former Downtown exec Harmen Hemminga as VP, Business Development",
-    "title_zh": "Merlin任命前Downtown高管Harmen Hemminga为业务发展副总裁",
-    "source": "Music Business Worldwide",
-    "link": "https://www.musicbusinessworldwide.com/merlin-appoints-former-downtown-exec-harmen-hemminga-as-vp-business-development/",
-    "tags": [
-      "update",
-      "business-model",
-      "leadership"
-    ],
-    "tags_zh": [
-      "动态",
-      "商业模式",
-      "领导管理"
-    ],
-    "date": "2026-07-01",
-    "summary_en": "Merlin’s appointment of Harmen Hemminga, a seasoned veteran of Downtown Music and its distribution arm FUGA, signals a strategic pivot toward collective value creation and emerging technologies within the independent music sector. Hemminga’s deep experience in product strategy, licensing, and partnerships positions him to spearhead AI‑driven licensing initiatives—an area Merlin has been actively expanding, evidenced by recent deals with ElevenLabs and Udio. The move underscores Merlin’s intent to strengthen its global membership base, now spanning 70+ countries, and to enhance its competitive edge against major labels by leveraging innovative tech solutions. For industry observers, the appointment highlights the increasing convergence of traditional music business expertise with AI and data‑driven platforms, offering a blueprint for how independent collectives can scale sustainably while safeguarding artist rights. The leadership change also reflects a broader trend of independent music entities investing in strategic talent to navigate a rapidly evolving digital marketplace.",
-    "summary_zh": "Merlin任命前Downtown高管Harmen Hemminga为业务发展副总裁，凸显其在独立音乐领域推动AI与新技术合作的战略。Hemminga在产品策略、许可与合作伙伴关系方面的深厚经验，使Merlin能进一步深化与AI公司的许可协议，并为全球70余国会员创造更大价值。此举不仅强化了Merlin在数字音乐市场的竞争力，也为独立音乐企业如何通过技术创新实现可持续增长提供了范例。",
-    "best_quote_en": "\"His experience both with labels and in distribution gives him invaluable perspective on the issues and opportunities our members face.\"",
-    "best_quote_zh": "\"他在标签和发行方面的经验为我们成员面临的问题和机遇提供了宝贵视角。\""
-  },
-  {
     "id": 816,
     "title": "Jess Cartner-Morley on fashion: still wearing stripes? It’s time to join the dots",
     "title_zh": "Jess Cartner‑Morley谈时尚：仍穿条纹？是时候把点连起来了",
@@ -2352,5 +2236,119 @@
     "summary_zh": "《玛丽为耶稣的脚哭泣》以图像与笔记重塑圣经卖淫故事，探讨耶稣对性工作者的态度与玛丽可能的身份；《美国女性A‑Z》以字母顺序呈现激进女性生平，配以强烈插画，激发行动与交叉性思考。两部作品均以严谨研究与叙事交织，挑战传统视角，鼓励读者用批判性证据审视历史与宗教，重塑记忆与社会变革的可能。",
     "best_quote_en": "Mary Wept Over the Feet of Jesus is a strange, effectively touching, and surprisingly rigorous exploration of prostitution as found in the Christian bible.",
     "best_quote_zh": "《玛丽为耶稣的脚哭泣》是一部奇怪、深情且出乎意料地严谨的作品，探讨了基督教圣经中所出现的卖淫现象。"
+  },
+  {
+    "id": 911,
+    "title": "From posh egg cups to secondhand lamps: 22 cheap ways to make your home look more expensive",
+    "title_zh": "从豪华鸡蛋杯到二手灯具：22种廉价方法让你的家更显高档",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/jul/22/cheap-ways-make-your-home-look-more-expensive",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "From a humble Ikea armchair to a hand‑painted lampshade, the Guardian’s “Filter” article shows that high‑end interiors can be assembled with a modest budget. By spotlighting affordable finds—stainless‑steel egg cups, reclaimed sandstone bowls, and pastel‑tinted candles—the piece demonstrates that design is less about price and more about curation, texture, and timeless motifs. The article’s structure is practical: each recommendation is paired with a price point, a source, and a brief rationale, giving readers a clear playbook for elevating ambience without breaking the bank. The tone is conversational yet informed, blending product reviews with a touch of personal anecdote, which makes the advice feel approachable. The broader implication is that taste is a skill that can be cultivated; anyone can learn to layer style, material, and light to create an aspirational aesthetic. For designers, marketers, or casual DIYers, the article offers a roadmap for cost‑effective interior storytelling.",
+    "summary_zh": "从宜家扶手椅到手绘灯罩，《Filter》用低价物品诠释高端室内装饰的可能。文章把价格、来源与使用理由一并列出，形成实用的升级清单。它强调设计不在于昂贵，而在于材质、纹理与永恒的图案。文风轻松却信息量大，让读者既能获得产品评测，也能感受到个人化的生活情趣。文章的核心意义在于：品味是一种可以学习的技能，任何人都能通过搭配材质、灯光与细节来塑造理想空间。无论是设计师、营销人还是业余DIY者，都能从中获得低成本的室内叙事方案。",
+    "best_quote_en": "Good taste doesn’t have to cost a fortune. Whether it’s designer‑looking cutlery or affordable art, these clever buys start from £2 – but punch well above their price tag.",
+    "best_quote_zh": "好品味不必昂贵。无论是仿设计的餐具还是实惠的艺术品，这些聪明的购买从2英镑起，却能远超其价格标签。"
+  },
+  {
+    "id": 912,
+    "title": "Copy What You Like",
+    "title_zh": "复制你喜欢的东西",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/copy.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "The essay is a candid, reflective exploration of the pitfalls of copying what is admired rather than what one truly likes. It chronicles the author’s journey through high school English, philosophy, and expert systems, illustrating how cultural prestige, academic conventions, and industry hype can mislead even the most earnest learners. The core insight is that genuine engagement—and not external validation—drives meaningful skill acquisition. By juxtaposing the author’s failed imitations with the discovery of painting as a corrective lens, the piece offers a meta‑lesson: evaluate the intrinsic value of a practice by testing it in low‑stakes, personal contexts (e.g., a garage‑sale painting or a guilty‑pleasure read). The narrative’s critical edge lies in its skepticism toward authority and its insistence on self‑testing. Practically, it invites writers, designers, and technologists to audit their influences, to separate aesthetic admiration from functional usefulness, and to experiment with “copying” as a form of personal experimentation rather than blind emulation. The essay’s intellectual curiosity is evident in its playful yet rigorous self‑questioning, making it a valuable guide for anyone seeking to refine their creative process.",
+    "summary_zh": "作者用自我反思揭示了盲目效仿的危害，强调真正喜爱与外在赞誉的区别。通过高中英语、哲学论文与专家系统的失误，指出文化与学术的权威并不等同于实用价值。作者在绘画中找到自我测试的方式，提出低成本、个人化的检验方法，鼓励创作者在复制前先试用、评估其内在价值。",
+    "best_quote_en": "Copy only what you genuinely like. That would have saved me in all three cases.",
+    "best_quote_zh": "复制你真正喜欢的东西。"
+  },
+  {
+    "id": 913,
+    "title": "Get You a Model: If You're Not Paying, You're Missing 90% Of Improvements",
+    "title_zh": "为你挑选模型：如果你不付费，错过90%改进",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kbFQKqLqpa7C4EBGL/get-you-a-model-if-you-re-not-paying-you-re-missing-90-of",
+    "tags": [
+      "guide",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "This brief post argues that the most practical way to reap the rapid advances in frontier AI models is to pay for at least one of the three major laboratory subscriptions. It targets a broad audience—\"normies\" who use Google search frequently and even skeptical AI doomers—asserting that those who use search more than five times a day in the developed world are missing a majority of potential improvements by remaining free. The author frames the claim as a straightforward recommendation, positioning paid subscriptions as a low‑barrier investment that unlocks significant performance gains. The post implicitly critiques the prevailing free‑model culture and suggests that a modest financial commitment can dramatically enhance everyday AI utility. By framing the advice as a personal guide, the author taps into the growing market of consumers seeking to leverage AI without deep technical expertise, while also hinting at the broader economic shift toward subscription‑based AI services. The core insight is that access to advanced models is becoming a practical necessity for anyone who relies on AI‑powered search and productivity tools.",
+    "summary_zh": "这篇短文主张，想要享受前沿 AI 模型的快速进步，最实用的方式是付费订阅三大实验室模型之一。作者面向日常使用谷歌搜索超过五次的发达国家普通用户和怀疑 AI 的人，指出不付费会错失 90% 的改进。文章把付费视为低门槛投资，能显著提升日常 AI 工具的性能。它批判了免费模型文化，暗示订阅式 AI 服务正成为必然趋势。核心观点是：对任何依赖 AI 搜索和生产力工具的人来说，付费获取先进模型已成现实需求。",
+    "best_quote_en": "But everyone in the developed world, everyone who uses Google search more than five times a day, should be paying for at least one [of the three big lab model subscriptions].",
+    "best_quote_zh": "但在发达国家，日常使用谷歌搜索超过五次的人，都应该至少订阅三大实验室模型之一。"
+  },
+  {
+    "id": 914,
+    "title": "Maine’s Mad Scramble to Replace Graham Platner",
+    "title_zh": "缅因州的疯狂竞选：取代格雷厄姆·普兰特",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/maines-mad-scramble-to-replace-graham-platner",
+    "tags": [
+      "solve",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "The article unspools a frantic, almost cinematic race to replace Maine’s ousted Senate hopeful, Graham Platner, whose scandal‑laden ascent had upended the state’s Democratic establishment. Amid a flurry of last‑minute candidate filings, delegate mobilization, and televised debates, the narrative foregrounds the mechanics of grassroots politics: the frantic delegate sign‑ups, the strategic slate building, and the emotional resonance of a state’s small, highly engaged electorate. The piece also contextualizes the race within larger themes of media accountability and the volatility of populist insurgencies. It critically interrogates the paradox of a democratic process that is simultaneously democratic in its openness to new voices and yet constrained by a small, insular convention that ultimately decides the nominee. By juxtaposing Wood’s earnest, data‑driven campaign tactics against the backdrop of a tragic ICE shooting, the author underscores how crisis can realign political focus and shift voter priorities. The article invites readers to contemplate the fragility of political momentum and the enduring importance of local engagement in shaping national outcomes.",
+    "summary_zh": "文章揭示了缅因州取代丑闻缠身的参议员候选人格雷厄姆·普兰特的紧张竞选。作者从最后一刻的候选人报名、代议员动员、电视辩论等细节入手，剖析了基层政治的运作机制。文章还将此局部竞选置于媒体责任与民粹主义波动的更大语境中，批判性地探讨了既开放又受限的民主程序。通过将乔丹·伍德的数据驱动竞选与冰射击悲剧交织，作者强调危机如何重塑政治焦点与选民优先。此文促使读者思考政治势头的脆弱性与地方参与在塑造全国格局中的持久意义。",
+    "best_quote_en": "Hope has two beautiful daughters.",
+    "best_quote_zh": "“希望有两个美丽的女儿。”"
+  },
+  {
+    "id": 915,
+    "title": "What’s in my NOW? — Dawn Friedman",
+    "title_zh": "我的当下是什么？—— Dawn Friedman",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-dawn-friedman/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "Dawn Friedman’s “What’s in my NOW?” blends practical productivity hacks with a deeply personal narrative, offering a window into how a licensed clinical counselor structures her life and work. The article dissects both physical and digital tools—white‑board sticky notes, specialized footwear, a soundscape app, and a mindful‑screen blocker—each chosen to support mental clarity and efficient task management. Friedman’s reflective journaling practice, “Tell Me It Will Be OK,” serves as a case study of how intentional habits can transform parental anxiety into actionable self‑care. The piece balances tangible advice with evocative storytelling, highlighting the emotional resonance of small rituals. For readers seeking concrete strategies to streamline their routines while maintaining emotional balance, the article delivers actionable insights and a model for integrating tools into daily life. It invites a broader conversation about how technology and simple physical objects can become allies in mental health practice, underscoring the importance of intentionality in a chaotic world.",
+    "summary_zh": "Dawn Friedman在《我的当下是什么？》中，将实用的生产力工具与个人叙事相结合，展示了她如何用日常习惯管理工作与情绪。文章细述白板磁性便条、专业鞋履、声音场景应用和屏幕屏蔽工具，强调它们在提升专注与情绪平衡中的作用。她的“告诉我一切都会好”的反思写作实践，成为父母焦虑转化为可执行自我关怀的案例。内容兼具可操作建议与情感共鸣，展示小仪式如何改变生活节奏。对于渴望将技术与物理工具融入日常、提升效率与情绪健康的读者，文章提供了宝贵的启示，并呼吁更广泛地讨论技术与自我照护的协同作用。",
+    "best_quote_en": "These magnetic sticky notes help me not just get organized but feel organized, which is half the battle.",
+    "best_quote_zh": "这些磁性便条不仅帮我整理事务，还让我感到有条理，这就占了一半的战斗。"
   }
 ]
