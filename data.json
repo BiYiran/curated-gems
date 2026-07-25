@@ -1,125 +1,5 @@
 [
   {
-    "id": 821,
-    "title": "Fragile Correctness: Cases of reasoning harming performance",
-    "title_zh": "脆弱正确性：推理导致性能受损的案例",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JbHLxzuhoCS5ZkJse/fragile-correctness-cases-of-reasoning-harming-performance",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-03",
-    "summary_en": "This post dissects a counterintuitive phenomenon in large language models—‘fragile correctness’—where a model momentarily locks onto a correct answer only to abandon it after further reasoning. By tracking the chain‑of‑thought trajectories on MMLU‑pro and GPQA‑diamond, the author quantifies an alarming 14.9% answer‑loss rate, with 4.3% of cases exhibiting high confidence loss. The work introduces a probing framework that flags the fragile state and tests four linear classifiers (future_loss, future_change_to_wrong, future_answer_flip, correctness). Although the answer‑flip detector yields the highest raw accuracy, the future_loss probe offers the most practical gain, boosting accuracy by 5.2% on loss cases. The study highlights the limitations of current probes, the scarcity of clean training data, and the need for broader model coverage. It invites researchers to validate the fragile correctness hypothesis across architectures, refine detection, and explore interventions that preserve correct answers—an essential step toward more reliable, transparent reasoning in AI systems.",
-    "summary_zh": "作者揭示大型语言模型在推理过程中出现的‘脆弱正确性’现象：模型先得出正确答案，却因进一步推理而失误。通过对MMLU‑pro与GPQA‑diamond的链式推理轨迹进行量化，发现14.9%的答案失误率，其中4.3%高置信度失误。作者提出四种线性探测器，虽然答案翻转探测器准确率最高，但专门检测脆弱状态的future_loss探测器在干预时提升5.2%准确率。研究指出探测器受限于样本稀缺，呼吁在更多模型上验证假设并改进干预策略，提升推理可靠性。",
-    "best_quote_en": "There is evidence to suggest that models sometimes enter a ‘fragile correctness’ state where the model obtains the correct answer but further reasoning leads to it getting the answer wrong.",
-    "best_quote_zh": "有证据表明模型有时会进入‘脆弱正确性’状态，即模型先得到正确答案，但进一步推理导致答案错误。"
-  },
-  {
-    "id": 822,
-    "title": "Donald Trump Celebrates America’s Two-Hundred-and-Fiftieth Birthday",
-    "title_zh": "唐纳德·特朗普庆祝美国二百五十周年",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/donald-trump-celebrates-americas-two-hundred-and-fiftieth-birthday",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-07-03",
-    "summary_en": "The article offers a vivid, satirical chronicle of Donald Trump’s grandiose celebration of America’s 250th anniversary, juxtaposing his self‑styled “America First” narrative against the historic backdrop of Washington, D.C., and the Theodore Roosevelt Presidential Library. By weaving eyewitness observations—cranes over the National Mall, the controversial Freedom 250 branding, and the politicized state fair—into a broader critique of partisan appropriation of national heritage, the piece invites readers to interrogate the blurring of public commemoration and personal propaganda. It highlights Trump’s strategic use of symbols, from the “America Is Back” banners to the faux “U.F.C.” fights, to galvanize a specific audience while alienating others. The narrative also touches on the logistical mishaps of the fair and the media’s reaction, underscoring the performative nature of contemporary political rallies. Ultimately, the article functions as a case study of how political leaders repurpose historical milestones for personal branding, prompting reflection on the integrity of national celebrations in an era of hyper‑polarization.",
-    "summary_zh": "文章以辛辣讽刺的笔触记录了特朗普在美国二百五十周年庆典中的盛大表演，展示他如何将“美国优先”理念与华盛顿和罗斯福图书馆的历史背景交织。文中通过现场观察——国家广场的起重机、争议的 Freedom 250 品牌、以及充满党派色彩的州博览会——揭示了公共纪念与个人宣传的模糊界限。文章强调特朗普利用标语、假“U.F.C.”表演等符号拉拢特定受众，却也疏远他人，并点出庆典的物流失误与媒体反应，凸显当代政治秀的表演性。整体而言，它是一份关于政治领袖如何将历史里程碑变为个人品牌的案例研究，促使人们思考在极化时代下国家庆典的真实性与完整性。",
-    "best_quote_en": "\"Do you think people appreciate what a fantastic job we did in building and operating the Great American State Fair at the National Mall, packed with happy people, and everybody loving it? Ask yourself this simple question, ‘DO YOU THINK THAT OBUMA OR SLEEPY JOE BIDEN COULD HAVE DONE IT?’ THE ANSWER IS NO!\"",
-    "best_quote_zh": "\"你们认为人们会欣赏我们在国家广场建造和运营伟大美国州博览会的精彩工作吗？问问自己一个简单的问题，‘你认为奥布马或睡懒觉的乔·拜登能做到吗？’答案是不会！\""
-  },
-  {
-    "id": 823,
-    "title": "Fluidity Forum 2026",
-    "title_zh": "流动论坛 2026",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/events/KGtPqPM2wgCbPJAdk/fluidity-forum-2026",
-    "tags": [
-      "update",
-      "society",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-04",
-    "summary_en": "Fluidity Forum 2026 is a hybrid of community building, meta‑rational discourse, and low‑barrier participation. The event’s core is a participatory house‑party that invites speakers, artists, and volunteers to co‑create a learning environment. By foregrounding openness to diverse perspectives and actively interrogating personal biases, the forum democratizes knowledge production and blurs the line between audience and contributor. The schedule blends solo talks, panels, and informal gaming, reflecting a meta‑rational curriculum that spans developmental theory, internal family systems, and algorithmic critique. The affordability model—shared rooms and a pay‑what‑you‑can option—signals a commitment to inclusivity that counters elitist academic cultures. However, the informal structure may limit scalability and documentation of insights. Future iterations could benefit from systematic recording, online dissemination, and clearer thematic curation to amplify impact while preserving the spontaneous, community‑driven ethos that defines the forum.",
-    "summary_zh": "流动论坛 2026 是一个聚焦元理性与社会实践的社区聚会，强调开放思维、低成本参与和跨学科对话。它通过让参与者主动分享演讲、艺术和志愿服务，打破传统受众壁垒，营造一种共建式学习氛围。对我而言，这种模式既是对知识民主化的尝试，也是对自我偏见的自我检视。未来类似活动若能更系统地记录讨论成果并扩展线上传播，将更有助于扩大影响力并推动理性文化的可持续发展。",
-    "best_quote_en": "The event culture emphasizes being open to a range of perspectives, being aware of your biases and treating them as participants in the event rather than letting them control you.",
-    "best_quote_zh": "我们不想让金钱成为我们社区的门槛。"
-  },
-  {
-    "id": 824,
-    "title": "Book Freak #265 — Deep Cut Edition",
-    "title_zh": "书虫 #265 — 深度剪辑版",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-265-deep-cut-edition/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-03",
-    "summary_en": "The piece resurrects H.G. Wells’s forgotten 1928 novel *Mr. Blettsworthy on Rampole Island*, framing it as a micro‑cosm of 20th‑century disillusionment and a precursor to the inner‑space genre. The author unpacks Wells’s dual narrative of a comfortable Englishman’s psychological collapse and a savage island that mirrors civilized hypocrisy. By treating the island’s cannibals and megatherian sloth as allegories for dogmatic thinking and societal rituals, the article invites readers to interrogate the “assurances” we accept as children and the “megatheria”—habits or beliefs—kept alive without justification. The Deep Cut edition’s discussion prompts turn the book into an interactive reflective exercise, encouraging readers to identify personal falsehoods and outdated traditions. The analysis is both literary and sociological, positioning the work as a case study of how fiction can expose the absurdities of our social constructs. It invites a deeper conversation about resilience, authenticity, and the cost of clinging to outdated narratives.",
-    "summary_zh": "这篇文章重新挖掘了 H.G. 威尔斯1928年的遗作《Blettsworthy先生与拉姆波岛》，将其视为对20世纪幻灭的微观写照。作者剖析主角的心理崩溃与岛上“野蛮人”与“巨型树懒”所映射的社会假象，邀请读者反思童年时被灌输的“保证”与无意义的“古怪习俗”。通过讨论提问，鼓励读者识别自身的虚假信念与陈旧传统，探讨在失去乐观后仍能坚持生活与爱。文章兼具文学与社会学视角，展示小说如何揭示社会构造的荒诞，并促成关于韧性与真实性的深入对话。",
-    "best_quote_en": "\"The abnormal is only the normal disproportioned.\"",
-    "best_quote_zh": "“异常只是失衡的正常。”"
-  },
-  {
-    "id": 825,
-    "title": "The Tim Ferriss Show Transcripts: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
-    "title_zh": "The Tim Ferriss Show Transcripts: The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/26/coca-transcript/",
-    "tags": [
-      "learn",
-      "medicine",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-06-26",
-    "summary_en": "The episode is a deep dive into coca’s 8,000‑year legacy as a medicinal plant, disentangling myth from science. Dr. Andrew Weil and anthropologist Wade Davis bring ethnobotanical evidence, clinical anecdotes, and policy history to show how coca’s alkaloid profile—beyond cocaine—offers gut regulation, metabolic benefits, and a gentle stimulant that could replace harsher drugs. They critique decades of political demonization rooted in colonial power dynamics, argue for research funding and regulatory reform, and outline practical steps—from consumer awareness to FDA‑approved indications—to rehabilitate coca. The discussion blends personal narrative, cultural context, and actionable research proposals, inviting listeners to re‑evaluate the plant’s role in health, economics, and indigenous rights. It challenges the listener to move from passive curiosity to active advocacy, positioning coca as a case study in how science, policy, and storytelling can correct historical injustices while unlocking therapeutic potential.",
-    "summary_zh": "这集节目深入探讨了可可的8000年医学传统，拆解迷思与科学。安德鲁·韦尔医生与人类学家韦德·戴维斯用民族植物学证据、临床轶事和政策历史，展示可可的多种生物碱如何提供肠道调节、代谢益处和温和刺激，可能替代更强效药物。他们批判基于殖民权力的政治妖魔化，呼吁研究资助与法规改革，并列出从公众认知到FDA批准的可行路径。节目将个人叙事、文化语境与可行研究相结合，鼓励听众从被动好奇转向主动倡导，将可可视为纠正历史不公与释放治疗潜能的案例研究。",
-    "best_quote_en": "‘The plant was demonized before there was a cocaine problem.’",
-    "best_quote_zh": "‘植物在有可卡因问题之前就已被妖魔化。’"
-  },
-  {
     "id": 826,
     "title": "Bella Figura founder Alexi Cory-Smith dies, aged 58",
     "title_zh": "Bella Figura创始人Alexi Cory‑Smith逝世，享年58岁",
@@ -2352,5 +2232,123 @@
     "summary_zh": "Huberman博士在本期对话中深入探讨了肽类、性能提升与训练方案，结合神经科学原理阐释肌肉与大脑的同步发展。他提及MDMA与迷幻剂在临床支持下对情绪与创伤的重塑作用，并强调光照与长波红光对神经健康的关键影响。Huberman更分享了他个人训练日程、低体积高强度的重量训练与功能性运动，强调“失败”与“恢复”在肌肉增长中的平衡。他的《Protocols》一书将这些理论与实践结合，提供可操作的操作手册，帮助听众将科学洞见落地。",
     "best_quote_en": "Neuroplasticity is the goal directed toward something that oftentimes we can’t identify through standard therapy.",
     "best_quote_zh": "神经可塑性是朝着我们常常无法通过标准治疗识别的目标前进的过程。"
+  },
+  {
+    "id": 921,
+    "title": "No matter your age, you can always enjoy a rave | Letters",
+    "title_zh": "无论年龄如何，你都能享受狂欢派对 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/jul/23/no-matter-your-age-you-can-always-enjoy-a-rave",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "The article is a vibrant, personal testament to the timelessness of dance and the rejuvenating power of rave culture for older adults. Brian Nattrass, an 80‑year‑old festival goer, recounts how a night of high‑energy music erased the mental weight of age, leaving him feeling \"ageless\" and physically invigorated. He juxtaposes his early 1960s dance training with the modern rave scene, noting that the fundamentals of rhythm and movement remain unchanged. The narrative is enriched by John Parry’s testimony, a 63‑year‑old dancer who claims raving offers tangible health benefits, even for chronic conditions like rheumatoid arthritis. Together, the voices highlight a broader societal shift: ageism in music spaces is dissolving, and intergenerational dance communities are flourishing. The piece invites readers to challenge internalized age limits, offering a hopeful, action‑oriented perspective that older adults can reclaim joy, vitality, and community through dance. It underscores the intersection of physical health, mental well-being, and cultural participation, inspiring a redefinition of aging as an active, inclusive experience.",
+    "summary_zh": "文章以亲身经历呈现舞蹈与狂欢文化对老年人的再生力量。作者80岁在音乐节上舞动，感受“无龄”，并与63岁舞者的健康体验相呼应。通过对比60年代舞蹈与当代狂欢，作者展示节奏与动作的永恒本质，挑战年龄主义，呼吁人们拥抱舞蹈带来的身体与心理双重益处，重新定义积极老龄化。",
+    "best_quote_en": "I became ageless.",
+    "best_quote_zh": "我变得无龄。"
+  },
+  {
+    "id": 922,
+    "title": "The Power of the Marginal",
+    "title_zh": "边缘的力量",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/marginal.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-07-25",
+    "summary_en": "The essay argues that the most groundbreaking innovations arise from the margins—outsiders who lack institutional support, risk aversion, and the burden of expectations. It uses Silicon Valley garages and historical anecdotes to illustrate how marginality frees individuals to experiment, hack together solutions, and pursue unconventional ideas. The author critiques the corrupt or overly selective “tests” that favor insiders, arguing that honest standards allow outsiders to thrive, while corrupt ones suppress potential. By embracing small, inexpensive projects and refusing to be constrained by plans, outsiders can iterate quickly and learn from each failure. The piece also highlights the democratizing power of the internet, which gives marginal voices audiences and resources previously reserved for elites. Ultimately, the author exhorts readers to “just try hacking something together,” framing curiosity and failure as the true engines of progress. The essay blends philosophical reflection with practical advice, making a compelling case for valuing the marginal in a world dominated by insiders.",
+    "summary_zh": "文章论证突破性创新源自边缘——缺乏制度支持、无风险恐惧、无期望束缚的外来者。通过硅谷车库和历史典故，阐释边缘性如何让人敢于实验、即兴拼凑、追求非传统想法。批判偏袒内部的腐败或过度挑选“测试”，认为诚实标准让外来者得以繁荣，腐败则压制潜能。作者鼓励从小、低成本项目开始，拒绝被计划束缚，快速迭代、从失败中学习。互联网的民主化让边缘声音拥有以往仅限精英的受众与资源。最终号召“只要试着把东西拼凑在一起”，将好奇与失败视为进步的真引擎。",
+    "best_quote_en": "Just try hacking something together.",
+    "best_quote_zh": "只要试着把东西拼凑在一起。"
+  },
+  {
+    "id": 923,
+    "title": "The Viable System Model & Multi-Scale Agency",
+    "title_zh": "可行系统模型与多尺度代理",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ENoAxAXrCvFHW4q3u/the-viable-system-model-and-multi-scale-agency",
+    "tags": [
+      "analyze",
+      "science",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-07-25",
+    "summary_en": "Jonas Hallgren’s post re‑examines Stafford Beer’s Viable Systems Model (VSM) through the lens of active inference and information theory, framing it as a scaffold for multi‑scale agency in organisations, brains, and collective intelligences. He articulates the five VSM layers—operations, coordination, management, strategy, and identity—as nested active‑inference agents that exchange prediction errors and priors, thereby linking Ashby’s law of requisite variety to contemporary cybernetics. The article interweaves technical insights (e.g., oscillatory damping, Kuramoto synchronisation, Markov blankets) with philosophical musings on “ought” versus “is,” dreams, and organisational culture. Hallgren’s narrative is both a critique and a speculative blueprint: it acknowledges the VSM’s historical opacity while proposing a tractable, data‑driven translation that invites further formalisation of time‑dependent regulation and causal emergence. For practitioners, the piece offers a conceptual bridge between classic management science and modern AI safety, inviting experimental validation in organisational design and agent‑based simulations.",
+    "summary_zh": "霍尔格伦重新审视斯塔福德·比尔的可行系统模型（VSM），将其与主动推断与信息理论相结合，构建多尺度代理框架。他把五层系统——运作、协调、管理、战略与身份——视为嵌套的主动推断代理，互相传递预测误差与先验，从而把阿什比的必要多样性法则与现代控制论联系起来。文中交织了技术细节（如振荡阻尼、Kuramoto 同步、马尔可夫毯）与哲学思考（“应有”与“是”之分、梦想、组织文化）。作者既批判VSM的历史模糊，也提出可操作的数据驱动翻译，为时间依赖调节与因果涌现的进一步研究打开了实验之门。",
+    "best_quote_en": "If you’re an alien trying to stop a (European) football team that attacks one goal then it is not enough to put up rocks in the way of the team as they will just dribble past it. One of the easiest ways to block them is just to put an opposite football team to deal with the complexity of the situation, that is if faced with variety you need variety to control it.",
+    "best_quote_zh": "如果你是个外星人，想阻止一支欧洲足球队攻击一个球门，仅仅在球门前放石头是不够的，因为它们会轻松突破。最简单的办法是放一支相反的足球队来对抗这种复杂性，也就是说面对多样性时，你需要多样性来控制它。"
+  },
+  {
+    "id": 924,
+    "title": "Book Freak #219 — Deep Cut Edition",
+    "title_zh": "Book Freak #219 — 深度剪辑版",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-219-deep-cut-edition/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-24",
+    "summary_en": "Jim Tully’s 1924 memoir, *Beggars of Life*, is more than a nostalgic hobo narrative; it is a manual for radical self‑education. The author turns the itinerant life of a 14‑year‑old orphan into a rigorous apprenticeship: learning to read the rails, to beg without losing dignity, to spot danger before it arrives. Tully’s prose—lean, unadorned, and brutally honest—prefigures the hard‑boiled style that would later shape Hemingway and noir fiction. Yet he does not romanticize the road; he exposes its cruelty, the exploitation of children, the violence of railroad “bulls,” and the moral gray zones of survival. The piece invites readers to re‑frame everyday observation as disciplined practice, offering concrete exercises: write a vivid description of a stranger, treat a hobby as a vocation, or tackle a challenging book. The article thus serves as a call to active, experiential learning, blending literary history with practical self‑development. It encourages a mindset that values raw experience as a teacher, while acknowledging the transformative power of reading.",
+    "summary_zh": "《乞讨者的生活》不只是漂泊回忆，而是一份自我教育手册。作者把童年流浪的经历化作严谨的学徒训练：学会观察铁道、无耻地乞讨、预见危险。简练而无修饰的笔触预示了后来的硬汉派文学。文章不为路途美化，揭露其残酷与道德灰区。作者邀请读者将日常观察视为练习，给出写人、练习爱好、读书等具体练习。它既是文学史的见证，也是行动式学习的呼唤，强调经验与阅读的双重价值。",
+    "best_quote_en": "\"The road gave me one jewel beyond price, the leisure to read and dream. If it made me old and wearily wise at twenty, it gave me for companions the great minds of all the ages, who talked to me with royal words.\"",
+    "best_quote_zh": "“道路给了我一颗无价之宝，闲暇去读书和梦想。如果它让我在二十岁时就变得老而疲惫聪明，它给了我所有时代伟大思想家为伴，他们用华丽的话语与我对话。”"
+  },
+  {
+    "id": 925,
+    "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+    "title_zh": "使用冥想聚焦、洞察意识并扩展思维的要点 | Dr. Sam Harris",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
+    "tags": [
+      "learn",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "In the Huberman Lab Essentials episode featuring Dr. Sam Harris, the conversation turns into a deep dive into the mechanics of meditation and its profound impact on focus, self‑awareness, and consciousness. Harris, a neuroscientist and bestselling author, frames meditation not as a luxury but as a practical tool that rewires attention, quiets mental chatter, and cultivates a “sky‑like” mind that can observe thoughts without attachment. He links these states to everyday challenges—distractibility, emotional reactivity, and the relentless inner dialogue—showing how a regular practice can sharpen present‑moment awareness and create a sense of fulfillment. The discussion also touches on the ethical dimensions of consciousness, the potential synergy with psychedelics, and the importance of intentional practice over mere goal‑setting. For listeners, the episode offers actionable guidance on how to start, sustain, and deepen a meditation routine, making the abstract science of the mind accessible and immediately useful. It invites a curious mind to question the self, experiment with mindfulness, and ultimately expand the limits of everyday cognition.",
+    "summary_zh": "在Huberman Lab Essentials节目中，Dr. Sam Harris 通过冥想阐释自我意识与专注的深层机制。他认为冥想是重塑注意力、抑制内心喧嚣的实用工具，能让我们以“天空般”的心态观察思绪。节目将此与日常分心、情绪反应等问题相连，指出规律练习可提升当下觉察与满足感，并探讨意识伦理、与迷幻药的潜在协同。对听众而言，内容提供可操作的起步与深化冥想的指导，让抽象的神经科学变得可实践，激励人们质疑自我、实验正念，扩展日常认知边界。",
+    "best_quote_en": "Meditation can help us better understand the nature of the self and transform the conscious experience.",
+    "best_quote_zh": "冥想可以帮助我们更好地理解自我的本质，并转化我们的意识体验。"
   }
 ]
