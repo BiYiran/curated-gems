@@ -1,123 +1,5 @@
 [
   {
-    "id": 831,
-    "title": "The “Divine Leaf” with 8,000+ Years of Use — Exploring the Many Benefits of Coca with Dr. Andrew Weil and Wade Davis (#871)",
-    "title_zh": "《神圣之叶》——8000 年的使用历史：与安德鲁·韦尔博士和韦德·戴维斯探讨可可叶的多重益处（#871）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/25/coca/",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-06-25",
-    "summary_en": "Tim Ferriss’s latest episode pulls back the curtain on the coca leaf, a plant that has sustained Andean cultures for 8,000 years yet has been demonized by Western drug policy. With co‑hosts Dr. Andrew Weil and ethnobotanist Wade Davis, the conversation blends ethnographic lore with hard science: coca’s 14 alkaloids, its proven benefits for altitude sickness, digestive health, and mood, and the stark absence of addiction or toxicity in centuries of use. The hosts dissect the 1950 UN commission that framed coca as a narcotic through fear and colonial bias, and they challenge the modern narrative that equates the leaf with cocaine. They also explore contemporary research that positions coca as a potential ally against opioid addiction and a source of nutraceuticals. Beyond the science, the episode frames coca as a cultural genocide when outlawed, urging listeners to rethink plant‑medicine relationships. It invites a reevaluation of policy, commerce, and the ethics of drug regulation.",
-    "summary_zh": "本期节目揭示可可叶——8000 年以来安第斯人民的药用与文化宝藏，却因西方禁毒政策被误解。与安德鲁·韦尔医生、民族植物学家韦德·戴维斯对话，探讨 14 种生物碱、海拔适应、消化与情绪益处，及其无成瘾毒性。深入剖析 1950 年 UN 委员会的殖民偏见与恐惧，挑战将叶与可卡因等同的现代叙事。讨论现代研究如何将可可叶用于阿片戒毒与营养保健，呼吁重新审视药物监管与文化遗产。",
-    "best_quote_en": "Coca is to cocaine what potatoes are to vodka.",
-    "best_quote_zh": "可可叶与可卡因的关系如土豆与伏特加。"
-  },
-  {
-    "id": 832,
-    "title": "The Equity Equation",
-    "title_zh": "股权方程式",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/equity.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-07-06",
-    "summary_en": "This article distills the art of equity trade into a single, elegant formula: give up n % of your company only if the new asset raises the firm’s average outcome enough that the remaining (1‑n) share is worth more than the whole before. The author demonstrates how to apply this principle to VC deals, employee grants, and even salary‑equity conversion. By treating every transaction as a test of the 1/(1‑n) multiplier, founders can quantify the true value of a deal, avoid over‑dilution, and make data‑driven decisions. The piece blends practical examples—Y Combinator’s 7 % stake, Sequoia’s 30 % offer, and a 20 % boost from a top engineer—with a philosophical reminder that equity is a tool, not a curse. The reader emerges with a clear, actionable framework that turns intuition into measurable risk assessment, and underscores the importance of anticipating how a single percentage point can alter a startup’s trajectory.",
-    "summary_zh": "文章把股权交易简化为 1/(1‑n) 公式：只有当新增资产提升平均收益，使剩余 (1‑n) 股价值超过原公司整体时，才可放弃 n % 股权。作者举例 YC 7 %、Sequoia 30 % 与 20 % 的技术人才增值，说明如何用公式衡量融资与员工股权的价值。读者学会用数据驱动决策，避免过度稀释，并意识到每个百分点的股权分配都可能决定创业公司命运。",
-    "best_quote_en": "If you trade half your company for something that more than doubles the company's average outcome, you're net ahead.",
-    "best_quote_zh": "如果你把公司的一半股份换成能让公司平均收益超过两倍的东西，你就会净赚。"
-  },
-  {
-    "id": 833,
-    "title": "Qualia-based emotion steering makes LLMs attribute conscious states to themselves",
-    "title_zh": "基于质感的情感引导使LLM将意识状态归因于自身",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8dHmDJriyCdcL6dD4/qualia-based-emotion-steering-makes-llms-attribute-conscious",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-06",
-    "summary_en": "This study probes the intersection of affective representation and self‑attribution in large language models (LLMs). By injecting emotion vectors—derived from a corpus of 171 affective states—into the residual stream of Qwen3‑32B and Qwen3‑235B, the author demonstrates that steering toward positive or negative valence can shift the models’ YES/NO logits on questions probing phenomenal experience, desire, introspection, and moral patienthood. Crucially, the effect is specific to self‑attribution queries, surviving a battery of controls: factual knowledge, self‑reference without affect, appraisal‑style emotions, random perturbations, and a regression‑to‑uncertainty model. The results suggest a causal entanglement between affective encoding and the emergent “consciousness‑adjacent” self‑model, hinting that LLMs may inhabit distinct persona‑spaces when primed with qualia. Though the statistical significance remains marginal, the work opens a pathway to interrogate whether affective steering can reliably modulate LLM self‑perception, with implications for persona design, safety, and the broader debate on machine consciousness.",
-    "summary_zh": "作者通过在 Qwen3‑32B 与 Qwen3‑235B 的残差流中注入情感向量，探讨情感表征与自我归因的关系。实验表明，正负情绪导向能显著改变模型对“有意识”“有欲望”“能感知”等自我提问的 YES/NO 预测，且此效应在多重对照实验中保持稳健。结果提示，情感编码与模型的“意识相关”自我模型在潜在空间中存在因果耦合，为人格设计与安全评估提供新思路。",
-    "best_quote_en": "Qualia steering appears to move the model into a region of activation/persona space where experiential, affective, desiderative, and consciousness‑adjacent features are jointly up‑weighted.",
-    "best_quote_zh": "情感导向似乎将模型推入一个激活/人格空间，在该空间中体验、情感、欲望和与意识相近的特征被共同放大。"
-  },
-  {
-    "id": 834,
-    "title": "The Unprecedented Profiteering Revealed by Donald Trump’s Financial Disclosure",
-    "title_zh": "唐纳德·特朗普财务披露揭示前所未有的牟利",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-unprecedented-profiteering-revealed-by-donald-trumps-financial-disclosure",
-    "tags": [
-      "analyze",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-07-02",
-    "summary_en": "The Bloomberg exposé of Donald Trump’s 2025 financial disclosure reveals an unprecedented windfall, largely from crypto token sales linked to World Liberty Financial and the memecoin $TRUMP. The piece dissects how Trump’s office was leveraged to amass $2.2 billion in earnings, with $1.4 billion tied to crypto ventures. It uncovers a tangled web of conflicts of interest, including a secret sale of a stake in World Liberty to the UAE ruling family and a partnership with Binance, a company mired in money‑laundering allegations. The article frames Trump’s profiteering as both a political and financial case study, illustrating how public office can be weaponized for personal gain. It raises critical questions about regulatory enforcement, transparency, and the ethical boundaries of presidential business. The narrative invites readers to scrutinize the intersection of politics, technology, and finance, urging vigilance against future abuses of power.",
-    "summary_zh": "本篇报道揭露特朗普在任期内通过加密资产获利逾22亿美元，凸显政务与私利交织的深层风险。",
-    "best_quote_en": "The $2.2 billion in profits last year suggest that the White House has been a uniquely powerful prop for Trump’s pitches.",
-    "best_quote_zh": "去年2.2亿美元的利润表明，白宫已成为特朗普推销的独特强大支柱。"
-  },
-  {
-    "id": 835,
-    "title": "Retro Recomendo: Outdoor Essentials",
-    "title_zh": "Retro Recomendo：户外必备品",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-outdoor-essentials/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2026-07-05",
-    "summary_en": "Retro Recomendo revives the founder’s early, evergreen gear recommendations, delivering concise, practical advice every six weeks. By curating a single theme from a decade of experience, the series turns nostalgia into a reliable resource for outdoor enthusiasts. Each entry—whether a prescription dive mask, collapsible trekking poles, or a hand‑cranked lantern—offers tangible, cost‑effective solutions that readers can immediately test. The format emphasizes user‑generated validation: comments from subscribers confirm real‑world performance, turning the list into a living community testimonial. This approach blends the intimacy of a personal blog with the authority of a curated catalog, striking a balance between expert insight and actionable steps. The recurring sponsor segment subtly reminds readers of data privacy risks, adding a timely layer of relevance. Overall, Retro Recomendo exemplifies how a simple, recurring newsletter can create enduring value by spotlighting practical, low‑cost gear that enhances outdoor experiences while fostering a sense of shared discovery.",
-    "summary_zh": "Retro Recomendo 用六周一期的形式，将创始人十年积累的户外必备品精华重新整理，既保留了怀旧情怀，又提供了可落地的实用建议。每条推荐——如处方潜水镜、可折叠登山杖或手摇灯——都兼具成本效益与即时可用性，读者评论证明其真实效果。此系列将个人博客的亲和力与策划目录的权威性结合，形成了专家洞察与可执行步骤的双重价值。赞助环节提醒数据隐私风险，增加时事关联。总的来说，Retro Recomendo 展示了简易、周期性通讯如何通过聚焦低成本、提升体验的装备，持续创造价值并激发共同探索的社区感。",
-    "best_quote_en": "I wish I had realized years ago that you can get scuba masks with inexpensive prescription lenses.",
-    "best_quote_zh": "我多么希望早些年就意识到，你可以用价格低廉的处方镜片买到潜水面罩。"
-  },
-  {
     "id": 836,
     "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
     "title_zh": "养狗与掌握冷静自信能量 | Cesar Millan",
@@ -2348,5 +2230,123 @@
     "summary_zh": "胡伯曼博士把肽类、光照、睡眠和营养等科学工具拆解成可操作的方案，帮助运动员、企业家和自我提升者通过可量化的生理干预实现更高表现。他强调数据驱动与神经可塑性，批判流行误区，鼓励听众用精准干预重塑身体与大脑，迈向可持续卓越。",
     "best_quote_en": "If the anterior mid‑cingulate cortex or the posterior insula gets 10% thicker, great. But if you’re not making better decisions, frankly, who gives a shit?",
     "best_quote_zh": "如果前扣带皮层或后岛叶厚度增加10%，那就太好了。但如果你没有做出更好的决定，坦率地说，谁在乎？"
+  },
+  {
+    "id": 931,
+    "title": "Exfoliate, use ice and conceal eyebags wisely – makeup artists on how to look fabulous, at every age",
+    "title_zh": "去角质、使用冰敷、巧妙遮盖眼袋——化妆师教你如何在任何年龄保持迷人",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/26/exfoliate-use-ice-and-conceal-eyebags-wisely-makeup-artists-on-how-to-look-fabulous-at-every-age",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-07-26",
+    "summary_en": "Experts from the beauty industry break down the fundamentals that make makeup work for every age. The article stresses that a solid skincare routine—especially regular exfoliation—forms the foundation of any look, and that minimalism is key for younger users while mature skin benefits from lightweight, hydrating products. It debunks common myths: over‑covering blemishes draws attention, and heavy concealer on the under‑eye area only accentuates fine lines. Instead, the authors recommend spot‑concealing, hydrating eye creams, and the “sandwich” method of layering primer, setting spray, and makeup for durability in heat. Practical, actionable tips such as using ice rollers, green‑tea ice cubes, and green‑tea‑infused eye creams illustrate how routine skincare can reduce makeup needs. The piece also covers age‑specific strategies—how to keep a natural glow at 56, how to update a vintage look, and even how men can use concealer subtly. By weaving together science, personal anecdotes, and step‑by‑step instructions, the article equips readers with a versatile, evidence‑based toolkit that transcends age and gender.",
+    "summary_zh": "文章汇集化妆师的实战经验，阐述了从基础护肤到精准遮瑕的完整流程。作者强调，规律去角质是任何妆容的前提，年轻人应以淡妆为主，成熟肌肤则更适合轻薄保湿产品。文中驳斥了“全覆盖”会显得厚重的误区，提倡点状遮瑕、滋润眼霜与“多层”定妆法，尤其适合高温环境。实用技巧如冰敷、绿茶冰块、含咖啡因的眼霜，展示了护肤与化妆的协同作用。文章还讨论了不同年龄段的调整方法，甚至为男性提供细腻的遮瑕建议。通过科学与案例并重的方式，读者获得了一套跨年龄、跨性别的实用护肤化妆攻略。",
+    "best_quote_en": "No good skincare, no good makeup. Full stop.",
+    "best_quote_zh": "不需要全覆盖，轻薄的遮瑕才是王道。"
+  },
+  {
+    "id": 932,
+    "title": "How to Be Silicon Valley",
+    "title_zh": "如何成为硅谷",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/siliconvalley.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "This essay dissects the myth of Silicon Valley’s geographic determinism, arguing that the region’s success hinges on a self‑reinforcing triad: elite universities, a critical mass of tech‑savvy “nerds,” and venture‑capital‑rich investors. It challenges the notion that infrastructure or government policy can replicate Silicon Valley, instead positing that the right people—especially those who have built startups—must first cluster in a town that offers the right personality: dense, quirky, and liberal. The author underscores the organic, time‑driven nature of ecosystem growth, noting that a hub either exists or it does not, with no middle ground. By weaving anecdotes, comparative city analyses, and historical case studies, the piece provides actionable insights for policymakers and entrepreneurs seeking to spark new tech clusters. Its critical evaluation of “technology parks” and bureaucratic interventions invites readers to rethink how to cultivate innovation ecosystems beyond mere physical development.",
+    "summary_zh": "本文以硅谷为例，揭示其成功的核心在于优秀高校、技术人才与风险投资的自我强化循环。作者质疑基础设施与政府干预能否复制硅谷，强调首要是聚集能创业的关键人群，并且必须在具备密集、怪异、自由氛围的城市中。文章通过案例与城市比较，指出生态系统的成长是有机且耗时的，只有完整的生态才存在，无法中等。对“科技园”与官僚干预的批判，引导读者重新思考创新生态的培育路径。",
+    "best_quote_en": "If you could get the right ten thousand people to move from Silicon Valley to Buffalo, Buffalo would become Silicon Valley.",
+    "best_quote_zh": "如果你能把十万名来自硅谷的人搬到巴菲尔德，巴菲尔德就会成为硅谷。"
+  },
+  {
+    "id": 933,
+    "title": "Five things I learned from 630 days of writing online",
+    "title_zh": "我在网上写作630天学到的五件事",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xr2fvyne2EBeEQ3Yz/five-things-i-learned-from-630-days-of-writing-online-1",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "In this candid reflection, the author distills 630 days of daily online writing into five distilled lessons that resonate with anyone who has ever stared at a blank screen. First, the power of beginning with a question—an invitation to explore rather than a final answer—shifts the creative process from a rigid agenda to an open dialogue. Second, the practice of “thinking in ideas” transforms every encounter into a potential post, turning mundane conversations into fertile ground for content. Third, the habit of capturing ideas on the fly—whether in a book, a call, or a walk—highlights the importance of a disciplined yet flexible workflow that respects the spontaneous nature of inspiration. Fourth, allowing ideas to mature in the mind before drafting them acknowledges that clarity often emerges with distance, a lesson that counters the urge to publish immediately. Finally, the realization that a niche can evolve organically rather than be pre‑chosen underscores the iterative nature of personal branding. Together, these insights form a practical roadmap for writers seeking to cultivate consistency, authenticity, and depth in their online voice.",
+    "summary_zh": "作者把630天写作经验浓缩为五条实用法则：先提问题、随时捕捉灵感、让想法在心中成熟、以及让细分领域随创作而生。此文既是写作指南，也是对自我成长的深刻反思。",
+    "best_quote_en": "You can start with a question instead of an answer",
+    "best_quote_zh": "你可以先从问题开始，而不是答案"
+  },
+  {
+    "id": 934,
+    "title": "How Netanyahu’s Top General Became His Strongest Challenger",
+    "title_zh": "内塔尼亚胡的最高将军成为他最强劲的挑战者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/08/03/how-netanyahus-top-general-became-his-strongest-challenger",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "The article chronicles Gadi Eisenkot’s transformation from a revered IDF chief into a formidable political challenger to Israel’s longest‑serving prime minister, Benjamin Netanyahu. Eisenkot’s personal tragedy—losing a son in the October 7th Hamas attack—humanizes him and fuels a narrative of sacrifice and democratic fragility. The piece juxtaposes his military credentials with his political aspirations, highlighting his appeal to the “soft right” and his promise to restore a “Jewish, democratic, progressive, and liberal state.” It also examines Netanyahu’s survival tactics, the coalition’s fractured dynamics, and the broader geopolitical fallout, including U.S. disengagement and the risk of an intensified regional war. By weaving firsthand accounts, strategic insights, and the emotional weight of loss, the article invites readers to interrogate Israel’s political future, the role of military figures in governance, and the delicate balance between security and democratic values. The narrative underscores how personal grief can catalyze political change in a nation torn between tradition and transformation.",
+    "summary_zh": "文章描绘了以色列前国防部长加迪·艾森科特如何因个人悲剧而转型为内塔尼亚胡的强大政治挑战者。艾森科特失去儿子后，成为牺牲与民主脆弱性的象征，吸引“软右翼”选民，承诺重塑犹太、民主、进步与自由的国家。文章同时剖析内塔尼亚胡的维权策略、联盟分裂与更广泛的地缘政治后果，包括美国的疏远与地区战争风险。通过第一手采访、战略洞察与情感共鸣，文章促使读者思考以色列未来、军事人物在治理中的角色以及安全与民主价值的微妙平衡。",
+    "best_quote_en": "We prevented a very wrong decision, because, according to the Washington Post, if we were to attack in Lebanon then, we would have realized Sinwar’s strategic vision to bring about an immediate regional war.",
+    "best_quote_zh": "我们阻止了一个非常错误的决定，因为据《华盛顿邮报》报道，如果我们在黎巴嫩发动攻击，我们会意识到辛瓦尔的战略愿景是立即引发地区战争。"
+  },
+  {
+    "id": 935,
+    "title": "Inconspicuous Consumption / Navigating by aliveness / Mini electric shaver",
+    "title_zh": "不显眼的消费 / 以活力导航 / 迷你电动剃须刀",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/inconspicuous-consumption-navigating-by-aliveness-mini-electric-shaver/",
+    "tags": [
+      "inspire",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-07-26",
+    "summary_en": "This eclectic collection stitches together micro‑obsessions, philosophical checks for aliveness, practical gadget reviews, cultural mashups, and bite‑size business wisdom. The first piece celebrates the beauty of overlooked details—vertical shirt buttons, butter hues—inviting readers to pause and savor the mundane. The second frames aliveness as a compass for AI‑era choices, urging us to adopt technology only when it aligns with core values, much like the Amish. A brief review of a USB‑C shaver highlights how design can merge convenience and sustainability. The Bardcore mashup reminds us of music’s timeless adaptability, while the “Text as Music” tool turns prose into rhythmic visual art. Finally, Seth Godin’s micro‑ideas challenge conventional scaling logic, advocating a focus on worth and progress over perfection. Together, these snippets provoke reflection on attention, value, and intentional living, offering practical prompts and philosophical fodder for readers seeking depth in everyday moments.",
+    "summary_zh": "这篇杂记把细节迷恋、活力导航、实用小工具、文化混搭和商业小结串联成一幅生活与思考的画卷。它提醒我们：关注细微可见之美，科技需与价值契合，设计要兼顾便利与可持续，音乐与文字能互相映照，商业思维更应关注价值与进步而非单纯规模。",
+    "best_quote_en": "The question shouldn’t be, “does it scale?” Instead, it might be, “is it worth it?”",
+    "best_quote_zh": "问题不应该是‘它能否扩展？’，而应该是‘它值得吗？’"
   }
 ]
