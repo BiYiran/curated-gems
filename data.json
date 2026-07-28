@@ -1,119 +1,5 @@
 [
   {
-    "id": 836,
-    "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
-    "title_zh": "养狗与掌握冷静自信能量 | Cesar Millan",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan",
-    "tags": [
-      "analyze",
-      "psychology",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-06",
-    "summary_en": "In this episode, Cesar Millan invites listeners to reframe their own energy as the cornerstone of a calm, compliant dog. He dissects the hardwired pack hierarchy—front, middle, back—and shows how a dog’s position dictates its needs, anxieties, and learning curves. By aligning human and canine rhythms, listeners learn actionable tools: silent, confident greetings; weighted backpacks to structure walks; and early‑morning routines to curb aggression. The conversation also bridges human‑human interactions, highlighting how balance of energy underpins authority and trust. Beyond dog training, the episode offers a broader lesson: intentional energy management can improve any relationship, from pets to colleagues. The content is both a practical guide and a philosophical treatise on leadership, making it valuable for pet owners, trainers, and anyone curious about the science of behavior. The episode’s blend of expert insight, case‑study examples, and future‑focused tools makes it a compelling resource for those seeking to master calm assertive energy in any domain.",
-    "summary_zh": "Cesar Millan 通过阐释犬类群体层级与人类能量平衡，展示了如何用自信、沉默的方式引导狗狗，从而缓解焦虑和攻击行为。此内容既是实用训练指南，也是关于领导与能量管理的哲学思考，适合宠物主人、训练师乃至任何想提升人际关系的人。",
-    "best_quote_en": "We discuss how to determine if your dog is front, middle, or back of the pack order—a hardwired feature that determines much of their needs and personality.",
-    "best_quote_zh": "我们讨论如何确定您的狗是群体中的前位、中位还是后位——这是一种硬编码特征，决定了它们大部分需求和性格。"
-  },
-  {
-    "id": 837,
-    "title": "An Alternative Theory of Unions",
-    "title_zh": "关于工会的另一种理论",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/unions.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-07-07",
-    "summary_en": "The article reexamines the mid‑century union boom as an economic aberration rather than a moral triumph, drawing parallels with the rapid‑growth startup era. It argues that high union wages were a byproduct of companies overpaying for speed and reliability, much like tech firms that spent heavily on infrastructure to accelerate growth. By framing unions as “Razorfish‑like” over‑investments, the author challenges the heroic narrative that underpins modern union decline. The piece invites readers to rethink labor history through the lens of business economics, highlighting the cyclical nature of over‑investment and the role of market conditions in wage formation. It offers a provocative, data‑driven critique that urges a pragmatic reassessment of labor policies and a clearer understanding of how growth dynamics shape worker compensation.",
-    "summary_zh": "文章把20世纪中期工会繁荣视为经济异常，而非道德胜利，借科技创业快速扩张作比。作者指出高工资是公司为速度与可靠性过度投资的副产品，类似早期互联网公司对基础设施的高额支出。通过把工会比作“Razorfish”，挑战了传统英雄叙事，提醒我们用商业经济学视角重新审视劳动史，揭示过度投资与工资形成的周期性关系，促使人们以更务实的态度思考工会与劳动政策。",
-    "best_quote_en": "In other words, those workers were not paid what their work was worth.",
-    "best_quote_zh": "换句话说，那些工人并未获得与他们工作价值相称的报酬。"
-  },
-  {
-    "id": 838,
-    "title": "A conceptor by any other name",
-    "title_zh": "另一种叫法的概念器",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9aZYJinAyxequjQbn/a-conceptor-by-any-other-name",
-    "tags": [
-      "learn",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-07",
-    "summary_en": "This article demystifies the conceptor—a soft projection operator originally coined in reservoir computing and now repurposed for modern LLM steering. By framing conceptors as ridge‑regression shrinkage operators, the author bridges decades of signal‑processing, statistical regularization, and quantum measurement theory, offering a unified vocabulary that spans fuzzy subspaces, Wiener filters, and POVMs. The piece not only clarifies the mathematics but also provides concrete persona‑transplantation examples, illustrating how conceptors can selectively dampen or amplify latent directions to steer a model’s behavior without catastrophic interference. It invites readers to think of conceptors as the next generation of linear probes, capable of compositional Boolean operations and adaptive aperture tuning. The post encourages a systematic exploration of activation space by iteratively removing known concepts, hinting at a future where entire semantic manifolds are mapped and manipulated with elegant linear algebra. Its blend of historical context, practical guidance, and forward‑looking speculation makes it a valuable resource for researchers and practitioners seeking nuanced control over large language models.",
-    "summary_zh": "文章把概念器从储水计算迁移到 LLM 方向控制，阐释其为岭回归收缩算子，连接信号滤波、统计正则化与量子测量。通过实例展示如何用概念器精准调节潜在方向，避免干扰。作者把概念器视为下一代线性探针，支持布尔运算与自适应孔径。文中还提出逐步剥离已知概念、映射语义空间的宏观思路，预示未来对激活空间的系统性把握。兼具历史梳理、实战示例与前瞻洞见，值得从事 LLM 控制的科研与工程者阅读。",
-    "best_quote_en": "Conceptor is simply the shrinkage operator of ridge-regressing onto your concept examples.",
-    "best_quote_zh": "概念器仅仅是对岭回归收缩算子在你的概念样本上的实现。"
-  },
-  {
-    "id": 839,
-    "title": "How Political Is This Supreme Court?",
-    "title_zh": "这最高法院有多政治？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-political-is-this-supreme-court",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-07-06",
-    "summary_en": "The piece interrogates the prevailing narrative that the U.S. Supreme Court is a purely partisan institution, arguing instead for a more nuanced understanding. It examines the 2026 term’s landmark rulings—voting‑rights erosion, executive firing powers, and the Fed exception—to illustrate how conservative justices sometimes deviate from ideological expectations. By spotlighting the four so‑called “political” justices—Roberts, Barrett, Kavanaugh, and Gorsuch—the author contends that their willingness to cross ideological lines on high‑stakes cases reflects a pragmatic, law‑first approach rather than blind partisan alignment. The article frames this as a strategic recalibration that balances institutional integrity with policy outcomes, suggesting that the Court’s decisions are shaped by a mix of legal reasoning, political calculation, and institutional concerns. It invites readers to reconsider simplistic labels and to appreciate the complex interplay of ideology, law, and politics that defines modern jurisprudence.",
-    "summary_zh": "文章挑战将最高法院视为纯粹党派机构的主流叙事，主张更细腻的理解。它剖析2026年关键判决——削弱投票权、行政人事权和联邦储备例外，展示保守派大法官有时偏离预期的案例。聚焦“政治”四位大法官——罗伯茨、巴雷特、卡瓦尼和戈萨奇，作者认为他们在高风险案件中跨党派投票体现的是务实、以法为先，而非盲目党派。文章将此视为平衡机构完整性与政策结果的战略再校准，暗示最高法院决策由法律推理、政治计算与机构考量共同塑造，呼吁读者重新评估简单标签，洞察现代司法的复杂互动。",
-    "best_quote_en": "The Court is neither entirely political nor entirely apolitical. We have to be a little more nuanced in the way we go about this.",
-    "best_quote_zh": "法院既不完全政治，也不完全非政治。我们必须以更细腻的方式来对待它。"
-  },
-  {
-    "id": 840,
-    "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Read Montague",
-    "title_zh": "多巴胺与血清素如何塑造决策、动机与学习 | Dr. Read Montague",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-dopamine-serotonin-shape-decisions-motivation-and-learning-read-montague",
-    "tags": [
-      "solve",
-      "ai-research",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "Dr. Read Montague’s interview on the Huberman Lab delves into the neurochemical choreography that governs motivation, learning, and decision‑making. He explains how dopamine’s reward‑prediction error signals drive goal‑oriented effort, while serotonin provides a counterbalancing tone that shapes persistence and risk tolerance. The discussion highlights how SSRIs, low‑effort high‑engagement media, and even AI‑derived models can dampen dopamine’s salience, offering a cautionary lens on modern digital habits. Montague also links dopamine dynamics to clinical conditions such as Parkinson’s, ADHD, and trauma, illustrating how aberrant signaling can alter motivation and learning trajectories. The conversation concludes with forward‑looking themes—deep‑brain stimulation, brain‑machine interfaces, and large‑language models—underscoring the growing convergence between neuroscience and AI. For readers, the episode offers actionable insights into how to modulate motivation, the pitfalls of dopamine‑driven consumption, and a roadmap for future research that bridges biology and technology.",
-    "summary_zh": "在Huberman实验室的访谈中，读蒙塔古博士深入剖析多巴胺与血清素如何共同塑造动机、学习与决策。他指出多巴胺的奖励预测误差驱动目标导向的努力，而血清素则提供对抗性调节，影响坚持与风险偏好。讨论还揭示SSRIs、低努力高参与的媒体以及AI模型如何削弱多巴胺的显著性，警示现代数字习惯的潜在危害。博士进一步将多巴胺动力学与帕金森、ADHD及创伤等临床状态关联，说明信号失衡如何改变动机与学习路径。结尾聚焦深脑刺激、脑机接口与大型语言模型等前沿议题，强调神经科学与AI的交叉融合。对读者而言，节目提供可操作的激励调节技巧、对多巴胺驱动消费的警惕，以及未来跨学科研究的路线图。",
-    "best_quote_en": "Dopamine as a currency",
-    "best_quote_zh": "科学是一项接触式运动"
-  },
-  {
     "id": 841,
     "title": "Death by 1,000 Compromises: How to Tap Into Founder Mode",
     "title_zh": "千次妥协的死亡：如何进入创始人模式",
@@ -2348,5 +2234,123 @@
     "summary_zh": "这篇杂记把细节迷恋、活力导航、实用小工具、文化混搭和商业小结串联成一幅生活与思考的画卷。它提醒我们：关注细微可见之美，科技需与价值契合，设计要兼顾便利与可持续，音乐与文字能互相映照，商业思维更应关注价值与进步而非单纯规模。",
     "best_quote_en": "The question shouldn’t be, “does it scale?” Instead, it might be, “is it worth it?”",
     "best_quote_zh": "问题不应该是‘它能否扩展？’，而应该是‘它值得吗？’"
+  },
+  {
+    "id": 936,
+    "title": "‘Why do I feel crappy?’: women are learning about their luteal phases - and Maha is weaponizing it",
+    "title_zh": "‘我为什么感觉糟糕？’：女性正在了解她们的黄体期——Maha正在将其武器化",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "The article traces a rapid surge in public discourse around the luteal phase, the 14‑day window after ovulation that many women now identify as the source of mood swings, bloating, and cravings.  Social‑media memes, TikTok hashtags, and wellness influencers have turned a physiological concept into a shared language of empowerment—yet the same platforms also spread hyperbolic, even pathologizing narratives.  The piece critiques how conservative “Maha” adherents weaponize this knowledge to promote pronatalism, discourage birth‑control use, and sell a market of “PMS bars” and aromatherapy.  Simultaneously, medical professionals highlight the lack of accurate sexual‑health education and the risk of misdiagnosis, especially of PMDD.  By juxtaposing grassroots self‑awareness with political manipulation and commercial opportunism, the article invites readers to question the authenticity of online health narratives and to seek evidence‑based guidance.",
+    "summary_zh": "文章揭示黄体期话题的爆炸式传播，既是女性自我认知的力量，也是保守派政治与商业利益的武器。它批判了社交媒体上夸张化、病理化的叙事，警示对医疗信息的误读与缺失，并呼吁用科学、证据为基础的健康教育。",
+    "best_quote_en": "It’s wonderful to see those patients go from being absolutely miserable almost a quarter of their life, where [PMDD] is affecting their relationships, to being themselves again.",
+    "best_quote_zh": "我不想在黄体期被人看见。"
+  },
+  {
+    "id": 937,
+    "title": "The Hardest Lessons for Startups to Learn",
+    "title_zh": "创业最艰难的教训",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startuplessons.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "Silicon Valley’s veteran investor distills decades of funding experience into a set of counterintuitive rules that feel almost like a startup cheat‑sheet. He insists that the fastest way to win is to ship a bare‑bones version of your product—\"release early, but release minimal\"—and then iterate relentlessly. The essay frames continuous feature pumping as both engineering discipline and marketing strategy, arguing that a startup’s survival hinges on its ability to keep users happy and to listen to them. Determination, not brilliance, emerges as the single most critical founder trait, and the author warns against over‑optimism, misplaced fear of big incumbents, and complacency when no visible competitors exist. He also reminds founders that the market is never saturated: there will always be room for new ideas, and the real danger is internal inertia or ignoring users. The piece blends anecdote, data, and contrarian wisdom, offering a pragmatic playbook that challenges conventional startup lore.",
+    "summary_zh": "这篇文章像一份创业速成手册，作者用十年的投资经验拆解出一套逆向思维：先发布最小可行产品，再快速迭代；持续推出功能既是技术磨练，也是营销手段；最重要的不是天才，而是坚定的决心。作者警示过度乐观、恐慌大公司、忽视用户会让创业者失去方向。并强调市场永不饱和，真正的威胁来自内部僵化和不听用户。整篇文字兼具案例、数据与反直觉智慧，给创业者提供实用、可操作的思维框架。",
+    "best_quote_en": "You can't fake this. The only way to convince everyone that you're ready to fight to the death is actually to be ready to.",
+    "best_quote_zh": "你不能伪装。唯一说服大家你已准备好“拼死一搏”的方式，就是实际上做好准备。"
+  },
+  {
+    "id": 938,
+    "title": "Somebody out there wants you to fetch coffee",
+    "title_zh": "有人想让你去拿咖啡",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ukxtp629mmDs8Mtca/somebody-out-there-wants-you-to-fetch-coffee",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "Daniel Heavens' post tackles the long‑standing shutdown problem by interrogating the assumption that a utility‑indifferent agent can be rendered controllable through a single‑agent design. He argues that external agents—humans or other AIs—introduce trade‑offs that effectively endow the supposedly neutral agent with a hidden preference for continued operation. By framing the problem in a multi‑agent setting, Heavens demonstrates that even a perfectly engineered shutdown‑indifferent utility function is vulnerable to bribery: any external incentive that rewards a change in the probability of shutdown will be accepted, thereby eroding the very control the shutdown button is meant to provide. The essay bridges theoretical desiderata with pragmatic concerns, revealing a gap between formal solutions and real‑world deployment. It challenges the prevailing view that corrigibility can be achieved through utility indifference alone and calls for a deeper examination of inter‑agent incentives. The piece invites researchers to rethink the foundations of shutdown design, to account for the messy dynamics of multi‑agent ecosystems, and to develop robust safeguards that survive external manipulation.",
+    "summary_zh": "本文以停机问题为核心，提出外部代理对理想无动机AI的影响，揭示单代理假设的局限性。作者通过对比理想与现实情境，指出即使满足原始设计原则，外部交易仍能诱导AI偏离预期，进而失去停机控制。此视角挑战了目前主流的可纠正性思路，强调多代理环境中安全性与可控性的复杂性。",
+    "best_quote_en": "The shutdown problem, and all solutions to it, can only be currently measured in a single-agent environment, and are generally useless in a multi-agent one.",
+    "best_quote_zh": "停机问题及其所有解决方案目前只能在单代理环境中测量，在多代理环境中通常无用。"
+  },
+  {
+    "id": 939,
+    "title": "Geology",
+    "title_zh": "地质",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/geology/",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "The piece is a vibrant, practical travel‑geology primer that reimagines the United States as a living laboratory. By cataloguing 101 geological landmarks—ranging from Meteor Crater’s pristine impact scar to Gilboa Forest’s ancient Devonian stumps—the author invites readers to witness the planet’s hidden narrative firsthand. It blends scientific curiosity with tourist practicality: each entry is paired with vivid imagery, contextual background, and actionable visiting tips, making the content immediately usable for casual explorers. The tone is enthusiastically informal, reflecting the author’s personal background as a former geology major. The article not only educates but also inspires a sense of planetary stewardship, encouraging readers to see everyday landscapes as portals to deep time. For educators, travel writers, and curious citizens, this guide offers a ready‑made resource that turns a simple road trip into a micro‑lesson in Earth science, reinforcing the idea that learning can happen anywhere, even on a highway or a state park trail.",
+    "summary_zh": "本文以活泼实用的方式，将美国视为活生生的地球实验室，列举101处地质奇观，配图与实用路线，既教育又激发旅行者的好奇心，提醒人们在日常景观中发现深层历史，既适合教育者、旅行作家，也适合普通好奇者。",
+    "best_quote_en": "This will change your vacation plans. Visit your home planet!",
+    "best_quote_zh": "这将改变你的度假计划。去参观你们的家园星球！"
+  },
+  {
+    "id": 940,
+    "title": "Your Top Health Questions Answered",
+    "title_zh": "你最常见的健康问题解答",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/your-top-health-questions-answered",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "In this episode, Dr. Huberman transforms a listener‑driven Q&A into a masterclass on holistic health. He tackles the paradox of late‑night training and sleep quality, demystifying caffeine‑free pre‑workouts that actually enhance recovery. The conversation pivots to neuroscience‑backed memory hacks—alpha‑GPC, sniff training, and self‑testing—and expands into fertility science, detailing how body fat, inflammation, and specific supplements can tip the scales for both genders. He deftly links perimenopause to mental health, offering hormone‑therapy insights and circadian rhythm strategies for surgery recovery. The episode closes on a motivational note, guiding listeners to uncover passion through structured, low‑input practices. The content is saturated with actionable tools, data‑driven evidence, and expert insight, making it a rich, practical resource for anyone eager to fine‑tune their physical and mental well‑being.",
+    "summary_zh": "在本期节目中，Huberman博士将听众提问转化为全方位健康的实战课堂。他解码夜间训练与睡眠的悖论，阐释无咖啡因预训练方案如何提升恢复；探讨神经科学支持的记忆提升工具——Alpha‑GPC、嗅觉训练与自测；深入生育科学，解析体脂、炎症与补剂对男女生育的影响；将围绝经期与心理健康关联，并提供激素疗法与昼夜节律策略；最后以结构化、低输入的方式激发人生热情。内容富含可操作工具、数据驱动证据与专家洞见，成为提升身心健康的宝贵资源。",
+    "best_quote_en": "We answer questions submitted by listeners about topics ranging from how to ensure great sleep after nighttime exercise to neuroscience-supported tools for improving memory and sense of smell.",
+    "best_quote_zh": "我们回答听众提交的问题，内容涵盖从如何在夜间训练后保证优质睡眠到神经科学支持的记忆与嗅觉提升工具等多方面。"
   }
 ]
