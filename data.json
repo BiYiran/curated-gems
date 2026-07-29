@@ -1,125 +1,5 @@
 [
   {
-    "id": 841,
-    "title": "Death by 1,000 Compromises: How to Tap Into Founder Mode",
-    "title_zh": "千次妥协的死亡：如何进入创始人模式",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/18/mark-pincus/",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-06-18",
-    "summary_en": "Mark Pincus, founder of Zynga, shares his personal manifesto for staying in founder mode. He traces his journey from a directionless MBA graduate to a serial entrepreneur, anchored by a yearly ritual called the Book of Life. Each year he reviews where he stands, learns from past goals, and commits to a single transformative objective—whether it’s quitting a job, launching a company, or shifting his personal habits. The practice, he argues, keeps a founder’s “North Star” alive, preventing the dilution of vision that leads to endless compromises. Pincus also warns against the “expert witness” trap—having the knowledge but no authority to act—and stresses the importance of owning control and making bold, unpopular decisions. His narrative blends practical tactics, psychological insight, and a call to “stop time” when market shifts demand a pivot. For anyone who wants to lead with conviction and avoid the paralysis of endless trade‑offs, this post offers a roadmap and a philosophical anchor.",
-    "summary_zh": "马克·平克斯在这篇文章中阐述了他保持创始人模式的秘诀——每年用《生命之书》审视自我、总结过去、设定突破性目标。通过“停止时间”的决策与“专家证人”陷阱的警示，他强调拥有决策权、敢于做出不受欢迎的大胆举措，才能防止无数妥协导致的失去方向。文章将实践与心理洞察交织，给创业者以行动指南与精神灯塔，帮助他们在快速变革中保持北极星。",
-    "best_quote_en": "Know your goal or suffer death by 1,000 compromises.",
-    "best_quote_zh": "知道你的目标，否则会因千次妥协而死去。"
-  },
-  {
-    "id": 842,
-    "title": "The Hacker's Guide to Investors",
-    "title_zh": "黑客的投资者指南",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/guidetoinvestors.html",
-    "tags": [
-      "learn",
-      "startup-funding",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业融资",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-07-08",
-    "summary_en": "This essay demystifies the opaque world of venture capital for tech founders, offering a candid, actionable playbook. It exposes the paradox that investors—especially angels—are both the lifeblood of Silicon Valley hubs and the most misunderstood players, whose motivations hinge on momentum, brand, and risk appetite rather than pure technical insight. The author critiques the inflated valuation game, urging founders to prioritize speed and product over chasing high pre-money numbers. He warns of the emotional volatility and procedural inertia that can derail deals, and highlights the subtle yet powerful role of networking and reputation. By framing investors as opportunistic, risk‑averse, and heavily dependent on peer validation, the essay equips hackers with realistic expectations and strategic tactics—such as early traction, selective outreach, and disciplined fundraising timelines. Ultimately, it challenges founders to balance ambition with pragmatism, turning investor interactions into strategic assets rather than liabilities.",
-    "summary_zh": "本文揭示风投世界的隐秘与误区，指出投资者更多关注势头与品牌而非技术，强调估值泡沫与融资耗时的风险。作者用案例与经验教训，提醒创始人应以产品为先，快速获取早期用户，慎重追求高估值，并通过精准人脉与稳健融资节奏，将投资者关系转化为战略资产。",
-    "best_quote_en": "Investors don’t realize how much it costs to raise money from them.",
-    "best_quote_zh": "投资者并未意识到从他们那里筹集资金的成本有多高。"
-  },
-  {
-    "id": 843,
-    "title": "The Pharos Gate / Felines of New York",
-    "title_zh": "《Pharos Gate / 纽约的猫咪》",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-pharos-gate-felines-of-new-york/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-07-07",
-    "summary_en": "The article juxtaposes two distinct literary offerings, each revealing a different facet of contemporary book culture. Nick Bantock’s seventh installment in the Griffin & Sabine saga is celebrated for its meticulous blend of epistolary narrative and tactile artistry, offering readers a quasi‑interactive experience that blurs the line between page and personal correspondence. The reviewer underscores the author’s commitment to resolving long‑standing narrative ambiguity, thereby satisfying a devoted fan base. In contrast, Jim Tews’s photographic compendium, Felines of New York, captures the city’s diverse cat population through candid portraits and brief interviews, turning stray and domestic felines into cultural protagonists. The piece highlights the emotional resonance of animal storytelling and the subtle commentary on urban life and immigration. Together, the reviews illuminate how books can simultaneously entertain, document, and provoke reflection, reminding readers that the medium remains a living, breathing dialogue between author, subject, and audience.",
-    "summary_zh": "文章对比两部书，揭示当代书籍的多元面貌。Bantock 的《Pharos Gate》以书信与艺术交织的方式，满足读者对未解情节的渴望；Tews 的《纽约的猫咪》则通过猫咪肖像与访谈，呈现城市动物的多样性与人文情感。两篇评论提醒我们，书本既是娱乐，也是记录与对话，让读者在文字与影像中体验情感与思考。",
-    "best_quote_en": "The ultimate fate of Griffin and Sabine remained tantalizingly mysterious until last month with the release of The Pharos Gate.",
-    "best_quote_zh": "对我来说，表达爱更在于我不做的事，而非我做的事。例如，如果我爱你，我不会在你的卧室门外拉屎。"
-  },
-  {
-    "id": 844,
-    "title": "Essentials: Using Play to Rewire & Improve Your Brain",
-    "title_zh": "Essentials：通过游戏重塑与提升大脑",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-play-to-rewire-and-improve-your-brain",
-    "tags": [
-      "guide",
-      "education",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "Huberman’s latest Essentials episode reframes play as a deliberate, brain‑shaping tool that transcends childhood. He explains how playful activities ignite distinct neural circuits and release neuromodulators, creating low‑stakes arenas where adults can safely experiment with new roles. The discussion bridges basic neuroscience with practical advice: from dynamic movement to role‑play and chess, each form of play is mapped to specific cognitive flexibilities—creative thinking, problem‑solving, and neuroplasticity. Huberman stresses that adults can re‑introduce play intentionally, turning leisure into a structured training ground for the mind. The episode offers actionable strategies—timed “play breaks,” group improvisation, and role‑play scenarios—that readers can apply immediately. It also highlights the evolutionary logic behind play, suggesting that our brains are wired for curiosity and that play‑based learning aligns with that architecture. For anyone seeking to boost creativity, resilience, or lifelong learning, the episode provides a clear, evidence‑based playbook that blends science with everyday practice.",
-    "summary_zh": "Huberman 在最新的 Essentials 章节中，将游戏重新定位为成年人可有意识地塑造大脑的工具。他阐述了游戏如何激活特定神经回路并释放神经递质，创造低风险环境，让成人在探索新角色时安全学习。内容结合基础神经科学与实用建议：从动态运动、角色扮演到棋类游戏，每种游戏形式都对应特定的认知灵活性——创造力、问题解决和神经可塑性。Huberman 强调成年人可有意地重新引入游戏，将休闲转化为结构化的思维训练。节目提供可立即应用的行动方案，如定时“游戏休息”、小组即兴表演和角色扮演情境，帮助提升创造力与韧性。它还揭示游戏的进化逻辑，说明大脑天生渴望好奇，游戏式学习正符合这一架构。",
-    "best_quote_en": "Play engages specific brain circuits and neurochemicals, allowing us to explore different roles and learn in low‑stakes environments uniquely suited to learning.",
-    "best_quote_zh": "游戏激活特定的大脑回路和神经化学物质，让我们在低风险环境中探索不同角色并学习，特别适合学习。"
-  },
-  {
-    "id": 845,
-    "title": "Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First (#874)",
-    "title_zh": "Guy Oseary — 传奇好莱坞权力经纪人：5分钟决策、36年管理麦当娜、26次IPO与首创魔法（#874）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/07/guy-oseary/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-07-08",
-    "summary_en": "Guy Oseary, the legendary Hollywood power broker, serves as a living case study in the art of rapid decision‑making and long‑term talent cultivation. In this episode, Tim Ferriss dissects how a single five‑minute choice can ripple across a career, citing Oseary’s 36‑year stewardship of icons like Madonna, U2, and the Red Hot Chili Peppers as proof. Beyond the music arena, the conversation turns to venture strategy—Oseary’s early bet on Vita Coco, the founding of A‑Grade Investments, and the launch of Sound Ventures, which now manages nearly $2 billion and has produced 86 exits and 26 IPOs. The dialogue blends anecdote with hard data, offering listeners a roadmap for spotting “magic first” opportunities, balancing gut instinct with analytical rigor. For entrepreneurs, investors, and creatives alike, the episode is a masterclass in speed, foresight, and the relentless pursuit of value.",
-    "summary_zh": "戈伊·奥西里以其五分钟决策与长期人才发掘的双重优势，成为好莱坞传奇。节目中，他的36年音乐管理生涯（包括麦当娜、U2等）与早期投资（维塔可、A‑Grade、Sound Ventures）交织，展示了从直觉到数据的全流程。通过案例与实战数据，听众能学到如何快速识别并抓住“先发奇迹”，并在创业与投资中实现价值最大化。",
-    "best_quote_en": "Guy has been spotting talent before anyone else could see it for nearly four decades.",
-    "best_quote_zh": "戈伊·奥西里在近四十年来一直在别人看不到的地方发现人才。"
-  },
-  {
     "id": 846,
     "title": "Sali Hughes on beauty: the five makeup brushes I can’t do without",
     "title_zh": "Sali Hughes谈美妆：我不可或缺的五支化妆刷",
@@ -2352,5 +2232,121 @@
     "summary_zh": "在本期节目中，Huberman博士将听众提问转化为全方位健康的实战课堂。他解码夜间训练与睡眠的悖论，阐释无咖啡因预训练方案如何提升恢复；探讨神经科学支持的记忆提升工具——Alpha‑GPC、嗅觉训练与自测；深入生育科学，解析体脂、炎症与补剂对男女生育的影响；将围绝经期与心理健康关联，并提供激素疗法与昼夜节律策略；最后以结构化、低输入的方式激发人生热情。内容富含可操作工具、数据驱动证据与专家洞见，成为提升身心健康的宝贵资源。",
     "best_quote_en": "We answer questions submitted by listeners about topics ranging from how to ensure great sleep after nighttime exercise to neuroscience-supported tools for improving memory and sense of smell.",
     "best_quote_zh": "我们回答听众提交的问题，内容涵盖从如何在夜间训练后保证优质睡眠到神经科学支持的记忆与嗅觉提升工具等多方面。"
+  },
+  {
+    "id": 941,
+    "title": "A moment that changed me: I’d lost my libido – then I saw Richard Ashcroft on stage and it came bursting back",
+    "title_zh": "改变我的瞬间：我失去性欲——看到理查德·阿什科特后性欲重新爆发",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/29/a-moment-that-changed-libido-richard-ashcroft-on-stage-the-verve",
+    "tags": [
+      "update",
+      "lifestyle",
+      "medicine",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "医学健康",
+      "案例研究"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "At fifty‑six, after a decade of solitude and a menopause‑induced loss of libido, the narrator found herself in a lonely, self‑sufficient world that had once felt liberating. The turning point came at a Richard Ashcroft concert in 2022, where the music and the memory of youthful rock‑star infatuation reignited a dormant desire. Rather than turning to hormone therapy, she discovered that the spark was spiritual, a rekindling of self‑worth and openness to intimacy. The narrative weaves personal history—parenting, single life, and the emotional void left by a cat’s death—with broader themes of aging, sexuality, and the power of cultural touchstones to heal. It illustrates how an external trigger can catalyze internal change, leading to renewed creativity, social engagement, and a re‑entry into dating. The story invites readers to reconsider the value of desire in later life, encouraging a holistic, non‑medical approach to sexual well‑being that is both emotionally resonant and practically inspiring.",
+    "summary_zh": "在五十六岁时，作者经历了十年的独处与更年期导致的性欲丧失，曾感到自给自足的孤寂。2022年在理查德·阿什科特的演唱会上，音乐与青春时代的偶像迷恋点燃了潜伏的欲望。她并未诉诸激素治疗，而是发现这股冲动是精神层面的自我价值与亲密开放的重燃。文章交织了育儿、单身与猫咪去世留下的情感空白，并探讨了老龄化、性与文化符号疗愈的主题。它展示了外部触发如何引发内在转变，进而提升创造力、社交活力与重返约会。故事鼓励读者重新审视晚年欲望的价值，倡导一种情感共鸣且实用的非药物性性健康观。",
+    "best_quote_en": "I realised that in order to re‑boot my sex life, I did have to jump‑start my libido again, as it were – but not necessarily with medication.",
+    "best_quote_zh": "我意识到，为了重新启动我的性生活，我确实需要重新启动我的性欲，但不一定是通过药物。"
+  },
+  {
+    "id": 942,
+    "title": "See Randomness",
+    "title_zh": "看随机性",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/randomness.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "This reflective essay invites readers to question the anthropocentric assumption that purpose is intrinsic to human life. Drawing on Plato, Darwin, and Dawkins, the author argues that our sense of purpose is a blind spot—a cognitive bias that obscures the randomness of existence. By comparing human reasoning to an anteater’s nose, the piece humorously illustrates how we project agency onto a world that operates largely on chance and natural selection. The author’s central insight—\"Don't see purpose where there isn't\"—encourages a shift from self-centered narratives to a more humble, evidence-based worldview. The essay balances philosophical depth with practical wisdom, offering a case study in how to apply this perspective to everyday dilemmas, such as interpreting a roommate’s actions. It challenges readers to adopt a mindset that sees randomness, thereby reducing misattributed motives and fostering a more compassionate understanding of others. The piece is both a critique of human hubris and an invitation to embrace the uncertainty that defines life.",
+    "summary_zh": "作者以古今哲学为镜，揭示人类把目的强加于自身的盲点。通过对比人类与犰狳的差异，他指出我们对“目的”的执念是对随机性的误读。引用达尔文与达尔文的“自私基因”，提醒我们应放下以自我为中心的世界观。文章以日常小事为案例，展示如何用“看随机性”的视角解读他人行为，从而降低误判与冲突。它既是对人类自大的一种批判，也是对拥抱不确定性的一种呼唤，促使读者以更谦逊、更客观的态度面对世界。",
+    "best_quote_en": "Don't see purpose where there isn't.",
+    "best_quote_zh": "不要把目的看在不存在的地方。"
+  },
+  {
+    "id": 943,
+    "title": "Why I Believe In Objective Tastiness",
+    "title_zh": "我为何相信客观美味性",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WCE9vHDS9RaXvYskr/why-i-believe-in-objective-tastiness",
+    "tags": [
+      "inspire",
+      "education",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "In this playful yet rigorous essay, the author wrestles with the provocative claim that tastiness is an objective, stance‑independent fact. By dissecting the classic objections—disagreement, queerness, and evolutionary debunking—the author demonstrates that these challenges, far from undermining the claim, expose the very assumptions of anti‑realism. The piece weaves philosophical reasoning with culinary anecdotes, arguing that just as we trust physical facts about tables or logical truths, we should trust facts about flavor. It also illuminates the broader meta‑ethical debate, suggesting that the same epistemic tools used to justify moral realism can be applied to taste. The essay invites readers to question the boundary between subjective preference and objective reality, offering a fresh perspective that is both intellectually stimulating and surprisingly accessible to a general audience.",
+    "summary_zh": "作者以食物为媒介，探讨美味是否客观存在。通过对反对意见的细致拆解，指出反实在论的假设本身就自相矛盾。文章将哲学推理与烹饪经验相结合，提出我们对物理事实和逻辑真理的信任同样适用于味觉事实。它让人重新审视主观与客观的界限，并为更广泛的元伦理讨论提供了新视角。",
+    "best_quote_en": "We should believe in facts about deliciousness for the same reason we believe in any other basic kind of fact.",
+    "best_quote_zh": "我们应该像相信任何其他基本事实一样相信关于美味的事实。"
+  },
+  {
+    "id": 944,
+    "title": "Patterns in Nature / Secret Hero Society",
+    "title_zh": "自然中的图案 / 秘密英雄协会",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/patterns-in-nature-secret-hero-society/",
+    "tags": [
+      "learn",
+      "education",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "Philip Ball’s \"Patterns in Nature\" invites readers to see the universe as a living gallery of mathematics, where symmetry, fractals, spirals, and chaos recur across butterflies, trees, and even cracked mud. The book’s strength lies in its dual narrative: vivid photography paired with clear explanations that demystify complex concepts for a general audience, making advanced science feel approachable. The comparison of a butterfly’s wing to an owl’s face and a giraffe’s spots to cracked earth underscores the unexpected unity of form across biology and geology. The critique is that the book’s depth may still challenge readers who lack a basic math background, yet its visual appeal keeps the material engaging. The second review, Derek Fridolfs’s \"Secret Hero Society: Study Hall of Justice,\" reimagines Batman for a younger audience by blending comic panels with diary‑style pages, creating an immersive mystery that rewards familiarity with the DC universe. While the narrative may alienate newcomers, its playful structure and intertextual humor offer a fresh entry point into superhero lore for kids. Together, the two works illustrate how visual storytelling—whether scientific or fictional—can bridge knowledge gaps and spark curiosity across age groups.",
+    "summary_zh": "波尔的《自然中的图案》把宇宙当作活生生的画廊，展示了对称、分形、螺旋与混沌在蝴蝶、树木甚至裂纹泥土中的共生。书中将精美摄影与通俗解释相结合，使高深科学变得易懂，甚至让不懂数学的读者也能欣赏其美。它的亮点在于通过蝴蝶翅膀与猫头鹰面孔、长颈鹿斑点与裂纹的惊人相似性，揭示了生物与地质形态的共同规律。批评者认为，若读者缺乏基础数学，仍会感到难度；但其视觉魅力足以吸引读者。另一部作品——弗里多夫斯的《秘密英雄协会：学习大厅》——为少年读者重新诠释了蝙蝠侠，将漫画面板与日记式页面相结合，形成沉浸式悬疑，奖励对DC宇宙的熟悉。尽管新手可能略显陌生，但其俏皮结构与互文幽默为儿童提供了接触超级英雄的新途径。两部作品共同展示了视觉叙事如何跨年龄、跨学科激发好奇与学习。",
+    "best_quote_en": "the most magnificent designs on the planet come from math, physics and chemistry, not human beings.",
+    "best_quote_zh": "地球上最壮丽的设计来自数学、物理和化学，而非人类。"
+  },
+  {
+    "id": 945,
+    "title": "Essentials: Optimizing Workspace for Productivity, Focus & Creativity",
+    "title_zh": "必备技巧：优化工作空间以提升生产力、专注与创造力",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimizing-workspace-for-productivity-focus-and-creativity",
+    "tags": [
+      "solve",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "Huberman dissects how lighting, spatial layout, and soundscapes shape attention, productivity, and creativity. He explains that bright morning light and strategic window placement can boost alertness, while dimming lights in the afternoon helps sustain focus. The discussion extends to screen placement and visual breaks that align with eye vergence to prevent fatigue. A key insight is the “cathedral effect,” where ceiling height modulates creative versus analytical thinking. He also tackles auditory factors, warning against white and pink noise while recommending binaural beats for dopamine‑mediated focus. Practical, flexible protocols are offered for home, office, or mobile work settings, emphasizing task‑specific adjustments and the choice between sit‑stand desks. The episode blends neuroscience with actionable design, reminding listeners that our environment is a deliberate tool for performance enhancement rather than a passive backdrop.",
+    "summary_zh": "Huberman 通过细致阐述光照、布局、声音等环境变量，揭示它们如何影响注意力与创造力。他强调任务定制化与灵活性，提出可操作的灯光、屏幕位置、噪音过滤与站立工作等实用方案。内容兼具科学依据与日常可落地性，既适合在家办公，也适用于办公室与移动工作场景。作者的洞察提醒我们，环境并非被动背景，而是可塑造绩效的主动工具。",
+    "best_quote_en": "Background noise to avoid: white noise, pink noise.",
+    "best_quote_zh": "避免背景噪音：白噪声、粉噪声。"
   }
 ]
