@@ -1,51 +1,5 @@
 [
   {
-    "id": 846,
-    "title": "Sali Hughes on beauty: the five makeup brushes I can’t do without",
-    "title_zh": "Sali Hughes谈美妆：我不可或缺的五支化妆刷",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jul/08/sali-hughes-on-beauty-best-makeup-brushes",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-07-08",
-    "summary_en": "Sali Hughes’ feature in The Guardian turns a seemingly mundane list of brushes into a concise, actionable guide for beauty enthusiasts. By spotlighting five essential tools—each chosen for its versatility and problem‑solving power—she demonstrates how a minimal kit can address common makeup mishaps, from concealer runs to smudged eyeliner. The article’s tone balances expert insight with approachable language, making it suitable for beginners while still offering depth for seasoned users. Hughes’ emphasis on the ‘magic’ of the fluffy concealer brush underscores the importance of texture and technique, reminding readers that the right tool can simplify the application process and improve overall finish. The piece also subtly critiques the clutter often associated with beauty arsenals, advocating for a streamlined approach that prioritizes quality over quantity. In a market saturated with product reviews, this article stands out for its practical focus, clear recommendations, and the personal touch that invites readers to experiment with a pared‑down routine.",
-    "summary_zh": "Sali Hughes在《卫报》上分享的五支必备化妆刷，既是实用指南，也是一种对繁杂美妆工具的简化思考。她挑选的每一支刷子都兼具多功能与问题解决能力，强调工具与技术并重，帮助读者从容应对遮瑕、眼影、粉底等常见难题。文章既适合初学者，也提供足够深度满足经验者，体现了专业见解与亲切语调的平衡。",
-    "best_quote_en": "It magically smooshes everything back together.",
-    "best_quote_zh": "它能把一切魔法般地重新融合在一起。"
-  },
-  {
-    "id": 847,
-    "title": "Two Kinds of Judgement",
-    "title_zh": "两种判断",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/judgement.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "The essay unpacks a subtle cognitive bias: we conflate all judgments with an evaluative intent, when in fact most are instrumental. By distinguishing between judgments whose goal is accuracy—court rulings, grades, competitions—and those whose goal is selection—college admissions, hiring, dating—the author reveals why rejection feels so personal. The key insight is that selection decisions operate in a high‑stakes, noisy environment where marginal errors rarely matter; thus, treating oneself as a passive victim inflates the emotional impact of a ‘mistake.’ The piece encourages a reframing: view the decision‑maker as a customer or a tool rather than a magistrate, thereby reducing the expectation of fairness and freeing one to act strategically. It also hints at practical tactics—selling oneself more effectively, understanding the normal distribution of applicant pools—to mitigate the psychological toll of rejection. The argument is rooted in probability theory, social psychology, and behavioral economics, offering a nuanced, data‑driven lens that blends theoretical depth with actionable advice for anyone navigating evaluative systems.",
-    "summary_zh": "作者区分了两类评判：一类追求准确性（法院判决、考试、比赛），另一类服务于选择（录取、招聘、约会）。大多数评判并非针对个人，而是基于噪声与高风险的决策场景，误判的边际影响往往微乎其微。把评判者视为客户而非法官，能降低公平预期，减少对拒绝的情绪反应。文章结合概率论与社会心理学，提供了自我推销与理解申请分布的实用策略，帮助读者在评估体系中更主动、更理性。",
-    "best_quote_en": "If you regard someone judging you as a customer instead of a judge, the expectation of fairness goes away.",
-    "best_quote_zh": "如果你把评判你的人当作顾客而不是评判者，公平的期望就会消失。"
-  },
-  {
     "id": 848,
     "title": "An Inconvenient Moment for an Extreme Global Heat Wave",
     "title_zh": "极端全球热浪的尴尬时刻",
@@ -2348,5 +2302,51 @@
     "summary_zh": "Huberman 通过细致阐述光照、布局、声音等环境变量，揭示它们如何影响注意力与创造力。他强调任务定制化与灵活性，提出可操作的灯光、屏幕位置、噪音过滤与站立工作等实用方案。内容兼具科学依据与日常可落地性，既适合在家办公，也适用于办公室与移动工作场景。作者的洞察提醒我们，环境并非被动背景，而是可塑造绩效的主动工具。",
     "best_quote_en": "Background noise to avoid: white noise, pink noise.",
     "best_quote_zh": "避免背景噪音：白噪声、粉噪声。"
+  },
+  {
+    "id": 946,
+    "title": "Jess Cartner-Morley on fashion: the secret to summer layering? Sheer bravery",
+    "title_zh": "Jess Cartner-Morley谈时尚：夏季叠搭的秘密？大胆的透明感",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/29/jess-cartner-morley-on-fashion-summer-layering-crochet",
+    "tags": [
+      "update",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "Jess Cartner‑Morley’s Guardian column turns the seemingly paradoxical idea of summer layering into a practical style manifesto. She argues that layering isn’t about warmth but about creating visual intrigue while teasing skin without fully exposing it. The piece juxtaposes two archetypes—maximalist, color‑hungry fashionistas and minimalist, earthy beach‑wearers—showing how a single sheer silk shirt or a crochet top can bridge the divide. Practical tips include choosing semi‑opaque fabrics, layering a bright under‑piece for contrast, and treating crochet as a translucent outer layer rather than a statement garment. Cartner‑Morley encourages readers to re‑think their existing wardrobe, turning old pieces into fresh combinations, thereby promoting sustainability. The tone is playful yet instructive, offering actionable steps for anyone who wants to add depth to a sunny look without becoming a walking confection. It’s a concise guide that balances fashion theory with everyday wearability, making it a valuable read for style‑savvy, eco‑conscious consumers.",
+    "summary_zh": "作者以夏季叠搭为切入点，提出叠搭不在于保暖，而是增添层次与微露肤色，兼顾极致与简约两种风格。通过半透明面料、亮色内搭与轻薄外层的组合，教读者如何用已有衣物创造新造型。文章兼具趣味与实用，强调可持续搭配，鼓励重塑旧衣，既时尚又环保。",
+    "best_quote_en": "Summer layering isn’t about keeping warm. It’s about adding interest and hinting at skin without necessarily baring it.",
+    "best_quote_zh": "夏季叠搭并非为了保暖，而是为了增添趣味和微露肤色，却不必完全裸露。"
+  },
+  {
+    "id": 947,
+    "title": "Trump’s Isolationism Is Losing the Great E.V. Race",
+    "title_zh": "特朗普的孤立主义正失去电动汽车竞赛",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/trumps-isolationism-is-losing-the-great-ev-race",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-07-28",
+    "summary_en": "Trump’s isolationist policies are conspicuously blunting America’s competitiveness in the electric‑vehicle (EV) race. By juxtaposing Australia’s rapid EV adoption and China’s aggressive export strategy with the United States’ policy paralysis, the piece exposes a stark policy paradox: a nation rich in fossil fuels yet faltering in the clean‑energy transition. The author critiques Trump’s dismantling of fuel‑economy standards, the auto industry’s retreat, and the bipartisan ban on Chinese vehicles, arguing that these moves risk an autarkic, environmentally costly future. The article frames EV adoption as a barometer of broader openness to innovation, tying historical maritime exploration to modern supply‑chain dynamics. It urges a re‑evaluation of national strategy, warning that self‑sufficiency could curtail technological leadership and global collaboration. The piece is a timely reminder that political ideology can either accelerate or stall the march toward sustainable mobility.",
+    "summary_zh": "特朗普的孤立主义正让美国在电动汽车竞争中落后。文章通过澳大利亚与中国的案例，批判美国政策对汽车产业的阻碍，揭示全球新能源转型与贸易格局的深层变革。它呼吁重新审视能源与技术的未来，提醒我们自给自足的代价与开放合作的重要性。这一视角既有历史回顾，也有对未来的警示，让读者深思美国在全球竞争中的定位与选择。",
+    "best_quote_en": "If the Administration’s strategy “works,” the U.S. will become something of an autarky, producing most of what it needs, as it once did.",
+    "best_quote_zh": "如果政府的策略奏效，美国将变成一种自给自足的状态，像过去那样生产大部分所需的东西。"
   }
 ]
