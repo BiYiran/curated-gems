@@ -1,75 +1,5 @@
 [
   {
-    "id": 848,
-    "title": "An Inconvenient Moment for an Extreme Global Heat Wave",
-    "title_zh": "极端全球热浪的尴尬时刻",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/an-inconvenient-moment-for-an-extreme-global-heat-wave",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "Bill McKibben’s July 2026 dispatch is a stark, data‑rich chronicle of a planet in crisis, weaving satellite telemetry, ocean heat budgets, and political inertia into a narrative that feels both urgent and inevitable. He maps the escalating heat dome that battered Europe and the U.S., quantifies the unprecedented oceanic temperature spike, and foregrounds the paradox of dwindling weather‑balloon launches amid rising extremes. The piece is a sobering reminder that the climate system’s inertia is outpacing policy momentum; the author’s call to action is not a plea for alarmist rhetoric but a demand for evidence‑driven stewardship. McKibben also exposes the ideological calculus behind funding cuts, framing the debate as a contest of narrative rather than science. The article compels readers to reassess the link between political will and the planet’s thermal trajectory, urging a recalibration of priorities that balances economic anxieties with planetary limits. It is a critical, nuanced study that blends empirical analysis with a call for pragmatic, data‑driven governance.",
-    "summary_zh": "麦基本在2026年7月的报道以严谨的数据与政治分析，勾勒出全球热浪与海洋热量激增的严峻现实。他揭示气象仪器削减与极端天气的悖论，指出政治决策被意识形态驱动而非科学。文章警示，气候系统的惯性已超越政策节奏，呼唤以证据为导向的治理与优先重塑。",
-    "best_quote_en": "The irony, as he pointed out, is that 'you’re not really changing either the visibility of the impacts or changing the trajectory of what’s actually happening.'",
-    "best_quote_zh": "讽刺的是，他指出，“你们既没有真正改变影响的可见性，也没有改变实际发生的轨迹。”"
-  },
-  {
-    "id": 849,
-    "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
-    "title_zh": "必备：强迫症的科学与治疗",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder",
-    "tags": [
-      "analyze",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Andrew Huberman dissects obsessive‑compulsive disorder (OCD) from a dual perspective—neurobiology and psychology. He explains how the cortico‑striatal‑thalamo‑cortical loop fuels the repetitive “thought‑action” cycle, and shows why compulsions paradoxically reinforce obsessions instead of alleviating them. The episode rigorously reviews the evidence for exposure‑based CBT and SSRIs, comparing monotherapies with combined regimens and highlighting the modest but clinically meaningful superiority of combined treatment. A particularly striking segment details a structured protocol that teaches patients to tolerate anxiety while actively suppressing compulsive responses, effectively retraining the brain’s habit circuitry. The discussion is grounded in current imaging, genetic, and pharmacological research, and it offers a practical, evidence‑based roadmap for clinicians and patients alike, bridging theory with actionable treatment steps.",
-    "summary_zh": "这期Huberman Lab Essentials深入剖析强迫症的神经机制与心理根源，揭示冲动与恐惧循环的生物学基础，并系统评估认知行为疗法、SSRIs及其联合疗法的临床证据。作者通过案例协议展示如何在焦虑状态下训练大脑抑制强迫反应，为患者提供可操作的循证方案。",
-    "best_quote_en": "Compulsive actions actually strengthen the underlying obsessions rather than relieve them.",
-    "best_quote_zh": "强迫行为实际上强化了潜在的强迫症状，而不是缓解它们。"
-  },
-  {
-    "id": 850,
-    "title": "Is heterosexuality hopeless? | Arwa Mahdawi",
-    "title_zh": "异性恋真的无望吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/30/is-heterosexuality-hopeless",
-    "tags": [
-      "learn",
-      "society",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-06-30",
-    "summary_en": "Arwa Mahdawi’s column critiques the hyper‑critical online narrative that straight relationships are doomed, arguing that the perceived crisis of heteropessimism is largely a performative, internet‑driven phenomenon. By juxtaposing scholarly terms like \"heterofatalism\" with popular media headlines, she exposes a disconnect between digital discourse and lived reality. The piece underscores that the decline in heterosexual identification among Gen Z is more a reflection of greater comfort in self‑disclosure than an existential threat to straight culture. Mahdawi invites readers to re‑frame the conversation from misogyny and capitalism to a broader analysis of gendered power dynamics. Her tone blends skepticism with a measured optimism, suggesting that straight relationships can coexist with feminist values. The article serves as a timely reminder that cultural narratives often outpace empirical trends, urging readers to question the veracity of online rhetoric before adopting it as fact.",
-    "summary_zh": "马哈迪写道，异性恋并非无望，网络上的“异性悲观”多是表演式的误读。她指出，Z世代性取向变化更多是自我认同的开放，而非文化衰败。文章批判将异性关系视为危机的做法，并呼吁从性别与资本主义的视角重新审视，而非单纯否定。作者用怀疑与乐观交织的语调，提醒读者不要盲从网络话语，需以事实为根基。",
-    "best_quote_en": "We live in a time where desiring men makes you reactionary, prudish, conventional, or even ick.",
-    "best_quote_zh": "我们生活在一个渴望男性会让你显得反动、保守、传统，甚至令人厌恶的时代。"
-  },
-  {
     "id": 851,
     "title": "The Race to Be the First Democratic Primary State",
     "title_zh": "争夺第一民主初选州",
@@ -2348,5 +2278,77 @@
     "summary_zh": "特朗普的孤立主义正让美国在电动汽车竞争中落后。文章通过澳大利亚与中国的案例，批判美国政策对汽车产业的阻碍，揭示全球新能源转型与贸易格局的深层变革。它呼吁重新审视能源与技术的未来，提醒我们自给自足的代价与开放合作的重要性。这一视角既有历史回顾，也有对未来的警示，让读者深思美国在全球竞争中的定位与选择。",
     "best_quote_en": "If the Administration’s strategy “works,” the U.S. will become something of an autarky, producing most of what it needs, as it once did.",
     "best_quote_zh": "如果政府的策略奏效，美国将变成一种自给自足的状态，像过去那样生产大部分所需的东西。"
+  },
+  {
+    "id": 948,
+    "title": "Are Software Patents Evil?",
+    "title_zh": "软件专利真的邪恶吗？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/softwarepatents.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "legal",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "法律法规",
+      "未来预测"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "In this reflective essay, the author—an early Google insider—examines the myth that software patents are uniquely harmful, arguing instead that the problem lies in the patent office’s lagging grasp of fast‑moving tech. He notes that software patents are no different from hardware patents in principle, but the USPTO’s over‑broad, often obvious, grants have led to a flood of weak patents that stifle innovation only in the most visible ways. Drawing on anecdotes from Viaweb, Amazon, and Microsoft, he explains how startups can largely ignore patents until they become large enough to attract trolls or be acquired. The piece reframes the debate as one of strategy: patents are tools for negotiation, not a moral battleground. It offers actionable guidance—focus on building great products and users, then use patents to protect your position in acquisition talks—while warning against the “one‑click” trap and the toxic influence of patent trolls. The essay balances legal critique with entrepreneurial pragmatism, revealing that software’s real competitive edge lies in design and execution rather than in the patents people hold.",
+    "summary_zh": "作者以Google早期内幕视角，批判软件专利“邪恶”误解，指出问题在于专利局对快节奏技术认知滞后。文章通过Viaweb、Amazon、Microsoft案例，说明专利并非本质上有害，重点在于过宽、明显的授予导致创新受阻。作者强调创业公司可先聚焦产品与用户，待规模足以吸引收购或专利诉讼时，再利用专利谈判。文章兼具法律批判与创业实务，提醒勿陷“一键”陷阱，警示专利流氓的毒性，最终指出软件竞争力源自设计与执行，而非专利本身。",
+    "best_quote_en": "To patent an algorithm, you have to frame it as a computer system executing that algorithm. Then it’s mechanical; phew.",
+    "best_quote_zh": "要专利一个算法，你必须把它框架成一个执行该算法的计算机系统。然后它就变成了机械的；哇。"
+  },
+  {
+    "id": 949,
+    "title": "Japan Fee Hikes/Tourists > Locals/Argentina’s New Train",
+    "title_zh": "日本旅游费上涨/游客>当地人/阿根廷新型太阳能火车",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/japan-fee-hikes-tourists-locals-argentinas-new-train/",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "The article serves as a quick snapshot of shifting travel economics and emerging niche experiences, blending policy updates with on-the-ground insights. Japan’s sudden spike in visa and exit taxes—single-entry visas leaping from $19 to $93 and multi-entry from $37 to $185—illustrates how governments can leverage travel surges to fund infrastructure and disperse crowds. The piece also contextualizes the broader tourist-to-local ratios, highlighting surprisingly high ratios in small European states like Albania and Malta, which underscores the need for travelers to seek authentic, less saturated locales. The Medellín segment offers a pragmatic guide for digital nomads, weighing climate stability, infrastructure, visa friendliness, and cost of living against challenges such as currency volatility and crime. Finally, the solar-powered train in Jujuy presents a niche case study of sustainable tourism, showing how local governments can innovate to attract niche visitors. Together, the article equips readers with actionable data, real-world case studies, and forward-looking considerations for smarter, more sustainable travel planning.",
+    "summary_zh": "本文用简明数据揭示旅游成本骤增与游客与当地人比例的惊人差异，并通过阿根廷太阳能火车与墨尔本的数字游民生活案例，提醒旅行者在享受便捷的同时需关注可持续与成本平衡。",
+    "best_quote_en": "The additional millions they collect will supposedly go toward travel infrastructure and trying to spread travelers beyond the overcrowded selfie spots.",
+    "best_quote_zh": "他们收取的额外数百万美元将用于改善旅游基础设施，并尝试将游客分散到人流过多的自拍热点之外。"
+  },
+  {
+    "id": 950,
+    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+    "title_zh": "Essentials: 如何变得坚韧、塑造身份并领导他人 | Jocko Willink",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
+    "tags": [
+      "solve",
+      "leadership",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "Jocko Willink, former Navy SEAL, emphasizes discipline over fleeting motivation as the bedrock of consistent performance. His discussion weaves together military rigor, neuroscience, and practical habits, showing how structured routines, deliberate discomfort, and detachment sharpen decision‑making under stress. He frames exercise not merely as fitness but as a catalyst for energy and mental clarity, linking high‑intensity training to a “peak mentality” that fuels resilience. The episode also tackles leadership dynamics—how a leader can act as a counterweight to mob mentality, sustain morale, and guide teams through loss. Willink’s concept of “action as cure” reframes setbacks as opportunities to move forward, while detachment is portrayed as a trainable skill that broadens perspective. The conversation is peppered with actionable tools—step‑back breathing, deliberate discomfort, and a focus on problems rather than symptoms—making it a practical playbook for anyone seeking to build grit, forge identity, and lead effectively.",
+    "summary_zh": "Jocko 威灵克将纪律置于动机之上，视其为持续行动的根本。通过军旅经验与神经科学，他阐释高强度运动如何激发能量与清晰思维，培养‘极致心态’与韧性。领导者应担任‘对抗人群情绪’的角色，维系团队士气，帮助团队在失落中前行。将行动视为治愈的方式，将逆境化为前进的动力；而“超脱”则是一种可训练的视角拓展技巧。节目提供实用工具：退后呼吸、刻意不适、聚焦问题而非症状，构成打造坚韧与领导力的实战手册。",
+    "best_quote_en": "Discipline, rather than motivation, is the reliable driver of daily action.",
+    "best_quote_zh": "纪律，而非动机，是日常行动的可靠驱动力。"
   }
 ]
