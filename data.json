@@ -1,101 +1,5 @@
 [
   {
-    "id": 851,
-    "title": "The Race to Be the First Democratic Primary State",
-    "title_zh": "争夺第一民主初选州",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/would-you-let-new-mexico-pick-the-president",
-    "tags": [
-      "guide",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-10",
-    "summary_en": "From the perspective of a seasoned political correspondent, the article unpacks the fierce scramble among Democratic states to secure the coveted first‑in‑the‑nation primary slot. The narrative centers on New Mexico’s governor, Michelle Lujan Grisham, who argues that the state’s demographic mosaic and campaign‑savvy electorate could serve as a microcosm of the broader Democratic coalition. The piece juxtaposes this pitch with the long‑standing positions of Iowa, New Hampshire, and the newly elevated South Carolina, revealing how the D.N.C. rules committee has become a proxy battleground for defining the party’s future. The article offers a nuanced critique of the “first‑state” logic, highlighting the tension between historical precedent, demographic representation, and strategic campaign economics. It also exposes the human element—lobbying, personal relationships, and the power of storytelling—in shaping procedural outcomes. In doing so, it invites readers to question whether the primary calendar truly reflects the evolving electorate or merely preserves entrenched power structures.",
-    "summary_zh": "文章从政治视角剖析民主党争夺首选州的激烈竞争，聚焦新墨西哥州州长的多元选民诉求与传统州份的博弈。它揭示了D.N.C.规则委员会如何成为党派未来的代理战场，探讨首选逻辑与选民代表性、选举成本之间的张力，并呈现人性化的游说与关系网对程序结果的影响。读者被邀请思考，选举日历是否真正反映了变化的选民结构，还是仅仅巩固了既有权力格局。",
-    "best_quote_en": "If we want to win, we have to be successful among diverse voters, specifically working to earn back the support of Latino voters.",
-    "best_quote_zh": "如果我们想赢，就必须在多元选民中取得成功，特别是努力重新赢得拉丁裔选民的支持。"
-  },
-  {
-    "id": 852,
-    "title": "Travel Noise Machine/Golden Visas/Easier TSA PreCheck",
-    "title_zh": "旅行噪音机/黄金签证/更易TSA预检",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/travel-noise-machine-golden-visas-easier-tsa-precheck/",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "The piece deftly intertwines practical gadgets, geopolitics, behavioral science, and travel tech into a compact digest. The first section evaluates the LectroFan Alpha noise machine, offering a nuanced comparison to earplugs and highlighting its portability and sound variety—valuable for light sleepers and frequent travelers. The second part surveys golden visa schemes, contextualizing the shift from Portugal’s success to a broader landscape of 30+ programs, and points readers to a NYT‑backed list of investment thresholds. The third segment presents a robust, footnote‑rich study on narcissistic leaders and their resistance to remote work, framing the findings in terms of power dynamics and organizational culture. Finally, the author announces a Google Wallet integration that streamlines TSA PreCheck access, a small but significant win for frequent flyers. Together, these bites illustrate how everyday decisions—from choosing a sleep aid to navigating international residency—are increasingly data‑driven and tech‑enabled. The article invites readers to think critically about how convenience, policy, and personality intersect in modern mobility.",
-    "summary_zh": "文章将噪音机评测、黄金签证、领导力心理学与TSA预检技术四大主题融合，呈现一份实用而多元的旅行与生活指南。它强调科技与政策如何共同塑造个人便利与身份认同，提醒读者在追求舒适与效率时，也需关注背后的制度与人性。",
-    "best_quote_en": "The sparseness of remote communication can make it more difficult for narcissists to satisfy these cravings for power and status.",
-    "best_quote_zh": "远程沟通的稀疏性让自恋者更难满足对权力和地位的渴求。"
-  },
-  {
-    "id": 853,
-    "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
-    "title_zh": "学习与记忆的科学与工具 | 大卫·伊格尔曼博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/science-and-tools-of-learning-and-memory-david-eagleman",
-    "tags": [
-      "guide",
-      "education",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This episode unpacks the neural mechanisms that enable lifelong learning, emphasizing neuroplasticity as a malleable resource that can be harnessed through deliberate practice, novelty, and challenge. Eagleman links brain flexibility to practical tools—critical thinking, spaced repetition, and even psychedelics as directed plasticity agents—providing a roadmap for adults to cultivate a more creative, efficient mind. He also explores how time perception shifts with age and stress, the role of dreams in memory consolidation, and the neuroscience behind political polarization, offering evidence-based strategies to foster empathy and reduce division. The discussion is anchored in rigorous science yet delivered in an actionable, accessible style, making it a valuable guide for anyone seeking to sharpen cognition, improve memory, or navigate the social dynamics of modern life.",
-    "summary_zh": "大卫·伊格尔曼博士阐释神经可塑性如何让我们在成年后仍能学习新技能，结合批判性思维、间隔重复和有目的的挑战，提供可操作的提升方法。节目还探讨时间感知、梦境记忆与政治极化的神经机制，提出基于证据的同理心与调和策略，既有深度又易懂，适合渴望提升认知与社会洞察力的听众。",
-    "best_quote_en": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life, and we can actually train it to be more flexible, more creative, and more efficient.",
-    "best_quote_zh": "神经可塑性是大脑通过在一生中形成新的神经连接来重组自身的能力，我们可以训练它变得更灵活、更有创造力、更高效。"
-  },
-  {
-    "id": 854,
-    "title": "The Tim Ferriss Show Transcripts: Guy Oseary — The Legendary Hollywood Power Broker on 5-Minute Decisions, 36 Years of Managing Madonna, 26 IPOs, and Spotting Magic First (#874)",
-    "title_zh": "Guy Oseary — 传奇好莱坞权力经纪人：5分钟决策、36年管理麦当娜、26次IPO与发现魔法之路 (#874)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/08/guy-oseary-transcript/",
-    "tags": [
-      "learn",
-      "legal",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "法律法规",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "Guy Oseary’s interview reveals a career built on rapid intuition, relentless networking, and an uncanny knack for spotting talent before the market does. From a West Hollywood kid who met Prince to a 16‑year‑old who turned down a $25,000 offer, Oseary’s story underscores the power of “fast decisions” and the belief that magic often appears in a single moment. He explains how his early “magic” mindset—seeing a band’s potential in a demo—translated into a pattern that guided him through 26 IPOs and a $2 billion investment firm. Oseary’s candid discussion of learning from Madonna’s relentless reinvention, his transition into tech and film, and his current AI fund illustrates a blend of creative leadership and data‑driven strategy. For listeners, the transcript offers a masterclass in combining gut instincts with structured opportunity, illustrating why success often hinges on staying in motion and never resting on past laurels.",
-    "summary_zh": "Guy Oseary 的访谈展示了凭直觉、快速决策与人脉构建的职业生涯，从西好莱坞少年遇见Prince，到16岁拒绝25000美元提议，再到26次IPO与2亿美元投资。Oseary 讲述如何在一次demo中捕捉魔法、快速判断，并将此模式应用于音乐、电影与科技领域，强调持续前进与不满足于过去的价值。",
-    "best_quote_en": "I realized that I needed to get going.",
-    "best_quote_zh": "我意识到我需要开始行动。"
-  },
-  {
     "id": 855,
     "title": "Richer than Musk: Joyce Carol Oates on her 88 years of watching, writing, feeling and loving",
     "title_zh": "比马斯克更丰富：乔伊斯·卡罗尔·奥茨回顾她88年的观看、写作、感受与爱",
@@ -2350,5 +2254,99 @@
     "summary_zh": "Jocko 威灵克将纪律置于动机之上，视其为持续行动的根本。通过军旅经验与神经科学，他阐释高强度运动如何激发能量与清晰思维，培养‘极致心态’与韧性。领导者应担任‘对抗人群情绪’的角色，维系团队士气，帮助团队在失落中前行。将行动视为治愈的方式，将逆境化为前进的动力；而“超脱”则是一种可训练的视角拓展技巧。节目提供实用工具：退后呼吸、刻意不适、聚焦问题而非症状，构成打造坚韧与领导力的实战手册。",
     "best_quote_en": "Discipline, rather than motivation, is the reliable driver of daily action.",
     "best_quote_zh": "纪律，而非动机，是日常行动的可靠驱动力。"
+  },
+  {
+    "id": 951,
+    "title": "Jess Cartner-Morley on fashion: mermaidcore calls for shimmer and shells – just don’t go overboard",
+    "title_zh": "Jess Cartner-Morley 论时尚：海妖核心呼唤闪光与贝壳——但别过度",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jul/22/jess-cartner-morley-fashion-mermaidcore-crochet-trousers-coral-jewellery",
+    "tags": [
+      "inspire",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "Jess Cartner‑Morley’s column turns the whimsical mermaid myth into a tangible summer style guide, revealing how designers reinterpret aquatic motifs into sophisticated beachwear. The piece balances trend‑setting flair with practical advice—suggesting shell‑jewelled accessories, crochet‑mesh cover‑ups, and muted sea‑foam hues that echo ocean textures without overt cosplay. By dissecting silhouettes—from airy kaftans to narrow, flowing skirts—she anchors the aesthetic in wearable elegance rather than fantasy. The article also contextualises mermaidcore within broader cultural currents, noting its rise alongside viral sea‑plunge trends and its role as a ‘vacation formal’ reimagined for the 2026 season. It invites readers to embrace a carefree, cinematic summer while offering concrete styling choices, thus blending inspiration with actionable guidance. This nuanced critique invites fashion enthusiasts to rethink seasonal identity, proving that trend forecasting can be both playful and pragmatically useful.",
+    "summary_zh": "Jess Cartner‑Morley 以海妖核心为线索，将夏日潮流与实用造型相结合，提倡在海滩装扮中运用贝壳配饰、钩编罩衫与柔和海洋色调，既保持浪漫感，又不失优雅实穿。她通过细致的剪裁与材质分析，阐释如何在日常中体现“海妖”气质，并将其定位为2026年度假正式装的全新诠释。文章兼具启发性与可操作性，鼓励读者在追随潮流的同时保持个性与舒适度，呈现出既俏皮又实用的夏季时尚视角。",
+    "best_quote_en": "Mermaidcore is the romanticisation of summer, a cinematic vision of beach life with you as the main character.",
+    "best_quote_zh": "Mermaidcore 是浪漫化夏天的方式，一幅以你为主角的海滩生活电影版图."
+  },
+  {
+    "id": 952,
+    "title": "Glen Hansard’s Street-Corner Stories",
+    "title_zh": "格伦·汉萨德的街头故事",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/postscript/glen-hansards-street-corner-stories",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "Glen Hansard’s story is a masterclass in the alchemy of street performance—where the mundane becomes a portal of shared emotion. The article traces his evolution from a teenage busker in Dublin to an Oscar‑winning artist, emphasizing how his intimate engagement with passersby forged a unique performative language. Hansard’s approach—layering narrative between songs, breaking strings with raw intensity, and refusing the stage’s typical detachment—illustrates a philosophy that art is not a spectacle but a communal dialogue. The piece invites readers to reconsider the value of authenticity in public spaces, highlighting the transformative power of music to pause time and knit strangers together. By framing his busking as a case study of narrative economy and emotional resonance, the author offers a nuanced critique of modern performance culture, encouraging artists to prioritize connection over commerce. The reflection on Hansard’s sudden death further underscores the urgency of living art, prompting a broader contemplation of legacy, mortality, and the fleeting nature of shared moments.",
+    "summary_zh": "格伦·汉萨德的街头故事将平凡转化为情感共振的门户，展现音乐如何暂停时光、连结陌生人。作者以其从街头少年到奥斯卡获奖者的轨迹，强调真诚与互动是公共艺术的核心。通过将叙事与歌曲交织、打破弦乐的强度以及拒绝舞台隔阂，汉萨德示范了艺术的对话本质。文章将其作为案例研究，批判现代表演文化中商业化倾向，呼吁艺术家以连接为先。对其突然离世的反思，更凸显活生生艺术的紧迫性，促使我们思考遗产、死亡与共享瞬间的脆弱。",
+    "best_quote_en": "The stage itself is a hierarchical tool, and the person upon it has the power to dictate its terms, for better or worse.",
+    "best_quote_zh": "舞台本身是一种层级工具，站在舞台上的人拥有决定其规则的力量，无论好坏。"
+  },
+  {
+    "id": 953,
+    "title": "Book Freak #220: The Mind’s I",
+    "title_zh": "书虫 #220：自我之心",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-220-the-minds-i/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "The Mind’s I is a curated anthology that pushes the boundaries of what we consider mind, self, and machine. Through Borges’ dream‑worlds, Turing’s early thoughts on artificial intelligence, and Nagel’s insistence on the irreducible subjectivity of experience, the book stitches together a compelling argument that consciousness is not merely a computational substrate but a strange loop of self‑referential processes. The editors’ reflections reinforce the idea that the ‘I’ is both emergent and elusive, a pattern that exists in the brain yet is not reducible to neurons alone. By juxtaposing literary fictions with rigorous philosophical essays, the collection invites readers to interrogate hidden assumptions about identity and continuity—especially through thought experiments like the brain‑in‑a‑vat or perfect copying. The book’s value lies in its interdisciplinary dialogue, offering a rich, advanced perspective that encourages deep critical thinking about the future of AI, the limits of objective science, and the ever‑present mystery of subjective experience.",
+    "summary_zh": "《自我之心》以博尔赫斯的梦境、图灵的早期 AI 思考和纳格尔的主观性论证为线索，构筑了关于意识、主体与机器的跨学科对话。书中强调意识既是大脑的自指循环，又不可被简化为神经元的机械运作。通过文学与哲学的交错，作者挑战身份与连续性背后的隐含假设，提出大脑在瓶中的实验与完美复制等思维实验，引导读者反思客观科学的局限与主观体验的不可测性。此书以高级、深入的视角，激发对 AI 未来、科学客观性与自我本质的批判性思考。",
+    "best_quote_en": "An organism has conscious mental states if and only if there is something that it is like to be that organism—something it is like for the organism.",
+    "best_quote_zh": "一个有意识的生物只有当它有某种‘像’那种生物的体验时才拥有意识——这就是它所感受到的。"
+  },
+  {
+    "id": 954,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
+    "title_zh": "蒂姆·费里斯秀转录：与蒂姆的问答——男性友谊的艺术、迷你退休、高分辨率生活、AI时代的再造与更多（#877）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship-transcript/",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "Tim Ferriss’ Q&A episode weaves together a tapestry of personal reinvention, AI resilience, and nuanced social dynamics. He urges listeners to interrogate the \"two-option trap\" and expand their horizon beyond binary choices, framing career pivots as experiments rather than leaps. Ferriss emphasizes introspection tools—IFS, Awareness, and meta‑learning—to confront childhood trauma and foster authentic relationships. He champions mini‑retirements and higher‑resolution living as deliberate, time‑boxed breaks that recalibrate productivity and mental health. On AI, he balances optimism with caution, recommending meta‑skills like questioning, writing, and negotiation that persist beyond automation. His insights on language learning highlight cognitive enrichment and higher‑resolution perception, while his privacy stance underscores the need for digital hygiene in an era of pervasive surveillance. The episode is a rich blend of actionable frameworks, psychological depth, and future‑focused strategy, offering a roadmap for individuals seeking purposeful change in the age of AI.",
+    "summary_zh": "蒂姆·费里斯在本期问答中，将个人再造、AI韧性与社交动态交织成一幅全景图。他警示人们要突破“二选一陷阱”，将职业转型视为实验而非跳跃；强调IFS、Awareness等内省工具，帮助面对创伤并培养真诚关系；提倡迷你退休与高分辨率生活，作为刻意的、时间盒化的休整，重新校准生产力与心理健康；在AI议题上，他兼顾乐观与谨慎，建议培养质问、写作、谈判等元技能，超越自动化；语言学习被视为认知提升与更高分辨率感知的途径；隐私立场则提醒数字卫生的重要性。整体内容兼具可操作框架、心理深度与前瞻性策略，为在AI时代追求有意义改变的人们提供路线图。",
+    "best_quote_en": "When people say they only have two options, it means they got stuck.",
+    "best_quote_zh": "当人们说他们只有两个选项时，这意味着他们陷入了困境。"
   }
 ]
