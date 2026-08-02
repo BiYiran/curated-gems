@@ -1,97 +1,5 @@
 [
   {
-    "id": 855,
-    "title": "Richer than Musk: Joyce Carol Oates on her 88 years of watching, writing, feeling and loving",
-    "title_zh": "比马斯克更丰富：乔伊斯·卡罗尔·奥茨回顾她88年的观看、写作、感受与爱",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview",
-    "tags": [
-      "inspire",
-      "society",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-06-22",
-    "summary_en": "The Guardian’s feature offers an intimate portrait of Joyce Carol Oates, a prolific novelist whose 88-year life is a study in literary persistence and cultural critique. The interview, conducted in her Princeton home, weaves her prolific output—over 60 novels, numerous short stories, and essays—into a narrative of personal loss, feminist insight, and a skeptical eye on contemporary society. Oates’ confrontation with Elon Musk on X is presented not merely as a sensational feud but as a broader commentary on wealth, culture, and the alienation of the ultra-wealthy. The piece also foregrounds her new collection, *The Frenzy*, framing it as a case study in grief, friendship, and the enduring impact of violence. Her reflections on AI’s job‑displacement for young people reveal a prescient concern for the future of work. Overall, the article invites readers to learn from Oates’ life and work, to analyze her literary strategies, and to be inspired by her candid, expert insights into the human condition.",
-    "summary_zh": "《卫报》访谈深入呈现乔伊斯·卡罗尔·奥茨的文学人生与文化批判。她与马斯克的公开对峙被视为财富与文化疏离的象征；新作《狂热》聚焦悲痛与友情，探讨暴力余波。奥茨对AI失业的担忧，预示未来劳动力挑战。整篇文章既是学习她创作轨迹的窗口，也是对社会变迁的深刻分析，激发读者对人性与文学的思考。",
-    "best_quote_en": "A whole generation of young people – they can’t get jobs, they send as many as 1,000 letters of inquiry, they get AI rejections, sometimes they’re interviewed by AI. This is killing these young people.",
-    "best_quote_zh": "一整代年轻人——他们找不到工作，发送多达1,000封求职信，却被AI拒绝，有时甚至被AI面试。这正在杀死这些年轻人。"
-  },
-  {
-    "id": 856,
-    "title": "Microsoft is Dead",
-    "title_zh": "Microsoft 已死",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/microsoft.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-07-11",
-    "summary_en": "From the author's eye‑level, the essay reads like a candid manifesto that deconstructs the myth of Microsoft’s invincibility. By weaving personal anecdotes—meeting a Y Combinator founder, recalling the rise of Gmail, and noting the shift to web‑first development—the piece argues that Microsoft’s demise was not a single corporate failure but a convergence of forces: Google’s dominance, the birth of Ajax, broadband ubiquity, and Apple’s design‑centric renaissance. The narrative is both historical and prescient, offering a critique of the old desktop monopoly and a warning that even a cash‑rich giant can be blindsided by cultural and technological momentum. The author’s tone oscillates between nostalgic disbelief and sharp skepticism, making the piece a compelling case study for anyone studying platform evolution, market disruption, and the politics of software dominance.",
-    "summary_zh": "作者以亲身经历为线索，拆解微软“无敌”神话，指出其衰落是谷歌崛起、Ajax诞生、宽带普及与苹果设计复兴的多重碰撞。文章既是历史回顾，也是对平台垄断的批判，提醒即使资金雄厚的巨头也可能被技术与文化浪潮所逼。",
-    "best_quote_en": "Microsoft cast a shadow over the software world for almost 20 years starting in the late 80s.",
-    "best_quote_zh": "微软在80年代末开始在软件世界投下阴影，持续近二十年。"
-  },
-  {
-    "id": 857,
-    "title": "Measuring Is Not Enough Anymore",
-    "title_zh": "测量已不再足够",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4TMKvGmoAWjXBGwWk/measuring-is-not-enough-anymore",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-11",
-    "summary_en": "Finke’s essay interrogates the prevailing reliance on quantitative metrics—particularly METR’s time‑horizon graph—to gauge AI progress and mitigate existential risk. He argues that while such curves inform researchers, investors, and even policy makers, they largely amplify a techno‑optimist narrative that equates capability with inevitability. The piece contrasts the graph’s influence on venture capital, media hype, and academic discourse, highlighting a mismatch between the public’s understanding and the real stakes of safety. Finke proposes a paradigm shift: instead of merely measuring capability, safety work should prescribe how development should proceed, embedding constraints and monitorability into the research agenda. By foregrounding the limits of measurement and calling for more prescriptive, future‑focused research, the article challenges the AI safety community to move beyond data collection toward shaping the trajectory of AI itself.",
-    "summary_zh": "费恩基的文章质疑当前依赖METR时间范围图等量化指标来评估AI进展与降低存在风险的做法。他指出，虽然该曲线能为研究者、投资者和政策制定者提供参考，却往往助长技术乐观主义，将能力等同于必然性。文章对比了该图在风险投资、媒体炒作与学术讨论中的影响，揭示公众认知与安全实际之间的鸿沟。作者主张从单纯测量转向制定发展路径的规范性研究，强调监测与可控性在研究议程中的核心地位。通过突出测量的局限并呼吁更具前瞻性的研究，文章促使AI安全界超越数据收集，真正塑造AI的发展轨迹。",
-    "best_quote_en": "The time horizon experiment is rightly described as an analogue of Moore's law.",
-    "best_quote_zh": "时间范围实验恰当地被描述为摩尔定律的类比。"
-  },
-  {
-    "id": 858,
-    "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
-    "title_zh": "要点：治疗、处理创伤与其他人生挑战 | Paul Conti 博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-therapy-treating-trauma-and-other-life-challenges-paul-conti",
-    "tags": [
-      "learn",
-      "psychology",
-      "medicine"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "医学健康"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "Dr. Paul Conti’s episode in the Huberman Lab Essentials series dives into the neuro‑psychological landscape of trauma, unpacking how guilt and shame become inextricably linked to the injury and how therapeutic processing can reverse these patterns. He offers a pragmatic framework for selecting a therapist—emphasizing rapport, session duration, and the importance of a safe, non‑judgmental environment—while also addressing the pharmacological frontier of psychedelic‑assisted therapy, with MDMA highlighted as a promising adjunct for overcoming fear. The discussion balances evidence‑based psychiatry with forward‑looking interventions, giving listeners a clear set of actionable tools: written processing, self‑care basics, and a roadmap for integrating novel treatments. The episode’s value lies in its dual role as a guide and a call to action, inviting listeners to move beyond passive listening toward active recovery. It challenges the stigma surrounding trauma treatment and reframes it as a scientifically grounded, accessible journey.",
-    "summary_zh": "在Huberman实验室的这一集，Paul Conti博士深入剖析创伤的神经心理学，阐释罪疚与羞耻如何与创伤交织，并提供实用的疗程选择与自我处理工具。特别提及MDMA辅助心理治疗的前景，强调创伤处理是康复的关键。内容兼具循证医学与前沿技术，为听众提供可操作的自我疗愈路径，呼吁公众正视创伤治疗的科学性与可达性。",
-    "best_quote_en": "Processing trauma is essential for healing.",
-    "best_quote_zh": "处理创伤是康复的关键。"
-  },
-  {
     "id": 859,
     "title": "From Primary Wave’s Kobalt acquisition to CVC’s DistroKid deal… it’s MBW’s weekly round-up",
     "title_zh": "从 Primary Wave 的 Kobalt 收购到 CVC 的 DistroKid 交易… MBW 的每周综述",
@@ -2348,5 +2256,101 @@
     "summary_zh": "蒂姆·费里斯在本期问答中，将个人再造、AI韧性与社交动态交织成一幅全景图。他警示人们要突破“二选一陷阱”，将职业转型视为实验而非跳跃；强调IFS、Awareness等内省工具，帮助面对创伤并培养真诚关系；提倡迷你退休与高分辨率生活，作为刻意的、时间盒化的休整，重新校准生产力与心理健康；在AI议题上，他兼顾乐观与谨慎，建议培养质问、写作、谈判等元技能，超越自动化；语言学习被视为认知提升与更高分辨率感知的途径；隐私立场则提醒数字卫生的重要性。整体内容兼具可操作框架、心理深度与前瞻性策略，为在AI时代追求有意义改变的人们提供路线图。",
     "best_quote_en": "When people say they only have two options, it means they got stuck.",
     "best_quote_zh": "当人们说他们只有两个选项时，这意味着他们陷入了困境。"
+  },
+  {
+    "id": 955,
+    "title": "Questions for the reader (and writer) of \"Fundamental Uncertainty\"",
+    "title_zh": "针对《Fundamental Uncertainty》读者（和作者）的提问",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wQxrbwocnCsTjHMeA/questions-for-the-reader-and-writer-of-fundamental",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-02",
+    "summary_en": "The commentary deftly positions Gordon Worley’s *Fundamental Uncertainty* at the crossroads of rationalist literature and mainstream epistemology, interrogating its novelty and pedagogical impact. By juxtaposing Husserl’s transcendental phenomenology with Celia Green’s total‑uncertainty psychology, the author maps a rich intellectual lineage that frames the book as both a continuation of and a departure from classical rationalist thought. The piece further probes how Worley’s Buddhist‑influenced, cybernetic‑Husserlian stance reshapes notions of self and external reality, inviting readers to reconsider the epistemic limits of both humans and AI. The analysis foregrounds the practical relevance of the work for AI safety researchers, noting its early influence on alignment discourse. Ultimately, the review challenges the reader to evaluate the book’s contribution to contemporary epistemic debates, urging a nuanced appraisal that balances theoretical depth with accessibility for the general audience.",
+    "summary_zh": "这篇评论把戈登·沃利的《Fundamental Uncertainty》置于理性主义与主流认识论的交汇点，探讨其新颖性与教育意义。作者将胡塞尔的现象学与格林的全不确定心理学相结合，勾勒出一条丰富的知识脉络，展示该书既是传统理性主义的延续，也是突破。文中还阐述了沃利受佛教与赛博格胡塞尔主义影响的自我与外在现实观，促使读者重新审视人类与 AI 的认识极限。评论强调该书对 AI 安全研究的实践价值，并鼓励读者在欣赏其理论深度的同时，关注其对普通读者的可接近性。",
+    "best_quote_en": "Worley first developed his philosophy in that context, and only later (starting in 2020) turned it into a general philosophy of rationality.",
+    "best_quote_zh": "一切都根本不确定"
+  },
+  {
+    "id": 956,
+    "title": "What’s in my NOW? — Michael Ham",
+    "title_zh": "我的现在是什么？—迈克尔·汉姆",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-michael-ham/",
+    "tags": [
+      "guide",
+      "education",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "Michael Ham’s reflective post is a mosaic of post‑career passions that invites readers to see how intentional living can be both practical and inspiring. He showcases how simple choices—Nordic walking poles that boost calorie burn without extra effort, a seed grinder that preserves spice freshness, and a larger‑screen MacBook Air that improves workflow—can transform daily routines into meaningful habits. He also offers a curated list of digital resources, from reliable war coverage to beginner‑friendly Esperanto guides, highlighting the value of continuous learning. The piece balances anecdote with actionable advice, underscoring that curiosity and disciplined practice can unlock new skills. Ham’s narrative serves as a case study for lifelong learning, demonstrating that even after retirement, one can curate a life of purpose, health, and intellectual growth.",
+    "summary_zh": "迈克尔·汉姆的文章像一幅退休后生活的拼贴画，既展示了日常小工具的实用性，也强调了持续学习的重要性。他用北欧步行杖、研磨机、较大屏幕MacBook等例子说明，细节决定体验；又通过提供可靠的乌克兰战争报道和易学的世界语指南，鼓励读者保持好奇心。文章既是自我成长的案例，也是对健康与知识双重追求的呼唤，提醒我们即使退休，也能通过小改变和持续学习，塑造充实而有意义的生活。",
+    "best_quote_en": "Nordic walking poles make walking more enjoyable (and burn 20% more calories with no perceptible increase in effort — indeed, they seem to make walking easier — and also make walking a full-body exercise).",
+    "best_quote_zh": "北欧步行杖让步行更愉快（燃烧多20%的卡路里，却没有明显的努力增加——实际上，它们似乎让步行更轻松——并且让步行成为全身运动）。"
+  },
+  {
+    "id": 957,
+    "title": "Best Ways to Build Better Habits & Break Bad Ones | James Clear",
+    "title_zh": "最佳习惯养成与戒除坏习惯的方法 | 詹姆斯·克利尔",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/best-ways-to-build-better-habits-and-break-bad-ones-james-clear",
+    "tags": [
+      "inspire",
+      "psychology",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "James Clear’s discussion on habit formation moves beyond generic motivational clichés to a practical, identity‑centric framework. He argues that lasting change is rooted in aligning new behaviors with one’s self‑concept and reshaping the physical environment, rather than relying on fleeting willpower. Clear introduces a suite of zero‑cost protocols—such as “Bad Day Plans,” “Identity‑Based Habits,” and “Previsualization”—that help readers anchor habits in context and reduce friction. The talk also tackles the often‑neglected domain of breaking bad habits, offering concrete tools like environmental cues, group accountability, and mindful input selection. By weaving together psychological insights, behavioral economics, and real‑world case studies, Clear equips listeners with a step‑by‑step blueprint to build powerful, sustainable habits in fitness, productivity, and mental health. The content is especially valuable for self‑help seekers, coaches, and anyone looking to replace the myth of motivation with a structured, evidence‑based approach to personal transformation.",
+    "summary_zh": "詹姆斯·克利尔以身份与环境为核心，阐释习惯形成的实用方法，摆脱对意志力的依赖。他提出零成本协议，如“坏日计划”“身份驱动习惯”“预想化”，帮助人们把新行为嵌入自我概念与物理环境，降低阻力。内容覆盖养成与戒除习惯的完整路径，提供环境提示、群体支持与有意识输入等工具，兼顾健身、生产力与心理健康。对自助者、教练及渴望用循证方法实现个人转变的人而言，具有高度实用与启发价值。",
+    "best_quote_en": "Anchor the changes you want to make in your identity and physical environment to make desired changes quickly and stick.",
+    "best_quote_zh": "将你想要改变的事物锚定在身份和物理环境中，以快速而持久地实现期望的改变。"
+  },
+  {
+    "id": 958,
+    "title": "Q&A with Tim — The Art of Male Friendship, Mini-Retirements, Higher-Resolution Living, Reinvention in The Age of AI, and More (#877)",
+    "title_zh": "Q&A with Tim — 男性友谊、迷你退休、高清生活、AI时代再造与更多（#877）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship/",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "In this eclectic Q&A, Tim Ferriss unpacks a mosaic of life‑shaping themes: the anatomy of male friendship, the allure of mini‑retirements, and the pursuit of higher‑resolution living in an AI‑dominated world. He foregrounds meta‑skills—adaptability, curiosity, and emotional resilience—as indispensable tools for thriving amid automation, while urging listeners to view AI not as a threat but as a catalyst for personal reinvention. Tim’s practical wisdom spans mental health, fitness, and language learning, underscoring the principle that sustained cognitive health hinges on consistent exercise, sleep hygiene, and privacy mindfulness. He also delves into the future of work, advocating for flexible sabbaticals and mini‑retirements to reset purpose. The episode blends anecdote, research, and actionable advice, inviting listeners to reimagine their trajectory, cultivate authentic friendships, and harness AI for deliberate growth. Its intellectual curiosity and grounded pragmatism make it a valuable guide for anyone navigating midlife, technology, and self‑improvement.",
+    "summary_zh": "本期Q&A涵盖男性友谊、迷你退休与AI时代的再造，强调适应力与好奇心为AI时代必备元技能；同时提倡规律锻炼、睡眠与隐私保护以延缓认知衰退；鼓励灵活休假与再造，打造更高分辨率的生活。",
+    "best_quote_en": "The best defense against cognitive decline is simple: exercise, exercise, exercise.",
+    "best_quote_zh": "对抗认知衰退的最佳防御就是：锻炼，锻炼，再锻炼。"
   }
 ]
