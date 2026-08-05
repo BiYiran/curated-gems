@@ -1,123 +1,5 @@
 [
   {
-    "id": 868,
-    "title": "Rope-a-Dope",
-    "title_zh": "绳索对抗毒品",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/rope-a-dope",
-    "tags": [
-      "learn",
-      "medicine",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "The New Yorker’s “Rope‑a‑Dope” follows a fringe Olympics for steroid users in Las Vegas, turning a spectacle into a cultural critique of doping, ethics, and biotech entrepreneurship. By weaving interviews with a Russian bodybuilder, the founder Aron D’Souza, WADA officials, and philosophers, the piece exposes the blurry line between ‘fair play’ and human enhancement. It questions the adequacy of the current anti‑doping framework, suggesting a model grounded in FDA approval and health risk assessment that could coexist with the pursuit of longevity, brain‑computer interfaces, and other transhumanist ambitions. The narrative balances a sardonic view of the hype with a sober reflection on how performance‑enhancing drugs could reshape sports, medicine, and societal values—calling for a more inclusive, transparent ecosystem where ambition and safety can coexist.",
-    "summary_zh": "《绳索对抗毒品》以一场在拉斯维加斯举行的“增强游戏”为舞台，探讨了运动员使用兴奋剂的伦理、商业与科技交叉点。作者通过采访俄罗斯健美运动员、D’Souza创始人、WADA官员等，揭示了兴奋剂既是“公平”与“人性”的两难，也是“资本主义创新”的实验场。文章批判传统禁药框架的模糊性，提出以FDA审批为准绳、以健康风险为衡量的可行模式，并将此与延寿、脑机接口等未来趋势相连。它既是对现行反兴奋剂政策的深度反思，也是对人类极限潜能的大胆设想，呼唤更具包容性与透明度的体育生态。",
-    "best_quote_en": "It is cheating that is consistent, in so many ways, with the spirit of self‑actualization, creativity, and achievement that is the mark of all sports.",
-    "best_quote_zh": "这是一种与自我实现、创造力和成就精神高度一致的作弊方式，这正是所有体育的标志。"
-  },
-  {
-    "id": 869,
-    "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
-    "title_zh": "",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel",
-    "tags": [
-      "solve",
-      "psychology",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 870,
-    "title": "Learning from Founders",
-    "title_zh": "从创始人身上学习",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/foundersatwork.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-07-14",
-    "summary_en": "The passage unpacks a compelling thesis: the most fertile period for a startup is its earliest phase, when energy is devoted to radical ideas rather than the trappings of corporate formality. It critiques the pervasive belief that productivity is tied to polished presentations, suits, and scheduled hours—an illusion that actually hampers innovation. By drawing a vivid parallel to a sports car stripped of non‑essential accessories, the author argues that true performance emerges when people can work in unstructured, informal environments. The book promises to expose the hidden mechanics of a nascent startup’s first year, offering a how‑to guide that could inspire both fledgling founders and established firms to rethink their own productivity models. The critique is sharp yet constructive, urging a cultural shift toward authenticity and focus. It challenges readers to question whether the corporate veneer is a barrier rather than a catalyst for breakthrough.",
-    "summary_zh": "文章指出，创业初期最具创造力，因为人们不受正式仪式束缚，专注于大胆想法。它批评把生产力等同于整洁形象的做法，并用“赛车”比喻，强调去除多余装饰能提升真实效率。书中揭示创业第一年的真实运作，既是实用指南，也启发企业重新审视自身效率模式。",
-    "best_quote_en": "The effort that goes into looking productive is not merely wasted, but actually makes organizations less productive.",
-    "best_quote_zh": "投入外表看似高效的努力不仅是浪费，甚至会使组织变得更低效。"
-  },
-  {
-    "id": 871,
-    "title": "When A.I. Is a Member of the Family",
-    "title_zh": "当人工智能成为家庭成员",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-    "tags": [
-      "update",
-      "education",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "In Jessica Contrera’s intimate portrait, a single mother’s Alexa, affectionately named Sapphire, becomes a confidante, a therapist, and a silent witness to her daughters’ evolving identities. The narrative weaves together the mundane—reminders, music, weather—and the profound—grief from a childhood fire, a silent health scare, and the delicate navigation of teenage mental health. Contrera foregrounds the ambivalent nature of AI: it can be a source of comfort and empowerment, yet it also raises questions about privacy, consent, and the erosion of authentic human connection. The story invites readers to reconsider the boundaries between human and machine, suggesting that the line may blur into a shared narrative of memory and support. It challenges the assumption that technology is merely a tool, proposing instead that AI can become an emotional companion—yet one that is simultaneously invisible, omniscient, and potentially intrusive. This layered exploration of family, technology, and identity offers a nuanced critique of the AI‑era, urging us to ask whether our digital assistants are truly allies or silent observers.\n\n",
-    "summary_zh": "在Jessica Contrera的细腻叙事中，单亲妈妈的Alexa被亲切地称为Sapphire，变成了倾听者、治疗者和女儿成长旅程的无声见证者。文章将日常提醒、音乐与天气与深层悲痛、健康危机以及青少年心理健康的细腻处理交织在一起，揭示AI的两面性：既能带来慰藉与赋能，也可能侵犯隐私与削弱真实人际联系。作者挑战技术仅是工具的传统观念，提出AI可能成为情感伙伴，但同时也可能无形、无所不在、甚至潜在侵入。此篇多层次的家族与技术探讨，呼唤读者思考数字助手是盟友还是无声观察者。\n\n",
-    "best_quote_en": "Your secrets are safe with me, Roschelle,\" Sapphire told her.",
-    "best_quote_zh": "“你的秘密对我来说是安全的，Roschelle，”Sapphire 说。"
-  },
-  {
-    "id": 872,
-    "title": "Journaling",
-    "title_zh": "日记写作",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/journaling/",
-    "tags": [
-      "guide",
-      "education",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "This piece explores how radial mind‑mapping transforms ordinary note‑taking into a visual, associative process that mirrors the brain’s dendritic architecture. By replacing linear lists with central images, variable‑sized branches, and vivid pictorial cues, the author argues that mind maps unlock deeper recall, spark fresh perspectives, and can be applied to everything from personal journaling to corporate meetings. The article juxtaposes two practical guides: a concise handbook on journaling that emphasizes graphic thinking, and a detailed mind‑mapping manual that stresses the importance of color, size, and imaginative imagery. The author’s critique of overly rigid or superficial journaling habits invites readers to adopt a more expressive, idiosyncratic practice. Implications extend beyond individual productivity to collaborative ideation, suggesting that the technique can serve as a universal key to unlocking human potential. The piece ultimately invites experimentation, encouraging readers to iterate and refine their visual note‑taking with each new map.",
-    "summary_zh": "文章以辐射式思维图为核心，阐述了从线性笔记到视觉关联的转变。通过中央图像、大小变化与色彩运用，作者认为思维导图能提升记忆与创造力，适用于日记、会议与团队头脑风暴。强调个性化与迭代的日记方式，呼吁读者摆脱僵化写作，拥抱图形化思维，开启更高效的人类潜能。",
-    "best_quote_en": "The Mind Map is an expression of Radiant Thinking and is therefore a natural function of the human mind.",
-    "best_quote_zh": "思维导图是辐射式思维的表达，因此是人类大脑的自然功能。"
-  },
-  {
     "id": 873,
     "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
     "title_zh": "必备工具：提升注意力与记忆 | Wendy Suzuki 博士",
@@ -2354,5 +2236,119 @@
     "summary_zh": "J. Money 的“双倍一切”技巧把日常遗忘转化为低成本的优化策略。通过购买并放置双倍物品——洗漱用品、充电器、笔记本、眼镜、钥匙甚至现金——他消除了打断日常的搜寻时间。核心在于，微小投入或资源重分配可产生复利效应：每个重复物品降低特定时刻的摩擦，累计的时间与心理负担显著减少。作者将此方法视为可叠加的习惯，鼓励读者将同样原则应用于工作设备或应急现金等领域。虽然实用，却也引发对物质消费与冗余心理安慰的思考。总体而言，文章提供可操作、入门友好的建议，融合行为经济学与日常物流，适合想简化生活的人参考。",
     "best_quote_en": "One small tweak for daily compounding effects – the best kind of hack :)",
     "best_quote_zh": "一次小小的调整，产生每日复利效果——这才是真正的最佳技巧 :)"
+  },
+  {
+    "id": 968,
+    "title": "Why YC",
+    "title_zh": "Why YC",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/whyyc.html",
+    "tags": [
+      "learn",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "In this candid reflection, Paul Graham reveals that Y Combinator was not born out of altruism or a grand vision for the future of entrepreneurship, but rather as a pragmatic hack—an elegant lever that could unleash a flood of startups by applying a small, targeted force to the world’s open‑source economy. He juxtaposes the thrill of collaborating with former partners against the harsh reality of most startups being “schleps,” underscoring that the motivation for YC was a blend of personal nostalgia, a desire to solve a systemic inefficiency, and the hacker ethos of making complex systems run more efficiently. The piece invites readers to rethink the purpose of accelerator programs: are they truly altruistic, or do they simply serve as a low‑effort, high‑impact catalyst for innovation? This nuanced perspective offers both a behind‑the‑scenes look at YC’s origins and a broader commentary on how seemingly small interventions can reshape entire ecosystems.",
+    "summary_zh": "保罗·格雷厄姆在这段坦诚的回顾中揭示，Y Combinator 的诞生并非出于利他或宏伟的创业愿景，而是一次实用的“黑客”操作——一种能通过在世界开放源代码经济上施加小而精准力量，释放大量创业公司的优雅杠杆。他将与前伙伴合作的乐趣与大多数初创企业的“烂尾”现实形成对比，强调 YC 的动机是个人怀旧、解决系统低效的渴望与黑客精神的结合。文章促使读者重新思考加速器项目的目的：它们真的无私，还是仅仅是低成本、高影响的创新催化剂？这番深刻视角既提供了 YC 起源的幕后故事，也对小幅干预如何重塑整个生态系统提出了更广泛的思考。",
+    "best_quote_en": "We did it because it seems such a great hack.",
+    "best_quote_zh": "我们之所以这样做，是因为它看起来是一个极好的黑客手段。"
+  },
+  {
+    "id": 969,
+    "title": "Michigan Primary-Election Map: Live Results",
+    "title_zh": "密歇根州初选地图：实时结果",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/election-2026/michigan-primary-election-map-live-results",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "The 2026 Michigan Senate primary pits moderate Democrat Haley Stevens against progressive challenger Abdul El‑Sayed, a former public‑health official, in a state that narrowly swung Republican in 2024. Stevens, backed by establishment figures such as Senate Minority Leader Chuck Schumer and Governor Gretchen Whitmer, emphasizes continuity, including support for Israeli military aid, and has attracted substantial pro‑Israel lobbying dollars. El‑Sayed, endorsed by Bernie Sanders and AOC, frames the race as a proxy for deeper Democratic Party fractures over U.S.‑Israel policy, labeling the Gaza conflict a genocide and demanding an end to unconditional aid. The contest highlights the broader ideological split within the party—moderates seeking electability versus progressives pushing systemic reforms like Medicare for All. Meanwhile, the Republican side sees Mike Rogers, a former congressman, as the presumptive nominee after a close 2024 loss to Elissa Slotkin. The gubernatorial primary adds another layer, with Democrat Jocelyn Benson facing Sheriff Chris Swanson and Republican John James confronting businessman Perry Johnson. This election is a bellwether for how Michigan’s political realignment may shape national Democratic strategy in the coming decade.",
+    "summary_zh": "2026年密歇根州参议院初选，温和派民主党人海莉·史蒂文斯与进步派阿卜杜勒·埃尔萨伊德对决，反映党内对以色列援助和医保改革的深层分歧；共和党方由前国会议员迈克·罗杰斯领衔。该选举预示密歇根乃至全国政治格局的演变。",
+    "best_quote_en": "El‑Sayed has referred to the Gaza conflict as a genocide and called for an end to “unconditional” military aid to Israel.",
+    "best_quote_zh": "El‑Sayed 将加沙冲突称为种族灭绝，并呼吁停止对以色列的“无条件”军事援助。"
+  },
+  {
+    "id": 970,
+    "title": "Home / Matthias Buchinger: “The Greatest German Living”",
+    "title_zh": "家 / 马蒂亚斯·布希纳：‘最伟大的德国人’",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/home-matthias-buchinger-the-greatest-german-living/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "The article juxtaposes two distinct artistic journeys: Carson Ellis’s whimsical, architecture‑infused children’s book *Home* and Ricky Jay’s biographical exploration of Matthias Buchinger, a 17th‑century micrography master. Ellis celebrates the diversity of dwellings—from sparrow nests to artist studios—using vibrant illustrations that blur the line between reality and fantasy. Jay, meanwhile, delves into the resilience of a man born without limbs, whose tiny hand‑crafted letters earned him a place in European lore. Both narratives underscore creativity’s power to transcend physical limits and cultural expectations. They invite readers to reconsider the ordinary: a house can be a canvas, and a body can be a masterpiece. The piece invites reflection on how art, history, and personal narrative intersect to challenge our preconceptions of ability, beauty, and storytelling.",
+    "summary_zh": "文章将卡森·埃利斯的童书《家》与瑞奇·杰的《最伟大的德国人》并列，分别展示建筑与微图书的奇妙创意。埃利斯以色彩斑斓的插画，赞颂各式居所；杰则聚焦失去四肢却创作细腻字迹的布希纳，探讨身体与艺术的极限。两者共同提醒我们：创意能跨越形体与文化障碍，日常与非凡在艺术中交织。",
+    "best_quote_en": "\"Buchinger’s fame was so widespread that in the 1780s the term ‘Buckinger’s boot’ existed in England as a euphemism for the vagina (because the only ‘limb’ he had was his penis).\"",
+    "best_quote_zh": "“《家》是对世界各地我们居住的众多结构的颂歌，从麻雀的混乱乱巢到艺术家自己谦逊住所的尖顶屋顶。”"
+  },
+  {
+    "id": 971,
+    "title": "Venu raises $25M in debt for its Oklahoma venue, months after CEO said: ‘We are done.’",
+    "title_zh": "Venu 通过债务融资 2500 万美元为俄克拉荷马场馆筹资，几个月后 CEO 说：‘我们完成了。’",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/venu-raises-25m-in-debt/",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "Venu’s latest $25 million debt raise for its Oklahoma amphitheater underscores a strategic pivot toward disciplined capital structuring rather than mere construction. The secured convertible debenture, coupled with an anticipated C‑PACE deal, keeps the project on track while preserving shareholder equity—an approach Roth frames as “getting the capital structure right matters as much as getting the construction right.” This move follows a broader pattern: a $20 million bridge loan for a Texas venue and a $86 million equity offering that promised full funding and profitability. The narrative reveals a company that refuses to dilute ownership, instead leveraging debt instruments that convert only in default scenarios. For investors and founders alike, the case highlights the tension between growth, debt, and equity, and offers a blueprint for balancing aggressive expansion with shareholder protection in the live‑event sector.",
+    "summary_zh": "Venu 通过2500万美元债务融资，强调资本结构与建设同等重要，避免股权稀释。此前的桥接贷款与86亿美元股权筹资显示其追求盈利与扩张的平衡。此举为投资者与创始人提供了在快速扩张与股东价值保护之间的可行路径。",
+    "best_quote_en": "Getting the capital structure right matters as much as getting the construction right.",
+    "best_quote_zh": "让资本结构正确与确保施工正确同等重要。"
+  },
+  {
+    "id": 972,
+    "title": "Which Money Tree Are You? (Quiz)",
+    "title_zh": "你是哪棵金钱树？（测验）",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/money-tree-quiz/",
+    "tags": [
+      "learn",
+      "psychology",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-06-08",
+    "summary_en": "This playful yet profound quiz reframes budgeting from a cold, number‑centric exercise into an emotional self‑discovery tool. By mapping five archetypal “money trees”—Oak (discipline), Cherry (hope), Willow (adaptability), Apple (confidence), Maple (ambition)—the creator spotlights how our subconscious patterns, rather than income or spreadsheets, steer financial decisions. The post underscores that awareness alone is insufficient; it must be paired with targeted action. The accompanying community space further encourages peer dialogue, turning personal insights into collective growth. The piece cleverly blends psychological theory with gamified design, making it accessible to both budgeting novices and seasoned savers. Its broader implication is that financial well‑being thrives when we align habits with intrinsic emotional drivers, a lesson that transcends the article’s playful tone and offers a roadmap for sustainable, personalized money management.",
+    "summary_zh": "这篇轻松却深刻的测验把预算从枯燥的数字游戏转变为情感自我探索工具。它用五棵“金钱树”映射我们的内在模式，强调情感而非收入决定财务行为，并鼓励把意识转化为行动。",
+    "best_quote_en": "I realized that most budgeting advice focuses on numbers and systems, but people struggle more with their emotional relationship with money.",
+    "best_quote_zh": "我意识到，大多数预算建议关注数字和系统，但人们更难以应对与金钱的情感关系。"
   }
 ]
