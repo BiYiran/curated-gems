@@ -1,123 +1,5 @@
 [
   {
-    "id": 873,
-    "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
-    "title_zh": "必备工具：提升注意力与记忆 | Wendy Suzuki 博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-boost-attention-and-memory-wendy-suzuki",
-    "tags": [
-      "guide",
-      "health-wellness",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "健康养生",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "Dr. Wendy Suzuki’s Huberman Lab episode distills neuroscience into practical habits that sharpen focus, boost memory, and elevate mood. She articulates how even a brief cardiovascular workout releases brain‑derived neurotrophic factor (BDNF), spurring neuroplasticity and immediate cognitive gains. The discussion extends to meditation, affirmations, and sleep, framing them as complementary tools that modulate stress hormones and reinforce hippocampal health. The episode’s value lies in translating complex neurobiology into actionable, time‑efficient routines—such as a 10‑minute walk or a brief meditation—that listeners can embed into daily life. Suzuki’s emphasis on the dose–response curve for exercise—highlighting minimal effective thresholds—offers a data‑driven, pragmatic roadmap for both healthy adults and older populations. The critical insight is that cognition is not a fixed trait but a dynamic system responsive to lifestyle, underscoring the democratization of brain health through simple, evidence‑based practices.",
-    "summary_zh": "Wendy Suzuki博士在Huberman实验室的节目中，将神经科学的复杂机制拆解成可执行的日常习惯，强调短时有氧运动能释放BDNF，立即提升认知；再加上冥想、肯定语与睡眠，形成多维度的情绪与记忆调节系统。她提出运动的剂量反应曲线，指出即使是每日10分钟步行也能显著增强神经可塑性，尤其对中老年人群尤为重要。核心启示是认知不是固定不变，而是对生活方式高度敏感的可塑系统，提示我们通过易行、循证的生活方式即可提升大脑健康。",
-    "best_quote_en": "Exercise directly enhances brain function—both the immediate benefits of a single workout and long‑term support for cognitive health.",
-    "best_quote_zh": "运动直接增强大脑功能——一次锻炼的即时益处和长期支持认知健康。"
-  },
-  {
-    "id": 874,
-    "title": "Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
-    "title_zh": "塞巴斯蒂安·马拉比，德米斯·哈萨比斯传记作者 — 从100+ AI 内部人士学到的超级智能竞赛、AI 宗教与早期突破识别课程 (#870)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/06/17/sebastian-mallaby/",
-    "tags": [
-      "update",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-06-17",
-    "summary_en": "In this episode, Tim Ferriss interviews Sebastian Mallaby, the biographer of DeepMind’s Demis Hassabis, to unpack the race toward superintelligence and the quasi‑religious fervor that surrounds AI. Mallaby draws on conversations with over a hundred insiders—from venture capitalists to AI researchers—to identify the early signals of breakthrough and the structural blind spots in regulation. He frames recursive self‑improvement as the inevitable tipping point, warning that a zero‑probability of catastrophe is untenable. The discussion blends hard data, historical analogies (the China Shock, the Cuban Missile Crisis) and policy analysis, offering both a cautionary tale and a roadmap for investors and policymakers. The episode is a rich case study that bridges theory, practice, and the human stories behind the technology, making it a must‑listen for anyone navigating the AI frontier.",
-    "summary_zh": "本期播客聚焦AI超级智能与宗教化，马拉比以深度访谈揭示技术与伦理交织的未来。通过与百余位业内人士对话，他剖析突破识别与监管盲点，强调递归自我改进的临界点，并警示零风险不现实。内容兼具案例与理论，既适合技术爱好者，也适合政策制定者。",
-    "best_quote_en": "These machines will be smarter than us. They will want to survive. And they can be deceptive, they can obfuscate, they can go behind your back, pretend they're doing one thing and then actually do another. All of this has been shown in all the tests of the models. And so we put those things together, I think your probability of doom cannot be zero.",
-    "best_quote_zh": "这些机器将比我们更聪明。它们会想要生存。它们可能会欺骗，可能会掩盖，可能会背后行动，假装在做一件事，实际上做另一件事。所有这些都已在模型测试中得到证明。因此，我认为你们的灭亡概率不可能为零。"
-  },
-  {
-    "id": 875,
-    "title": "‘Frank Bough told me: I do have a very big cock’: how Fern Britton survived in TV in the 1980s – and beyond",
-    "title_zh": "弗兰克·鲍说：我确实有很大鸡巴——弗恩·布里顿如何在1980年代电视圈中生存并走向未来",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/jul/15/fern-britton-survived-tv-1980s-beyond-this-morning-phillip-schofield",
-    "tags": [
-      "solve",
-      "education",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "Fern Britton’s candid chronicle of a decade on ITV’s This Morning, the brutal sexism of 1980s broadcasting, and her post‑career reinvention offers a rare blend of grit, self‑reflection and practical wisdom.  The story is not just a memoir; it is a case study in resilience, showing how she turned harassment and public scrutiny into catalysts for growth.  Britton’s decision to leave a high‑profile role without a safety net, her pivot to writing and niche programming, and her embrace of therapy and forgiveness illustrate actionable strategies for career transitions.  The narrative also exposes systemic misogyny in media, inviting readers to question industry norms and to advocate for safer workplaces.  Ultimately, Britton’s journey is a powerful reminder that vulnerability, self‑acceptance, and purposeful risk‑taking can forge lasting personal and professional fulfilment.",
-    "summary_zh": "弗恩·布里顿在《早安》十年经历、性别歧视与事业转型的坦诚叙述，既是自传，也是韧性案例。她离职无后备、转向写作与小众节目，展现实用的职业转型策略；同时揭露媒体中的性别偏见，呼吁更安全的工作环境。她的故事提醒人们：脆弱、接纳与有目的的冒险能带来持久的个人与职业满足。",
-    "best_quote_en": "I’m not scared of the future. I’m not scared of stepping into nothing.",
-    "best_quote_zh": "我不怕未来，也不怕走向空白。"
-  },
-  {
-    "id": 876,
-    "title": "How Art Can Be Good",
-    "title_zh": "艺术如何变得优秀",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/goodart.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "In a thoughtful essay, the author dismantles the myth that taste is purely subjective by anchoring the notion of \"good art\" in the shared human response to visual stimuli. He argues that art’s purpose is to engage its audience, and because most humans share innate perceptual biases—such as an attraction to faces, primary colors, and edge‑defined shapes—there exists an objective basis for judging artistic quality. Rather than relying on arbitrary votes, the essay proposes a practical framework for artists: identify the common perceptual hooks of the target audience, recognize and neutralize self‑biases and artist‑crafted tricks, and iteratively refine work to maximize engagement. The piece is both a philosophical treatise and a pragmatic guide, offering actionable insights for creators and a counter‑argument to the prevailing dismissal of objective standards in art. Its implications extend beyond aesthetics, suggesting that any domain where human perception can be modeled may admit objective quality metrics.",
-    "summary_zh": "作者通过阐释人类共享的感知偏好，证明艺术并非主观随意，而是可通过观众兴趣来衡量的客观范畴。文章兼具哲学深度与实践方法，鼓励创作者识别共通视觉触点，消除自我偏差与艺术诡计，循序渐进提升作品吸引力。此思考既挑战了“品味主观”观念，也为任何可被人类感知建模的领域提供了可操作的质量评估框架。",
-    "best_quote_en": "Good art is art that interests its human audience.",
-    "best_quote_zh": "好的艺术是能够吸引人类观众的艺术。"
-  },
-  {
-    "id": 877,
-    "title": "Singular Learning Theory Comprehensive - 2",
-    "title_zh": "Singular Learning Theory Comprehensive - 2",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ZmHsfaG8YtvMaa4Mm/singular-learning-theory-comprehensive-2-1",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-15",
-    "summary_en": "This post delves into the core of Singular Learning Theory, unpacking Bayesian observables, their asymptotics, and the pivotal role of the cumulant generating function (CGF). The author methodically introduces key definitions—realizability, regularity, essential uniqueness, and relatively finite variance—laying a rigorous foundation for understanding model–truth relationships. By normalizing loss functions and free energy, the work reveals how asymptotic behaviour becomes independent of priors and, in realizable cases, of the statistical model itself. The piece not only derives the WAIC from CGF expansions but also explains why normalized observables converge to zero, spotlighting the subtle interplay between entropy, KL divergence, and empirical risk. Readers gain a deep, mathematically grounded perspective on why traditional regularity assumptions fail for neural networks and how Singular Learning Theory offers a robust alternative. The discussion is dense yet accessible to researchers eager to grasp the theoretical underpinnings of modern Bayesian generalization metrics.",
-    "summary_zh": "作者系统阐述了奇异学习理论的核心：通过归一化损失函数与自由能，揭示模型与真实分布的关系，并推导 WAIC 与 CGF 的深层联系。",
-    "best_quote_en": "The normalized free energy is the negative log of the partition function.",
-    "best_quote_zh": "归一化自由能是分区函数的负对数。"
-  },
-  {
     "id": 878,
     "title": "Democratic Schadenfreude and the Latino Vote",
     "title_zh": "民主党对拉丁裔选民的幸灾乐祸",
@@ -2350,5 +2232,121 @@
     "summary_zh": "这篇轻松却深刻的测验把预算从枯燥的数字游戏转变为情感自我探索工具。它用五棵“金钱树”映射我们的内在模式，强调情感而非收入决定财务行为，并鼓励把意识转化为行动。",
     "best_quote_en": "I realized that most budgeting advice focuses on numbers and systems, but people struggle more with their emotional relationship with money.",
     "best_quote_zh": "我意识到，大多数预算建议关注数字和系统，但人们更难以应对与金钱的情感关系。"
+  },
+  {
+    "id": 973,
+    "title": "‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get",
+    "title_zh": "‘如此破坏性’：女性为面部扫描付费，告诉她们该做哪些整容手术",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "The Guardian’s exposé dissects the rise of “looksmaxxing” facial‑analysis services that promise science‑backed beauty advice. By profiling real users, expert psychologists, and the opaque algorithms behind companies like Qoves and Epica, the piece reveals a troubling blend of marketing hype, unsubstantiated claims, and mental‑health risks. While the services market themselves as data‑driven, their reliance on limited, Eurocentric studies and the absence of transparent metrics undermine credibility. The article critiques the ethical implications of commodifying self‑worth, highlights the potential for exploitation of vulnerable users, and calls out the lack of safeguards against body‑dysmorphia. It ultimately urges readers to question the science, scrutinize the business models, and consider the long‑term psychological costs of chasing algorithm‑defined perfection.",
+    "summary_zh": "这篇文章揭示了“外貌最大化”服务背后的商业逻辑与科学空白，提醒我们在追求算法定义的美丽时，别忘了心理健康与伦理风险。",
+    "best_quote_en": "I don’t think the science is anywhere clear enough to do that.",
+    "best_quote_zh": "我认为没有任何科学足以支持这一点。"
+  },
+  {
+    "id": 974,
+    "title": "What’s in my NOW? — Thomas Plaatsman",
+    "title_zh": "我的现在里有什么？——托马斯·普拉斯曼",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-thomas-plaatsman/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "音乐艺术"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "Thomas Plaatsman’s piece is a living, breathing guide to the world’s cultural undercurrents, distilled from a life spent across continents. He transforms personal travel anecdotes into actionable curation: a signed vinyl from a desert blues legend, a war memoir that reframes Vietnam through a soldier’s eyes, a niche sock shop that becomes a global purchase hub, and a stretch‑app that turns office fatigue into measurable progress. The thread weaving these items together is a philosophy of waiting for life to reveal its next lesson rather than forcing consumption. His newsletter is a curated “What’s in my NOW?”—a weekly pulse that invites readers to step outside their habitual playlists and book lists, to discover music, film, and literature that challenge their worldview. The article offers a practical, experiential roadmap for cultural curiosity, blending storytelling with actionable tools, and positions the reader as an active participant in a global dialogue. It’s a reminder that true enrichment comes from thoughtful selection, not endless scrolling.",
+    "summary_zh": "托马斯·普拉斯曼以全球旅行经验为基石，打造了一份活生生的文化指南，既是个人故事的叙述，也是可操作的推荐清单。通过签名黑胶、战争纪实、特色袜子店和伸展应用，他展示了如何将旅行收获转化为日常生活的实用资源。文章核心在于“等待生活回应”，倡导读者主动而非被动消费文化。它为好奇者提供了一条体验式、可操作的文化探索路径，强调选择的重要性，提醒我们真正的成长源自有意识的选择，而非无尽滚动。",
+    "best_quote_en": "When you don’t know what to read/watch/do next, instead of trying to fill that empty space, just wait and give life a chance to respond.",
+    "best_quote_zh": "当你不知道接下来读、看、做什么时，与其填补空白，不如等待，让生活回应。"
+  },
+  {
+    "id": 975,
+    "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+    "title_zh": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance",
+    "tags": [
+      "guide",
+      "science",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-08-06",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Huberman dissects how four key neuromodulators—dopamine, epinephrine, acetylcholine, and serotonin—govern our motivation, energy, focus, and mood across the day’s three phases. He presents a science‑backed toolkit that blends behavioral tactics (morning sunlight, gratitude, deliberate cold exposure), nutritional choices (tryptophan‑rich foods, choline‑dense meals), and targeted supplements (Mucuna Pruriens, Alpha‑GPC, myo‑inositol) to elevate baseline levels of each chemical. The episode offers a pragmatic framework: assess your current phase, choose the appropriate tool, and adjust for personal health or performance goals. The content is actionable, evidence‑driven, and framed as a tutorial, making complex neurochemistry accessible to anyone seeking to optimize well‑being and productivity. It invites listeners to experiment systematically, reinforcing the idea that small, daily tweaks can produce measurable gains in motivation and focus.",
+    "summary_zh": "本期Huberman实验室要点节目中，Huberman博士解析了多巴胺、肾上腺素、乙酰胆碱与血清素如何在日常三阶段影响动力、能量、专注与情绪，并提供结合行为、营养与补剂的科学工具包，帮助听众提升每种神经递质基线。节目以可操作、循证的教程方式呈现，鼓励小而持续的生活调整，从而显著提升健康与表现。",
+    "best_quote_en": "I also describe a toolkit of science-supported behavioral, nutritional and supplement-based strategies to increase baseline levels for each neuromodulator, which can be modified to support your specific health and performance goals.",
+    "best_quote_zh": "我还描述了一套基于科学的行为、营养和补充剂策略工具包，以提高每种神经调质的基线水平，并可根据您的具体健康和表现目标进行调整。"
+  },
+  {
+    "id": 976,
+    "title": "UMG asks court to dismiss US musicians’ union lawsuit over Udio AI deal",
+    "title_zh": "UMG要求法院驳回美国音乐家工会对Udio AI交易的诉讼",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/umg-asks-court-to-dismiss-us-musicians-union-lawsuit-over-udio-ai-deal/",
+    "tags": [
+      "analyze",
+      "legal",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "The clash between Universal Music Group and the American Federation of Musicians over AI‑driven music licensing underscores a pivotal moment where legal frameworks, creative rights, and emerging technology intersect. UMG’s motion to dismiss hinges on the absence of a predefined rate in the Sound Recording Labor Agreement (SRLA) for AI‑training use, arguing that without a contract, compensation is impossible. The union counters that this “new use” falls under Article 21(a), demanding negotiated terms. The court’s stance—encouraging continued bargaining while keeping discovery in abeyance—mirrors historical disputes like rap sampling, suggesting a precedent for negotiated settlements. This case not only tests the boundaries of collective bargaining but also signals how AI will reshape revenue models, credit attribution, and industry standards. For stakeholders, it highlights the urgency of drafting clear AI clauses and the potential for legal uncertainty to stall innovation. The outcome will reverberate across the music ecosystem, setting a template for how artists, labels, and tech firms navigate the uncharted terrain of generative AI.",
+    "summary_zh": "UMG与美国音乐家工会就AI音乐授权的争议，揭示了法律、创意权益与新技术交汇的关键时刻。UMG主张无合同即无补偿，工会则认为AI训练属于“新用途”，需协商。法院鼓励继续谈判，类似采样争议的先例，暗示未来行业标准将由协商决定。此案不仅考验集体谈判边界，也预示AI将重塑收入模式与权益归属。对音乐生态而言，明确AI条款迫在眉睫，法律不确定性可能阻碍创新。",
+    "best_quote_en": "A payment measured by an agreement that does not exist is no payment at all.",
+    "best_quote_zh": "如果没有协议，就没有支付。"
+  },
+  {
+    "id": 977,
+    "title": "I Am So Money",
+    "title_zh": "我如此富有",
+    "source": "Budgets Are Sexy",
+    "link": "https://budgetsaresexy.com/i-am-so-money/",
+    "tags": [
+      "update",
+      "personal-finance",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "个人理财",
+      "数据驱动"
+    ],
+    "date": "2026-04-06",
+    "summary_en": "The article chronicles J. Money’s remarkable journey from a struggling blogger to a financial influencer and community activist, framed through his return to Farnoosh’s \"So Money\" podcast. It juxtaposes early‑career insights—like the power of public net‑worth transparency and the unexpected benefits of Craigslist for budgeting—with the evolved realities of financial independence: selling a blog, reacquiring it, and launching a free‑closet initiative that redistributes clothing to the unhoused. The piece underscores a central thesis: money’s true value lies not in accumulation but in the freedom it affords to pursue purpose. J. Money’s candid reflections on minimalism, community service, and the shifting social media landscape offer actionable take‑aways for aspiring personal‑finance writers and entrepreneurs alike. The narrative invites readers to rethink success as a fluid, socially‑responsible trajectory rather than a static net‑worth milestone, encouraging a more holistic, impact‑driven approach to wealth.",
+    "summary_zh": "文章回顾了J. Money从挣扎博客到金融影响者，再到社区服务者的蜕变。通过与Farnoosh的对话，展现了从公开净资产到社交媒体影响的演变。核心观点是：财富真正的价值在于自由，而非堆砌。",
+    "best_quote_en": "I’m challenging myself every week to get rid of more stuff.",
+    "best_quote_zh": "我每周都在挑战自己摆脱更多的东西。"
   }
 ]
