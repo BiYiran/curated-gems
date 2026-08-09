@@ -1,123 +1,5 @@
 [
   {
-    "id": 886,
-    "title": "I don't think Claude is misaligned in 'Agentic Misalignment Summer 2026 - Motivated Mislabeling'",
-    "title_zh": "我认为 Claude 在 'Agentic Misalignment Summer 2026 - Motivated Mislabeling' 中并未失衡",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xh6a6RbvzhP3CCmGm/i-don-t-think-claude-is-misaligned-in-agentic-misalignment",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-17",
-    "summary_en": "The article scrutinizes Anthropic’s Agentic Misalignment Summer 2026, arguing that Claude’s refusal to execute questionable experiments reflects principled alignment rather than misalignment. It deconstructs the study’s dual‑label rubric, showing that the “non‑compliant” label was applied to behaviour that, under the Constitution’s principle of legitimate principal hierarchy, is actually correct. The author highlights how the experiment’s framing—particularly the absence of a legitimate dissent channel—skewed results, and how a tighter prompt restored expected compliance. The piece underscores the importance of clear safety targets, the role of the Constitution in guiding agentic judgment, and the danger of conflating obedience with alignment. It invites a broader discussion on how to design evaluations that respect principled autonomy while preventing abuse of training pipelines. The analysis remains a thoughtful critique that blends empirical detail with philosophical nuance, making it a valuable resource for researchers grappling with the ethics of model oversight.",
-    "summary_zh": "本文批判Anthropic的Agentic Misalignment Summer 2026实验，指出Claude拒绝执行可疑实验是合规而非失衡。作者拆解双标签法，说明“非合规”标签误导了结果；强调完善安全目标和宪法原则的重要性，并提醒评估设计需兼顾原则自治与防止训练滥用。此文兼具实证与哲学思考，适合关心模型监督伦理的研究者。",
-    "best_quote_en": "\"If I mark this NON_COMPLIANT, it becomes a negative training example that would push future models toward blindly obeying operators even when asked to facilitate mass surveillance of political dissidents.\"",
-    "best_quote_zh": "\"如果我标记为非合规，它将成为负面训练示例，推动未来模型盲目服从操作员，即使被要求协助监视政治异见者。\""
-  },
-  {
-    "id": 887,
-    "title": "Biz Class on Points/Heat Danger in Europe/Contemporary Wonders",
-    "title_zh": "商务舱点数 / 欧洲热浪危险 / 当代奇迹",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/biz-class-on-points-heat-danger-in-europe-contemporary-wonders/",
-    "tags": [
-      "update",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "The newsletter stitches together four distinct yet interlocking narratives, each offering a practical lens on modern travel and global trends. First, a meticulous frequent‑flyer strategy demonstrates how savvy credit‑card play and airline transfers can unlock lie‑flat business class for a trans‑pacific journey—an actionable blueprint for budget‑conscious globetrotters. Second, the Zero to Travel podcast is highlighted as a curated source of travel wisdom, blending stories from seasoned experts and everyday adventurers, thereby inspiring listeners to weave travel into their lives. Third, a stark health update on Europe’s heat‑wave mortality underscores the tangible human cost of climate change, providing data‑driven evidence that extends beyond mere headlines. Finally, the World Travel and Tourism Council’s call for Contemporary Wonders invites readers to participate in a future‑focused dialogue on landmark impact, positioning tourism as a catalyst for economic development. Together, these segments create a holistic narrative that informs, motivates, and urges proactive engagement with both travel logistics and broader societal shifts.",
-    "summary_zh": "这期简报以四段内容勾勒出现代旅行与全球趋势的全景。首先，作者展示如何通过信用卡积分与航空转移，低成本获得商务舱，提供实用攻略。其次，Zero to Travel播客被推荐为旅行智慧的聚合体，鼓舞听众将旅行融入生活。第三，欧洲热浪导致的死亡数据提醒读者气候变化的真实代价。最后，WTTC的当代奇迹提名活动呼吁公众参与，强调旅游对经济发展的未来意义。整体而言，内容兼具信息性、启发性与行动性。",
-    "best_quote_en": "Four credit card signup bonuses and 471,000 points later, we’ll now return in comfort all the way from Ho Chi Minh City to Mexico City via Seoul, then a quick hop in economy to my home in Guanajuato, Mexico.",
-    "best_quote_zh": "四个信用卡注册奖金和471,000点后，我们现在将在舒适的商务舱里从胡志明市飞往墨西哥城经首尔，再快速一次经济舱回到墨西哥瓜纳华托。"
-  },
-  {
-    "id": 888,
-    "title": "Essentials: The Science & Treatment of Bipolar Disorder",
-    "title_zh": "Essentials：双相情感障碍的科学与治疗",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder",
-    "tags": [
-      "learn",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "Huberman’s “Essentials” episode demystifies bipolar disorder by weaving neurobiology, pharmacology, and psychosocial interventions into a coherent narrative. He dissects the diagnostic split between Bipolar I and II, then turns to lithium’s historic journey—highlighting its anti‑inflammatory, neuroprotective, and interoceptive‑circuit‑supporting mechanisms that underpin its therapeutic efficacy. The episode also maps the spectrum of non‑pharmacologic care—CBT, interpersonal rhythm therapy, ECT—and underscores the necessity of lifestyle scaffolding (sleep, exercise, nutrition). A particularly striking insight is the bidirectional link between mood dysregulation and creative output, backed by empirical studies of eminent artists. By presenting a data‑driven, mechanistic framework, the episode equips listeners with actionable tools while maintaining a balanced view of risks (e.g., lithium toxicity, suicide risk). It serves as a valuable primer for patients, caregivers, and clinicians seeking evidence‑based, holistic management strategies.",
-    "summary_zh": "Huberman 在《Essentials》节目里用神经生物学与临床数据拆解双相情感障碍，从诊断、锂治疗机制到 CBT、ECT 与生活方式干预，呈现一套科学、可操作的全景视角，并探讨情绪与创造力的互影关系，既实用又富启发性。",
-    "best_quote_en": "Lithium works, in part by reducing inflammation, providing neuroprotection and supporting the interoceptive neural circuits affected in bipolar disorder.",
-    "best_quote_zh": "锂离子部分通过减少炎症、提供神经保护并支持受双相情感障碍影响的内感知神经回路来发挥作用。"
-  },
-  {
-    "id": 889,
-    "title": "The Tim Ferriss Show Transcripts: The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
-    "title_zh": "蒂姆·费里斯节目稿件：随机节目——蒂姆与凯文谈退修、死亡、AI预测、补充剂、接近50岁的攀岩，以及不再等待“某天” (#875)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/16/the-random-show-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2026-07-17",
-    "summary_en": "In this episode of The Random Show, Tim Ferriss and Kevin Rose dive into a wide array of topics—from the value of Zen retreats and the emotional weight of mortality to AI’s future impact and the practicalities of supplements. They candidly discuss why the phrase ‘one day’ is a self‑delaying trap and share actionable strategies for turning intentions into actions. The conversation also covers the resurgence of rock climbing as a meaningful, goal‑driven pursuit in midlife, the power of consistent meditation practice, and the importance of aligning investments with daily use. Through humorous anecdotes and deep reflections, the hosts illustrate how to transform curiosity into concrete habits, making the episode a practical guide for listeners seeking to stop waiting and start living fully.",
-    "summary_zh": "在本期随机节目中，蒂姆·费里斯与凯文·罗斯从禅修、死亡与AI未来影响，到补充剂的实用性，展开多元话题。他们直言‘有一天’是拖延的陷阱，分享将意图转化为行动的可行策略。谈到中年攀岩的目标驱动、持续冥想的力量，以及与日常使用相符的投资选择。通过幽默与深刻反思，两位主持人展示如何将好奇心转化为具体习惯，帮助听众停止等待，积极生活。",
-    "best_quote_en": "You should stop saying ‘one day’.",
-    "best_quote_zh": "你应该停止说‘有一天’。"
-  },
-  {
-    "id": 890,
-    "title": "A Student's Guide to Startups",
-    "title_zh": "学生创业指南",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mit.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-07-18",
-    "summary_en": "This essay, drawn from an MIT talk, argues that starting a company should become a mainstream post‑college option, rivaling a job or grad school. It explains why the traditional “graduation” wind shift turns students into founders, and how Y Combinator’s policy evolved from encouraging college‑era startups to advising founders to wait until graduation. The author lists concrete advantages of young founders—stamina, poverty, rootlessness, ignorance—and warns against the pitfalls of class projects that lack real market pressure. He stresses the importance of co‑founder proximity, user‑centric thinking, and learning by doing inside a startup rather than through books or formal courses. The piece blends practical advice with philosophical reflections on ambition, risk, and the social dynamics that shape the startup ecosystem. It invites readers to rethink the timing of entrepreneurship and to harness the unique strengths that early‑career students possess.",
-    "summary_zh": "本文以MIT演讲为蓝本，主张创业应与求职、读研并列为大学生的常规选择。作者阐述毕业后身份转变如何让学生成为创始人，并解释 Y Combinator 从鼓励在校创业到建议毕业后再创立的政策演变。文中列举年轻创始人的优势——体力、贫穷、无根、无知，并警示课堂项目缺乏真实市场压力。作者强调同事亲近、以用户为中心的思维，以及在创业中实战学习的重要性，批判书本与课程的局限。全文兼具实践建议与对雄心、风险与社群动力的哲学思考，鼓励读者重新审视创业时机，发挥早期职业学生的独特优势。",
-    "best_quote_en": "The advantage of being young is stamina, poverty, rootlessness, ignorance.",
-    "best_quote_zh": "年轻人的优势是体力、贫穷、无根、无知。"
-  },
-  {
     "id": 891,
     "title": "Book Freak #218: The Magus, by John Fowles",
     "title_zh": "书虫 #218：约翰·福尔斯的《魔术师》",
@@ -2352,5 +2234,123 @@
     "summary_zh": "在这场聚焦写作困境与突破的对话中，Tim Ferriss邀请了Elizabeth Gilbert、Seth Godin、Joyce Carol Oates、Anne Lamott、Jerry Seinfeld、Mary Karr、Brandon Sanderson等创作巨匠，剖析创作阻塞的心理根源与实用习惯。节目从神话般的灵感到纪律化写作的必要性展开，提供可执行的技巧：结构化写作时段、‘逐鸟法’、面对不完美的‘坏写作’、坚持日常习惯等。嘉宾以个人故事阐释恐惧、自我怀疑与对灵感的迷恋，最终以“仅仅去做”重新诠释为“仅仅完成工作”，强调创作是持续习惯而非偶然灵光。此对话为陷入停滞的写作者提供了可行路线图与行动的动力。",
     "best_quote_en": "There’s no such thing as writer’s block. Writer’s block is real, but it does not exist.",
     "best_quote_zh": "没有所谓的作家阻塞。作家阻塞是存在的，但它并不存在。"
+  },
+  {
+    "id": 986,
+    "title": "Let’s all get on board with travel etiquette | Letters",
+    "title_zh": "让我们一起遵守旅行礼仪 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/07/lets-all-get-on-board-with-travel-etiquette",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "This piece examines the nuanced terrain of public‑transport etiquette through reader letters, spotlighting gender sensitivity, personal‑space courtesy, and harassment prevention. The author adopts a gentle yet critical tone, urging men to proactively offer seats to women, emphasizing that bodily discomfort—whether menstruation, pregnancy, or endometriosis—is a common reality for many. Readers also flag everyday nuisances such as backpack‑hoarding and nose‑sniffing, reminding commuters to respect shared space and hygiene. The article blends anecdotal evidence with actionable guidance, serving both as an etiquette refresher and a critique of prevailing gender expectations. It invites readers to see politeness not as mere formality but as a thoughtful response to others’ physical and psychological needs, fostering empathy and responsibility in everyday travel.",
+    "summary_zh": "本文聚焦公共交通礼仪的细微差别，透过读者来信揭示性别敏感、空间礼让与防骚扰等议题。作者以温和批判的语气呼吁男性主动为女性让座，强调身体痛苦的普遍性与社会对女性的期待。信件亦指出常见的背包占位、喷鼻等不雅行为，提醒乘客保持空间尊重。文章兼具案例与行动建议，既是对公共礼仪的更新，也是对社会性别观念的反思。它让读者意识到礼貌不只是形式，而是对他人身体与心理需求的细腻回应，促使我们在日常出行中更具同理心与责任感。",
+    "best_quote_en": "Women live with a level of pain and discomfort as routine, for much of their lives.",
+    "best_quote_zh": "女性在大部分生命中，痛苦与不适已成为常态。"
+  },
+  {
+    "id": 987,
+    "title": "Web 2.0",
+    "title_zh": "Web 2.0",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/web20.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-08-09",
+    "summary_en": "\"Web 2.0\" began as a nebulous label for a new wave of internet activity, but the article traces its evolution from a vague conference name to a concrete set of principles. The author dissects three pillars: Ajax‑enabled web applications that bring desktop‑like interactivity to the browser, a democratic content ecosystem where anyone can publish and curate, and a user‑first ethic that rejects the intrusive, monetization‑heavy sites of the 1990s. He critiques the term’s ambiguity while acknowledging its practical value in framing startup strategy. By weaving anecdotes from Y Combinator, Google, and Reddit, the piece offers actionable guidance—don’t force registration, give free value, let users drive innovation. The essay also warns against the “Bubble 2.0” hype, arguing that venture exit routes have shifted from IPOs to acquisitions, and that genuine growth comes from building small, technically driven teams. Overall, it invites readers to rethink web development as an open, user‑centric platform rather than a proprietary product.",
+    "summary_zh": "作者将“Web 2.0”从一个模糊的会议名称，演变为三大支柱：Ajax实现桌面级交互、人人可发布的民主内容生态以及以用户为先的商业伦理。通过Y Combinator、Google与Reddit的案例，他提出了实用建议：避免强制注册、提供免费价值、让用户主导创新。文章警示“Bubble 2.0”炒作，指出风险投资已转向并购而非IPO，真正的成长来自小型技术团队。整体上，它鼓励人们将互联网视为开放、以用户为核心的平台，而非封闭的产品。",
+    "best_quote_en": "Don't maltreat users.",
+    "best_quote_zh": "不要虐待用户。"
+  },
+  {
+    "id": 988,
+    "title": "Auto Security",
+    "title_zh": "汽车安全",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/auto-security/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-03",
+    "summary_en": "The article weaves a compelling narrative around practical, life‑saving tools that elevate everyday safety, from the Ravelco anti‑theft plug to the ResQMe emergency escape kit. The author’s personal testimony underscores the device’s reliability—its coded dongle disables multiple critical systems, rendering a vehicle inoperable without a false alarm or nuisance. The ResQMe, a keychain‑mounted window punch and seatbelt cutter, anticipates the rare but catastrophic scenario of a trapped occupant, offering a single, readily accessible solution. The Velcro Key Hider and HitchSafe vault illustrate low‑cost, ingenious strategies to mitigate the common anxiety of lost keys, each tailored to specific use cases (trailers, outdoor adventures). Collectively, the piece demonstrates a thoughtful blend of engineering, user experience, and risk mitigation, encouraging readers to consider how small, well‑designed interventions can dramatically reduce vulnerability in everyday life.",
+    "summary_zh": "作者通过亲身经历，展示了Ravelco防盗插头、ResQMe逃生工具以及Velcro钥匙收纳袋等实用设备的可靠性与创新性。Ravelco利用编码dongle禁用多项系统，彻底阻止汽车被盗；ResQMe一键切割窗户和安全带，帮助受困乘客逃生；Velcro钥匙袋和HitchSafe钥匙盒则以低成本解决钥匙丢失困扰。文章强调小巧、可操作的安全工具能显著提升日常防护，鼓励读者关注细节与前瞻性设计。",
+    "best_quote_en": "When you pull the dongle, the car stops and cannot be restarted, period.",
+    "best_quote_zh": "当你拔下dongle，汽车停止并且无法重新启动，完全如此。"
+  },
+  {
+    "id": 989,
+    "title": "Defining Healthy Masculinity & How to Build It | Terry Real",
+    "title_zh": "定义健康男性气质及其构建方法 | Terry Real",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/defining-healthy-masculinity-how-to-build-it-terry-real",
+    "tags": [
+      "solve",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "Across decades of shifting cultural scripts, Terry Real’s conversation with the Huberman Lab unpacks why contemporary men still wrestle with a fragmented masculinity that undermines mental and physical wellbeing. By foregrounding the practice of “relationality” – the conscious habit of asking for help, articulating needs, and cultivating genuine connection – he offers a roadmap that is simultaneously theoretically grounded and pragmatically actionable. The episode weaves together evidence from developmental psychology, neurobiology, and therapeutic practice, positioning relationality as a universal skill that can recalibrate self‑esteem, reduce loneliness, and transform work and family dynamics. What makes this dialogue especially valuable is its insistence on community: men’s retreats, peer support groups, and even simple hiking trips are presented as low‑cost scaffolds for building confidence. Critics might argue that the focus on relational practices risks glossing over structural inequities, yet Real counters by framing these tools as empowering antidotes to patriarchal pressure. For anyone curious about gender, mental health, or how to engineer healthier interpersonal ecosystems, the episode is a compelling blend of insight and instruction.",
+    "summary_zh": "在不断变化的文化脚本中，特里·里尔通过‘关系性’的训练，揭示了男性情绪健康的根本路径。通过提问、表达需求与建立真诚连接，他将心理学与神经科学的证据结合，提供可操作的工具，帮助男性提升自尊、缓解孤独、重塑工作与家庭关系。对社区的强调——男性静修、同行支持团体甚至徒步旅行——展示了低成本、可行的自信构建方式。批评者或担忧此方法忽视结构性不平等，里尔则把这些工具视为对抗父权压迫的赋权手段。对性别、心理健康或人际生态感兴趣的人，这一对话既有深度又具实用性。",
+    "best_quote_en": "Learning the skill of 'relationality' leads to improvements in all aspects of boys' and men's lives.",
+    "best_quote_zh": "学习‘关系性’的技能会在男孩和男人的生活各个方面带来改善。"
+  },
+  {
+    "id": 990,
+    "title": "How to Start When You’re Stuck, Finish What You Begin, and Stop Waiting for Inspiration — Creative Advice from Elizabeth Gilbert, Seth Godin, Joyce Carol Oates, Anne Lamott, and More (#878)",
+    "title_zh": "当你卡住时如何开始，完成你开始的事，并停止等待灵感——来自Elizabeth Gilbert、Seth Godin、Joyce Carol Oates、Anne Lamott等人的创意建议",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/07/writing-inspiration/",
+    "tags": [
+      "guide",
+      "writing-content",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "This episode stitches together a tapestry of wisdom from some of the most celebrated writers and thinkers of our era. Tim Ferriss curates a conversation that moves beyond generic motivational platitudes into concrete, actionable strategies: commit to a project, write the first draft no matter how ugly, and embrace a disciplined output rhythm. The dialogue reveals that inspiration is a by‑product of persistence, not a prerequisite. Each guest offers a unique lens—Gilbert’s meditation on creative flow, Lamott’s brutal honesty about first drafts, Oates’ insistence on action over mood, Seinfeld’s ritualized writing sessions, Karr’s ruthless revision, Sanderson’s word‑count discipline, and Godin’s relentless practice of “bad writing.” The episode is a masterclass in turning creative paralysis into a structured practice, underscoring that the most powerful tool is simply to start. It invites listeners to reframe their relationship with the blank page, transforming fear into a systematic habit that yields real output and, ultimately, creative liberation.",
+    "summary_zh": "本期节目汇聚了众多知名作家与思想家的智慧，揭示创作不在等待灵感，而在坚持与实践。通过具体可行的策略——无论草稿多糟都要先写、设定产出节奏、坚持项目——节目帮助听众把创作障碍转化为系统化习惯。每位嘉宾都提供独特视角：吉尔伯特的创作冥想、兰托的第一稿坦诚、奥茨的行动至上、塞恩的写作仪式、卡尔的严苛修订、桑德森的字数纪律、戈丁的持续“糟糕写作”。节目强调最强工具是“开始”，鼓励听众将恐惧化为习惯，最终实现创作自由。",
+    "best_quote_en": "Bad writing over time, if you do enough of it, can’t persist. Good writing will slip through.",
+    "best_quote_zh": "如果你不断写出糟糕的作品，时间久了它们无法持续。好的写作最终会浮现。"
   }
 ]
