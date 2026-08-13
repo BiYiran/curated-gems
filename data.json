@@ -1,99 +1,5 @@
 [
   {
-    "id": 903,
-    "title": "One Man’s Quest to Fix Every Deadly Guardrail",
-    "title_zh": "一名男子的使命：修复所有致命护栏",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/07/27/one-mans-quest-to-fix-every-deadly-guardrail",
-    "tags": [
-      "solve",
-      "science",
-      "politics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "政治时事",
-      "深度分析"
-    ],
-    "date": "2026-07-20",
-    "summary_en": "Steve Eimers’ grief‑driven crusade exposes a silent, systemic failure in highway safety that most Americans take for granted. After his daughter Hannah was impaled by a poorly installed guardrail, he turned from a window‑washing entrepreneur into a full‑time investigator, cataloguing thousands of defects and lobbying for industry transparency. The story is a sobering reminder that safety engineering is as much a political and cultural battle as it is a technical one. Eimers’ relentless data‑collection, YouTube advocacy, and legislative lobbying illustrate the power of individual agency when coupled with rigorous evidence. Yet the narrative also exposes a deeper paradox: the very systems designed to protect us can become lethal when ignored or misapplied, revealing a gap between engineering standards and on‑the‑ground implementation. The piece invites readers to question the trust we place in infrastructure, the accountability of manufacturers, and the role of citizen watchdogs in shaping public policy. It underscores the urgency of transparent design, proper installation, and continuous monitoring as prerequisites for real safety.\n",
-    "summary_zh": "史蒂夫·艾默斯因女儿被不当护栏致命而发起的斗争，揭示了美国公路安全体系的深层缺陷。通过对数千条缺陷记录的整理与公开，他将个人悲痛转化为对制造商透明度与立法改革的推动，证明了单个公民在技术与政治双重舞台上的力量。此事提醒我们，安全工程的标准与实际安装往往脱节，导致本该保护人身的设施变成致命武器。艾默斯的行动呼唤更严格的设计规范、正确的安装流程以及持续的监管，才能真正保障道路安全。\n",
-    "best_quote_en": "I once had someone tell me that the most influential people in history often only ever get a one‑degree turn of the ship, which seems inconsequential— but over time you end up at a completely different destination.",
-    "best_quote_zh": "我曾听人说，历史上最有影响力的人往往只转动船只一度，似乎无关紧要——但随着时间推移，你最终会抵达完全不同的目的地。"
-  },
-  {
-    "id": 904,
-    "title": "The Random Show — Tim and Kevin Talk Retreats, Mortality, AI Predictions, Supplements, Rock Climbing at (Almost) 50, and Not Waiting for “Someday” (#875)",
-    "title_zh": "随机秀——Tim与Kevin谈论静修、死亡、AI预测、补剂、接近50岁时的攀岩，以及不再等待“某天” (#875)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/07/16/the-random-show/",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-07-16",
-    "summary_en": "In this episode, Tim Ferriss and Kevin Rose blend personal narrative with actionable wisdom, creating a mosaic that spans mortality, mindfulness, and future tech. They open with a tequila toast that frames aging as a subtle tax on perception, segueing into a Zen retreat where the koan “Mu” becomes a metaphor for confronting the unknown. The conversation then pivots to the practicalities of rock‑climbing after forty, illustrating how late‑stage skill acquisition can defy conventional timelines. A thread of health science runs through the dialogue: from ketone supplements and A2 protein to the MM120 anxiety trial, each anecdote is paired with a data‑driven insight that invites listeners to experiment. The AI segment is forward‑looking, critiquing personalization algorithms while predicting the next wave of generative models. Throughout, Ferriss and Rose champion the ethic of “not waiting for someday,” urging proactive living and continuous learning. Their blend of expert insight, experiential storytelling, and future‑focused analysis makes the episode a rich resource for anyone seeking both inspiration and concrete tools to navigate an uncertain world.",
-    "summary_zh": "Tim与Kevin在此期节目中以个人故事与可操作智慧交织，探讨死亡、正念与前沿科技。先以特基酒举杯，暗示年龄带来的感知税，随后进入禅修，‘Mu’禅语映射未知。随后讨论四十后攀岩，证明晚年技能获取亦可突破常规。健康科学贯穿全程：从酮补剂、A2蛋白到MM120焦虑试验，每段都配以数据驱动洞见，鼓励实验。AI话题前瞻性强，批判个性化算法并预测下一波生成模型。全程倡导“别再等待某天”，鼓励主动生活与持续学习。专家洞见、经验叙事与前瞻分析交融，成为不确定世界中启发与实用工具的宝库。",
-    "best_quote_en": "Not waiting for “Someday”",
-    "best_quote_zh": "不再等待‘某天’"
-  },
-  {
-    "id": 905,
-    "title": "The Happy Cent ¢",
-    "title_zh": "快乐一分",
-    "source": "Budgets Are Sexy",
-    "link": "https://budgetsaresexy.com/the-happy-cent-poem/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-07-13",
-    "summary_en": "The poem \"The Happy Cent\" turns a humble penny into a powerful symbol of gratitude and perspective. It invites readers to carry a tiny smile—literally etched on a coin—through everyday life as a constant reminder of the small blessings that often go unnoticed. The verses weave a narrative that contrasts the fleeting trials we face with the steady presence of appreciation, suggesting that a single, tangible token can shift our focus from frustration to joy. The author cleverly uses the penny as a metaphor for the broader human experience: a reminder of those less fortunate, a prompt to reframe discomfort, and an affirmation that love and generosity can outweigh material scarcity. The poem’s practical appeal lies in its simplicity: a physical object that can be kept in a pocket, making the abstract practice of gratitude concrete and accessible. By framing gratitude as a tangible, everyday ritual, the piece offers a low‑cost, high‑impact strategy for cultivating resilience and optimism, resonating with anyone seeking a small but meaningful change in mindset.\n\n",
-    "summary_zh": "这首《快乐一分》用一枚小小的便士，象征感恩与视角的力量。作者把便士的微笑化作日常生活中的提醒，让我们在困境中寻找小小的喜悦。它通过与不幸者的对比，提醒我们把焦点从抱怨转向欣赏，甚至把不适转化为微笑。便士的存在使感恩变得可触可感，低成本却高效，适合任何想要通过小改变提升心态的人。",
-    "best_quote_en": "It reminds me of others less fortunate / Making my situation less bleak.",
-    "best_quote_zh": "它提醒我那些不那么幸运的人 / 让我的处境不那么黯淡。"
-  },
-  {
-    "id": 906,
-    "title": "‘I fell in love with the art of coffee-making’: the female baristas shaking up Somalia’s booming cafe scene",
-    "title_zh": "‘我爱上咖啡艺术’：女性咖啡师掀起索马里繁荣的咖啡馆潮流",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/jul/22/i-fell-in-love-with-the-art-of-coffee-making-the-female-baristas-shaking-up-somalias-booming-cafe-scene",
-    "tags": [
-      "analyze",
-      "education",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-07-22",
-    "summary_en": "In Mogadishu’s post‑conflict renaissance, a handful of pioneering women have turned the humble coffee shop into a catalyst for social change. At CPlus Cafe, 23‑year‑old Saabiriin Hassan defies gender norms, mastering espresso techniques and becoming a community trainer. Her story echoes across the city, where cafes now serve as hubs for employment, entrepreneurship, and cultural exchange. The article traces the rapid cafe boom—over ten branches, 40% women workforce, and a growing network of training centers—highlighting how coffee culture is reshaping youth aspirations and providing a viable alternative to traditional male‑dominated trades. It underscores the power of skill acquisition, mentorship, and social entrepreneurship in rebuilding a war‑torn economy, offering a compelling case study for gender‑equity, urban regeneration, and informal sector development. Readers gain actionable insights into how a simple beverage can spark empowerment and economic resilience in emerging markets.",
-    "summary_zh": "在索马里摩加迪沙，女性咖啡师用咖啡艺术点燃城市复兴，创造就业、创业与文化交汇的新空间。她们的故事揭示技能与社群力量如何重塑青年梦想，成为冲突后经济重建的温暖案例。",
-    "best_quote_en": "\"I would encourage young women to acquire as many skills as possible. And never listen to those who say you can’t do it.\"",
-    "best_quote_zh": "\"我鼓励年轻女性尽可能掌握多种技能，并且不要听那些说你做不到的人。\""
-  },
-  {
     "id": 907,
     "title": "How to Present to Investors",
     "title_zh": "如何向投资者展示",
@@ -2350,5 +2256,97 @@
     "summary_zh": "Lior Schleien从以色列的喜剧明星转变为民主守护者，利用网络与青年对话，揭露宗教极端与司法威胁。他的讽刺不再仅是娱乐，而是政治教育与行动的呼声。",
     "best_quote_en": "“With this government, that ain’t the case anymore: we are being led to a hellhole.”",
     "best_quote_zh": "“我们被引导走向地狱之路。”"
+  },
+  {
+    "id": 1003,
+    "title": "Ideas for Startups",
+    "title_zh": "创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ideas.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-13",
+    "summary_en": "“Ideas for Startups” dissects the myth that great startup ideas are rare gifts, arguing instead that they are the byproducts of disciplined questioning and relentless iteration. The essay reframes the problem: instead of seeking a “million‑dollar blueprint,” founders should pose provocative questions—“Could we build a web‑based spreadsheet?”—and then experiment, allowing the market to shape the concept. This shift from certainty to curiosity unlocks a broader, more resilient idea space. The author further links idea generation to exposure to cutting‑edge technology and a diverse, supportive network, noting universities as fertile grounds because they combine novelty and collaboration. He underscores the importance of founder pairs, citing the scarcity of female founders as a demographic consequence of friendship dynamics. Finally, the piece advocates a pragmatic exit mindset—designing for acquisition—while celebrating serendipity as a powerful catalyst for innovation. The work blends behavioral insights, design thinking, and entrepreneurial pragmatism, offering a nuanced framework that is both theoretically grounded and practically actionable.",
+    "summary_zh": "《Ideas for Startups》以‘问问题而非寻找蓝图’的视角，拆解创业灵感是偶然而非稀缺的误区。作者提倡先提问“我们能做一个基于网络的电子表格吗？”再让市场检验，鼓励不断实验。文章指出技术前沿与多元社群是创意源泉，大学是理想孵化场。作者还分析创始人双人制的重要性，解释女性创始人稀缺的社会学原因，并倡导以并购为目标的退出思维，强调实用性与偶然性并存的创业路径。",
+    "best_quote_en": "A question doesn't seem so challenging. It becomes: let's try making a web-based spreadsheet and see how far we get.",
+    "best_quote_zh": "一个问题并不那么具有挑战性。它变成：让我们尝试制作一个基于网络的电子表格，看看能走多远。"
+  },
+  {
+    "id": 1004,
+    "title": "What’s in my NOW? — Tanya S.",
+    "title_zh": "我的现在是什么？— Tanya S.",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-tanya-s/",
+    "tags": [
+      "solve",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "Tanya S. offers a candid, practical guide to turning everyday habits into productivity boosters, blending physical tools with digital hacks. She starts with a walking pad that turns commuting into a 10,000‑step workout, then moves to a battery‑free luggage scale that saves travel fees, and smart plugs that simplify office lighting—all of which illustrate her philosophy that small, consistent actions can replace mental clutter. Her digital section showcases Spark Email’s cross‑device sync and a newsletter that dissects procrastination through psychology and humor, reinforcing the theme that insight is earned through doing, not just thinking. The piece ends with a powerful mantra—\"Answers are hidden in action, not thinking\"—encapsulating her belief that the best solutions come from initiating rather than overanalyzing. This article serves as a gentle yet actionable manifesto for anyone looking to streamline routines, reduce decision fatigue, and cultivate a proactive mindset. It invites readers to experiment, adapt, and ultimately find clarity in movement and habit.",
+    "summary_zh": "Tanya S. 通过结合身体与数字工具，展示如何把日常习惯转化为高效生产力。她用步行垫实现每日 10,000 步，利用无电量表省机票费，借助智能插座简化灯光管理，体现小行动替代脑力负担的理念。数字层面，她推荐 Spark 邮箱的跨设备同步和探讨拖延心理的周报，强调行动是获取洞察的途径。文章以“答案藏在行动中，而非思考”收尾，鼓励读者通过实践而非过度思考寻找答案，帮助人们简化决策，培养积极主动的生活方式。",
+    "best_quote_en": "Answers are hidden in action, not thinking.",
+    "best_quote_zh": "答案藏在行动中，而非思考。"
+  },
+  {
+    "id": 1005,
+    "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
+    "title_zh": "必备：如何优化女性激素健康以提升活力与长寿 | 佐拉·戈特菲尔德博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
+    "tags": [
+      "guide",
+      "health-wellness",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "健康养生",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2026-08-13",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Sara Gottfried dissects female hormone health through a rigorous medical lens, mapping how cortisol, thyroid, estrogen, progesterone, and testosterone orchestrate energy, mood, metabolism, and long‑term disease risk. She emphasizes a decade‑by‑decade biomarker roadmap—teens, 20s, 30s, and beyond—highlighting that hormone tracking is a dynamic, lifelong process, not a one‑time check. Gottfried’s insights blend data‑driven evidence with actionable tools: timing of hormone tests, micronutrient panels, stress‑reduction practices, and cardiometabolic screening. The episode also tackles PCOS, oral contraceptives, perimenopause, and brain hypometabolism, offering concrete strategies like continuous glucose monitoring and adaptive exercise. The discussion is both scientifically grounded and practically oriented, encouraging listeners to re‑evaluate their own hormonal milieu and adopt evidence‑based interventions for vitality and longevity.",
+    "summary_zh": "在这期 Huberman Lab Essentials 里，Dr. Sara Gottfried 以医学视角剖析女性激素健康，强调多指标监测与生活方式干预的系统性。她指出，激素不仅影响能量与情绪，更决定代谢与慢性疾病风险。通过案例与数据，她提出可操作的检测、营养与压力管理方案，帮助女性在青春期、孕期、围绝经期乃至更年期保持最佳状态。文章兼具科学严谨与实用性，激发读者重新审视自身激素平衡，促使更有意识的健康决策。",
+    "best_quote_en": "Hormone health is not a static snapshot; it is a dynamic interplay of biomarkers that shape energy, mood, metabolism, and long‑term disease risk.",
+    "best_quote_zh": "激素健康不是静态的快照，而是塑造能量、情绪、代谢和长期疾病风险的生物标志物的动态相互作用。"
+  },
+  {
+    "id": 1006,
+    "title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
+    "title_zh": "如何重塑自己并大胆行动——马修·麦康纳、史蒂夫·杨、萨米·诺斯拉特等人的决定性故事（#879）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
+    "tags": [
+      "solve",
+      "music-arts",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "This episode turns reinvention into a practical roadmap, pulling together the lived experiences of a Hollywood star, a former NFL quarterback, a celebrated chef, and a pioneering biotech CEO. Each guest frames the transition as a death that must be mourned, a narrative that demands intentional grieving before new life can emerge. The discussion moves beyond generic advice to concrete rituals—writing a 10‑year life plan, treating a career shift as a funeral, and building a personal narrative that embraces uncertainty. The stories illustrate that bold moves require both emotional courage and strategic action, and they invite listeners to adopt the same frameworks in their own journeys. For anyone stuck in a role that no longer fits, this episode offers a blend of inspiration, actionable steps, and case studies that transform abstract ideas into tangible change. The takeaway is simple: treat your old self as a funeral, plan your future with precision, and let the narrative of reinvention guide you forward.",
+    "summary_zh": "本期节目将重塑自我变成可操作的路线图，汇聚好莱坞明星、前NFL四分卫、知名厨师和生物技术先驱的真实经历。每位嘉宾都把转变视为一次死亡，必须哀悼后才能迎来新生。节目从写十年生活计划、把职业转变当作葬礼，到构建拥抱不确定性的个人叙事，提供具体仪式。它展示了大胆行动需要情感勇气与战略行动的结合，并邀请听众将同样框架应用于自身。对于陷于不合适角色的人来说，节目提供灵感、可执行步骤与案例研究，让抽象理念落地。核心：把旧我当葬礼，精准规划未来，让重塑叙事引领前行。",
+    "best_quote_en": "\"What I’ve learned about transition [is] that everyone … needs to recognize and treat it like a death, to mourn it and go through all the steps of mourning it and burying it and actually having it as a place that you can keep referring to as almost like a grave site. Because otherwise you carry it around and you never transition.\"",
+    "best_quote_zh": "“思考死亡让我们更快乐。我不是说沉溺——只是承认它。承认生命有100%死亡率，大多数人不知道何时或如何死亡。”"
   }
 ]
