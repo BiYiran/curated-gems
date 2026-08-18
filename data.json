@@ -1,123 +1,5 @@
 [
   {
-    "id": 922,
-    "title": "The Power of the Marginal",
-    "title_zh": "边缘的力量",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/marginal.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-07-25",
-    "summary_en": "The essay argues that the most groundbreaking innovations arise from the margins—outsiders who lack institutional support, risk aversion, and the burden of expectations. It uses Silicon Valley garages and historical anecdotes to illustrate how marginality frees individuals to experiment, hack together solutions, and pursue unconventional ideas. The author critiques the corrupt or overly selective “tests” that favor insiders, arguing that honest standards allow outsiders to thrive, while corrupt ones suppress potential. By embracing small, inexpensive projects and refusing to be constrained by plans, outsiders can iterate quickly and learn from each failure. The piece also highlights the democratizing power of the internet, which gives marginal voices audiences and resources previously reserved for elites. Ultimately, the author exhorts readers to “just try hacking something together,” framing curiosity and failure as the true engines of progress. The essay blends philosophical reflection with practical advice, making a compelling case for valuing the marginal in a world dominated by insiders.",
-    "summary_zh": "文章论证突破性创新源自边缘——缺乏制度支持、无风险恐惧、无期望束缚的外来者。通过硅谷车库和历史典故，阐释边缘性如何让人敢于实验、即兴拼凑、追求非传统想法。批判偏袒内部的腐败或过度挑选“测试”，认为诚实标准让外来者得以繁荣，腐败则压制潜能。作者鼓励从小、低成本项目开始，拒绝被计划束缚，快速迭代、从失败中学习。互联网的民主化让边缘声音拥有以往仅限精英的受众与资源。最终号召“只要试着把东西拼凑在一起”，将好奇与失败视为进步的真引擎。",
-    "best_quote_en": "Just try hacking something together.",
-    "best_quote_zh": "只要试着把东西拼凑在一起。"
-  },
-  {
-    "id": 923,
-    "title": "The Viable System Model & Multi-Scale Agency",
-    "title_zh": "可行系统模型与多尺度代理",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ENoAxAXrCvFHW4q3u/the-viable-system-model-and-multi-scale-agency",
-    "tags": [
-      "analyze",
-      "science",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-07-25",
-    "summary_en": "Jonas Hallgren’s post re‑examines Stafford Beer’s Viable Systems Model (VSM) through the lens of active inference and information theory, framing it as a scaffold for multi‑scale agency in organisations, brains, and collective intelligences. He articulates the five VSM layers—operations, coordination, management, strategy, and identity—as nested active‑inference agents that exchange prediction errors and priors, thereby linking Ashby’s law of requisite variety to contemporary cybernetics. The article interweaves technical insights (e.g., oscillatory damping, Kuramoto synchronisation, Markov blankets) with philosophical musings on “ought” versus “is,” dreams, and organisational culture. Hallgren’s narrative is both a critique and a speculative blueprint: it acknowledges the VSM’s historical opacity while proposing a tractable, data‑driven translation that invites further formalisation of time‑dependent regulation and causal emergence. For practitioners, the piece offers a conceptual bridge between classic management science and modern AI safety, inviting experimental validation in organisational design and agent‑based simulations.",
-    "summary_zh": "霍尔格伦重新审视斯塔福德·比尔的可行系统模型（VSM），将其与主动推断与信息理论相结合，构建多尺度代理框架。他把五层系统——运作、协调、管理、战略与身份——视为嵌套的主动推断代理，互相传递预测误差与先验，从而把阿什比的必要多样性法则与现代控制论联系起来。文中交织了技术细节（如振荡阻尼、Kuramoto 同步、马尔可夫毯）与哲学思考（“应有”与“是”之分、梦想、组织文化）。作者既批判VSM的历史模糊，也提出可操作的数据驱动翻译，为时间依赖调节与因果涌现的进一步研究打开了实验之门。",
-    "best_quote_en": "If you’re an alien trying to stop a (European) football team that attacks one goal then it is not enough to put up rocks in the way of the team as they will just dribble past it. One of the easiest ways to block them is just to put an opposite football team to deal with the complexity of the situation, that is if faced with variety you need variety to control it.",
-    "best_quote_zh": "如果你是个外星人，想阻止一支欧洲足球队攻击一个球门，仅仅在球门前放石头是不够的，因为它们会轻松突破。最简单的办法是放一支相反的足球队来对抗这种复杂性，也就是说面对多样性时，你需要多样性来控制它。"
-  },
-  {
-    "id": 924,
-    "title": "Book Freak #219 — Deep Cut Edition",
-    "title_zh": "Book Freak #219 — 深度剪辑版",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-219-deep-cut-edition/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-24",
-    "summary_en": "Jim Tully’s 1924 memoir, *Beggars of Life*, is more than a nostalgic hobo narrative; it is a manual for radical self‑education. The author turns the itinerant life of a 14‑year‑old orphan into a rigorous apprenticeship: learning to read the rails, to beg without losing dignity, to spot danger before it arrives. Tully’s prose—lean, unadorned, and brutally honest—prefigures the hard‑boiled style that would later shape Hemingway and noir fiction. Yet he does not romanticize the road; he exposes its cruelty, the exploitation of children, the violence of railroad “bulls,” and the moral gray zones of survival. The piece invites readers to re‑frame everyday observation as disciplined practice, offering concrete exercises: write a vivid description of a stranger, treat a hobby as a vocation, or tackle a challenging book. The article thus serves as a call to active, experiential learning, blending literary history with practical self‑development. It encourages a mindset that values raw experience as a teacher, while acknowledging the transformative power of reading.",
-    "summary_zh": "《乞讨者的生活》不只是漂泊回忆，而是一份自我教育手册。作者把童年流浪的经历化作严谨的学徒训练：学会观察铁道、无耻地乞讨、预见危险。简练而无修饰的笔触预示了后来的硬汉派文学。文章不为路途美化，揭露其残酷与道德灰区。作者邀请读者将日常观察视为练习，给出写人、练习爱好、读书等具体练习。它既是文学史的见证，也是行动式学习的呼唤，强调经验与阅读的双重价值。",
-    "best_quote_en": "\"The road gave me one jewel beyond price, the leisure to read and dream. If it made me old and wearily wise at twenty, it gave me for companions the great minds of all the ages, who talked to me with royal words.\"",
-    "best_quote_zh": "“道路给了我一颗无价之宝，闲暇去读书和梦想。如果它让我在二十岁时就变得老而疲惫聪明，它给了我所有时代伟大思想家为伴，他们用华丽的话语与我对话。”"
-  },
-  {
-    "id": 925,
-    "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
-    "title_zh": "使用冥想聚焦、洞察意识并扩展思维的要点 | Dr. Sam Harris",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
-    "tags": [
-      "learn",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2026-07-23",
-    "summary_en": "In the Huberman Lab Essentials episode featuring Dr. Sam Harris, the conversation turns into a deep dive into the mechanics of meditation and its profound impact on focus, self‑awareness, and consciousness. Harris, a neuroscientist and bestselling author, frames meditation not as a luxury but as a practical tool that rewires attention, quiets mental chatter, and cultivates a “sky‑like” mind that can observe thoughts without attachment. He links these states to everyday challenges—distractibility, emotional reactivity, and the relentless inner dialogue—showing how a regular practice can sharpen present‑moment awareness and create a sense of fulfillment. The discussion also touches on the ethical dimensions of consciousness, the potential synergy with psychedelics, and the importance of intentional practice over mere goal‑setting. For listeners, the episode offers actionable guidance on how to start, sustain, and deepen a meditation routine, making the abstract science of the mind accessible and immediately useful. It invites a curious mind to question the self, experiment with mindfulness, and ultimately expand the limits of everyday cognition.",
-    "summary_zh": "在Huberman Lab Essentials节目中，Dr. Sam Harris 通过冥想阐释自我意识与专注的深层机制。他认为冥想是重塑注意力、抑制内心喧嚣的实用工具，能让我们以“天空般”的心态观察思绪。节目将此与日常分心、情绪反应等问题相连，指出规律练习可提升当下觉察与满足感，并探讨意识伦理、与迷幻药的潜在协同。对听众而言，内容提供可操作的起步与深化冥想的指导，让抽象的神经科学变得可实践，激励人们质疑自我、实验正念，扩展日常认知边界。",
-    "best_quote_en": "Meditation can help us better understand the nature of the self and transform the conscious experience.",
-    "best_quote_zh": "冥想可以帮助我们更好地理解自我的本质，并转化我们的意识体验。"
-  },
-  {
-    "id": 926,
-    "title": "What makes a woman a witch? Financial independence",
-    "title_zh": "什么让女人成为女巫？财务独立",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/26/women-witchcraft-financial-independence",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-07-25",
-    "summary_en": "The article traces how women’s pursuit of financial independence historically exposed them to witchcraft accusations, revealing a chilling intersection of gender, economics, and social control. By weaving together the case of Katherine Harrison in 17th‑century New England and the broader European witch trials, it demonstrates that property ownership and entrepreneurial agency were perceived as threats to patriarchal order. Statistical insights—such as the disproportionate prosecution of widows and female healers—underscore how economic autonomy was criminalized. The piece also connects past injustices to contemporary cultural symbols, noting that the term “witch” still carries violence even as it romanticizes female intuition. The narrative invites readers to question how modern economies may still marginalize women who defy traditional roles, urging a re‑examination of power dynamics in both history and today. It blends rigorous research with personal reflection, offering a nuanced critique of the legacy of gendered economic oppression.",
-    "summary_zh": "文章从历史角度揭示女性财务独立与社会压迫的交织，剖析巫术指控背后的性别与经济权力冲突。通过案例与数据，让我重新审视现代女性自立的隐形威胁，呼唤更公平的社会结构。",
-    "best_quote_en": "These women were aberrations in a society with an inheritance system designed to keep property in the hands of men.",
-    "best_quote_zh": "这些女性在一个旨在将财产保留在男性手中的继承制度社会中，是一种异常。"
-  },
-  {
     "id": 927,
     "title": "Why Startups Condense in America",
     "title_zh": "为什么初创企业在美国集中",
@@ -2348,5 +2230,125 @@
     "summary_zh": "音乐商界周报捕捉了 AI 与传统音乐行业交汇的关键动作：Suno 与 BMG 的全球授权协议验证了 AI 生成曲目可获利的路径；Spotify 与 Kobalt 的合作与 AI Persona 徽章彰显平台在创作与推荐中的双重监管；Suno 限制下载体现对滥用的遏制；Live Nation 的假冒商品诉讼提醒版权保护已延伸至实体商品。整体而言，内容展示了 AI 在音乐生态中的法律、伦理与商业挑战，为创作者、厂牌与技术公司提供可操作的启示。",
     "best_quote_en": "Spotify to label AI artists with new ‘AI Persona’ badge – and keep their music out of recommendations by default.",
     "best_quote_zh": "Spotify 将使用新的“AI Persona”徽章标记 AI 艺人，并默认将其音乐排除在推荐之外。"
+  },
+  {
+    "id": 1022,
+    "title": "‘We are impatient’: meet the women protesting for change in India",
+    "title_zh": "我们不耐烦：会见印度女性抗议者",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/aug/17/this-is-india-female-protesters-cockroach-janta-party-politics",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The piece weaves together a tapestry of Indian women who, from the freedom struggle to contemporary student movements, have stepped beyond domestic spheres to confront systemic injustice. It spotlights figures like Neha Bora, who fasted to demand accountability; Rhiya Ahir, a model-turned-activist who physically blocked police vans; and Danish Ali, a JNU student who dismantled a facial‑recognition system. The narrative underscores a generational impatience—an urgency to see tangible policy change—while revealing the personal costs: harassment, legal sanctions, and familial pressure. The article also situates these protests within a broader context of political exclusion, noting that electoral politics remains male‑dominated and that social media has become a new public arena. By juxtaposing historical movements such as the Chipko protests with modern activism, the author invites readers to reflect on how ordinary lives can catalyze systemic shifts. It challenges us to question the mechanisms of power, the role of gender in public life, and the evolving definition of civic engagement in a rapidly changing India.",
+    "summary_zh": "文章描绘了印度女性从自由斗争到当代学生运动的演变，凸显她们在政治与社会领域的突破与牺牲。通过聚焦Neha Bora、Rhiya Ahir、Danish Ali等人物，展现了女性在公共议题中扮演的关键角色。文章强调代际焦躁与对政策变革的迫切渴求，并将这些行动置于政治排斥与社交媒体新公共空间的背景下。历史与现代抗议的对照，促使读者思考权力机制、性别与公民参与的新定义。",
+    "best_quote_en": "Freedom for me is to have a voice – and not be ashamed.",
+    "best_quote_zh": "我们不耐烦，因为我们想看到改变。"
+  },
+  {
+    "id": 1023,
+    "title": "What Business Can Learn from Open Source",
+    "title_zh": "企业可以从开源学到什么",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/opensource.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The essay argues that the real lesson for business is not the technology itself but the underlying human dynamics that open‑source and blogging reveal. It shows that people thrive when they work on projects they love, that the rigid office model stifles creativity, and that bottom‑up ideas outperform top‑down mandates. By embracing flexible, autonomy‑driven work arrangements—home offices, 20% innovation time, and investment‑rather‑than‑salary incentives—companies can tap the same productive forces that drive Linux, Firefox, and the Web. The author also warns that the traditional employer‑employee relationship is a relic of a channel‑era economy, and that moving toward an equal‑partner model could unlock unprecedented innovation and value creation. In short, the essay invites business leaders to adopt open‑source principles—freedom, meritocracy, and community feedback—as a roadmap to future‑proof organizations.",
+    "summary_zh": "文章指出，企业真正应从开源学习的不是技术，而是人性动力：热爱工作能激发更高产，传统办公模式扼杀创新，底层激励优于顶层指令。通过灵活工作、创新时间和投资式薪酬，企业可复制 Linux、Firefox 的高效生态。作者警示，雇主‑雇员关系是陈旧的渠道时代产物，向平等伙伴模式转变将释放前所未有的创新与价值。",
+    "best_quote_en": "People work harder on stuff they like.",
+    "best_quote_zh": "人们在自己喜欢的事上会更努力工作。"
+  },
+  {
+    "id": 1024,
+    "title": "Making Fun",
+    "title_zh": "Making Fun",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/making-fun/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "The article presents a playful yet practical compendium of low‑tech, hands‑on activities that democratize creativity and learning. From the whimsical \"Stuntology\" prank manual to a step‑by‑step sand‑castle construction guide, it celebrates the joy of making without high‑end equipment. It then pivots to circus arts, underscoring how inclusive physical disciplines can empower diverse bodies and foster community. The balance‑bike section distills a child‑friendly pedagogy that prioritizes balance before propulsion, offering a concrete design example that is both economical and effective. Finally, the Flybar pogo stick is framed as a kinetic novelty that blends physics and play, with a candid caution about safety. Across the pieces, the author emphasizes the educational value of hands‑on experimentation, the importance of beginner‑friendly resources, and the role of play in skill acquisition. The piece invites readers to rediscover childhood curiosity, to experiment with simple tools, and to share the resulting wonder with others, thereby turning everyday objects into catalysts for learning and community building.",
+    "summary_zh": "本文以低技术、亲手操作的方式，展示了多种让人重拾童趣的创意活动，从恶作剧手册到沙堡建造、马戏艺术、平衡车设计，再到极限蹦床。作者强调动手实验、入门友好和安全意识，鼓励读者用简易工具培养技能，分享乐趣，构建社区。",
+    "best_quote_en": "Balance bikes teach balance before pedaling. Learning to pedal is easy if you know how to balance.",
+    "best_quote_zh": "平衡车先教你平衡，再学踩踏。只要先能平衡，踩踏就容易了。"
+  },
+  {
+    "id": 1025,
+    "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
+    "title_zh": "从悲伤与失落中疗愈 | 玛丽-弗朗西斯·奥康纳博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/healing-from-grief-loss-dr-mary-frances-oconnor",
+    "tags": [
+      "solve",
+      "ai-research",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2025-06-02",
+    "summary_en": "Dr. Mary‑Frances O’Connor, a leading clinical psychologist, demystifies grief by mapping its neurobiological and emotional circuitry. She explains how dopamine fuels yearning, and how the oscillation between protest and despair—often intertwined with guilt and anger—can trap individuals in maladaptive stages. By grounding her guidance in empirical research, she offers a toolkit that balances honoring the deceased with proactive healing: progressive muscle relaxation, environmental shifts, and reframing attachment hierarchies. Her discussion extends beyond individual loss to cultural narratives, medical risks, and the role of religion, illustrating grief as a universal yet deeply personal process. The episode is a compelling blend of science, practice, and empathy, inviting listeners to confront pain with evidence‑based strategies while honoring memory. It challenges the myth of a linear mourning path, instead presenting grief as a dynamic, iterative journey that, when navigated mindfully, can foster resilience and renewed purpose.",
+    "summary_zh": "奥康纳博士用科学阐释悲伤的神经与情感循环，揭示抑制与愤怒如何让人陷入痛苦。她提供循证工具，帮助人们在尊重逝者的同时主动疗愈，强调悲伤是动态过程，循序渐进可塑造韧性与新生。",
+    "best_quote_en": "\"Grief involves cycling back and forth between protest and despair (often guilt and anger too) and explains science‑supported ways to move through that process in the healthiest possible way.\"",
+    "best_quote_zh": "\"悲伤涉及在抗议与绝望（常伴有内疚和愤怒）之间循环往返，并且解释了基于科学的方法，以最健康的方式度过这一过程。\""
+  },
+  {
+    "id": 1026,
+    "title": "Done deal: Jamen Capital and Merlin complete acquisition of Curve Royalty Systems from Virgin Music Group",
+    "title_zh": "成交：Jamen Capital 与 Merlin 完成从 Virgin Music Group 收购 Curve Royalty Systems",
+    "source": "Music Business Worldwide",
+    "link": "https://www.musicbusinessworldwide.com/done-deal-jamen-capital-and-merlin-complete-acquisition-of-curve-royalty-systems-from-virgin-music-group/",
+    "tags": [
+      "update",
+      "startup-funding",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "The closing of Jamen Capital and Merlin’s acquisition of Curve Royalty Systems marks a pivotal moment in the independent music ecosystem. By divesting Curve from Universal Music Group (UMG), regulators secured the platform’s neutrality, a safeguard against potential data‑leakage concerns. The deal preserves Curve’s existing leadership, technology stack, and client roster—ranging from Armada to Netflix—while infusing fresh capital and strategic backing from two seasoned investors. This move underscores a broader trend of consolidation and specialization in music tech: niche platforms are being leveraged to protect data sovereignty and foster innovation. For stakeholders, the acquisition signals that independent royalty‑processing solutions can thrive autonomously, even amid larger conglomerate moves. The announcement also highlights Jamen Capital’s Pipeline initiative, which seeks to unlock IP value for indie labels, hinting at a future where financial and technological ecosystems co‑evolve. Ultimately, the transaction exemplifies how regulatory oversight, strategic investment, and sector expertise can converge to sustain a critical infrastructure that empowers independent creators.\n",
+    "summary_zh": "此次收购标志着独立音乐生态系统的重要转折。监管机构通过让Curve脱离UMG，确保其中立性，避免数据泄露风险。交易保留了Curve现有团队、技术与客户网络，同时注入了Jamen Capital和Merlin的资本与战略支持。此举凸显音乐科技行业的合并与专业化趋势：细分平台被用来维护数据主权并推动创新。对行业而言，收购表明独立版税处理平台在大型企业并购后仍可自主发展。更重要的是，Jamen Capital的Pipeline计划显示，金融与技术生态正共同演进，为独立创作者解锁IP价值。\n",
+    "best_quote_en": "“Completing this transaction gives Curve the independence, stability and backing we need for the next stage of our development.”",
+    "best_quote_zh": "完成这笔交易使 Curve 获得了我们所需的独立性、稳定性和支持，为我们下一阶段的发展奠定了基础。"
   }
 ]
