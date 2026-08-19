@@ -1,29 +1,5 @@
 [
   {
-    "id": 927,
-    "title": "Why Startups Condense in America",
-    "title_zh": "为什么初创企业在美国集中",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/america.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-07-26",
-    "summary_en": "Kenneth A. H. argues that the United States is not merely a lucky accident for Silicon Valley; it is a meticulously engineered ecosystem whose ingredients—open immigration, rich capital, flexible labor law, world‑class universities, a massive domestic market, and a culture that treats work as a fluid career—conspire to condense startups. By dissecting each pillar, the essay turns what is often taken for granted into a set of actionable levers: loosen immigration rules, lower capital‑gain taxes, simplify incorporation, and nurture a dynamic, university‑driven talent pipeline. The piece is both a diagnostic report and a playbook, drawing on anecdote, comparative data, and a clear‑eyed critique of European and Asian models. It invites policymakers and entrepreneurs alike to ask: can we replicate, or even surpass, the American formula? The answer lies in balancing openness with infrastructure, and ambition with tangible support.",
-    "summary_zh": "作者通过剖析美国的移民开放、资本丰厚、灵活劳工法、顶尖高校、庞大内需和流动职业观，揭示了硅谷为何在美国凝聚的深层机制。文章既是诊断报告，也是行动手册，提出放宽移民、降低资本利得税、简化注册、培育大学驱动的人才链等可操作杠杆。它促使政策制定者和创业者思考：我们能否复制甚至超越美国模式？答案在于开放与基础设施、雄心与支持的平衡。在全球竞争日益激烈的背景下，这一论述提醒我们，创新生态不是偶然，而是制度与文化的协同产物。",
-    "best_quote_en": "The US allows immigration. For example, I doubt it would be possible to reproduce Silicon Valley in Japan, because one of Silicon Valley's most distinctive features is immigration.",
-    "best_quote_zh": "美国允许移民。例如，我怀疑在日本复制硅谷是可能的，因为硅谷最具特色的因素之一就是移民。"
-  },
-  {
     "id": 928,
     "title": "Simple Dutch books versus Sleeping Beauty halfers",
     "title_zh": "简单的多米尼克赌局与睡美人半分者",
@@ -2350,5 +2326,29 @@
     "summary_zh": "此次收购标志着独立音乐生态系统的重要转折。监管机构通过让Curve脱离UMG，确保其中立性，避免数据泄露风险。交易保留了Curve现有团队、技术与客户网络，同时注入了Jamen Capital和Merlin的资本与战略支持。此举凸显音乐科技行业的合并与专业化趋势：细分平台被用来维护数据主权并推动创新。对行业而言，收购表明独立版税处理平台在大型企业并购后仍可自主发展。更重要的是，Jamen Capital的Pipeline计划显示，金融与技术生态正共同演进，为独立创作者解锁IP价值。\n",
     "best_quote_en": "“Completing this transaction gives Curve the independence, stability and backing we need for the next stage of our development.”",
     "best_quote_zh": "完成这笔交易使 Curve 获得了我们所需的独立性、稳定性和支持，为我们下一阶段的发展奠定了基础。"
+  },
+  {
+    "id": 1027,
+    "title": "Bernie Sanders Takes on Data Centers",
+    "title_zh": "伯尼·桑德斯谈数据中心",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/bernie-sanders-takes-on-data-centers",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The New Yorker interview with Senator Bernie Sanders uncovers a clash between the relentless expansion of AI‑driven data centers and the growing ecological and societal alarm. Sanders, backed by Alexandria Ocasio‑Cortez, pushes for a nationwide moratorium to give lawmakers time to weigh energy use, water consumption, and privacy implications. The piece frames the debate as a cross‑party, cross‑sector struggle—conservatives, progressives, and moderates alike voice bewildered frustration. What emerges is a critique of unchecked corporate power, a call for public input, and an urgent reminder that the tech boom can’t outpace democratic oversight. Readers are invited to reconsider the cost of “innovation” and to question whether the current model of data infrastructure truly serves the public good. The article serves as a timely case study on how policy, technology, and ethics intersect, urging a future‑focused, data‑driven approach to regulation.",
+    "summary_zh": "本篇《纽约客》访谈聚焦伯尼·桑德斯关于数据中心的立场，揭示 AI 驱动的中心扩张与生态与社会担忧的冲突。桑德斯与奥巴马共同提议全国暂停，强调能源、水资源与隐私问题，呼吁公众参与。文章展示跨党派的关注，批评大型企业的无视公众利益，强调技术发展不能凌驾于民主监督之上，提醒创新成本与公共利益的平衡。",
+    "best_quote_en": "They’re saying, What the hell are we doing? What is this gonna contribute to? Is this gonna result in my kid not being able to have a job? Is this gonna result in my not having any privacy? Why am I aiding these large corporations owned by the wealthiest people in the world who [couldn’t] care less about me? Let’s stand up.",
+    "best_quote_zh": "他们在说：我们到底在做什么？这会带来什么贡献？这会导致我的孩子失业吗？这会让我失去隐私吗？为什么我要帮助这些由世界最富有的人拥有的大公司，它们对我毫不在乎？让我们站出来。"
   }
 ]
