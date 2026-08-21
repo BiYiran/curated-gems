@@ -1,121 +1,5 @@
 [
   {
-    "id": 933,
-    "title": "Five things I learned from 630 days of writing online",
-    "title_zh": "我在网上写作630天学到的五件事",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xr2fvyne2EBeEQ3Yz/five-things-i-learned-from-630-days-of-writing-online-1",
-    "tags": [
-      "learn",
-      "education",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "In this candid reflection, the author distills 630 days of daily online writing into five distilled lessons that resonate with anyone who has ever stared at a blank screen. First, the power of beginning with a question—an invitation to explore rather than a final answer—shifts the creative process from a rigid agenda to an open dialogue. Second, the practice of “thinking in ideas” transforms every encounter into a potential post, turning mundane conversations into fertile ground for content. Third, the habit of capturing ideas on the fly—whether in a book, a call, or a walk—highlights the importance of a disciplined yet flexible workflow that respects the spontaneous nature of inspiration. Fourth, allowing ideas to mature in the mind before drafting them acknowledges that clarity often emerges with distance, a lesson that counters the urge to publish immediately. Finally, the realization that a niche can evolve organically rather than be pre‑chosen underscores the iterative nature of personal branding. Together, these insights form a practical roadmap for writers seeking to cultivate consistency, authenticity, and depth in their online voice.",
-    "summary_zh": "作者把630天写作经验浓缩为五条实用法则：先提问题、随时捕捉灵感、让想法在心中成熟、以及让细分领域随创作而生。此文既是写作指南，也是对自我成长的深刻反思。",
-    "best_quote_en": "You can start with a question instead of an answer",
-    "best_quote_zh": "你可以先从问题开始，而不是答案"
-  },
-  {
-    "id": 934,
-    "title": "How Netanyahu’s Top General Became His Strongest Challenger",
-    "title_zh": "内塔尼亚胡的最高将军成为他最强劲的挑战者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/08/03/how-netanyahus-top-general-became-his-strongest-challenger",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "The article chronicles Gadi Eisenkot’s transformation from a revered IDF chief into a formidable political challenger to Israel’s longest‑serving prime minister, Benjamin Netanyahu. Eisenkot’s personal tragedy—losing a son in the October 7th Hamas attack—humanizes him and fuels a narrative of sacrifice and democratic fragility. The piece juxtaposes his military credentials with his political aspirations, highlighting his appeal to the “soft right” and his promise to restore a “Jewish, democratic, progressive, and liberal state.” It also examines Netanyahu’s survival tactics, the coalition’s fractured dynamics, and the broader geopolitical fallout, including U.S. disengagement and the risk of an intensified regional war. By weaving firsthand accounts, strategic insights, and the emotional weight of loss, the article invites readers to interrogate Israel’s political future, the role of military figures in governance, and the delicate balance between security and democratic values. The narrative underscores how personal grief can catalyze political change in a nation torn between tradition and transformation.",
-    "summary_zh": "文章描绘了以色列前国防部长加迪·艾森科特如何因个人悲剧而转型为内塔尼亚胡的强大政治挑战者。艾森科特失去儿子后，成为牺牲与民主脆弱性的象征，吸引“软右翼”选民，承诺重塑犹太、民主、进步与自由的国家。文章同时剖析内塔尼亚胡的维权策略、联盟分裂与更广泛的地缘政治后果，包括美国的疏远与地区战争风险。通过第一手采访、战略洞察与情感共鸣，文章促使读者思考以色列未来、军事人物在治理中的角色以及安全与民主价值的微妙平衡。",
-    "best_quote_en": "We prevented a very wrong decision, because, according to the Washington Post, if we were to attack in Lebanon then, we would have realized Sinwar’s strategic vision to bring about an immediate regional war.",
-    "best_quote_zh": "我们阻止了一个非常错误的决定，因为据《华盛顿邮报》报道，如果我们在黎巴嫩发动攻击，我们会意识到辛瓦尔的战略愿景是立即引发地区战争。"
-  },
-  {
-    "id": 935,
-    "title": "Inconspicuous Consumption / Navigating by aliveness / Mini electric shaver",
-    "title_zh": "不显眼的消费 / 以活力导航 / 迷你电动剃须刀",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/inconspicuous-consumption-navigating-by-aliveness-mini-electric-shaver/",
-    "tags": [
-      "inspire",
-      "design",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-07-26",
-    "summary_en": "This eclectic collection stitches together micro‑obsessions, philosophical checks for aliveness, practical gadget reviews, cultural mashups, and bite‑size business wisdom. The first piece celebrates the beauty of overlooked details—vertical shirt buttons, butter hues—inviting readers to pause and savor the mundane. The second frames aliveness as a compass for AI‑era choices, urging us to adopt technology only when it aligns with core values, much like the Amish. A brief review of a USB‑C shaver highlights how design can merge convenience and sustainability. The Bardcore mashup reminds us of music’s timeless adaptability, while the “Text as Music” tool turns prose into rhythmic visual art. Finally, Seth Godin’s micro‑ideas challenge conventional scaling logic, advocating a focus on worth and progress over perfection. Together, these snippets provoke reflection on attention, value, and intentional living, offering practical prompts and philosophical fodder for readers seeking depth in everyday moments.",
-    "summary_zh": "这篇杂记把细节迷恋、活力导航、实用小工具、文化混搭和商业小结串联成一幅生活与思考的画卷。它提醒我们：关注细微可见之美，科技需与价值契合，设计要兼顾便利与可持续，音乐与文字能互相映照，商业思维更应关注价值与进步而非单纯规模。",
-    "best_quote_en": "The question shouldn’t be, “does it scale?” Instead, it might be, “is it worth it?”",
-    "best_quote_zh": "问题不应该是‘它能否扩展？’，而应该是‘它值得吗？’"
-  },
-  {
-    "id": 936,
-    "title": "‘Why do I feel crappy?’: women are learning about their luteal phases - and Maha is weaponizing it",
-    "title_zh": "‘我为什么感觉糟糕？’：女性正在了解她们的黄体期——Maha正在将其武器化",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-07-23",
-    "summary_en": "The article traces a rapid surge in public discourse around the luteal phase, the 14‑day window after ovulation that many women now identify as the source of mood swings, bloating, and cravings.  Social‑media memes, TikTok hashtags, and wellness influencers have turned a physiological concept into a shared language of empowerment—yet the same platforms also spread hyperbolic, even pathologizing narratives.  The piece critiques how conservative “Maha” adherents weaponize this knowledge to promote pronatalism, discourage birth‑control use, and sell a market of “PMS bars” and aromatherapy.  Simultaneously, medical professionals highlight the lack of accurate sexual‑health education and the risk of misdiagnosis, especially of PMDD.  By juxtaposing grassroots self‑awareness with political manipulation and commercial opportunism, the article invites readers to question the authenticity of online health narratives and to seek evidence‑based guidance.",
-    "summary_zh": "文章揭示黄体期话题的爆炸式传播，既是女性自我认知的力量，也是保守派政治与商业利益的武器。它批判了社交媒体上夸张化、病理化的叙事，警示对医疗信息的误读与缺失，并呼吁用科学、证据为基础的健康教育。",
-    "best_quote_en": "It’s wonderful to see those patients go from being absolutely miserable almost a quarter of their life, where [PMDD] is affecting their relationships, to being themselves again.",
-    "best_quote_zh": "我不想在黄体期被人看见。"
-  },
-  {
-    "id": 937,
-    "title": "The Hardest Lessons for Startups to Learn",
-    "title_zh": "创业最艰难的教训",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/startuplessons.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-07-28",
-    "summary_en": "Silicon Valley’s veteran investor distills decades of funding experience into a set of counterintuitive rules that feel almost like a startup cheat‑sheet. He insists that the fastest way to win is to ship a bare‑bones version of your product—\"release early, but release minimal\"—and then iterate relentlessly. The essay frames continuous feature pumping as both engineering discipline and marketing strategy, arguing that a startup’s survival hinges on its ability to keep users happy and to listen to them. Determination, not brilliance, emerges as the single most critical founder trait, and the author warns against over‑optimism, misplaced fear of big incumbents, and complacency when no visible competitors exist. He also reminds founders that the market is never saturated: there will always be room for new ideas, and the real danger is internal inertia or ignoring users. The piece blends anecdote, data, and contrarian wisdom, offering a pragmatic playbook that challenges conventional startup lore.",
-    "summary_zh": "这篇文章像一份创业速成手册，作者用十年的投资经验拆解出一套逆向思维：先发布最小可行产品，再快速迭代；持续推出功能既是技术磨练，也是营销手段；最重要的不是天才，而是坚定的决心。作者警示过度乐观、恐慌大公司、忽视用户会让创业者失去方向。并强调市场永不饱和，真正的威胁来自内部僵化和不听用户。整篇文字兼具案例、数据与反直觉智慧，给创业者提供实用、可操作的思维框架。",
-    "best_quote_en": "You can't fake this. The only way to convince everyone that you're ready to fight to the death is actually to be ready to.",
-    "best_quote_zh": "你不能伪装。唯一说服大家你已准备好“拼死一搏”的方式，就是实际上做好准备。"
-  },
-  {
     "id": 938,
     "title": "Somebody out there wants you to fetch coffee",
     "title_zh": "有人想让你去拿咖啡",
@@ -2352,5 +2236,123 @@
     "summary_zh": "十五年后，Michelle回顾从学生贷款到财务自由的旅程，强调“一件小决定改变了整个人生”。她的故事既是激励案例，也是实用指南，鼓励读者敢于起步、勇于实验、重视生活质量。",
     "best_quote_en": "One small decision changed the direction of my entire life.",
     "best_quote_zh": "一件小决定改变了我整个生活的方向。"
+  },
+  {
+    "id": 1033,
+    "title": "The Submarine",
+    "title_zh": "潜艇",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/submarine.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "The article exposes PR as the hidden submarine of mainstream media, a silent engine that steers headlines and shapes public perception. It argues that PR firms are not merely dishonest; they supply reporters with “valuable” stories that are true but framed to favor clients. By feeding the same narrative to multiple outlets, PR creates self‑reinforcing buzz, turning marketing budgets into a form of search‑engine optimization for the news. The author illustrates this with the recurring “suit is back” trend, showing how a single press release can spin into a nationwide story. The piece urges readers to develop a critical lens: question not only the truth of a story but why it was written. It highlights the shift from print to online, where bloggers’ more candid voices are gaining credibility, and suggests that PR must adapt to new gatekeepers. Overall, it blends case studies, insider anecdotes, and a critique of media ethics, offering both a warning and a call to smarter media literacy.",
+    "summary_zh": "文章揭示了公关行业像潜艇一样悄无声息地潜入主流媒体，操纵头条并塑造公众认知。作者指出，公关并非单纯的欺骗，而是为记者提供“有价值”的真相故事，只是以利于客户的角度呈现。通过将同一叙事投递至多家媒体，公关制造自我强化的热度，类似于新闻的搜索引擎优化。以“西装回归”趋势为例，单一新闻稿可被转化为全国性话题。文章呼吁读者培养批判性视角：既要质疑信息真伪，也要探究其背后动机。它还指出，随着博客和网络媒体的崛起，真实性更易被读者信任，公关需适应新门槛。整体上，文章兼具案例、内幕与媒体伦理批判，既警示又激发更智能的媒介素养。",
+    "best_quote_en": "PR is the news equivalent of search engine optimization; instead of buying ads, which readers ignore, you get yourself inserted directly into the stories.",
+    "best_quote_zh": "公关是新闻的搜索引擎优化的等价物；你不买广告，而是让自己直接插入故事中。"
+  },
+  {
+    "id": 1034,
+    "title": "After Six Months of War, Trump Is Still Losing to Iran",
+    "title_zh": "战事六个月后，特朗普仍在输给伊朗",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/global-notes/after-six-months-of-war-trump-is-still-losing-to-iran",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "After six months of war, Trump's campaign against Iran has turned into a strategic debacle, exposing the limits of U.S. power and the resilience of Tehran's regime. The piece traces the deteriorating conditions aboard the USS Abraham Lincoln, the mounting civilian casualties, and the failure to achieve key objectives such as neutralizing Iran’s nuclear program or closing the Strait of Hormuz. By weaving firsthand accounts from military officials, expert analysis from scholars, and on-the-ground reporting, the article offers a nuanced assessment of how Trump's hawkish posture has eroded American credibility, spurred regional realignment, and deepened domestic opposition. It underscores that the war’s costs—human, economic, and political—outweigh any tactical gains, and that the U.S. faces a hard‑earned lesson about the limits of unilateral force. Readers gain a data‑driven, expert‑insightful lens into why the conflict is a strategic loss for Washington, and what it signals for future U.S. foreign policy.",
+    "summary_zh": "六个月的伊朗战争让特朗普的军事行动变成战略失利。文章结合舰队士兵的苦况、伊朗平民伤亡与未达目标，揭示美国实力受挫、地区格局重塑及国内反对加剧。通过专家解读与实地报道，呈现数据驱动、观点深刻的分析，阐明战争成本高于任何战术收益，并警示美国单边武力的局限性。读者可从中洞察为何此冲突是华盛顿的战略败局，以及对未来外交政策的深远启示。",
+    "best_quote_en": "Trump has trapped himself into an unwinnable war for America.",
+    "best_quote_zh": "特朗普把自己逼入了美国无法赢得的战争。"
+  },
+  {
+    "id": 1035,
+    "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+    "title_zh": "要点：如何开启你的创造力 | 里克·鲁宾",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "In this episode of Huberman Lab Essentials, neuroscientist Andrew Huberman sits down with legendary producer Rick Rubin to unpack the anatomy of creativity. Rubin reframes the creative process as a series of phases—awareness, experimentation, and synthesis—each supported by psychological tools like focus, disengagement, and meditation. He argues that self‑doubt is not a barrier but a catalyst, urging listeners to trust their taste and remain present. The discussion moves fluidly from childhood openness to the role of external feedback, deadlines, and even pro‑wrestling as a metaphor for playfulness. Rubin’s advice is grounded in experiential anecdotes, making the insights highly actionable for artists, entrepreneurs, and anyone seeking to unlock authentic output. The episode blends neuroscience, psychology, and practical routines, offering a holistic framework that invites listeners to observe ideas, test hypotheses, and embrace uncertainty. It’s a concise, expert‑led guide that turns abstract concepts into concrete habits, encouraging a shift from “creative block” to “creative flow.”",
+    "summary_zh": "在这期Huberman Lab Essentials节目中，神经科学家安德鲁·胡伯曼与传奇制作人里克·鲁宾对话，剖析创造力的本质。鲁宾把创造过程拆解为意识、实验与合成三阶段，并强调专注、放松与冥想等心理工具。自我怀疑被视为创作的催化剂，鼓励听众信任直觉并保持专注。讨论从童年开放性到外部反馈、截止期限，再到摔跤式的玩乐比喻，内容丰富而实用。鲁宾的建议基于亲身经验，适用于艺术家、创业者和任何渴望突破的创作者。节目将神经科学、心理学与日常习惯相结合，提供一套可操作的框架，帮助人们从“创作瓶颈”走向“创作流”。",
+    "best_quote_en": "Self‑doubt as a creative tool",
+    "best_quote_zh": "自我怀疑是创造力的工具"
+  },
+  {
+    "id": 1036,
+    "title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/20/relationship-tools-transcript/",
+    "tags": [
+      "solve",
+      "psychology",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This episode turns a seemingly simple question—how to stay close over time—into a deep exploration of relational science, practical rituals, and emotional repair. Esther Perel opens with daily appreciation and letter‑writing as low‑effort, high‑impact habits that keep intimacy alive. Brené Brown introduces the 80/20 energy metric, a pragmatic way to balance give‑and‑take without the illusion of perfect parity. Brad Feld shares his life‑dinner ritual, a monthly retrospective and sprint‑planning session that turns conflict into structured conversation. Jim Dether explains conscious candor, distinguishing fact from story to create safety. Sheila Heen and Dr. Sue Johnson unpack the “hold me tight” conversation, a vulnerability‑based dialogue that re‑establishes trust. Terry Real offers a repair framework, framing conflict as a service‑oriented response rather than a back‑and‑forth argument. Together, the guests weave research, anecdote, and actionable tools into a comprehensive playbook for lasting love.\n",
+    "summary_zh": "本期节目以“如何长期保持亲密”为核心，汇聚多位关系专家的研究与实践。Perel强调日常感恩与书信，Brown提出80/20能量模型，Feld分享每月一次的生活晚餐回顾与计划，Dether阐述事实与故事的区别，Heen与Johnson讲解“紧握”对话的力量，Real则提供修复框架。节目将科学、案例与可操作工具融合，构成持久爱情的实用指南。",
+    "best_quote_en": "Repair is a one‑way street. Everybody gets that wrong. It’s not a dialogue.",
+    "best_quote_zh": "修复是一条单向街道。大家都误解了。它不是对话。"
+  },
+  {
+    "id": 1037,
+    "title": "Things I Stopped Pretending I Needed in My 30s",
+    "title_zh": "我在30岁时停止假装需要的事物",
+    "source": "Making Sense of Cents",
+    "link": "https://www.makingsenseofcents.com/2026/08/things-i-stopped-pretending-i-needed-in-my-30s.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-08-03",
+    "summary_en": "The article chronicles a mid‑career epiphany: a 30‑year‑old writer confronts the illusion of perpetual productivity, trend‑chasing, and success metrics. By embracing the wisdom of *Four Thousand Weeks*, he reframes time as a finite resource and learns to ask whether an item or expectation truly serves his life’s purpose. The piece offers a practical, reflective framework—questioning necessity, assessing usage, and recognizing non‑physical clutter such as comparison, obligation, and hustle culture. Readers gain actionable insight into intentional consumption, mental decluttering, and redefining success, all grounded in personal narrative and concrete book recommendations. The tone is conversational yet thoughtful, inviting self‑audit and a lighter, purpose‑driven lifestyle.",
+    "summary_zh": "文章记录了作者在30岁时对“持续生产力”“跟随潮流”“成功标准”的幻觉进行的深刻反思。通过《四千周》所传递的时间有限观念，作者重新审视物质与非物质需求，提出实用的自我检验方法：询问必要性、使用频率、内在动机等。文章帮助读者摆脱心理杂物，重新定义成功与生活方式，鼓励以更轻盈、目标明确的态度面对日常。",
+    "best_quote_en": "Time is limited. We have to be intentional about how we use it.",
+    "best_quote_zh": "时间有限。我们必须有意识地使用它。"
   }
 ]
